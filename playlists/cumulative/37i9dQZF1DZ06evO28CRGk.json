@@ -54,6 +54,32 @@
     {
       "album": {
         "name": "A Solas",
+        "url": "https://open.spotify.com/album/2Z7sUS9lqXTN9MP4iMYXEb"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147301,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/36gLIPyS5HNsf8XCn5oP5k"
+    },
+    {
+      "album": {
+        "name": "A Solas",
         "url": "https://open.spotify.com/album/3ZZnHpqJ7DA3GYMJDIxiDY"
       },
       "artists": [
@@ -738,7 +764,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 34066,
       "name": "Cartunes (Skit)",
       "url": "https://open.spotify.com/track/50TSzIe1MYKhisQNWd2Kh1"
@@ -1634,7 +1660,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 180036,
       "name": "Fro Armstrong",
       "url": "https://open.spotify.com/track/0Dj6QsaAEkO1iUvB545pYm"
@@ -1716,7 +1742,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 345813,
       "name": "Garri Kasparow",
       "url": "https://open.spotify.com/track/4fiK2HSueG8QBQSbmD3h5g"
@@ -2650,7 +2676,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 315369,
       "name": "Kartagina",
       "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
@@ -3210,7 +3236,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 162951,
       "name": "Makin' Up",
       "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"

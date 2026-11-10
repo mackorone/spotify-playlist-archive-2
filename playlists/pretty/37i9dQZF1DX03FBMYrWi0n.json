@@ -1,6 +1,6 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Laura Niquay",
-  "num_followers": 10336,
+  "num_followers": 10351,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "DES FOIS DANSER",
-        "url": "https://open.spotify.com/album/6rWNACy0stQJ3cS8zHPcRU"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 134878,
-      "name": "attends minute!",
-      "url": "https://open.spotify.com/track/25DOZnnizcymQ4LQXWQsko"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
         "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 219800,
       "name": "l'avenir et moi",
       "url": "https://open.spotify.com/track/1QOlHb6o44ke1EYGTmGn1s"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "DES FOIS DANSER",
+        "url": "https://open.spotify.com/album/6rWNACy0stQJ3cS8zHPcRU"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 134878,
+      "name": "attends minute!",
+      "url": "https://open.spotify.com/track/25DOZnnizcymQ4LQXWQsko"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Tigre et diesel",
-        "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "Piste 1",
-      "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 254053,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "Tigre et diesel",
+        "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "Piste 1",
+      "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "The Flower Is Dying",
-        "url": "https://open.spotify.com/album/4C1AJtcBhRADqRriJhjqH3"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 205553,
-      "name": "The Flower Is Dying",
-      "url": "https://open.spotify.com/track/5GDeNuqlcovfVNoai7FtsN"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "Amaro",
         "url": "https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188111,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/7ju5clDlfi2w1Busf1TjJT"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "The Flower Is Dying",
+        "url": "https://open.spotify.com/album/4C1AJtcBhRADqRriJhjqH3"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "duration_ms": 205553,
+      "name": "The Flower Is Dying",
+      "url": "https://open.spotify.com/track/5GDeNuqlcovfVNoai7FtsN"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -923,38 +923,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "M\u00e9t\u00e9ore",
-        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 137379,
-      "name": "M\u00e9t\u00e9ore",
-      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "Sofort, Si Fort",
-        "url": "https://open.spotify.com/album/33GOfl5Ketn68EijWcLkFe"
-      },
-      "artists": [
-        {
-          "name": "Yoo Doo Right",
-          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Sofort, Si Fort",
-      "url": "https://open.spotify.com/track/20P2z18pce5v5wPLtSYEfb"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "Requiems",
         "url": "https://open.spotify.com/album/2BmmdZYovmaDjO6PbXrYsi"
       },
@@ -967,6 +935,22 @@
       "duration_ms": 269480,
       "name": "Requiem II",
       "url": "https://open.spotify.com/track/3on6lHEfvaSjmCAaMxQ1Fh"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "M\u00e9t\u00e9ore",
+        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
+      },
+      "artists": [
+        {
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+        }
+      ],
+      "duration_ms": 137379,
+      "name": "M\u00e9t\u00e9ore",
+      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -987,6 +971,22 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
+        "name": "Sofort, Si Fort",
+        "url": "https://open.spotify.com/album/33GOfl5Ketn68EijWcLkFe"
+      },
+      "artists": [
+        {
+          "name": "Yoo Doo Right",
+          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Sofort, Si Fort",
+      "url": "https://open.spotify.com/track/20P2z18pce5v5wPLtSYEfb"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
         "name": "Petcimote Ote",
         "url": "https://open.spotify.com/album/6bdKzMFTr3D3kynLZLOhxu"
       },
@@ -999,54 +999,6 @@
       "duration_ms": 223453,
       "name": "Petcimote Ote",
       "url": "https://open.spotify.com/track/5mdKZOm9YtRGGMIsiRKmaJ"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/1pBrdXujAE8sqU6R0JQnZ5"
-      },
-      "artists": [
-        {
-          "name": "Les Shirley",
-          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
-        }
-      ],
-      "duration_ms": 158986,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/3RY2ZZ9CYeWh7spVMEABtZ"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "Tastes like Filth",
-        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
-      },
-      "artists": [
-        {
-          "name": "Beautiful Hotnes",
-          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
-        }
-      ],
-      "duration_ms": 139570,
-      "name": "Dah Bahs",
-      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "\u00c9ther",
-        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Lisbonne",
-      "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1067,18 +1019,50 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/6WrUFUEwbqmsfG6YLUHWww"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/1pBrdXujAE8sqU6R0JQnZ5"
       },
       "artists": [
         {
-          "name": "Fleeting Colours",
-          "url": "https://open.spotify.com/artist/2PCSx52krNo1ngn9H1tdBB"
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
         }
       ],
-      "duration_ms": 148306,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/3ISM1I1EBOpxY9HOWU4Yjn"
+      "duration_ms": 158986,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/3RY2ZZ9CYeWh7spVMEABtZ"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "\u00c9ther",
+        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Lisbonne",
+      "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "Tastes like Filth",
+        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Hotnes",
+          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
+        }
+      ],
+      "duration_ms": 139570,
+      "name": "Dah Bahs",
+      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1099,6 +1083,22 @@
       "duration_ms": 213011,
       "name": "Shrala",
       "url": "https://open.spotify.com/track/1C97sB0JL8ANe6tczFSEvz"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/6WrUFUEwbqmsfG6YLUHWww"
+      },
+      "artists": [
+        {
+          "name": "Fleeting Colours",
+          "url": "https://open.spotify.com/artist/2PCSx52krNo1ngn9H1tdBB"
+        }
+      ],
+      "duration_ms": 148306,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/3ISM1I1EBOpxY9HOWU4Yjn"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Bingo!",
-        "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
       },
       "artists": [
         {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+          "name": "Oli F\u00e9ra",
+          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
         }
       ],
-      "duration_ms": 127493,
-      "name": "Nah Nah",
-      "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
+      "duration_ms": 229355,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
+        "name": "Bingo!",
+        "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Nah Nah",
+      "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
         "name": "Doldrums, Doldrums, Eviler Than the Devil",
         "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 367386,
       "name": "Doldrums, Doldrums, Eviler Than the Devil",
       "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
-      },
-      "artists": [
-        {
-          "name": "Oli F\u00e9ra",
-          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
-        }
-      ],
-      "duration_ms": 229355,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Daredevil",
-        "url": "https://open.spotify.com/album/76zNXO4xFXdDjxY9st9zBJ"
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
       },
       "artists": [
         {
-          "name": "Crimson99",
-          "url": "https://open.spotify.com/artist/4MqxhJPhBtuNQU4fy4lkIT"
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
         }
       ],
-      "duration_ms": 327893,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/2CzBHpemQrtHCNfX10qwYy"
+      "duration_ms": 214618,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1479,34 +1479,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/76zNXO4xFXdDjxY9st9zBJ"
       },
       "artists": [
         {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+          "name": "Crimson99",
+          "url": "https://open.spotify.com/artist/4MqxhJPhBtuNQU4fy4lkIT"
         }
       ],
-      "duration_ms": 214618,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "Promesse",
-        "url": "https://open.spotify.com/album/6kk0JtmBDiYgA0ubPf5wU6"
-      },
-      "artists": [
-        {
-          "name": "\u00c9l\u00e9gie",
-          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
-        }
-      ],
-      "duration_ms": 214741,
-      "name": "Promesse",
-      "url": "https://open.spotify.com/track/2vt6l1dsKhKchk0AxMjHiX"
+      "duration_ms": 327893,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/2CzBHpemQrtHCNfX10qwYy"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
+        "name": "Promesse",
+        "url": "https://open.spotify.com/album/6kk0JtmBDiYgA0ubPf5wU6"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "duration_ms": 214741,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/2vt6l1dsKhKchk0AxMjHiX"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
         "name": "Amaro",
         "url": "https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "On s'en fout",
-        "url": "https://open.spotify.com/album/614Ohtsx9VloGd5gteGZ3F"
-      },
-      "artists": [
-        {
-          "name": "PRINCESSES",
-          "url": "https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "On s'en fout",
-      "url": "https://open.spotify.com/track/2eXCndL43pMclj3Q2SzVmV"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "Peine perdue",
         "url": "https://open.spotify.com/album/5IU3d7WxI4lFBSgfpc0ZNs"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 192723,
       "name": "Peine perdue",
       "url": "https://open.spotify.com/track/29O7jNWJvYpJYuCmsmEQ4E"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "On s'en fout",
+        "url": "https://open.spotify.com/album/614Ohtsx9VloGd5gteGZ3F"
+      },
+      "artists": [
+        {
+          "name": "PRINCESSES",
+          "url": "https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "On s'en fout",
+      "url": "https://open.spotify.com/track/2eXCndL43pMclj3Q2SzVmV"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Le ciel",
-        "url": "https://open.spotify.com/album/57PmeWLS7xJcIOVpoHV9LG"
+        "name": "Claudia",
+        "url": "https://open.spotify.com/album/3xfS34oDQeqgE61cq2e5jI"
       },
       "artists": [
         {
-          "name": "Bixi Boys",
-          "url": "https://open.spotify.com/artist/5YB8nQbaCBRR9tw4qbuT9e"
+          "name": "Encore Malade",
+          "url": "https://open.spotify.com/artist/6GLrqvjwNFZD25AmaV2XD0"
         }
       ],
-      "duration_ms": 150549,
-      "name": "Le ciel",
-      "url": "https://open.spotify.com/track/6KJi2isnsoz6CRV43yRHj8"
+      "duration_ms": 132877,
+      "name": "Claudia",
+      "url": "https://open.spotify.com/track/7AMbEu0blbjmtpyPEnbkgE"
     }
   ],
   "unique_name": "ALT_QC",

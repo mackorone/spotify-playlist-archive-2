@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,233 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,265 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 45 | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 |
 | 46 | [Di Maria](https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Di Maria](https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH) | 2:54 |
 | 47 | [No Level](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 4:00 |
-| 48 | [RAPPER](https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 3:32 |
-| 49 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
-| 50 | [Phumela](https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [Phumela](https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW) | 3:00 |
+| 48 | [Phumela](https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [Phumela](https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW) | 3:00 |
+| 49 | [RAPPER](https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 3:32 |
+| 50 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
 | 51 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
 | 52 | [NBA](https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [NBA](https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK) | 2:49 |
 | 53 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 82996,
+  "num_followers": 83036,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAeFyRPlMsmVhnZoeM5KBng",
+  "snapshot_id": "au+7gAAAAAA6iJS9jdGw54aXtPm+M75K",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABIA DELUXE",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "WA SA BI",
+      "url": "https://open.spotify.com/track/1RlPZ11yk37DeOEAySwTvB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SABIA DELUXE",
-        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "WA SA BI",
-      "url": "https://open.spotify.com/track/1RlPZ11yk37DeOEAySwTvB"
     },
     {
       "added_at": null,
@@ -339,22 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+        "name": "SABIA DELUXE",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
         }
       ],
-      "duration_ms": 167954,
-      "name": "mi droga",
-      "url": "https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF"
+      "duration_ms": 139369,
+      "name": "LA QUE ME AGARR\u00c9",
+      "url": "https://open.spotify.com/track/7HFELXpj48Cbk0tSHZCrmb"
     },
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABIA DELUXE",
-        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 139369,
-      "name": "LA QUE ME AGARR\u00c9",
-      "url": "https://open.spotify.com/track/7HFELXpj48Cbk0tSHZCrmb"
+      "duration_ms": 167954,
+      "name": "mi droga",
+      "url": "https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buenas Rachas",
         "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polvo Soy",
-        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Polvo Soy",
-      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
     },
     {
       "added_at": null,

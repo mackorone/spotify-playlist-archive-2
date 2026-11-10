@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,287 likes - 90 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,293 likes - 90 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 29 | [Let Her Cry](https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 5:18 |
 | 30 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 31 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
-| 32 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
-| 33 | [Runaway Train \(2022 Remaster\)](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:26 |
+| 32 | [Runaway Train \(2022 Remaster\)](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:26 |
+| 33 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 34 | [Only Wanna Be With You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 35 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 36 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 86 | [Just A Girl](https://open.spotify.com/track/1VA38sp5Jr6vWxgoIcnxKN) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 3:28 |
 | 87 | [Wonderwall](https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory?](https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs) | 4:18 |
 | 88 | [Scooby Snacks](https://open.spotify.com/track/0AwxXvGoYpioYfJeafgvTD) | [Fun Lovin' Criminals](https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv) | [Come Find Yourself](https://open.spotify.com/album/4U0j2a6r5avOlqkeYHY6i5) | 3:04 |
-| 89 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
-| 90 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
+| 89 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
+| 90 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
 
 Snapshot ID: `AAAAAKOF8LhPTpLY8iXEwSfbe+fMYkUB`

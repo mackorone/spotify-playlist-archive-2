@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,786 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,828 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [Sarcophagus II](https://open.spotify.com/track/2vaciFbhcEWGr8loxKyWSp) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Meet Me Where the River Turns Grey](https://open.spotify.com/album/76hYvDqTeYbU6mdJSK2jRN) | 3:05 |
 | 50 | [2009 Reggie Bush](https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:24 |
 
-Snapshot ID: `au5qAAAAAABRok9BW/FXX0Q10Rgq322y`
+Snapshot ID: `au+7gAAAAAACugQjQ40KYF6uGx26evVH`

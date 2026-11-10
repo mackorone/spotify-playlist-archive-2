@@ -207,18 +207,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Sanremo grande amore",
-        "url": "https://open.spotify.com/album/3Ugt1E8Ft5I0Ry1cLUdMIi"
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
       },
       "artists": [
         {
-          "name": "Il Volo",
-          "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Grande amore",
-      "url": "https://open.spotify.com/track/4hWQaCHO3k3bTYi8AozKTE"
+      "duration_ms": 200428,
+      "name": "Ovunque Sarai",
+      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+        "name": "Sanremo grande amore",
+        "url": "https://open.spotify.com/album/3Ugt1E8Ft5I0Ry1cLUdMIi"
       },
       "artists": [
         {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+          "name": "Il Volo",
+          "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
         }
       ],
-      "duration_ms": 200428,
-      "name": "Ovunque Sarai",
-      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
+      "duration_ms": 224946,
+      "name": "Grande amore",
+      "url": "https://open.spotify.com/track/4hWQaCHO3k3bTYi8AozKTE"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
         "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Vado al massimo (Remastered)",
-        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 243866,
-      "name": "Vado al massimo",
-      "url": "https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo"
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -575,6 +559,22 @@
       "duration_ms": 164000,
       "name": "farfalle",
       "url": "https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Vado al massimo (Remastered)",
+        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Vado al massimo",
+      "url": "https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Canta En Italiano",
+        "url": "https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Noi Ragazzi Di Oggi",
+      "url": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Fai rumore",
         "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 216140,
       "name": "Fai rumore",
       "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Terra promessa",
-      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Canta En Italiano",
-        "url": "https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz"
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 221865,
-      "name": "Noi Ragazzi Di Oggi",
-      "url": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76"
+      "duration_ms": 223520,
+      "name": "Terra promessa",
+      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Due Parole",
+        "url": "https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7"
+      },
+      "artists": [
+        {
+          "name": "Carmen Consoli",
+          "url": "https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Amore Di Plastica",
+      "url": "https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/1og5fGuVXjSWeAGQMkfLrX"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 296533,
       "name": "Non amarmi",
       "url": "https://open.spotify.com/track/0YRMOyyJw458JBQhZMEvce"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Due Parole",
-        "url": "https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7"
-      },
-      "artists": [
-        {
-          "name": "Carmen Consoli",
-          "url": "https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Amore Di Plastica",
-      "url": "https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH"
     },
     {
       "added_at": "2026-01-25 23:01:06",

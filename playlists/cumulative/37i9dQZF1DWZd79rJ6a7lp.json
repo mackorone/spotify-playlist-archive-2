@@ -3505,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Believing",
+        "url": "https://open.spotify.com/album/5IxDllhvpokK3X7klLTdzQ"
+      },
+      "artists": [
+        {
+          "name": "The Nightgate",
+          "url": "https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Believing",
+      "url": "https://open.spotify.com/track/1ehKwBvItKceTptAdV7ogD"
+    },
+    {
+      "album": {
         "name": "Salute",
         "url": "https://open.spotify.com/album/5tmW9KiHtYeZM5Gsx0VH8C"
       },
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 176000,
       "name": "Between Spaces",
       "url": "https://open.spotify.com/track/7nvjIHMHFMoh6Sabzs4pfX"
@@ -14133,6 +14151,24 @@
     },
     {
       "album": {
+        "name": "Immaculate Calm",
+        "url": "https://open.spotify.com/album/6bGXl2dD4R55mBSwWVx3LN"
+      },
+      "artists": [
+        {
+          "name": "Casiamty",
+          "url": "https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150234,
+      "name": "Immaculate Calm",
+      "url": "https://open.spotify.com/track/2Z7SPTRiMqAvImXvqWcIwR"
+    },
+    {
+      "album": {
         "name": "Impressions",
         "url": "https://open.spotify.com/album/2sMBKaZUtiOglxHdp9Kyaz"
       },
@@ -23426,7 +23462,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 173574,
       "name": "Reminiscent",
       "url": "https://open.spotify.com/track/6TgJe4W98MgWQnKG0AhxB9"
@@ -23448,6 +23484,24 @@
       "duration_ms": 491146,
       "name": "Renewal",
       "url": "https://open.spotify.com/track/7kgNuTgyO9T26DGV6aXptE"
+    },
+    {
+      "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/1fzMxIOroEp7PIAg5Y1zD2"
+      },
+      "artists": [
+        {
+          "name": "Sera Lunare",
+          "url": "https://open.spotify.com/artist/1bxnFTrDiY5pFyaPGXqkOc"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145645,
+      "name": "Renewal",
+      "url": "https://open.spotify.com/track/4RfxK9mx3XJnIusdxDH1Oj"
     },
     {
       "album": {
@@ -26396,7 +26450,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 147120,
       "name": "Soft Motion",
       "url": "https://open.spotify.com/track/3Ipoa7Kov8VllQGwO0HfH6"
@@ -27872,7 +27926,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 191666,
       "name": "Still Chasm",
       "url": "https://open.spotify.com/track/4dK3gGBjZWHFDCST5JseEJ"
@@ -29107,6 +29161,24 @@
     },
     {
       "album": {
+        "name": "The Analytical Mind",
+        "url": "https://open.spotify.com/album/68ofYk30YfJagW0aD3iVLz"
+      },
+      "artists": [
+        {
+          "name": "Auraberg",
+          "url": "https://open.spotify.com/artist/7BIMR3wDBhIzyzkYe24BwJ"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "The Analytical Mind",
+      "url": "https://open.spotify.com/track/5gRqKtFgYcNWFSNCHFbc2d"
+    },
+    {
+      "album": {
         "name": "The Arco",
         "url": "https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ"
       },
@@ -29244,7 +29316,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 194624,
       "name": "The Frost Line",
       "url": "https://open.spotify.com/track/64JVF5lbu1ntooT77veOgN"

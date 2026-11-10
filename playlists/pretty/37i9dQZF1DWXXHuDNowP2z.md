@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,609 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,634 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 29 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 30 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
 | 31 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
-| 32 | [Limonadas Verdes](https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [Limonadas Verdes](https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c) | 3:01 |
-| 33 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 |
+| 32 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 |
+| 33 | [Limonadas Verdes](https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [Limonadas Verdes](https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c) | 3:01 |
 | 34 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
 | 35 | [No Pares](https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [20 Exitos de Ley](https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1) | 3:39 |
 | 36 | [Las Nachas](https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:15 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 71 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
 | 72 | [El Rezado](https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 3:31 |
 | 73 | [El Ki Ki Ki](https://open.spotify.com/track/7xSF9MUJboslefs58TO6SB) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [El Baile Pegao](https://open.spotify.com/album/2INomV2WHXbqK89I6GMVHC) | 3:19 |
-| 74 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 |
-| 75 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
+| 74 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
+| 75 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 |
 | 76 | [Sal y Limón \(Huapango\)](https://open.spotify.com/track/7dSL9q8K1bHpePd2S02AKs) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 2:49 |
 | 77 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
 | 78 | [Es Parte Del Show](https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Es Parte Del Show](https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx) | 2:53 |
@@ -136,9 +136,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 126 | [Jambalaya](https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 2:37 |
 | 127 | [LA CUMBIA DEL CASTOR](https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [LA CUMBIA DEL CASTOR](https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy) | 4:10 |
 | 128 | [Agachadita](https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Agachadita](https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY) | 3:15 |
-| 129 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
-| 130 | [Cuando Los Frijoles Bailan](https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 1](https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr) | 2:59 |
-| 131 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 129 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 130 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
+| 131 | [Cuando Los Frijoles Bailan](https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 1](https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr) | 2:59 |
 | 132 | [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 |
 | 133 | [Ya No Me Mires Asi](https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 3:05 |
 | 134 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 |

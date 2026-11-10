@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,618 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,621 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 11 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 | 12 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
 | 13 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 |
-| 14 | [Bandido](https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Atraparé Bandido](https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2) | 2:59 |
-| 15 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
+| 14 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
+| 15 | [Bandido](https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Atraparé Bandido](https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2) | 2:59 |
 | 16 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
 | 17 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 |
 | 18 | [El Taxi](https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Dale](https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm) | 4:09 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 38 | [Antes Muerta Que Sencilla](https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Antes Muertas Que Sencillas](https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO) | 2:50 |
 | 39 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
 | 40 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 |
-| 41 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 |
-| 42 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 |
+| 41 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 |
+| 42 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 |
 | 43 | [Sabes A Chocolate](https://open.spotify.com/track/4KCIR5WfyhPPeTy8KQzMXf) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 3:47 |
 | 44 | [Y Yo Sigo Aqui \- Spanglish](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
 | 45 | [Fiesta](https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 3:17 |

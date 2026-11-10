@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Mariana Soane y Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 12407,
+  "num_followers": 12426,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,18 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Ll\u00e9vate",
-        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Ll\u00e9vate",
-      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
+      "duration_ms": 175822,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -375,18 +371,22 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "Ll\u00e9vate",
+        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 175822,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
+      "duration_ms": 190626,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Una Palomita - En Vivo",
-      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "No M\u00e1s Canciones De Amor",
         "url": "https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 151909,
       "name": "No M\u00e1s Canciones De Amor",
       "url": "https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Una Palomita - En Vivo",
+      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
     },
     {
       "added_at": "2026-10-16 18:41:53",

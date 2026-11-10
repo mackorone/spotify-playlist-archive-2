@@ -1,12 +1,12 @@
 {
   "description": "This is Chappell Roan. The essential tracks, all in one playlist.",
-  "num_followers": 2135,
+  "num_followers": 2134,
   "original_name": "This Is Chappell Roan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADeHopwIFIWP+TGz+IQ2Uhu",
+  "snapshot_id": "au+7gAAAAAD4BS1jhZwtrAG0QFhJNkIm",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/1dqJRtnoU6vZj23txgerYQ"
+      "duration_ms": 192880,
+      "name": "Good Hurt",
+      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Good Hurt",
-      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
+      "duration_ms": 219653,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/1dqJRtnoU6vZj23txgerYQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Skepta, Lil Baby, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,199 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,274 likes - 61 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 28 | [I'm The Prize](https://open.spotify.com/track/4yHtn2HyecammB4soMiQFm) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo) | [I'm The Prize](https://open.spotify.com/album/0slyDRgOOfoXjcl06qdlmq) | 2:49 |
 | 29 | [The Misunderstood Truth](https://open.spotify.com/track/3m9yVFhsyOj3XKlQQlxtLU) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [The Misunderstood Truth](https://open.spotify.com/album/2NTmtHUIsHHW5m60GrfQHM) | 3:49 |
 | 30 | [D&F](https://open.spotify.com/track/263OqKSYmWiIj8mWW7WCvt) | [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [D&F](https://open.spotify.com/album/439xolAytv4gEEJXQjYFkr) | 3:01 |
-| 31 | [Tortured Soul](https://open.spotify.com/track/0Hfwoer3Tsl1XgGRxT26Qj) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [2DEAD BOYZ](https://open.spotify.com/artist/4JuXkitoXoAUH9cLRjVOre), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC) | [Tortured Soul](https://open.spotify.com/album/12S6YU95ArugyhIOhd1v00) | 3:40 |
+| 31 | [Tortured $oul](https://open.spotify.com/track/0Hfwoer3Tsl1XgGRxT26Qj) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [2DEAD BOYZ](https://open.spotify.com/artist/4JuXkitoXoAUH9cLRjVOre), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC) | [Tortured $oul](https://open.spotify.com/album/12S6YU95ArugyhIOhd1v00) | 3:40 |
 | 32 | [Eye Shine](https://open.spotify.com/track/0N8dNpsLAXEGPVu4jcTTtH) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6) | [Expensive Taste](https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu) | 3:43 |
 | 33 | [STOVIE'S HOME \(Down Down\)](https://open.spotify.com/track/2oK53gU1lJtA06XtJ7RnUP) | [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [STOVIE'S HOME \(Down Down\)](https://open.spotify.com/album/6tdmXDqSDQF3MXbgrhBCRZ) | 3:46 |
 | 34 | [feelings](https://open.spotify.com/track/4zjpxkm5U4eo5Rfr42x31v) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [WITH LOVE III](https://open.spotify.com/album/0nQSAk6kEKDaoKJGxh6ifA) | 3:09 |

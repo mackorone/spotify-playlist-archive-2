@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 173 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 173 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,15 +139,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 129 | [Out of This World](https://open.spotify.com/track/47mWCYAYOuLlQULZ5CxgmY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:29 |
 | 130 | [Spiral](https://open.spotify.com/track/5H4bI4Sk5tCMgBRTOU5XkS) | [Rebecca Clements](https://open.spotify.com/artist/3e13PrKuO8pPF0nt8I1zII) | [Spiral](https://open.spotify.com/album/2LPwS46wjPwkWDmeyH0Evj) | 3:43 |
 | 131 | [Lovebug](https://open.spotify.com/track/2pFRr20vrPWveznPTwQADB) | [Zoe Nash](https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5) | [Lovebug](https://open.spotify.com/album/62PT5tJV8q2LhXZwbMlAk1) | 3:09 |
-| 132 | [Devilish](https://open.spotify.com/track/667e12dKpBCoEHdklKzYIJ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:44 |
-| 133 | [Weight On Me](https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Weight On Me](https://open.spotify.com/album/4Se8RHq2O13HbDeGeSxPVM) | 2:28 |
+| 132 | [Weight On Me](https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Weight On Me](https://open.spotify.com/album/4Se8RHq2O13HbDeGeSxPVM) | 2:28 |
+| 133 | [Devilish](https://open.spotify.com/track/667e12dKpBCoEHdklKzYIJ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:44 |
 | 134 | [Like I Loved You](https://open.spotify.com/track/5muegCnW652zCwuklts55e) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/4OiI1TaZbM2NBOCWEeGM4c) | 3:32 |
 | 135 | [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 |
 | 136 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 |
 | 137 | [All Yours Again](https://open.spotify.com/track/3x3diAZ3AuNCyPnmwxKmQN) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 2:47 |
 | 138 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 |
 | 139 | [Storm Warning](https://open.spotify.com/track/2A5c5E66FvZGhVtqPIyBXg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 2:22 |
-| 140 | [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 |
+| 140 | [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 |
 | 141 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
 | 142 | [Small Town Syndrome](https://open.spotify.com/track/5zcZWauQFIqz90488s06Xn) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Small Town Syndrome](https://open.spotify.com/album/1YMO805X4i11iqElzNXfjB) | 2:59 |
 | 143 | [Dream State](https://open.spotify.com/track/2ZxAVcdUhb3yoq1UAfOE4K) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [Dream State](https://open.spotify.com/album/6p0HoxC5QE98NkCSTIngpN) | 3:46 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 172 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 173 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AchJ2AAAAABxXDxyJYMrkBFmYKUI2qya`
+Snapshot ID: `AchP8AAAAACCBKfQsu2pVIdazYGpUE63`

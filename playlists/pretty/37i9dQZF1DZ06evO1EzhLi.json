@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 182620,
+  "num_followers": 182631,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABZHrTAoBO7SQCCcPPatErt",
+  "snapshot_id": "au+7gAAAAACWyK6xwM2NYB6GYsH3ryoM",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
+      "duration_ms": 176346,
+      "name": "One Light",
+      "url": "https://open.spotify.com/track/6sIYRzeM8ke76g4zudDJF1"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 176346,
-      "name": "One Light",
-      "url": "https://open.spotify.com/track/6sIYRzeM8ke76g4zudDJF1"
+      "duration_ms": 227800,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
       "duration_ms": 194266,
       "name": "It's Not Me",
       "url": "https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/65NzNVv3O6nxffiXXeL9ZT"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/65NzNVv3O6nxffiXXeL9ZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seventeen Days",
         "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Long Day",
-      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Us And The Night",
         "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 218146,
       "name": "Pieces Of Me",
       "url": "https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Better Life (20th Anniversary / Deluxe)",
         "url": "https://open.spotify.com/album/2drHOqyJSkIzS3zFUWMjMF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 184840,
       "name": "Man In My Mind - Escatawpa Sessions",
       "url": "https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Pop Song",
+      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
     },
     {
       "added_at": null,

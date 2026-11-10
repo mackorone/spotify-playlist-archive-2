@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49210,
+  "num_followers": 49220,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Tropico Del Capricorno",
-        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "Gazelle (feat. Ele A)",
-      "url": "https://open.spotify.com/track/4vqY8SB6XArs7IkEpWHTw9"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "MORENDO AD OCCHI APERTI",
         "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 138352,
       "name": "MONTANA (feat. RRARI DAL TACCO)",
       "url": "https://open.spotify.com/track/1BxMEw38wEwSRWwywaRxu4"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Tropico Del Capricorno",
+        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "Gazelle (feat. Ele A)",
+      "url": "https://open.spotify.com/track/4vqY8SB6XArs7IkEpWHTw9"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "60Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 233786,
       "name": "Bolo By Night (feat. Royal Mehdi)",
       "url": "https://open.spotify.com/track/4gK772wfiVeCFHNVGLsHfF"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Sindrome di Stendhal",
-      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 172151,
+      "name": "Sindrome di Stendhal",
+      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "CHIODI",
-        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "L'uomo dei sogni",
-      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "URLAMI",
         "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 181599,
       "name": "URLAMI",
       "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "CHIODI",
+        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 248791,
+      "name": "L'uomo dei sogni",
+      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2275,6 +2275,30 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Guns & Butter",
+        "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
+      },
+      "artists": [
+        {
+          "name": "Click Head",
+          "url": "https://open.spotify.com/artist/56aUoplmbKn4XspyEbhAfs"
+        },
+        {
+          "name": "Lvnar",
+          "url": "https://open.spotify.com/artist/4mZyPH71jJJCVoui8Q3n3O"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Cassaforte (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/3oS5RnHrBilRqYm2z2gj0u"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "4 MANI",
         "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
       },
@@ -2299,30 +2323,6 @@
       "duration_ms": 219053,
       "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
       "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Guns & Butter",
-        "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
-      },
-      "artists": [
-        {
-          "name": "Click Head",
-          "url": "https://open.spotify.com/artist/56aUoplmbKn4XspyEbhAfs"
-        },
-        {
-          "name": "Lvnar",
-          "url": "https://open.spotify.com/artist/4mZyPH71jJJCVoui8Q3n3O"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Cassaforte (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/3oS5RnHrBilRqYm2z2gj0u"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2619,6 +2619,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
+      },
+      "artists": [
+        {
+          "name": "Doye",
+          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
+        },
+        {
+          "name": "Giovane Platone",
+          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
+        }
+      ],
+      "duration_ms": 96741,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Aspromonte a Roma",
         "url": "https://open.spotify.com/album/1xcJ0lk89vxauxOI8kpgpc"
       },
@@ -2639,26 +2659,6 @@
       "duration_ms": 205958,
       "name": "Putiferio",
       "url": "https://open.spotify.com/track/00WXXmVD40vXn9gS3CxNuG"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
-      },
-      "artists": [
-        {
-          "name": "Doye",
-          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
-        },
-        {
-          "name": "Giovane Platone",
-          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
-        }
-      ],
-      "duration_ms": 96741,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-05-29 09:57:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: M!LK
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,992 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,987 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

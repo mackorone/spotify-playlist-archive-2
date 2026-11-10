@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,814 likes - 43 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,817 likes - 43 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 12 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 |
 | 13 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 |
 | 14 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 |
-| 15 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
-| 16 | [Antes de Morirme \- feat\. ROSALÍA](https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9) | 3:19 |
+| 15 | [Antes de Morirme \- feat\. ROSALÍA](https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9) | 3:19 |
+| 16 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 | 17 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 |
 | 18 | [Sexo, Violencia y Llantas](https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:20 |
 | 19 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 30 | [Jeanne](https://open.spotify.com/track/7CTwREqLgmaxQngztZrJNd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 3:51 |
 | 31 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
 | 32 | [DI MI NOMBRE \- Cap.8: Éxtasis](https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:42 |
-| 33 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
-| 34 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 |
+| 33 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 |
+| 34 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 35 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
 | 36 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
 | 37 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 42 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
 | 43 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 |
 
-Snapshot ID: `au5qAAAAAADHtO288tsl1TiPfrOZNxr0`
+Snapshot ID: `au+7gAAAAACZyv4qxo2mMaGOQ2AK2LJG`

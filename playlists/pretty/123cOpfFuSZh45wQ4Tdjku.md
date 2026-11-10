@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,324 likes - 586 songs - 1 day 5 hr 4 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,324 likes - 588 songs - 1 day 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -594,5 +594,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 584 | [My Friends](https://open.spotify.com/track/1F6VxHY1kEkF00zZovDSj3) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:21 |
 | 585 | [Jack of Hearts](https://open.spotify.com/track/4TGYsqn0ca4DedYQPxrQ5t) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:23 |
 | 586 | [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 |
+| 587 | [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/track/16oMZrqeEEEEmsyTEjTqfe) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/album/5ZCN8F3DPxvplmfVJmpwuL) | 2:25 |
+| 588 | [Play Crack The Sky](https://open.spotify.com/track/1IzfZHQaAD3WRmy2E5uM60) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Play Crack The Sky](https://open.spotify.com/album/44vu7kx1XYz4gazJPzC8pZ) | 4:34 |
 
-Snapshot ID: `AAACIg5BULVcNMv4EmGkGtZfe+1EBt7g`
+Snapshot ID: `AAACJJdxzhNT3l0Z/l+i5cCvn220PKjU`

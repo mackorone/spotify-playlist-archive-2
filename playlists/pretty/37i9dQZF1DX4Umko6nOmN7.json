@@ -1,12 +1,12 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 609452,
+  "num_followers": 609451,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALg07AgvYfP2updm6Ki6I/9L8k7j",
+  "snapshot_id": "AAAAABAIh0L3vGggEVdoQbqe3O9CBM6P",
   "tracks": [
     {
       "added_at": "2026-11-05 14:19:35",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-11-05 14:19:35",
       "album": {
-        "name": "From The Jump (Duet Version)",
-        "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 231765,
-      "name": "From The Jump (Duet Version)",
-      "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
-    },
-    {
-      "added_at": "2026-11-05 14:19:35",
-      "album": {
         "name": "Feeling Good (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 239299,
       "name": "Feeling Good - triple j Like A Version",
       "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
+    },
+    {
+      "added_at": "2026-11-05 14:19:35",
+      "album": {
+        "name": "From The Jump (Duet Version)",
+        "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 231765,
+      "name": "From The Jump (Duet Version)",
+      "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
     },
     {
       "added_at": "2026-11-05 14:19:35",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-11-05 14:19:35",
       "album": {
-        "name": "First Heartbreak",
-        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 180486,
-      "name": "First Heartbreak",
-      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
-    },
-    {
-      "added_at": "2026-11-05 14:19:35",
-      "album": {
         "name": "Stockholm \u00e4r f\u00f6r stort",
         "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
@@ -1143,22 +1127,6 @@
       "duration_ms": 185421,
       "name": "Stockholm \u00e4r f\u00f6r stort",
       "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
-    },
-    {
-      "added_at": "2026-11-05 14:19:35",
-      "album": {
-        "name": "Fotografi",
-        "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Fotografi",
-      "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
     },
     {
       "added_at": "2026-11-05 14:19:35",
@@ -1179,18 +1147,34 @@
     {
       "added_at": "2026-11-05 14:19:35",
       "album": {
-        "name": "Ellen Krauss \u2013 Acoustic Versions",
-        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
+        "name": "Fotografi",
+        "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
       },
       "artists": [
         {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
         }
       ],
-      "duration_ms": 168874,
-      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
-      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
+      "duration_ms": 201680,
+      "name": "Fotografi",
+      "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+    },
+    {
+      "added_at": "2026-11-05 14:19:35",
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "added_at": "2026-11-05 14:19:35",
@@ -1207,6 +1191,22 @@
       "duration_ms": 193253,
       "name": "L\u00e5ngsamt - Piano Version",
       "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
+    },
+    {
+      "added_at": "2026-11-05 14:19:35",
+      "album": {
+        "name": "Ellen Krauss \u2013 Acoustic Versions",
+        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 168874,
+      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
+      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
     },
     {
       "added_at": "2026-11-05 14:19:35",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-11-05 14:19:35",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
-    },
-    {
-      "added_at": "2026-11-05 14:19:35",
-      "album": {
         "name": "f\u00f6r oss",
         "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 181000,
       "name": "f\u00f6r oss",
       "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
+    },
+    {
+      "added_at": "2026-11-05 14:19:35",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "added_at": "2026-11-05 14:19:35",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-11-05 14:19:35",
       "album": {
-        "name": "Mirror (Deluxe)",
-        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175550,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
-    },
-    {
-      "added_at": "2026-11-05 14:19:35",
-      "album": {
         "name": "P\u00e5 svenska",
         "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 243760,
       "name": "R\u00f6da sten",
       "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
+    },
+    {
+      "added_at": "2026-11-05 14:19:35",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "added_at": "2026-11-05 14:19:35",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-11-05 14:19:35",
       "album": {
-        "name": "Back To My Roots",
-        "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Back To My Roots - Acoustic Version",
-      "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
-    },
-    {
-      "added_at": "2026-11-05 14:19:35",
-      "album": {
         "name": "Oh love",
         "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 256047,
       "name": "Oh love",
       "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
+    },
+    {
+      "added_at": "2026-11-05 14:19:35",
+      "album": {
+        "name": "Back To My Roots",
+        "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Back To My Roots - Acoustic Version",
+      "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
     },
     {
       "added_at": "2026-11-05 14:19:35",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2026-11-05 14:19:35",
       "album": {
-        "name": "I dina armar",
-        "url": "https://open.spotify.com/album/78oAKgGqyzH7aePn6IIB83"
+        "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
+        "url": "https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        },
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
         }
       ],
-      "duration_ms": 166973,
-      "name": "I dina armar",
-      "url": "https://open.spotify.com/track/4RT8RRIp5Asy5i9zg0IPOX"
+      "duration_ms": 186354,
+      "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
+      "url": "https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

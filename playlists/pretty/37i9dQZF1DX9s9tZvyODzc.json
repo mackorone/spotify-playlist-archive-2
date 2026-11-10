@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 226831,
+  "num_followers": 226884,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-11-05 21:27:56",
       "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
+    },
+    {
+      "added_at": "2026-11-05 21:27:56",
+      "album": {
         "name": "TURR4ZO",
         "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 208379,
       "name": "PUMAS",
       "url": "https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y"
-    },
-    {
-      "added_at": "2026-11-05 21:27:56",
-      "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2026-11-05 21:27:56",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-11-05 21:27:56",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
-    },
-    {
-      "added_at": "2026-11-05 21:27:56",
-      "album": {
         "name": "El Paso Gigante",
         "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 265691,
       "name": "Casi q' me pierdo",
       "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2026-11-05 21:27:56",
+      "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
     },
     {
       "added_at": "2026-11-05 21:27:56",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-11-05 21:27:56",
       "album": {
-        "name": "Golpes en el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 211268,
-      "name": "Golpes en el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2026-11-05 21:27:56",
-      "album": {
         "name": "Hotel Miranda!",
         "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2Io2LJQRWDMfhhfqPu2KG1"
+    },
+    {
+      "added_at": "2026-11-05 21:27:56",
+      "album": {
+        "name": "Golpes en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 211268,
+      "name": "Golpes en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
     },
     {
       "added_at": "2026-11-05 21:27:56",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-11-05 21:27:56",
       "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Nos Veremos Otra Vez",
+      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
+    },
+    {
+      "added_at": "2026-11-05 21:27:56",
+      "album": {
         "name": "Me Cans\u00e9",
         "url": "https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 199457,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z"
-    },
-    {
-      "added_at": "2026-11-05 21:27:56",
-      "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Nos Veremos Otra Vez",
-      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
     },
     {
       "added_at": "2026-11-05 21:27:56",

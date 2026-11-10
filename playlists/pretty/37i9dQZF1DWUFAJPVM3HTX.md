@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys?si=8b6a208728704a91"> Chuka, The Destroyer</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,906 likes - 130 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,973 likes - 130 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 129 | [F.O.O.L](https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Deposit](https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU) | 2:22 |
 | 130 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 
-Snapshot ID: `AAAAAGrZh9QaE4dwIxvT6znZfzDlrxAy`
+Snapshot ID: `AAAAAImL4uoXYJJxkHekvjiHgJk0+mWI`

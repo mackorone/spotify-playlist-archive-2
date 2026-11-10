@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 846076,
+  "num_followers": 846083,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Seven Days in Sunny June",
-      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Miracle Mile",
-        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 239413,
-      "name": "Kahlil Gibran",
-      "url": "https://open.spotify.com/track/7zXDaRvqkduUhDUGdhHsap"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 219727,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Miracle Mile",
+        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 239413,
+      "name": "Kahlil Gibran",
+      "url": "https://open.spotify.com/track/7zXDaRvqkduUhDUGdhHsap"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -815,6 +815,26 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 189284,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
-        "name": "Anticipate",
-        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 189284,
-      "name": "Anticipate",
-      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Telling The Truth",
-        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
-      },
-      "artists": [
-        {
-          "name": "Willie Wright",
-          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Nantucket Island",
-      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "If Words Were Flowers",
         "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 168066,
       "name": "If Words Were Flowers",
       "url": "https://open.spotify.com/track/2q2q3t7Eke7DoNhnxPXeDG"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Telling The Truth",
+        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
+      },
+      "artists": [
+        {
+          "name": "Willie Wright",
+          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Nantucket Island",
+      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "People Settle Down",
-      "url": "https://open.spotify.com/track/4Bz4E8HofJLXXP9qvYZCUH"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Addicted To You",
         "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 250933,
       "name": "Two Trees",
       "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "People Settle Down",
+      "url": "https://open.spotify.com/track/4Bz4E8HofJLXXP9qvYZCUH"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Damn It All",
         "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 227600,
       "name": "Tell Me With Your Eyes (Just Be You)",
       "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2026-10-13 21:47:39",

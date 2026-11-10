@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,738 likes - 91 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,747 likes - 91 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 23 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
 | 24 | [Aviona](https://open.spotify.com/track/32nZKAfw3w29hqZDZYlM9T) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Aviona](https://open.spotify.com/album/0OuOxijE7o3dXj1cTAYdsv) | 2:31 |
 | 25 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/3NclV41VD0EXndIyPekaeW) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
-| 26 | [preso](https://open.spotify.com/track/2CVpQ2AnL2I2XvnORd7WXo) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 2:33 |
-| 27 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 |
+| 26 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 |
+| 27 | [preso](https://open.spotify.com/track/2CVpQ2AnL2I2XvnORd7WXo) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 2:33 |
 | 28 | [Caramel](https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Caramel](https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI) | 2:14 |
 | 29 | [Hora Loca](https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hora Loca](https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8) | 3:11 |
 | 30 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |

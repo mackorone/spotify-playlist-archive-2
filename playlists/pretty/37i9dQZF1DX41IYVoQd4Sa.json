@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d1\u05d9\u05ea\u05e8 \u05d1\u05e0\u05d0\u05d9",
-  "num_followers": 34674,
+  "num_followers": 34679,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -851,18 +851,22 @@
     {
       "added_at": "2026-11-05 22:00:24",
       "album": {
-        "name": "In Spring",
-        "url": "https://open.spotify.com/album/1yD4MRnUKZHnvMY009QhZM"
+        "name": "Sun & Lemonade",
+        "url": "https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ"
       },
       "artists": [
         {
-          "name": "Rasco",
-          "url": "https://open.spotify.com/artist/0wEDHyJEC4MRFEDd1TAmw0"
+          "name": "Loren Peled",
+          "url": "https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh"
+        },
+        {
+          "name": "Daniella Pick",
+          "url": "https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp"
         }
       ],
-      "duration_ms": 191320,
-      "name": "In Spring",
-      "url": "https://open.spotify.com/track/5lMgYrdMFn9yvseb8xI3lp"
+      "duration_ms": 179000,
+      "name": "Sun & Lemonade",
+      "url": "https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

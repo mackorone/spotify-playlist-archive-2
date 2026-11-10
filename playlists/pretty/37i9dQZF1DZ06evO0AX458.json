@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAwhep7Wnrnzossj1Ld78vL",
+  "snapshot_id": "au+7gAAAAABsY7mD2WWSX/r767bWGKRH",
   "tracks": [
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 110333,
-      "name": "Home Away from Here",
-      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
+      "duration_ms": 152985,
+      "name": "Honest Sleep",
+      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 152985,
-      "name": "Honest Sleep",
-      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+      "duration_ms": 110333,
+      "name": "Home Away from Here",
+      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiral In A Straight Line",
-        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 175934,
-      "name": "Force of Habit",
-      "url": "https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6"
+      "duration_ms": 137520,
+      "name": "Just Exist",
+      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Survived By",
-        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+        "name": "Spiral In A Straight Line",
+        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 137520,
-      "name": "Just Exist",
-      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
+      "duration_ms": 175934,
+      "name": "Force of Habit",
+      "url": "https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 97429,
-      "name": "And Now It's Happening in Mine",
-      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 97429,
+      "name": "And Now It's Happening in Mine",
+      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Covers Vol. 1",
         "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 210154,
       "name": "Hard to Explain",
       "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 92976,
-      "name": "History Reshits Itself",
-      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
     },
     {
       "added_at": null,
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 44418,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
+      "duration_ms": 92976,
+      "name": "History Reshits Itself",
+      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
     },
     {
       "added_at": null,
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 63000,
-      "name": "Swimming with Sharks",
-      "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
+      "duration_ms": 44418,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
     },
     {
       "added_at": null,
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 98517,
-      "name": "Suckerfish",
-      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
+      "duration_ms": 63000,
+      "name": "Swimming with Sharks",
+      "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 185653,
       "name": "Non Fiction",
       "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 98517,
+      "name": "Suckerfish",
+      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
     }
   ],
   "unique_name": "This Is Touch\u00e9 Amor\u00e9",

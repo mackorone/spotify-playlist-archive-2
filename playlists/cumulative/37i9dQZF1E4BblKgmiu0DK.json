@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Bif Naked, Cherri Bomb and more",
+  "description": "With Cherri Bomb, Die Mannequin, The Nearly Deads and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 218040,
       "name": "Act the Part",
       "url": "https://open.spotify.com/track/0Hb3riTYesom2D7IremJ3h"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 156477,
       "name": "Boy with a Bike",
       "url": "https://open.spotify.com/track/1ECFwfx0VdQaCWnI6Liwut"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 253846,
       "name": "Divine",
       "url": "https://open.spotify.com/track/50S1t4twWPp2FgUAhZZkRc"
@@ -4249,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "Final Girl",
+        "url": "https://open.spotify.com/album/38ntB5i6bbFPwXNLxVlsyf"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose Raymond",
+          "url": "https://open.spotify.com/artist/6bIQwKjPxX67vM8vd5YN1X"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203018,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/2qe19jo8HT2ANwVDULMHi2"
+    },
+    {
+      "album": {
         "name": "Trail of Gold",
         "url": "https://open.spotify.com/album/2RSp8m8DzZBDwYwi2regC7"
       },
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 156683,
       "name": "Funeral Of A Good Grrl",
       "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
@@ -5492,7 +5510,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 216693,
       "name": "Headstone",
       "url": "https://open.spotify.com/track/3bQncwb8OmzEnY94GiqJB9"
@@ -5690,7 +5708,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -6862,7 +6880,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -9396,7 +9414,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 211291,
       "name": "Not Listening",
       "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
@@ -10592,7 +10610,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 190112,
       "name": "Pull The Plug",
       "url": "https://open.spotify.com/track/0t7H9ydtYwnx0eXQzdd6e6"
@@ -11778,7 +11796,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "So Annoying",
       "url": "https://open.spotify.com/track/4WY8gGOm7OQqO0iaMX7vml"
@@ -11868,7 +11886,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -13642,7 +13660,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 252000,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/1WX9CgOPMWD74YP53yzxEK"
@@ -13894,7 +13912,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 214365,
       "name": "Watch Your Back",
       "url": "https://open.spotify.com/track/3ZJ0WxCCmaNT21AH1irYZQ"
@@ -13912,7 +13930,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 177890,
       "name": "Watching You Watching Her",
       "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
@@ -13930,7 +13948,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 253136,
       "name": "We Should Never Be Alone",
       "url": "https://open.spotify.com/track/4brZGwllzw61JLPFM7hnbt"
@@ -13984,7 +14002,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > be my own housewife!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,284 likes - 88 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,275 likes - 88 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

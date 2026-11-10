@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150,265 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,150,257 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 37 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
 | 38 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
 | 39 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
-| 40 | [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 |
-| 41 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
+| 40 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
+| 41 | [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 |
 | 42 | [tolerance](https://open.spotify.com/track/6hCHlNGUPq5nAUSVPGPEhT) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [tolerance](https://open.spotify.com/album/4sIcBCrZRD6yStBxSF3BnE) | 3:13 |
 | 43 | [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 |
 | 44 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 45 | [cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 |
-| 46 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
-| 47 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
+| 46 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
+| 47 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 48 | [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 |
 | 49 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 |
 | 50 | [Years Roll By](https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Years Roll By](https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i) | 3:09 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 80 | [Cherry Red Balloon](https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Cherry Red Balloon](https://open.spotify.com/album/2gEE29RM7xDqWrhFcEio9P) | 2:37 |
 | 81 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 82 | [July](https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [July](https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9) | 3:13 |
-| 83 | [Shapeshifter](https://open.spotify.com/track/63E52izHIaZMmONzrAiXQE) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Shapeshifter](https://open.spotify.com/album/2zHJc1o17idGVzSLfF2ueI) | 3:18 |
-| 84 | [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 |
-| 85 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
+| 83 | [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 |
+| 84 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
+| 85 | [Shapeshifter](https://open.spotify.com/track/63E52izHIaZMmONzrAiXQE) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Shapeshifter](https://open.spotify.com/album/2zHJc1o17idGVzSLfF2ueI) | 3:18 |
 | 86 | [Ordinary, Extraordinary](https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ordinary, Extraordinary](https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm) | 3:24 |
 | 87 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
 | 88 | [If Only With You](https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If Only With You](https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ) | 3:14 |

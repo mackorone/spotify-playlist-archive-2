@@ -226729,6 +226729,28 @@
     },
     {
       "album": {
+        "name": "DEL\u00cdRIOS NOTURNOS",
+        "url": "https://open.spotify.com/album/6cyL05e8B4ybcytYe8z2CQ"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "Necroez",
+          "url": "https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "MARCAS NOTURNAS",
+      "url": "https://open.spotify.com/track/6WWMdN9VAfHIktsfE4vo6Z"
+    },
+    {
+      "album": {
         "name": "Tenta N\u00e3o!",
         "url": "https://open.spotify.com/album/2ZsY2QVqvg87Rpjo1Ds0tQ"
       },

@@ -7352,7 +7352,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -7370,7 +7370,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 178822,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
@@ -8952,7 +8952,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -17898,7 +17898,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 216352,
       "name": "Danza Kuduro - Version MTO",
       "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"
@@ -27938,7 +27938,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -28776,7 +28776,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -43556,7 +43556,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/33Plu4Rq3ZmOfLLNQcAGva"
@@ -52118,7 +52118,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -57586,7 +57586,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -62072,7 +62072,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 156254,
       "name": "Sexy Nana",
       "url": "https://open.spotify.com/track/6MSgVHt9pS3z20DNtBonCc"
@@ -70461,6 +70461,28 @@
     },
     {
       "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204134,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0S6ZrnpOsP61aE6pJ7Bl1U"
       },
@@ -73238,7 +73260,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 219864,
       "name": "UNETHICAL",
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
@@ -74714,7 +74736,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -74732,7 +74754,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"

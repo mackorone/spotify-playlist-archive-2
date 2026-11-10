@@ -1,13 +1,41 @@
 {
   "description": "Strictly the freshest and finest hip-hop heats. No skips. Cover: A$AP Rocky.",
-  "num_followers": 28107,
+  "num_followers": 28102,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAoI25+e28ZSraT73la8kZSaJbRD6cK",
+  "snapshot_id": "AAAoJ05tmMa0tNYhZ4f+hG7EPbkChOYy",
   "tracks": [
+    {
+      "added_at": "2026-11-09 19:06:42",
+      "album": {
+        "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV"
+    },
     {
       "added_at": "2026-10-20 19:47:08",
       "album": {

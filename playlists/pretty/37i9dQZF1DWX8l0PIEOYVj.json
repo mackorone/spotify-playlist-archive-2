@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring San Holo",
-  "num_followers": 473539,
+  "num_followers": 473521,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -106,6 +106,10 @@
         {
           "name": "Dillon Francis",
           "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
       "duration_ms": 199680,
@@ -2063,6 +2067,26 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7sVd8b6lVLOWfshRtXqvTX"
       },
@@ -2091,22 +2115,22 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Meet Me In The Middle",
-        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
       },
       "artists": [
         {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
         },
         {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+          "name": "Fazzi",
+          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
         }
       ],
-      "duration_ms": 215238,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+      "duration_ms": 195775,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2127,26 +2151,6 @@
       "duration_ms": 267062,
       "name": "By the Light of the Moon",
       "url": "https://open.spotify.com/track/20TYKg7pZLNFmLwwfER9G5"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
-      },
-      "artists": [
-        {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "Fazzi",
-          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
-        }
-      ],
-      "duration_ms": 195775,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2291,6 +2295,22 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
         "name": "PART III - AWAKENING",
         "url": "https://open.spotify.com/album/2AFcx4PkJV4GVlAUObRuBQ"
       },
@@ -2307,22 +2327,6 @@
       "duration_ms": 183857,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/0pBQeW67FSH0renLPFJA4t"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2391,26 +2395,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/1lFkp4cM4tWA7s66CbCyua"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Escape (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/7v7d7AEWvKt5RMXg94MknR"
       },
@@ -2435,6 +2419,26 @@
       "duration_ms": 208125,
       "name": "Escape (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/1oDlQ0JGgXfXTWWrtmdOku"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/1lFkp4cM4tWA7s66CbCyua"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2547,26 +2551,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Chi-Town",
-        "url": "https://open.spotify.com/album/4lue9TjdizlbNWHM3lXqTA"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Chi-Town",
-      "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Say It To Me",
         "url": "https://open.spotify.com/album/0IW0P8EwWWs0SoYP8apyK3"
       },
@@ -2591,22 +2575,22 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+        "name": "Chi-Town",
+        "url": "https://open.spotify.com/album/4lue9TjdizlbNWHM3lXqTA"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
         },
         {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         }
       ],
-      "duration_ms": 183066,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
+      "duration_ms": 175238,
+      "name": "Chi-Town",
+      "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2627,6 +2611,26 @@
       "duration_ms": 187034,
       "name": "IT ISN'T ME",
       "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -3007,22 +3011,30 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
+        "name": "Aura Park (Remixes)",
+        "url": "https://open.spotify.com/album/3tQUTZ4KsiTNpNpQfVY2dK"
       },
       "artists": [
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
         },
         {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "SLICK",
+          "url": "https://open.spotify.com/artist/0AwoMepzmoVrEsWXft8Pe2"
+        },
+        {
+          "name": "808GONG",
+          "url": "https://open.spotify.com/artist/0JjEnXvT2nZMKYGmkZY5qC"
         }
       ],
-      "duration_ms": 218557,
-      "name": "Taste of Your Tongue",
-      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
+      "duration_ms": 193655,
+      "name": "Not Enough - SLICK x 808GONG Remix",
+      "url": "https://open.spotify.com/track/0DF9kBDai7faBp2jBVDjyL"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -3051,30 +3063,22 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Aura Park (Remixes)",
-        "url": "https://open.spotify.com/album/3tQUTZ4KsiTNpNpQfVY2dK"
+        "name": "COPE",
+        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
       },
       "artists": [
         {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
         },
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "SLICK",
-          "url": "https://open.spotify.com/artist/0AwoMepzmoVrEsWXft8Pe2"
-        },
-        {
-          "name": "808GONG",
-          "url": "https://open.spotify.com/artist/0JjEnXvT2nZMKYGmkZY5qC"
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
         }
       ],
-      "duration_ms": 193655,
-      "name": "Not Enough - SLICK x 808GONG Remix",
-      "url": "https://open.spotify.com/track/0DF9kBDai7faBp2jBVDjyL"
+      "duration_ms": 218557,
+      "name": "Taste of Your Tongue",
+      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
     },
     {
       "added_at": "2026-10-30 04:01:25",

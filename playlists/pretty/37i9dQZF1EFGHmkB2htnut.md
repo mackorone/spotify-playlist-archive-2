@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 42 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 |
 | 43 | [Strangers](https://open.spotify.com/track/3p6CJ6SEqeE2ar8EGHx1XU) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [One Eighty](https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu) | 2:27 |
 | 44 | [The Good Parts](https://open.spotify.com/track/4hzvOErdtm0SndvqzWVWyU) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:17 |
-| 45 | [cross ur mind](https://open.spotify.com/track/7o6004WEpQsptuigMjYvyb) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:13 |
-| 46 | [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 |
+| 45 | [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 |
+| 46 | [cross ur mind](https://open.spotify.com/track/7o6004WEpQsptuigMjYvyb) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:13 |
 | 47 | [Nothing's All The Time](https://open.spotify.com/track/71CdOHxHHarGkr21kVJ3MG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:42 |
 | 48 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 |
 | 49 | [Play Dumb](https://open.spotify.com/track/4inINyEpZqgKGDYqf5Knb1) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb \(New Jersey Version\)](https://open.spotify.com/album/6wvUSE3RrPncqFLJSDXikw) | 2:53 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 114 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 115 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 
-Snapshot ID: `AchJ9gAAAAB3xSRGbvhRUv531IwUT7Wd`
+Snapshot ID: `AchP0gAAAACKSP7WoJuNh07Y15zUGyWv`

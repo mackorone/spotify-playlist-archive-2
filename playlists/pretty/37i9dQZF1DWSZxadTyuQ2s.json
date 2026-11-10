@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover: Chisway",
-  "num_followers": 46259,
+  "num_followers": 46308,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-11-02 10:51:32",
       "album": {
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
+    },
+    {
+      "added_at": "2026-11-02 10:51:32",
+      "album": {
         "name": "Mussulo (feat. Doddy)",
         "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
-    },
-    {
-      "added_at": "2026-11-02 10:51:32",
-      "album": {
-        "name": "MY HEALER",
-        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 157023,
-      "name": "MY HEALER",
-      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
     },
     {
       "added_at": "2026-11-02 10:51:32",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-11-02 10:51:32",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
-    },
-    {
-      "added_at": "2026-11-02 10:51:32",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/1RtuCvuc1k2s9AeXYFiiDP"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 236133,
       "name": "Pray",
       "url": "https://open.spotify.com/track/54PyFCyGbVvr6OgENl8QFf"
+    },
+    {
+      "added_at": "2026-11-02 10:51:32",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
     },
     {
       "added_at": "2026-11-02 10:51:32",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-11-02 10:51:32",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 184821,
-      "name": "INDUSTRY MACHINE",
-      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
-    },
-    {
-      "added_at": "2026-11-02 10:51:32",
-      "album": {
         "name": "NWANGOLO",
         "url": "https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 151024,
       "name": "NWANGOLO",
       "url": "https://open.spotify.com/track/0JHiAVySqpLE1RpBMkZnau"
+    },
+    {
+      "added_at": "2026-11-02 10:51:32",
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "INDUSTRY MACHINE",
+      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
     },
     {
       "added_at": "2026-11-02 10:51:32",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2026-11-02 10:51:32",
       "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-11-02 10:51:32",
-      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "added_at": "2026-11-02 10:51:32",
+      "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": "2026-11-02 10:51:32",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2026-11-02 10:51:32",
       "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 153386,
+      "name": "Wait For Me (feat. Teni)",
+      "url": "https://open.spotify.com/track/1JXwmf153QmPL57gNu1NkZ"
+    },
+    {
+      "added_at": "2026-11-02 10:51:32",
+      "album": {
         "name": "Peace by Piece",
         "url": "https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 161344,
       "name": "On a Kentro (feat. L.A.X)",
       "url": "https://open.spotify.com/track/2Cz1ppqlF9Ozk1UgumS7Oc"
-    },
-    {
-      "added_at": "2026-11-02 10:51:32",
-      "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "Wait For Me (feat. Teni)",
-      "url": "https://open.spotify.com/track/1JXwmf153QmPL57gNu1NkZ"
     },
     {
       "added_at": "2026-11-02 10:51:32",

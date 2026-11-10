@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > petra on the cover :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,264 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,272 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

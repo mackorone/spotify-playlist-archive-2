@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4103338,
+  "num_followers": 4103365,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 312815,
-      "name": "Hells Bells",
-      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -343,6 +327,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 312815,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 279786,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Frontiers (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 323453,
-      "name": "Separate Ways (Worlds Apart) [2023 Remaster]",
-      "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me - Remastered 2017",
       "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Frontiers (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 323453,
+      "name": "Separate Ways (Worlds Apart) [2023 Remaster]",
+      "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 336613,
       "name": "Where The Streets Have No Name - Remastered",
       "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2024-09-13 16:58:23",

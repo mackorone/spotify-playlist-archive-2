@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,248 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,301 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 14 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 | 15 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 16 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:13 |
-| 17 | [I Like It](https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 4:39 |
-| 18 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
+| 17 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
+| 18 | [I Like It](https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 4:39 |
 | 19 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 |
 | 20 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
 | 21 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 28 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
 | 29 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
 | 30 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 |
-| 31 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
-| 32 | [Very Special](https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:28 |
+| 31 | [Very Special](https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:28 |
+| 32 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 | 33 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
 | 34 | [You Are My Lady](https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [Rock Me Tonight](https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV) | 4:44 |
 | 35 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |

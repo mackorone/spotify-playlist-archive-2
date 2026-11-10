@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,133 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,178 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 16 | [mOBSCENE](https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc) | 3:25 |
 | 17 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
 | 18 | [Zeig dich](https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:15 |
-| 19 | [Bombshell](https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Anyone For Doomsday?](https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y) | 3:14 |
-| 20 | [Platz Eins](https://open.spotify.com/track/4kF5GADt85FeD8Y26RRyLY) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [F & M \(Deluxe\)](https://open.spotify.com/album/7vTIPNCT9nCHw8hhskPYj1) | 3:55 |
+| 19 | [Platz Eins](https://open.spotify.com/track/4kF5GADt85FeD8Y26RRyLY) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [F & M \(Deluxe\)](https://open.spotify.com/album/7vTIPNCT9nCHw8hhskPYj1) | 3:55 |
+| 20 | [Bombshell](https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Anyone For Doomsday?](https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y) | 3:14 |
 | 21 | [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 |
 | 22 | [Wish](https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Broken](https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw) | 3:46 |
 | 23 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 41 | [The Death & Resurrection Show](https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs) | 6:56 |
 | 42 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
 | 43 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
-| 44 | [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 |
-| 45 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
+| 44 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
+| 45 | [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 |
 | 46 | [HYËNA](https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [HYËNA](https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa) | 5:02 |
 | 47 | [Genius](https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51) | [Pitchshifter](https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i) | [www.pitchshifter.com](https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun) | 4:06 |
 | 48 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 63 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
 | 64 | [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 |
 | 65 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 |
-| 66 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
-| 67 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 |
+| 66 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 |
+| 67 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 68 | [Prey & Obey](https://open.spotify.com/track/010zNby24HBoMyMZClgViJ) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0) | [Prey & Obey](https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr) | 4:46 |
 | 69 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 |
-| 70 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
-| 71 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
+| 70 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
+| 71 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
 | 72 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
 | 73 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
 | 74 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |

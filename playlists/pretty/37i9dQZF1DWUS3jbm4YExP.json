@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 890922,
+  "num_followers": 891003,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -1039,42 +1039,6 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 191471,
-      "name": "Up and Away",
-      "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
-    },
-    {
-      "added_at": "2026-10-22 22:01:10",
-      "album": {
-        "name": "Pingu's Anthem b/w Gronk",
-        "url": "https://open.spotify.com/album/3fKJx0SdPeg5oxwDgiUqO8"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 188390,
-      "name": "Gronk",
-      "url": "https://open.spotify.com/track/40M2uLSMbPi4BnkdO2oEUf"
-    },
-    {
-      "added_at": "2026-10-22 22:01:10",
-      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -1095,38 +1059,38 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Mistakes on Purpose (Ethiopiques 30)",
-        "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
+        "name": "Pingu's Anthem b/w Gronk",
+        "url": "https://open.spotify.com/album/3fKJx0SdPeg5oxwDgiUqO8"
       },
       "artists": [
         {
-          "name": "Girma B\u00e8y\u00e8n\u00e8",
-          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
-        },
-        {
-          "name": "Akal\u00e9 Wub\u00e9",
-          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
-      "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
+      "duration_ms": 188390,
+      "name": "Gronk",
+      "url": "https://open.spotify.com/track/40M2uLSMbPi4BnkdO2oEUf"
     },
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Canti, Vol. 2",
-        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
       "artists": [
         {
-          "name": "ONDAKEIKI",
-          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
         }
       ],
-      "duration_ms": 278626,
-      "name": "Un cerchio",
-      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
+      "duration_ms": 191471,
+      "name": "Up and Away",
+      "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -1151,6 +1115,22 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
+        "name": "Canti, Vol. 2",
+        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
+      },
+      "artists": [
+        {
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Un cerchio",
+      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
+    },
+    {
+      "added_at": "2026-10-22 22:01:10",
+      "album": {
         "name": "Earthology",
         "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 199572,
       "name": "Safari Strut",
       "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
+    },
+    {
+      "added_at": "2026-10-22 22:01:10",
+      "album": {
+        "name": "Mistakes on Purpose (Ethiopiques 30)",
+        "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
+      },
+      "artists": [
+        {
+          "name": "Girma B\u00e8y\u00e8n\u00e8",
+          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
+        },
+        {
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
+      "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -1423,26 +1423,18 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Charanga",
-        "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
-        },
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 266820,
-      "name": "Charanga",
-      "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -1483,18 +1475,26 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+        "name": "Charanga",
+        "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+        },
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
         }
       ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
+      "duration_ms": 266820,
+      "name": "Charanga",
+      "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
+        "name": "Orb II",
+        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
+      },
+      "artists": [
+        {
+          "name": "Meister Lampe",
+          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Dantokpa",
+      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
+    },
+    {
+      "added_at": "2026-10-22 22:01:10",
+      "album": {
         "name": "Be A Lover",
         "url": "https://open.spotify.com/album/7yaTlJJXztlKIjBoeq3tE7"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 234800,
       "name": "Waka",
       "url": "https://open.spotify.com/track/4Ci4rRjux0FofhNxxP44sC"
-    },
-    {
-      "added_at": "2026-10-22 22:01:10",
-      "album": {
-        "name": "Orb II",
-        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
-      },
-      "artists": [
-        {
-          "name": "Meister Lampe",
-          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Dantokpa",
-      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -2135,26 +2135,6 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Money Face",
-        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        },
-        {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
-        }
-      ],
-      "duration_ms": 258874,
-      "name": "Money Face",
-      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
-    },
-    {
-      "added_at": "2026-10-22 22:01:10",
-      "album": {
         "name": "Indio",
         "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
       },
@@ -2175,22 +2155,22 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Water of Life",
-        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
+        "name": "Money Face",
+        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
       },
       "artists": [
         {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
         },
         {
-          "name": "Waina",
-          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
         }
       ],
-      "duration_ms": 304334,
-      "name": "Water of Life",
-      "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
+      "duration_ms": 258874,
+      "name": "Money Face",
+      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -2207,6 +2187,26 @@
       "duration_ms": 304333,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
+    },
+    {
+      "added_at": "2026-10-22 22:01:10",
+      "album": {
+        "name": "Water of Life",
+        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
+        }
+      ],
+      "duration_ms": 304334,
+      "name": "Water of Life",
+      "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
+        "name": "Ancients / It's Starting",
+        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 309857,
+      "name": "It's Starting",
+      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
+    },
+    {
+      "added_at": "2026-10-22 22:01:10",
+      "album": {
         "name": "iZem Remixes",
         "url": "https://open.spotify.com/album/7w4HYQplaz3uezp8tUm9hf"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 272221,
       "name": "L'origine du Monde - iZem Remix",
       "url": "https://open.spotify.com/track/1gfWtL0rEJwEJwyfaInfgu"
-    },
-    {
-      "added_at": "2026-10-22 22:01:10",
-      "album": {
-        "name": "Ancients / It's Starting",
-        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 309857,
-      "name": "It's Starting",
-      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
     },
     {
       "added_at": "2026-10-22 22:01:10",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2026-10-22 22:01:10",
       "album": {
-        "name": "Fully Loaded",
-        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
-      },
-      "artists": [
-        {
-          "name": "Magnum",
-          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
-    },
-    {
-      "added_at": "2026-10-22 22:01:10",
-      "album": {
         "name": "I Wanna Sleep In Your Arms / What's a Girl To Do",
         "url": "https://open.spotify.com/album/3KgSMLE6uMBDuNTjOwjDoA"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 227780,
       "name": "I Wanna Sleep In Your Arms",
       "url": "https://open.spotify.com/track/7M3sfWCuoSQqmkLxM9CJc0"
+    },
+    {
+      "added_at": "2026-10-22 22:01:10",
+      "album": {
+        "name": "Fully Loaded",
+        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
+      },
+      "artists": [
+        {
+          "name": "Magnum",
+          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
     },
     {
       "added_at": "2026-10-22 22:01:10",

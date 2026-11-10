@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: L2B",
-  "num_followers": 25005,
+  "num_followers": 25028,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Sarah B.",
-        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 153061,
-      "name": "S\u00e9minaire",
-      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "Argent Sale - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 164307,
       "name": "Argent Sale - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 153061,
+      "name": "S\u00e9minaire",
+      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "CYBERTESLA",
-        "url": "https://open.spotify.com/album/5gYCJP14fCtr33zvD0dhdI"
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
       "artists": [
         {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 178645,
-      "name": "CYBERTESLA",
-      "url": "https://open.spotify.com/track/30XuVaQikcrhVfiNRvbqfr"
+      "duration_ms": 180186,
+      "name": "C\u0153ur De Pirate",
+      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "WpointM",
-        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+        "name": "CYBERTESLA",
+        "url": "https://open.spotify.com/album/5gYCJP14fCtr33zvD0dhdI"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 180186,
-      "name": "C\u0153ur De Pirate",
-      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
+      "duration_ms": 178645,
+      "name": "CYBERTESLA",
+      "url": "https://open.spotify.com/track/30XuVaQikcrhVfiNRvbqfr"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -647,18 +647,26 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Belvedere",
-        "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
+        "name": "Allo Doudou",
+        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
       },
       "artists": [
         {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
         }
       ],
-      "duration_ms": 123870,
-      "name": "Belvedere",
-      "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
+      "duration_ms": 170681,
+      "name": "Allo Doudou",
+      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -699,26 +707,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Allo Doudou",
-        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
+        "name": "Belvedere",
+        "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
       },
       "artists": [
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
         }
       ],
-      "duration_ms": 170681,
-      "name": "Allo Doudou",
-      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
+      "duration_ms": 123870,
+      "name": "Belvedere",
+      "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "\u00c0 tes c\u00f4t\u00e9s",
-        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/7oIYfGvrSN74YK9cKCyxGq"
       },
       "artists": [
         {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 147462,
-      "name": "\u00c0 tes c\u00f4t\u00e9s",
-      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
+      "duration_ms": 170382,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/2FuofUVE32dk7jRIvqirxU"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/7oIYfGvrSN74YK9cKCyxGq"
+        "name": "\u00c0 tes c\u00f4t\u00e9s",
+        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 170382,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/2FuofUVE32dk7jRIvqirxU"
+      "duration_ms": 147462,
+      "name": "\u00c0 tes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
+        "name": "RAP d\u2019arabe",
+        "url": "https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "duration_ms": 181829,
+      "name": "RAP d\u2019arabe",
+      "url": "https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
         "name": "NETFLIX CHILL",
         "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 148676,
       "name": "NETFLIX CHILL",
       "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "RAP d\u2019arabe",
-        "url": "https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00eff",
-          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
-        }
-      ],
-      "duration_ms": 181829,
-      "name": "RAP d\u2019arabe",
-      "url": "https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Dans la temp\u00eate",
-        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
-      },
-      "artists": [
-        {
-          "name": "HMZ",
-          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 150741,
-      "name": "Saison",
-      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "Dans la temp\u00eate",
+        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
+      },
+      "artists": [
+        {
+          "name": "HMZ",
+          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 150741,
+      "name": "Saison",
+      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/5STY0vbcKegoAdYnOMuBZe"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/3TKi9R2cUg56cLTym2SmjS"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "NZELA",
-        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/5STY0vbcKegoAdYnOMuBZe"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
         }
       ],
-      "duration_ms": 191013,
-      "name": "NZELA",
-      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+      "duration_ms": 148636,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/3TKi9R2cUg56cLTym2SmjS"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
         "name": "RM-035",
         "url": "https://open.spotify.com/album/2xi0f1E2qZiRlOpBYroJu2"
       },
@@ -1455,26 +1455,6 @@
       "duration_ms": 163807,
       "name": "RM-035",
       "url": "https://open.spotify.com/track/4oOzQaMMsqN4LRsFBEMTLw"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "KRAKEN (Bande Originale du Film KRAKEN)",
-        "url": "https://open.spotify.com/album/6cEwE9jwgc5huIUJbBW2Mw"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "KRAKEN - Bande Originale du Film KRAKEN",
-      "url": "https://open.spotify.com/track/1KcC0jDKgVarW4hLwLxYWe"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1495,6 +1475,26 @@
       "duration_ms": 174000,
       "name": "TERIYAKI - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "KRAKEN (Bande Originale du Film KRAKEN)",
+        "url": "https://open.spotify.com/album/6cEwE9jwgc5huIUJbBW2Mw"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "KRAKEN - Bande Originale du Film KRAKEN",
+      "url": "https://open.spotify.com/track/1KcC0jDKgVarW4hLwLxYWe"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
-        "name": "Jet Set",
-        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Jet Set",
-      "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
         "name": "ZODIAC",
         "url": "https://open.spotify.com/album/0bNgCIm78528DIzqQDaPc6"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 198690,
       "name": "ZODIAC",
       "url": "https://open.spotify.com/track/2f4hDz8SlJuqHhPkkXN4QN"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
+        "name": "Jet Set",
+        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Jet Set",
+      "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
     },
     {
       "added_at": "2026-11-06 05:02:38",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2026-11-06 05:02:38",
       "album": {
+        "name": "Devin Booker",
+        "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 173324,
+      "name": "Devin Booker",
+      "url": "https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT"
+    },
+    {
+      "added_at": "2026-11-06 05:02:38",
+      "album": {
         "name": "Mentir au psy",
         "url": "https://open.spotify.com/album/5ZyA2oZrTciyWMJJOjtVMG"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 129880,
       "name": "Tequila Shot",
       "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
-    },
-    {
-      "added_at": "2026-11-06 05:02:38",
-      "album": {
-        "name": "Devin Booker",
-        "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
-      },
-      "artists": [
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 173324,
-      "name": "Devin Booker",
-      "url": "https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT"
     },
     {
       "added_at": "2026-11-06 05:02:38",

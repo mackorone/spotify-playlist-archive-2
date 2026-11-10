@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 432766,
+  "num_followers": 432876,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 265652,
-      "name": "Every Time You Go Away",
-      "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 265652,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "I Know What I Want",
-        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 230260,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 230260,
+      "name": "5 More Minutes",
+      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 309359,
-      "name": "re: Stacks - Spotify Singles",
-      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 309359,
+      "name": "re: Stacks - Spotify Singles",
+      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1343,22 +1343,6 @@
       "duration_ms": 182955,
       "name": "Sunshine In The Room (feat. Jon Batiste)",
       "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Don't Put It All On Me (feat. Fleet Foxes)",
-        "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
         }
       ],
-      "duration_ms": 247306,
-      "name": "Don't Put It All On Me (feat. Fleet Foxes)",
-      "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "Don't Put It All On Me (feat. Fleet Foxes)",
+        "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Don't Put It All On Me (feat. Fleet Foxes)",
+      "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "July (Bedroom Session)",
-        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "July - Bedroom Session",
-      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "No California (Acoustic)",
         "url": "https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216058,
       "name": "No California (Acoustic)",
       "url": "https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "July (Bedroom Session)",
+        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "July - Bedroom Session",
+      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Indexical reminder of a morning well spent",
-      "url": "https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/00p8obmJfzvDLXACx2VNVn"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 194237,
       "name": "Gonna Be Alright",
       "url": "https://open.spotify.com/track/1si9NdGIgzOvt9iutjL7G3"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Indexical reminder of a morning well spent",
+      "url": "https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "More More More",
-        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 192753,
-      "name": "More More More",
-      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Fondness, Etc.",
-        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "No Place to Be",
-      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "would you call me up?",
         "url": "https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 251504,
       "name": "would you call me up?",
       "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Fondness, Etc.",
+        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "No Place to Be",
+      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Summer Somewhere",
-        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Summer Somewhere",
-      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 180440,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Summer Somewhere",
+        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Summer Somewhere",
+      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "To a T (Stripped)",
-        "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        }
-      ],
-      "duration_ms": 198385,
-      "name": "To a T - Stripped",
-      "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 239213,
       "name": "Walking Home to You",
       "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "To a T (Stripped)",
+        "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "duration_ms": 198385,
+      "name": "To a T - Stripped",
+      "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Songs From The Ashes (PT. 1)",
         "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 123301,
       "name": "Chicago Flood",
       "url": "https://open.spotify.com/track/0rMXSI71nsDlBDkKbCUd4d"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2711,6 +2711,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 199909,
+      "name": "Did Life Work Out for You?",
+      "url": "https://open.spotify.com/track/4amLaSh76npvL4MyNasXEC"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Shooting Star",
         "url": "https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1"
       },
@@ -2727,22 +2743,6 @@
       "duration_ms": 143030,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 199909,
-      "name": "Did Life Work Out for You?",
-      "url": "https://open.spotify.com/track/4amLaSh76npvL4MyNasXEC"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2779,22 +2779,6 @@
       "duration_ms": 263053,
       "name": "Tell Her You Love Her (feat. Mat Kearney)",
       "url": "https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2843,6 +2827,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Come To The Beach (Acoustic Version)",
         "url": "https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 148085,
       "name": "Come To The Beach - Acoustic Version",
       "url": "https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 200127,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Yours in the Morning",
         "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 214919,
       "name": "Yours in the Morning",
       "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Sedona (The Voice Performance)",
-        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 205726,
-      "name": "Sedona - The Voice Performance",
-      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Right on Time (In Harmony)",
         "url": "https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 187026,
       "name": "Right on Time - In Harmony",
       "url": "https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Sedona (The Voice Performance)",
+        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 205726,
+      "name": "Sedona - The Voice Performance",
+      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3227,22 +3227,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Altogether Unaccompanied, Vol. V",
-        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 305185,
-      "name": "Bigger Pieces",
-      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Peach Sky",
         "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
       },
@@ -3255,6 +3239,22 @@
       "duration_ms": 181806,
       "name": "Peach Sky",
       "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Altogether Unaccompanied, Vol. V",
+        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 305185,
+      "name": "Bigger Pieces",
+      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3307,18 +3307,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+        "name": "Thundering Hopes",
+        "url": "https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+      "duration_ms": 242014,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6"
     }
   ],
   "unique_name": "Morning Coffee",

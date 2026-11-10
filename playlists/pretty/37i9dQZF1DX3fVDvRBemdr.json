@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop. Cover: Rutger van Barneveld",
-  "num_followers": 156630,
+  "num_followers": 156629,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIoS+bmz5xxkGudzt2C0N2MgBWrj",
+  "snapshot_id": "AAAAAHecuBoEP68gsk574XQiWavmRd14",
   "tracks": [
     {
       "added_at": "2026-11-05 23:01:13",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-11-05 23:01:13",
       "album": {
+        "name": "Ik Heb Ons Bed Op Marktplaats Gezet",
+        "url": "https://open.spotify.com/album/3X1fZ31lO0WUL8JwP17O3X"
+      },
+      "artists": [
+        {
+          "name": "Jessy Arjaans",
+          "url": "https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ik Heb Ons Bed Op Marktplaats Gezet",
+      "url": "https://open.spotify.com/track/3jZ2ifOVMHEXv8nnYICa7p"
+    },
+    {
+      "added_at": "2026-11-05 23:01:13",
+      "album": {
         "name": "Wees Voorzichtig Met Mijn Hart",
         "url": "https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW"
       },
@@ -87,6 +103,26 @@
       "duration_ms": 162755,
       "name": "Een 10",
       "url": "https://open.spotify.com/track/2AJ2Zrn6xpdlBXX0bSnKmK"
+    },
+    {
+      "added_at": "2026-11-05 23:01:13",
+      "album": {
+        "name": "Leuke Dingen Doen (feat. Frank van Etten)",
+        "url": "https://open.spotify.com/album/04ZhUtqJ4zEiS7qHQph3o8"
+      },
+      "artists": [
+        {
+          "name": "Sjorleone",
+          "url": "https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4"
+        },
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "duration_ms": 136248,
+      "name": "Leuke Dingen Doen (feat. Frank van Etten)",
+      "url": "https://open.spotify.com/track/6Rkcpb23SaT06PwMhXuyrB"
     },
     {
       "added_at": "2026-11-05 23:01:13",
@@ -151,26 +187,6 @@
       "duration_ms": 153839,
       "name": "Hossel Voor Een Mossel",
       "url": "https://open.spotify.com/track/7kar9hgsl2L6eTAPAYghjh"
-    },
-    {
-      "added_at": "2026-11-05 23:01:13",
-      "album": {
-        "name": "Leuke Dingen Doen (feat. Frank van Etten)",
-        "url": "https://open.spotify.com/album/04ZhUtqJ4zEiS7qHQph3o8"
-      },
-      "artists": [
-        {
-          "name": "Sjorleone",
-          "url": "https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4"
-        },
-        {
-          "name": "Frank Van Etten",
-          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
-        }
-      ],
-      "duration_ms": 136248,
-      "name": "Leuke Dingen Doen (feat. Frank van Etten)",
-      "url": "https://open.spotify.com/track/6Rkcpb23SaT06PwMhXuyrB"
     },
     {
       "added_at": "2026-11-05 23:01:13",
@@ -267,22 +283,6 @@
       "duration_ms": 174310,
       "name": "Alles Wat Ik Zocht",
       "url": "https://open.spotify.com/track/7nWkh4euucX6Eb4ZHjuJyH"
-    },
-    {
-      "added_at": "2026-11-05 23:01:13",
-      "album": {
-        "name": "Ik Heb Ons Bed Op Marktplaats Gezet",
-        "url": "https://open.spotify.com/album/3X1fZ31lO0WUL8JwP17O3X"
-      },
-      "artists": [
-        {
-          "name": "Jessy Arjaans",
-          "url": "https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ik Heb Ons Bed Op Marktplaats Gezet",
-      "url": "https://open.spotify.com/track/3jZ2ifOVMHEXv8nnYICa7p"
     },
     {
       "added_at": "2026-11-05 23:01:13",

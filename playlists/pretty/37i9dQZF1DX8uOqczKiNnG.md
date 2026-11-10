@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 
 > Los más grandes éxitos de los 70 en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,482 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,480 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 | 41 | [Viento, Dile a la Lluvia](https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Viento Dile a la Lluvia](https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h) | 2:49 |
 | 42 | [Eres Tú](https://open.spotify.com/track/19IbRV5sxX9HLcz7tOWGsi) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Serie Platino](https://open.spotify.com/album/7sAcgDVt6sHEAp4ERmy29g) | 3:27 |
 | 43 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
-| 44 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:02 |
-| 45 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
+| 44 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
+| 45 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:02 |
 | 46 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 |
 | 47 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 48 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
-| 49 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
-| 50 | [Donde Va la Gente Cuando Llueve](https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 4:44 |
+| 49 | [Donde Va la Gente Cuando Llueve](https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 4:44 |
+| 50 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
 
 Snapshot ID: `AAAAAOjmt3WQS6LURrWAFKV6ilHb9VTD`

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Wishy Washy](https://open.spotify.com/track/0tHd0b58buhoCxvyILbiUY) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 5:00 |
 | 50 | [Sacrifices](https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 4:47 |
 
-Snapshot ID: `au5qAAAAAAB0ItKo2vD0AUMGHRF6bPOC`
+Snapshot ID: `au+7gAAAAAAqlFyqg6DgNmQkxyrohfmr`

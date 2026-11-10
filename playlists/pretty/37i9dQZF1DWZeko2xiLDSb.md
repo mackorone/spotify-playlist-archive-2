@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,734 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,730 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 50 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
 | 51 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 |
 | 52 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/0dagxop90zpA32LDwjAGVk) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:06 |
-| 53 | [Wish on an Eyelash](https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 0:58 |
-| 54 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
+| 53 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
+| 54 | [Wish on an Eyelash](https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 0:58 |
 | 55 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 |
 | 56 | [Buddy's Rendezvous](https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 4:59 |
 | 57 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 62 | [Atmosphere](https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:57 |
 | 63 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
 | 64 | [Just Come Home with Me Tonight](https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 4:07 |
-| 65 | [Heart To Heart](https://open.spotify.com/track/6FVC9rfW90QNKrneugHLxy) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/4i608RpN07GeF7DBW0N1nA) | 3:31 |
-| 66 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
+| 65 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
+| 66 | [Heart To Heart](https://open.spotify.com/track/6FVC9rfW90QNKrneugHLxy) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/4i608RpN07GeF7DBW0N1nA) | 3:31 |
 | 67 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
 | 68 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
 | 69 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 89 | [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 |
 | 90 | [Whose face am I](https://open.spotify.com/track/7hdSVanm1ob3fY8JPDMrMF) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Whose face am I](https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx) | 2:15 |
 | 91 | [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 |
-| 92 | [Life After](https://open.spotify.com/track/1am1MtgDcihuuP3crGeugt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 2:50 |
-| 93 | [Luther](https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Luther](https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP) | 3:18 |
+| 92 | [Luther](https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Luther](https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP) | 3:18 |
+| 93 | [Life After](https://open.spotify.com/track/1am1MtgDcihuuP3crGeugt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 2:50 |
 | 94 | [Grey Gardens](https://open.spotify.com/track/1GtXKifkH5YAWcXhP3fpZR) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [Later that day, the day before, or the day before that](https://open.spotify.com/album/6wDFz92HEpBsdQ23F0hmZe) | 3:10 |
 | 95 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 |
 | 96 | [A Case of You](https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Duvet Day Songs](https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO) | 4:23 |

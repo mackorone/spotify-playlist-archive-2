@@ -4,7 +4,7 @@
 
 > Zo klinkt de herfst van 2026.
 
-1,003 songs - 2 day 2 hr 46 min
+1,005 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Blindelings](https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Blindelings](https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK) | 2:40 | 2024-02-16 | 2024-07-19 |
 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-24 | 2025-11-07 |
 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-15 | 2025-06-19 |
+| [Blue Moon](https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:02 | 2026-11-09 |  |
 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 | 2025-09-20 | 2026-01-30 |
 | [Body Talk](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [I](https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo) | 2:19 | 2023-06-05 | 2023-07-27 |
 | [Bones](https://open.spotify.com/track/55KnFJZVQEsS9aEKni2XQ0) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv) | 2:51 | 2025-11-06 | 2026-03-06 |
@@ -248,7 +249,7 @@
 | [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-04-18 | 2024-07-19 |
 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-05 | 2024-04-19 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-08-17 | 2024-03-15 |
-| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-09 |  |
+| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-09 | 2026-11-10 |
 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 | 2024-02-26 | 2024-06-01 |
 | [Drown Me in Your River](https://open.spotify.com/track/0I7ppo2wo6EOz1sz00krtP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Drown Me in Your River](https://open.spotify.com/album/2cU0FflY59LDxXqyeisN6C) | 2:46 | 2024-09-24 | 2024-10-25 |
 | [Drown Me in your River](https://open.spotify.com/track/1o25xpJ1yVFWWG7CzulsUM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 2:46 | 2024-10-24 | 2025-03-21 |
@@ -579,7 +580,7 @@
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 | 2023-08-17 | 2023-09-23 |
 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 | 2023-02-23 | 2023-04-22 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2023-02-23 | 2023-04-09 |
-| [Miles Away](https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Miles Away](https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE) | 2:27 | 2025-12-04 |  |
+| [Miles Away](https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Miles Away](https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE) | 2:27 | 2025-12-04 | 2026-11-10 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-07-15 | 2025-03-21 |
 | [Million Dollar Baby](https://open.spotify.com/track/3wFM8TWbbkwPuB6TyqpVDv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:04 | 2023-02-23 | 2023-08-11 |
 | [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 | 2025-02-27 | 2025-05-23 |
@@ -607,6 +608,7 @@
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-03-14 | 2024-11-29 |
 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-02-05 | 2024-10-18 |
 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-07-02 |  |
+| [My Friend](https://open.spotify.com/track/0mmDkpw3BxhZr19hayUe3L) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [I: Keep The Fire On](https://open.spotify.com/album/1Aw4opl1SPe7fXLBRe42ka) | 4:01 | 2026-11-09 |  |
 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 | 2025-02-27 | 2025-06-28 |
 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2023-09-22 | 2024-01-05 |
 | [My Lucky Day](https://open.spotify.com/track/32Tzk2ucF5fgljunf6aP4L) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [My Lucky Day](https://open.spotify.com/album/78wgkYYTT235IBZYo7iZ2u) | 2:40 | 2026-02-16 | 2026-08-21 |

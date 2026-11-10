@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,207 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,212 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 23 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 24 | [Les Arbres Parlent](https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ) | [Edgar Paget](https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8) | [Les Arbres Parlent](https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr) | 2:37 |
 | 25 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
-| 26 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
-| 27 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 |
+| 26 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 |
+| 27 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
 | 28 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 |
 | 29 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 |
 | 30 | [La Belle Epoque](https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [La Belle Epoque](https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi) | 2:43 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 55 | [Love Me Tender](https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl) | [August Ken](https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5) | [Love Me Tender](https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw) | 2:00 |
 | 56 | [Dandelions](https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Dandelions](https://open.spotify.com/album/1StyA6SuWHuexqkYAEaJEA) | 2:23 |
 | 57 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
-| 58 | [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 |
-| 59 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 |
+| 58 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 |
+| 59 | [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 |
 | 60 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
 | 61 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 |
 | 62 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 70 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 |
 | 71 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 |
 | 72 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
-| 73 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
-| 74 | [Taciturn](https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Taciturn](https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0) | 2:59 |
+| 73 | [Taciturn](https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Taciturn](https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0) | 2:59 |
+| 74 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
 | 75 | [Sequences](https://open.spotify.com/track/26TCO6nueNbCvXPvQs7Dma) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Sequences](https://open.spotify.com/album/3eSV3Kevxi5cSiFyNmkiFD) | 2:25 |
 | 76 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 |
 | 77 | [She Sleeps](https://open.spotify.com/track/09GlKjOqndkGAXQW6b2YBa) | [Alvair](https://open.spotify.com/artist/3wwqxuKPDc2Lce3y94D48e) | [She Sleeps](https://open.spotify.com/album/24fkh13bTwIZ07ERd2XOg9) | 3:16 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 84 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
 | 85 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
 | 86 | [Your Breathing Sounds Like a Wave](https://open.spotify.com/track/2KmoTSrMgQDI8UIffLTmvj) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Your Breathing Sounds Like a Wave](https://open.spotify.com/album/64Vv3PkNZ8GHwwJ4sEVcAO) | 3:00 |
-| 87 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 |
-| 88 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 |
+| 87 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 |
+| 88 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 |
 | 89 | [Warm](https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Warm](https://open.spotify.com/album/2FcAyZf7Ack86ExG4yMh23) | 3:32 |
 | 90 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 |
 | 91 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 95 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 |
 | 96 | [When The Raindrops Begin To Cry](https://open.spotify.com/track/2x85LEhnRE6mlLrKfwoJuD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [When The Raindrops Begin To Cry](https://open.spotify.com/album/7Ld77MOEeYRSORFRGMKL9g) | 2:40 |
 | 97 | [Impromptu](https://open.spotify.com/track/1oKOIu35J9znIA7JbtVlTK) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Impromptu](https://open.spotify.com/album/3FLWbNwSwVSII9yOJV8NjL) | 2:24 |
-| 98 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 |
-| 99 | [Now and Then](https://open.spotify.com/track/1U8o73TurMXghX2kqF99EG) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Now and Then](https://open.spotify.com/album/36lDqENCszoOFIp063zOH7) | 2:21 |
-| 100 | [Son's and Daughter's](https://open.spotify.com/track/4CTmMZznjMORw49F4HK8u5) | [Meyer Wilen](https://open.spotify.com/artist/4nToVQre9DbvPZG2rBoe6m) | [Son's and Daughter's](https://open.spotify.com/album/6zHhf9wt2HfPQJce7vydk4) | 2:34 |
+| 98 | [Now and Then](https://open.spotify.com/track/1U8o73TurMXghX2kqF99EG) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Now and Then](https://open.spotify.com/album/36lDqENCszoOFIp063zOH7) | 2:21 |
+| 99 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 |
+| 100 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 |
 
 Snapshot ID: `AAAAAAn+jAh4NM8uNH5QJaUecx96ISr6`

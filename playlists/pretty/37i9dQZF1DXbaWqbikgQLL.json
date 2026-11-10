@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 90053,
+  "num_followers": 90124,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Para Qu\u00e9 Llorar",
         "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
       },
@@ -519,18 +503,34 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
+        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 265589,
+      "name": "No Tengo Tiempo",
+      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 308837,
       "name": "Si No La Tengo",
       "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
-        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 265589,
-      "name": "No Tengo Tiempo",
-      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
-      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 230713,
       "name": "Cuarto para las Dos",
       "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
+      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 198026,
       "name": "Aquiles Afirmo",
       "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
-      },
-      "artists": [
-        {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Galy Galiano 30 A\u00f1os",
         "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 438026,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -2403,6 +2403,26 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Jorge Carmona",
+          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
         "name": "La Perla Colombiana 20 Exitos (Vol 1)",
         "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
       },
@@ -2483,22 +2503,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1"
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Jorge Carmona",
-          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 294146,
-      "name": "El Ni\u00f1o",
-      "url": "https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s"
+      "duration_ms": 326640,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -2515,22 +2531,6 @@
       "duration_ms": 254253,
       "name": "El Baile De San Juan",
       "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
     }
   ],
   "unique_name": "Coraz\u00f3n Chilango",

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2011. Cover: AWOLNATION",
-  "num_followers": 146405,
+  "num_followers": 146416,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 235374,
-      "name": "Reunion",
-      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
         "name": "Last Night On Earth",
         "url": "https://open.spotify.com/album/5Pv6HiwxzhI8NDeSsn7n6N"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226946,
       "name": "L.I.F.E.G.O.E.S.O.N.",
       "url": "https://open.spotify.com/track/6DDoFN7yNQmL2YXojqAk8S"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 235374,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "Cults",
-        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 150373,
-      "name": "You Know What I Mean",
-      "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 217120,
       "name": "Montezuma",
       "url": "https://open.spotify.com/track/6wLtQqYpizaEYrWV1WBxP5"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
+        "name": "Cults",
+        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 150373,
+      "name": "You Know What I Mean",
+      "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
     },
     {
       "added_at": "2025-03-14 11:55:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,841 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,744 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 44 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 45 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
 | 46 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
-| 47 | [always you](https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [always you](https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI) | 3:08 |
-| 48 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
+| 47 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
+| 48 | [always you](https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [always you](https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI) | 3:08 |
 | 49 | [Precious Days](https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Precious Days](https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC) | 2:45 |
 | 50 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
 | 51 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 63 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
 | 64 | [Ordinary](https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Ordinary](https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr) | 2:52 |
 | 65 | [Sleeping with Headphones](https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF), [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Sleeping with Headphones](https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9) | 4:11 |
-| 66 | [Note to Self](https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:15 |
-| 67 | [The Next Good Time](https://open.spotify.com/track/2CttQN84ikl6AZ3ffwVdbZ) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 3:30 |
+| 66 | [The Next Good Time](https://open.spotify.com/track/2CttQN84ikl6AZ3ffwVdbZ) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 3:30 |
+| 67 | [Note to Self](https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:15 |
 | 68 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 | 69 | [New Person, Old Place \(New Feelings Version\)](https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 3:56 |
 | 70 | [Highway Blood \(feat\. Shook Twins & Gregory Alan Isakov\)](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 |

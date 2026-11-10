@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 87252,
+  "num_followers": 87269,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -579,30 +579,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Lalakula",
-        "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
-      },
-      "artists": [
-        {
-          "name": "Txmmyily",
-          "url": "https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 152635,
-      "name": "Lalakula",
-      "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -627,22 +603,26 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Big Drop (feat. Zaylevelten)",
-        "url": "https://open.spotify.com/album/02G39lYZMBp1WZLzoPZpVz"
+        "name": "Lalakula",
+        "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
       },
       "artists": [
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+          "name": "Txmmyily",
+          "url": "https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         },
         {
           "name": "Zaylevelten",
           "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
         }
       ],
-      "duration_ms": 140400,
-      "name": "Big Drop (feat. Zaylevelten)",
-      "url": "https://open.spotify.com/track/4las0h0JOVTrmluFS6ulMW"
+      "duration_ms": 152635,
+      "name": "Lalakula",
+      "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -663,6 +643,26 @@
       "duration_ms": 144065,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "Big Drop (feat. Zaylevelten)",
+        "url": "https://open.spotify.com/album/02G39lYZMBp1WZLzoPZpVz"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Big Drop (feat. Zaylevelten)",
+      "url": "https://open.spotify.com/track/4las0h0JOVTrmluFS6ulMW"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "WayWard",
+        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/79CXyWncscwC0nExbi0w22"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 155292,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/76bJuqprGVU6gHFqw1rjMu"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "WayWard",
-        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 217777,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "I Knoww II",
         "url": "https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7"
       },
@@ -1259,18 +1275,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+      "duration_ms": 195600,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1295,26 +1315,6 @@
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
     },
     {
       "added_at": "2026-10-23 00:01:38",

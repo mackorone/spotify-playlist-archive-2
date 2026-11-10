@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Autumn (\u79cb)",
+        "url": "https://open.spotify.com/album/2n4j0vfc6CPDKEKKaDBVZk"
+      },
+      "artists": [
+        {
+          "name": "visruined",
+          "url": "https://open.spotify.com/artist/0xCxRvv6zLagDHw4HUl5yT"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157507,
+      "name": "Autumn (\u79cb)",
+      "url": "https://open.spotify.com/track/5K7fx7FewH7EnOXfpz1uKT"
+    },
+    {
+      "album": {
         "name": "Del Padre",
         "url": "https://open.spotify.com/album/5E2a1qOHvrCJ6P2FsPkEmJ"
       },
@@ -4989,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "Crushed to Nothing",
+        "url": "https://open.spotify.com/album/6lNk2yK8eWSI7FywalcERh"
+      },
+      "artists": [
+        {
+          "name": "Crate",
+          "url": "https://open.spotify.com/artist/799oMzox2WLd3vINsW23U7"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267078,
+      "name": "Crushed to Nothing",
+      "url": "https://open.spotify.com/track/7gPIl8d5ALiUmYiV7h1xbv"
+    },
+    {
+      "album": {
         "name": "Curse of the Golden Touch",
         "url": "https://open.spotify.com/album/5KORv8uDGht7CUI70OWEZ0"
       },
@@ -5420,7 +5456,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 191680,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/1IoHHeNV6GM0PMllV0FwZk"
@@ -8564,7 +8600,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 322278,
       "name": "Freak - Slowed",
       "url": "https://open.spotify.com/track/08ccfMyg1V9UjuQNovmcrj"
@@ -10940,7 +10976,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/5yjPVopYtACYdcXEbS7VF4"
@@ -15034,6 +15070,24 @@
     {
       "album": {
         "name": "My Place",
+        "url": "https://open.spotify.com/album/64zm5UvYhAM0MvCYTAjAfe"
+      },
+      "artists": [
+        {
+          "name": "Hy Brasil",
+          "url": "https://open.spotify.com/artist/7mfdmUo92m1AGSv4td1owU"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/3wJOBsLgFccVfUW8TGPQwl"
+    },
+    {
+      "album": {
+        "name": "My Place",
         "url": "https://open.spotify.com/album/0fDzw3VOvjjUcUWxracZl6"
       },
       "artists": [
@@ -15174,7 +15228,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 218200,
       "name": "NDRI",
       "url": "https://open.spotify.com/track/6llrscdKto2TxEdIgzbgTD"
@@ -15691,6 +15745,24 @@
     },
     {
       "album": {
+        "name": "sorry, i\u2019m late",
+        "url": "https://open.spotify.com/album/0WBXlvzsCFqtr4NE7XXRze"
+      },
+      "artists": [
+        {
+          "name": "MOGY",
+          "url": "https://open.spotify.com/artist/6qY4YXCbJeoyoQmt92EBgl"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170781,
+      "name": "not fair",
+      "url": "https://open.spotify.com/track/5Un9xcE95TtiBrDT8i7aS8"
+    },
+    {
+      "album": {
         "name": "2026 Remixes",
         "url": "https://open.spotify.com/album/5ar0siAAXvtaAB65mYbBNu"
       },
@@ -15890,7 +15962,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 201951,
       "name": "October 96",
       "url": "https://open.spotify.com/track/3pD7SYgPTEm3gP4aabefh8"
@@ -17100,7 +17172,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 228000,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6Ir7tSe7EsjPKq6FdFZJyI"
@@ -18063,6 +18135,24 @@
     },
     {
       "album": {
+        "name": "Lacuna",
+        "url": "https://open.spotify.com/album/6IEs1byHIdKq70Ez61nOfQ"
+      },
+      "artists": [
+        {
+          "name": "The Church",
+          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571113,
+      "name": "Sacred Echoes",
+      "url": "https://open.spotify.com/track/2eerehxFua74CJvCx5eaTm"
+    },
+    {
+      "album": {
         "name": "Sacred Heart",
         "url": "https://open.spotify.com/album/3HC5Li7xeTlRecInl0YEdp"
       },
@@ -18976,7 +19066,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 197824,
       "name": "Sharehouse Blues",
       "url": "https://open.spotify.com/track/4AG2vjhfDzudK7KKQNLgyM"
@@ -20882,7 +20972,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 197626,
       "name": "Suffocating",
       "url": "https://open.spotify.com/track/1MAOQ4HLZT62wDsrXsQ1tq"
@@ -23424,7 +23514,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 253456,
       "name": "Time",
       "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
@@ -24012,7 +24102,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -25110,7 +25200,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 172597,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/7epTOf0CEuVtCmlLsnZOSa"

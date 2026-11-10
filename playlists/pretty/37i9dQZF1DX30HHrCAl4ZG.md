@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,482 likes - 161 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,463 likes - 161 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

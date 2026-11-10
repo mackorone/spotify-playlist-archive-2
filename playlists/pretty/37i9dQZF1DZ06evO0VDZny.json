@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 525449,
+  "num_followers": 525470,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAC0VTvHaaBNf7KqoZBZIW6f",
+  "snapshot_id": "au+7gAAAAAB/gUfvCKZ8ToRUTKdysAxi",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 266369,
-      "name": "Pray for Plagues - 2026 Repented",
-      "url": "https://open.spotify.com/track/2h2z6VlYWtw5jUZ1GRSrg8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
         "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 274133,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 266369,
+      "name": "Pray for Plagues - 2026 Repented",
+      "url": "https://open.spotify.com/track/2h2z6VlYWtw5jUZ1GRSrg8"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 265328,
-      "name": "sL33pwalking.idl",
-      "url": "https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr"
+      "duration_ms": 309218,
+      "name": "med!cine.fbk",
+      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
     },
     {
       "added_at": null,
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 207982,
-      "name": "losT_404.nll",
-      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
+      "duration_ms": 265328,
+      "name": "sL33pwalking.idl",
+      "url": "https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr"
     },
     {
       "added_at": null,
@@ -844,13 +844,17 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Kanisan",
-          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
         }
       ],
-      "duration_ms": 208224,
-      "name": "seenitallbefore_xx.arch",
-      "url": "https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm"
+      "duration_ms": 162946,
+      "name": "canyoufeelmy<3.tmpx",
+      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
     },
     {
       "added_at": null,
@@ -864,17 +868,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        },
-        {
-          "name": "No Spirit",
-          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 162946,
-      "name": "canyoufeelmy<3.tmpx",
-      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
+      "duration_ms": 207982,
+      "name": "losT_404.nll",
+      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: TWS)",
+  "description": "Future K-Pop hits! (Cover: A2O SOUL)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 169000,
       "name": "BODY WAVE",
       "url": "https://open.spotify.com/track/6b4pAgNdvX3oB8JU8cfUck"
@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 171958,
       "name": "CHAT",
       "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
@@ -6940,6 +6940,28 @@
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/6yXPYq0Iz38xI9BMByyMV4"
+      },
+      "artists": [
+        {
+          "name": "A2O SOUL",
+          "url": "https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7JaklRGtjDrRBtJHOSIEI4"
     },
     {
       "album": {
@@ -10582,7 +10604,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 161000,
       "name": "Forever July",
       "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
@@ -18323,6 +18345,24 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/0WDSuTC158mmg6uhRs6ABJ"
+      },
+      "artists": [
+        {
+          "name": "CHAERYEONG",
+          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/0TjdkkN0gxVHrUkmw7WNtD"
+    },
+    {
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
       },
@@ -20146,6 +20186,24 @@
       "duration_ms": 168462,
       "name": "Nabillera",
       "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
+    },
+    {
+      "album": {
+        "name": "2ND EP [NA-GARI]",
+        "url": "https://open.spotify.com/album/5DFiaUhKJqek0JmM73l4S4"
+      },
+      "artists": [
+        {
+          "name": "KEYVITUP",
+          "url": "https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "NAGARI",
+      "url": "https://open.spotify.com/track/5TZZ7ZO7loxqV71zrFdPZ8"
     },
     {
       "album": {
@@ -23835,6 +23893,24 @@
     },
     {
       "album": {
+        "name": "Across Dimensions",
+        "url": "https://open.spotify.com/album/3TiepABUSWLiLhunylAWiR"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "REBELS",
+      "url": "https://open.spotify.com/track/3hPaJFQztzjAiXAziNVh6W"
+    },
+    {
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4j6qWUx1OjrrR59XdT6gcU"
       },
@@ -26772,7 +26848,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 146000,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/5BwU28Gj1jfpYNf6tdJKh0"

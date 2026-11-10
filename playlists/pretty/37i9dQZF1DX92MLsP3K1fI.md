@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Alleh en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,735 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,746 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 30 | [ObsesionHada](https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [ObsesionHada](https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0) | 2:31 |
 | 31 | [La Espina](https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Espina](https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf) | 3:26 |
 | 32 | [Criminal](https://open.spotify.com/track/0fXICWku7upbu92G3KUURp) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Criminal](https://open.spotify.com/album/0flBtapIUqgzI4huY8BE5J) | 3:14 |
-| 33 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
-| 34 | [Luna](https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Luna](https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2) | 2:52 |
+| 33 | [Luna](https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Luna](https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2) | 2:52 |
+| 34 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
 | 35 | [la del proceso](https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [la del proceso](https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY) | 2:35 |
 | 36 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
 | 37 | [La Limonada](https://open.spotify.com/track/6puekSoUFCRJO3KXRb2o9f) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [La Limonada](https://open.spotify.com/album/0ymOLrgHZ46f2REItckz7E) | 3:37 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 62 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
 | 63 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 | 64 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
-| 65 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
-| 66 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 65 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 66 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
 | 67 | [Paisajes](https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(Vol\. 1\)](https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo) | 2:52 |
 | 68 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 |
 | 69 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |

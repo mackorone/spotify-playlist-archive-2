@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 36 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 36 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 35 | [Situation](https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 4:13 |
 | 36 | [Slow](https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Voices](https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm) | 3:42 |
 
-Snapshot ID: `au5qAAAAAACIBvV3w0ew7W3Q7uSoVdB0`
+Snapshot ID: `au+7gAAAAAC7huI7zpki8mT5PYVKMk/i`

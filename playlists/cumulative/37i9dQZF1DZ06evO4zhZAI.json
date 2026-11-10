@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Streetsoul",
+        "url": "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278600,
+      "name": "Plenty",
+      "url": "https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN"
+    },
+    {
+      "album": {
         "name": "Hard Groove",
         "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },

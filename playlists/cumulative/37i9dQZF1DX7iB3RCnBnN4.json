@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Celebrating all the songs with over a Billion streams on Spotify. Cover: BTS",
+  "description": "Celebrating all the songs with over a Billion streams on Spotify. Cover: Daft Punk",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248357,
+      "name": "18",
+      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
     },
     {
       "album": {
@@ -2986,6 +3004,24 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "album": {
@@ -14283,6 +14319,24 @@
     },
     {
       "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+    },
+    {
+      "album": {
         "name": "All the Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
       },
@@ -18613,6 +18667,24 @@
     },
     {
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
@@ -22660,6 +22732,24 @@
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "album": {

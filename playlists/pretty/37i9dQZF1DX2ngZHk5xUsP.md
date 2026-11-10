@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,019 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,017 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

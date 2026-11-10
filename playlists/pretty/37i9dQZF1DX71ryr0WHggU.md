@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71ryr0WHggU.md) - [plain]
 
 > Let's go out out 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,088 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,083 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71ryr0WHggU.md) - [plain]
 | 59 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 60 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 61 | [Shut Up And Drive](https://open.spotify.com/track/7AQjiRtIpr33P8UT98iveh) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 3:32 |
-| 62 | [Untouched](https://open.spotify.com/track/40bm28QcJT5My540ymSQ2y) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 4:15 |
-| 63 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
+| 62 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
+| 63 | [Untouched](https://open.spotify.com/track/40bm28QcJT5My540ymSQ2y) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 4:15 |
 | 64 | [Dance The Night](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:56 |
 | 65 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 66 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 |

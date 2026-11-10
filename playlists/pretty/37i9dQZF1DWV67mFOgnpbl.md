@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,317 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,422 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 74 | [Realize](https://open.spotify.com/track/3mjSvzk1uqa9k8QxNy36mU) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Realize](https://open.spotify.com/album/4s6UkDgz073CrsXH931iSQ) | 3:37 |
 | 75 | [Head Like A Hole](https://open.spotify.com/track/1NWF6E214jVr9ckgxpPIXM) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Warpaint](https://open.spotify.com/album/7Fpq5DJTi4EF9g8NwU5zQl) | 3:53 |
 | 76 | [Kill the Lights](https://open.spotify.com/track/6dx5S8zTzRqYulcXGNy0oy) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [Kill the Lights](https://open.spotify.com/album/7pZgEhCSZ4dMpZwze54tQW) | 2:52 |
-| 77 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 |
-| 78 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 |
+| 77 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 |
+| 78 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 |
 | 79 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 |
 | 80 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
 | 81 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 |

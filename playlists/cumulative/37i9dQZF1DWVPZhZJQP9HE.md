@@ -2,7 +2,7 @@
 
 ### [Tamil Indie](https://open.spotify.com/playlist/37i9dQZF1DWVPZhZJQP9HE)
 
-> Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
+> Tune into the finest of Tamil Indie music!<br/>Cover : Saurav Srisan & Tanisha Gnanavel
 
 832 songs - 2 day 0 hr 50 min
 
@@ -47,7 +47,7 @@
 | [Ailasa](https://open.spotify.com/track/3mJ2SqmXIDbn5XECaqN1jj) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 3:03 | 2022-05-06 | 2023-01-28 |
 | [Aiyanar Kudurai \- From "Raushan"](https://open.spotify.com/track/7hgKKVqJYdRs3SQtLLZWkz) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Aiyanar Kudurai \(From "Raushan"\)](https://open.spotify.com/album/6INfnfKlxeNzFuqZeHG9EA) | 4:13 | 2024-12-19 | 2025-01-31 |
 | [Aiyo \- From "Think Indie"](https://open.spotify.com/track/7mNB1MALEoRd6VrDjJktFI) | [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx) | [Aiyo \(From "Think Indie"\)](https://open.spotify.com/album/4iSiDRfGh96CxLNSMFMoi2) | 4:00 | 2023-01-30 | 2023-07-25 |
-| [Aiyo Relation \(From "Ex Reunion Day"\)](https://open.spotify.com/track/0OSnqvtABkzIoRdS41qSii) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [A Pa Raja](https://open.spotify.com/artist/1d6dfr1FBe32Yo6RT7Tcae) | [Aiyo Relation \(From "Ex Reunion Day"\)](https://open.spotify.com/album/4F8ncquO05VxmEfeq1mP8v) | 2:21 | 2026-10-19 |  |
+| [Aiyo Relation \(From "Ex Reunion Day"\)](https://open.spotify.com/track/0OSnqvtABkzIoRdS41qSii) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [A Pa Raja](https://open.spotify.com/artist/1d6dfr1FBe32Yo6RT7Tcae) | [Aiyo Relation \(From "Ex Reunion Day"\)](https://open.spotify.com/album/4F8ncquO05VxmEfeq1mP8v) | 2:21 | 2026-10-19 | 2026-11-10 |
 | [AKKA MAGA](https://open.spotify.com/track/0B2KlaYhOzQ0kqzHdQNS2d) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [AKKA MAGA](https://open.spotify.com/album/71ZYdFJ4gMV2kDEsqgPf4u) | 2:41 | 2024-11-20 | 2024-12-06 |
 | [Aladhi Kadhale](https://open.spotify.com/track/4zNgT5XTDiU0gme9wJSstg) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID) | [Aladhi Kadhale](https://open.spotify.com/album/7hygqx2WfOVpxqtGBEkbO2) | 3:12 | 2023-03-31 | 2023-06-27 |
 | [Alien](https://open.spotify.com/track/2SnHeg55mv1Oc0oit4BkpC) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Alien](https://open.spotify.com/album/6iBQPUhx4Ptzg8w0S2PoaG) | 3:41 | 2023-01-05 | 2023-02-24 |
@@ -382,7 +382,7 @@
 | [Madras](https://open.spotify.com/track/3guUJKbRUXD545VrR3511Q) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Madras](https://open.spotify.com/album/7ayAod1AzAPSCGu3kBgwHE) | 2:39 | 2026-10-23 |  |
 | [Maduthu \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/1j9Dfhj3VrRx2SvWjbEm6x) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3) | [Maduthu \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/7MFMjY2TiIGa1y6q0p8QAi) | 3:09 | 2023-12-18 | 2024-08-15 |
 | [Maiyal](https://open.spotify.com/track/5CDoT9DeBTgLbJP9h7cNNn) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Varshini Shankar](https://open.spotify.com/artist/0ckwDyqphwaCPqdYubBF02) | [Maiyal](https://open.spotify.com/album/1O8xGmpRfJs3VAppThcJcE) | 3:44 | 2023-02-24 | 2024-04-02 |
-| [Majili Marvels](https://open.spotify.com/track/2xboIsvvkyvOV8CNIJBngG) | [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc), [Madras Miran](https://open.spotify.com/artist/2uGJ4HB24UySISeUlOHsNb) | [Majili Marvels](https://open.spotify.com/album/3PjOfkLCURKWdbpgOSo48Z) | 3:08 | 2026-04-08 |  |
+| [Majili Marvels](https://open.spotify.com/track/2xboIsvvkyvOV8CNIJBngG) | [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc), [Madras Miran](https://open.spotify.com/artist/2uGJ4HB24UySISeUlOHsNb) | [Majili Marvels](https://open.spotify.com/album/3PjOfkLCURKWdbpgOSo48Z) | 3:08 | 2026-04-08 | 2026-11-10 |
 | [Malar](https://open.spotify.com/track/23oT1fb1GhQD0kSeLpVtHv) | [Ashwin Aryan](https://open.spotify.com/artist/7w7JsEht5xieUuMnFgLNZ1) | [Malar](https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI) | 3:35 | 2022-10-14 | 2022-11-15 |
 | [Malar Katre](https://open.spotify.com/track/3fLQTJuhgOzBQ7wzjtGck0) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Malar Katre](https://open.spotify.com/album/1sSNRMiIgxSfR44HiHTWFz) | 3:15 | 2023-10-19 | 2023-12-01 |
 | [Malarum Vazhvey](https://open.spotify.com/track/1CFga4SrXszXXs7B6Oum4v) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3tqlZLdtK0XIdCYhoMfHtw) | 2:54 | 2023-03-16 | 2023-03-23 |

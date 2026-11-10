@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Wamen \(du titre \#1 au \#15\)\. Les titres \#16 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,316 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,260 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

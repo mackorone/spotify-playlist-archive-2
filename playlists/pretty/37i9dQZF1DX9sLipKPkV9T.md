@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ליהי טולדנו
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,582 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,577 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

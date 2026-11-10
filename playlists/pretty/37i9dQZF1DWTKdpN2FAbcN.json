@@ -1,12 +1,12 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 280151,
+  "num_followers": 280224,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFOVPJmGT3H+bNDRzmfrLGofyZB6",
+  "snapshot_id": "AAAAAFPiCNsNjNmn5EL8XjKQt5DATU/I",
   "tracks": [
     {
       "added_at": "2026-03-18 14:27:33",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
+      "added_at": "2026-11-09 19:49:58",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "Call It Love (For The Night)",
+      "url": "https://open.spotify.com/track/2kfVlK15j6blvPFZ5fQyDs"
+    },
+    {
       "added_at": "2026-03-18 14:27:33",
       "album": {
         "name": "SWAG",
@@ -143,22 +159,6 @@
     {
       "added_at": "2026-03-18 14:27:33",
       "album": {
-        "name": "Sixpence None The Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2026-03-18 14:27:33",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 194004,
       "name": "come closer",
       "url": "https://open.spotify.com/track/261jWBGVjAGH4SuOEVLlvO"
+    },
+    {
+      "added_at": "2026-03-18 14:27:33",
+      "album": {
+        "name": "Sixpence None The Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2026-03-18 14:27:33",
@@ -207,22 +223,6 @@
     {
       "added_at": "2026-03-18 14:27:33",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2026-03-18 14:27:33",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2026-03-18 14:27:33",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2026-07-27 04:17:27",
@@ -951,26 +935,6 @@
     {
       "added_at": "2026-03-18 14:27:33",
       "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
-    },
-    {
-      "added_at": "2026-03-18 14:27:33",
-      "album": {
         "name": "Wildest Dreams (Taylor's Version)",
         "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
       },
@@ -1113,22 +1077,6 @@
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
-      "added_at": "2026-07-10 04:02:22",
-      "album": {
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Notting Hill",
-      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
-    },
-    {
       "added_at": "2026-03-18 14:27:33",
       "album": {
         "name": "To Love Somebody",
@@ -1179,22 +1127,6 @@
     {
       "added_at": "2026-03-18 14:27:33",
       "album": {
-        "name": "Red Wine Supernova",
-        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
-    },
-    {
-      "added_at": "2026-03-18 14:27:33",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
       },
@@ -1207,6 +1139,22 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
+    },
+    {
+      "added_at": "2026-03-18 14:27:33",
+      "album": {
+        "name": "Red Wine Supernova",
+        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
     },
     {
       "added_at": "2026-03-18 14:27:33",
@@ -1239,6 +1187,54 @@
       "duration_ms": 196551,
       "name": "forever and a day",
       "url": "https://open.spotify.com/track/4zGV9YkuYTKRVV6RXd2WvS"
+    },
+    {
+      "added_at": "2026-03-18 14:27:33",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+    },
+    {
+      "added_at": "2026-03-18 14:27:33",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2026-03-18 14:27:33",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     }
   ],
   "unique_name": "Crushing ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 
 > Todos los grandes éxitos del año, reunidos en un solo lugar\. Omar Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508,615 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,508,789 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 | 11 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
 | 12 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
 | 13 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
-| 14 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
-| 15 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
+| 14 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
+| 15 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 16 | [Marlboro Rojo](https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:04 |
 | 17 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
-| 18 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
-| 19 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
+| 18 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
+| 19 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
 | 20 | [Ya Borracho](https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 2:38 |
 | 21 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 |
 | 22 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 | 45 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 46 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 |
 | 47 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 |
-| 48 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
-| 49 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
+| 48 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
+| 49 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 50 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 |
 | 51 | [Chula Vente](https://open.spotify.com/track/2AWY8422GKdGpGw6ejB1Ys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 4:01 |
 | 52 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |

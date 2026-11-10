@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203470,
+      "name": "Call It Love (For The Night)",
+      "url": "https://open.spotify.com/track/2kfVlK15j6blvPFZ5fQyDs"
+    },
+    {
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -464,7 +482,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -1790,7 +1808,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 190213,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"

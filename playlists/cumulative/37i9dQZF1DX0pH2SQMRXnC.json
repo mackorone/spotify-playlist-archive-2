@@ -3493,6 +3493,28 @@
     },
     {
       "album": {
+        "name": "Come As One",
+        "url": "https://open.spotify.com/album/15w3AzPWC3rEN9mLbyLPB3"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254670,
+      "name": "Come As One",
+      "url": "https://open.spotify.com/track/5twCHrccX9L9NOtyrQbljx"
+    },
+    {
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/4bN61KgB2gz5X3re39tTWV"
       },
@@ -4082,7 +4104,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 183483,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa"
@@ -7828,6 +7850,28 @@
       "duration_ms": 170620,
       "name": "GIMMELOVE",
       "url": "https://open.spotify.com/track/31MA2613XA9UWoAW2l925R"
+    },
+    {
+      "album": {
+        "name": "GIVE IT TO ME",
+        "url": "https://open.spotify.com/album/2TBpNGoinXQc6qCi60I2El"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "GIVE IT TO ME",
+      "url": "https://open.spotify.com/track/6u6Ec5hxUrUSjMpLxDcZs7"
     },
     {
       "album": {
@@ -12304,7 +12348,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 163776,
       "name": "Love Generation",
       "url": "https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN"
@@ -13714,6 +13758,32 @@
       "duration_ms": 246328,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/1jqZDmJFalhek6Jjwug3yf"
+    },
+    {
+      "album": {
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/54jYZZtZmfmkSD39VUBvdr"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        },
+        {
+          "name": "Sarah Anglionin",
+          "url": "https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/4TwKJPjpGOdSJoKAznlJ36"
     },
     {
       "album": {
@@ -15183,6 +15253,24 @@
     },
     {
       "album": {
+        "name": "Oye Papi",
+        "url": "https://open.spotify.com/album/4yHBRNEhdchHtMdW1i74Dk"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133882,
+      "name": "Oye Papi",
+      "url": "https://open.spotify.com/track/6UUrN6SNm4nauWp13pfzQx"
+    },
+    {
+      "album": {
         "name": "P2TC",
         "url": "https://open.spotify.com/album/6NhYeNXLomKDiwEwQvFBTv"
       },
@@ -15846,6 +15934,28 @@
       "duration_ms": 177750,
       "name": "PUMP THE MUSIC",
       "url": "https://open.spotify.com/track/7LE3CsLJSY6un9R4JWB1rj"
+    },
+    {
+      "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/56PkzP5gk1ldQ8dYJbBg9I"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        },
+        {
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162955,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0S51t2Lz2wwwiy2J9MRAmx"
     },
     {
       "album": {
@@ -17672,7 +17782,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 143507,
       "name": "SIDEQUEST - Tetris Mix",
       "url": "https://open.spotify.com/track/1fqpFQe0pLpD1IviXCcVnk"
@@ -22842,7 +22952,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
@@ -23226,7 +23336,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 217303,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX"

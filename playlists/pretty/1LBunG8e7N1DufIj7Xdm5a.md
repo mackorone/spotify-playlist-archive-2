@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,526 songs - 12 day 20 hr 32 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,529 songs - 12 day 20 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5534,5 +5534,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5524 | [Saving Grace](https://open.spotify.com/track/0r26rnNo0SgUDxfOUQZjAQ) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Saving Grace](https://open.spotify.com/album/06HWWELSPtvnXUYEVTw5nV) | 4:47 |
 | 5525 | [Angel o Demonio](https://open.spotify.com/track/2WB7oIzoI9eM9O9wSc32Gy) | [El Bardo](https://open.spotify.com/artist/6eljOiTOJ80xq0cTLxWHWO) | [Angel o Demonio](https://open.spotify.com/album/6f7jcF88aFAtdRsW5JbXND) | 3:52 |
 | 5526 | [The Habbit Of Heartbreak](https://open.spotify.com/track/5gjKINtN1ntm8GIvw3M8TB) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [The Habbit Of Heartbreak](https://open.spotify.com/album/1ti6cOmKrjXf8DAmGXfkvg) | 3:48 |
+| 5527 | [Sometimes](https://open.spotify.com/track/53AWwRIORkZEKeQgbYEEN9) | [VKY Emotion 237](https://open.spotify.com/artist/6h6qfGkgMnXehDGCKyF6Fj), [Aka Relli](https://open.spotify.com/artist/48Vao2QW3UDxRAA8zTMus7) | [Sometimes](https://open.spotify.com/album/3fdeMM8GUqyNNxsK8bmAbb) | 2:58 |
+| 5528 | [Unspoken](https://open.spotify.com/track/78ab07jV5XIsr1Zlmtq4hs) | [N3OLUMIN](https://open.spotify.com/artist/7bpeZd1O8qMlzRN49oUWZl) | [Unspoken](https://open.spotify.com/album/3G4QJXO7Y9fTAgqG6MPGug) | 3:10 |
+| 5529 | [Fading Trace](https://open.spotify.com/track/25SdqP59ZUBkkfTZXgVhzN) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Burn the Old Maps](https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth) | 2:45 |
 
-Snapshot ID: `AAAK/pMfjDFCKDq+Igf5cTRvF255JKTk`
+Snapshot ID: `AAALAfmb/g7jXQUOpiKTjtLSUorWMaUU`

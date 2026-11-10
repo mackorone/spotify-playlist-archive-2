@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,867 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,865 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 21 | [Hanya Untukku](https://open.spotify.com/track/7F0fYRUVCqErlEm4s68b9w) | [Sahrul Gunawan](https://open.spotify.com/artist/7rfv4Bws90xHKho0iUXjpK) | [Luka & Cinta](https://open.spotify.com/album/6R8nkOwsLw7oHSGacnNUgi) | 3:55 |
 | 22 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 |
 | 23 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 |
-| 24 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
-| 25 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
+| 24 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
+| 25 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
 | 26 | [Terpukau](https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:12 |
 | 27 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |
 | 28 | [Pupus](https://open.spotify.com/track/7ADK1rnMzP6PGWhoqWirBJ) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Cintailah Cinta](https://open.spotify.com/album/6ifjItwHx7S2mhoX6tWSlK) | 5:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 45 | [Sekali Ini Saja](https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx) | 3:55 |
 | 46 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 |
 | 47 | [Sampai Menutup Mata](https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:48 |
-| 48 | [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 |
-| 49 | [Cinta Terbaik](https://open.spotify.com/track/0Afs1hDADIDxx31FyJIEXm) | [Cassandra](https://open.spotify.com/artist/0BUTvSwaoKcP9ucuEyyYpr) | [Cinta Terbaik](https://open.spotify.com/album/1QZ1303FrXfo2SJJa6UC5K) | 4:01 |
-| 50 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
+| 48 | [Cinta Terbaik](https://open.spotify.com/track/0Afs1hDADIDxx31FyJIEXm) | [Cassandra](https://open.spotify.com/artist/0BUTvSwaoKcP9ucuEyyYpr) | [Cinta Terbaik](https://open.spotify.com/album/1QZ1303FrXfo2SJJa6UC5K) | 4:01 |
+| 49 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 |
+| 50 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 |
 
 Snapshot ID: `AAAAAOYGUSWGhwuvh3HAp9GXul0e8rr2`

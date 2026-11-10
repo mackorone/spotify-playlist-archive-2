@@ -1,6 +1,6 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1567785,
+  "num_followers": 1567862,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAFv753yjFa+tkcnAQpC+ErZB1Qvg",
   "tracks": [
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Uptown Special",
-        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 269658,
-      "name": "Uptown Funk (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 269658,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 220800,
       "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
-      "added_at": "2025-05-09 04:00:24",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
       "added_at": "2024-07-12 06:06:06",
       "album": {
         "name": "Doo-Wops & Hooligans",
@@ -743,6 +727,22 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+    },
+    {
+      "added_at": "2025-05-09 04:00:24",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/0ecUmBX4469DFW5iWkuHia"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
+      "duration_ms": 218227,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1423,22 +1439,6 @@
       "duration_ms": 186146,
       "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
       "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/0ecUmBX4469DFW5iWkuHia"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 218227,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 207719,
-      "name": "Want to Want Me",
-      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "L.P.",
+        "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
+      },
+      "artists": [
+        {
+          "name": "The Rembrandts",
+          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
+        }
+      ],
+      "duration_ms": 188359,
+      "name": "I'll Be There for You - Theme From \"Friends\"",
+      "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
       },
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "L.P.",
-        "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
-      },
-      "artists": [
-        {
-          "name": "The Rembrandts",
-          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
-        }
-      ],
-      "duration_ms": 188359,
-      "name": "I'll Be There for You - Theme From \"Friends\"",
-      "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Love You For A Long Time",
         "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },
@@ -1971,6 +1971,22 @@
       "duration_ms": 223120,
       "name": "Love You For A Long Time",
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1991,22 +2007,6 @@
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2024-07-12 06:06:06",

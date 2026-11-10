@@ -4604,7 +4604,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 173700,
       "name": "GAZE",
       "url": "https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk"
@@ -4854,6 +4854,28 @@
       "duration_ms": 130429,
       "name": "God's Favorite",
       "url": "https://open.spotify.com/track/2jcCdk4FEEyXf2sDdiC0qB"
+    },
+    {
+      "album": {
+        "name": "God's Got Me",
+        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "God's Got Me",
+      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
     },
     {
       "album": {

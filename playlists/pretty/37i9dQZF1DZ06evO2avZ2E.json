@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3342,
+  "num_followers": 3344,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAA/vc56aIo+bqNRUS2nSRJ",
+  "snapshot_id": "au+7gAAAAADRC4weLZAb5jJ1XqMbEYHm",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRANSFORMANDO",
-        "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
-      "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Q.I.S",
         "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 223910,
       "name": "Q.I.S - feat. maye",
       "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRANSFORMANDO",
+        "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
+      "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nave Especial",
         "url": "https://open.spotify.com/album/60d7LXNCFHzJke9A1bZo2t"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 209042,
       "name": "Nada",
       "url": "https://open.spotify.com/track/2ns0ysIuOca9iRBFuKM6cH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 158492,
-      "name": "SUBCONSCIENTE",
-      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
+      "duration_ms": 205576,
+      "name": "CONTRACORRIENTE",
+      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+      "duration_ms": 158492,
+      "name": "SUBCONSCIENTE",
+      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue Solo un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Fue Solo un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminando en Fuego",
         "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 203633,
       "name": "Hasta la Fantas\u00eda",
       "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fue Solo un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Fue Solo un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
       "duration_ms": 90875,
       "name": "caballos",
       "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "No",
-      "url": "https://open.spotify.com/track/4i8rGIdfM4b2wJqyT0Hf3u"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

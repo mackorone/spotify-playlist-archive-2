@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,677 likes - 47 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,688 likes - 47 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 26 | [ROBBERY \(feat\. Doechii\)](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
 | 27 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
 | 28 | [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 |
-| 29 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
-| 30 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
-| 31 | [Weekend](https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 1:26 |
+| 29 | [Weekend](https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 1:26 |
+| 30 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
+| 31 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 32 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 |
 | 33 | [Stressed \- A COLORS SHOW](https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed \- A COLORS SHOW](https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder) | 3:06 |
-| 34 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
-| 35 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
+| 34 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
+| 35 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
 | 36 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
 | 37 | [What's Your Name?](https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:39 |
-| 38 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
-| 39 | [Bills](https://open.spotify.com/track/5LPXCjLSAPxTmOTSx4n308) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 1:00 |
+| 38 | [Bills](https://open.spotify.com/track/5LPXCjLSAPxTmOTSx4n308) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 1:00 |
+| 39 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
 | 40 | [Shit](https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 2:00 |
 | 41 | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/track/7bgYrlMU0S1wfNPPD4A91Z) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:23 |
 | 42 | [Something Real](https://open.spotify.com/track/2Xrc2SOmcCHi9Fx5PynXVe) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:34 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 46 | [This Bitch Matters](https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 1:41 |
 | 47 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
 
-Snapshot ID: `au5qAAAAAABYAN3OENeGpJkqPF5ml3qa`
+Snapshot ID: `au+7gAAAAAC2CpgtBW//zjZxqDHhikAA`

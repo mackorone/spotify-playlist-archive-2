@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAbqSZ7jHaydSaliV5CRsaT",
+  "snapshot_id": "au+7gAAAAADqC7K4y6gXfUK22Xm6w+KS",
   "tracks": [
     {
       "added_at": null,
@@ -460,13 +460,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "David Barber",
+          "url": "https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i"
         }
       ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+      "duration_ms": 157687,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4gfxbgos8kfCZybOnMgmns"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 218653,
-      "name": "Flat Pack",
-      "url": "https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS"
+      "duration_ms": 116537,
+      "name": "Tradies",
+      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 116537,
-      "name": "Tradies",
-      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
+      "duration_ms": 218653,
+      "name": "Flat Pack",
+      "url": "https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS"
     },
     {
       "added_at": null,

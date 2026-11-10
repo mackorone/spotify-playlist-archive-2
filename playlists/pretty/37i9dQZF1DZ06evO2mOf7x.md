@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,777 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,782 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 21 | [El Consejo](https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:59 |
 | 22 | [Te Metiste](https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37) | 3:44 |
 | 23 | [Mi Rey, Mi Santo](https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Rey, Mi Santo](https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe) | 2:44 |
-| 24 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 |
-| 25 | [Capullo Y Sorullo](https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:41 |
+| 24 | [Capullo Y Sorullo](https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:41 |
+| 25 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 |
 | 26 | [Reza y Reza](https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:52 |
 | 27 | [Mentiras Bonitas](https://open.spotify.com/track/6qBiTDIcNYrGnnGZvZ4hu7) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mentiras Bonitas](https://open.spotify.com/album/2xGE2zV6wlTDzvnr8aOxcH) | 3:08 |
-| 28 | [Cuento de Nunca Acabar](https://open.spotify.com/track/7ME9Kgu1z5orVDams1huX8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [¡VIDA MÉXICO!](https://open.spotify.com/album/3PprJqLFUtCqjt4rzS7IPm) | 3:43 |
-| 29 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
+| 28 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
+| 29 | [Cuento de Nunca Acabar](https://open.spotify.com/track/7ME9Kgu1z5orVDams1huX8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [¡VIDA MÉXICO!](https://open.spotify.com/album/3PprJqLFUtCqjt4rzS7IPm) | 3:43 |
 | 30 | [Engañada](https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Tu Decisión](https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1) | 3:06 |
 | 31 | [Quiero Verte](https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Quiero Verte](https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK) | 3:33 |
 | 32 | [Besos Robados](https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Besos Robados](https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Alma perdida](https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Alma Perdida](https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL) | 3:55 |
 | 50 | [Deja](https://open.spotify.com/track/3eeHqf4SVkFhjGsy0lBUSd) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Atraparé Bandido](https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2) | 3:36 |
 
-Snapshot ID: `au5qAAAAAADMAS4nApnKWS4oq4Jjy+27`
+Snapshot ID: `au+7gAAAAADKfPn9J1PZhszoHZmjl8hp`

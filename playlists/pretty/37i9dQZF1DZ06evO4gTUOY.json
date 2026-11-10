@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4146996,
+  "num_followers": 4147118,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABxeCtNJjuTmgf9NnvsTUuM",
+  "snapshot_id": "au+7gAAAAACjJOgymUORTEvTnV79FrNT",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Marshall Mathers LP2",
         "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 250188,
       "name": "The Monster",
       "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 392826,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 159786,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5CsDo9j3N4yFZNCN1h9loS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 392826,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
     },
     {
       "added_at": null,
@@ -643,6 +643,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 357920,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 206546,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 357920,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy"
     },
     {
       "added_at": null,

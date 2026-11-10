@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,072 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,163 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 48 | [Dantata](https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Dantata](https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn) | 2:51 |
 | 49 | [Amen](https://open.spotify.com/track/5xFnqGLySijRJ2q6som381) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:25 |
 | 50 | [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 |
-| 51 | [Mofe](https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Mofe](https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB) | 3:05 |
-| 52 | [Laye Mi](https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:24 |
+| 51 | [Laye Mi](https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:24 |
+| 52 | [Mofe](https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Mofe](https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB) | 3:05 |
 | 53 | [WHO THIS \(feat\. BNXN\)](https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:26 |
 | 54 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 |
 | 55 | [Lakute](https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:19 |

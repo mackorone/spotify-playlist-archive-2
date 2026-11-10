@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,663 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,667 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 87 | [Electric Soul](https://open.spotify.com/track/2DlDgDM7wNOjfJhN90rWmv) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Mettavolution](https://open.spotify.com/album/11PnTDfjNGEbfpGSfvGKwt) | 3:58 |
 | 88 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
 | 89 | [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 |
-| 90 | [Estrella Matutina](https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Estrella Matutina](https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt) | 3:20 |
-| 91 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/6O7IhKaYZSYAUv0u6xVJkl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:47 |
-| 92 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
-| 93 | [Miedo](https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Today Mañana](https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M) | 3:54 |
-| 94 | [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 |
-| 95 | [Mambo 1000](https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000](https://open.spotify.com/album/5JG1oBh7qRFjWgtKtRmOCD) | 5:40 |
-| 96 | [Pela Janela \(Through the Window\)](https://open.spotify.com/track/0FaYHxGCGmAzcQdXeIjmZJ) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gigi Rezende](https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:41 |
-| 97 | [sweet nothings](https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [sweet nothings](https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx) | 2:18 |
-| 98 | [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 |
-| 99 | [Calaveras y Diablitos](https://open.spotify.com/track/6OOYmmUw3jcF51g3iMpvXA) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveras y Diablitos](https://open.spotify.com/album/0ArxTs4EwDUAR6hPIBLOle) | 3:54 |
-| 100 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 |
+| 90 | [Game On](https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Game On](https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG) | 5:01 |
+| 91 | [Estrella Matutina](https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Estrella Matutina](https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt) | 3:20 |
+| 92 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/6O7IhKaYZSYAUv0u6xVJkl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:47 |
+| 93 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
+| 94 | [Miedo](https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Today Mañana](https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M) | 3:54 |
+| 95 | [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 |
+| 96 | [Mambo 1000](https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000](https://open.spotify.com/album/5JG1oBh7qRFjWgtKtRmOCD) | 5:40 |
+| 97 | [Pela Janela \(Through the Window\)](https://open.spotify.com/track/0FaYHxGCGmAzcQdXeIjmZJ) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gigi Rezende](https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:41 |
+| 98 | [sweet nothings](https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [sweet nothings](https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx) | 2:18 |
+| 99 | [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 |
+| 100 | [Calaveras y Diablitos](https://open.spotify.com/track/6OOYmmUw3jcF51g3iMpvXA) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveras y Diablitos](https://open.spotify.com/album/0ArxTs4EwDUAR6hPIBLOle) | 3:54 |
 
 Snapshot ID: `AAAAABEJlRhkaH/otfvi0uMbd0LVe1fx`

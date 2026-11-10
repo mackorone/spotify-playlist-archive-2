@@ -4,7 +4,7 @@
 
 > untitled halo <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-4,069 songs - 9 day 7 hr 18 min
+4,070 songs - 9 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [A Piece Of Your Mind](https://open.spotify.com/track/5c8bM603hqoHJzJFxmUkZ1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 2:50 | 2021-07-31 | 2021-12-02 |
 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 | 2022-02-25 | 2022-04-09 |
 | [A Song About Me](https://open.spotify.com/track/19F9GvHsmoOchHLxiXOEkE) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [A Song About Me](https://open.spotify.com/album/2CXv4GNwz8gNisulPJ0Y9S) | 4:24 | 2023-04-07 | 2023-05-13 |
-| [A Study in Flesh](https://open.spotify.com/track/0mWrQY0zmqK5wJMvDgKLgj) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [Lose Your Halo](https://open.spotify.com/album/1UnLt0EsWLkMMR4lZwjbo1) | 4:14 | 2026-10-30 |  |
+| [A Study in Flesh](https://open.spotify.com/track/0mWrQY0zmqK5wJMvDgKLgj) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [Lose Your Halo](https://open.spotify.com/album/1UnLt0EsWLkMMR4lZwjbo1) | 4:14 | 2026-10-30 | 2026-11-10 |
 | [A thousand lies \- Fine EDIT](https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 3:37 | 2025-11-07 | 2025-11-14 |
 | [A word becomes a sound](https://open.spotify.com/track/3vX6s2VxoxIHsCFJr71BkG) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/37Jw1EIuIYJodOeb7PZj5N) | 3:38 | 2020-08-21 | 2021-04-16 |
 | [A World Alone](https://open.spotify.com/track/55N0YHhO55Q1lWsc4dDPcI) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:54 | 2021-04-15 | 2021-05-19 |
@@ -493,6 +493,7 @@
 | [borderline](https://open.spotify.com/track/55sxV91ONwaNz31R3HESnV) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [borderline](https://open.spotify.com/album/4RuzjsaUT6UbmPRITLM54U) | 4:24 | 2026-07-10 | 2026-07-25 |
 | [Bored](https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Bored](https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa) | 2:39 | 2021-03-26 | 2021-11-13 |
 | [Boredom \(feat\. Rex Orange County & Anna of the North\)](https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 5:20 | 2020-05-12 | 2020-09-15 |
+| [Born Again \- Bonus Track](https://open.spotify.com/track/1WwPlmneXG71vStRDHf6m5) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Highway to Hell](https://open.spotify.com/album/1zRzmOFaTP1xz8HuYFQPwY) | 3:37 | 2026-11-09 |  |
 | [born again freestyle \(shed a tear\).mp3](https://open.spotify.com/track/3lwQeU821bQqCTVbZYAfZ4) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [born again freestyle \(shed a tear\).mp3](https://open.spotify.com/album/3W3rsEr0LMF4yjPtlIpYH8) | 2:33 | 2025-12-19 | 2026-05-22 |
 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 | 2026-08-21 | 2026-10-17 |
 | [Bottle Rocket](https://open.spotify.com/track/2UNaGqS3RPjvkBzTtIS94A) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Bottle Rocket](https://open.spotify.com/album/4QOAYNpThe6GyIfce6KMvM) | 3:25 | 2020-07-31 | 2020-11-11 |

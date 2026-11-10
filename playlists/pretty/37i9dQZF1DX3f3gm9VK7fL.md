@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f3gm9VK7fL.md) - [plain]
 
 > The hottest Anime hits of the 20s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,370 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,414 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f3gm9VK7fL.md) - [plain]
 | 36 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 37 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 38 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
-| 39 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
+| 39 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
 | 40 | [ひとりごつ](https://open.spotify.com/track/0lEH5AatlbJJlELJglP0kP) | [ハチワレ\(CV:田中 誠人\)](https://open.spotify.com/artist/61S5GoFsxHt9ZGOM55oVWe) | [ひとりごつ](https://open.spotify.com/album/1fL5U7EPRjkoXdz8zqEYTA) | 1:30 |
 | 41 | [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 |
-| 42 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
+| 42 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 43 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 |
 | 44 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 45 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |

@@ -4,7 +4,7 @@
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
 
-289 songs - 14 hr 51 min
+290 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,10 +53,11 @@
 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 | 2022-07-22 | 2024-04-19 |
 | [Bang Bang](https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Bang Bang](https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V) | 2:54 | 2022-04-29 | 2024-06-27 |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-04-29 | 2024-06-27 |
+| [Bi Festinha](https://open.spotify.com/track/4TODvJGQ6l1HmtpgyPrGbl) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Bi Festinha](https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN) | 2:28 | 2026-11-09 |  |
 | [BICHO SOLTO!!!](https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [BICHO SOLTO!!!](https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2) | 2:38 | 2022-07-22 | 2022-12-10 |
 | [boca](https://open.spotify.com/track/0whBldSuTpdP1UrjhdngQl) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [boca](https://open.spotify.com/album/4NFrmdrkTIuY3FNZJts5UE) | 3:11 | 2023-06-23 | 2023-07-15 |
 | [BODY TYPE](https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [BODY TYPE](https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J) | 2:26 | 2026-08-28 |  |
-| [Bom Demais](https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Bom Demais](https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF) | 2:23 | 2026-07-17 |  |
+| [Bom Demais](https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Bom Demais](https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF) | 2:23 | 2026-07-17 | 2026-11-10 |
 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 | 2022-04-29 | 2024-06-27 |
 | [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 | 2024-06-26 | 2025-09-02 |
 | [Boogie Brasil](https://open.spotify.com/track/2Kt6AV8QR7dsn9fdZukoxr) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Boogie Brasil](https://open.spotify.com/album/4pluecQjfURMeDXDgi3xjT) | 2:57 | 2025-07-11 | 2025-11-22 |

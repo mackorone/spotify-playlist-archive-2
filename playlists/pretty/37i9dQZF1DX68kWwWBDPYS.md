@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. Midnight Generation en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,748 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,708 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 7 | [Fiesta de Té](https://open.spotify.com/track/2QFMXKfrfvVmV3GMB9zqoz) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9) | [Fiesta de Té](https://open.spotify.com/album/7qvPnDnadXxAqxfh6JJ4pX) | 3:59 |
 | 8 | [Putita](https://open.spotify.com/track/0vv37Rsh43hXpgpu4ZJ0S3) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Himnos Nacionales, Vol\. 1](https://open.spotify.com/album/7yzkbBGeviqxNpA0AWcc1A) | 3:06 |
 | 9 | [Cuánto nos queda](https://open.spotify.com/track/1AJQzARciyt3rrR9NKEFDO) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cuánto nos queda](https://open.spotify.com/album/50yE0eLO8QTDvoY95WfbQy) | 3:14 |
-| 10 | [En Mi Cabeza](https://open.spotify.com/track/0utWmdRRJwHOLCOZ2ahFK2) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd), [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [En Mi Cabeza](https://open.spotify.com/album/5q34oc3PV0jidJfnDWDwkl) | 3:14 |
+| 10 | [En Mi Cabeza](https://open.spotify.com/track/0utWmdRRJwHOLCOZ2ahFK2) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd), [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [En Mi Cabeza](https://open.spotify.com/album/5q34oc3PV0jidJfnDWDwkl) | 3:15 |
 | 11 | [última vez!](https://open.spotify.com/track/2Y6SsgcBR0Kze3efXG54Zu) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [última vez!](https://open.spotify.com/album/6tGk2bbTCCTOmJAUD4fzvp) | 3:37 |
 | 12 | [Primero yo misma](https://open.spotify.com/track/2JMvzUCnUS0JSd9HiQYYbT) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Primero yo misma](https://open.spotify.com/album/4faITFXaPgC4xL4YA4XCQJ) | 2:42 |
 | 13 | [La Vida Que Debo](https://open.spotify.com/track/7hgVraGyJVFKLhlVxyKf41) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [La Vida Que Debo](https://open.spotify.com/album/62aR6OG8jETM5rP3qpvB3G) | 4:42 |

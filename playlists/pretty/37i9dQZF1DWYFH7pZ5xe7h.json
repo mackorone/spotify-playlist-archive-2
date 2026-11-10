@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 62006,
+  "num_followers": 62021,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,34 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
+      "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
         "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
       },
@@ -471,34 +499,6 @@
       "duration_ms": 1148173,
       "name": "Symphony No. 5 In C Sharp Minor: 3. Scherzo (Kr\u00e4ftig, nicht zu schnell)",
       "url": "https://open.spotify.com/track/6QNQHAY8KLaKstoszUp35z"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
-      "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -851,6 +851,30 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 880186,
+      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
+      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler: Symphony No. 3 in D Minor",
         "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 292066,
       "name": "Symphony No. 3 in D Minor: Part 1, I. Tempo Primo",
       "url": "https://open.spotify.com/track/5IAtPkndh0xCgswlxuxyV3"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler: Symphony No. 1",
-        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 880186,
-      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
-      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -1191,6 +1191,30 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 757713,
+      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
+      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 194266,
       "name": "Das Lied von der Erde: III. Von der Jugend",
       "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler: Symphony No. 9",
-        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 757713,
-      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
-      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
     },
     {
       "added_at": "2025-12-22 11:25:43",

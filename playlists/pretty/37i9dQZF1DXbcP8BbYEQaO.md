@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,321 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,334 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Film Noir](https://open.spotify.com/track/7DjfpeQoZzZv2DUe0kHaLT) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Film Noir](https://open.spotify.com/album/1Kffzv98M9zDC9TlIBZFPw) | 3:48 |
-| 2 | [Different Religion \(feat\. Model/Actriz\)](https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:43 |
-| 3 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
-| 4 | [The Box](https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [The Box](https://open.spotify.com/album/2vjDAKFAnCrEjteyOtWI63) | 3:45 |
-| 5 | [Me/You \(always and forever\)](https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Me/You \(always and forever\)](https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg) | 3:36 |
-| 6 | [Faulty](https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [GET MEAN](https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz) | 3:19 |
-| 7 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
+| 2 | [Look at me](https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [I thought this story wasn't about me](https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ) | 3:52 |
+| 3 | [hey boyyy](https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [hey boyyy](https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga) | 4:38 |
+| 4 | [Different Religion \(feat\. Model/Actriz\)](https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:43 |
+| 5 | [The Box](https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [The Box](https://open.spotify.com/album/2vjDAKFAnCrEjteyOtWI63) | 3:45 |
+| 6 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
+| 7 | [Faulty](https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [GET MEAN](https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz) | 3:19 |
 | 8 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
-| 9 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
-| 10 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
-| 11 | [Hard Beat](https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Hard Beat](https://open.spotify.com/album/3atdDfI9FcTZhrZQeOi8W0) | 3:45 |
-| 12 | [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 |
+| 9 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
+| 10 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
+| 11 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
+| 12 | [Hard Beat](https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Hard Beat](https://open.spotify.com/album/3atdDfI9FcTZhrZQeOi8W0) | 3:45 |
 | 13 | [HOW TO BE A LOVER](https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [HOW TO BE A LOVER](https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62) | 4:26 |
 | 14 | [Molly In The Club](https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Molly In The Club](https://open.spotify.com/album/1Z5c4jEcH46WtxXhAE7lCw) | 3:36 |
 | 15 | [Sunflower](https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sunflower](https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 99 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 |
 | 100 | [Fade Away](https://open.spotify.com/track/0IWBaEf7GOwKPKHyC32E1z) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 3:18 |
 
-Snapshot ID: `AAAAAAd6CjPqiOJMmK8sA13d71WOFn55`
+Snapshot ID: `AAAAAH6hpn1bAdTszUaI5Dh2vfmW3JgL`

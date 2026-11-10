@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,248 songs - 3 day 20 hr 3 min
+1,249 songs - 3 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Mango Drive](https://open.spotify.com/track/29Bx7ullHh1OeH0lpNS0X7) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 7:12 | 2025-08-28 |  |
 | [Manuark](https://open.spotify.com/track/2SSdkW1L2k8scw8cUvea6l) | [Voices from The Lake](https://open.spotify.com/artist/5SbbRrhr7qhyu1jv75AzOh) | [Manuark](https://open.spotify.com/album/73qxUWhcVJKaTHKkDgpS0d) | 6:54 | 2025-10-24 | 2026-04-07 |
 | [Maova](https://open.spotify.com/track/7rE7z8DJpCXogrfGgess34) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Maova](https://open.spotify.com/album/23zrpyDfuI8nsazNAR4Vu0) | 4:48 | 2025-10-24 |  |
+| [Maracaná](https://open.spotify.com/track/3ymvECUzkPwb4mGWuvEnkU) | [OR](https://open.spotify.com/artist/0OVGzl7zhsnqmi9wFTHmsA), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Music For Empty Stadiums](https://open.spotify.com/album/5TrIb5RT795Fuwx2Gqnv1U) | 4:18 | 2026-10-30 |  |
 | [March](https://open.spotify.com/track/6WHsUuUidIdiUURPA3EoCl) | [TrackLab](https://open.spotify.com/artist/65DZcPFgyDuLM0ugc3dqr8) | [March](https://open.spotify.com/album/1uT5d4NZHx1WvK5QJCm5PE) | 4:08 | 2019-06-19\* | 2020-10-22 |
 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 | 2025-04-04 | 2025-04-16 |
 | [Mask](https://open.spotify.com/track/5MWzkrY9OD5kJ7SyXBdRM0) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/6si8jpNmxbNqbgBKwtI4dN) | 5:37 | 2021-02-27 | 2021-03-10 |
@@ -1247,7 +1248,7 @@
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [Yip, Yip, Yip](https://open.spotify.com/track/0Jdoa0h7JwqZIxuRbddFAD) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Yip, Yip, Yip](https://open.spotify.com/album/0rk3qC18ghOoB7M4ge5kyO) | 2:03 | 2024-02-12 | 2024-05-09 |
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 |  |
-| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 |  |
+| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 | 2026-11-10 |
 | [Yūrei](https://open.spotify.com/track/0WGzvQMqARePYxra8qZgOr) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Polychrome Swim](https://open.spotify.com/album/5BdjVQkPnr10XILcaiVwhi) | 3:58 | 2020-11-13 | 2022-04-16 |
 | [zero hour contract](https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [emo\_ecstasy\_everything](https://open.spotify.com/album/5Z7spMFDZwAAQsNhS16gV8) | 4:12 | 2020-10-28 | 2022-06-22 |
 | [zin2 test5](https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 2:39 | 2023-07-28 | 2023-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jujubballin/">Juju Watkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 12 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 | 13 | [NO BYSTANDERS](https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:38 |
 | 14 | [Jet Fuel](https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
-| 15 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 |
-| 16 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 |
-| 17 | [The Beach](https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:25 |
+| 15 | [The Beach](https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:25 |
+| 16 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 |
+| 17 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 |
 | 18 | [Show Me](https://open.spotify.com/track/2uuJs2nltcYFh9pkKP7bW4) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:40 |
 | 19 | [Talk 2 U](https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 2:39 |
 | 20 | [HOUSTONFORNICATION](https://open.spotify.com/track/58TaFP5j5i9swOf584yon2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:37 |

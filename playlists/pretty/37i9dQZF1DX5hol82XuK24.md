@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,760 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,741 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 74 | [All the Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All the Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
 | 75 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lola Leon](https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
 | 76 | [How Are You Feeling?](https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [How Are You Feeling?](https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc) | 4:29 |
-| 77 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
-| 78 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
-| 79 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
+| 77 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
+| 78 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
+| 79 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 | 80 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
-| 81 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
-| 82 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
+| 81 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
+| 82 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
 | 83 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
 | 84 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
 | 85 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 96 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
 | 97 | [Hard Candy](https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Hard Candy](https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru) | 1:53 |
 | 98 | [Fire Leap](https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ), [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Fire Leap](https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr) | 2:51 |
-| 99 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |
-| 100 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
+| 99 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
+| 100 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |
 
 Snapshot ID: `AAAAAMhLuB9DMzGLwJVtn8FW8eq+XECf`

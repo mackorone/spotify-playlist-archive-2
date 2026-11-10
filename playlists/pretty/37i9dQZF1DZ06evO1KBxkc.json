@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204531,
+  "num_followers": 204541,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABdPQY/82o8ZXSNhvxeBXMZ",
+  "snapshot_id": "au+7gAAAAABaTrWkqDwk/MYC4/J2Z4Zj",
   "tracks": [
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "No Promises",
-      "url": "https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 154250,
       "name": "February",
       "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Say A'",
-      "url": "https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179209,
       "name": "Last Time (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Say A'",
+      "url": "https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 221076,
-      "name": "Stalking You",
-      "url": "https://open.spotify.com/track/1DPz356PzDOvqvjCnQu7Lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet The Woo 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 161120,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1xBOg9FFena72UENSE8SDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 221076,
+      "name": "Stalking You",
+      "url": "https://open.spotify.com/track/1DPz356PzDOvqvjCnQu7Lo"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

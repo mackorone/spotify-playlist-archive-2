@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,618 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,634 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 16 | [Stand By My Woman](https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:20 |
 | 17 | [The Chamber](https://open.spotify.com/track/357VHFTxGzgY8RXetnwjFB) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/3evSJzi5ghhXuPdmttKHNq) | 4:57 |
 | 18 | [Calling All Angels](https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 5:12 |
-| 19 | [Dancin' Til Dawn](https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB) | 5:09 |
-| 20 | [Borders \[Feat\. Lenny Kravitz\]](https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:53 |
+| 19 | [Borders \[Feat\. Lenny Kravitz\]](https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:53 |
+| 20 | [Dancin' Til Dawn](https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB) | 5:09 |
 | 21 | [Human](https://open.spotify.com/track/5HwyIGJ82WAAC49zsFoI8i) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:27 |
 | 22 | [If You Can't Say No](https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 5:17 |
 | 23 | [Believe](https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:54 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 31 | [Superlove](https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg) | 3:28 |
 | 32 | [Dig In](https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 3:37 |
 | 33 | [Something Beautiful](https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Backatown](https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a) | 3:41 |
-| 34 | [California](https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:36 |
-| 35 | [What Goes Around Comes Around \- 2012 Remaster/Explicit](https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said \(Deluxe\)](https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh) | 4:49 |
+| 34 | [What Goes Around Comes Around \- 2012 Remaster/Explicit](https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said \(Deluxe\)](https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh) | 4:49 |
+| 35 | [California](https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:36 |
 | 36 | [Eleutheria](https://open.spotify.com/track/7datu36O7lY60kKBOan48U) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:53 |
 | 37 | [Fields Of Joy](https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:57 |
 | 38 | [Mr\. Cab Driver](https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 49 | [highway robbery \(feat\. Lenny Kravitz\)](https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [highway robbery \(feat\. Lenny Kravitz\)](https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv) | 3:28 |
 | 50 | [New York City](https://open.spotify.com/track/3QBG916O8I3D2kvAyctz7R) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/3evSJzi5ghhXuPdmttKHNq) | 6:22 |
 
-Snapshot ID: `au5qAAAAAADq3tOaQcxE8W1hgtdEgWSI`
+Snapshot ID: `au+7gAAAAACX4zQoaFXlXNvdjzopQl1E`

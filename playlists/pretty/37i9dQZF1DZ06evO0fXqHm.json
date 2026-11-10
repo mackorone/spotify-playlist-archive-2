@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABOA3qOIolFDvRsAqf6zFUF",
+  "snapshot_id": "au+7gAAAAAAb7F5o2UCnndE5UnvEZ7vN",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/7i0jFr54qXDGJsHjmqEoMS"
+      },
+      "artists": [
+        {
+          "name": "O Muriel",
+          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 137458,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/5mBBGPIndZSNb2Dnfn7k3R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BAILE",
         "url": "https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 115859,
       "name": "Se T\u00e1 Solteira",
       "url": "https://open.spotify.com/track/6a5JCYemYOR4lta1mzaetS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faixa Rosa",
-        "url": "https://open.spotify.com/album/7i0jFr54qXDGJsHjmqEoMS"
-      },
-      "artists": [
-        {
-          "name": "O Muriel",
-          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 137458,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/5mBBGPIndZSNb2Dnfn7k3R"
     },
     {
       "added_at": null,
@@ -371,30 +371,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
+        "name": "Eu Vou Mostrar o Meu Talento",
+        "url": "https://open.spotify.com/album/48C9gdLxel4qFP428mr0io"
       },
       "artists": [
         {
+          "name": "O Esmaga",
+          "url": "https://open.spotify.com/artist/6ZLR8vyiWvfGuspFa02mQ7"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        },
+        {
+          "name": "FLAVIN NO BEAT",
+          "url": "https://open.spotify.com/artist/2fjkjXSmWFaR4PgHEYK7HO"
+        },
+        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
         }
       ],
-      "duration_ms": 188767,
-      "name": "Telefone",
-      "url": "https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV"
+      "duration_ms": 162461,
+      "name": "Eu Vou Mostrar o Meu Talento",
+      "url": "https://open.spotify.com/track/5USZcjuU8S0s0uvJlkseID"
     },
     {
       "added_at": null,
@@ -423,30 +423,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Vou Mostrar o Meu Talento",
-        "url": "https://open.spotify.com/album/48C9gdLxel4qFP428mr0io"
+        "name": "Mete Mac Vol 1",
+        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
       "artists": [
         {
-          "name": "O Esmaga",
-          "url": "https://open.spotify.com/artist/6ZLR8vyiWvfGuspFa02mQ7"
-        },
-        {
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
-        },
-        {
-          "name": "FLAVIN NO BEAT",
-          "url": "https://open.spotify.com/artist/2fjkjXSmWFaR4PgHEYK7HO"
-        },
-        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
         }
       ],
-      "duration_ms": 162461,
-      "name": "Eu Vou Mostrar o Meu Talento",
-      "url": "https://open.spotify.com/track/5USZcjuU8S0s0uvJlkseID"
+      "duration_ms": 188767,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV"
     },
     {
       "added_at": null,
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xananan",
-        "url": "https://open.spotify.com/album/39XOZZGnYYysgVClF0FoRH"
-      },
-      "artists": [
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Fabinho da Osk",
-          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Xananan",
-      "url": "https://open.spotify.com/track/6GpqSODR8pCWbrL2g1e9hc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rua do Ouro (Eletrofunk)",
         "url": "https://open.spotify.com/album/4ksbVadLWPcc6Bx6QBjsaJ"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 139392,
       "name": "Rua do Ouro (Eletrofunk)",
       "url": "https://open.spotify.com/track/4AcpXH1WQUJSKSsGjbI63a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xananan",
+        "url": "https://open.spotify.com/album/39XOZZGnYYysgVClF0FoRH"
+      },
+      "artists": [
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Xananan",
+      "url": "https://open.spotify.com/track/6GpqSODR8pCWbrL2g1e9hc"
     },
     {
       "added_at": null,
@@ -991,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOUR BEIJA FLOR",
+        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+      },
+      "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 107142,
+      "name": "BOLA LOGO",
+      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Janeiro",
         "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 190153,
       "name": "Janeiro",
       "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Vida",
-        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 165216,
-      "name": "Minha Vida",
-      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
     },
     {
       "added_at": null,
@@ -1051,22 +1051,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOUR BEIJA FLOR",
-        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+        "name": "Minha Vida",
+        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
       },
       "artists": [
         {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
-        },
-        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 107142,
-      "name": "BOLA LOGO",
-      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+      "duration_ms": 165216,
+      "name": "Minha Vida",
+      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
     },
     {
       "added_at": null,
@@ -1131,6 +1131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fica Tudo Bem",
         "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 168960,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 155889,
-      "name": "Ranger Preta",
-      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
     },
     {
       "added_at": null,
@@ -1223,30 +1223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medley Dona On\u00e7a | Funk In House #17",
-        "url": "https://open.spotify.com/album/1w2UaVD0TuxKCzhVPJnr4F"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MUCK",
-          "url": "https://open.spotify.com/artist/7eYw9jwPCCAhCrSU63kvHB"
-        },
-        {
-          "name": "Funk in House",
-          "url": "https://open.spotify.com/artist/7KRtcq7lQRst3tWZ9tJEji"
-        }
-      ],
-      "duration_ms": 933543,
-      "name": "Medley Dona On\u00e7a | Funk In House #17",
-      "url": "https://open.spotify.com/track/5F80kfftJMqqkgBHNOaOVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -1263,6 +1239,26 @@
       "duration_ms": 156500,
       "name": "Sem Calcinha",
       "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toma Tapa",
+        "url": "https://open.spotify.com/album/4dDBinCN2mdFZmqdHb9DHp"
+      },
+      "artists": [
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Toma Tapa",
+      "url": "https://open.spotify.com/track/28jFx6fxrbxOIFcf1fIfjn"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

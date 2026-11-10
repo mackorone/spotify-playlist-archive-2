@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,956 likes - 212 songs - 13 hr 24 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,965 likes - 216 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,5 +220,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 210 | [Wild and Free](https://open.spotify.com/track/6FhC8bFs3h2kydgyOL8JwG) | [Midnight Special](https://open.spotify.com/artist/5B1y5y3HpxIHlu9qYxcF62) | [Wild and Free](https://open.spotify.com/album/0KXkz7POFSC6FXIoANrEx6) | 4:24 |
 | 211 | [Back to the Stone Age](https://open.spotify.com/track/5XLbLm7YLXfWOYFpftjCN3) | [The Valley Bay](https://open.spotify.com/artist/0IYCiMYYcqO1hbYfi5wmOl) | [Chasing Phantoms](https://open.spotify.com/album/2EaASKeoFPo7BQYW2SpoG4) | 3:06 |
 | 212 | [TEMPEST](https://open.spotify.com/track/7bfADsqwUF3uy4c8rfkuxD) | [BLOODWOOLF](https://open.spotify.com/artist/1PZTnKLKktvhb3yEmFOGAf) | [TEMPEST](https://open.spotify.com/album/0gC2Xsc1ItTQFmTEitIdkq) | 4:46 |
+| 213 | [TOO LATE](https://open.spotify.com/track/69EBf3iMvbL04Q0nyuhPuJ) | [STONE FIRE](https://open.spotify.com/artist/7FRYaiZbZAYFB7Ean4iCMr) | [FEELING THE HEAT](https://open.spotify.com/album/10s5qfjDIh5fzX4figypiW) | 3:06 |
+| 214 | [NIGHTMARE](https://open.spotify.com/track/3lU8vaVFRz6CjNy1CGzJXx) | [STONE FIRE](https://open.spotify.com/artist/7FRYaiZbZAYFB7Ean4iCMr) | [FEELING THE HEAT](https://open.spotify.com/album/10s5qfjDIh5fzX4figypiW) | 4:49 |
+| 215 | [I'm on my way to die](https://open.spotify.com/track/1YC7hElGxuzwleWHU3HWdz) | [The Graveyard Ensemble](https://open.spotify.com/artist/5vp7fsuWOa2FJGohZcw8Ak) | [I'm on my way to die](https://open.spotify.com/album/1MyZi6xDYMjdraCRGELPI8) | 3:44 |
+| 216 | [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 |
 
-Snapshot ID: `AAANAdEI0+KRUgf1hHLvD7rGLDw4dsMT`
+Snapshot ID: `AAANBT+jTEX2NdZabw8cLNMXhRpgrZMh`

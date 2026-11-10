@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: NAO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,389 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,358 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 80 | [Out My Hair](https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 2:57 |
 | 81 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
 | 82 | [Sweetest Season](https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Sweetest Season](https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U) | 2:50 |
-| 83 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
-| 84 | [wHIP](https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 2:48 |
+| 83 | [wHIP](https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 2:48 |
+| 84 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
 | 85 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
 | 86 | [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 |
 | 87 | [MoveOn](https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 2:47 |

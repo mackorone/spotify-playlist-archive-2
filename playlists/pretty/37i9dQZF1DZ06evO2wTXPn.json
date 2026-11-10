@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31985,
+  "num_followers": 31984,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAvjf7Ge9lrkjTESRZl1tPL",
+  "snapshot_id": "au+7gAAAAAA47V0Vk5xgtqxQ4UoKv7In",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 198576,
+      "name": "Espectador",
+      "url": "https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "unas ac\u00fasticas",
         "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 202573,
       "name": "Somos Instantes - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde Antes De Nacer",
-        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 198576,
-      "name": "Espectador",
-      "url": "https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Escap\u00e9monos",
+      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALOS Y BUENOS RECUERDOS",
         "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Escap\u00e9monos",
-      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 184986,
+      "name": "A Un Minuto",
+      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B\u00f3rrame",
         "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 184986,
-      "name": "A Un Minuto",
-      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Belle Frantz
 
-1,693 songs - 4 day 9 hr 38 min
+1,694 songs - 4 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Father of Mercies in Thy Word](https://open.spotify.com/track/4oU0KBOCoiyEknasmVikR0) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq), [Kayleigh Reindl](https://open.spotify.com/artist/1ldIOWSZMwT8L07CCt3HSs) | [Rove No More: Indelible Grace VIII](https://open.spotify.com/album/20bdBY8aAKtVYY9Y7sG3Rz) | 5:18 | 2026-05-01 | 2026-05-30 |
 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:58 | 2024-07-26 | 2024-10-12 |
 | [FATHER'S HOUSE](https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [FATHER'S HOUSE](https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC) | 6:00 | 2026-07-17 | 2026-08-22 |
+| [Favor](https://open.spotify.com/track/0tntGUsNhvCREVOWN43e5n) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Favor](https://open.spotify.com/album/30DjzzCf0bQy1ih9Tax635) | 2:10 | 2026-11-06 |  |
 | [Favorite Parts](https://open.spotify.com/track/2DKVZg39ZTVZq54RPyKJo8) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Favorite Parts](https://open.spotify.com/album/60uAVGNMj6X7Ct6LX2YyPR) | 3:46 | 2025-06-06 | 2025-08-05 |
 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 | 2025-12-06 | 2026-01-18 |
 | [Fear Has No Place](https://open.spotify.com/track/2KkMQcdYUweGWDAHikdmFu) | [Micah Christopher](https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi) | [Fear Has No Place](https://open.spotify.com/album/7euDT3ieX9gq8cEOZjvZcw) | 3:50 | 2024-10-11 | 2025-02-08 |
@@ -1160,7 +1161,7 @@
 | [Proud](https://open.spotify.com/track/2oMYjV0wZsF1SqA8oObeLx) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0), [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Proud](https://open.spotify.com/album/6Oi4KYQZ1Hd9ptDVqyeJV5) | 3:27 | 2026-05-29 | 2026-07-04 |
 | [Proud Of You](https://open.spotify.com/track/3Mix9WqvN7SzDYdUUjZlAl) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Proud Of You](https://open.spotify.com/album/4qL229iIVTospYFzlKulta) | 3:51 | 2025-10-06 | 2025-11-16 |
 | [Prove A Thing](https://open.spotify.com/track/1eW1cvfacSaQyI6mCkEqQO) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Walk Through Fire: Songs From The Smoke](https://open.spotify.com/album/434BMwbP3CR0o877jfHBZG) | 3:18 | 2025-10-20 | 2025-11-16 |
-| [Psalm 24](https://open.spotify.com/track/0NXoo3i4Xlwi2RgUvcCftN) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Psalm 24](https://open.spotify.com/album/1f2b7ZW7VxYkoOBCDUXsYw) | 3:44 | 2026-10-02 |  |
+| [Psalm 24](https://open.spotify.com/track/0NXoo3i4Xlwi2RgUvcCftN) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Psalm 24](https://open.spotify.com/album/1f2b7ZW7VxYkoOBCDUXsYw) | 3:44 | 2026-10-02 | 2026-11-10 |
 | [PULL ME UP](https://open.spotify.com/track/0TmYU7qQd9Sza3GBGxTrND) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [PULL ME UP](https://open.spotify.com/album/3lCeJFhmgSkOSHqQy8Q8aH) | 2:36 | 2024-08-09 | 2024-10-12 |
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-29 | 2024-06-08 |
 | [Questions](https://open.spotify.com/track/3ncYFpndnPoTdoV8NUNBJz) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Questions](https://open.spotify.com/album/5pnwdDVdh7EABESXfKdZoQ) | 2:54 | 2026-04-04 | 2026-05-02 |

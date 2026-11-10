@@ -2,9 +2,9 @@
 
 ### [Metal Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0LctmTPNQ3v)
 
-> Your soundtrack for a not\-so\-silent night\. Cover: Poppy
+> Your soundtrack for a not\-so\-silent night\. Cover: Ice Nine Kills
 
-135 songs - 8 hr 34 min
+138 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Heavy Metal Christmas \(The Twelve Days of Christmas\)](https://open.spotify.com/track/59WsYKt9mpTd0c1Z9uLGsw) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [A Twisted Christmas](https://open.spotify.com/album/0NokM2CRbGwVjhS7J1nyAC) | 5:14 | 2021-11-26 | 2024-04-19 |
 | [Heavy Metal Christmas \(The Twelve Days Of Christmas\)](https://open.spotify.com/track/68KJDQ6jWhzJWNRB1iAxBx) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [A Twisted Christmas](https://open.spotify.com/album/0MGfzmhQpGOt5B5YVnVzYs) | 5:14 | 2021-11-26 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3vSogSk1GgB0D1V7r8nkEP) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Winter Wilderness EP](https://open.spotify.com/album/1iNaHBJANUPl2U84kSjogc) | 3:07 | 2021-11-26 |  |
+| [IT’S CHRISTMAS TIME](https://open.spotify.com/track/3p8S6DHspFnRLrTbYI3lAv) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [IT’S CHRISTMAS TIME](https://open.spotify.com/album/6SD9NsS5hkyAziBQJQXEP6) | 3:39 | 2026-11-10 |  |
 | [Jingle Balls](https://open.spotify.com/track/1YpvaqiJEB1sZy7YXp9T9t) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Essential Korn](https://open.spotify.com/album/4YsYdC1VAagQknJujE7cvC) | 3:25 | 2021-11-26 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/1KByj9F7hWwqxxSTHcLBGj) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [A VERY DEATHCORE CHRISTMAS WITH BROJOB 2](https://open.spotify.com/album/4nKOQ3IQWQtnlcRI4USzk4) | 2:29 | 2023-12-01 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/4DAWtJ9AtRjOMRKJYzdFKW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc) | [Jingle Bell Rock / Dance of the Sugar Plum Fairy](https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp) | 2:03 | 2023-10-27 |  |
@@ -68,9 +69,11 @@
 | [Jingle Bells Rock](https://open.spotify.com/track/1cJGOoZCG3LgsRazsu4TXF) | [GRAYSTONE](https://open.spotify.com/artist/0tAmJdfbmh0MTKNYrfiB7c), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Paula Carregosa](https://open.spotify.com/artist/1M4peeoWw6mGPEqnsg1mKl), [Hungry Lights](https://open.spotify.com/artist/5G4p600Y5GYetGH0GkBRka), [Austin Dickey](https://open.spotify.com/artist/7yuxjHyGsjSATU2KYK7bSU), [Damien Ward](https://open.spotify.com/artist/5hmIzu2XJtMJrj6tFprRyp) | [Jingle Bells Rock](https://open.spotify.com/album/7ffQpcVFHDQeg4b0M6XsHD) | 2:08 | 2023-12-22 |  |
 | [Jingle Hell](https://open.spotify.com/track/1fcGgiCOV9lTUMUic1Mv52) | [Christopher Lee](https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl) | [A Heavy Metal Christmas Too](https://open.spotify.com/album/4ysttGZvebt1PBAo7bXzKL) | 3:42 | 2021-11-26 |  |
 | [Jingle Hell](https://open.spotify.com/track/7wKOOVdySGGYeCB5MHhhqY) | [Christopher Lee](https://open.spotify.com/artist/2anYzFDecFa10y1rfZH44b) | [A Heavy Metal Christmas Too](https://open.spotify.com/album/3LkzHEuobNQNHZ9kDjjhhi) | 3:42 | 2021-11-26 | 2024-04-19 |
+| [Joy to the World](https://open.spotify.com/track/2yO69DPsUceycRNmUPSVKa) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [A Very Vicious Christmas](https://open.spotify.com/album/2HQgAhrZLZtpwh95h6y4kw) | 1:11 | 2026-11-10 |  |
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/53mXlfuRwgddSjap2T9Pp2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Nightmare Revisited](https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp) | 3:37 | 2021-11-26 |  |
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/4IhcTCymItOCN0d8kSLJFo) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Jack 2 Pack \(The Nightmare Before Christmas\)](https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT) | 3:37 | 2021-11-26 | 2024-04-19 |
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/0AnicM6dcA18BIa9X2rOLM) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:37 | 2021-11-26 | 2022-11-13 |
+| [Last Christmas](https://open.spotify.com/track/5yJ6SwEmQHbC70EXX4uXr1) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Last Christmas](https://open.spotify.com/album/3rEV9JvHtA4gfoU8zfpRlk) | 3:17 | 2026-11-10 |  |
 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 | 2025-10-15 |  |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2022-11-16 |  |
 | [Mary Did You Know](https://open.spotify.com/track/5mvByjQpP60Peg80DURkXa) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Mary Did You Know](https://open.spotify.com/album/6RvqLASS8YpPUuF41STGR1) | 3:03 | 2021-11-26 |  |

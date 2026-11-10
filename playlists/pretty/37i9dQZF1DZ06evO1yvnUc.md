@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,370 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,420 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 | 28 | [Welcome to the Party](https://open.spotify.com/track/5MtMp3OeL7oOeF0WWY4TFT) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:54 |
 | 29 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 |
 | 30 | [CN TOWER](https://open.spotify.com/track/0wXjZ7aSrgM2BYZaTNpjdh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy) | 4:01 |
-| 31 | [You Made It](https://open.spotify.com/track/0ltp7EEFhsMeYjoxywDljd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 3:05 |
-| 32 | [FREAK IN YOU](https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:32 |
+| 31 | [FREAK IN YOU](https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:32 |
+| 32 | [You Made It](https://open.spotify.com/track/0ltp7EEFhsMeYjoxywDljd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 3:05 |
 | 33 | [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 |
 | 34 | [DEEPER](https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy) | 2:52 |
 | 35 | [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H) | 3:01 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 | 42 | [Preach](https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:56 |
 | 43 | [Since Way Back](https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 6:08 |
 | 44 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
-| 45 | [With You](https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:15 |
-| 46 | [LOYAL \(feat\. Drake\)](https://open.spotify.com/track/6wTOQUNs8XNeTsVAPYubFg) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYMOBILE](https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6) | 3:17 |
+| 45 | [LOYAL \(feat\. Drake\)](https://open.spotify.com/track/6wTOQUNs8XNeTsVAPYubFg) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYMOBILE](https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6) | 3:17 |
+| 46 | [With You](https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:15 |
 | 47 | [fue mejor](https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:48 |
 | 48 | [Wednesday Night Interlude](https://open.spotify.com/track/6oLHyWvmk6bKrA91EIYZBp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:32 |
-| 49 | [Not Nice](https://open.spotify.com/track/3jE9jmJkPiWQxeAkPhdS1b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:22 |
-| 50 | [THE NEWS](https://open.spotify.com/track/5mRX4JVS1bQ0vXXmRZ0cu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6) | 4:27 |
+| 49 | [THE NEWS](https://open.spotify.com/track/5mRX4JVS1bQ0vXXmRZ0cu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6) | 4:27 |
+| 50 | [Not Nice](https://open.spotify.com/track/3jE9jmJkPiWQxeAkPhdS1b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:22 |
 
-Snapshot ID: `au5qAAAAAADt8XZFIiy3VzGaq+ZWsK9D`
+Snapshot ID: `au+7gAAAAACEihdtpUwl5bkofOsP2F2o`

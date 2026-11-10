@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tananai, Pinguini Tattici Nucleari, MACE, Tony Boy, Emili Kasa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,630 likes - 86 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,591 likes - 86 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain]
 
 > Prepare for the upcoming world tour kickoff by listening to TXT’s best songs! \(TXT의 베스트 곡들을 들으며 다가오는 월드 투어의 시작을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,320 likes - 24 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,408 likes - 24 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

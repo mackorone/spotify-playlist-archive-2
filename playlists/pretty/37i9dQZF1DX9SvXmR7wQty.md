@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Josman, Alicia Moffet, Rymz, Raccoon, Eddy de Pretto, Claudia Bouvette, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,345 likes - 97 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,342 likes - 97 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

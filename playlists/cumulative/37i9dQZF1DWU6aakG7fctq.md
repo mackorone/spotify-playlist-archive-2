@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: Silvestre y La Naranja
 
-1,384 songs - 3 day 3 hr 23 min
+1,385 songs - 3 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1305,7 +1305,7 @@
 | [Una Noche Más](https://open.spotify.com/track/7dAZanaXWRfcKxcumPacay) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Una Noche Más](https://open.spotify.com/album/4VMpgMcMBco980EcsHGkks) | 2:48 | 2026-08-28 | 2026-09-19 |
 | [Una Vez Más](https://open.spotify.com/track/4bSKgIOqpxGRFAdPX7AMGJ) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Una Vez Más](https://open.spotify.com/album/5qtk4EGJ9qRKNTQ1arGnf7) | 3:14 | 2024-11-08 | 2025-02-15 |
 | [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 | 2024-04-13 |
-| [Una vida en llamas](https://open.spotify.com/track/0cEYphx6nmaW4COfpOalAG) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Una vida en llamas](https://open.spotify.com/album/3EUUuuxdkjBHBM5udQqIUP) | 3:22 | 2026-10-02 |  |
+| [Una vida en llamas](https://open.spotify.com/track/0cEYphx6nmaW4COfpOalAG) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Una vida en llamas](https://open.spotify.com/album/3EUUuuxdkjBHBM5udQqIUP) | 3:22 | 2026-10-02 | 2026-11-10 |
 | [UNAYOTRAVEZ](https://open.spotify.com/track/5agG1GTYSY1om6M7x0B3Lu) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [NXKTAN](https://open.spotify.com/artist/0EWeEHigVKXh06dcCZrLfi) | [UNAYOTRAVEZ](https://open.spotify.com/album/5p5I8rbtXHM3MVk92vEMtq) | 3:27 | 2026-09-18 | 2026-10-09 |
 | [Use Me Too](https://open.spotify.com/track/0Pa6YGPTs86gFrEkxAOthL) | [Geo](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [Use Me Too](https://open.spotify.com/album/77goeeluwLAm2exjXnmUtl) | 1:47 | 2023-11-03 | 2023-12-09 |
 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-11-29 | 2025-02-15 |
@@ -1327,6 +1327,7 @@
 | [vidas](https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [vidas](https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U) | 4:13 | 2023-11-10 | 2025-02-01 |
 | [Viernes a la noche](https://open.spotify.com/track/2DyGyloSGjMMvQK2IS528I) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:01 | 2025-05-23 | 2025-07-26 |
 | [visión ☆](https://open.spotify.com/track/2XEdYZ4ZZL0ceranFbYuoU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [visión ☆](https://open.spotify.com/album/48wKfW97OOSd6ZcfFbw3hB) | 3:14 | 2025-03-07 | 2025-04-26 |
+| [Vivir para siempre](https://open.spotify.com/track/6Mi2Udl7eOQ1hg2l5YXqhF) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [FORTUNA KID](https://open.spotify.com/album/0LEUX7miHZjC68ocLiwbuI) | 3:03 | 2026-11-09 |  |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 | 2024-02-17 |
 | [Volando](https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [En Tus Aguas](https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP) | 3:48 | 2023-08-11 | 2024-01-13 |
 | [Volar](https://open.spotify.com/track/2qfRr8M9CsceZGIn3MAAQe) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [Volar](https://open.spotify.com/album/72xTzscV0cEu7i0Z8dSAhq) | 2:49 | 2026-08-21 | 2026-09-12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 488626,
+  "num_followers": 488627,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAFu1/R1pBaoLDkzki4ghYW",
+  "snapshot_id": "au+7gAAAAADl2ZjMtqJDH35NwiYdYQhv",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animalize",
-        "url": "https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Heaven's On Fire",
-      "url": "https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smashes, Thrashes & Hits",
         "url": "https://open.spotify.com/album/3Lh4LR8zXHUAq1ntllcx7u"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 227645,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/4kFDcNuEXF7xArUklWSKF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animalize",
+        "url": "https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Heaven's On Fire",
+      "url": "https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psycho Circus",
-        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 259079,
       "name": "Rock 'N' Roll All Nite - Live From MTV Unplugged/1995",
       "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss (Remastered 1997)",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Nothin' To Lose - Remastered 1997",
-      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
+      "duration_ms": 282226,
+      "name": "Magic Touch",
+      "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "Kiss (Remastered 1997)",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 282226,
-      "name": "Magic Touch",
-      "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose - Remastered 1997",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Turn On The Night",
-      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lick It Up",
         "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 274573,
       "name": "All Hell's Breakin' Loose",
       "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Turn On The Night",
+      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 175013,
-      "name": "Beth - Live From MTV Unplugged/1995",
-      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+      "duration_ms": 207600,
+      "name": "Goin' Blind - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9"
     }
   ],
   "unique_name": "This Is KISS",

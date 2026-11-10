@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,341 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,346 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 47 | [為我勇敢的媽媽](https://open.spotify.com/track/7jqWrB702nGEtKe98aKYh8) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [為我勇敢的媽媽](https://open.spotify.com/album/5dayGo2aXytPfI1wl9a3Xw) | 4:03 |
 | 48 | [洗澡歌](https://open.spotify.com/track/0gyKzmLPkfdtuBpMN7SqeR) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [天空樹](https://open.spotify.com/album/32nJZMlKIoapMJ4dHcCxyx) | 3:26 |
 | 49 | [笑咪咪 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/1HgebCH018bthgeMz2Jepo) | [Matzka](https://open.spotify.com/artist/2UqJqFqLbXtMZKN5QAfing) | [笑咪咪 \(小公視愛唱歌系列\_\_為寶貝唱一首歌\)](https://open.spotify.com/album/6s1WAw8PLHI0CpbNZmnKlf) | 2:58 |
-| 50 | [拔蘿蔔](https://open.spotify.com/track/3m7EPssneg9ljEACoLXjhM) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [貝樂虎兒歌精選系列16](https://open.spotify.com/album/24zVy44ErjYKKKJMT7EAgV) | 1:44 |
+| 50 | [拜託拜託給我一口](https://open.spotify.com/track/4S9viB1FQTAhNKO9B3ZXVT) | [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [拜託拜託給我一口](https://open.spotify.com/album/3CFiQfrYmJ5Z8uy3j9ADXs) | 2:29 |
 
 Snapshot ID: `AAAAAC8caAU9fzyTFdBbNMWBXPkzRLEJ`

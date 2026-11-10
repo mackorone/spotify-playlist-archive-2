@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 345061,
+  "num_followers": 345058,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Living Room Floor",
-        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 259435,
-      "name": "Living Room Floor",
-      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/6kw6rM8FLlI6KWoA3xxicu"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 184148,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6SfviYC7rfzKysyHLptSKl"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Living Room Floor",
+        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 259435,
+      "name": "Living Room Floor",
+      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/0PMxARqTORfITZcNB0DXKl"
-      },
-      "artists": [
-        {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        }
-      ],
-      "duration_ms": 195683,
-      "name": "PERFECT LOVE",
-      "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 181119,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/0PMxARqTORfITZcNB0DXKl"
+      },
+      "artists": [
+        {
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "duration_ms": 195683,
+      "name": "PERFECT LOVE",
+      "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Orange Streetlights (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
-      },
-      "artists": [
-        {
-          "name": "Tyler Corbin",
-          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Orange Streetlights - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "One Desire (Live in the UK)",
-        "url": "https://open.spotify.com/album/4uHZ6TcIuFVyNiZyCGbA8A"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 680756,
-      "name": "One Desire - Live in the UK",
-      "url": "https://open.spotify.com/track/7CGPhZmitIUvbylF9ilOSj"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL"
       },
@@ -1135,6 +1103,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Orange Streetlights (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
+      },
+      "artists": [
+        {
+          "name": "Tyler Corbin",
+          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Orange Streetlights - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Jesus, You\u2019re Enough",
         "url": "https://open.spotify.com/album/0mLZ66xcqSZribygKwuehO"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 224000,
       "name": "Jesus, You\u2019re Enough",
       "url": "https://open.spotify.com/track/3mAMyzElL4P5QQ2UTU1xAK"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "One Desire (Live in the UK)",
+        "url": "https://open.spotify.com/album/4uHZ6TcIuFVyNiZyCGbA8A"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        }
+      ],
+      "duration_ms": 680756,
+      "name": "One Desire - Live in the UK",
+      "url": "https://open.spotify.com/track/7CGPhZmitIUvbylF9ilOSj"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "MATIN: Love",
+        "url": "https://open.spotify.com/album/2kpyVJ4ezZGPUvuMflolXb"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Ninety One",
+      "url": "https://open.spotify.com/track/6uOabM8DJSKHYmARmcndcd"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/6LN3NNAUTMT2s0fIzcGuu0"
       },
@@ -1399,6 +1415,26 @@
       "duration_ms": 293475,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3eRawQl6CXLQY13nq98Pzb"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "All Hail King Jesus",
+        "url": "https://open.spotify.com/album/6EcgKyUPUl3AoOEL2RSKlq"
+      },
+      "artists": [
+        {
+          "name": "Rain City Worship",
+          "url": "https://open.spotify.com/artist/6oru9WJojdzqVPnm5UhyoK"
+        },
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0HMdxE1STDGWNpsOmb4L2U"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1431,42 +1467,6 @@
       "duration_ms": 246170,
       "name": "UNION",
       "url": "https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "MATIN: Love",
-        "url": "https://open.spotify.com/album/2kpyVJ4ezZGPUvuMflolXb"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Ninety One",
-      "url": "https://open.spotify.com/track/6uOabM8DJSKHYmARmcndcd"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "All Hail King Jesus",
-        "url": "https://open.spotify.com/album/6EcgKyUPUl3AoOEL2RSKlq"
-      },
-      "artists": [
-        {
-          "name": "Rain City Worship",
-          "url": "https://open.spotify.com/artist/6oru9WJojdzqVPnm5UhyoK"
-        },
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        }
-      ],
-      "duration_ms": 131226,
-      "name": "All Hail King Jesus",
-      "url": "https://open.spotify.com/track/0HMdxE1STDGWNpsOmb4L2U"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Oh Hosanna",
-        "url": "https://open.spotify.com/album/0iadfRPxoRI8LPYoi7iIq2"
+        "name": "MATIN: Home",
+        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Oh Hosanna",
-      "url": "https://open.spotify.com/track/262QTlclmRhD090z9913xK"
+      "duration_ms": 240687,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "MATIN: Home",
-        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "green",
         "url": "https://open.spotify.com/album/7KqxY6kXilzCr1fOIwBGYl"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 239750,
       "name": "human",
       "url": "https://open.spotify.com/track/7IsRX80drqVO7TPdNHTUnI"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Oh Hosanna",
+        "url": "https://open.spotify.com/album/0iadfRPxoRI8LPYoi7iIq2"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Oh Hosanna",
+      "url": "https://open.spotify.com/track/262QTlclmRhD090z9913xK"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "interlude",
+        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 322813,
+      "name": "it all belongs to You",
+      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Can You Tell",
         "url": "https://open.spotify.com/album/4y4tKRrEJQwofQGhLW7K8H"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 196208,
       "name": "Can You Tell",
       "url": "https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "interlude",
-        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 322813,
-      "name": "it all belongs to You",
-      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "it is mine",
-        "url": "https://open.spotify.com/album/6aSR7O1rddTf7i6C2S4GP6"
-      },
-      "artists": [
-        {
-          "name": "Morgan J",
-          "url": "https://open.spotify.com/artist/61kGREOrmdzaTsCVSkVXw1"
-        }
-      ],
-      "duration_ms": 212565,
-      "name": "it is mine",
-      "url": "https://open.spotify.com/track/3fbGJridDDJ9iJC6mjRSrD"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Simple Phrase",
         "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
       },
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/7EeOtMlR0jf3na2DjWT1i4"
+        "name": "it is mine",
+        "url": "https://open.spotify.com/album/6aSR7O1rddTf7i6C2S4GP6"
       },
       "artists": [
         {
-          "name": "TIDES",
-          "url": "https://open.spotify.com/artist/0eZKxTEWH3Sb70LcJWeWQZ"
+          "name": "Morgan J",
+          "url": "https://open.spotify.com/artist/61kGREOrmdzaTsCVSkVXw1"
         }
       ],
-      "duration_ms": 148416,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/5RxzeR1HHMQ0rMDz189F1u"
+      "duration_ms": 212565,
+      "name": "it is mine",
+      "url": "https://open.spotify.com/track/3fbGJridDDJ9iJC6mjRSrD"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -2075,6 +2059,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7EeOtMlR0jf3na2DjWT1i4"
+      },
+      "artists": [
+        {
+          "name": "TIDES",
+          "url": "https://open.spotify.com/artist/0eZKxTEWH3Sb70LcJWeWQZ"
+        }
+      ],
+      "duration_ms": 148416,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/5RxzeR1HHMQ0rMDz189F1u"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "God Is Love",
         "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
       },
@@ -2111,26 +2111,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Holy Spirit",
-        "url": "https://open.spotify.com/album/06Fj7TZrSz3SRTA7I5eO9i"
-      },
-      "artists": [
-        {
-          "name": "Hearts Like Altars",
-          "url": "https://open.spotify.com/artist/5RlXIQ3oZ9uh9ElXo6WVMF"
-        },
-        {
-          "name": "Kylie Odetta",
-          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
-        }
-      ],
-      "duration_ms": 259320,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/3ieZKzOXRcatnt3cfFucDF"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "can we go back?",
         "url": "https://open.spotify.com/album/5EVAsySKxqcy4FbJ2fnuDU"
       },
@@ -2147,6 +2127,26 @@
       "duration_ms": 246838,
       "name": "can we go back?",
       "url": "https://open.spotify.com/track/1sFe6QY3NKZyithQsM8p34"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/06Fj7TZrSz3SRTA7I5eO9i"
+      },
+      "artists": [
+        {
+          "name": "Hearts Like Altars",
+          "url": "https://open.spotify.com/artist/5RlXIQ3oZ9uh9ElXo6WVMF"
+        },
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "duration_ms": 259320,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/3ieZKzOXRcatnt3cfFucDF"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "the unknown",
-        "url": "https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 178593,
-      "name": "always will be - acoustic",
-      "url": "https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Give Us Clean Hands",
         "url": "https://open.spotify.com/album/2MrH1aB26vqSLLxsNdUEUC"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 226758,
       "name": "Give Us Clean Hands",
       "url": "https://open.spotify.com/track/4hTd0w8f0YXDcFJxOjQEVV"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "the unknown",
+        "url": "https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 178593,
+      "name": "always will be - acoustic",
+      "url": "https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -2499,6 +2499,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Who Is Greatest?",
+        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "Who Is Greatest?",
+      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Center",
         "url": "https://open.spotify.com/album/1mNAzlzl0GfA8KeT0BtldT"
       },
@@ -2515,22 +2531,6 @@
       "duration_ms": 298181,
       "name": "Center",
       "url": "https://open.spotify.com/track/1XLkYaENpmDM8Z5wCc8CMy"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Who Is Greatest?",
-        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Who Is Greatest?",
-      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "for ordinary life",
-        "url": "https://open.spotify.com/album/3ANgbrOsS13CsrEyqVU4VZ"
-      },
-      "artists": [
-        {
-          "name": "Destiny Barber",
-          "url": "https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq"
-        }
-      ],
-      "duration_ms": 159114,
-      "name": "time",
-      "url": "https://open.spotify.com/track/1DG2t1GISCkpTrgj0imoYk"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "The Secret Place, Vol. 3",
         "url": "https://open.spotify.com/album/6jjv5ZyAoSpnpA6pwHovs2"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 357541,
       "name": "Shalom",
       "url": "https://open.spotify.com/track/5uHlpFrLkq5PxgmF6h1Pqw"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "for ordinary life",
+        "url": "https://open.spotify.com/album/3ANgbrOsS13CsrEyqVU4VZ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Barber",
+          "url": "https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq"
+        }
+      ],
+      "duration_ms": 159114,
+      "name": "time",
+      "url": "https://open.spotify.com/track/1DG2t1GISCkpTrgj0imoYk"
     },
     {
       "added_at": "2026-10-30 04:00:37",

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,759 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,818 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Imitadora](https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:54 |
 | 2 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
-| 3 | [La Carretera](https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:58 |
+| 3 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 |
 | 4 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
 | 5 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 |
 | 6 | [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 |
 | 7 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 |
-| 8 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 |
+| 8 | [La Carretera](https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:58 |
 | 9 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 10 | [La Mejor Versión de Mi \- Remix](https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Mejor Versión de Mi \(Remix\)](https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d) | 3:49 |
 | 11 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 18 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
 | 19 | [La Asesina](https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 3:24 |
 | 20 | [Si Estuvieras Aquí](https://open.spotify.com/track/5LaOePNL1J2kjhmj98xKif) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 3:54 |
-| 21 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
+| 21 | [Hilito](https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:54 |
 | 22 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
 | 23 | [El Amor Que Perdimos](https://open.spotify.com/track/06EgH8BdWW9QRrlI6ZVQhW) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 4:05 |
 | 24 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 85 | [Vocales de amor](https://open.spotify.com/track/5guZMseET21n74ZIIOoXD2) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi) | 5:10 |
 | 86 | [Siento Que Te Quiero](https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Tony Bachata Presents: Los Grandes Exitos de Bachata](https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj) | 5:01 |
 | 87 | [Solo Sin Ella](https://open.spotify.com/track/5ZYOvhism99dkMEnHf7EZc) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS) | 5:12 |
-| 88 | [Hilito](https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:54 |
+| 88 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
 | 89 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
 | 90 | [Te Robaré](https://open.spotify.com/track/3fPMRb2gcFTZcYmR0bXnDc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:39 |
 | 91 | [Yo No Muero en Mi Cama](https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo No Muero en Mi Cama \- Single](https://open.spotify.com/album/6Gw6y33bYmAck07ZPjOu1z) | 4:07 |

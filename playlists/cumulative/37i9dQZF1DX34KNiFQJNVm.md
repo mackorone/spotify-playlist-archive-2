@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem  Lauana Prado, Felipe e Rodrigo, Britney Spears, Lil Baby, WIU e muito mais!
 
-20,340 songs - 43 day 7 hr 20 min
+20,341 songs - 43 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10100,6 +10100,7 @@
 | [Marcando Meu Gado](https://open.spotify.com/track/7mTNolf01Q4dQrjasyZGqe) | [Thiago Castelli](https://open.spotify.com/artist/0ROprJwPDQ1NleWURpFgFj) | [Marcando Meu Gado](https://open.spotify.com/album/3MgGzkAJGb8jsErOOJMY4I) | 2:45 | 2022-11-18 | 2022-11-26 |
 | [Marcas de Batom](https://open.spotify.com/track/0wnCeCkj3H9Ili3SsfZxBC) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 2:55 | 2023-10-06 | 2023-10-14 |
 | [Marcas De Expressão \- Ao Vivo](https://open.spotify.com/track/1L2QF3SpmSNiGcQdbwWIXU) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Marcas De Expressão \(Ao Vivo\)](https://open.spotify.com/album/76RTah2qqWKVLKOQpQ7nuL) | 3:10 | 2025-04-25 | 2025-05-03 |
+| [MARCAS NOTURNAS](https://open.spotify.com/track/6WWMdN9VAfHIktsfE4vo6Z) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [DELÍRIOS NOTURNOS](https://open.spotify.com/album/6cyL05e8B4ybcytYe8z2CQ) | 2:27 | 2026-11-09 |  |
 | [Marcação](https://open.spotify.com/track/5NkEXf7qfXEwU0KUKMRZLq) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [Tenta Não!](https://open.spotify.com/album/2ZsY2QVqvg87Rpjo1Ds0tQ) | 4:30 | 2026-05-29 | 2026-06-06 |
 | [Marcha](https://open.spotify.com/track/1qcHCY4STgSPTAPqphdYFi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Charles do Bronxs](https://open.spotify.com/artist/19Mqlg717812ha5zPDul9q) | [Marcha](https://open.spotify.com/album/5DUyARSiVNvxIrS1MW7vGN) | 4:11 | 2023-09-22 | 2023-09-30 |
 | [Marcha e Boa](https://open.spotify.com/track/1PsUGaSrUsyK6VeK1Cso82) | [MC Fr da Norte](https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj), [Veiga no Beat](https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu), [DJ Rugal Original](https://open.spotify.com/artist/0Po8wyMF4UI4YCzSdjqy5B) | [Carreira Solo \(RLK F\)](https://open.spotify.com/album/2YigcdplpByZr46Epkoatw) | 2:07 | 2026-06-12 | 2026-06-19 |

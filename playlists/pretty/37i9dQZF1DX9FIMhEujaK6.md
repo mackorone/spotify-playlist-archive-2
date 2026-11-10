@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,910 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,927 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 13 | [Chasing Fire](https://open.spotify.com/track/67iuYoqmDfJ5BqNiL4WWyi) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Chasing Fire](https://open.spotify.com/album/48LepQUonZN4xijEEZcsjT) | 3:47 |
 | 14 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 |
 | 15 | [Rivers and Homes Retake](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 |
-| 16 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 |
+| 16 | [All I Need](https://open.spotify.com/track/3OQk21nMrEPnc5KXePcv6E) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:47 |
 | 17 | [Butterflies](https://open.spotify.com/track/4QRBd1iviCFzrsQ43cJcAj) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Butterflies](https://open.spotify.com/album/4eQv1NnHUP3eHn0acWMsdP) | 4:29 |
-| 18 | [All I Need](https://open.spotify.com/track/3OQk21nMrEPnc5KXePcv6E) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:47 |
+| 18 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 |
 | 19 | [Could Have Been So Good](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Could Have Been So Good](https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8) | 3:26 |
 | 20 | [Piece Of Me](https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Piece Of Me](https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO) | 3:09 |
 | 21 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |

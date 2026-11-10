@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0"
+    },
+    {
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO055ISn.md) - [plain]
 
 > This is Alex Warren\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,996 likes - 28 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,043 likes - 28 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO055ISn.md) - [plain]
 | 27 | [FINE PLACE TO DIE](https://open.spotify.com/track/2HZ75yrPInJwVW6te9OlDg) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:07 |
 | 28 | [Screaming Underwater](https://open.spotify.com/track/2USXaHnQnQdLklRluWDNwd) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Screaming Underwater](https://open.spotify.com/album/1JoSKqExdKeh5no4AhPYan) | 2:26 |
 
-Snapshot ID: `au5qAAAAAADFvfRAPTofgxA+U7QG+S57`
+Snapshot ID: `au+7gAAAAADGDl344PP1kCi4Gfet/9OS`

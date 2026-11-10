@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Holiday FM",
+        "url": "https://open.spotify.com/album/52223hvVT4sGSOKjycs7a4"
+      },
+      "artists": [
+        {
+          "name": "Hallucination Orbit",
+          "url": "https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Alone on Christmas",
+      "url": "https://open.spotify.com/track/53OKEBPBDSi7KIciW95GXt"
+    },
+    {
+      "album": {
         "name": "Angels From the Realms of Glory",
         "url": "https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 93518,
       "name": "Christmas by the Fireplace",
       "url": "https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2"
@@ -725,6 +743,24 @@
     },
     {
       "album": {
+        "name": "dear santa",
+        "url": "https://open.spotify.com/album/00mAfjFK33PpWWbAKQElmt"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129280,
+      "name": "dear santa",
+      "url": "https://open.spotify.com/track/2905ZizvPx4tLTXU32arLp"
+    },
+    {
+      "album": {
         "name": "December Dreams",
         "url": "https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX"
       },
@@ -740,6 +776,24 @@
       "duration_ms": 145500,
       "name": "December Dreams",
       "url": "https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q"
+    },
+    {
+      "album": {
+        "name": "Deck The Hall",
+        "url": "https://open.spotify.com/album/621zfWt6BTdSX2xljkoRPD"
+      },
+      "artists": [
+        {
+          "name": "Chris Anthony",
+          "url": "https://open.spotify.com/artist/426idHqgmcWv0y5wfMeYKK"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Deck The Hall",
+      "url": "https://open.spotify.com/track/2NEHNIg6ye54F759KxOQtx"
     },
     {
       "album": {
@@ -952,7 +1006,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 131233,
       "name": "From all of us",
       "url": "https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm"
@@ -970,7 +1024,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 135812,
       "name": "Frosty",
       "url": "https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU"
@@ -1478,7 +1532,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 140571,
       "name": "Jingle Jungle",
       "url": "https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A"
@@ -1993,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "O Christmas Tree",
+        "url": "https://open.spotify.com/album/4iC0Hgk8o4I5Y218lT40AS"
+      },
+      "artists": [
+        {
+          "name": "lunarisma",
+          "url": "https://open.spotify.com/artist/4xuOru0IJGd5Y0R4dPaUv9"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139672,
+      "name": "O Christmas Tree (Lofi Version)",
+      "url": "https://open.spotify.com/track/1zFy9hH95iBCSO7b4tMral"
+    },
+    {
+      "album": {
         "name": "O Come, All Ye Faithful",
         "url": "https://open.spotify.com/album/4FUbvkzXMGyqMxKr9K6JVg"
       },
@@ -2238,7 +2310,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 141000,
       "name": "rudolfs beat",
       "url": "https://open.spotify.com/track/5DGMWOsbwnttCV4h8Zp2BP"
@@ -2364,7 +2436,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 117817,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/1jYPxZRtTjBkzONbXSDcth"
@@ -2776,6 +2848,42 @@
       "duration_ms": 158218,
       "name": "Soaring Reindeer",
       "url": "https://open.spotify.com/track/4MQW3WYzs5EVQr96g5r4MZ"
+    },
+    {
+      "album": {
+        "name": "soft snow",
+        "url": "https://open.spotify.com/album/3Dt4o0dyF7qxIy1yA5sWl0"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "soft snow",
+      "url": "https://open.spotify.com/track/1Ez7Jwh7fsdVDrXSoDfH5v"
+    },
+    {
+      "album": {
+        "name": "Spiced Cider",
+        "url": "https://open.spotify.com/album/4NCQKzsgYo2vJxJjpuhtXo"
+      },
+      "artists": [
+        {
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Spiced Cider",
+      "url": "https://open.spotify.com/track/1gnY6i00HmpEhVjKv8xqN7"
     },
     {
       "album": {

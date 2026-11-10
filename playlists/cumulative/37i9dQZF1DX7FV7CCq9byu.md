@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-2,084 songs - 4 day 10 hr 54 min
+2,085 songs - 4 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [Lonely Girl](https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Lonely Girl](https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE) | 2:22 | 2025-12-18 | 2026-02-13 |
 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 | 2025-01-02 | 2025-02-07 |
 | [Lonely Phone People](https://open.spotify.com/track/7k41haZtnkm5qlZOoVbiDL) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Lonely Phone People](https://open.spotify.com/album/0vXdh9MU6p3Zvu1niGsHLU) | 3:00 | 2026-08-20 | 2026-10-30 |
+| [Look At All The Happy People](https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG) | [Bluegirl](https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr) | [Look At All The Happy People](https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU) | 3:26 | 2026-11-09 |  |
 | [Look at me](https://open.spotify.com/track/7K04ooT8CNK1ZPwiKa9XPo) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [I thought this story wasn't about me](https://open.spotify.com/album/2vrhyLpkOHQXewh8NMbmL2) | 3:52 | 2026-11-05 |  |
 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 | 2026-06-25 | 2026-08-28 |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-27 | 2024-08-09 |

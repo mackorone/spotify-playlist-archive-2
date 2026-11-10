@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAAb3vW/CBxaHRcOKRTP2i+",
+  "snapshot_id": "au+7gAAAAADjKDH5v42zb4SA8UC1veHa",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/3Obqq8uZvZKIDRKm63tise"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/3msQyhTxEPh8Qr8PdKINUd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO RE-ENTRY (Nano Mixes)",
         "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 166688,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3gfmmGwODGiOxkGMz8DYlx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/3Obqq8uZvZKIDRKm63tise"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/3msQyhTxEPh8Qr8PdKINUd"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 130057,
       "name": "demon time (with BAYLI)",
       "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories from new york",
         "url": "https://open.spotify.com/album/2qk0vagquh5WnBcF54E8oI"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 137104,
       "name": "say it back",
       "url": "https://open.spotify.com/track/6VbD1cKFOkL1ScX02MwOEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreak County, Vol. 2",
+        "url": "https://open.spotify.com/album/4xNquGajSV7ohPAipCsyet"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/1ux0qtopD4gfcGwmirx8Np"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Best I've Ever Had",
         "url": "https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 174720,
       "name": "Best I've Ever Had",
       "url": "https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak County, Vol. 2",
-        "url": "https://open.spotify.com/album/4xNquGajSV7ohPAipCsyet"
-      },
-      "artists": [
-        {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/1ux0qtopD4gfcGwmirx8Np"
     },
     {
       "added_at": null,

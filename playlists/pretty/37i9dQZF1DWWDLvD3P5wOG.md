@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a whine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,541 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,621 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 72 | [On Fleek \(Love You Everything\)](https://open.spotify.com/track/5tGLXqxNmzeXcK050Lw5Ou) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [On Fleek \(Love You Everything\) \- Single](https://open.spotify.com/album/0yReupj5PtIMxd8RpwORv8) | 2:45 |
 | 73 | [Ganja Farmer](https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX) | 3:56 |
 | 74 | [Frenzy](https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Stays On My Mind](https://open.spotify.com/album/4SpMwzXhjDtumADkYXJvSd) | 3:37 |
-| 75 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR) | 3:06 |
-| 76 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
+| 75 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
+| 76 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR) | 3:06 |
 | 77 | [Gyal Bruk Out](https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [123 EP](https://open.spotify.com/album/483JiX4ZWY8w1TS2EyaaFM) | 2:41 |
 | 78 | [Gal a Get More](https://open.spotify.com/track/0vpTqPxxCl9fcPzWwIzXkw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Heat Rave Riddim](https://open.spotify.com/album/6Iln4NFCVVGNrvqkUfqwrE) | 2:46 |
 | 79 | [Kotch](https://open.spotify.com/track/3iUVSvuZ5LDJNztVjsOKiV) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch \- Single](https://open.spotify.com/album/32sdKebjCUVWU89Vz1E0VO) | 3:15 |

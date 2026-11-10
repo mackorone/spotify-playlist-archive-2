@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABYZ1iKLHJ1Wr1WKnmVlihX",
+  "snapshot_id": "au+7gAAAAAD0xzFvFjxlbgfBiL4dbaxP",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 223829,
-      "name": "N\u00f3s Vestimos Branco",
-      "url": "https://open.spotify.com/track/3EcpXkOmdEVoBVl7ZwRHBt"
+      "duration_ms": 279466,
+      "name": "Of\u00edcio de Cantante",
+      "url": "https://open.spotify.com/track/6JsN5A4fxdX6lohZV4CdCD"
     },
     {
       "added_at": null,
@@ -467,30 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canjer\u00ea",
-        "url": "https://open.spotify.com/album/2usxZrlp6sPvWjp3qGNSOC"
-      },
-      "artists": [
-        {
-          "name": "Thiago Elni\u00f1o",
-          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 228565,
-      "name": "A For\u00e7a do Meu Santo",
-      "url": "https://open.spotify.com/track/2LCTzd9CcPeGZpwRoJx9cC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aquele Tipo de Som",
         "url": "https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV"
       },
@@ -515,6 +491,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canjer\u00ea",
+        "url": "https://open.spotify.com/album/2usxZrlp6sPvWjp3qGNSOC"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 228565,
+      "name": "A For\u00e7a do Meu Santo",
+      "url": "https://open.spotify.com/track/2LCTzd9CcPeGZpwRoJx9cC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
       },
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 279466,
-      "name": "Of\u00edcio de Cantante",
-      "url": "https://open.spotify.com/track/6JsN5A4fxdX6lohZV4CdCD"
+      "duration_ms": 223829,
+      "name": "N\u00f3s Vestimos Branco",
+      "url": "https://open.spotify.com/track/3EcpXkOmdEVoBVl7ZwRHBt"
     },
     {
       "added_at": null,

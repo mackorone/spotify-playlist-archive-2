@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,377 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,390 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 15 | [Coward Of The County](https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Kenny](https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI) | 4:18 |
 | 16 | [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 |
 | 17 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:37 |
-| 18 | [\(Ghost\) Riders in the Sky](https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Silver](https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7) | 3:44 |
+| 18 | [Whiskey Bent And Hell Bound](https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:08 |
 | 19 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 20 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Charley Pride's 10th Album](https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl) | 2:13 |
 | 21 | [\(If Loving You Is Wrong\) I Don't Want To Be Right](https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 3:05 |
 | 22 | [Family Tradition](https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Family Tradition](https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4) | 4:02 |
 | 23 | [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 |
 | 24 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:45 |
-| 25 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
-| 26 | [Rose Colored Glasses](https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Rose Colored Glasses](https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN) | 3:20 |
+| 25 | [\(Ghost\) Riders in the Sky](https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Silver](https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7) | 3:44 |
+| 26 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 27 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
-| 28 | [Whiskey Bent And Hell Bound](https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:08 |
+| 28 | [Rose Colored Glasses](https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Rose Colored Glasses](https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN) | 3:20 |
 | 29 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
 | 30 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 31 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |

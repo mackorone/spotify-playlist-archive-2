@@ -4511,32 +4511,6 @@
     },
     {
       "album": {
-        "name": "Shchedrin/Stravinsky/Tchaikovsky - Violin Works",
-        "url": "https://open.spotify.com/album/5JYTVsJInxejkHycv8xQq3"
-      },
-      "artists": [
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Mstislav Rostropovich",
-          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
-        },
-        {
-          "name": "Maxim Vengerov",
-          "url": "https://open.spotify.com/artist/2AL02x65Azh5v7Drur4KNp"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 578026,
-      "name": "S\u00e9r\u00e9nade m\u00e9lancolique Op. 26",
-      "url": "https://open.spotify.com/track/1wFQLVE461AsjAtIO2Fm3B"
-    },
-    {
-      "album": {
         "name": "Giuliani: Complete Works for Flute and Guitar, Vol. 2",
         "url": "https://open.spotify.com/album/3Z5WxHRSpMJx8TJRZYoMZX"
       },
@@ -4638,6 +4612,36 @@
       "duration_ms": 190080,
       "name": "S\u00e9r\u00e9nade, Op. 127: IV. Rondo. Allegro",
       "url": "https://open.spotify.com/track/0bH0PE9t0dLePS7CfkU5S7"
+    },
+    {
+      "album": {
+        "name": "Shchedrin/Stravinsky/Tchaikovsky - Violin Works",
+        "url": "https://open.spotify.com/album/5JYTVsJInxejkHycv8xQq3"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Maxim Vengerov",
+          "url": "https://open.spotify.com/artist/2AL02x65Azh5v7Drur4KNp"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578026,
+      "name": "Tchaikovsky: S\u00e9r\u00e9nade m\u00e9lancolique, Op. 26",
+      "url": "https://open.spotify.com/track/1wFQLVE461AsjAtIO2Fm3B"
     },
     {
       "album": {

@@ -46,7 +46,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 288277,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1TWkoUyRM98lnoAzRUAuSg"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 213258,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 242698,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/7xYDdj5EpqjSG8gYjpfmQe"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 235520,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 201850,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 225557,
       "name": "My Body Isn't Ready - Orchestral Version from Sound City",
       "url": "https://open.spotify.com/track/4rAi1EJ6yDzVdrOTFZOukF"
@@ -4766,7 +4766,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 189769,
       "name": "RIKI",
       "url": "https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO"
@@ -5269,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Star Trace (Performance M/V)",
+        "url": "https://open.spotify.com/album/6HOtDJu8kNTSBbRG2aJx3M"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Star Trace (Performance M/V)",
+      "url": "https://open.spotify.com/track/3GdGUkMocy9wBzMTQHy8Nq"
+    },
+    {
+      "album": {
         "name": "Stateside + Zara Larsson",
         "url": "https://open.spotify.com/album/2oYO6jxypHjUrE56nf0g4l"
       },
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 216925,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF"
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 821888,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2PjOCtFhCh6rIotqFnuXWt"
@@ -5790,7 +5808,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 243050,
       "name": "VAMO A VEL",
       "url": "https://open.spotify.com/track/0125qUd6QK9Wq7qWtimhYH"

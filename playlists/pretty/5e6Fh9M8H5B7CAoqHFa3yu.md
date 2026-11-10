@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,848 songs - 6 day 21 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,853 songs - 6 day 22 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2856,5 +2856,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2846 | [I Hate That I Like The Chase](https://open.spotify.com/track/2k5KCAysWqUDzYXVHB4VXm) | [Arden Bird](https://open.spotify.com/artist/4l9k8pAHsXspm1CE2d30RT) | [I Hate That I Like The Chase](https://open.spotify.com/album/3YX8NVwvGn4wok9eZ5KG2q) | 3:40 |
 | 2847 | [Almost Said No](https://open.spotify.com/track/464P9E0WxWe6faecttigpl) | [Estellia](https://open.spotify.com/artist/2zOmHPJ2Z05NEEM6J9H0b8) | [Almost Said No](https://open.spotify.com/album/2JPMv8cvyfslAdoLSlpGSu) | 2:59 |
 | 2848 | [Sun\-Kissed Horizon](https://open.spotify.com/track/3SDWVE9w2GS52Z2tfEh4Yt) | [Ekcelia](https://open.spotify.com/artist/21kJygI8CT4dcrMZNypWqx) | [Endless Paradise](https://open.spotify.com/album/3w1JI8FhJ3ba3fsY2LSyZl) | 3:01 |
+| 2849 | [Sometimes](https://open.spotify.com/track/53AWwRIORkZEKeQgbYEEN9) | [VKY Emotion 237](https://open.spotify.com/artist/6h6qfGkgMnXehDGCKyF6Fj), [Aka Relli](https://open.spotify.com/artist/48Vao2QW3UDxRAA8zTMus7) | [Sometimes](https://open.spotify.com/album/3fdeMM8GUqyNNxsK8bmAbb) | 2:58 |
+| 2850 | [My Soul](https://open.spotify.com/track/2HNv0fACeQYEngHNXHrKYM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [My Soul](https://open.spotify.com/album/4nFyHTJ2Urj39Ix7QKZ0Y0) | 2:15 |
+| 2851 | [Star Trail](https://open.spotify.com/track/5bz31XdHo37nNb1MJDyHL0) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Star Trail](https://open.spotify.com/album/7f0DYcgI9sRdO0q6HoINXn) | 5:01 |
+| 2852 | [I'm On Fire](https://open.spotify.com/track/2YkStnBSMoFi5lNyub4xRd) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 2:38 |
+| 2853 | [Silver Mask](https://open.spotify.com/track/16RdFS3iJl4HbvwXLJGF8L) | [Arya Roy](https://open.spotify.com/artist/21FTeGmTZQOBuvw2VV03w4) | [Silver Mask](https://open.spotify.com/album/78ZE41OQMniRL8KP12ZwAZ) | 3:01 |
 
-Snapshot ID: `AAAMFJmw63+T/+y1UHZbzgg4YFiLy+q7`
+Snapshot ID: `AAAMGafH/T91nXCQQ2iEBfqpmCwhoqYN`

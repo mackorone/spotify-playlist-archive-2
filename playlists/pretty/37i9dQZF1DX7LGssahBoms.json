@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 207678,
+  "num_followers": 207680,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Celebration: The Best Of Kool & The Gang (1979-1987)",
-        "url": "https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ladies Night - Single Version",
-      "url": "https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Le chanteur (Remastered)",
         "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 234112,
       "name": "Le chanteur",
       "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Celebration: The Best Of Kool & The Gang (1979-1987)",
+        "url": "https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ladies Night - Single Version",
+      "url": "https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/32NiN3HsKzBrSSo1PV2cpa"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
       "artists": [
         {
-          "name": "Gilbert Montagn\u00e9",
-          "url": "https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 188054,
-      "name": "The Fool - Version Remasteris\u00e9e 2021",
-      "url": "https://open.spotify.com/track/256L5lP9i1w5PFIPEdZ1DJ"
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/32NiN3HsKzBrSSo1PV2cpa"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "Gilbert Montagn\u00e9",
+          "url": "https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu"
         }
       ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
+      "duration_ms": 188054,
+      "name": "The Fool - Version Remasteris\u00e9e 2021",
+      "url": "https://open.spotify.com/track/256L5lP9i1w5PFIPEdZ1DJ"
     },
     {
       "added_at": "2026-03-19 15:33:21",

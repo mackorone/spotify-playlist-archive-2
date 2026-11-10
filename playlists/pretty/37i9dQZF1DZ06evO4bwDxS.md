@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,605 likes - 39 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,616 likes - 39 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 6 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 |
 | 7 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 8 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
-| 9 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
+| 9 | [Nobody’s Son](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:02 |
 | 10 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 11 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 | 12 | [On My Way](https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [On My Way](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm) | 3:13 |
-| 13 | [Nobody’s Son](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:02 |
+| 13 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
 | 14 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
 | 15 | [Bring Your Love](https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:42 |
 | 16 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 38 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 3:06 |
 | 39 | [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 |
 
-Snapshot ID: `au5qAAAAAABuhPEW6PR7suN0zNs8F/E7`
+Snapshot ID: `au+7gAAAAAAvND/VyBcdKGkRZgHK+85G`

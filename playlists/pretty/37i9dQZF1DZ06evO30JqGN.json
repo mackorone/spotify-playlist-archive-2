@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 139662,
+  "num_followers": 139666,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABtsos7DVUYBNQocwDcbDfW",
+  "snapshot_id": "au+7gAAAAABR73FbqROfws4aC4xWekii",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
       },
       "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": null,
@@ -155,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
       },
       "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 198429,
+      "name": "Robbed You (with Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 198429,
-      "name": "Robbed You (with Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Finally Over It (The Afterparty)",
+        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165403,
+      "name": "Take Me Out This Club",
+      "url": "https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finally Over It (The Afterparty)",
-        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165403,
-      "name": "Take Me Out This Club",
-      "url": "https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57834,
+  "num_followers": 57832,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABn2Bq1tilKVUla1MryQ3Oa",
+  "snapshot_id": "au+7gAAAAAAiga+7VZquyAfyyIPWr5uz",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Smoke On the Highway",
-      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Oxygen",
         "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 305093,
       "name": "American Oxygen",
       "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Smoke On the Highway",
+      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 224807,
+      "name": "Somebody Who Knows You",
+      "url": "https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "torture (with Earl St. Clair)",
         "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Liar",
-        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 224807,
-      "name": "Somebody Who Knows You",
-      "url": "https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs Drug Songs",
         "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 216706,
       "name": "Unconsolable",
       "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
+        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 186620,
+      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
+      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
       "duration_ms": 153957,
       "name": "Razor's Edge (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
-        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
-      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
     },
     {
       "added_at": null,

@@ -5895,6 +5895,28 @@
     },
     {
       "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3guGAtyo4OMdTZzOshIugb"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
       },
@@ -33320,6 +33342,24 @@
       "duration_ms": 254181,
       "name": "Silver Spoon",
       "url": "https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND"
+    },
+    {
+      "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341733,
+      "name": "Silver Springs - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
+      "url": "https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH"
     },
     {
       "album": {

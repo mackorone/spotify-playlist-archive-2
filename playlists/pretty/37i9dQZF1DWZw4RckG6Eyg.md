@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,576 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,585 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 63 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 |
 | 64 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
 | 65 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
-| 66 | [Everyone Loves You](https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Everyone Loves You](https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu) | 6:34 |
-| 67 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
+| 66 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
+| 67 | [Everyone Loves You](https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Everyone Loves You](https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu) | 6:34 |
 | 68 | [Magic Of The Sale](https://open.spotify.com/track/4tvHq6sgIBL7GCSCBgOeey) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:48 |
 | 69 | [barnyard](https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [into a pretty room](https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC) | 4:04 |
 | 70 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 75 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 |
 | 76 | [Unarchiver](https://open.spotify.com/track/1vow5hm6PQGE4K4UTRY8jX) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Unarchiver](https://open.spotify.com/album/5B27SeekEZmvH9qP7YE5w7) | 4:55 |
 | 77 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
-| 78 | [Images of Love](https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:53 |
-| 79 | [So Sweet & Willing](https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 3:21 |
+| 78 | [So Sweet & Willing](https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 3:21 |
+| 79 | [Images of Love](https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:53 |
 | 80 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
 | 81 | [Everybody](https://open.spotify.com/track/4eq7tRIuWqgMBI2I3juWZc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 6:34 |
 | 82 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 87 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
 | 88 | [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 |
 | 89 | [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 |
-| 90 | [Junior](https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 4:00 |
-| 91 | [Door](https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Door](https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU) | 3:17 |
+| 90 | [Door](https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Door](https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU) | 3:17 |
+| 91 | [Junior](https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 4:00 |
 | 92 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 |
 | 93 | [Dogshow](https://open.spotify.com/track/7lC4Wl7usQ2t9ZyJo8xXYJ) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [DJ Set](https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u) | 3:06 |
 | 94 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 |

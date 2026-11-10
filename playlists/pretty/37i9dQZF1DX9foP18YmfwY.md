@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,589 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,605 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 16 | [Generalíssima \- Ao Vivo](https://open.spotify.com/track/4h1LQR2ZG1ekR3WswzQFgI) | [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Generalíssima \(Ao Vivo\)](https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN) | 5:25 |
 | 17 | [Todo Joelho Se Dobre](https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Todo Joelho Se Dobre](https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN) | 4:43 |
 | 18 | [Me Vê Como Ninguém Me Vê](https://open.spotify.com/track/1qXR4bBNp3tg4yTWhfXb3D) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [BENITO](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [Me Vê Como Ninguém Me Vê](https://open.spotify.com/album/1lQY6Gs9eK42Emoqf27JK6) | 5:49 |
-| 19 | [Milagre de Amor](https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Milagre de Amor](https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew) | 4:16 |
+| 19 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
 | 20 | [Ainda Bem](https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0) | [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M) | [UM \- Origem](https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0) | 4:54 |
 | 21 | [Oração De São Francisco](https://open.spotify.com/track/3dtnRL4N4yEZTfOXCb722D) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Oração De São Francisco](https://open.spotify.com/album/3xUOd5fORtOZ9FoGm4UbRI) | 3:52 |
 | 22 | [Nossa Senhora](https://open.spotify.com/track/2H2OPvhkS90Y1dp47uiVAm) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Nossa Senhora](https://open.spotify.com/album/4DdEkdjWAmKerPxe3Iirmt) | 4:59 |
 | 23 | [Um Grito](https://open.spotify.com/track/7cNWw9AQFouxTr6el0nNLy) | [Gerados pela Imaculada](https://open.spotify.com/artist/3r8g1RAaeYKY3ZtjrGhpjg), [Padre Renné Viana](https://open.spotify.com/artist/3psM78wfH2Vt91KjGzDVNY) | [Um Grito](https://open.spotify.com/album/6PufRrnEYKhv19O6RGsHGo) | 7:30 |
-| 24 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
+| 24 | [Milagre de Amor](https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Milagre de Amor](https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew) | 4:16 |
 | 25 | [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 |
 | 26 | [Cheiro de Rosas \- Ao Vivo](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas \(Ao Vivo\)](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 |
 | 27 | [A Nossa Fé \- Ao Vivo](https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe) | [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [A Nossa Fé \(Ao Vivo\)](https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP) | 12:04 |

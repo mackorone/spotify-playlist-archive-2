@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,210 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,274 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 41 | [そっけない](https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 6:32 |
 | 42 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
 | 43 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
-| 44 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
-| 45 | [恋](https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 4:13 |
+| 44 | [恋](https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 4:13 |
+| 45 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 46 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
 | 47 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 |
 | 48 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 |
-| 49 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
-| 50 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
+| 49 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
+| 50 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 51 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
 | 52 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 53 | [So Honey](https://open.spotify.com/track/5oAyDEvsfDuirGzjEh3p3D) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [So Honey](https://open.spotify.com/album/2P85AehquD1yapP2BvFhcv) | 3:06 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 61 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
 | 62 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 63 | [ダイヤモンド](https://open.spotify.com/track/5rJPYbYFfXfj3lcA9ol8p3) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [cats](https://open.spotify.com/album/143f7cJ4Q5Wq5FzUtFLJW2) | 4:56 |
-| 64 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
-| 65 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 |
+| 64 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 |
+| 65 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
 | 66 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 67 | [恋唄](https://open.spotify.com/track/3nmMpo6n2NcX6rU0TiQRXf) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 5:00 |
 | 68 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,222 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,201 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 49 | [Carinhoso](https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Carinhoso](https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0) | 1:46 |
 | 50 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
 | 51 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 |
-| 52 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Leo Jaime \- As Mais Pedidas](https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy) | 3:10 |
-| 53 | [Proibida Pra Mim](https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 3:15 |
-| 54 | [Se Eu Não Te Amasse Tanto Assim \- Acústico Em Trancoso / Ao Vivo](https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico Em Trancoso \(Ao Vivo\)](https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4) | 3:44 |
+| 52 | [Se Eu Não Te Amasse Tanto Assim \- Acústico Em Trancoso / Ao Vivo](https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico Em Trancoso \(Ao Vivo\)](https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4) | 3:44 |
+| 53 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Leo Jaime \- As Mais Pedidas](https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy) | 3:10 |
+| 54 | [Proibida Pra Mim](https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 3:15 |
 | 55 | [Um Amor Puro](https://open.spotify.com/track/3SdbQJS2ZS5Dc1K2Bx02bq) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 4:03 |
 | 56 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
 | 57 | [Meu Bem](https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Meu Bem](https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07) | 2:14 |

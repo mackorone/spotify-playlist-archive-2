@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Pop you need to hear! Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,187 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,056 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

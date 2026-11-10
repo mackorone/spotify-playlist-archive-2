@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Mosimann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,368 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,386 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 
 > This is girl in red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,326 likes - 39 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,320 likes - 39 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 30 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc) | 2:53 |
 | 31 | [RØDT HVITT BLÅTT](https://open.spotify.com/track/1wVc6eYrGKDK6HJUs5wxlm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [RØDT HVITT BLÅTT](https://open.spotify.com/album/0CfgQBJAB8R1r1eqLkl9hJ) | 2:28 |
 | 32 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 |
-| 33 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/6P2Fi6JfkqAw1h7ga6jNwB) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/26RQFyaGdugNbL7aBzF7Ik) | 3:09 |
-| 34 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
+| 33 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
+| 34 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/6P2Fi6JfkqAw1h7ga6jNwB) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/26RQFyaGdugNbL7aBzF7Ik) | 3:09 |
 | 35 | [Girlfriend Is Better](https://open.spotify.com/track/3QgZK3ht7lUVXPklw0kEe4) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Girlfriend Is Better](https://open.spotify.com/album/2pUakM9dL6aZVeoNVL4tvT) | 3:05 |
 | 36 | [Phantom Pain](https://open.spotify.com/track/2X05EASOuBv6aRQRJoGI1i) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:51 |
 | 37 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
 | 38 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
 | 39 | [DOING IT AGAIN BABY](https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:25 |
 
-Snapshot ID: `au5qAAAAAAAHWZC7mWqd2RZS9ExYdJ6T`
+Snapshot ID: `au+7gAAAAADif7YPGHstS0bo4ECXhyMm`

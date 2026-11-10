@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Renee Mooi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,731 likes - 85 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,735 likes - 85 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

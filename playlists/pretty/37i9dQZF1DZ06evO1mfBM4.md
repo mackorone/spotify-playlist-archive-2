@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 
 > This is Luis Miguel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,594,317 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,594,471 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 23 | [Todo Y Nada](https://open.spotify.com/track/1FJSXlDrgr9AS37w67CPHP) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:39 |
 | 24 | [La Gloria Eres Tu](https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:22 |
 | 25 | [Mucho Corazón](https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:23 |
-| 26 | [Devuélveme El Amor](https://open.spotify.com/track/7wTljp825aJ1bgJ8yakPcr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 4:05 |
-| 27 | [Un Hombre Busca a Una Mujer](https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:35 |
+| 26 | [Un Hombre Busca a Una Mujer](https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:35 |
+| 27 | [Devuélveme El Amor](https://open.spotify.com/track/7wTljp825aJ1bgJ8yakPcr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 4:05 |
 | 28 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 |
 | 29 | [Inolvidable](https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 4:17 |
 | 30 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 49 | [Llamarada](https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:24 |
 | 50 | [Será Que No Me Amas \(Blame It on the Boogie\)](https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:09 |
 
-Snapshot ID: `au5qAAAAAADd3HAr4nTgzPKxUhnRB7AD`
+Snapshot ID: `au+7gAAAAABuSVEr8Pl9oCSVuDD7ARYI`

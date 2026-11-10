@@ -1,6 +1,6 @@
 {
-  "description": "With Bruno Mars, Maroon 5, Justin Bieber and more",
-  "num_followers": 11695,
+  "description": "With Bruno Mars, Justin Bieber, Dua Lipa and more",
+  "num_followers": 11699,
   "original_name": "24K Magic Radio",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": null,
@@ -123,22 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": null,
@@ -163,34 +155,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
       "artists": [
         {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "added_at": null,
@@ -211,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
       },
@@ -243,6 +223,22 @@
       "duration_ms": 235933,
       "name": "Crazy In Love (feat. JA\u0178-Z)",
       "url": "https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
       "added_at": null,
@@ -303,18 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything Is 4",
         "url": "https://open.spotify.com/album/5YUCuqfW8rTkGCswfkDrPy"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 207719,
       "name": "Want to Want Me",
       "url": "https://open.spotify.com/track/6zKrj4SomgfbvsfuTAuElE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989 (Deluxe)",
         "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
@@ -495,34 +479,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 257265,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
       "added_at": null,
@@ -547,18 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "May 25th",
-        "url": "https://open.spotify.com/album/1aRkJ2n9HsHuyakKVXaMe6"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
       "artists": [
         {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 107702,
-      "name": "Nothing on You",
-      "url": "https://open.spotify.com/track/2A5YAFeEwGi7KlGMYRf5dX"
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
     },
     {
       "added_at": null,
@@ -671,38 +667,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 227893,
-      "name": "Firework",
-      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 224813,
-      "name": "Cheap Thrills (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
     },
     {
       "added_at": null,
@@ -731,138 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 224849,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My World 2.0",
-        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Heist",
-        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1"
-        },
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 258431,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
-      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
-      "url": "https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 148448,
-      "name": "Runaway Baby",
-      "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": null,
@@ -891,26 +767,118 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For Party Rocking",
-        "url": "https://open.spotify.com/album/6g2Ig47IgyqyatDpj7UpHo"
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
       "artists": [
         {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        },
-        {
-          "name": "Lauren Bennett",
-          "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
-        },
-        {
-          "name": "GoonRock",
-          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 262146,
-      "name": "Party Rock Anthem",
-      "url": "https://open.spotify.com/track/4650WGL6InVqP7YN5POqIz"
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224849,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 148448,
+      "name": "Runaway Baby",
+      "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "May 25th",
+        "url": "https://open.spotify.com/album/1aRkJ2n9HsHuyakKVXaMe6"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 107702,
+      "name": "Nothing on You",
+      "url": "https://open.spotify.com/track/2A5YAFeEwGi7KlGMYRf5dX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/34h7O0d0ToOB60zYSFkGKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Let's Get It Started - Spike Mix",
+      "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
     }
   ],
   "unique_name": "24K Magic Radio",

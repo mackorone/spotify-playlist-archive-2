@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > All hail the King! Get ready to fall in love with 'Tu Mil Jaaye'\. Listen now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,734 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,807 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

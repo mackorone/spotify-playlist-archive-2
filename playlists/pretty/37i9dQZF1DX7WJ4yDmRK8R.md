@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Travelers All Stars  on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,035 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,038 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 56 | [Rat Race](https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Too Much Too Young](https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB) | 3:09 |
 | 57 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
 | 58 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
-| 59 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
-| 60 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
+| 59 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
+| 60 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
 | 61 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
 | 62 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 |
 | 63 | [You Can Get It If You Really Want](https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Greats](https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0) | 2:39 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 97 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
 | 98 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 |
 | 99 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
-| 100 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 |
+| 100 | [On My Radio](https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Indie Singles Collection 1991\-1996](https://open.spotify.com/album/3gwVOnYIvRJFJyrJzaPnWF) | 3:06 |
 
 Snapshot ID: `AAAAALeQv02FLQaK73wwCC2K+1Pzy5g8`

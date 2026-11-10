@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 196 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 196 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 81 | [PERREO LENTO](https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 2:36 |
 | 82 | [VUDÚ](https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:51 |
 | 83 | [Bandido](https://open.spotify.com/track/5poUJOhLyalGkUedn3ggeX) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:42 |
-| 84 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
-| 85 | [No Te Quieren Conmigo \- Remix](https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [No Te Quieren Conmigo \(Remix\) \(Gaby Music, Anuel AA, Luar LA L\)](https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z) | 5:28 |
+| 84 | [No Te Quieren Conmigo \- Remix](https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [No Te Quieren Conmigo \(Remix\) \(Gaby Music, Anuel AA, Luar LA L\)](https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z) | 5:28 |
+| 85 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
 | 86 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 |
 | 87 | [El Problema](https://open.spotify.com/track/6cyH3OGfKQBevSYxJFIUCx) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:28 |
 | 88 | [Sigueme los Pasos](https://open.spotify.com/track/3RTmnQQNya9v6ZKPoCIp2E) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 4:06 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 195 | [Reza Por Mi](https://open.spotify.com/track/5aNNE58E8H8K5UsBFLeGss) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 4:34 |
 | 196 | [Ella Pide De Eso](https://open.spotify.com/track/4OUcankxNe66OYymBu600u) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:22 |
 
-Snapshot ID: `AchJ9gAAAABeL8Bye4sSin2aUD7UAWdb`
+Snapshot ID: `AchP0gAAAABZ2oqDls5BlLnOmauz68xV`

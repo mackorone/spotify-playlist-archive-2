@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 133354,
+  "num_followers": 133364,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Rise Again",
-        "url": "https://open.spotify.com/album/6p6lyaRb5q137KwAwcq9QT"
-      },
-      "artists": [
-        {
-          "name": "Jordi Cabrera",
-          "url": "https://open.spotify.com/artist/6MIVnJ66ZhwXvPqxrTHQME"
-        }
-      ],
-      "duration_ms": 369677,
-      "name": "Rise Again - Original Mix",
-      "url": "https://open.spotify.com/track/7fOxa0igq6duNKLFGOKtSM"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Canned Heat (Dimitri From Paris Remixes)",
         "url": "https://open.spotify.com/album/71oD2N81fUgZjNU5ZNB58v"
       },
@@ -583,26 +567,18 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/6p6lyaRb5q137KwAwcq9QT"
       },
       "artists": [
         {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        },
-        {
-          "name": "MORGAN",
-          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
-        },
-        {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+          "name": "Jordi Cabrera",
+          "url": "https://open.spotify.com/artist/6MIVnJ66ZhwXvPqxrTHQME"
         }
       ],
-      "duration_ms": 365250,
-      "name": "Angels - Crackazat Remix",
-      "url": "https://open.spotify.com/track/47asp73irkfYAFCjD1KOxJ"
+      "duration_ms": 369677,
+      "name": "Rise Again - Original Mix",
+      "url": "https://open.spotify.com/track/7fOxa0igq6duNKLFGOKtSM"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -627,6 +603,30 @@
       "duration_ms": 188813,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/33N8O8q3nNFCdtg3BQ5Z5d"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        },
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "duration_ms": 365250,
+      "name": "Angels - Crackazat Remix",
+      "url": "https://open.spotify.com/track/47asp73irkfYAFCjD1KOxJ"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -779,30 +779,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Love Come Down (Ezel & DJ Spen Reproduction)",
-        "url": "https://open.spotify.com/album/4f5zE1DkatE4rModI1m19M"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        },
-        {
-          "name": "Ezel",
-          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        }
-      ],
-      "duration_ms": 456463,
-      "name": "Love Come Down - Ezel & DJ Spen Reproduction",
-      "url": "https://open.spotify.com/track/7LBqPuHF7sWyL3WTLtAtvJ"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Ibadan's 30th Anniversary Vol. 1",
         "url": "https://open.spotify.com/album/3UsvGWXBbDrTJ5X1ko4HGZ"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 517932,
       "name": "That's the Way Love Is - Jerome Sydenham & Tiger Stripes Remix 2025 Remaster",
       "url": "https://open.spotify.com/track/7fusBK18OI4MCWWQ0fNpy8"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Love Come Down (Ezel & DJ Spen Reproduction)",
+        "url": "https://open.spotify.com/album/4f5zE1DkatE4rModI1m19M"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        },
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        }
+      ],
+      "duration_ms": 456463,
+      "name": "Love Come Down - Ezel & DJ Spen Reproduction",
+      "url": "https://open.spotify.com/track/7LBqPuHF7sWyL3WTLtAtvJ"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
+        "name": "Wrap Me Up",
+        "url": "https://open.spotify.com/album/55mGNYMTpPNn7LDgnDZxBi"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        }
+      ],
+      "duration_ms": 491438,
+      "name": "Wrap Me Up - Extended Mix",
+      "url": "https://open.spotify.com/track/5MWEWl4Kmiy71Tn7RBB0Mj"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
         "name": "Answers (Soulmekanikz Radio Edit)",
         "url": "https://open.spotify.com/album/03l8YzS0g0St4X6vnhtyDc"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 202439,
       "name": "Answers - Soulmekanikz Radio Edit",
       "url": "https://open.spotify.com/track/0i6v0y3wVqzjgPIyDFGUzD"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
-        "name": "Wrap Me Up",
-        "url": "https://open.spotify.com/album/55mGNYMTpPNn7LDgnDZxBi"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        }
-      ],
-      "duration_ms": 491438,
-      "name": "Wrap Me Up - Extended Mix",
-      "url": "https://open.spotify.com/track/5MWEWl4Kmiy71Tn7RBB0Mj"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "You Deserve (Incl. Remixes)",
-        "url": "https://open.spotify.com/album/6xaOW9FCMjsiI3PScWMich"
-      },
-      "artists": [
-        {
-          "name": "DJ Czezre",
-          "url": "https://open.spotify.com/artist/4JUjGBLElAQDC7OPonCrlR"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        },
-        {
-          "name": "Masaki Morii",
-          "url": "https://open.spotify.com/artist/3wumvz83FrtgSBu4Ijjz9s"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "You Deserve - Masaki Morii Remix",
-      "url": "https://open.spotify.com/track/2GK7jRrCME8KH0r9UrnzyE"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Luv High",
         "url": "https://open.spotify.com/album/7qxwMO1d1Y0cuaAwVQ3Jl3"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 238536,
       "name": "Luv High - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/3sWUU3Ox1R9PJopLLJiB9b"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "You Deserve (Incl. Remixes)",
+        "url": "https://open.spotify.com/album/6xaOW9FCMjsiI3PScWMich"
+      },
+      "artists": [
+        {
+          "name": "DJ Czezre",
+          "url": "https://open.spotify.com/artist/4JUjGBLElAQDC7OPonCrlR"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        },
+        {
+          "name": "Masaki Morii",
+          "url": "https://open.spotify.com/artist/3wumvz83FrtgSBu4Ijjz9s"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "You Deserve - Masaki Morii Remix",
+      "url": "https://open.spotify.com/track/2GK7jRrCME8KH0r9UrnzyE"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -1363,50 +1363,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "If Luvin You Is Wrong",
-        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
-      },
-      "artists": [
-        {
-          "name": "Arnaud D",
-          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
-        },
-        {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        }
-      ],
-      "duration_ms": 476097,
-      "name": "If Luvin You Is Wrong - Main Mix",
-      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
-        "name": "Back To Your Place (The Jihad Muhammad Remixes)",
-        "url": "https://open.spotify.com/album/5IHroX6eiK02P5MeiQ2t31"
-      },
-      "artists": [
-        {
-          "name": "Marc Evans",
-          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Jihad Muhammad",
-          "url": "https://open.spotify.com/artist/3J05yQFlZQacYRoB9o1I8o"
-        }
-      ],
-      "duration_ms": 445105,
-      "name": "Back To Your Place - Jihad Muhammad Bang The Drum Vocal Remix",
-      "url": "https://open.spotify.com/track/3Y7FcB6hMBzN8Pq9Ha6oCq"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "& Forever",
         "url": "https://open.spotify.com/album/1TltQOv7XJ3JHVuBU8jmAW"
       },
@@ -1447,6 +1403,50 @@
       "duration_ms": 210000,
       "name": "Do It Y'all",
       "url": "https://open.spotify.com/track/2xZrUmm86nCDLyN4wCdPwg"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "If Luvin You Is Wrong",
+        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
+      },
+      "artists": [
+        {
+          "name": "Arnaud D",
+          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
+        },
+        {
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        }
+      ],
+      "duration_ms": 476097,
+      "name": "If Luvin You Is Wrong - Main Mix",
+      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Back To Your Place (The Jihad Muhammad Remixes)",
+        "url": "https://open.spotify.com/album/5IHroX6eiK02P5MeiQ2t31"
+      },
+      "artists": [
+        {
+          "name": "Marc Evans",
+          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Jihad Muhammad",
+          "url": "https://open.spotify.com/artist/3J05yQFlZQacYRoB9o1I8o"
+        }
+      ],
+      "duration_ms": 445105,
+      "name": "Back To Your Place - Jihad Muhammad Bang The Drum Vocal Remix",
+      "url": "https://open.spotify.com/track/3Y7FcB6hMBzN8Pq9Ha6oCq"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "What Becomes Of You",
-        "url": "https://open.spotify.com/album/1mv1etOxxuRdzYyQpxFxFc"
-      },
-      "artists": [
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        },
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        }
-      ],
-      "duration_ms": 211016,
-      "name": "What Becomes Of You",
-      "url": "https://open.spotify.com/track/7E8Wjs5AihSghbPkddtCSw"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Forever Together (Closer To The Source Mix)",
         "url": "https://open.spotify.com/album/6TSxERJjCOI1TkX2k94OKH"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 205446,
       "name": "Forever Together - Closer To The Source Edit",
       "url": "https://open.spotify.com/track/3NNuDAzcpFWo3oIBSmwLJK"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "What Becomes Of You",
+        "url": "https://open.spotify.com/album/1mv1etOxxuRdzYyQpxFxFc"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        }
+      ],
+      "duration_ms": 211016,
+      "name": "What Becomes Of You",
+      "url": "https://open.spotify.com/track/7E8Wjs5AihSghbPkddtCSw"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1T892OkFqv4N75vX2t44ne"
-      },
-      "artists": [
-        {
-          "name": "Mirko & Meex",
-          "url": "https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1"
-        }
-      ],
-      "duration_ms": 198347,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/5YFYLl0Ndu2kPCQFJUbdBD"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Betcha Wouldn't Hurt Me",
         "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
       },
@@ -1847,6 +1831,42 @@
       "duration_ms": 350431,
       "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
       "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1T892OkFqv4N75vX2t44ne"
+      },
+      "artists": [
+        {
+          "name": "Mirko & Meex",
+          "url": "https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1"
+        }
+      ],
+      "duration_ms": 198347,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/5YFYLl0Ndu2kPCQFJUbdBD"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Like It Was (Terry Hunter Remix)",
+        "url": "https://open.spotify.com/album/0xCn6VE2H25JDIqvUhn1Qc"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        }
+      ],
+      "duration_ms": 405699,
+      "name": "Like It Was - Terry Hunter Remix",
+      "url": "https://open.spotify.com/track/5eOIi93Pnom8G9STY2EDo5"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -1871,26 +1891,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Everything Is Within You",
-        "url": "https://open.spotify.com/album/3DSDsTdzZvx7aFIeBXxCfm"
-      },
-      "artists": [
-        {
-          "name": "Ben Westbeech",
-          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
-        },
-        {
-          "name": "RAHH",
-          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
-        }
-      ],
-      "duration_ms": 268809,
-      "name": "Whatever Is Missing In You",
-      "url": "https://open.spotify.com/track/1ipbRK3PEUQV0NW2lIZtyb"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "In The City (Sahib & Spen\u2019s Radio Edit)",
         "url": "https://open.spotify.com/album/51tz3ty0R62AlPBaTA68Nh"
       },
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
+        "name": "Everything Is Within You",
+        "url": "https://open.spotify.com/album/3DSDsTdzZvx7aFIeBXxCfm"
+      },
+      "artists": [
+        {
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "duration_ms": 268809,
+      "name": "Whatever Is Missing In You",
+      "url": "https://open.spotify.com/track/1ipbRK3PEUQV0NW2lIZtyb"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/3yZcSjo5wlJ2CzIFYPtxbU"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 472258,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/79aDNSN85CmvaPCGkAsYOL"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
-        "name": "Like It Was (Terry Hunter Remix)",
-        "url": "https://open.spotify.com/album/0xCn6VE2H25JDIqvUhn1Qc"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Terry Hunter",
-          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
-        }
-      ],
-      "duration_ms": 405699,
-      "name": "Like It Was - Terry Hunter Remix",
-      "url": "https://open.spotify.com/track/5eOIi93Pnom8G9STY2EDo5"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "You're For Me",
-        "url": "https://open.spotify.com/album/4HoyUqthTuFk7zC7KGVTod"
-      },
-      "artists": [
-        {
-          "name": "Franck Roger",
-          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 419007,
-      "name": "You're For Me",
-      "url": "https://open.spotify.com/track/7xX2TPMwQmD5uKHkeva19P"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/7ypvOMWqFOfMVWH6hkd2Ny"
       },
@@ -2143,6 +2123,26 @@
       "duration_ms": 404293,
       "name": "Thank You - Vocal Dub",
       "url": "https://open.spotify.com/track/5IfCYxqmHkbMpQSHNZikp8"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "You're For Me",
+        "url": "https://open.spotify.com/album/4HoyUqthTuFk7zC7KGVTod"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 419007,
+      "name": "You're For Me",
+      "url": "https://open.spotify.com/track/7xX2TPMwQmD5uKHkeva19P"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2315,22 +2315,26 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1QENZAuYIf0wAXwZrTBbKM"
+        "name": "Save Your Soul (Joe Claussell Sacred Rhythm Praise Version Remix)",
+        "url": "https://open.spotify.com/album/3yhRW0QBLJuVV12DMFnRfQ"
       },
       "artists": [
         {
-          "name": "DJ E-Clyps",
-          "url": "https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ"
+          "name": "Arp Frique",
+          "url": "https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb"
         },
         {
-          "name": "Tasha LaRae",
-          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
+          "name": "The Perpetual Singers",
+          "url": "https://open.spotify.com/artist/1bovG0m4cBLOHmekh0Gh59"
+        },
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
         }
       ],
-      "duration_ms": 221991,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/0oa66icSKEwocNbRcGY52J"
+      "duration_ms": 584558,
+      "name": "Save Your Soul - Joe Claussell Sacred Rhythm Praise Version Remix",
+      "url": "https://open.spotify.com/track/2sSeVmolH1mkes83ZzsijX"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2355,26 +2359,22 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Save Your Soul (Joe Claussell Sacred Rhythm Praise Version Remix)",
-        "url": "https://open.spotify.com/album/3yhRW0QBLJuVV12DMFnRfQ"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1QENZAuYIf0wAXwZrTBbKM"
       },
       "artists": [
         {
-          "name": "Arp Frique",
-          "url": "https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb"
+          "name": "DJ E-Clyps",
+          "url": "https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ"
         },
         {
-          "name": "The Perpetual Singers",
-          "url": "https://open.spotify.com/artist/1bovG0m4cBLOHmekh0Gh59"
-        },
-        {
-          "name": "Joaquin \"Joe\" Claussell",
-          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+          "name": "Tasha LaRae",
+          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
         }
       ],
-      "duration_ms": 584558,
-      "name": "Save Your Soul - Joe Claussell Sacred Rhythm Praise Version Remix",
-      "url": "https://open.spotify.com/track/2sSeVmolH1mkes83ZzsijX"
+      "duration_ms": 221991,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/0oa66icSKEwocNbRcGY52J"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2463,8 +2463,8 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Starbase 17",
-        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/790TQ951CFuspPv3o8uu9c"
       },
       "artists": [
         {
@@ -2472,13 +2472,13 @@
           "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         },
         {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+          "name": "Shea Soul",
+          "url": "https://open.spotify.com/artist/6nk7YSGGvz4AOOkbfMCNHh"
         }
       ],
-      "duration_ms": 327804,
-      "name": "Tentative",
-      "url": "https://open.spotify.com/track/26n8e5LwQ85Wr9rYA8xtFp"
+      "duration_ms": 368780,
+      "name": "Home - Vocal Mix",
+      "url": "https://open.spotify.com/track/5KVlKPgHoznMmMqjRUKMHD"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2519,26 +2519,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Sentindo Muito Bem",
-        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
-      },
-      "artists": [
-        {
-          "name": "Peter Mac",
-          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
-        },
-        {
-          "name": "Lalo Leyy",
-          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
-        }
-      ],
-      "duration_ms": 435306,
-      "name": "Sentindo Muito Bem - Original Mix",
-      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Without Your Love (The Teddy Douglas Love Break Mixes)",
         "url": "https://open.spotify.com/album/5SdbFHNTktPQeTvbckmIQP"
       },
@@ -2559,26 +2539,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/790TQ951CFuspPv3o8uu9c"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Shea Soul",
-          "url": "https://open.spotify.com/artist/6nk7YSGGvz4AOOkbfMCNHh"
-        }
-      ],
-      "duration_ms": 368780,
-      "name": "Home - Vocal Mix",
-      "url": "https://open.spotify.com/track/5KVlKPgHoznMmMqjRUKMHD"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/0O8bIeUyL9souZRxkr7yrw"
       },
@@ -2595,6 +2555,46 @@
       "duration_ms": 296500,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/5HjvvAXCLDCNKEkL45UP3Q"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Starbase 17",
+        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "Tentative",
+      "url": "https://open.spotify.com/track/26n8e5LwQ85Wr9rYA8xtFp"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Sentindo Muito Bem",
+        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
+      },
+      "artists": [
+        {
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+        },
+        {
+          "name": "Lalo Leyy",
+          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
+        }
+      ],
+      "duration_ms": 435306,
+      "name": "Sentindo Muito Bem - Original Mix",
+      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2703,46 +2703,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Don\u2019t You Worry",
-        "url": "https://open.spotify.com/album/75rfKfQ4swyetUBj1uhRbo"
-      },
-      "artists": [
-        {
-          "name": "Danny Kane",
-          "url": "https://open.spotify.com/artist/6dRT1xzfph4sq7NC93xWfd"
-        },
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        },
-        {
-          "name": "Colonel Red",
-          "url": "https://open.spotify.com/artist/1GhDVB3CquhzQh8PXdGhGr"
-        }
-      ],
-      "duration_ms": 185902,
-      "name": "Don\u2019t You Worry - Michael Gray Remix",
-      "url": "https://open.spotify.com/track/6QELu4D6a6gXPTZsFb4jed"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
-        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
-      },
-      "artists": [
-        {
-          "name": "Shazzi",
-          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
-        }
-      ],
-      "duration_ms": 252842,
-      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2WUnOTIVsOlpzjpycPGt2K"
       },
@@ -2767,22 +2727,42 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "It Might",
-        "url": "https://open.spotify.com/album/5Lvot5CLhLCMsmGuhJlhtS"
+        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
       },
       "artists": [
         {
-          "name": "Franck Roger",
-          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+          "name": "Shazzi",
+          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
         }
       ],
-      "duration_ms": 344904,
-      "name": "It Might - Vocal Version",
-      "url": "https://open.spotify.com/track/63CRDlwKtk0wgcU5w3neHb"
+      "duration_ms": 252842,
+      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Don\u2019t You Worry",
+        "url": "https://open.spotify.com/album/75rfKfQ4swyetUBj1uhRbo"
+      },
+      "artists": [
+        {
+          "name": "Danny Kane",
+          "url": "https://open.spotify.com/artist/6dRT1xzfph4sq7NC93xWfd"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "Colonel Red",
+          "url": "https://open.spotify.com/artist/1GhDVB3CquhzQh8PXdGhGr"
+        }
+      ],
+      "duration_ms": 185902,
+      "name": "Don\u2019t You Worry - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/6QELu4D6a6gXPTZsFb4jed"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2807,6 +2787,26 @@
       "duration_ms": 257233,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/1gLWM2hOSjIRKsaQ3Z0E3T"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "It Might",
+        "url": "https://open.spotify.com/album/5Lvot5CLhLCMsmGuhJlhtS"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 344904,
+      "name": "It Might - Vocal Version",
+      "url": "https://open.spotify.com/track/63CRDlwKtk0wgcU5w3neHb"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -2867,26 +2867,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "Why Don't You Stay",
-        "url": "https://open.spotify.com/album/5IBH6Sve18LBsqBew3MYvt"
-      },
-      "artists": [
-        {
-          "name": "Franck Roger",
-          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 361741,
-      "name": "Why Don't You Stay",
-      "url": "https://open.spotify.com/track/7xm1K5yZ9Plb2COQZodvGV"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "Come Find Me",
         "url": "https://open.spotify.com/album/60CokoYntiASaLW752dAeh"
       },
@@ -2907,6 +2887,26 @@
       "duration_ms": 243840,
       "name": "Come Find Me - Richard Earnshaw Classic Vocal Edit",
       "url": "https://open.spotify.com/track/6sMp9aRTavfu3CAjsZeLHT"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "Why Don't You Stay",
+        "url": "https://open.spotify.com/album/5IBH6Sve18LBsqBew3MYvt"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 361741,
+      "name": "Why Don't You Stay",
+      "url": "https://open.spotify.com/track/7xm1K5yZ9Plb2COQZodvGV"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -3043,26 +3043,6 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/0JxZ6RXBtU9Exb6pRekzsv"
-      },
-      "artists": [
-        {
-          "name": "Thommy Davis",
-          "url": "https://open.spotify.com/artist/2xPooxXsKv4dqHK9abZN2T"
-        },
-        {
-          "name": "Tasha LaRae",
-          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
-        }
-      ],
-      "duration_ms": 448524,
-      "name": "The Real Thing - 12 Inch Vocal Mix",
-      "url": "https://open.spotify.com/track/0WhweXxoF4ZNtH2VQt8hu9"
-    },
-    {
-      "added_at": "2026-09-28 12:41:07",
-      "album": {
         "name": "My Joy",
         "url": "https://open.spotify.com/album/27rIANFRAOW510xsZQa0wO"
       },
@@ -3079,6 +3059,26 @@
       "duration_ms": 424320,
       "name": "My Joy - DJ Beloved & Reggie Steele Remix Vocal",
       "url": "https://open.spotify.com/track/1Nblgxqhj82fdNDwvj9sDn"
+    },
+    {
+      "added_at": "2026-09-28 12:41:07",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/0JxZ6RXBtU9Exb6pRekzsv"
+      },
+      "artists": [
+        {
+          "name": "Thommy Davis",
+          "url": "https://open.spotify.com/artist/2xPooxXsKv4dqHK9abZN2T"
+        },
+        {
+          "name": "Tasha LaRae",
+          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
+        }
+      ],
+      "duration_ms": 448524,
+      "name": "The Real Thing - 12 Inch Vocal Mix",
+      "url": "https://open.spotify.com/track/0WhweXxoF4ZNtH2VQt8hu9"
     },
     {
       "added_at": "2026-09-28 12:41:07",
@@ -3151,22 +3151,22 @@
     {
       "added_at": "2026-09-28 12:41:07",
       "album": {
-        "name": "This Place",
-        "url": "https://open.spotify.com/album/3ARLZdIYzM4HRVeC7e2x1G"
+        "name": "Do It Any Way You Wanna (Eric Kupper Remix)",
+        "url": "https://open.spotify.com/album/2SgyHegDmwhTENCHZG9iaW"
       },
       "artists": [
         {
-          "name": "Harold Matthews Jr",
-          "url": "https://open.spotify.com/artist/3NrvBcEUsZYD9xtE7sh6Ed"
+          "name": "The Philly All Stars",
+          "url": "https://open.spotify.com/artist/3hA3H6rsM5Q5hCzLnuzadK"
         },
         {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
         }
       ],
-      "duration_ms": 321695,
-      "name": "This Place - Original Mix",
-      "url": "https://open.spotify.com/track/6HCpnVK4qvVdaGI1gpm7E7"
+      "duration_ms": 338318,
+      "name": "Do It Any Way You Wanna - Eric Kupper Remix",
+      "url": "https://open.spotify.com/track/64bjfJ3QeVrDHrzWmegS4G"
     },
     {
       "added_at": "2026-09-28 12:41:07",

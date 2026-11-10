@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,671,457 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,671,728 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 24 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
 | 25 | [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 |
 | 26 | [i like the way you kiss me \- burnt](https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me \(burnt\)](https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4) | 2:42 |
-| 27 | [CLEARED \- Remix \(Slowed\)](https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [CLEARED \- Remix \(Slowed / Sped Up\)](https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH) | 2:47 |
-| 28 | [i was only temporary \(Slowed + Reverb\)](https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary \(Remixes\)](https://open.spotify.com/album/4eFB3zNX35w1029DW0XxRm) | 1:42 |
+| 27 | [i was only temporary \(Slowed + Reverb\)](https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary \(Remixes\)](https://open.spotify.com/album/4eFB3zNX35w1029DW0XxRm) | 1:42 |
+| 28 | [CLEARED \- Remix \(Slowed\)](https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [CLEARED \- Remix \(Slowed / Sped Up\)](https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH) | 2:47 |
 | 29 | [Only Love Can Hurt Like This \- Slowed Down Version](https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Slowed Down Version\)](https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG) | 4:17 |
 | 30 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 31 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |

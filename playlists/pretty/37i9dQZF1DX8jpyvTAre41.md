@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Kings of Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,047 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,039 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

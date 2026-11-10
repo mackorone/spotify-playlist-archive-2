@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1456289,
+  "num_followers": 1456247,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 231333,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "This Town",
-        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "S.O.S.: Save Our Soul",
         "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 278146,
       "name": "Love And Happiness",
       "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Mercy (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Mercy - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Por Favor",
         "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 268440,
       "name": "Cassidy",
       "url": "https://open.spotify.com/track/2JR7RCUN6pZIoyNzaqxdUa"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Mercy (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Mercy - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Boston Accent",
-        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "A Good Storm",
         "url": "https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 226600,
       "name": "This Fire",
       "url": "https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Boston Accent",
+        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
     },
     {
       "added_at": "2024-07-12 04:00:00",

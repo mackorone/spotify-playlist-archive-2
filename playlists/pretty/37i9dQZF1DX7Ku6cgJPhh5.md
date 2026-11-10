@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,782 likes - 125 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,845 likes - 125 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 38 | [Brain Stew](https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 3:13 |
 | 39 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
 | 40 | [Higher](https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 5:16 |
-| 41 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
-| 42 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
+| 41 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
+| 42 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 43 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
 | 44 | [My Hero](https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:18 |
 | 45 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 76 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 77 | [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 |
 | 78 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 |
-| 79 | [Scars](https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL) | 3:28 |
-| 80 | [Plush \- 2017 Remaster](https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:13 |
+| 79 | [Plush \- 2017 Remaster](https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:13 |
+| 80 | [Scars](https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL) | 3:28 |
 | 81 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
-| 82 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
-| 83 | [Madness](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:41 |
+| 82 | [Madness](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:41 |
+| 83 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
 | 84 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 85 | [Father Of Mine](https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:51 |
 | 86 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 96 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 |
 | 97 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
 | 98 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
-| 99 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
-| 100 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
+| 99 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
+| 100 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
 | 101 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
 | 102 | [The Sound of Silence](https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:08 |
 | 103 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |

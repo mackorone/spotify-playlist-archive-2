@@ -14192,7 +14192,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 232647,
       "name": "Kh\u00f4ng Y\u00eau Em Th\u00ec Y\u00eau Ai?",
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
@@ -19967,6 +19967,24 @@
     },
     {
       "album": {
+        "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
+        "url": "https://open.spotify.com/album/0SvaonaTjqObbijCwcyXiA"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260117,
+      "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
+      "url": "https://open.spotify.com/track/4Qt47y3EVOHQjILfzJ8NhI"
+    },
+    {
+      "album": {
         "name": "m-tp M-TP",
         "url": "https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT"
       },
@@ -19978,7 +19996,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -23006,7 +23024,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 235658,
       "name": "Sandwich & Story",
       "url": "https://open.spotify.com/track/50xuQI5QlXggFKpq66IBON"
@@ -26904,7 +26922,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 257595,
       "name": "TH\u1ebe GI\u1edaI C\u1ee6A ANH (feat. D\u01b0\u01a1ng Domic, WEAN, CONGB, buitruonglinh & Van Toan)",
       "url": "https://open.spotify.com/track/0CY9y1F7RcRSV3raHljdxu"
@@ -31222,7 +31240,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "\u00c1c M\u1ed9ng \u0110\u1eb9p",
       "url": "https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW"
@@ -31334,10 +31352,28 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 293112,
       "name": "\u00c2m Th\u1ea7m B\u00ean Em",
       "url": "https://open.spotify.com/track/2wZAvkgiOE5tyrnqhB69KA"
+    },
+    {
+      "album": {
+        "name": "\u00c2m Th\u1ea7m B\u00ean Em",
+        "url": "https://open.spotify.com/album/2400OHjHEahXf5nxpYKuuo"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293112,
+      "name": "\u00c2m Th\u1ea7m B\u00ean Em",
+      "url": "https://open.spotify.com/track/6aPYnXjkZynhGXidGqIg9d"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:3tgCaL6JQGlCnLmNyjs84B">Gaia Morelli</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,276 likes - 48 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,278 likes - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

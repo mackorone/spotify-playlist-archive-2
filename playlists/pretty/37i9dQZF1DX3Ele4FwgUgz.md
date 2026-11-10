@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,208 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,208 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 32 | [小悪魔LOVE♡](https://open.spotify.com/track/6gnQVlXaS4yB1D4VC1owLP) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Fly with You!!](https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA) | 4:02 |
 | 33 | [Vroom Vroom](https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [Vroom Vroom](https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX) | 3:36 |
 | 34 | [Butterfly](https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Butterfly / Solitude Rain / VIVID WORLD【近江彼方盤】](https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR) | 3:36 |
-| 35 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD【朝香果林盤】](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |
+| 35 | [Eutopia](https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [Eutopia / EMOTION / stars we chase \(鐘 嵐珠盤\)](https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi) | 4:09 |
 | 36 | [DIVE!](https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Dream with You / Poppin' Up! / DIVE!【優木せつ菜盤】](https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ) | 4:03 |
-| 37 | [翠いカナリア](https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:49 |
-| 38 | [楽しいの天才](https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:01 |
-| 39 | [Solitude Rain](https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Butterfly / Solitude Rain / VIVID WORLD【桜坂しずく盤】](https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T) | 4:06 |
-| 40 | [Beautiful Moonlight](https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 3:58 |
+| 37 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD【朝香果林盤】](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |
+| 38 | [翠いカナリア](https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:49 |
+| 39 | [楽しいの天才](https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:01 |
+| 40 | [Solitude Rain](https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Butterfly / Solitude Rain / VIVID WORLD【桜坂しずく盤】](https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T) | 4:06 |
 | 41 | [ヤダ！](https://open.spotify.com/track/6L8bDztOq8w5fWpED5b1Zb) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [L！L！L！ \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:15 |
-| 42 | [Dream with You](https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Dream with You / Poppin' Up! / DIVE!【上原歩夢盤】](https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1) | 4:18 |
-| 43 | [アナログハート](https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:40 |
-| 44 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
-| 45 | [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 |
+| 42 | [Beautiful Moonlight](https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 3:58 |
+| 43 | [Dream with You](https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Dream with You / Poppin' Up! / DIVE!【上原歩夢盤】](https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1) | 4:18 |
+| 44 | [アナログハート](https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:40 |
+| 45 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
 | 46 | [Love Triangle](https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:13 |
-| 47 | [Awakening Promise](https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Awakening Promise / 夢がここからはじまるよ](https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o) | 4:13 |
-| 48 | [Eutopia](https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [Eutopia / EMOTION / stars we chase \(鐘 嵐珠盤\)](https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi) | 4:09 |
-| 49 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
-| 50 | [眠れる森に行きたいな](https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:24 |
+| 47 | [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 |
+| 48 | [Awakening Promise](https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Awakening Promise / 夢がここからはじまるよ](https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o) | 4:13 |
+| 49 | [5201314](https://open.spotify.com/track/1Xwd04G30VxU0WszLqIjMa) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [Fly with You!!](https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA) | 3:57 |
+| 50 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
 
 Snapshot ID: `AAAAAHTbzqKT2kwY0P89qEyQFoN8DHw4`

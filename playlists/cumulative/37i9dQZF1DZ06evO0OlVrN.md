@@ -4,7 +4,7 @@
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-118 songs - 5 hr 48 min
+119 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Mandato Divino](https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw), [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Explosion Norteña](https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr) | 3:01 | 2022-06-01 | 2022-06-04 |
 | [Me Cai De La Nube](https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze) | 3:08 | 2025-06-10 | 2026-09-08 |
 | [Me Cai De La Nube](https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69) | 3:08 | 2023-02-07 | 2025-06-07 |
+| [Me Cai De La Nube](https://open.spotify.com/track/2g9MbLJw1JazaXk7iPrRFB) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/65l9AhFLTn1s85EGSvXKTn) | 3:08 | 2026-11-10 |  |
 | [Me Cai De La Nube](https://open.spotify.com/track/5duBpK9vaRenDIdXZP5EMq) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:04 | 2022-06-01 | 2024-02-29 |
 | [Me Caíste Del Cielo](https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:01 | 2022-06-01 | 2026-11-08 |
 | [Me Moriria](https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos](https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H) | 3:20 | 2022-06-01 | 2025-12-01 |

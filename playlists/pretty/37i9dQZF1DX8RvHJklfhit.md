@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,362 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,408 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 19 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 |
 | 20 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
 | 21 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 |
-| 22 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
+| 22 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
 | 23 | [Brújula](https://open.spotify.com/track/6i4IheCT4X0cZrrkmrQGsn) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 4:12 |
-| 24 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
+| 24 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
 | 25 | [Optimista](https://open.spotify.com/track/22LGgFochmXJw5vVr5knDl) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:32 |
 | 26 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
 | 27 | [Te Miro Para Ver Si Me Ves Mirarte](https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [SOS](https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P) | 4:35 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 93 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 |
 | 94 | [Me Gustas Tu](https://open.spotify.com/track/6t0fYRoZlM5kQ9qT19JnbZ) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs) | 3:59 |
 | 95 | [Lo Que Siento](https://open.spotify.com/track/3oyf4dalm17kzTE8LJDbgR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/04rhYQT6GJgWQQuRE6FfEW) | 5:12 |
-| 96 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 |
-| 97 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
+| 96 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
+| 97 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 |
 | 98 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 99 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 |
 | 100 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 |

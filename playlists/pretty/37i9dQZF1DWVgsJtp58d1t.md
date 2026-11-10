@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:1OFOShsIbhy1l5x73yuVyB">Shenseea</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,244 likes - 155 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,204 likes - 155 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

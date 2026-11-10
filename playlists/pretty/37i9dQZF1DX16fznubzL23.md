@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,935 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,951 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 19 | [Let Me Go](https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl), [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Let Me Go](https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe) | 2:47 |
 | 20 | [MIKE TYSON](https://open.spotify.com/track/0cDSkCjlBgmPsQggS1JC0B) | [Bunie The First](https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg) | [THE FIRST EP](https://open.spotify.com/album/0Gdpxm5WSAqrizXZZqfOXa) | 2:28 |
 | 21 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
-| 22 | [For Me](https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [For Me](https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo) | 2:20 |
+| 22 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 23 | [Break Me Down](https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8) | [Amma](https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm) | [Break Me Down](https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm) | 2:09 |
-| 24 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
-| 25 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
+| 24 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
+| 25 | [For Me](https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [For Me](https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo) | 2:20 |
 | 26 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 27 | [Raining \(O Dun Mi\)](https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Raining \(O Dun Mi\)](https://open.spotify.com/album/795j20zTKent2xN94khVa9) | 3:12 |
 | 28 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,656 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,661 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 46 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
 | 47 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
 | 48 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
-| 49 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
-| 50 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
+| 49 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
+| 50 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 
 Snapshot ID: `AAAAAEkdHk77uhIcZLYFcq26RA8QLNUJ`

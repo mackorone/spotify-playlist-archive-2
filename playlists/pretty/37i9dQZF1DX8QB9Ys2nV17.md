@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,095 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,127 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 10 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 11 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
 | 12 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
-| 13 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
-| 14 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
+| 13 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
+| 14 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 | 15 | [Drag Me Back In](https://open.spotify.com/track/1NBT9s0MCm99zja0rfoUpd) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [State of Mind](https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO) | 2:44 |
 | 16 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
 | 17 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 27 | [Geechee Woman](https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY) | [Shakura S'Aida](https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw) | [Time...](https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ) | 4:37 |
 | 28 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 | 29 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
-| 30 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
-| 31 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
+| 30 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
+| 31 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
 | 32 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
 | 33 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 | 34 | [Ghost](https://open.spotify.com/track/4P8pay7zYJUbVhtbWFaxEW) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Ghost](https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX) | 3:30 |

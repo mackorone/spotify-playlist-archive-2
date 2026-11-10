@@ -1,6 +1,6 @@
 {
   "description": "El mejor pop de todos los tiempos. Foto: KAROL G",
-  "num_followers": 902625,
+  "num_followers": 902725,
   "original_name": "Mega Pop Mix",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245490,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 208373,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245490,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "Ella Quiere Beber (Remix)",
         "url": "https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 219357,
       "name": "Ella Quiere Beber - Remix",
       "url": "https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "La De La Mala Suerte",
-      "url": "https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "love nwantiti (feat. Dj Yo! & AX'EL) [Remix]",
         "url": "https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "La De La Mala Suerte",
+      "url": "https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -3103,26 +3103,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "ori\u00f3N",
-        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 240964,
-      "name": "ori\u00f3N",
-      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -3143,22 +3123,22 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "3 A.M.",
-        "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
+        "name": "ori\u00f3N",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         },
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 183573,
-      "name": "3 A.M.",
-      "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
+      "duration_ms": 240964,
+      "name": "ori\u00f3N",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -3179,6 +3159,22 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9"
       },
@@ -3195,18 +3191,22 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+        "name": "3 A.M.",
+        "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+      "duration_ms": 183573,
+      "name": "3 A.M.",
+      "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
     },
     {
       "added_at": "2026-09-22 16:29:29",
@@ -3507,38 +3507,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "A las Cinco en el Astoria",
-        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Jueves",
-      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -3575,6 +3543,38 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
+        "name": "A las Cinco en el Astoria",
+        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Jueves",
+      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
         "name": "Luz Y Sombra",
         "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
       },
@@ -3607,22 +3607,6 @@
     {
       "added_at": "2026-09-22 16:29:29",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "Humanos a Marte",
-      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
-    },
-    {
-      "added_at": "2026-09-22 16:29:29",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -3651,6 +3635,22 @@
       "duration_ms": 223026,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
+    },
+    {
+      "added_at": "2026-09-22 16:29:29",
+      "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Humanos a Marte",
+      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
     },
     {
       "added_at": "2026-09-22 16:29:29",

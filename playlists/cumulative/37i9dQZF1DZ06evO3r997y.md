@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-124 songs - 8 hr 9 min
+125 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Drawing a Wish](https://open.spotify.com/track/59uBrvjez0jjtCGiKequ7H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 3:15 | 2022-07-28 | 2026-05-13 |
 | [Drawing a Wish](https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:15 | 2022-06-09 | 2026-06-29 |
 | [Dream Thread](https://open.spotify.com/track/7gftYIVFAeewcn8hhqjme2) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dream Thread](https://open.spotify.com/album/3rGSecU761CP81l0L1jYUL) | 3:30 | 2024-01-06 | 2025-12-13 |
-| [Dream thread](https://open.spotify.com/track/6ut60olD9HU9G5FX7tPrKq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:30 | 2025-12-13 |  |
+| [Dream thread](https://open.spotify.com/track/1o0oouiqb7VSfCDLPkoTej) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/42V5bMew9rzNjiFWFlOjQf) | 3:30 | 2026-11-10 |  |
+| [Dream thread](https://open.spotify.com/track/6ut60olD9HU9G5FX7tPrKq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:30 | 2025-12-13 | 2026-11-10 |
 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-16 | 2023-05-01 |
 | [Esquisse](https://open.spotify.com/track/7aWBulbCFKjBPmY9AOJmhc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/49EXGjFz7XT2UeSqyb2W7H) | 5:08 | 2022-09-15 | 2022-09-17 |
 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2023-04-30 | 2026-08-27 |
@@ -82,9 +83,9 @@
 | [Michikusa](https://open.spotify.com/track/5hv0MVJIM674BfreHqMuAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 4:03 | 2022-11-30 | 2025-11-13 |
 | [Michikusa](https://open.spotify.com/track/1sMsGkaKnv4x1F0ssDJcQp) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Michikusa](https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS) | 4:04 | 2022-06-09 | 2024-03-12 |
 | [moment](https://open.spotify.com/track/4G84Ptp6jEuPEOo5hMzzpd) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [moment](https://open.spotify.com/album/0ioBabHPdHp6De9Q9PcpuS) | 3:42 | 2025-08-04 | 2025-12-18 |
-| [moment](https://open.spotify.com/track/3qxgbbNcrFdNSJFLHjyYpp) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:43 | 2025-12-18 |  |
+| [moment](https://open.spotify.com/track/3qxgbbNcrFdNSJFLHjyYpp) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:43 | 2025-12-18 | 2026-11-10 |
 | [Monster \- from CrosSing](https://open.spotify.com/track/1Hv6sMKytVlsvVao1oErWd) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Monster \- from CrosSing](https://open.spotify.com/album/0m8OQ9Xl9id1RJ4uoZf9uQ) | 3:28 | 2022-06-09 | 2023-09-26 |
-| [mo∞ent](https://open.spotify.com/track/5rlKnPUg9Fm9AjkoJYKpV2) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [mo∞ent](https://open.spotify.com/album/3hRr0nPIX43XjMitP4W59Z) | 3:42 | 2025-07-08 | 2025-08-04 |
+| [mo∞ent](https://open.spotify.com/track/5rlKnPUg9Fm9AjkoJYKpV2) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [mo∞ent](https://open.spotify.com/album/3hRr0nPIX43XjMitP4W59Z) | 3:42 | 2025-07-08 |  |
 | [No Continue](https://open.spotify.com/track/1t0A9qPEyOEW48bj3QiXgr) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n) | 4:06 | 2022-06-09 |  |
 | [Nonfiction Nook](https://open.spotify.com/track/4EZlQjbaaXfdB5ZQK3YzeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:33 | 2025-10-17 | 2025-12-19 |
 | [Nonfiction Nook](https://open.spotify.com/track/4mKEOkgtrwU0X1utWUAsRs) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC) | 3:33 | 2025-12-19 |  |

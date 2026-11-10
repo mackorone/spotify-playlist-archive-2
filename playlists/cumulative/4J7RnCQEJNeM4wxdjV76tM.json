@@ -5967,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277786,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/1kFUfu5GQWqYaFmhzALuVS"
+    },
+    {
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },

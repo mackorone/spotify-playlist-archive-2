@@ -4,7 +4,7 @@
 
 > old asl
 
-667 songs - 1 day 12 hr 45 min
+668 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [JUST FRIENDS ?](https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [JUST FRIENDS ?](https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax) | 2:43 | 2022-10-27 |  |
 | [Just Like Me](https://open.spotify.com/track/1MqodVsKzm9JycEfAMEJtb) | [Now & Forever](https://open.spotify.com/artist/1BTJXmKlbTSyjH181CAZ0t), [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Now & Forever Vol\. 1](https://open.spotify.com/album/58Aln0QATa4mkl4QjluUKZ) | 2:05 | 2023-10-30 |  |
 | [Karma Police](https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Karma Police](https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S) | 4:28 | 2024-04-22 |  |
+| [Killing Me](https://open.spotify.com/track/1kFUfu5GQWqYaFmhzALuVS) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 4:37 | 2026-11-10 |  |
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2024-03-13 |  |
 | [King Of The Fall](https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [King Of The Fall](https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO) | 5:01 | 2023-09-22 |  |
 | [Kirb in my cup](https://open.spotify.com/track/7jb5XsfhW5ZWsMBGO6eHE5) | [dedwrite](https://open.spotify.com/artist/475Cbg3KjcioXssl8x3AGP) | [Kirb in my cup](https://open.spotify.com/album/6hPysz861kQamIehN1LVZ4) | 1:23 | 2022-11-02 |  |

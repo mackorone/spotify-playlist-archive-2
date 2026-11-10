@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,794 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,785 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 31 | [Constellations](https://open.spotify.com/track/58Yb2BQRIJpJbv4DPtNWKG) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Constellations](https://open.spotify.com/album/5gK8f8bycT9i3sitbTShHk) | 2:49 |
 | 32 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
 | 33 | [Hello My Old Lover](https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Hello My Old Lover](https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp) | 3:09 |
-| 34 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 |
-| 35 | [Everytime \- BBC Radio 1 Live Lounge](https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Everytime \(BBC Radio 1 Live Lounge\)](https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3) | 3:01 |
+| 34 | [Everytime \- BBC Radio 1 Live Lounge](https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Everytime \(BBC Radio 1 Live Lounge\)](https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3) | 3:01 |
+| 35 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 |
 | 36 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 |
 | 37 | [I Stay I Leave I Love I Lose](https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:57 |
 | 38 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 |

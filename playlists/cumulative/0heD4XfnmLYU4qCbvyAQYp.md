@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-201 songs - 12 hr 58 min
+202 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Hold On](https://open.spotify.com/track/7wkcfdfG847di04Osh9GM8) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Hold On](https://open.spotify.com/album/2iavwGaGxWpePayenFpKRG) | 3:07 | 2026-01-19 | 2026-02-07 |
 | [I Hate That I Don't Hate You](https://open.spotify.com/track/3bJOzfEj1SYMYf5FKezNHY) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Store Brand Talent](https://open.spotify.com/album/2P76VKyK1AUTSrf6oHiTcD) | 4:24 | 2026-05-14 |  |
 | [I Love You](https://open.spotify.com/track/3Pen0VHkTufM1cxcL1O0Oz) | [Brett Higginson](https://open.spotify.com/artist/6zEdf74MBw01l1zKGQ9auN) | [I Be Free](https://open.spotify.com/album/7uQvrCQa1JbOv5xjXzhOTq) | 3:00 | 2026-10-18 |  |
+| [I rule my mind](https://open.spotify.com/track/3GvbjqSPnaXH5fjG46Kzbm) | [Gengvej](https://open.spotify.com/artist/5orPYxWUhMUSVZoXTXBqoW) | [I rule my mind](https://open.spotify.com/album/7A6TGezokbl9RmjYYslpuW) | 2:44 | 2026-11-09 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2025-05-04 |  |
 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 | 2026-01-14 | 2026-02-07 |
 | [In Chains](https://open.spotify.com/track/5QSOhaJsSyhPeV7RHCi21L) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 7:20 | 2025-07-31 | 2026-02-07 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 7 hr 16 min
+149 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Ice Skater Extraordinaire](https://open.spotify.com/track/4jrKOrMSQvpiyvDepGZQq8) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:57 | 2024-01-29 |  |
 | [If I Were My Doll](https://open.spotify.com/track/1PNtJWNcrmZctQocX8jePH) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 2:10 | 2024-01-29 |  |
 | [illusion](https://open.spotify.com/track/2rjk35AnLTFkyD3h4RxOqy) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [yes & no](https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4) | 3:33 | 2024-01-29 |  |
+| [Intimate](https://open.spotify.com/track/6VmIvBp48Bf3fPpjp9fJ68) | [Txunamy](https://open.spotify.com/artist/1CC2k8ZDa9uEhk84KY48Ll) | [Intimate](https://open.spotify.com/album/1xwp7rAnIREMf8y9FVQ2oV) | 2:27 | 2026-11-09 |  |
 | [It Ain’t Christmas](https://open.spotify.com/track/7k33Om6dxVlE9qYeW7TmT9) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [It Ain’t Christmas](https://open.spotify.com/album/1I6dIrGA2qYznBYBf6yDde) | 3:28 | 2024-01-29 |  |
 | [It's a Gift](https://open.spotify.com/track/6lLipZ945Kf1itBwqJH6Mz) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:59 | 2024-01-29 |  |
 | [J'Adore Paris](https://open.spotify.com/track/4rNcWJSlUIw8QqWgOifjLd) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:05 | 2024-01-29 |  |
@@ -131,7 +132,7 @@
 | [Swagger Right](https://open.spotify.com/track/2tSPLQSQ4XkFwffpxvrGxm) | [Manufactured Superstars](https://open.spotify.com/artist/0sqAJzf2NCihzzyiH0e0d1), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Party All the Time](https://open.spotify.com/album/5sAlN16zuw2ruoAbUSkbYw) | 2:59 | 2024-01-29 |  |
 | [Tequila Talkin’](https://open.spotify.com/track/1Qs5B6q9Bjq4qMDLUPlBsj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:18 | 2024-01-29 |  |
 | [The Fanciest Midnight](https://open.spotify.com/track/1IJSQLi50kg514yn6FtjgH) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:33 | 2024-01-29 |  |
-| [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 | 2026-10-17 |  |
+| [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 | 2026-10-17 | 2026-11-10 |
 | [The Love You Left Behind](https://open.spotify.com/track/3wK48lSPDdMLTlEFiwHQET) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 2:05 | 2024-01-29 |  |
 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 | 2024-01-29 |  |
 | [The World Can Wait](https://open.spotify.com/track/1QejH8ORbZv2bimBkfyQWm) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [The World Can Wait](https://open.spotify.com/album/3MJi1JKY9EoQVzaYz4GrGM) | 3:39 | 2026-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,881 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,952 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 22 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 23 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
 | 24 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
-| 25 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
-| 26 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
+| 25 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
+| 26 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
 | 27 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
 | 28 | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc) | [Barry DeVorzon](https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB) | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM) | 3:02 |
 | 29 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 79 | [Capullito de Aleli](https://open.spotify.com/track/6WlYy1nXmehizsvKs1EZV8) | [Pepe Jaramillo](https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0) | [Al Sur de la Frontera](https://open.spotify.com/album/5lVxK9CLDOrkS8vDtGpnc4) | 1:51 |
 | 80 | [The Lonely Shepherd](https://open.spotify.com/track/3OQEVjVEQ6CvfAJ6XhTs6c) | [Zamfir](https://open.spotify.com/artist/5V2pWwhu3KcEtgwkjMOcwQ) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 4:20 |
 | 81 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/5rhlxILuaQlIlOPU2HCifz) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
-| 82 | [Love's Theme](https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [The Best Of Love Unlimited Orchestra](https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk) | 4:08 |
-| 83 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
+| 82 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
+| 83 | [Love's Theme](https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [The Best Of Love Unlimited Orchestra](https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk) | 4:08 |
 | 84 | [Lluvia De Primavera](https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 5:55 |
 | 85 | [Afrikaan Beat](https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Grandes Orquestas / Bert Kaempfert](https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i) | 2:25 |
 | 86 | [Route 101](https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:22 |

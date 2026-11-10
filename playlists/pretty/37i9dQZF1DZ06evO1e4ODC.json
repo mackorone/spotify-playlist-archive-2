@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 215123,
+  "num_followers": 215153,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAC0AfW7G14UiPNbzR7NP9Ed",
+  "snapshot_id": "au+7gAAAAADKfyM4kH1beE4AjC7gp5iN",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 201946,
-      "name": "Te Dejo Ganar",
-      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
+      "duration_ms": 289200,
+      "name": "Que Ser\u00eda De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
     },
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Que Ser\u00eda De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
+      "duration_ms": 201946,
+      "name": "Te Dejo Ganar",
+      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sencillos",
-        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
       },
       "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 279466,
-      "name": "Princesas M\u00e1gicas - En Vivo",
-      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
+      "duration_ms": 218746,
+      "name": "Suave Voz - En Vivo",
+      "url": "https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja"
     },
     {
       "added_at": null,
@@ -684,29 +688,25 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 459720,
-      "name": "Tal Como Soy",
-      "url": "https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s"
+      "duration_ms": 443973,
+      "name": "Mi Jes\u00fas, Mi Amado",
+      "url": "https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
+        "name": "Sencillos",
+        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
       },
       "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Suave Voz - En Vivo",
-      "url": "https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja"
+      "duration_ms": 279466,
+      "name": "Princesas M\u00e1gicas - En Vivo",
+      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 443973,
-      "name": "Mi Jes\u00fas, Mi Amado",
-      "url": "https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x"
+      "duration_ms": 459720,
+      "name": "Tal Como Soy",
+      "url": "https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s"
     },
     {
       "added_at": null,

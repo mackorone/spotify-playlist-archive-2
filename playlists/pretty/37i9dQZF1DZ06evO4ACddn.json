@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABbxO0So7D8NXmUYZuCMxOu",
+  "snapshot_id": "au+7gAAAAACM3Ttw5rNWfBY7Rusa9JpF",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Dust & Bones",
-      "url": "https://open.spotify.com/track/4x6BgsCGdRg5QdycNHFIxo"
+      "duration_ms": 208480,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/1PSFrIfjb02RUcPRecrPvD"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 208480,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/1PSFrIfjb02RUcPRecrPvD"
+      "duration_ms": 214013,
+      "name": "Dust & Bones",
+      "url": "https://open.spotify.com/track/4x6BgsCGdRg5QdycNHFIxo"
     },
     {
       "added_at": null,

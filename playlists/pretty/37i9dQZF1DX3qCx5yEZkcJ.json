@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1461569,
+  "num_followers": 1461497,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Flute Echoes",
         "url": "https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 147747,
       "name": "Flute Echoes",
       "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "LUSTER",
         "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
       },
@@ -527,6 +511,38 @@
       "duration_ms": 277978,
       "name": "LUSTER",
       "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -575,22 +591,6 @@
       "duration_ms": 130119,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -847,22 +847,18 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Ripples",
-        "url": "https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo"
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
       },
       "artists": [
         {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
         }
       ],
-      "duration_ms": 154320,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -947,6 +943,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Ripples",
+        "url": "https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Hagaki",
         "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
       },
       "artists": [
         {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -995,22 +1011,6 @@
       "duration_ms": 207882,
       "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
       "url": "https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+      },
+      "artists": [
+        {
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "A Kid From Yerevan (Instrumental)",
         "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 156800,
       "name": "Aioi",
       "url": "https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Light Breeze EP",
-        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
-      },
-      "artists": [
-        {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Hot Water",
-        "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "Carpet",
-      "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "GeGe E.P.",
         "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 212307,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Hot Water",
+        "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Carpet",
+      "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "ZENSORIUM",
-        "url": "https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP"
-      },
-      "artists": [
-        {
-          "name": "Nujakasha",
-          "url": "https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI"
-        }
-      ],
-      "duration_ms": 112080,
-      "name": "ZENSORIUM",
-      "url": "https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Just a Lullaby",
         "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "ZENSORIUM",
+        "url": "https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP"
+      },
+      "artists": [
+        {
+          "name": "Nujakasha",
+          "url": "https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI"
+        }
+      ],
+      "duration_ms": 112080,
+      "name": "ZENSORIUM",
+      "url": "https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8"
     },
     {
       "added_at": "2026-10-20 15:32:21",

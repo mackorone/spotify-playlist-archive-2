@@ -1,6 +1,6 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: SONYEONSEUNG) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 297131,
+  "num_followers": 297117,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-11-03 05:42:33",
       "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2026-11-03 05:42:33",
+      "album": {
         "name": "if i\u2019m with you",
         "url": "https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 224902,
       "name": "if i\u2019m with you",
       "url": "https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE"
-    },
-    {
-      "added_at": "2026-11-03 05:42:33",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
       "added_at": "2026-11-03 05:42:33",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-11-03 05:42:33",
       "album": {
-        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
-        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
       },
       "artists": [
         {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 182013,
-      "name": "Yours Sincerely",
-      "url": "https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I"
+      "duration_ms": 222000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
     },
     {
       "added_at": "2026-11-03 05:42:33",
@@ -803,34 +803,18 @@
     {
       "added_at": "2026-11-03 05:42:33",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
+        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
+        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
       },
       "artists": [
         {
-          "name": "Lee Sora",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
-    },
-    {
-      "added_at": "2026-11-03 05:42:33",
-      "album": {
-        "name": "Find You",
-        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
+      "duration_ms": 182013,
+      "name": "Yours Sincerely",
+      "url": "https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I"
     },
     {
       "added_at": "2026-11-03 05:42:33",
@@ -847,6 +831,22 @@
       "duration_ms": 139848,
       "name": "in your control",
       "url": "https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09"
+    },
+    {
+      "added_at": "2026-11-03 05:42:33",
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa, Emicida",
-  "num_followers": 352882,
+  "num_followers": 352865,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
+        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 249856,
+      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
+    },
+    {
+      "added_at": "2026-11-06 03:00:26",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 259406,
       "name": "Quando Chego",
       "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
-    },
-    {
-      "added_at": "2026-11-06 03:00:26",
-      "album": {
-        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 249856,
-      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
     },
     {
       "added_at": "2026-11-06 03:00:26",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
-        }
-      ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-11-06 03:00:26",
-      "album": {
         "name": "Mundo de Cores",
         "url": "https://open.spotify.com/album/1NXJ3cFMUqtmj6gif2Pcln"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 192000,
       "name": "Mundo de Cores",
       "url": "https://open.spotify.com/track/6cdJQfiyQy0VlsLEqBcWfE"
+    },
+    {
+      "added_at": "2026-11-06 03:00:26",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+        }
+      ],
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
     },
     {
       "added_at": "2026-11-06 03:00:26",
@@ -599,6 +599,26 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
+        "name": "S\u00f3 por Isso Eu Vim",
+        "url": "https://open.spotify.com/album/2QR20ZVpnxIT5ZiwS9J4Mx"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 199692,
+      "name": "S\u00f3 por Isso Eu Vim",
+      "url": "https://open.spotify.com/track/25HtOBkWsZQq5Vkmawxaea"
+    },
+    {
+      "added_at": "2026-11-06 03:00:26",
+      "album": {
         "name": "Jo\u00e3o",
         "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
       },
@@ -675,26 +695,6 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
-        "name": "S\u00f3 por Isso Eu Vim",
-        "url": "https://open.spotify.com/album/2QR20ZVpnxIT5ZiwS9J4Mx"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 199692,
-      "name": "S\u00f3 por Isso Eu Vim",
-      "url": "https://open.spotify.com/track/25HtOBkWsZQq5Vkmawxaea"
-    },
-    {
-      "added_at": "2026-11-06 03:00:26",
-      "album": {
         "name": "Teia",
         "url": "https://open.spotify.com/album/0WSxVZLu5R8CpgU9kqKgzo"
       },
@@ -707,30 +707,6 @@
       "duration_ms": 193500,
       "name": "Teia",
       "url": "https://open.spotify.com/track/7JMMxmBYUWcEVMCUuIgsnz"
-    },
-    {
-      "added_at": "2026-11-06 03:00:26",
-      "album": {
-        "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
-        "url": "https://open.spotify.com/album/4MsrnDkwgg0GCZfp1OjRJh"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9loa",
-          "url": "https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Liu Kid",
-          "url": "https://open.spotify.com/artist/6qEUX0TzUwwswlE8w3MPiW"
-        }
-      ],
-      "duration_ms": 260603,
-      "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
-      "url": "https://open.spotify.com/track/4k80imJJqnVRDxpc1O0Y1a"
     },
     {
       "added_at": "2026-11-06 03:00:26",
@@ -755,6 +731,30 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-11-06 03:00:26",
+      "album": {
+        "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
+        "url": "https://open.spotify.com/album/4MsrnDkwgg0GCZfp1OjRJh"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9loa",
+          "url": "https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Liu Kid",
+          "url": "https://open.spotify.com/artist/6qEUX0TzUwwswlE8w3MPiW"
+        }
+      ],
+      "duration_ms": 260603,
+      "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4k80imJJqnVRDxpc1O0Y1a"
     },
     {
       "added_at": "2026-11-06 03:00:26",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
+        "name": "Itapuano",
+        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 190991,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
+    },
+    {
+      "added_at": "2026-11-06 03:00:26",
+      "album": {
         "name": "OLHO NO OLHO",
         "url": "https://open.spotify.com/album/2cdVtTXvo7LAGoyf7sZ32Q"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
-        "name": "Itapuano",
-        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9zar Mendes",
-          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 190991,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
-    },
-    {
-      "added_at": "2026-11-06 03:00:26",
-      "album": {
         "name": "Em Sil\u00eancio o Afeto Cresce",
         "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 198893,
       "name": "Perdi Meu Rumo Na Sua Boca",
       "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
+    },
+    {
+      "added_at": "2026-11-06 03:00:26",
+      "album": {
+        "name": "Inofensiva Flor (Primeiro Ato)",
+        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "duration_ms": 179029,
+      "name": "N\u00e3o Sento \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
     },
     {
       "added_at": "2026-11-06 03:00:26",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
-        "name": "Inofensiva Flor (Primeiro Ato)",
-        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        }
-      ],
-      "duration_ms": 179029,
-      "name": "N\u00e3o Sento \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
-    },
-    {
-      "added_at": "2026-11-06 03:00:26",
-      "album": {
         "name": "Pra Gente Se Acabar",
         "url": "https://open.spotify.com/album/4aPQULZO2vMg0UhUqzlOx6"
       },
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-11-06 03:00:26",
       "album": {
+        "name": "MATUMBI (Ao vivo)",
+        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
+      },
+      "artists": [
+        {
+          "name": "Lazzo Matumbi",
+          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "MATUMBI - Ao vivo",
+      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
+    },
+    {
+      "added_at": "2026-11-06 03:00:26",
+      "album": {
         "name": "Nave Luz",
         "url": "https://open.spotify.com/album/1q1EQFIMVGoOcjuPJdnLZw"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 254500,
       "name": "Ci\u00eancia",
       "url": "https://open.spotify.com/track/2WoXB1yitKjWPziYhOJ3xN"
-    },
-    {
-      "added_at": "2026-11-06 03:00:26",
-      "album": {
-        "name": "MATUMBI (Ao vivo)",
-        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
-      },
-      "artists": [
-        {
-          "name": "Lazzo Matumbi",
-          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "MATUMBI - Ao vivo",
-      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
     },
     {
       "added_at": "2026-11-06 03:00:26",

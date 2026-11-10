@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Banda El Recodo",
-  "num_followers": 433357,
+  "num_followers": 433415,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-11-06 20:50:43",
       "album": {
-        "name": "Ay\u00fadame",
-        "url": "https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 161348,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W"
-    },
-    {
-      "added_at": "2026-11-06 20:50:43",
-      "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 152078,
       "name": "T\u00da NAME",
       "url": "https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR"
+    },
+    {
+      "added_at": "2026-11-06 20:50:43",
+      "album": {
+        "name": "Ay\u00fadame",
+        "url": "https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 161348,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W"
     },
     {
       "added_at": "2026-11-06 20:50:43",
@@ -711,22 +711,18 @@
     {
       "added_at": "2026-11-06 20:50:43",
       "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/0A41nuyPGBclpSJX0grBET"
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
       },
       "artists": [
         {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        },
-        {
-          "name": "Los Carnales de Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5FLo9xEfOrh42VWpFIhphx"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 208164,
-      "name": "Que Nadie Sepa",
-      "url": "https://open.spotify.com/track/6MNGKzuASaYpdEuyV6ha1V"
+      "duration_ms": 224785,
+      "name": "29:11",
+      "url": "https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV"
     },
     {
       "added_at": "2026-11-06 20:50:43",
@@ -751,18 +747,18 @@
     {
       "added_at": "2026-11-06 20:50:43",
       "album": {
-        "name": "LINAJE",
-        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 224785,
-      "name": "29:11",
-      "url": "https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV"
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2026-11-06 20:50:43",
@@ -799,22 +795,6 @@
     {
       "added_at": "2026-11-06 20:50:43",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
-    },
-    {
-      "added_at": "2026-11-06 20:50:43",
-      "album": {
         "name": "Noches Sin Fin",
         "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 185240,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
+    },
+    {
+      "added_at": "2026-11-06 20:50:43",
+      "album": {
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/0A41nuyPGBclpSJX0grBET"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        },
+        {
+          "name": "Los Carnales de Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5FLo9xEfOrh42VWpFIhphx"
+        }
+      ],
+      "duration_ms": 208164,
+      "name": "Que Nadie Sepa",
+      "url": "https://open.spotify.com/track/6MNGKzuASaYpdEuyV6ha1V"
     },
     {
       "added_at": "2026-11-06 20:50:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-11-06 20:50:43",
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "Desp\u00eddase bien",
-      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
-    },
-    {
-      "added_at": "2026-11-06 20:50:43",
-      "album": {
         "name": "La Rueda De La Fortuna",
         "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 216266,
       "name": "En Definitiva",
       "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
+    },
+    {
+      "added_at": "2026-11-06 20:50:43",
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "Desp\u00eddase bien",
+      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
       "added_at": "2026-11-06 20:50:43",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-11-06 20:50:43",
       "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
+    },
+    {
+      "added_at": "2026-11-06 20:50:43",
+      "album": {
         "name": "El Peor De Mis Fracasos (En Vivo)",
         "url": "https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 225535,
       "name": "El Peor De Mis Fracasos - En Vivo",
       "url": "https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp"
-    },
-    {
-      "added_at": "2026-11-06 20:50:43",
-      "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
     },
     {
       "added_at": "2026-11-06 20:50:43",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-11-06 20:50:43",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
-    },
-    {
-      "added_at": "2026-11-06 20:50:43",
-      "album": {
         "name": "Gu\u00e1rdame Esta Noche",
         "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
+    {
+      "added_at": "2026-11-06 20:50:43",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
     },
     {
       "added_at": "2026-11-06 20:50:43",

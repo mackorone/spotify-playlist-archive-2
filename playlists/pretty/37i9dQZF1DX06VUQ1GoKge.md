@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,413 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,399 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 74 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 |
 | 75 | [Again & Again](https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Gift \(Explicit Version\)](https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT) | 3:58 |
 | 76 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
-| 77 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
-| 78 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
+| 77 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
+| 78 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
 | 79 | [Keep It In The Family](https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 7:08 |
 | 80 | [Hit The Floor](https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:30 |
 | 81 | [Smothered](https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:10 |

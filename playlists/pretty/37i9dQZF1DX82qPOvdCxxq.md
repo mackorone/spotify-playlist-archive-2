@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Church Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,774 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,783 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

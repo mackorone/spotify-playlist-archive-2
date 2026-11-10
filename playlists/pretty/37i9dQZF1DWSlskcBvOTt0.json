@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 595222,
+  "num_followers": 595227,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/1IrBQwlHJFx67eZEmbONVa"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5UIBtSYRtX3JmBzqSbd9G1"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Ice 2 Water",
         "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/1IrBQwlHJFx67eZEmbONVa"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/5UIBtSYRtX3JmBzqSbd9G1"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/7hTjR05Pb3Fa4ON3utHbAP"
+      },
+      "artists": [
+        {
+          "name": "SHADU",
+          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/1IlcOpEu12FsBFXeSOrJbM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/54ZSaYsuHumqXgcBPzM5fC"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 207457,
       "name": "Gurbet (feat. Shimza)",
       "url": "https://open.spotify.com/track/2nHIwvtRJyk8a5zTQ9JdSR"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/7hTjR05Pb3Fa4ON3utHbAP"
-      },
-      "artists": [
-        {
-          "name": "SHADU",
-          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
-        }
-      ],
-      "duration_ms": 184222,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/1IlcOpEu12FsBFXeSOrJbM"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Talking Slow",
+        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Talking Slow",
+      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Mounkera",
         "url": "https://open.spotify.com/album/39tt3GUhPor5TYUdsxgNgz"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 193548,
       "name": "Sound Of The Sunrise",
       "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Talking Slow",
-        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Talking Slow",
-      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2067,26 +2067,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1QFEurpNFobpWBTjSyo2di"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 222470,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/5GDR8Wya0Zy5xCmeHc7m7P"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
-      },
-      "artists": [
-        {
-          "name": "Aden Lou",
-          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "YELE",
         "url": "https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 230550,
       "name": "YELE",
       "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
+      },
+      "artists": [
+        {
+          "name": "Aden Lou",
+          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
-        }
-      ],
-      "duration_ms": 244391,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/2LgrHcS2vize3nhCiwzWxQ"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 254365,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/1n7FS2Rm3ptTAOeN82ehRn"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "duration_ms": 244391,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "FOR U",
-        "url": "https://open.spotify.com/album/5PWVvugHvqa3nJV91rcgCw"
-      },
-      "artists": [
-        {
-          "name": "Heliograph",
-          "url": "https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu"
-        },
-        {
-          "name": "Am\u00e8",
-          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "FOR U",
-      "url": "https://open.spotify.com/track/3Q9uzWtxlgjmvxN3jnvC30"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
       },
@@ -2499,6 +2479,26 @@
       "duration_ms": 206557,
       "name": "Negra Soy",
       "url": "https://open.spotify.com/track/5ll38KqFaFr08MLWpv7Svb"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "FOR U",
+        "url": "https://open.spotify.com/album/5PWVvugHvqa3nJV91rcgCw"
+      },
+      "artists": [
+        {
+          "name": "Heliograph",
+          "url": "https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "FOR U",
+      "url": "https://open.spotify.com/track/3Q9uzWtxlgjmvxN3jnvC30"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2627,26 +2627,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/4qw8nqSwg9rA04sPxxCdJf"
-      },
-      "artists": [
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/5IpD0DMUjcvsIeVwWCdZR5"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
       },
@@ -2663,6 +2643,26 @@
       "duration_ms": 197829,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/4qw8nqSwg9rA04sPxxCdJf"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/5IpD0DMUjcvsIeVwWCdZR5"
     }
   ],
   "unique_name": "Tantra",

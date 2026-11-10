@@ -6431,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
+    },
+    {
+      "album": {
         "name": "Hey Hi Hello",
         "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
       },
@@ -8849,6 +8867,24 @@
     },
     {
       "album": {
+        "name": "I thought this story wasn't about me",
+        "url": "https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232625,
+      "name": "Look at me",
+      "url": "https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk"
+    },
+    {
+      "album": {
         "name": "Look To A Star",
         "url": "https://open.spotify.com/album/73q30zKhxmR41pEkSmAZq6"
       },
@@ -9066,7 +9102,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 187118,
       "name": "Love Love (Love Love)",
       "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
@@ -9540,7 +9576,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 216358,
       "name": "Me/You (always and forever)",
       "url": "https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb"

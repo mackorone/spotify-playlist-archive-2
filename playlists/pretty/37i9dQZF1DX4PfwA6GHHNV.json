@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23573,
+  "num_followers": 23574,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "BIA1B99",
+        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 157553,
+      "name": "PERSONAGEM",
+      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Insana",
         "url": "https://open.spotify.com/album/4aaopaXBXqztTnBOTi5BBd"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 206971,
       "name": "Insana",
       "url": "https://open.spotify.com/track/6hbYQFl2ybH0TVHyk2iWQR"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "BIA1B99",
-        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 157553,
-      "name": "PERSONAGEM",
-      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "PR\u00caMIO",
+        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "PR\u00caMIO",
+      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 234000,
       "name": "Me Balan\u00e7a Toda",
       "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "PR\u00caMIO",
-        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "PR\u00caMIO",
-      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
         "name": "BRINDE",
         "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 176400,
       "name": "BRINDE",
       "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -915,46 +915,6 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 191463,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
         "name": "A Beira Mar",
         "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
@@ -979,6 +939,26 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 191463,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Coulda Shown You",
         "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 141130,
       "name": "Coulda Shown You",
       "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-10-19 15:51:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 169 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 169 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 89 | [Talk About It](https://open.spotify.com/track/44uZZ2tn0ucKwFrqJdhLTE) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Justus](https://open.spotify.com/artist/7qmpGpHTqrJfS1QhR9uYKp) | [Compton](https://open.spotify.com/album/6ZnMFVV5HDv2xmHG7bn7et) | 3:15 |
 | 90 | [Feels So Good](https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:11 |
 | 91 | [Body Shop](https://open.spotify.com/track/4NaFV0Cq1PRJdN47anQ8ik) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:39 |
-| 92 | [Bi Fren](https://open.spotify.com/track/26SZ1qJihhDqvzjVjOKiQ0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:51 |
-| 93 | [Handle](https://open.spotify.com/track/4MEYu03CxywIaxNuL3wRnt) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:06 |
+| 92 | [Handle](https://open.spotify.com/track/4MEYu03CxywIaxNuL3wRnt) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:06 |
+| 93 | [Bi Fren](https://open.spotify.com/track/26SZ1qJihhDqvzjVjOKiQ0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:51 |
 | 94 | [Bad Idea](https://open.spotify.com/track/4hTFbz1G3He7e3MKqXjcGx) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:14 |
 | 95 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
 | 96 | [Like It Is](https://open.spotify.com/track/6yHZ09mUcQRZtWBYW73OoQ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 4:36 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 168 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 169 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AchJ2AAAAAB8gavlNyZMXB1Dh9RaBs4l`
+Snapshot ID: `AchP8AAAAABc799Nl/alHQADKsYhujS3`

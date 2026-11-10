@@ -4,7 +4,7 @@
 
 > Haute & Freddy along with the hottest alternative songs right now.
 
-1,229 songs - 2 day 22 hr 27 min
+1,230 songs - 2 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 | 2023-01-27 | 2023-05-06 |
 | [Pages](https://open.spotify.com/track/6j6OD4QQ2jRuvss0ssZSOK) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Pages](https://open.spotify.com/album/7jMiaQZa1FqzmQcj91JStf) | 2:34 | 2022-11-04 | 2023-01-28 |
 | [Pale Song](https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:45 | 2026-01-09 | 2026-03-07 |
+| [PANGEA](https://open.spotify.com/track/4aAoJzg1L7TRWPNsuPzZD4) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:25 | 2026-11-09 |  |
 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 | 2024-04-12 | 2024-08-31 |
 | [Panoramic View](https://open.spotify.com/track/4Qf8HOtPqUC1tbPNgIKh3o) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:52 | 2024-08-30 | 2024-11-09 |
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-06-23 | 2023-10-28 |
@@ -1143,7 +1144,7 @@
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-09-13 | 2024-10-19 |
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-06-24 | 2022-10-08 |
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-03 | 2026-01-17 |
-| [WALLFLOWER](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WALLFLOWER](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 | 2026-08-28 |  |
+| [WALLFLOWER](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WALLFLOWER](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 | 2026-08-28 | 2026-11-10 |
 | [Want Me](https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Want Me](https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s) | 2:43 | 2024-04-12 | 2024-06-22 |
 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 | 2022-10-21 | 2022-10-29 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-24 | 2022-10-23 |

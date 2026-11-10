@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,208 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,214 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 37 | [Heavenly Sea](https://open.spotify.com/track/2Dypv6hOMF9aooaL4Vg47V) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [EVA](https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0) | [Heavenly Sea](https://open.spotify.com/album/7e4HuwUijm4aFa721ixfBU) | 3:13 |
 | 38 | [Hypnotised \(feat\. Linden Jay\)](https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Linden Jay](https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC) | [Hypnotised](https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO) | 3:22 |
 | 39 | [Sweet Nothings](https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Sweet Nothings](https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE) | 2:22 |
-| 40 | [Mr Drummer](https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Mr Drummer](https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z) | 2:26 |
-| 41 | [More Than A Little Bit \(feat\. Tinashe\)](https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:54 |
+| 40 | [More Than A Little Bit \(feat\. Tinashe\)](https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:54 |
+| 41 | [Mr Drummer](https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Mr Drummer](https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z) | 2:26 |
 | 42 | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc) | 3:31 |
 | 43 | [If You Love Her](https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [If You Love Her](https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm) | 2:44 |
 | 44 | [Deja Vu](https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Con Cook](https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v) | [Deja Vu](https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD) | 2:05 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 65 | [IDKW](https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [IDKW](https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7) | 3:52 |
 | 66 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 | 67 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
-| 68 | [Found a Love](https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Found a Love](https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG) | 3:55 |
-| 69 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
+| 68 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
+| 69 | [Found a Love](https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Found a Love](https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG) | 3:55 |
 | 70 | [Good Day](https://open.spotify.com/track/7wmgtLsS8IpBCPHjFiVrd3) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Good Day](https://open.spotify.com/album/1yXoCYl6ztNwguaidTQy2Y) | 3:00 |
 
 Snapshot ID: `AAAAAPBDPj4MQ5BU1mUFn3eWzFDVthHg`

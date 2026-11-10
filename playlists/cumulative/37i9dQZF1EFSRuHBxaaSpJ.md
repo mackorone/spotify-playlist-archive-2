@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-102 songs - 5 hr 19 min
+103 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Crazy](https://open.spotify.com/track/1xR5eHJYsotsc18ceTr8Wi) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Aura X G\-wave](https://open.spotify.com/album/19oWIQY8EuiAaxbS7Atbga) | 2:24 | 2026-10-31 |  |
 | [Crazy](https://open.spotify.com/track/5s7KlR1yLdv4FnzLytnvAy) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Aura x G\-Wave](https://open.spotify.com/album/2dH2JV8iSIcbuxMlvCOgNf) | 2:24 | 2026-03-15 | 2026-11-01 |
 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 | 2024-06-07 |  |
+| [Dans tes bras](https://open.spotify.com/track/2LjXiHfabkd8kI7yQHfWmO) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Unmade](https://open.spotify.com/album/5iS20v4owMyFzmBx2T05AQ) | 3:20 | 2026-11-09 |  |
 | [Die for me](https://open.spotify.com/track/4Wyqp8tk1NWzEzMsZGArjh) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 3:02 | 2024-12-11 |  |
 | [Dis moi](https://open.spotify.com/track/6YANiwoayYin0u5pfCp34O) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:32 | 2024-06-07 |  |
 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 | 2025-09-28 |  |

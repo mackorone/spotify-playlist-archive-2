@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Joeboy",
-  "num_followers": 660760,
+  "num_followers": 660798,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2026-11-08 13:36:40",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "forever be mine (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
-    },
-    {
-      "added_at": "2026-11-08 13:36:40",
-      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-11-08 13:36:40",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "added_at": "2026-11-08 13:36:40",
@@ -499,42 +499,6 @@
     {
       "added_at": "2026-11-08 13:36:40",
       "album": {
-        "name": "Malaria",
-        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 171128,
-      "name": "Malaria",
-      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
-    },
-    {
-      "added_at": "2026-11-08 13:36:40",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "awade",
-      "url": "https://open.spotify.com/track/1RTnTc6i3GZI7xvu8xYve0"
-    },
-    {
-      "added_at": "2026-11-08 13:36:40",
-      "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
@@ -555,6 +519,42 @@
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+    },
+    {
+      "added_at": "2026-11-08 13:36:40",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "awade",
+      "url": "https://open.spotify.com/track/1RTnTc6i3GZI7xvu8xYve0"
+    },
+    {
+      "added_at": "2026-11-08 13:36:40",
+      "album": {
+        "name": "Malaria",
+        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 171128,
+      "name": "Malaria",
+      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
     },
     {
       "added_at": "2026-11-08 13:36:40",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-11-08 13:36:40",
       "album": {
-        "name": "Money Lingo",
-        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         }
       ],
-      "duration_ms": 159757,
-      "name": "Money Lingo",
-      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
+      "duration_ms": 199591,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
     },
     {
       "added_at": "2026-11-08 13:36:40",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-11-08 13:36:40",
       "album": {
-        "name": "I'll Be Okay",
-        "url": "https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj"
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
       },
       "artists": [
         {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 199591,
-      "name": "I'll Be Okay",
-      "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "added_at": "2026-11-08 13:36:40",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-11-08 13:36:40",
       "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/31htNCnKv0SUQqISftKMb8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1VWGibPsJzoO6MQKi17Dpf"
+    },
+    {
+      "added_at": "2026-11-08 13:36:40",
+      "album": {
         "name": "Muhammad Ali (Can't Relate)",
         "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
-    },
-    {
-      "added_at": "2026-11-08 13:36:40",
-      "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/31htNCnKv0SUQqISftKMb8"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/1VWGibPsJzoO6MQKi17Dpf"
     },
     {
       "added_at": "2026-11-08 13:36:40",

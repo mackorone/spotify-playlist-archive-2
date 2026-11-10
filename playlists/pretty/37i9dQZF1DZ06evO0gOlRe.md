@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,859 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,862 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 19 | [Every Lifetime](https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Every Lifetime](https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t) | 2:41 |
 | 20 | [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 |
 | 21 | [Backwards](https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:52 |
-| 22 | [Home](https://open.spotify.com/track/3lkGPWPtEXbI691YLJyJnv) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Filing for Love \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/75h2R18FDmCQW7WDF5Q5Rw) | 3:27 |
-| 23 | [Here Again](https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:45 |
+| 22 | [Here Again](https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:45 |
+| 23 | [Home](https://open.spotify.com/track/3lkGPWPtEXbI691YLJyJnv) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Filing for Love \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/75h2R18FDmCQW7WDF5Q5Rw) | 3:27 |
 | 24 | [easier said than done](https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:49 |
 | 25 | [Best Damn Thing](https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:52 |
-| 26 | [birthday cake \(duet\)](https://open.spotify.com/track/5XgX3fuwz4BumeRyzQKW0S) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/6G3MPHbJfxqlNCC5VB6e3k) | 3:25 |
-| 27 | [Let Me In](https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:58 |
+| 26 | [Let Me In](https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:58 |
+| 27 | [birthday cake \(duet\)](https://open.spotify.com/track/5XgX3fuwz4BumeRyzQKW0S) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/6G3MPHbJfxqlNCC5VB6e3k) | 3:25 |
 | 28 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
 | 29 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 |
-| 30 | [His Problem Instead](https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [His Problem Instead](https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7) | 2:43 |
-| 31 | [Good Things Go](https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:35 |
+| 30 | [Good Things Go](https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:35 |
+| 31 | [His Problem Instead](https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [His Problem Instead](https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7) | 2:43 |
 | 32 | [Put You First](https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Put You First](https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd) | 2:20 |
 | 33 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
 | 34 | [october](https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:47 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 43 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
 | 44 | [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 |
 
-Snapshot ID: `au5qAAAAAADhnR+s/1HZRvbGTdzih1qz`
+Snapshot ID: `au+7gAAAAAAB35LH1VxQ9rEQD3q/NF2/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > A dreamy, beautiful musical companion to your time for rest and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,223 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,230 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 42 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 43 | [Skippin' Down the Sidewalk](https://open.spotify.com/track/730VuZCmpQ0TJCDuRHnqmq) | [Amelia Day](https://open.spotify.com/artist/53DjiwdQhw5LbqB0LHDd5y) | [Skippin' Down the Sidewalk](https://open.spotify.com/album/5EJXG3SWsqSvILfDEwuB97) | 3:20 |
 | 44 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
-| 45 | [Crimson & Clover](https://open.spotify.com/track/7KHn6MgAIRPozclZCvJ3e2) | [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Big Crown Vaults Vol\. 2](https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ) | 3:42 |
-| 46 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
+| 45 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
+| 46 | [Crimson & Clover](https://open.spotify.com/track/7KHn6MgAIRPozclZCvJ3e2) | [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Big Crown Vaults Vol\. 2](https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ) | 3:42 |
 | 47 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
 | 48 | [picky choosy](https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [picky choosy](https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe) | 2:53 |
 | 49 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |

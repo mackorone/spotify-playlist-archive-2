@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1483885,
+  "num_followers": 1483773,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
+        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 216336,
+      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 203625,
       "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
-        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 216336,
-      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
     },
     {
       "added_at": "2026-09-04 03:00:36",

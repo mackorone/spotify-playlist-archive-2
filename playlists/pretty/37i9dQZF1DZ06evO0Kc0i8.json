@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 897940,
+  "num_followers": 898023,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACLhF+RIe4C5rR+mMadL0Zb",
+  "snapshot_id": "au+7gAAAAADXjzMmx8kFTxD25uTjk6/9",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flavorz Pack",
         "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 218059,
       "name": "All Night",
       "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": null,
@@ -651,6 +651,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body (Remix)",
+        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Body - Remix",
+      "url": "https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -683,50 +727,6 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body (Remix)",
-        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Body - Remix",
-      "url": "https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK"
     },
     {
       "added_at": null,
@@ -819,30 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PONGO",
-        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "PONGO",
-      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 185806,
       "name": "VOLVER",
       "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PONGO",
+        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "PONGO",
+      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
       "added_at": null,
@@ -971,46 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT"
       },
@@ -1043,6 +1003,46 @@
       "duration_ms": 377580,
       "name": "M\u00edrame - Remix",
       "url": "https://open.spotify.com/track/7meQTf97i7gyAzeHTLIytv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
     },
     {
       "added_at": null,

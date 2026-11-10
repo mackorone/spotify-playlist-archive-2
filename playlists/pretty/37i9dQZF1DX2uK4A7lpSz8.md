@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uK4A7lpSz8.md) - [plain]
 
 > A collection of feel\-good songs from your favorite anime\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 224 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uK4A7lpSz8.md) - [plain]
 | 43 | [けっかおーらい \- Kekka Orai](https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [けっかおーらい \- Kekka Orai \- My Hero Academia: Vigilantes Opening Theme Song](https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0) | 2:52 |
 | 44 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
 | 45 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
-| 46 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 |
+| 46 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 |
 | 47 | [Bauklotze](https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:56 |
-| 48 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 |
+| 48 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 |
 | 49 | [エンバートーチ](https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [エンバートーチ](https://open.spotify.com/album/6gOb9Jv6UpHGBK5rtRRsqY) | 3:30 |
 | 50 | [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 |
 

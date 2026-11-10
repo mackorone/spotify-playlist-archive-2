@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 812565,
+  "num_followers": 812665,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
       "artists": [
         {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Why Don't We Just Dance",
+      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
-        "name": "Haywire",
-        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Why Don't We Just Dance",
-      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
     },
     {
       "added_at": "2026-08-25 18:31:47",

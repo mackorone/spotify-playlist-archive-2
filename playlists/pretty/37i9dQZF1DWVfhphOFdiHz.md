@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,892 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,892 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 46 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
 | 47 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
 | 48 | [Nothing To Do \(nananananana\)](https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg) | 3:24 |
-| 49 | [No One Knows Us \- Sad Gay Version](https://open.spotify.com/track/0eR1kKRLkbqxXSHYqEynfq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Sad Gay Version\)](https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz) | 4:19 |
+| 49 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 
 Snapshot ID: `AAAAAFcd26XeImPtXkwWs4zOnmPbcZRi`

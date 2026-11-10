@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,613 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,612 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 8 | [枕木の歌](https://open.spotify.com/track/1pT8MgnUDZ8XIUBWu3d5Ls) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS Song for Prism Happier / 枕木の歌【イルミネーションスターズ盤】](https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4) | 4:07 |
 | 9 | [アイ NEED YOU（FOR WONDERFUL STORY）](https://open.spotify.com/track/04vUozb7sdAaoRUdqkECcC) | [765PRO ALLSTARS](https://open.spotify.com/artist/4snGyL0vLLZheHALUzhNlk), [シンデレラガールズ](https://open.spotify.com/artist/77l2335Jbrp4DUCWcDKfdE), [ミリオンライブ！](https://open.spotify.com/artist/3wwXUcmJHjUEvDK9jcvPsi), [SideM](https://open.spotify.com/artist/6AzZEbK2TNyU22XamXPtA8), [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR), [学園アイドルマスター](https://open.spotify.com/artist/4Dkexg0MHU4Pzppo4f1C64) | [アイ NEED YOU（FOR WONDERFUL STORY）](https://open.spotify.com/album/1kEKLArEhl8xU95FmZLuSa) | 7:25 |
 | 10 | [ガガリズム](https://open.spotify.com/track/4qqfp9pLg7qZqPxWGbR8uf) | [黛 冬優子 \(CV.幸村恵理\)](https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:11 |
-| 11 | [Unstoppable](https://open.spotify.com/track/7hibWqOdSPLX2q7P70bqqY) | [七草にちか \(CV.紫月杏朱彩\)](https://open.spotify.com/artist/4QBth13tNmPlWh8cwsIMdm) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:39 |
-| 12 | [mellow mellow](https://open.spotify.com/track/2LX031qwsS20Uuj9IR5WnX) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS Song for Prism After Run / mellow mellow【アルストロメリア盤】](https://open.spotify.com/album/3YNKiPWjEw3iKQqZNCbRi1) | 3:04 |
-| 13 | [HSV色空間](https://open.spotify.com/track/2T3MPjwNIT9uzGMjQUBCxf) | [郁田はるき \(CV.小澤麗那\)](https://open.spotify.com/artist/0KkcrLs9Anr68r8QEhuaol) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:32 |
-| 14 | [Paradox](https://open.spotify.com/track/6CmWQauZTW5cVa5Vj5UH1d) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:46 |
+| 11 | [mellow mellow](https://open.spotify.com/track/2LX031qwsS20Uuj9IR5WnX) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS Song for Prism After Run / mellow mellow【アルストロメリア盤】](https://open.spotify.com/album/3YNKiPWjEw3iKQqZNCbRi1) | 3:04 |
+| 12 | [Unstoppable](https://open.spotify.com/track/7hibWqOdSPLX2q7P70bqqY) | [七草にちか \(CV.紫月杏朱彩\)](https://open.spotify.com/artist/4QBth13tNmPlWh8cwsIMdm) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:39 |
+| 13 | [Paradox](https://open.spotify.com/track/6CmWQauZTW5cVa5Vj5UH1d) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:46 |
+| 14 | [HSV色空間](https://open.spotify.com/track/2T3MPjwNIT9uzGMjQUBCxf) | [郁田はるき \(CV.小澤麗那\)](https://open.spotify.com/artist/0KkcrLs9Anr68r8QEhuaol) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:32 |
 | 15 | [Lights on me](https://open.spotify.com/track/1gJF57mx1hSkmFYpWdHZFb) | [白瀬咲耶 \(CV.八巻アンナ\)](https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 4:28 |
 | 16 | [パラボラ](https://open.spotify.com/track/35nPRlX5yJF5vRyjMZQnb1) | [西城樹里 \(CV.永井真里子\)](https://open.spotify.com/artist/5qNadnMpD2hCJy8xqfTYdL) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:52 |
 | 17 | [Be\-witched](https://open.spotify.com/track/30sNTeY5S4TKKqI0R37kv5) | [有栖川夏葉 \(CV.涼本あきほ\)](https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf) | [THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS \-Sol\-](https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV) | 3:28 |

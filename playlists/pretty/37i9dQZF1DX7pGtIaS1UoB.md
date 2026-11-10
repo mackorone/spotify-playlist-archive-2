@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,166 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,173 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 14 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
 | 15 | [只對你有感覺](https://open.spotify.com/track/6WdMREn0gO76tvckO16SQu) | [飛輪海](https://open.spotify.com/artist/37Ge9MTQaJqJknImNwYhWF), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [飛輪海首張同名專輯](https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F) | 3:59 |
 | 16 | [心願便利貼 \- 台視、三立《命中注定我愛你》片尾曲](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [大Q秉洛](https://open.spotify.com/artist/4RR9YZI1lrC7K0dg07RLKr) | [命中注定我愛你 電視原聲帶](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 |
-| 17 | [一天 \- 電視劇《想見你》插曲](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 |
-| 18 | [Six Degrees](https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu) | 3:14 |
+| 17 | [Six Degrees](https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu) | 3:14 |
+| 18 | [一天 \- 電視劇《想見你》插曲](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 |
 | 19 | [畫沙](https://open.spotify.com/track/1FHyeleXso8kLXXNfnqWEL) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Cindy袁詠琳同名專輯](https://open.spotify.com/album/5BZIrbFiSeJgdbY96ReQPH) | 4:33 |
 | 20 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
 | 21 | [愛上你](https://open.spotify.com/track/5foAX3vs1tKvzU2Lhv1a9u) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/4RsL9KnUAYttjxJxBll6pJ) | 4:01 |
-| 22 | [腦公](https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 2:52 |
-| 23 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 |
+| 22 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 |
+| 23 | [腦公](https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 2:52 |
 | 24 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
 | 25 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
 | 26 | [靠很近](https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [才華換桃花](https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD) | 3:37 |

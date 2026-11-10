@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,192 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,246 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 18 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
 | 19 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
 | 20 | [Tetap Bukan Kamu \(feat\. Rony Parulian\)](https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:16 |
-| 21 | [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 |
-| 22 | [Setengah Mati \- From "Bila Esok Ibu Tiada"](https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Setengah Mati \(From "Bila Esok Ibu Tiada"\)](https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH) | 3:59 |
+| 21 | [Setengah Mati \- From "Bila Esok Ibu Tiada"](https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Setengah Mati \(From "Bila Esok Ibu Tiada"\)](https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH) | 3:59 |
+| 22 | [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 |
 | 23 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |
 | 24 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 25 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 |

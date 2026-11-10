@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: CC:DISCO!",
-  "num_followers": 128470,
+  "num_followers": 128456,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -545,6 +545,26 @@
       "url": "https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL"
     },
     {
+      "added_at": "2026-11-05 13:00:15",
+      "album": {
+        "name": "Your Shadow at Morning (Four Tet Rework)",
+        "url": "https://open.spotify.com/album/1JZdNabvsqLfrMcOYRlybS"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 577500,
+      "name": "Your Shadow at Morning - Four Tet Rework",
+      "url": "https://open.spotify.com/track/4Y4U1NdAExAYEqYALEgWU2"
+    },
+    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "Feel The Friction",
@@ -599,26 +619,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2026-11-05 13:00:15",
-      "album": {
-        "name": "Your Shadow at Morning (Four Tet Rework)",
-        "url": "https://open.spotify.com/album/1JZdNabvsqLfrMcOYRlybS"
-      },
-      "artists": [
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 577500,
-      "name": "Your Shadow at Morning - Four Tet Rework",
-      "url": "https://open.spotify.com/track/4Y4U1NdAExAYEqYALEgWU2"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     },
     {
+      "added_at": "2026-08-03 03:01:30",
+      "album": {
+        "name": "Human Voice",
+        "url": "https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 396363,
+      "name": "Human Voice",
+      "url": "https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9"
+    },
+    {
       "added_at": "2026-11-05 13:00:15",
       "album": {
         "name": "Mi Fai Sorridere",
@@ -827,22 +843,6 @@
       "duration_ms": 193766,
       "name": "Mi Fai Sorridere",
       "url": "https://open.spotify.com/track/1KJyysoVBls4pz3IBmReT4"
-    },
-    {
-      "added_at": "2026-08-03 03:01:30",
-      "album": {
-        "name": "Human Voice",
-        "url": "https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 396363,
-      "name": "Human Voice",
-      "url": "https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9"
     },
     {
       "added_at": "2026-05-06 00:22:41",

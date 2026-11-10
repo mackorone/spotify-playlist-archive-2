@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,702 likes - 134 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,716 likes - 134 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MONSTER](https://open.spotify.com/track/0woarGqyt4zgxhkyMtAy5E) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [MONSTER](https://open.spotify.com/album/0bUf4k4PSfZNqztyaKJvt9) | 2:08 |
+| 1 | [DUM](https://open.spotify.com/track/2HsX6IHOdYPju2SoLyBBgr) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [DUM](https://open.spotify.com/album/0IORVrRukWNxg9ZF0LqtUW) | 1:45 |
 | 2 | [Superman \(feat\. Pontus\)](https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Superman \(feat\. Pontus\)](https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4) | 2:47 |
-| 3 | [DUM](https://open.spotify.com/track/2HsX6IHOdYPju2SoLyBBgr) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [DUM](https://open.spotify.com/album/0IORVrRukWNxg9ZF0LqtUW) | 1:45 |
+| 3 | [MONSTER](https://open.spotify.com/track/0woarGqyt4zgxhkyMtAy5E) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [MONSTER](https://open.spotify.com/album/0bUf4k4PSfZNqztyaKJvt9) | 2:08 |
 | 4 | [SVÄNG PÅ RATTARNA](https://open.spotify.com/track/6WGJe7T3blzadlzjTLhZsr) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [SVÄNG PÅ RATTARNA](https://open.spotify.com/album/6ybyP8hOCIx6QJLj3EzIpA) | 2:10 |
 | 5 | [SINGEL TILLS JAG DÖR](https://open.spotify.com/track/4TqESIJv76cbximrxXt2Cm) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [SINGEL TILLS JAG DÖR](https://open.spotify.com/album/3P9UKkHmx9AC3FLTlwsYcC) | 2:17 |
 | 6 | [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 133 | [La meg leve](https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [La meg leve](https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj) | 2:05 |
 | 134 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
 
-Snapshot ID: `AAAAADPvtktYVsDtepJqm8dNZvHfCiY8`
+Snapshot ID: `AAAAALR4pP6pGy21lBQSj1z0p+f0sNWK`

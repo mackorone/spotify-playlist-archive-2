@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > ヒップホップの最新トレンドをここで体感しよう Cover: uin / 水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,728 likes - 120 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,734 likes - 120 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

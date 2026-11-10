@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 188630,
+  "num_followers": 188665,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAEURtMbv8ep5tQi0ENztw3",
+  "snapshot_id": "au+7gAAAAABC+36kNz74SLuNJ1/SXoNF",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e1ufrago",
-        "url": "https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf"
+        "name": "MONTHS",
+        "url": "https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4"
       },
       "artists": [
         {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 202485,
-      "name": "y si no soy yo",
-      "url": "https://open.spotify.com/track/6DKe3hR9GvFSw9HzgxQinZ"
+      "duration_ms": 169988,
+      "name": "MONTHS",
+      "url": "https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

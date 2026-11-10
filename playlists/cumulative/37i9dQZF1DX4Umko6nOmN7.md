@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-200 songs - 10 hr 45 min
+201 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Hurts](https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Hurts](https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6) | 3:20 | 2024-06-27 | 2024-10-28 |
 | [Hus utan speglar](https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Hus utan speglar](https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe) | 2:44 | 2024-06-27 |  |
 | [Händerna Mot Himlen \- Acoustic](https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [And The Story Goes](https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9) | 4:35 | 2024-06-27 |  |
-| [I dina armar](https://open.spotify.com/track/4RT8RRIp5Asy5i9zg0IPOX) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [I dina armar](https://open.spotify.com/album/78oAKgGqyzH7aePn6IIB83) | 2:46 | 2025-11-06 |  |
+| [I dina armar](https://open.spotify.com/track/4RT8RRIp5Asy5i9zg0IPOX) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [I dina armar](https://open.spotify.com/album/78oAKgGqyzH7aePn6IIB83) | 2:46 | 2025-11-06 | 2026-11-10 |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 | 2025-01-20 |
 | [I Don't Want To Be Loved](https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q) | 3:02 | 2025-03-28 |  |
 | [I mina armar](https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh) | [Stjärnfamiljen](https://open.spotify.com/artist/2r4Pb3a2tCSI6KNA0juZaz), [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I mina armar](https://open.spotify.com/album/4ROTWkloGXBZy2KmpC5mIQ) | 3:23 | 2024-09-05 | 2025-11-27 |
@@ -120,6 +120,7 @@
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2024-06-27 |  |
 | [Just idag är jag stark](https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Just idag är jag stark](https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV) | 3:26 | 2025-01-23 | 2025-01-31 |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2024-06-27 |  |
+| [Kan nått fint få hända sen](https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Kan nått fint få hända sen](https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN) | 3:06 | 2026-11-05 |  |
 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-16 | 2026-10-18 |
 | [Kite \- Acoustic](https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Kite \(Acoustic\)](https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd) | 2:29 | 2024-06-27 |  |
 | [Last Forever](https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Last Forever](https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna) | 3:11 | 2024-09-12 | 2024-11-20 |

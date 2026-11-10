@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop 🇮🇹 Emili Kasa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,756 likes - 95 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,753 likes - 95 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

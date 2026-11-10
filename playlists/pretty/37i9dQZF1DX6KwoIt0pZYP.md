@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,141 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,131 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,19 +77,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 67 | [colors](https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [the asia tour: blooming season ep](https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam) | 2:01 |
 | 68 | [talk to me](https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [talk to me](https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b) | 2:40 |
 | 69 | [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 |
-| 70 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 |
-| 71 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 |
-| 72 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
+| 70 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 |
+| 71 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
+| 72 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 |
 | 73 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 74 | [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 |
-| 75 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 |
-| 76 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 |
-| 77 | [INDIGO \(with u\)](https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [KOLORCOASTER](https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a) | 2:46 |
+| 75 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 |
+| 76 | [INDIGO \(with u\)](https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [KOLORCOASTER](https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a) | 2:46 |
+| 77 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 |
 | 78 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 |
 | 79 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
-| 80 | [Almost over you](https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:24 |
+| 80 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
 | 81 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
-| 82 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
+| 82 | [Almost over you](https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:24 |
 | 83 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 84 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 85 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 95 | [let me know](https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [let me know](https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw) | 3:28 |
 | 96 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
 | 97 | [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 |
-| 98 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
-| 99 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |
+| 98 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |
+| 99 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
 | 100 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
 
 Snapshot ID: `AAAAAHQQjx2Zk2lHco0lQdbum42Dlt8Z`

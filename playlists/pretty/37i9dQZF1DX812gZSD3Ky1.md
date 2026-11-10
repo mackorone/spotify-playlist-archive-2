@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: the ge
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,853 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,864 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

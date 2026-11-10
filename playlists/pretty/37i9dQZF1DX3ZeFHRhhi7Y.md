@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: xikers\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,542 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,459 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 27 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
 | 28 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 |
 | 29 | [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 |
-| 30 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
-| 31 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
-| 32 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
+| 30 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
+| 31 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
+| 32 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
 | 33 | [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 |
 | 34 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
 | 35 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 48 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
 | 49 | [Nice to see you again \- Korean Ver.](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
 | 50 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
-| 51 | [Cosmic](https://open.spotify.com/track/4s2MSGZJE1NVmzWkxXB6Qa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:45 |
-| 52 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 |
+| 51 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 |
+| 52 | [Cosmic](https://open.spotify.com/track/4s2MSGZJE1NVmzWkxXB6Qa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:45 |
 | 53 | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/6QkyFjUMmncXzu6oSWKwHQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/1zL6cXyNIMtyJtmj99fkSS) | 2:54 |
 | 54 | [COLOR](https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR \- The 3rd Mini Album](https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0) | 3:00 |
 | 55 | [GO HARD](https://open.spotify.com/track/3VpPQbvLb354cZ3XK54zrs) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [GO HARD](https://open.spotify.com/album/1YN4zkwjw2YpdEwXnie8F8) | 3:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 95 | [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 |
 | 96 | [Virtual Angel](https://open.spotify.com/track/1eCT7mlUiD0FDaYpFPiE4z) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/2mjImuILqi7T0JcNX1iHzv) | 2:53 |
 | 97 | [DAISY \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [DAISY / gOOd! \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/album/61jh4dy9UOWZ2WuCcUZXNf) | 2:49 |
-| 98 | [SAUCIN′](https://open.spotify.com/track/6SSwHWSTozJADFd1gYMT0B) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [SAUCIN’](https://open.spotify.com/album/26aV56cMEpUWNlL6HWvBbT) | 2:43 |
-| 99 | [Twenty](https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7) | 3:10 |
-| 100 | [PUSH BACK](https://open.spotify.com/track/2oXZU3GXBaz0NAeswRNZE2) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/4nXvS8bgDGnmpJ5144Tfk9) | 2:42 |
+| 98 | [Twenty](https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7) | 3:10 |
+| 99 | [SAUCIN′](https://open.spotify.com/track/6SSwHWSTozJADFd1gYMT0B) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [SAUCIN’](https://open.spotify.com/album/26aV56cMEpUWNlL6HWvBbT) | 2:43 |
+| 100 | [Pretty Boy Swag](https://open.spotify.com/track/0IV3CJVZb5nbUgGOnRgHe7) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/79l0iWkT4NjXY2tjqXLfiB) | 2:59 |
 
 Snapshot ID: `AAAAAIV4ve0qrmRYTNY3z6MZz4yPMfbB`

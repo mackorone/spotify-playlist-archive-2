@@ -1819,6 +1819,28 @@
     },
     {
       "album": {
+        "name": "Think twice",
+        "url": "https://open.spotify.com/album/2oNKfbEXCZIPIAIBX5xO6T"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        },
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125293,
+      "name": "I kinda wanna ask you out",
+      "url": "https://open.spotify.com/track/3BzrCJ28G6TWzfV5e1pixo"
+    },
+    {
+      "album": {
         "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 174193,
       "name": "Pick You Up",
       "url": "https://open.spotify.com/track/4ClKPOgfYQi6j26kpVCJCP"

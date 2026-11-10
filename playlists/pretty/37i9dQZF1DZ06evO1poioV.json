@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125946,
+  "num_followers": 125957,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAkcjhCt3d50zuWZNn4J5Bt",
+  "snapshot_id": "au+7gAAAAACN/VYwEua86/kXodFMBHkl",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 286369,
-      "name": "You\u2019re Gonna Go Far (with Brandi Carlile)",
-      "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 286369,
+      "name": "You\u2019re Gonna Go Far (with Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 231000,
       "name": "Thousand Miles (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On The Run",
-        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 229816,
-      "name": "Life On The Run",
-      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
+      "duration_ms": 221813,
+      "name": "Mama Werewolf",
+      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
       "duration_ms": 152946,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life On The Run",
+        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 229816,
+      "name": "Life On The Run",
+      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
     },
     {
       "added_at": null,
@@ -459,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Returning To Myself (Commentary Album)",
+        "url": "https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "You Without Me",
+      "url": "https://open.spotify.com/track/1976jJn3uLmKNUa9cIWm5q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
       },
@@ -475,38 +507,6 @@
       "duration_ms": 207600,
       "name": "Water Witch",
       "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Returning To Myself (Commentary Album)",
-        "url": "https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Mama Werewolf",
-      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
     },
     {
       "added_at": null,
@@ -568,29 +568,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 279213,
-      "name": "You Without Me",
-      "url": "https://open.spotify.com/track/1976jJn3uLmKNUa9cIWm5q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "How (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+      "duration_ms": 260065,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa"
     },
     {
       "added_at": null,
@@ -611,6 +591,26 @@
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
     },
     {
       "added_at": null,
@@ -795,58 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 242329,
-      "name": "A War With Time",
-      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Synonym",
-        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Golden Ring (with Brandi Carlile)",
-      "url": "https://open.spotify.com/track/1UAJwjjgG7ebRcmE5qqtiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -879,6 +827,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 242329,
+      "name": "A War With Time",
+      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 182186,
       "name": "Josephine",
       "url": "https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Golden Ring (with Brandi Carlile)",
+      "url": "https://open.spotify.com/track/1UAJwjjgG7ebRcmE5qqtiF"
     },
     {
       "added_at": null,

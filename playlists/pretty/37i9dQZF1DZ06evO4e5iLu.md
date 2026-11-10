@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,221 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,660 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 39 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 |
 | 40 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
 
-Snapshot ID: `au5qAAAAAACzxSqptMSZxtXoC4qgIHqY`
+Snapshot ID: `au+7gAAAAADeV8ohSY6wdjEm28rDTls2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,681 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,714 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 46 | [Make It Wit Chu](https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 4:50 |
 | 47 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
 | 48 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
-| 49 | [Over Each Other](https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:50 |
-| 50 | [If I Had A Gun…](https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U) | 4:09 |
+| 49 | [If I Had A Gun…](https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U) | 4:09 |
+| 50 | [Over Each Other](https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:50 |
 | 51 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
 | 52 | [It's Been Awhile](https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:24 |
 | 53 | [House Of Cards](https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:28 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 72 | [Landslide \- Remastered](https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Deluxe\)](https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53) | 3:10 |
 | 73 | [Three Six Five](https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:40 |
 | 74 | [What Happened to You?](https://open.spotify.com/track/3GXmLpYjgpjXFtDkS4wtJ7) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 3:53 |
-| 75 | [Impossible](https://open.spotify.com/track/4ZEvO7TZQTbUGJzqjcPFDD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 4:08 |
-| 76 | [All In One Night](https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 5:17 |
+| 75 | [All In One Night](https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 5:17 |
+| 76 | [Impossible](https://open.spotify.com/track/4ZEvO7TZQTbUGJzqjcPFDD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 4:08 |
 | 77 | [Thirty\-Three \- Remastered 2012](https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:10 |
 | 78 | [davina mccall](https://open.spotify.com/track/4KVYz4U1Vm3pvjhhhS1E6s) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:47 |
 | 79 | [Immortality](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:28 |

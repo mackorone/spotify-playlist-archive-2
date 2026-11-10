@@ -4,7 +4,7 @@
 
 > mostly furry
 
-599 songs - 1 day 5 hr 34 min
+601 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Photo Frames](https://open.spotify.com/track/7KjmNkS41mhypuJ9ykL8TK) | [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [Photo Frames](https://open.spotify.com/album/4xo3X0I11ZQuwIKk32Q23I) | 3:28 | 2024-05-23 |  |
 | [Pineapple Fox](https://open.spotify.com/track/7kHFBaTzcZ1vrVwdIMHdj5) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:56 | 2024-08-03 |  |
 | [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 | 2025-02-16 | 2026-07-27 |
+| [Play Crack The Sky](https://open.spotify.com/track/1IzfZHQaAD3WRmy2E5uM60) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Play Crack The Sky](https://open.spotify.com/album/44vu7kx1XYz4gazJPzC8pZ) | 4:34 | 2026-11-10 |  |
 | [Playin' Around](https://open.spotify.com/track/2BA9Xd3nbOyXg6becq1rOn) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 2:05 | 2025-04-22 |  |
 | [Plug Me In](https://open.spotify.com/track/6ljeYIIPOK3TAI7AFqd7kK) | [Lil Soda Boi](https://open.spotify.com/artist/2yyIZli0SkJ234gHIuuPJP) | [Eco](https://open.spotify.com/album/5R58UNHW5v7MIH2HACmCXl) | 2:11 | 2026-07-17 |  |
 | [Pocari Roo](https://open.spotify.com/track/1mfJEeRg3TEp12EZVhRllY) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:31 | 2025-04-24 |  |
@@ -561,6 +562,7 @@
 | [Universe](https://open.spotify.com/track/1UTmv2MSTadbW1JCF5zqgm) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 2:14 | 2024-05-15 |  |
 | [Unleashed](https://open.spotify.com/track/3o4nIl4q6Rpcm2PNvKhBJT) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 5:56 | 2023-11-18 |  |
 | [unnatural](https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [unnatural](https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw) | 2:09 | 2026-08-20 |  |
+| [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/track/16oMZrqeEEEEmsyTEjTqfe) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/album/5ZCN8F3DPxvplmfVJmpwuL) | 2:25 | 2026-11-09 |  |
 | [Urgently Jammin' \- Sir Meow Remix](https://open.spotify.com/track/6Jg34U868zijXDUyXATmiN) | [Domalomn](https://open.spotify.com/artist/0Kn6fWFACbBThLc8BIqe2S), [Sir Meow](https://open.spotify.com/artist/1CF0urFqWmcD4469a0xjvT) | [Urgently Jammin' \(Sir Meow Remix\)](https://open.spotify.com/album/6jwQWDPEOzsNd5f60FUfLP) | 2:30 | 2025-03-28 |  |
 | [Vancouver](https://open.spotify.com/track/5giRh5SXEgzL3xUmVG6Vsx) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:42 | 2024-12-07 |  |
 | [Vent Pipe](https://open.spotify.com/track/5wTZuPHVfLv4tvRVfzgNs9) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 3:05 | 2024-12-24 |  |

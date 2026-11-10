@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "Who run the world? Cover: Chloe Qisha",
+  "description": "Who run the world? Cover: XG",
   "name": "Pop Girlies",
   "tracks": [
     {
@@ -934,7 +934,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 176546,
       "name": "BOOMPALA",
       "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
@@ -1090,6 +1090,24 @@
       "duration_ms": 181833,
       "name": "Break The Habit",
       "url": "https://open.spotify.com/track/32SMJKVThDZuGpK2qeQXPr"
+    },
+    {
+      "album": {
+        "name": "FINAL GIRL",
+        "url": "https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225928,
+      "name": "breaks open",
+      "url": "https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU"
     },
     {
       "album": {
@@ -1790,6 +1808,24 @@
       "duration_ms": 196266,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/4h9sNzgP3m0gSyNGatmOa8"
+    },
+    {
+      "album": {
+        "name": "DEPENDS",
+        "url": "https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185229,
+      "name": "DEPENDS",
+      "url": "https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4"
     },
     {
       "album": {
@@ -2767,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "A LITTLE VENGEANCE (is more human than no vengeance at all)",
+        "url": "https://open.spotify.com/album/3finUPTcL6mUIReFK2TxA8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170020,
+      "name": "GO 2 WAR",
+      "url": "https://open.spotify.com/track/4MOPyeRAt2S2VobQjA47f3"
+    },
+    {
+      "album": {
         "name": "stardust",
         "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
       },
@@ -2832,7 +2886,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 248164,
       "name": "Good Reason",
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
@@ -2904,7 +2958,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -3037,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/4ySsGKZAPMYkHl0PGYqLvM"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199248,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/1yYCpm0ptEcHV8OwAAs4Nj"
+    },
+    {
+      "album": {
         "name": "Perrie (Fan Edition)",
         "url": "https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli"
       },
@@ -3106,6 +3178,24 @@
       "duration_ms": 170582,
       "name": "Here You Come, There You Go",
       "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
+    },
+    {
+      "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
     },
     {
       "album": {
@@ -3704,7 +3794,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 260146,
       "name": "I Won\u2019t Cry",
       "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
@@ -4649,6 +4739,24 @@
     },
     {
       "album": {
+        "name": "like what we had",
+        "url": "https://open.spotify.com/album/2Hb34cEMAQ4ETac0trJeM5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181516,
+      "name": "like what we had",
+      "url": "https://open.spotify.com/track/3hRuxKgiYU1oO7u70coAu9"
+    },
+    {
+      "album": {
         "name": "Pour My Heart Out",
         "url": "https://open.spotify.com/album/1iEQOQrdww6JCTpb9D6zSn"
       },
@@ -4690,6 +4798,24 @@
       "duration_ms": 191304,
       "name": "LOCA",
       "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
+    },
+    {
+      "album": {
+        "name": "I thought this story wasn't about me",
+        "url": "https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232625,
+      "name": "Look at me",
+      "url": "https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk"
     },
     {
       "album": {
@@ -5233,6 +5359,24 @@
     },
     {
       "album": {
+        "name": "Britney (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271253,
+      "name": "My Big Secret",
+      "url": "https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle"
+    },
+    {
+      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/4bLThdUFHWgOgT0mjzp4Bz"
       },
@@ -5554,7 +5698,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 211774,
       "name": "On Video",
       "url": "https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N"
@@ -5939,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "Prettier With Your Mask Off",
+        "url": "https://open.spotify.com/album/3Mae5OxTfWGeTt2qR7CT8r"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Prettier With Your Mask Off",
+      "url": "https://open.spotify.com/track/08qqfNWBxd8t5C136mMJNX"
+    },
+    {
+      "album": {
         "name": "I think I spoke too soon",
         "url": "https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL"
       },
@@ -6314,7 +6476,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -6426,7 +6588,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 185838,
       "name": "serena joy",
       "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
@@ -6754,7 +6916,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 150960,
       "name": "star",
       "url": "https://open.spotify.com/track/5B2mE1GD2u2DotWHJQilzf"
@@ -7338,7 +7500,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 228908,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
@@ -7867,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "washing skin",
+        "url": "https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "washing skin",
+      "url": "https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ"
+    },
+    {
+      "album": {
         "name": "Watch It Burn",
         "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
       },
@@ -8300,7 +8480,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 194103,
       "name": "Write Me A Letter",
       "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"

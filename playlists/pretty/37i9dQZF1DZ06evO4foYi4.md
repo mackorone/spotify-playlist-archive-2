@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,891 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,894 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 26 | [Surgeon](https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:25 |
 | 27 | [Sweetest Fruit](https://open.spotify.com/track/3IW8BlrMcCCy5JAiL6GmQ3) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:55 |
 | 28 | [Birth In Reverse](https://open.spotify.com/track/3v47tb6hvbeb3dVOgYZUfP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:15 |
-| 29 | [Somebody Like Me](https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:53 |
+| 29 | [Humming \- Interlude 3](https://open.spotify.com/track/04vIWAQ9ghS8qGKSuqzjjP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 0:38 |
 | 30 | [Teenage Talk](https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Teenage Talk](https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw) | 4:08 |
 | 31 | [Strange Mercy](https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:28 |
 | 32 | [Prince Johnny](https://open.spotify.com/track/201StFQq0nodCrsX5ysC30) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 4:36 |
-| 33 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 |
-| 34 | [Laughing with a Mouth of Blood](https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:01 |
-| 35 | [DOA \- From “Death of a Unicorn”](https://open.spotify.com/track/0wLDvJqCL6APHBa5uPxSJI) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [DOA \(From “Death of a Unicorn”\)](https://open.spotify.com/album/107eGYEUjozNfb5T4WudD0) | 3:31 |
+| 33 | [Somebody Like Me](https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:53 |
+| 34 | [DOA \- From “Death of a Unicorn”](https://open.spotify.com/track/0wLDvJqCL6APHBa5uPxSJI) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [DOA \(From “Death of a Unicorn”\)](https://open.spotify.com/album/107eGYEUjozNfb5T4WudD0) | 3:31 |
+| 35 | [Laughing with a Mouth of Blood](https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:01 |
 | 36 | [Rattlesnake](https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:34 |
-| 37 | [Humming \- Interlude 3](https://open.spotify.com/track/04vIWAQ9ghS8qGKSuqzjjP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 0:38 |
+| 37 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 |
 | 38 | [Black Rainbow \- Live](https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 4:16 |
 | 39 | [I Should Watch TV](https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:08 |
 | 40 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [Chloe In The Afternoon](https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 2:55 |
 | 50 | [The Party](https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:05 |
 
-Snapshot ID: `au5qAAAAAABd8kDmFu0UW+CRPhhwENKk`
+Snapshot ID: `au+7gAAAAADMb52ofHymEcMJh/6S0DDt`

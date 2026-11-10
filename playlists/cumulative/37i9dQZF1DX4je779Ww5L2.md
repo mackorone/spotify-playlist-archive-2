@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-148 songs - 9 hr 17 min
+149 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 | 2025-08-08 |  |
 | [Every Dawn's a Mountain](https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 4:07 | 2025-08-08 | 2026-03-24 |
 | [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 | 2026-02-05 |  |
-| [Everything Bends Towards You](https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke) | [Brennt Vanneste](https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1) | [Collection of Goodbyes: Escapades III](https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz) | 2:53 | 2026-09-28 |  |
+| [Everything Bends Towards You](https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke) | [Brennt Vanneste](https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1) | [Collection of Goodbyes: Escapades III](https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz) | 2:53 | 2026-09-28 | 2026-11-10 |
 | [Evol](https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:14 | 2025-08-08 | 2025-10-14 |
 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 | 2025-08-08 |  |
 | [Far Away](https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Far Away](https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV) | 3:58 | 2026-04-20 |  |
@@ -73,6 +73,7 @@
 | [Leaving](https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Leaving \- Reminisce](https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ) | 5:24 | 2025-08-08 |  |
 | [Lonely Heart \- Acoustic Version](https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Lonely Heart \(Acoustic Version\)](https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq) | 4:09 | 2025-08-08 | 2026-05-27 |
 | [love so blind \- night tapes](https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [love so blind \(night tapes\)](https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT) | 4:05 | 2026-04-20 |  |
+| [Lovesong](https://open.spotify.com/track/1OmvFEul06DRWow1ASDmm3) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Lovesong](https://open.spotify.com/album/25sE3Vx13NiCki6bHxzk3S) | 3:38 | 2026-11-09 |  |
 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 | 2025-08-08 | 2026-10-16 |
 | [Make It Rain \- 27 Tapes](https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Make It Rain \(27 Tapes\)](https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G) | 6:35 | 2026-05-26 | 2026-09-11 |
 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 | 2025-08-08 | 2026-07-18 |

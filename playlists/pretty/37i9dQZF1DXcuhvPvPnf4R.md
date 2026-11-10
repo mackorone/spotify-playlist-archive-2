@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,052 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,053 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 21 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
 | 22 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
 | 23 | [On To The Next One](https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:16 |
-| 24 | [Gangsta](https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Gangsta \(Remix\)](https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD) | 3:36 |
-| 25 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
+| 24 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
+| 25 | [Gangsta](https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Gangsta \(Remix\)](https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD) | 3:36 |
 | 26 | [Hate Me Now \(feat\. Diddy\)](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 4:44 |
 | 27 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
 | 28 | [You're the One](https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:42 |
 | 29 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
-| 30 | [You're the One](https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO) | [Dondria vs\. Phatfffat](https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP) | 2:53 |
-| 31 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
+| 30 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
+| 31 | [You're the One](https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO) | [Dondria vs\. Phatfffat](https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP) | 2:53 |
 | 32 | [Dr\. Carter](https://open.spotify.com/track/3QjQ9c1ooHiJDCqrKGC9fK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:24 |
 | 33 | [Ravers Gas](https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Ravers Gas \- Single](https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO) | 3:10 |
 | 34 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 4:36 |

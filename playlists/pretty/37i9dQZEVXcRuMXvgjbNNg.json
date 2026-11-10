@@ -6,10 +6,174 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "augY0AAAAABGd1lhEgpsbUT6DO2K+y9S",
+  "snapshot_id": "avFTUAAAAAD4Hnrn5aA+8Ih1itQmBclN",
   "tracks": [
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "As/Is: Mountain View, CA - 7/16/04",
+        "url": "https://open.spotify.com/album/4ZxNekqkeVlCYcNdD0mnD7"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Tracing - Acoustic - Live at Shoreline Amphitheater, Mountain View, CA, July 16, 2004",
+      "url": "https://open.spotify.com/track/18V8P4GpfI8oo7ZklTybgk"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Maybe In Time",
+        "url": "https://open.spotify.com/album/2tUSExxeQ3P4oiHRpkp8Nl"
+      },
+      "artists": [
+        {
+          "name": "Penelope Road",
+          "url": "https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH"
+        }
+      ],
+      "duration_ms": 210153,
+      "name": "Maybe In Time",
+      "url": "https://open.spotify.com/track/6l4g2YroIW2Zky3O5o6nW5"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Olly Olly",
+        "url": "https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "How Not To Be",
+        "url": "https://open.spotify.com/album/4r6VwgBJRTjt2N4R8aSxI2"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 147493,
+      "name": "How Not To Be",
+      "url": "https://open.spotify.com/track/3m4owbJTmJCkX0hex6w2WL"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Original Songs and Sound (Deluxe Version)",
+        "url": "https://open.spotify.com/album/09wgEiUurhXuqsEOrpk1ud"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/25sRuT6VoNQtGhPuIhYfSQ"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/7oUTFH0ov1b53sMlzEc4Yl"
+      },
+      "artists": [
+        {
+          "name": "The Arcadian Wild",
+          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+        }
+      ],
+      "duration_ms": 258705,
+      "name": "Montreux",
+      "url": "https://open.spotify.com/track/4tJXjkl6SkBcEKed1BPuXj"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Just to Be With You",
+        "url": "https://open.spotify.com/album/0l6xdiRtTNYXQ0lzBM3dXI"
+      },
+      "artists": [
+        {
+          "name": "The Light The Heat",
+          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "Just to Be With You",
+      "url": "https://open.spotify.com/track/6Nx4qtb5PcGBMuBaKYEYbC"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "NeverAlways (Vol. 1)",
+        "url": "https://open.spotify.com/album/2wVrxbonp8UA9ebuMREm4q"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 106493,
+      "name": "HasJustBegun",
+      "url": "https://open.spotify.com/track/7CVarOhSEtPFwADA3Xhyt6"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Big Black Car (At Home Version)",
+        "url": "https://open.spotify.com/album/3YipHVPJ0opylyQY2irgOr"
+      },
+      "artists": [
+        {
+          "name": "The Wildwoods",
+          "url": "https://open.spotify.com/artist/2wPWBhOid8BNr5lgEf8GKe"
+        }
+      ],
+      "duration_ms": 194608,
+      "name": "Big Black Car - At Home Version",
+      "url": "https://open.spotify.com/track/6OIwgbCG1FKgk1Gv4w1DiQ"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "The Diary of Living",
+        "url": "https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Room On Your Shoulder",
+      "url": "https://open.spotify.com/track/6DLeOx28NfUI38Ebn3Lhx6"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
       "album": {
         "name": "It Gets Easier",
         "url": "https://open.spotify.com/album/5Pb4WXB4gIDGcLAI7Nco45"
@@ -20,31 +184,15 @@
           "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
         }
       ],
-      "duration_ms": 169263,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/5oyY3vA7JFhZdIdvOWV2Ho"
+      "duration_ms": 183272,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/3y0NVBcg8E6G6UrX8bfjtg"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "River of Gladness",
-        "url": "https://open.spotify.com/album/2xxYvlcq5Xz6c3VBZrGvPF"
-      },
-      "artists": [
-        {
-          "name": "Ethan Nathaniel",
-          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Blue Ridge Mountain Magic",
-      "url": "https://open.spotify.com/track/1q6CyCNVwEHXXSK7y6NyXe"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "On the Corner Where You Live",
-        "url": "https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE"
+        "name": "If You Go There, I Hope You Find It",
+        "url": "https://open.spotify.com/album/7vULyg3RtEXYxsOulFZQ41"
       },
       "artists": [
         {
@@ -52,107 +200,195 @@
           "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Midtown Waitress",
-      "url": "https://open.spotify.com/track/3foJeYQa5Ga5aFAd3J8gk5"
+      "duration_ms": 229427,
+      "name": "Change of the Wind",
+      "url": "https://open.spotify.com/track/7FJcfVTdm2ipf2Ewymm2nx"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "Sacred Vows",
-        "url": "https://open.spotify.com/album/37pF1CQXxEweRaARUkI3LH"
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
       "artists": [
         {
-          "name": "Andy Squyres",
-          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 232433,
-      "name": "Utah By Tomorrow",
-      "url": "https://open.spotify.com/track/5a7v6k6knblWtPzB96EEWh"
+      "duration_ms": 239666,
+      "name": "A Long Way Past The Past",
+      "url": "https://open.spotify.com/track/0DjByaBRUl3710BRw3VD0P"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "Betting Man",
-        "url": "https://open.spotify.com/album/5m3ogfBnXEW1lfUbeSuNsP"
+        "name": "brent iii",
+        "url": "https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3"
       },
       "artists": [
         {
-          "name": "Jol\u00e9",
-          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
-        }
-      ],
-      "duration_ms": 181924,
-      "name": "Tie Dye Sky",
-      "url": "https://open.spotify.com/track/5fF8aMG4ptnKmd18U357qY"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "First Flight",
-        "url": "https://open.spotify.com/album/7hfGoMSUhn7WvTvkvPhW4F"
-      },
-      "artists": [
-        {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         },
         {
-          "name": "Sad Moses",
-          "url": "https://open.spotify.com/artist/1P8CXGQyUvvY7ctcSByX8i"
-        },
-        {
-          "name": "Weather Club",
-          "url": "https://open.spotify.com/artist/6cYCCVFAdHlAGAaf5Zpznq"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 165734,
-      "name": "First Flight",
-      "url": "https://open.spotify.com/track/4Q7WNHLja4CfKwbt1vSWJc"
+      "duration_ms": 208960,
+      "name": "black & white",
+      "url": "https://open.spotify.com/track/1RETWs1IVR5bbDOPyHdRG8"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "Everything, absolutely",
-        "url": "https://open.spotify.com/album/2RRCaFQejt4wuU3JsyV2H3"
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0zUpEkwMzewEcjIOxjKbVc"
       },
       "artists": [
         {
-          "name": "Dan Bettridge",
-          "url": "https://open.spotify.com/artist/626PNFpj7VtxuYllBq7Ju1"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Prince of Eden",
+          "url": "https://open.spotify.com/artist/29Wvrc4vfXuf9eMexefk7N"
         }
       ],
-      "duration_ms": 208479,
-      "name": "Green Screen (with Novo Amor)",
-      "url": "https://open.spotify.com/track/3lad11CTZ6WLHFjlDKsNZK"
+      "duration_ms": 270285,
+      "name": "Amber of the Sun's Dawn",
+      "url": "https://open.spotify.com/track/2OrovCI0pY566P00aJqws8"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "So The Sun Can Pour",
-        "url": "https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe"
+        "name": "LOOK! I'm Alive",
+        "url": "https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU"
       },
       "artists": [
         {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
         }
       ],
-      "duration_ms": 240283,
-      "name": "Killer Whale",
-      "url": "https://open.spotify.com/track/5o35FSXIonz3BuyPAWCZsa"
+      "duration_ms": 198169,
+      "name": "One More Golden Hour",
+      "url": "https://open.spotify.com/track/4zOep7HKzhl0LBGq87o8Cm"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Let It All Out (10:05)",
+      "url": "https://open.spotify.com/track/2sZshBZSvPOowVuzmhFx4c"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Revolver, 2026",
+        "url": "https://open.spotify.com/album/4XL2LxLYtZ0i6mK3wo3WH8"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "duration_ms": 271887,
+      "name": "Revolver",
+      "url": "https://open.spotify.com/track/2Ft9uODWgWmCtQFXgXNNIM"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Hen's Teeth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/535KMvufT0zWU4ODZPpsOx"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 287323,
+      "name": "Grace Notes - Acoustic",
+      "url": "https://open.spotify.com/track/3eErerl3mq1grqPsgr1CPK"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Blue Embers",
+      "url": "https://open.spotify.com/track/2Cnu0qCzaY5IkYAUtB9xS8"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Versions",
+        "url": "https://open.spotify.com/album/6PnI5bBL6PlQwQxU4PWMMH"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "duration_ms": 189008,
+      "name": "Girl in Calico",
+      "url": "https://open.spotify.com/track/7gmcAFkqfKze3Pamf8EmlC"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Pulled Into a Dream",
+        "url": "https://open.spotify.com/album/14cDhnAe1zkLVtrDKgM4ls"
+      },
+      "artists": [
+        {
+          "name": "Sean Angus Watson",
+          "url": "https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Treehouse Days",
+      "url": "https://open.spotify.com/track/1k5D6EWHQ0v5HRJESAnxzY"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "tiny things",
+        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 150926,
+      "name": "tiny things",
+      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
+    },
+    {
+      "added_at": "2026-11-09 05:00:00",
+      "album": {
+        "name": "Minute Of Your Love",
+        "url": "https://open.spotify.com/album/1jOAzcYT3AksjypjQehmb1"
       },
       "artists": [
         {
@@ -160,361 +396,109 @@
           "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
         }
       ],
-      "duration_ms": 157280,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/6z76LJPBeFCTVvFKdHchmB"
+      "duration_ms": 136859,
+      "name": "Minute Of Your Love",
+      "url": "https://open.spotify.com/track/63uWX9R9I8NA4RcPMxh38V"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "Finch In The Pantry",
-        "url": "https://open.spotify.com/album/3M5uRiRwNqLa7I33FD4X9f"
+        "name": "Looking out Looking Up",
+        "url": "https://open.spotify.com/album/1SnBxBjiDpKR3siA5BhI3f"
       },
       "artists": [
         {
-          "name": "The Arcadian Wild",
-          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+          "name": "Tolo",
+          "url": "https://open.spotify.com/artist/6DlKwJTLvNdf0wlHw0ARHk"
         }
       ],
-      "duration_ms": 311519,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/6cMYHvIJ8B7kInDRXTzssS"
+      "duration_ms": 238840,
+      "name": "Where the Mountains Meet the Sky",
+      "url": "https://open.spotify.com/track/2WRhbChqhmFleNeQ0HqbcJ"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "Bursting with Life",
-        "url": "https://open.spotify.com/album/6AnSHo3XmUup0y2vTkIeTo"
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
       "artists": [
         {
-          "name": "Alan Gogoll",
-          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 144240,
-      "name": "Flourish",
-      "url": "https://open.spotify.com/track/52jesE5DI9hZB5cKtXQUOU"
+      "duration_ms": 211160,
+      "name": "Baby goes again",
+      "url": "https://open.spotify.com/track/0NDYzFMzUNVsp8f94TKQ3t"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "The Meaning",
-        "url": "https://open.spotify.com/album/2p7WzLUpn9jLgFn3YtaauJ"
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/1pDe2uDS8M57xKnci0Lwwc"
       },
       "artists": [
         {
-          "name": "Phillip LaRue",
-          "url": "https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 172708,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/5w8Cu20Yt1ZNQuVdcafTYC"
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/0x4h86BfG86UdHO5TbfZeV"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "The First Telling",
-        "url": "https://open.spotify.com/album/0pIrWRUGoRNaQnOSnQYn8O"
+        "name": "Atlas: Enneagram",
+        "url": "https://open.spotify.com/album/1R3C4VebWmWXFlbTSnnLql"
       },
       "artists": [
         {
-          "name": "Se\u00e1nie Bermingham",
-          "url": "https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 237390,
-      "name": "Places I Haven't Been Yet",
-      "url": "https://open.spotify.com/track/3I0CPdaGxwqaOCtuoxrA3a"
+      "duration_ms": 261932,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/7zbFh74zImpQho3btxuANN"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "The Cosmic Selector Vol. 1",
-        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
+        "name": "Lake Michigan",
+        "url": "https://open.spotify.com/album/2fV4jJmEKsRXiI8wbMuWHX"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Staffan Carl\u00e9n",
+          "url": "https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g"
         }
       ],
-      "duration_ms": 235015,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/67f5bACaW6oE8JlktoQzDm"
+      "duration_ms": 150140,
+      "name": "Lake Michigan",
+      "url": "https://open.spotify.com/track/05omSa4eiXdcX8d7aeJMJH"
     },
     {
-      "added_at": "2026-11-02 05:00:00",
+      "added_at": "2026-11-09 05:00:00",
       "album": {
-        "name": "Straight Line",
-        "url": "https://open.spotify.com/album/0ZkvK9oVXSyCyqul8bZBCA"
-      },
-      "artists": [
-        {
-          "name": "Children of Indigo",
-          "url": "https://open.spotify.com/artist/0a9kC6aLWS4HKK2X3yzDGK"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Straight Line",
-      "url": "https://open.spotify.com/track/2h3nnhAqNcRcAsGmvvRGmJ"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "All The Wilds (Nightjar)",
-        "url": "https://open.spotify.com/album/2eBbpo3FfkI3hknH02yXSJ"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 170767,
-      "name": "All The Wilds (Nightjar)",
-      "url": "https://open.spotify.com/track/2lM8tl9LkMjo4AeKdQwUks"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "October Day",
-        "url": "https://open.spotify.com/album/6IbevoIrYL1u8kzeqM5iiN"
-      },
-      "artists": [
-        {
-          "name": "The Folks",
-          "url": "https://open.spotify.com/artist/3mM6ZdeLHADTkMfjXDAPhg"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "October Day",
-      "url": "https://open.spotify.com/track/7uDJ6FK31zuZZnF6uRTOgO"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Horse to Water (Acoustic)",
-        "url": "https://open.spotify.com/album/0W2IT9Mh4scTPzO97427lS"
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
       "artists": [
         {
           "name": "Tall Heights",
           "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        },
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Horse to Water - Acoustic",
-      "url": "https://open.spotify.com/track/6CGxGOPeg3aj08GyUBIw1t"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "From The Valley",
-        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
-      },
-      "artists": [
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 163403,
-      "name": "On Wrong Side (with Bon Iver)",
-      "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Notos",
-        "url": "https://open.spotify.com/album/5S0FcLxoJ9jjk8s13hfwTZ"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 227910,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/7g3MdW9vvunaniaNq4C8Fe"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Vol III",
-        "url": "https://open.spotify.com/album/2I9ErKJ8GCIytmHAG847zB"
-      },
-      "artists": [
-        {
-          "name": "SAILR",
-          "url": "https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Benedictus",
-      "url": "https://open.spotify.com/track/1eyZQI6HIgc8X6HPG9NROK"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Water the Flowers, Pray for a Garden",
-        "url": "https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Bop Ba",
-      "url": "https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
-      },
-      "artists": [
-        {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
-        }
-      ],
-      "duration_ms": 166143,
-      "name": "You",
-      "url": "https://open.spotify.com/track/16DEGzVmbLlmJNKz1rSvrB"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "The Quiet Place Away",
-        "url": "https://open.spotify.com/album/1RosFWAmb4LwO7vVStsi0E"
-      },
-      "artists": [
-        {
-          "name": "I Built the Sky",
-          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
-        }
-      ],
-      "duration_ms": 154007,
-      "name": "Let Yourself Dream",
-      "url": "https://open.spotify.com/track/7xm7bcAxwxt4YE3LIye7BA"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Nothing to Lose",
-        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "See You Soon",
-      "url": "https://open.spotify.com/track/04pyymQHOj9epQvpveEC1A"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Two Songs For Now",
-        "url": "https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        },
-        {
-          "name": "Emily Warren",
-          "url": "https://open.spotify.com/artist/3ypstAazEfdu7rPAGoV3Ui"
-        }
-      ],
-      "duration_ms": 233310,
-      "name": "The Last Song On Earth",
-      "url": "https://open.spotify.com/track/2kuC5OFUyXdVdL56QcDojM"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Big Bend (An Original Soundtrack for Public Television)",
-        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 125408,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Leave Your Love",
-        "url": "https://open.spotify.com/album/5Lfzx7E2SzDNfJZlalUteF"
-      },
-      "artists": [
-        {
-          "name": "Dan Griffin",
-          "url": "https://open.spotify.com/artist/5Aw7Z8T4JFstMhHdZsbyjo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "Stars and Satellites",
-      "url": "https://open.spotify.com/track/6l33h0irAiriPBKTTuclZg"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "The Figs Present: The Figs",
-        "url": "https://open.spotify.com/album/1Sdo2RqjRsb1PejArOTxVX"
-      },
-      "artists": [
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        }
-      ],
-      "duration_ms": 350696,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/5OHS0qKB87nRGGT4vYVTTX"
-    },
-    {
-      "added_at": "2026-11-02 05:00:00",
-      "album": {
-        "name": "Fletcher Bay (Instrumental)",
-        "url": "https://open.spotify.com/album/3uiVaDMttn1gROtd3Ecdjc"
-      },
-      "artists": [
-        {
-          "name": "Harry Pane",
-          "url": "https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF"
-        }
-      ],
-      "duration_ms": 190167,
-      "name": "Fletcher Bay - Instrumental",
-      "url": "https://open.spotify.com/track/3kUOsO1qheGfcB89fcJg5H"
+      "duration_ms": 231516,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/5n8E3CyMA63yGkz0mMdYoT"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

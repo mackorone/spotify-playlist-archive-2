@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: RIP Magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,999 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,031 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

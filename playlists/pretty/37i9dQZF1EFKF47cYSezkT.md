@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 74 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 |
 | 75 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
 | 76 | [What Happened](https://open.spotify.com/track/6oYDesnbzrC6Hzbd9Tk17y) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Happened](https://open.spotify.com/album/6epAWsXHGwVc8utKHf1wmI) | 3:10 |
-| 77 | [FRENZY](https://open.spotify.com/track/2i7wAvt3J23eaFF6d2HXE8) | [ChoCo1](https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi), [ChoCo2](https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8) | [ChoCo La Familia](https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8) | 2:51 |
-| 78 | [Sky High](https://open.spotify.com/track/7DKwTEaFimmz8Coym9gydg) | [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [Hey, Somebody \- The 1st Mini Album](https://open.spotify.com/album/6M3nDcroueOxuORgRuVV1o) | 3:40 |
+| 77 | [Sky High](https://open.spotify.com/track/7DKwTEaFimmz8Coym9gydg) | [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [Hey, Somebody \- The 1st Mini Album](https://open.spotify.com/album/6M3nDcroueOxuORgRuVV1o) | 3:40 |
+| 78 | [FRENZY](https://open.spotify.com/track/2i7wAvt3J23eaFF6d2HXE8) | [ChoCo1](https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi), [ChoCo2](https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8) | [ChoCo La Familia](https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8) | 2:51 |
 | 79 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 |
 | 80 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 81 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 86 | [Heartbeat](https://open.spotify.com/track/6nkOj0akF4rZt4c7MCxKpx) | [Sandro Soro](https://open.spotify.com/artist/00XA2DHpsl0JYh0LCywnhx) | [Heartbeat](https://open.spotify.com/album/6YSYvAlysBgSUJAJQpnhfK) | 2:30 |
 | 87 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 
-Snapshot ID: `AchJ9gAAAABWsxVmwVemaawjhgxHqh0c`
+Snapshot ID: `AchP0gAAAADPEP+Bu2NniUECy4ycoJlq`

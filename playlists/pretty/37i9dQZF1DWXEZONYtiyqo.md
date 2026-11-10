@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Juno, AMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,367 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,372 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

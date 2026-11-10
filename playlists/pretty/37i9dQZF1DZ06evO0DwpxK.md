@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,798 likes - 38 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,824 likes - 38 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [fantasmas](https://open.spotify.com/track/3iTVjevexCuVrBwmkR4qJc) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/7h9iBBAZPjCnpStB4XXLgx) | 4:47 |
 | 2 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 3 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
-| 4 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 |
-| 5 | [KINTSUGI](https://open.spotify.com/track/3B9XsHBz4VVFEw5iC3sYZP) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 3:57 |
+| 4 | [KINTSUGI](https://open.spotify.com/track/3B9XsHBz4VVFEw5iC3sYZP) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 3:57 |
+| 5 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 |
 | 6 | [REM](https://open.spotify.com/track/2Q9IANO4gvwrxmbGxui7MT) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/7h9iBBAZPjCnpStB4XXLgx) | 3:39 |
 | 7 | [Confieso](https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD) | 2:58 |
 | 8 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 37 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
 | 38 | [yo x3](https://open.spotify.com/track/2CyfjFIIHRItMz1TbjA0MP) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:42 |
 
-Snapshot ID: `au5qAAAAAAAuq/eCooeT6MojN9hmq/+D`
+Snapshot ID: `au+7gAAAAAB1ldvuBgbX5yU+RHAmyr4I`

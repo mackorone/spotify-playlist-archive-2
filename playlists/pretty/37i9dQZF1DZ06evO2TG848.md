@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,130 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,129 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 41 | [Jardin \- 2024 Remaster](https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:02 |
 | 42 | [Invited](https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:34 |
 | 43 | [Opening](https://open.spotify.com/track/7s5PGOnXU0Rzyvfx8f2rIW) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N) | 1:29 |
-| 44 | [La Noche Ya Es Día](https://open.spotify.com/track/0BL1NoWM5pReYf3Gb3BiuJ) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/5rFwK0uMpzhZh4l1RWrhjw) | 3:22 |
+| 44 | [Seguir](https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 3:42 |
 | 45 | [Leyendo en el Hospital](https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 3:07 |
-| 46 | [Seguir](https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 3:42 |
+| 46 | [La Noche Ya Es Día](https://open.spotify.com/track/0BL1NoWM5pReYf3Gb3BiuJ) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/5rFwK0uMpzhZh4l1RWrhjw) | 3:22 |
 | 47 | [Iguazu \- 2024 Remaster](https://open.spotify.com/track/1J2npWM4p8hqG7vNsgBmJS) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 4:49 |
 | 48 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
 | 49 | [A Great Man](https://open.spotify.com/track/4W0RWhmF9FNSGx1cJd8ZAX) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:58 |
 | 50 | [La Partida](https://open.spotify.com/track/0XQchatEKAnLfN4E3YFfrX) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:29 |
 
-Snapshot ID: `au5qAAAAAABRKbV+II3JVtlMG1GPBBya`
+Snapshot ID: `au+7gAAAAACOjQZwl2iPqUYWjA3tGZaR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Beto Cuevas
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,235 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,216 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

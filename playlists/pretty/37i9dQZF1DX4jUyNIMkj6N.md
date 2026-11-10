@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,897 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,927 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 38 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
 | 39 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
 | 40 | [How Love’s Supposed to Feel](https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/1V0cNxts85DS7hmWmkRnBa) | 4:07 |
-| 41 | [The Man Who Lost it All](https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Man Who Lost it All](https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA) | 3:19 |
-| 42 | [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 |
-| 43 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
-| 44 | [I'd Like To See It](https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Evergreen In Your Mind](https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2) | 4:18 |
+| 41 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
+| 42 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
+| 43 | [I'd Like To See It](https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Evergreen In Your Mind](https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2) | 4:18 |
+| 44 | [The Man Who Lost it All](https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Man Who Lost it All](https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA) | 3:19 |
 | 45 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 46 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
-| 47 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
+| 47 | [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 |
 | 48 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
-| 49 | [Come Through](https://open.spotify.com/track/06nuQASic35njbk01mB2KY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Come Through](https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS) | 2:52 |
-| 50 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 49 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 50 | [Come Through](https://open.spotify.com/track/06nuQASic35njbk01mB2KY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Come Through](https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS) | 2:52 |
 | 51 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
 | 52 | [Til hverdagen tar oss igjen](https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U) | 3:42 |
 | 53 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |

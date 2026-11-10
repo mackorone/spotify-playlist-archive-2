@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,742 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,826 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 57 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
 | 58 | [Bubble Pop Electric](https://open.spotify.com/track/4A2vjMnkAWgPVqwl3Xc7pu) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/1JSXvvVQHYlUtsV3XpaKXX) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:42 |
 | 59 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 |
-| 60 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
-| 61 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 |
+| 60 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 |
+| 61 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 62 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 63 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
 | 64 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 86 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
 | 87 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 |
 | 88 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:06 |
-| 89 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 |
-| 90 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
+| 89 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
+| 90 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 |
 | 91 | [To Ashes and Blood \- from the series Arcane League of Legends](https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [To Ashes and Blood \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R) | 4:05 |
 | 92 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 93 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 |

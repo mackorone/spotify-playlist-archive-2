@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,044 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,048 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 6 | [Don Dada](https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:28 |
 | 7 | [The Mood](https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 2:41 |
 | 8 | [Good Or Bad \(Oway\)](https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:05 |
-| 9 | [Kontrol](https://open.spotify.com/track/47sSLxvk49OmJf1TYzwAPq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Kontrol](https://open.spotify.com/album/1ryXvaEgZBJEkmV6b7SW9U) | 2:58 |
+| 9 | [I Concur](https://open.spotify.com/track/1WSw2HVuMNzcGWEHvC0pk3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/6Mk1LUNK8jrQUaws9pDYvg) | 4:06 |
 | 10 | [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 |
-| 11 | [I Concur](https://open.spotify.com/track/1WSw2HVuMNzcGWEHvC0pk3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/6Mk1LUNK8jrQUaws9pDYvg) | 4:06 |
+| 11 | [Kontrol](https://open.spotify.com/track/47sSLxvk49OmJf1TYzwAPq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Kontrol](https://open.spotify.com/album/1ryXvaEgZBJEkmV6b7SW9U) | 2:58 |
 | 12 | [I Can't Kill Myself](https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
 | 13 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 |
 | 14 | [Gra Gra](https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:23 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 32 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 |
 | 33 | [Bow Down](https://open.spotify.com/track/0udi5wEx1hvToZRFRRmYL7) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:06 |
 | 34 | [Yan Yan Po](https://open.spotify.com/track/4bGVDWHg9XQyPZ0YLMPosR) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Onorato](https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle) | 2:41 |
-| 35 | [Ah Blem Blem](https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Ah Blem Blem](https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N) | 3:26 |
-| 36 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
+| 35 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
+| 36 | [Ah Blem Blem](https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Ah Blem Blem](https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N) | 3:26 |
 | 37 | [Taku](https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Zero Panic, Vol\. 2](https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4) | 2:28 |
 | 38 | [IN MY HEAD](https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [IN MY HEAD](https://open.spotify.com/album/5dI959e51lkReZI50si0ef) | 2:57 |
 | 39 | [Win](https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Win](https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 49 | [ODESHI](https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6) | [ODESHI](https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL) | 3:12 |
 | 50 | [Get the Money](https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 2:58 |
 
-Snapshot ID: `au5qAAAAAAAQb/fevzb/ZalKJjfR7Hgn`
+Snapshot ID: `au+7gAAAAAAfezaUoGtWYY87nSLymBg9`

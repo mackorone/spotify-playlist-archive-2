@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,951 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,953 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 46 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 | 47 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 48 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 |
-| 49 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |
-| 50 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
+| 49 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
+| 50 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |
 | 51 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
 | 52 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 53 | [Lost Kitten](https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:16 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 56 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
 | 57 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 |
 | 58 | [Ghost](https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:19 |
-| 59 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 |
-| 60 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
+| 59 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
+| 60 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 |
 | 61 | [Reckless Paradise](https://open.spotify.com/track/78RNxc9EMBSlv5yWIOjIzs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:24 |
 | 62 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 |
 | 63 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 |

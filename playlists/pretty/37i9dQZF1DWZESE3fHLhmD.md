@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > songs so golden wie der herbst
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,232 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,129 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 33 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 | 34 | [Tax Evasion](https://open.spotify.com/track/2UjS57k6pmikAipD9eWQH5) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Tax Evasion](https://open.spotify.com/album/5c5hjQcd73xOQt8gECNoRc) | 4:36 |
 | 35 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
-| 36 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
-| 37 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:48 |
+| 36 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:48 |
+| 37 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
 | 38 | [Bad At Love](https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 3:01 |
 | 39 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 40 | [car crash](https://open.spotify.com/track/5wQyhpDdQJWxZ3QmC8hTnQ) | [WYNGS](https://open.spotify.com/artist/70xjuAULNiA2MVAUsaBAam) | [car crash](https://open.spotify.com/album/09AK4QlgAwy016g88T82Xv) | 3:28 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 56 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
 | 57 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 58 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
-| 59 | [Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:30 |
+| 59 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
 | 60 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
-| 61 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
+| 61 | [Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:30 |
 | 62 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
 | 63 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 64 | [Writing's On The Wall](https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:49 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 89 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 |
 | 90 | [Minimum](https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 3:14 |
 | 91 | [Unsicher](https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ich lieb mich, ich lieb mich nicht](https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf) | 2:18 |
-| 92 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
-| 93 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
+| 92 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
+| 93 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
 | 94 | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT) | 3:13 |
 | 95 | [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 |
 | 96 | [Rich](https://open.spotify.com/track/6QJRAmuvUGvpyIFPLZLhEY) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Bea and her Business \(2023\-2025\)](https://open.spotify.com/album/2MDq2ZqtRBCJWyQ9hRL5l9) | 2:31 |

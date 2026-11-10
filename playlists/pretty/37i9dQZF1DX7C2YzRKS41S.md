@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,642 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,657 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 28 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
 | 29 | [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 |
 | 30 | [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 |
-| 31 | [Leve](https://open.spotify.com/track/0vARspjQ7NZqbFsbI2NqeI) | [Badulaque](https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr) | [Leve](https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag) | 3:08 |
-| 32 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 |
+| 31 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 |
+| 32 | [Leve](https://open.spotify.com/track/0vARspjQ7NZqbFsbI2NqeI) | [Badulaque](https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr) | [Leve](https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag) | 3:08 |
 | 33 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
 | 34 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
 | 35 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 38 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
 | 39 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
 | 40 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
-| 41 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 |
-| 42 | [O Segundo Sol](https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [DUDA BEAT & NANDO REIS](https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra) | 4:22 |
+| 41 | [O Segundo Sol](https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [DUDA BEAT & NANDO REIS](https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra) | 4:22 |
+| 42 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 |
 | 43 | [Ímpar](https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:30 |
 | 44 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 45 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |

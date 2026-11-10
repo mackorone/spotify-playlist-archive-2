@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: アンと私
 
-2,040 songs - 5 day 3 hr 20 min
+2,041 songs - 5 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,13 +1045,14 @@
 | [ふたりバスケ](https://open.spotify.com/track/3biolIIiRGbaJBvspF6nPt) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER), [カモシタサラ](https://open.spotify.com/artist/6Xyah465Wy6exA2JmyANTm) | [ふたりバスケ](https://open.spotify.com/album/0OadlvM2xMA9mMXYUv9dsL) | 4:16 | 2025-09-16 | 2025-10-01 |
 | [ふめつ](https://open.spotify.com/track/35Kn1PVUZuDGC4uuLMoPbP) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [ふめつ](https://open.spotify.com/album/408SmGuMKBh5XYVuA4vntU) | 3:06 | 2025-09-09 | 2025-09-17 |
 | [ふわふわ](https://open.spotify.com/track/1EVX9P365fduuuiIrE9xaY) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [LETTERS](https://open.spotify.com/album/2C8xqIGlLvybbPAaOWyt12) | 3:51 | 2026-10-06 | 2026-10-21 |
-| [ふわ輪](https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふわ輪](https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY) | 3:30 | 2026-02-11 |  |
+| [ふわ輪](https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふわ輪](https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY) | 3:30 | 2026-02-11 | 2026-11-10 |
 | [ぶっ飛べセンチメンタル](https://open.spotify.com/track/7ACnDRAPGefYgoEimVr7SA) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [最高更新を更新](https://open.spotify.com/album/5cjxICdpvpC7e40lB5HyqR) | 4:02 | 2025-11-04 | 2025-11-26 |
 | [ぼくたちは無傷だ](https://open.spotify.com/track/3I1yL7X8bJMvGXwbPPSqT1) | [毎晩揺れてスカート](https://open.spotify.com/artist/6IvxcMAeLdqm8vGjSiTxwv) | [ぼくたちは無傷だ](https://open.spotify.com/album/5XJSwV6ZVRmleFjc5pIdbE) | 3:37 | 2023-07-27 | 2023-08-09 |
 | [ぼくらが旅に出る理由](https://open.spotify.com/track/2rl6rmyVqCnPDJcWJvmJtC) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [ぼくらが旅に出る理由](https://open.spotify.com/album/1dUNZj0LeUM18cQLITyCpD) | 3:05 | 2023-12-19 | 2023-12-21 |
 | [ぼーんず・あんど・おーる](https://open.spotify.com/track/43uwyemoEPYGTxpefuifMt) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [ぼーんず・あんど・おーる](https://open.spotify.com/album/5hNo3JFjY8ViYmxNIEu0fd) | 3:19 | 2024-02-27 | 2024-02-29 |
 | [ぽんぽんぽんぽぽん](https://open.spotify.com/track/79ZRp8yRFHKn4gMFWvdAhY) | [THE JAPANESE PRIDE](https://open.spotify.com/artist/642B6qZfTcLn84p8VBVkoN) | [ぽんぽんぽんぽぽん](https://open.spotify.com/album/7IT53SLH8mLc2ErEyVHGjl) | 2:54 | 2026-03-24 | 2026-04-01 |
 | [また、春に](https://open.spotify.com/track/37RJ1qDr09G5cDU2U5lPyl) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [また、春に](https://open.spotify.com/album/2Elz7Dxij1ayFAA4R0YIWd) | 3:23 | 2024-03-12 | 2024-03-20 |
+| [また今度](https://open.spotify.com/track/3WYV05AYeETywxUrsrT6sg) | [Sakurashimeji](https://open.spotify.com/artist/4GEJn9D9CbxI4UV8zQHxCY) | [あなたの声になれたら](https://open.spotify.com/album/41Y25lYRhcRf1p1OkhX4FK) | 3:27 | 2026-11-03 |  |
 | [まだ選ばれていない僕らへ](https://open.spotify.com/track/3wiJTrKBbmjr5hBKoeMZvL) | [実来](https://open.spotify.com/artist/4TufRbB2y5COx24iXhKDYh) | [まだ選ばれていない僕らへ](https://open.spotify.com/album/5JR74OWjWDCl9cjOJazzxg) | 3:00 | 2026-02-11 | 2026-03-04 |
 | [まちあかり](https://open.spotify.com/track/11CEtRQjCAvyZHmGtzN26m) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [まちあかり](https://open.spotify.com/album/3jpq8CC7zwQdrAOPaDm1Pb) | 4:39 | 2026-02-24 | 2026-03-03 |
 | [まともじゃない](https://open.spotify.com/track/0zAO0RYO9tDJIq10jz9JsV) | [Mr.マングース](https://open.spotify.com/artist/4tAo2j94lteKnr0wKEyELp) | [まともじゃない](https://open.spotify.com/album/71kxBFHu7lW2VmS2e7bbdK) | 4:49 | 2023-11-28 | 2023-12-06 |

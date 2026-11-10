@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,150 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,158 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 29 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
 | 30 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 |
 | 31 | [Redford \(for Yia\-Yia and Pappou\)](https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 2:02 |
-| 32 | [All the Trees of the Field Will Clap Their Hands](https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 4:14 |
-| 33 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 |
+| 32 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 |
+| 33 | [All the Trees of the Field Will Clap Their Hands](https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 4:14 |
 | 34 | [Javelin \(To Have And To Hold\)](https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 1:52 |
 | 35 | [The Hidden River of My Life](https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 4:04 |
-| 36 | [Love Yourself \(Short Reprise\)](https://open.spotify.com/track/0EMcBp9cy8tf18RInxD5hP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/73IMTdj6ERTJdITZNNBIpE) | 1:43 |
-| 37 | [Holland](https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:26 |
+| 36 | [Holland](https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:26 |
+| 37 | [Love Yourself \(Short Reprise\)](https://open.spotify.com/track/0EMcBp9cy8tf18RInxD5hP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/73IMTdj6ERTJdITZNNBIpE) | 1:43 |
 | 38 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 39 | [Enchanting Ghost](https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 3:39 |
 | 40 | [It’s Your Own Body And Mind](https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 2:27 |
-| 41 | [Reflexion](https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Reflections](https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21) | 2:57 |
+| 41 | [Wallowa Lake Monster \- Version 2](https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell \(10th Anniversary Edition\)](https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3) | 6:40 |
 | 42 | [Genuflecting Ghost](https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:32 |
-| 43 | [Wallowa Lake Monster \- Version 2](https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell \(10th Anniversary Edition\)](https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3) | 6:40 |
-| 44 | [Size Too Small](https://open.spotify.com/track/2Z3WGXNF3OqaJ3XaAaP10a) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 3:04 |
+| 43 | [Size Too Small](https://open.spotify.com/track/2Z3WGXNF3OqaJ3XaAaP10a) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 3:04 |
+| 44 | [Reflexion](https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Reflections](https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21) | 2:57 |
 | 45 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
 | 46 | [Flint \(For the Unemployed and Underpaid\)](https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:43 |
 | 47 | [Abraham](https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 |
 | 50 | [Vesuvius](https://open.spotify.com/track/3GWZX3YtldXCdSQqrzGgV5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Age of Adz](https://open.spotify.com/album/4kRMCapj9nEyBWnM0kc9OX) | 5:28 |
 
-Snapshot ID: `au0YgAAAAAAV1HveugFh/IcuYHDBTaes`
+Snapshot ID: `au+7gAAAAABf+CCxDSK7c4zjESGLR82L`

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36436,
+  "num_followers": 36435,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAA7+II3KGeSoFFgH0r0J+CZ",
+  "snapshot_id": "au+7gAAAAABIgJqwa3+8TP2qTUm8oAAI",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SLICK ALMIGHTY",
+        "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Drench Gang",
+      "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SLICK ALMIGHTY",
-        "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Drench Gang",
-      "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Quit Rap",
-        "url": "https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 130632,
-      "name": "I Am Who I Am (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6P09dkOxVOMIrvnNBpmHho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 200490,
       "name": "Never Scared (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Quit Rap",
+        "url": "https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 130632,
+      "name": "I Am Who I Am (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6P09dkOxVOMIrvnNBpmHho"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Layderr",
+        "url": "https://open.spotify.com/album/6cVMRyxRpR9urenwXrCk5m"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 197368,
+      "name": "Layderr",
+      "url": "https://open.spotify.com/track/6ozLyXlZLt4trWme02M1ro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -763,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Layderr",
-        "url": "https://open.spotify.com/album/6cVMRyxRpR9urenwXrCk5m"
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
       "artists": [
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 197368,
-      "name": "Layderr",
-      "url": "https://open.spotify.com/track/6ozLyXlZLt4trWme02M1ro"
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 152658,
       "name": "Feet On Land",
       "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,

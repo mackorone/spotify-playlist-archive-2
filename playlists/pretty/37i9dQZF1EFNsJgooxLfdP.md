@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,606 likes - 104 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,604 likes - 104 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 77 | [Made In China \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6K7tbjweliRGJ2rMT7Aesy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Made In China \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/51Yf18oHcwpvm77V4L0dWw) | 4:07 |
 | 78 | [High Luv](https://open.spotify.com/track/0rPlZJImy6MEMdudJzRvYF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 3:31 |
 | 79 | [Still Miss You](https://open.spotify.com/track/4dVbGJjN7yjcfabOVBbX8p) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 2:52 |
-| 80 | [More Of You](https://open.spotify.com/track/5FrNXY2CHIlfJscobdKYMt) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 2:48 |
-| 81 | [You Mean The World To Me \(feat\. Leon Thomas & Hazel Monét\)](https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:24 |
+| 80 | [You Mean The World To Me \(feat\. Leon Thomas & Hazel Monét\)](https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:24 |
+| 81 | [More Of You](https://open.spotify.com/track/5FrNXY2CHIlfJscobdKYMt) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 2:48 |
 | 82 | [Maybe \(feat\. Lucky Daye\)](https://open.spotify.com/track/6DaDlK57XY6c5IbmWAjN8a) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:43 |
 | 83 | [Almost](https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:14 |
 | 84 | [Head To Toe](https://open.spotify.com/track/5z46zIR3mwi0dslAXrGcO6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 4:20 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 103 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
 | 104 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
 
-Snapshot ID: `AchJ9gAAAABmMY/BPnnrnYLU415SN6AG`
+Snapshot ID: `AchP0gAAAAB6KeswMP9qqGDTaBZE8ivr`

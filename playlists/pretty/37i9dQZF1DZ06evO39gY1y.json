@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 263436,
+  "num_followers": 263499,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADSTqRw2UXr+frqRLbkOa2W",
+  "snapshot_id": "au+7gAAAAAC8T3S9ZOf0UjCDgfCxBuxd",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Tardes",
+      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/7rcOaimWZ7e8SckSji7AS7"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 306009,
       "name": "Venus",
       "url": "https://open.spotify.com/track/3YqMl48AweMFNABrtIYb52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Tardes",
-      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
       "duration_ms": 232500,
       "name": "Hasta Que la Muerte Nos Separe",
       "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/18zG7iZk57oLfdZlodqibk"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 243499,
+      "name": "Danzando en Hielo",
+      "url": "https://open.spotify.com/track/3TMjXRqJ5ORaLPctOqqHrC"
     },
     {
       "added_at": null,
@@ -1015,26 +1035,6 @@
       "duration_ms": 232947,
       "name": "Olvidemos el Reloj",
       "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/18zG7iZk57oLfdZlodqibk"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 243499,
-      "name": "Danzando en Hielo",
-      "url": "https://open.spotify.com/track/3TMjXRqJ5ORaLPctOqqHrC"
     },
     {
       "added_at": null,

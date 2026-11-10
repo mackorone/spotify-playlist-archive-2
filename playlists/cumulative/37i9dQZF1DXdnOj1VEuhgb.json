@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Wegh",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Ati242",
   "name": "NKVT",
   "tracks": [
     {
@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 140662,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/0LcZO0SujUEO5zwqlNWqfC"
@@ -2810,6 +2810,24 @@
       "duration_ms": 118404,
       "name": "Baby Naber?",
       "url": "https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST"
+    },
+    {
+      "album": {
+        "name": "Babyglock",
+        "url": "https://open.spotify.com/album/3pafEft2xzM7iLUKYLATHL"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Babyglock",
+      "url": "https://open.spotify.com/track/1TlxJsAybZkzZ5ji0cUELk"
     },
     {
       "album": {
@@ -8324,7 +8342,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 169756,
       "name": "Ger\u00e7ekler Bunlar",
       "url": "https://open.spotify.com/track/1CKFhjHfUQMQnqADfL4LkF"
@@ -10454,7 +10472,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 154721,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/5vZ1UuapQITrjdLTelc6Y5"
@@ -13296,6 +13314,24 @@
       "duration_ms": 116947,
       "name": "KUM SAAT\u0130",
       "url": "https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V"
+    },
+    {
+      "album": {
+        "name": "KOZ: Kumarbaz",
+        "url": "https://open.spotify.com/album/77JhgTuoeWTJ3nEEJIK43c"
+      },
+      "artists": [
+        {
+          "name": "Kayra",
+          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "Kumarbaz\u0131n G\u00fcnd\u00fcz Kabuslar\u0131",
+      "url": "https://open.spotify.com/track/2lz6ot6QcjBsagJxZENK6p"
     },
     {
       "album": {
@@ -16640,6 +16676,28 @@
       "duration_ms": 209829,
       "name": "Olur Mu",
       "url": "https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG"
+    },
+    {
+      "album": {
+        "name": "Olurmusun?",
+        "url": "https://open.spotify.com/album/4L4w0AxuKcdh1wMqJC2Jze"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Olurmusun?",
+      "url": "https://open.spotify.com/track/3hvvCCnS4JyToL2R8XmMyf"
     },
     {
       "album": {

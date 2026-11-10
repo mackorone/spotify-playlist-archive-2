@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De beste indie tracks van nu. Cover: Froukje",
+  "description": "De beste indie tracks van nu. Cover: Fontaines D.C.",
   "name": "Indie XL",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 269000,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Beluga In The Seine",
+        "url": "https://open.spotify.com/album/6oyynCuZeZvBhrZWyQ4dpO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226505,
+      "name": "Beluga In The Seine",
+      "url": "https://open.spotify.com/track/37ccTgeR7XHUbEX8aKTSfU"
+    },
+    {
+      "album": {
         "name": "Big Time Nothing",
         "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
       },
@@ -686,7 +704,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 223985,
       "name": "Call You Home",
       "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
@@ -972,6 +990,24 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/3w10UqDDH9d9Pl1uIQpsgS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194431,
+      "name": "Dance It Out",
+      "url": "https://open.spotify.com/track/1al9nKR0YXCPEX0JbTSIRA"
     },
     {
       "album": {
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 305706,
       "name": "Drifting In The Summer Rain",
       "url": "https://open.spotify.com/track/3a8uAqfonQGbSqtjpN7lk6"
@@ -1542,6 +1578,40 @@
       "duration_ms": 202593,
       "name": "Find My!",
       "url": "https://open.spotify.com/track/047e0SSWyaduEaaj7FypTC"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -1851,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "HELEN KELLER",
+        "url": "https://open.spotify.com/album/3PhznlJ1F4bGmsuSuUkBwB"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283991,
+      "name": "HELEN KELLER",
+      "url": "https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb"
+    },
+    {
+      "album": {
         "name": "Hemingway",
         "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
       },
@@ -2078,7 +2166,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 209340,
       "name": "How Does It Feel?",
       "url": "https://open.spotify.com/track/4xkAlQGlKDHpEcRcmtWfc4"
@@ -2186,7 +2274,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 156560,
       "name": "I Paint Walls",
       "url": "https://open.spotify.com/track/6DcZj3VARz2ANeqy7gncJb"
@@ -3163,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "LY",
+        "url": "https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204249,
+      "name": "LY",
+      "url": "https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq"
+    },
+    {
+      "album": {
         "name": "Magneten",
         "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
       },
@@ -3268,6 +3374,28 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33"
+    },
+    {
+      "album": {
+        "name": "Midnight Sunlight",
+        "url": "https://open.spotify.com/album/0zAwwhwwUwB5tL89qyTAz9"
+      },
+      "artists": [
+        {
+          "name": "Pyo",
+          "url": "https://open.spotify.com/artist/3BNTy9A6fRhC8tCg7wApZB"
+        },
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "Midnight Sunlight",
+      "url": "https://open.spotify.com/track/6zBwwfaDtbp2wlpQjHcD3R"
     },
     {
       "album": {
@@ -3845,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5cIfc1CxekICf0SEW1lV9D"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249623,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4EeXxhc9Wqc23rHgEcxKnP"
+    },
+    {
+      "album": {
         "name": "In Between Borderlines",
         "url": "https://open.spotify.com/album/027Ba0mbr086Fq8ax1yFR1"
       },
@@ -4375,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208331,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
+    },
+    {
+      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -4509,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Sex & Drugs",
+        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Sex & Drugs",
+      "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
+    },
+    {
+      "album": {
         "name": "Sex Machines",
         "url": "https://open.spotify.com/album/1f99YHYeZ7VJaZl72mEq2a"
       },
@@ -4520,7 +4702,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 239817,
       "name": "Sex Machines",
       "url": "https://open.spotify.com/track/2BJFWAZM1v70mxBY5VGFZY"
@@ -4700,7 +4882,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 209306,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ"
@@ -5132,7 +5314,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 234746,
       "name": "Talvez",
       "url": "https://open.spotify.com/track/4E7WCyQAldKeTR7vwpRMTP"
@@ -5186,7 +5368,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
@@ -5377,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "The Sun Will Never Settle",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Sun Will Never Settle",
+      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
+    },
+    {
+      "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
@@ -5388,7 +5588,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
@@ -5612,7 +5812,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 193716,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
@@ -5938,6 +6138,28 @@
       "duration_ms": 171254,
       "name": "Wet Faced & Ugly",
       "url": "https://open.spotify.com/track/3yAVjo24bbVBElLDlIO4fv"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D"
     },
     {
       "album": {

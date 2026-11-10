@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: M'DEP
 
-1,933 songs - 3 day 14 hr 47 min
+1,934 songs - 3 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [ACORDO TÃO FASHION](https://open.spotify.com/track/1TWNnT8nV3VHvf3Xng1Rd2) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [916frosty](https://open.spotify.com/artist/6c0lj01vVpHsCH7Z5CfJ9K), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [DIÁRIO DE UMA GAROTA SUBVERSIVA](https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF) | 3:52 | 2026-01-19 | 2026-10-17 |
 | [Adedonha](https://open.spotify.com/track/6zhYjIgfkBfhrGMhVf0T0k) | [hashi tzz](https://open.spotify.com/artist/5MxfUqsyj9YXeY07EKrouq) | [Adedonha](https://open.spotify.com/album/0arJNMRoh1LRBXiqd6nRA4) | 1:47 | 2025-01-17 | 2025-02-22 |
 | [Adega](https://open.spotify.com/track/4EWuLf9eb0Y7qbIqt2Ijff) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [Adega](https://open.spotify.com/album/3gNyLDXm48HhAa7pUoyhON) | 2:53 | 2024-12-27 | 2025-01-18 |
-| [Ademar Pigue](https://open.spotify.com/track/0pr4w0lwQjf3t3lKAtoFtL) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Super Negro Vol.1](https://open.spotify.com/album/59Z3pymUOfVG6vhNifn84p) | 2:01 | 2025-12-29 |  |
+| [Ademar Pigue](https://open.spotify.com/track/0pr4w0lwQjf3t3lKAtoFtL) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Super Negro Vol.1](https://open.spotify.com/album/59Z3pymUOfVG6vhNifn84p) | 2:01 | 2025-12-29 | 2026-11-10 |
 | [Adivinha o DDD](https://open.spotify.com/track/4rPk23ySxlaRrBngwkZohB) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI) | [Adivinha o DDD](https://open.spotify.com/album/70Qu8qWVJCfsrv0kJIWk1L) | 2:10 | 2024-09-06 | 2024-11-30 |
 | [ADMITE](https://open.spotify.com/track/05X57peZvM18BOly3zW5Nh) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [ADMITE](https://open.spotify.com/album/1jpYvrTd4gbHa1GG3gOJqy) | 2:28 | 2025-02-21 | 2025-06-07 |
 | [Adrenocrono](https://open.spotify.com/track/7bJgUYWmDc0csFJvYYNyQd) | [Lenco](https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Rico Ainda Roubando](https://open.spotify.com/album/7MvNmE9IeWIzjvBRWL73fE) | 1:54 | 2024-11-29 | 2025-04-23 |
@@ -1048,6 +1048,7 @@
 | [Mansão](https://open.spotify.com/track/6qEpRTwMng2D4OiB3SfVne) | [Pocinno](https://open.spotify.com/artist/71jxfnyWB1z0h4ZI5R29xb), [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Mansão](https://open.spotify.com/album/3qA1tUjGJ21LFv7rTZf9TJ) | 3:01 | 2023-01-06 | 2023-07-08 |
 | [Mantém o Pique](https://open.spotify.com/track/4Fd1cs4q4oA95DmqiPSXhO) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Mantém o Pique](https://open.spotify.com/album/4RVMFRNLl65DNtpmGS2M7z) | 2:43 | 2023-05-12 | 2023-08-05 |
 | [Mapss](https://open.spotify.com/track/0ZHzuOo5LzTBVgCP6EWSAE) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Mapss](https://open.spotify.com/album/2zoXrcG52YKQvFSRxreIQY) | 2:09 | 2026-03-06 |  |
+| [MARCAS NOTURNAS](https://open.spotify.com/track/6WWMdN9VAfHIktsfE4vo6Z) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [DELÍRIOS NOTURNOS](https://open.spotify.com/album/6cyL05e8B4ybcytYe8z2CQ) | 2:27 | 2026-11-09 |  |
 | [Marcha 2](https://open.spotify.com/track/1p3kWP5QwZ2i3u9qFh2OX1) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Marcha 2](https://open.spotify.com/album/5bEmzyJBqbgYoIKXtjABom) | 2:45 | 2022-03-18 | 2022-04-09 |
 | [Mario Kart](https://open.spotify.com/track/4e4aIydHhBdQmfDMkqfsv3) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Mario Kart](https://open.spotify.com/album/16Ntdd9rlMOzHi8CybCONz) | 2:24 | 2022-06-10 | 2022-06-25 |
 | [Marlboro](https://open.spotify.com/track/6PSqBf9CgUhXmp87c78dSP) | [Dascar](https://open.spotify.com/artist/4xMLWhVR0oGEfR4jh6Bni6) | [Marlboro](https://open.spotify.com/album/0kOOqnjpRZSp3MWSntd3qd) | 3:24 | 2022-04-15 | 2022-08-06 |

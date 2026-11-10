@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 346146,
+  "num_followers": 346369,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-10-09 08:29:06",
       "album": {
+        "name": "Eastern Sounds",
+        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
+    },
+    {
+      "added_at": "2026-10-09 08:29:06",
+      "album": {
         "name": "The Complete RCA Victor Recordings",
         "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
       },
@@ -1183,6 +1199,22 @@
     {
       "added_at": "2026-10-09 08:29:06",
       "album": {
+        "name": "Les Plus Grands Moments Du Jazz",
+        "url": "https://open.spotify.com/album/1QtejTzzHfh76jf7w8Bjih"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/7my3KVDRhNAwYVYMpv1iib"
+    },
+    {
+      "added_at": "2026-10-09 08:29:06",
+      "album": {
         "name": "Know What I Mean? [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
@@ -1203,22 +1235,6 @@
     {
       "added_at": "2026-10-09 08:29:06",
       "album": {
-        "name": "Les Plus Grands Moments Du Jazz",
-        "url": "https://open.spotify.com/album/1QtejTzzHfh76jf7w8Bjih"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/7my3KVDRhNAwYVYMpv1iib"
-    },
-    {
-      "added_at": "2026-10-09 08:29:06",
-      "album": {
         "name": "Gettin' Around",
         "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-10-09 08:29:06",
       "album": {
-        "name": "Eastern Sounds",
-        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/79PzcQvhO8qJCNBA9KofG2"
       },
       "artists": [
         {
-          "name": "Yusef Lateef",
-          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 293653,
-      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
+      "duration_ms": 357160,
+      "name": "Blues In The Night - Short Version",
+      "url": "https://open.spotify.com/track/0e2wEcl70Zk02JpVamOF4d"
     },
     {
       "added_at": "2026-10-09 08:29:06",
@@ -1263,22 +1279,6 @@
       "duration_ms": 425933,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
-    },
-    {
-      "added_at": "2026-10-09 08:29:06",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/79PzcQvhO8qJCNBA9KofG2"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Blues In The Night - Short Version",
-      "url": "https://open.spotify.com/track/0e2wEcl70Zk02JpVamOF4d"
     },
     {
       "added_at": "2026-10-09 08:29:06",

@@ -1,12 +1,12 @@
 {
   "description": "Tate is the main pop girl emergency\u2728",
-  "num_followers": 245044,
+  "num_followers": 245168,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcaB4j7FVX7KcM+gQDxhekyh9B5",
+  "snapshot_id": "AAAAANUXHY1wfe5IIGubNNvHMAKb5NXr",
   "tracks": [
     {
       "added_at": "2026-11-06 05:04:05",
@@ -39,6 +39,22 @@
       "duration_ms": 278694,
       "name": "hey boyyy",
       "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
+    },
+    {
+      "added_at": "2026-11-09 19:58:55",
+      "album": {
+        "name": "I thought this story wasn't about me",
+        "url": "https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Look at me",
+      "url": "https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk"
     },
     {
       "added_at": "2026-11-06 05:04:05",

@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 92508,
+  "num_followers": 92542,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 524346,
-      "name": "Blue Friday - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
         "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 395560,
       "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 524346,
+      "name": "Blue Friday - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Una Mas",
-        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
         }
       ],
-      "duration_ms": 309266,
-      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+        "name": "Una Mas",
+        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
       },
       "artists": [
         {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
+      "duration_ms": 309266,
+      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "Intimacy Calling - Standard Time Vol. 2",
         "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 514293,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
-        }
-      ],
-      "duration_ms": 552600,
-      "name": "Tales For A Girl, 12",
-      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "From The Top (Digitally Remastered)",
         "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 224103,
       "name": "Drumette",
       "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+        }
+      ],
+      "duration_ms": 552600,
+      "name": "Tales For A Girl, 12",
+      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
     },
     {
       "added_at": "2026-05-28 09:27:48",

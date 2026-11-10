@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,206 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,208 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 40 | [State of Emergency](https://open.spotify.com/track/0z0IXlH0JZSIbLTq7oU06f) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 4:03 |
 | 41 | [Cut Dem](https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:51 |
 | 42 | [Ruling Force](https://open.spotify.com/track/4pvGRrSuY0VUUJfzsrPAFI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:52 |
-| 43 | [Last Chance](https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:59 |
+| 43 | [Calling All Stations](https://open.spotify.com/track/2c0XncuoZEOGuphnaWltIG) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:33 |
 | 44 | [Destroy the Dancefloor](https://open.spotify.com/track/16IZ1JwVXyqMyQq5DkX9N9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:44 |
-| 45 | [Calling All Stations](https://open.spotify.com/track/2c0XncuoZEOGuphnaWltIG) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:33 |
-| 46 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 |
-| 47 | [Volume](https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:37 |
+| 45 | [Last Chance](https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:59 |
+| 46 | [Volume](https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:37 |
+| 47 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 |
 | 48 | [Rude Boy For Life](https://open.spotify.com/track/0nouCKV8zqMBVYc2cKEYJl) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 4:10 |
 | 49 | [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 |
 | 50 | [Sound the Siren](https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:20 |
 
-Snapshot ID: `au0YgAAAAABKUtLW+pb1xykfKZV9br44`
+Snapshot ID: `au+7gAAAAABxRfLhfOtU/gjBTEbkF/hv`

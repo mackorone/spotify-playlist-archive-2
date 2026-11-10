@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,543 likes - 163 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,542 likes - 163 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 49 | [Mad at You \(with Gallant\)](https://open.spotify.com/track/4G4EoG2Dk7kjisJKv9DP5h) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Mad at You \(with Gallant\)](https://open.spotify.com/album/7dyE6UJ5D2dj2VStrMkRbI) | 3:46 |
 | 50 | [Alone](https://open.spotify.com/track/3Gj3CIHeZjds77ITl8XX7r) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:36 |
 | 51 | [Quit You](https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quit You](https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M) | 3:41 |
-| 52 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
-| 53 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 52 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 53 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
 | 54 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 55 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
 | 56 | [Keeping Score \(feat\. Paige IV\)](https://open.spotify.com/track/0g1BxXBhdbhImlgjJoIGal) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:02 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 76 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 |
 | 77 | [Don't Cry](https://open.spotify.com/track/0A472qovEW32nP2G0mkJoe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:07 |
 | 78 | [Talk to Me \(feat\. Tove Styrke\)](https://open.spotify.com/track/4rjV9NFV51DrGXC2jbK2EN) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:53 |
-| 79 | [Everything To Everyone \(Intro\)](https://open.spotify.com/track/21Uc575UbMARrDbyOYG4w8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 1:08 |
-| 80 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
+| 79 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
+| 80 | [Everything To Everyone \(Intro\)](https://open.spotify.com/track/21Uc575UbMARrDbyOYG4w8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 1:08 |
 | 81 | [Bleach](https://open.spotify.com/track/3ddDFIHXxdx1dWsqLaz5Ac) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:01 |
 | 82 | [Lights Out](https://open.spotify.com/track/6MQQI2uYnjd8EsWbISfpA5) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [To A Stranger](https://open.spotify.com/album/2NwLmvIUuYg63DvZrVidmG) | 3:32 |
 | 83 | [Tainted](https://open.spotify.com/track/1VRGNUFMrLcfniz2q3Q1lw) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/1UeM56mMsB5OD68dTFiz56) | 3:32 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 162 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 | 163 | [Why](https://open.spotify.com/track/5h09Ksb1ctl0naenwVkrau) | [The Fabulous Cadillacs](https://open.spotify.com/artist/1pxfJicxxf1Ce8OEJnorT3) | [Classics \- The Fabulous Cadillacs](https://open.spotify.com/album/2IJa1TA0j0t06LWl1dt8Ft) | 1:50 |
 
-Snapshot ID: `AchJ7AAAAABJiMcAfrLkOUZzaMN7si9I`
+Snapshot ID: `AchQBAAAAAD3ErNRD6LCW7bKWgl1P/Nm`

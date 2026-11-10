@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 102818,
+  "num_followers": 102854,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
+    },
+    {
+      "added_at": "2026-10-02 20:36:42",
+      "album": {
         "name": "A Man And His Music: The Player",
         "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/0ERampYomIgYBMJlX3rKXY"
-    },
-    {
-      "added_at": "2026-10-02 20:36:42",
-      "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
     },
     {
       "added_at": "2026-10-02 20:36:42",

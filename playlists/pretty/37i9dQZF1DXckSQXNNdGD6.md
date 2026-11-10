@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Dear Joanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,001 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,000 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 37 | [mi vocablo](https://open.spotify.com/track/1durpNnxDajO8jUKJ1eRUW) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [mi vocablo](https://open.spotify.com/album/1KnRJGR5GhoGZDotO7ANIO) | 2:31 |
 | 38 | [Cuando el sol bese a la luna](https://open.spotify.com/track/4ozZG3Cgiyf17pVda3p02S) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Cuando el sol bese a la luna](https://open.spotify.com/album/69dTwJHcOc4xcmpzpGKKgf) | 2:23 |
 | 39 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
-| 40 | [Agarra mi mano](https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Agarra mi mano](https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY) | 3:27 |
-| 41 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
+| 40 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
+| 41 | [Agarra mi mano](https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Agarra mi mano](https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY) | 3:27 |
 | 42 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 43 | [Se siente fuerte](https://open.spotify.com/track/6AR6FZiCFYeQasbE8PiQUl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Se siente fuerte](https://open.spotify.com/album/1IvfAV0woYVGewg3EI8Ojt) | 2:52 |
 | 44 | [Coleccionando atardeceres](https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Coleccionando atardeceres](https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic) | 3:03 |

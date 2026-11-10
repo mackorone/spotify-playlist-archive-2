@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,864 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,840 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

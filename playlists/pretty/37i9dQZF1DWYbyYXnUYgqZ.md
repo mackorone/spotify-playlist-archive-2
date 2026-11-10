@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: K/DA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,729 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,725 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 25 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 |
 | 26 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 27 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
-| 28 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |
+| 28 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
 | 29 | [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 |
 | 30 | [Know My Name](https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Know My Name](https://open.spotify.com/album/5CfKcRzU4j7AyZ5CwyJ2Ut) | 3:32 |
 | 31 | [404 \(New Era\)](https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:59 |
 | 32 | [SUGAR HONEY ICE TEA](https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SUGAR HONEY ICE TEA](https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC) | 2:58 |
-| 33 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
+| 33 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |
 | 34 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 |
 | 35 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
 | 36 | [Hit 'Em](https://open.spotify.com/track/0oFpuvfX2uwcuIGTMJr2kt) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi) | 2:48 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 62 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
 | 63 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
 | 64 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
-| 65 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
-| 66 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
+| 65 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
+| 66 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 | 67 | [Lovesick Girls](https://open.spotify.com/track/1GMufNnkKAnPLnqKJ5HHxW) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 3:12 |
 | 68 | [THAT’S A NO NO](https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:00 |
-| 69 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
-| 70 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
+| 69 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
+| 70 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
 | 71 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Sparkling Blue](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
 | 72 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 |
 | 73 | [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 89 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
 | 90 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 |
 | 91 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 |
-| 92 | [Gimme Dat Love](https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We made](https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp) | 2:26 |
-| 93 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |
+| 92 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |
+| 93 | [Gimme Dat Love](https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We made](https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp) | 2:26 |
 | 94 | [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 |
 | 95 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
 | 96 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 99 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
 | 100 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |
 
-Snapshot ID: `AAAAABF5LUWInYi6HWVT7U4evkoaNBlv`
+Snapshot ID: `AAAAAP5ms2NAH4bumZY2vn+uOrlzf0/J`

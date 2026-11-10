@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > ang lalim
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,327 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,220 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 22 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 23 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
 | 24 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
-| 25 | [WHITE KEYS](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WHITE KEYS](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
-| 26 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 |
+| 25 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 |
+| 26 | [WHITE KEYS](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WHITE KEYS](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 | 27 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
 | 28 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 | 29 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 39 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 |
 | 40 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 41 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
-| 42 | [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 |
-| 43 | [Panaginip](https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI) | 5:17 |
-| 44 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
+| 42 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
+| 43 | [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 |
+| 44 | [Panaginip](https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI) | 5:17 |
 | 45 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 46 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 47 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |

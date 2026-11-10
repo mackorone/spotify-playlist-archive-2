@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 | 27 | [Alright](https://open.spotify.com/track/4HsA9X8NaDP3G1NkEL8xOQ) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [1 of 1](https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj) | 3:44 |
 | 28 | [Welcome Home](https://open.spotify.com/track/4d6v0CvPR7lnsE5P4djMYj) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Remember Me: The Mahalia Jackson Story \(Original Soundtrack\)](https://open.spotify.com/album/69SalyGJ7nBvOrex2NJTWN) | 2:06 |
 
-Snapshot ID: `au5qAAAAAABCpa/Bv3t5TgWIPNI1/Q1N`
+Snapshot ID: `au+7gAAAAAAVJDx929AlQoca2FaumBKL`

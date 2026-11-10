@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,026 likes - 43 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,028 likes - 43 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 16 | [Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:52 |
 | 17 | [Never Saw It Coming](https://open.spotify.com/track/2vu91wEkfNs7341Eq3cHKS) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 2:37 |
 | 18 | [Ghost](https://open.spotify.com/track/4GqHGnx1MqL8z1KyTIIwW4) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Lost on You](https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2) | 2:29 |
-| 19 | [Charmer](https://open.spotify.com/track/4sBav4cAx7JkkCaylFsbUz) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z) | 3:25 |
+| 19 | [Hum](https://open.spotify.com/track/2k3oP3QjEMErVYXZ0idW7y) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z) | 3:27 |
 | 20 | [I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Andy Hull](https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 3:36 |
 | 21 | [Chemicals](https://open.spotify.com/track/5O8NZbdm6mLy8HgJzROeJG) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 3:00 |
 | 22 | [Primary Colors](https://open.spotify.com/track/77xbIliiMGEoAOSFaREtnr) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Lost on You](https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2) | 3:37 |
-| 23 | [Hum](https://open.spotify.com/track/2k3oP3QjEMErVYXZ0idW7y) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z) | 3:27 |
+| 23 | [Charmer](https://open.spotify.com/track/4sBav4cAx7JkkCaylFsbUz) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z) | 3:25 |
 | 24 | [Window](https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 4:04 |
 | 25 | [New Detroit](https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:44 |
 | 26 | [BREEZER](https://open.spotify.com/track/3TyqHPSgVkKw5xgJZeMYGP) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Lost on You](https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2) | 3:30 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 42 | [Commit](https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:33 |
 | 43 | [Waltz](https://open.spotify.com/track/5NTGujjjnZH83kbSW1KvK5) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:19 |
 
-Snapshot ID: `au0YgAAAAAB5RsRmhCc2qfsBSnSb4+MV`
+Snapshot ID: `au+7gAAAAACV412d1Q4G1uYKDhDR2KjV`

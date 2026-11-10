@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 193976,
+  "num_followers": 193989,
   "original_name": "Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
         "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 256973,
       "name": "Rival (feat. Mario Domm)",
       "url": "https://open.spotify.com/track/0JYdkP4Kz0ixmSfTTPvECC"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Animales",
-        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
       },
       "artists": [
         {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 260733,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
+      "duration_ms": 228240,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+        "name": "Animales",
+        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu"
+      "duration_ms": 260733,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
     },
     {
       "added_at": "2025-11-25 20:24:44",

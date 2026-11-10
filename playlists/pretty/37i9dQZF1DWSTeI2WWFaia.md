@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Anderson .Paak & Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547,829 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,547,699 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 |
 | 2 | [Godfather II](https://open.spotify.com/track/6GgQiSyhTWqmmBy9V5Blob) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 3:03 |
-| 3 | [Champagne Wishes](https://open.spotify.com/track/6X0GUwX9bx4DN85x8meUtR) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Expensive Taste](https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu) | 5:39 |
+| 3 | [STOVIE'S HOME \(Down Down\)](https://open.spotify.com/track/2oK53gU1lJtA06XtJ7RnUP) | [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [STOVIE'S HOME \(Down Down\)](https://open.spotify.com/album/6tdmXDqSDQF3MXbgrhBCRZ) | 3:46 |
 | 4 | [ZILLA](https://open.spotify.com/track/1AFeuYhsse5HyF679zJiOY) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [ZILLA](https://open.spotify.com/album/2bA62lIFAMlOitMT1XLOwI) | 2:51 |
 | 5 | [Night Vision \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/43jJnAZdZjJo82uyPgUV7w) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Off To The Races](https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt) | 2:42 |
 | 6 | [Crown](https://open.spotify.com/track/2imgEKscNLv6OKGP1HUckh) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Lemon Pepper Steppers](https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 2:46 |
 | 50 | [DO I LOOK HIGH?](https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Julian Sintonia](https://open.spotify.com/artist/0a4bUi9F2GFCQkOYBESJKY) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:02 |
 
-Snapshot ID: `AAAAABAryy8pjhd3k54hVD56yNxxxTvS`
+Snapshot ID: `AAAAAN/mFfuSvNDl8MrJtuVCk75phSyZ`

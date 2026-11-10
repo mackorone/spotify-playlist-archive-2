@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,689 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,784 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 63 | [Young Love \(feat\. Laura Marling\)](https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:22 |
 | 64 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 |
 | 65 | [From Eden](https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm) | 3:42 |
-| 66 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 |
-| 67 | [Everybody Wants to Love You](https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo) | 2:12 |
-| 68 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
-| 69 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 |
+| 66 | [Everybody Wants to Love You](https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo) | 2:12 |
+| 67 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
+| 68 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 |
+| 69 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 |
 | 70 | [Valentine](https://open.spotify.com/track/5jBmL2z0L4xQyXNs5Sqari) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:07 |
 | 71 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
 | 72 | [A Shot in the Arm](https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 4:19 |

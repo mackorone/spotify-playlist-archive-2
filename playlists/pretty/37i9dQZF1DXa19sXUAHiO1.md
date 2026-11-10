@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past\. Cover: The Beach Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,921 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,865 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 19 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
 | 20 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 21 | [Stand by Me](https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:52 |
-| 22 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:45 |
-| 23 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
+| 22 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
+| 23 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:45 |
 | 24 | [Oogum Boogum Song](https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 3:06 |
 | 25 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
 | 26 | [Only the Good Die Young](https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 45 | [Sunshine \(Go Away Today\)](https://open.spotify.com/track/3Xd39NB1rifow2RDNVgSFp) | [Jonathan Edwards](https://open.spotify.com/artist/7gyVuJLsatWofXCAw1SGxM) | [Jonathan Edwards](https://open.spotify.com/album/6v7ceaQydkdy8oQbZ8oYW0) | 2:18 |
 | 46 | [Fun, Fun, Fun](https://open.spotify.com/track/4T5SR1krNuVLOnxSjYb8nW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:16 |
 | 47 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
-| 48 | [Excitable Boy](https://open.spotify.com/track/50fGkq9l9Zsn1x7C8GKIYr) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 2:41 |
-| 49 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
+| 48 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
+| 49 | [Excitable Boy](https://open.spotify.com/track/50fGkq9l9Zsn1x7C8GKIYr) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 2:41 |
 | 50 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
 
 Snapshot ID: `AAAAAP+quS0UTNCRH2gfCAu/KGIhGNQP`

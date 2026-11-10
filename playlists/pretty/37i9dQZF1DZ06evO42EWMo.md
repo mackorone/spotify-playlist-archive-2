@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,784 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,799 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 15 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
 | 16 | [What Is It About Men](https://open.spotify.com/track/6QIdkhQ33eTSPBHu4NWl7l) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:29 |
 | 17 | [Tears Dry \- Original Version](https://open.spotify.com/track/0IEGGuRHP8ylbCXausRF9p) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 4:08 |
-| 18 | [You're Wondering Now](https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:33 |
+| 18 | [Do Me Good](https://open.spotify.com/track/3EwxNAUKvuH5pmsTtXbo4Z) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:19 |
 | 19 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 |
-| 20 | [Do Me Good](https://open.spotify.com/track/3EwxNAUKvuH5pmsTtXbo4Z) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:19 |
+| 20 | [You're Wondering Now](https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:33 |
 | 21 | [The Girl From Ipanema](https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:46 |
 | 22 | [Mr Magic \(Through The Smoke\)](https://open.spotify.com/track/5ZTZL5UlpF3UZ8H7BhoI9N) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:56 |
 | 23 | [Me & Mr Jones](https://open.spotify.com/track/5RqIM2vv5nw2PGJBqPD8Rg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:31 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 27 | [Help Yourself](https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 5:01 |
 | 28 | [Take The Box](https://open.spotify.com/track/1cYZfOVeTOSWNZe9liBa6h) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:20 |
 | 29 | [Monkey Man](https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:56 |
-| 30 | [Rehab \- Demo Version](https://open.spotify.com/track/6HygFcocG8OrWHVnxBXp6b) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Rehab \(Remixes & B Sides\)](https://open.spotify.com/album/59tk7qXLhxAKaWa5BghvGD) | 3:37 |
+| 30 | [Close To The Front](https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:35 |
 | 31 | [Intro / Stronger Than Me](https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:54 |
-| 32 | [Close To The Front](https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:35 |
-| 33 | [Fuckery \- Me & Mr Jones / Original Demo](https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Fuckery \(Me & Mr Jones \- Original Demo\)](https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp) | 2:31 |
-| 34 | [I Heard It Through The Grapevine \- Live On Jools Holland Hootenanny / 31st December 2006](https://open.spotify.com/track/5kB7BZY3dJJtQYiXkyesrD) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:54 |
+| 32 | [Rehab \- Demo Version](https://open.spotify.com/track/6HygFcocG8OrWHVnxBXp6b) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Rehab \(Remixes & B Sides\)](https://open.spotify.com/album/59tk7qXLhxAKaWa5BghvGD) | 3:37 |
+| 33 | [I Heard It Through The Grapevine \- Live On Jools Holland Hootenanny / 31st December 2006](https://open.spotify.com/track/5kB7BZY3dJJtQYiXkyesrD) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:54 |
+| 34 | [Fuckery \- Me & Mr Jones / Original Demo](https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Fuckery \(Me & Mr Jones \- Original Demo\)](https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp) | 2:31 |
 | 35 | [Someone To Watch Over Me \- Demo](https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 4:28 |
 | 36 | [We're Still Friends \- Live At The Union Chapel](https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 2:55 |
 | 37 | [In My Bed](https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 49 | [You Sent Me Flying / Cherry](https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 6:50 |
 | 50 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 |
 
-Snapshot ID: `au5qAAAAAACbF/kFl+olOlq7vgz+ebeO`
+Snapshot ID: `au+7gAAAAACN2QT7bFHnBDyCmfZxroQS`

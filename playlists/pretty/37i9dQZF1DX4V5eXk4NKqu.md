@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,369 likes - 58 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,373 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 40 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
 | 41 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 42 | [IND 2 JFK](https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [IND 2 JFK](https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7) | 2:33 |
-| 43 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
-| 44 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
+| 43 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
+| 44 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
 | 45 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
 | 46 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 |
 | 47 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |

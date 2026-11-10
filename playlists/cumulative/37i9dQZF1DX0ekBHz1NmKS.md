@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,421 songs - 5 day 5 hr 29 min
+2,422 songs - 5 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1529,6 +1529,7 @@
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-19 |
 | [nära nåt så bra](https://open.spotify.com/track/314slNVWu8k7xw773zLLIu) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7) | 3:06 | 2026-05-21 | 2026-11-06 |
 | [Närmare då](https://open.spotify.com/track/49Qy5M3x7tpPPeHKJ4O6TU) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Närmare då](https://open.spotify.com/album/2oiwnIWZCXGX7b3NwwJwJY) | 2:51 | 2025-01-09 | 2025-05-23 |
+| [Nästa dag](https://open.spotify.com/track/0q5EhvrAo9zP1Qs10p3Uzc) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Nästa dag](https://open.spotify.com/album/6GRIajFbYcCsDvrOhrGLqx) | 2:32 | 2026-11-05 |  |
 | [Nästan där \(men aldrig fri\)](https://open.spotify.com/track/2E05ZVK7zLOvrc383jqBE0) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Nästan där \(men aldrig fri\)](https://open.spotify.com/album/5YauyqJ0gzOYmj8G8zsx90) | 2:56 | 2025-06-12 | 2025-08-16 |
 | [Nätterna](https://open.spotify.com/track/0sO9OAIoecb2YxmCQohWGq) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Nätterna](https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7) | 2:58 | 2021-12-16 | 2022-03-11 |
 | [Nätterna i Göteborg](https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Nätterna i Göteborg](https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ) | 2:51 | 2023-01-05 | 2023-10-06 |
@@ -2166,7 +2167,7 @@
 | [Träffa andra](https://open.spotify.com/track/12xfklEh742AncfxxkSIzY) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Träffa andra](https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I) | 2:43 | 2023-10-20 | 2024-01-26 |
 | [trött på det](https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [trött på det](https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz) | 2:24 | 2024-01-25 | 2024-03-15 |
 | [tsm <3 \(pantamera!!\)](https://open.spotify.com/track/2TfMaAeUJHRbkBlkWcXYzG) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [tsm <3 \(pantamera!!\)](https://open.spotify.com/album/5sWvww2pt3kTYU8d4HP6NV) | 2:21 | 2024-03-28 | 2024-05-03 |
-| [Tuff Brud](https://open.spotify.com/track/3vGm3VIYPPwutGcbpN3SsI) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Tuff Brud](https://open.spotify.com/album/58dL9W1zuLlbxk5QNtheQQ) | 3:18 | 2026-05-07 |  |
+| [Tuff Brud](https://open.spotify.com/track/3vGm3VIYPPwutGcbpN3SsI) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Tuff Brud](https://open.spotify.com/album/58dL9W1zuLlbxk5QNtheQQ) | 3:18 | 2026-05-07 | 2026-11-10 |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-11-10 |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-05-16 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2023-02-24 |

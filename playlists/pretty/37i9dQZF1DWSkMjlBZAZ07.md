@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,863,610 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863,540 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 64 | [Brother To You](https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:34 |
 | 65 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 |
 | 66 | [Five More Minutes](https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:43 |
-| 67 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
-| 68 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
+| 67 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
+| 68 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 69 | [Down In The Dirt](https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Down In The Dirt](https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25) | 3:35 |
 | 70 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
 | 71 | [People Need A Melody](https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [People Need a Melody](https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ) | 4:12 |
-| 72 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:09 |
-| 73 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
+| 72 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
+| 73 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:09 |
 | 74 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 75 | [Where Love Goes](https://open.spotify.com/track/6e0TEaeQcwhS8ktu5q0AYX) | [Kai Mata](https://open.spotify.com/artist/0RlMEX4BhqLPcZFg1SHRny) | [Where Love Goes](https://open.spotify.com/album/0opuNXDys3y4G5Dw0pLk9c) | 4:13 |
 | 76 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 |
-| 77 | [if you got a problem](https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:06 |
-| 78 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
+| 77 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
+| 78 | [if you got a problem](https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:06 |
 | 79 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
 | 80 | [Almost Home](https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Almost Home](https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5) | 2:49 |
 | 81 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |

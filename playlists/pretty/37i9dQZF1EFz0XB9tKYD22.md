@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 358 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 635 likes - 358 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 94 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:27 |
 | 95 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
 | 96 | [Spotlight](https://open.spotify.com/track/1CGn6PCvMZDeruZZg13BoR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:23 |
-| 97 | [Spinning Bottles](https://open.spotify.com/track/2tVrRlYUJMFUyIG0sJBgiA) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:16 |
-| 98 | [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 |
+| 97 | [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 |
+| 98 | [Spinning Bottles](https://open.spotify.com/track/2tVrRlYUJMFUyIG0sJBgiA) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:16 |
 | 99 | [Blessed](https://open.spotify.com/track/5gTuRkjPru8nt2wH2xToG4) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/6oYPDF3t8SJ8zjWva4CRAL) | 4:36 |
 | 100 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
 | 101 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
@@ -367,4 +367,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 357 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 358 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AchKCgAAAAAF0tVi3XozmAd+aBNRvmar`
+Snapshot ID: `AchP5gAAAAAPkLDU/NdVDPNH9oTshQpw`

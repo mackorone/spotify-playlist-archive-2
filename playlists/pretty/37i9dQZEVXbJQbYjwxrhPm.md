@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,999 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Movin' To The Sun](https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:22 |
 | 50 | [Моето слабо място](https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Моето слабо място](https://open.spotify.com/album/4wJLS5B2KmVWC6a2x6eZdg) | 3:23 |
 
-Snapshot ID: `MoP/aAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MoVoWAAAAAAAAAAAAAAAAAAAAAAAAGVu`

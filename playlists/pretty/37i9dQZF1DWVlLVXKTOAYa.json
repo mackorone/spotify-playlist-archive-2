@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1156121,
+  "num_followers": 1156023,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGq1Lbofy4hrnERUmOGybCFmPFPG",
+  "snapshot_id": "AAAAACFPWF9jgRxMKEqkSrgw1VVPyJ9E",
   "tracks": [
     {
       "added_at": "2026-02-12 23:00:22",
@@ -75,42 +75,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Drive Safe",
-        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Drive Safe",
-      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -145,20 +109,20 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-02-12 23:00:22",
+      "added_at": "2026-11-09 15:20:09",
       "album": {
-        "name": "Who's That Calling?",
-        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+        "name": "Look At All The Happy People",
+        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
       },
       "artists": [
         {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+          "name": "Bluegirl",
+          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
         }
       ],
-      "duration_ms": 196156,
-      "name": "Who's That Calling?",
-      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+      "duration_ms": 206564,
+      "name": "Look At All The Happy People",
+      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -567,6 +531,26 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "MILLION PLACES",
         "url": "https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 204320,
       "name": "MILLION PLACES",
       "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 243667,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Hemingway",
         "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 213887,
       "name": "DON\u2019T YOU SEE ME TRYING?",
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1239,6 +1239,22 @@
       "duration_ms": 176829,
       "name": "If She Could See Me Now",
       "url": "https://open.spotify.com/track/75GHF6q3DHtjNDVISy62rk"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1675,22 +1691,6 @@
       "duration_ms": 190754,
       "name": "Heart By Heart",
       "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     }
   ],
   "unique_name": "Pop Right Now",

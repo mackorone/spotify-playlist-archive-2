@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,534 songs - 2 day 18 hr 0 min
+1,535 songs - 2 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1113,6 +1113,7 @@
 | [Sandals](https://open.spotify.com/track/47jqBB5W0v7UwskQDwBQZk) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Fijy](https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV) | [Sandals](https://open.spotify.com/album/7jOcQJip9Htowh5Jb0oGmy) | 2:41 | 2025-05-09 | 2025-06-08 |
 | [Santoria](https://open.spotify.com/track/2iHFOz1mtTd3bFF8EiIXkf) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Santoria](https://open.spotify.com/album/3IF1lgYX9LTdOXArUmQSsT) | 2:27 | 2026-03-12 | 2026-07-06 |
 | [Saturday Night](https://open.spotify.com/track/5vvyZn01OanyjFXLuhrz5p) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Saturday Night](https://open.spotify.com/album/0jh1gOwsVek6YoijDpG4gf) | 2:40 | 2024-09-12 | 2025-08-06 |
+| [Saudades](https://open.spotify.com/track/3HJUSRHm1aZY2oWL9MsSag) | [Addal](https://open.spotify.com/artist/4KvEeVTVVyMlEhr5ovZBOT) | [Saudades](https://open.spotify.com/album/3bOL0VIU1OXvePAgATgRUc) | 3:05 | 2026-11-09 |  |
 | [Save Me](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2) | [Dūne](https://open.spotify.com/artist/5TtvkENnGTgiOTO8gTbTmo) | [Save Me](https://open.spotify.com/album/5F6XZV6i7gTz4RuPNKGJ2N) | 2:14 | 2023-10-30 | 2024-05-13 |
 | [Save Me](https://open.spotify.com/track/2iU8CYowZL8bXUlQo187yL) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [King Ky](https://open.spotify.com/artist/0LQwcJg9nBZONJg4OGUvkC) | [Save Me](https://open.spotify.com/album/2D2sPRtnmDt6Nod8Xw0bfh) | 2:52 | 2026-03-22 | 2026-08-31 |
 | [Save Me](https://open.spotify.com/track/4nsL7XMb1SKauCsaxqgvCz) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Edmundo Silva](https://open.spotify.com/artist/3Bx5tD0QE0gLajCrI5k3UN), [Justin Rhodes](https://open.spotify.com/artist/1UnFIMbh19hkqi7kAUXEXt) | [Save Me](https://open.spotify.com/album/5DQPMbPcIXbol6UVjCEdk2) | 2:36 | 2025-05-18 | 2025-06-16 |

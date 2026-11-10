@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29810,
+  "num_followers": 29814,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/1zcbSlABsZt7PrVXr09Ydi"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 194705,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/64mT33V9Mfxr1ogdRzQpYj"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "BOBO",
-        "url": "https://open.spotify.com/album/1zcbSlABsZt7PrVXr09Ydi"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 194705,
-      "name": "BOBO",
-      "url": "https://open.spotify.com/track/64mT33V9Mfxr1ogdRzQpYj"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Porte\u00f1a",
+        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 254829,
+      "name": "Malagradecida",
+      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Te vamos a salvar",
         "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 161000,
       "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
       "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Porte\u00f1a",
-        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 254829,
-      "name": "Malagradecida",
-      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "As\u00ed Sea",
+        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216766,
+      "name": "As\u00ed Sea",
+      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Cenital",
         "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 209917,
       "name": "Cenital",
       "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "As\u00ed Sea",
-        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 216766,
-      "name": "As\u00ed Sea",
-      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
+      },
+      "artists": [
+        {
+          "name": "Vipisita",
+          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
+        }
+      ],
+      "duration_ms": 160696,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Juana De C\u00e1diz",
         "url": "https://open.spotify.com/album/701XCJBlqDynw3S06YAufd"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Matilda",
-        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
-      },
-      "artists": [
-        {
-          "name": "Vipisita",
-          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
-        }
-      ],
-      "duration_ms": 160696,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Sampa",
         "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 269540,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1235,22 +1251,6 @@
       "duration_ms": 233385,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 274748,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Odio despertar",
         "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 267941,
       "name": "Odio despertar",
       "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 274748,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
       },
       "artists": [
         {
-          "name": "Micaela Basadoni",
-          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
         },
         {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+          "name": "Brenda Martin",
+          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
         }
       ],
-      "duration_ms": 139952,
-      "name": "Siesta rosa",
-      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
+      "duration_ms": 216645,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1435,42 +1435,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
       },
       "artists": [
         {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+          "name": "Micaela Basadoni",
+          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
         },
         {
-          "name": "Brenda Martin",
-          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
         }
       ],
-      "duration_ms": 216645,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Fuera de mi lugar (a la medianoche)",
-        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
-      },
-      "artists": [
-        {
-          "name": "Marina Wil",
-          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "Fuera de mi lugar (a la medianoche)",
-      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
+      "duration_ms": 139952,
+      "name": "Siesta rosa",
+      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1491,6 +1471,26 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Fuera de mi lugar (a la medianoche)",
+        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
+      },
+      "artists": [
+        {
+          "name": "Marina Wil",
+          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "Fuera de mi lugar (a la medianoche)",
+      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Cantor",
+        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Cantor",
+      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "El Sol Est\u00e1 Mojado",
         "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
       },
@@ -1783,38 +1799,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 245968,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Cantor",
-        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Cantor",
-      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
         "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 264000,
       "name": "SERENATA - En Vivo en Anfitri\u00f3n - TV P\u00fablica",
       "url": "https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 245968,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "VIEJO LOCO",
-        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Tor",
-          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
-        }
-      ],
-      "duration_ms": 174144,
-      "name": "TE DE TILO",
-      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "D\u00eda tras d\u00eda",
         "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 177750,
       "name": "D\u00eda tras d\u00eda",
       "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "VIEJO LOCO",
+        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Tor",
+          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
+        }
+      ],
+      "duration_ms": 174144,
+      "name": "TE DE TILO",
+      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
     }
   ],
   "unique_name": "Voces del Sur",

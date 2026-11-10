@@ -4,14 +4,15 @@
 
 > This is Keauhou\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 40 min
+59 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aloha Kuu Aina o Kauaula](https://open.spotify.com/track/0s3YBKhXcbIVe4tlNC94Ir) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 2:21 | 2024-01-29 | 2025-11-28 |
 | [Aloha Maunalua](https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:43 | 2024-01-29 | 2026-11-09 |
-| [Anahulu](https://open.spotify.com/track/3GSevoaiKN4XIFNgJO9y19) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Anahulu](https://open.spotify.com/album/0jdjbkb54AhyAQQKNzwwnt) | 2:17 | 2026-11-05 |  |
+| [Anahulu](https://open.spotify.com/track/3GSevoaiKN4XIFNgJO9y19) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Anahulu](https://open.spotify.com/album/0jdjbkb54AhyAQQKNzwwnt) | 2:17 | 2026-11-05 | 2026-11-10 |
 | [Dancing Under the Stars](https://open.spotify.com/track/4x7ZnyIhJRSoCXWwb9StkK) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 3:10 | 2025-03-16 | 2025-04-12 |
+| [E Mau ka Haʻaheo o Pauahilani](https://open.spotify.com/track/5QyGFWWi193U6aiakBmTRV) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Anahulu](https://open.spotify.com/album/0jdjbkb54AhyAQQKNzwwnt) | 3:29 | 2026-11-10 |  |
 | [Eleu Mikimiki](https://open.spotify.com/track/2rJ22DZjY656aEpQ9OlD5h) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:18 | 2024-01-29 |  |
 | [Hanohano Haiku](https://open.spotify.com/track/7vhH5BJgH5Cr9jlWwfXtXJ) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:28 | 2024-01-29 |  |
 | [Haʻaheo Haʻikū](https://open.spotify.com/track/6aij3C3t7UQk31GLKrXMW5) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Anahulu](https://open.spotify.com/album/0jdjbkb54AhyAQQKNzwwnt) | 2:28 | 2026-11-05 |  |

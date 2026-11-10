@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAACyI4Kx+n1mWrmc795Ev0u",
+  "snapshot_id": "au+7gAAAAABSmPk3Xu9S9UxssJAd6M+z",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7220 (Deluxe)",
-        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 160033,
-      "name": "Burglars & Murderers (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
+      "duration_ms": 145317,
+      "name": "I THINK (FEAT. LIL BABY)",
+      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
     },
     {
       "added_at": null,
@@ -615,22 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 145317,
-      "name": "I THINK (FEAT. LIL BABY)",
-      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
+      "duration_ms": 160033,
+      "name": "Burglars & Murderers (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
     },
     {
       "added_at": null,

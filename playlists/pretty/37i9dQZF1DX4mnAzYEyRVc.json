@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73949,
+  "num_followers": 73967,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "El Himno de Mi Pe\u00f1a",
-        "url": "https://open.spotify.com/album/6lXCcdTUmxN8ZptAgn7vWV"
-      },
-      "artists": [
-        {
-          "name": "Isabel Aai\u00fan",
-          "url": "https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3"
-        }
-      ],
-      "duration_ms": 188501,
-      "name": "El Himno de Mi Pe\u00f1a",
-      "url": "https://open.spotify.com/track/5097PIxRRGilR1esMUlqxO"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 205723,
       "name": "She Got Arrested",
       "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "El Himno de Mi Pe\u00f1a",
+        "url": "https://open.spotify.com/album/6lXCcdTUmxN8ZptAgn7vWV"
+      },
+      "artists": [
+        {
+          "name": "Isabel Aai\u00fan",
+          "url": "https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3"
+        }
+      ],
+      "duration_ms": 188501,
+      "name": "El Himno de Mi Pe\u00f1a",
+      "url": "https://open.spotify.com/track/5097PIxRRGilR1esMUlqxO"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Rudy Come Home",
-        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
-      },
-      "artists": [
-        {
-          "name": "Death Of Guitar Pop",
-          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
-        }
-      ],
-      "duration_ms": 240429,
-      "name": "Rudy Come Home",
-      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "En La Tormenta",
         "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 181870,
       "name": "Cuando Salga El Sol",
       "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Rudy Come Home",
+        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
+      },
+      "artists": [
+        {
+          "name": "Death Of Guitar Pop",
+          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
+        }
+      ],
+      "duration_ms": 240429,
+      "name": "Rudy Come Home",
+      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Hard Band For Dead",
         "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 199560,
       "name": "2-Tone Army",
       "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
-      },
-      "artists": [
-        {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 164333,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+      },
+      "artists": [
+        {
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        }
+      ],
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Fade Out",
         "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 220625,
       "name": "Fade Out",
       "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
     },
     {
       "added_at": "2026-08-21 06:00:30",

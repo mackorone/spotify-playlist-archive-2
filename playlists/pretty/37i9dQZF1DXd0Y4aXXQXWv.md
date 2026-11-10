@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,812 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,817 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 16 | [Ella, elle l'a \- Remasterisé en 2004](https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 4:51 |
 | 17 | [J'ai demandé à la lune](https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Paradize](https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4) | 3:29 |
 | 18 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
-| 19 | [Sous le vent](https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 3:31 |
-| 20 | [Ta marinière](https://open.spotify.com/track/2JFmiASjHttT8AK7WeZjAb) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 3:42 |
+| 19 | [Ta marinière](https://open.spotify.com/track/2JFmiASjHttT8AK7WeZjAb) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 3:42 |
+| 20 | [Sous le vent](https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 3:31 |
 | 21 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
 | 22 | [Caravane](https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:26 |
 | 23 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
 | 24 | [Il jouait du piano debout \- Remasterisé en 2004](https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Paris, France \(Remasterisé en 2004\)](https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7) | 4:33 |
-| 25 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
+| 25 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:45 |
 | 26 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
-| 27 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:45 |
+| 27 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
 | 28 | [Un jour je marierai un ange](https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:44 |
 | 29 | [Résiste \- Remasterisé en 2004](https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Tout pour la musique \(Remasterisé en 2004\)](https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl) | 4:34 |
 | 30 | [La lettre](https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 46 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
 | 47 | [Au bout de mes rêves](https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:54 |
 | 48 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
-| 49 | [Un autre monde \- Remasterisé en 2015](https://open.spotify.com/track/3I4ecHrrMuD8FFfFCVy4g5) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Un autre monde \(Remasterisé en 2015\)](https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3) | 4:33 |
-| 50 | [Je suis un homme](https://open.spotify.com/track/2YNWgxevUxpjZDgW4i5Aky) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Totem](https://open.spotify.com/album/3RWSCAgGYrQxdyqqX0mglq) | 4:09 |
+| 49 | [Je suis un homme](https://open.spotify.com/track/2YNWgxevUxpjZDgW4i5Aky) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Totem](https://open.spotify.com/album/3RWSCAgGYrQxdyqqX0mglq) | 4:09 |
+| 50 | [Un autre monde \- Remasterisé en 2015](https://open.spotify.com/track/3I4ecHrrMuD8FFfFCVy4g5) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Un autre monde \(Remasterisé en 2015\)](https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3) | 4:33 |
 
 Snapshot ID: `AAAAALaeUUGjpB0sh6h1l7tzDk5CDeuj`

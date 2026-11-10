@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אביתר בנאי
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,674 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,679 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 47 | [אלוהיי, תשמור עליה](https://open.spotify.com/track/1EhbFzRdQzxJSWNPCI5t1I) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi), [OREL](https://open.spotify.com/artist/3BpWr9OLjfkuFIDWM4U0hh) | [אלוהיי, תשמור עליה](https://open.spotify.com/album/6tCrcnOWt2ypaDzA73HUWL) | 3:12 |
 | 48 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
 | 49 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
-| 50 | [In Spring](https://open.spotify.com/track/5lMgYrdMFn9yvseb8xI3lp) | [Rasco](https://open.spotify.com/artist/0wEDHyJEC4MRFEDd1TAmw0) | [In Spring](https://open.spotify.com/album/1yD4MRnUKZHnvMY009QhZM) | 3:11 |
+| 50 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
 
 Snapshot ID: `AAAAADjsrx2pl+a4LC3iB9qyxjthOMXE`

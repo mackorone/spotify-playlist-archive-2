@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,356 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,359 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 21 | [Like I \(with Andra Day\)](https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:13 |
 | 22 | [N.W.A](https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [N.W.A](https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz) | 3:50 |
 | 23 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 |
-| 24 | [How It Feels](https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 2:36 |
+| 24 | [That Way \(feat\. Jeremih & Rick Ross\)](https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 4:29 |
 | 25 | [Belly](https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:08 |
-| 26 | [That Way \(feat\. Jeremih & Rick Ross\)](https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 4:29 |
+| 26 | [How It Feels](https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 2:36 |
 | 27 | [Change](https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Change](https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq) | 4:37 |
 | 28 | [Dearly Beloved \(feat\. Jamie Foxx\)](https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Folarin II](https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9) | 1:49 |
 | 29 | [Where To Start](https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [Shotgun \(feat\. Wale\)](https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:38 |
 | 50 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
 
-Snapshot ID: `au5qAAAAAAA54oYM7NcosyToT1sOHuVw`
+Snapshot ID: `au+7gAAAAABh901H4DJe04QYi+sdq02+`

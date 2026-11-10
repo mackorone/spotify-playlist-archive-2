@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: BOM, Miranda!, Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,324 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,168 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

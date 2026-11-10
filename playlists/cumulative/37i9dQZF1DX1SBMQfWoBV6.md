@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-134 songs - 9 hr 0 min
+140 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Caved Out](https://open.spotify.com/track/3lzBhoMOytPl2SJb76MKHS) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 4:09 | 2023-05-19 |  |
 | [Circular](https://open.spotify.com/track/1t4i03W2XqBB1utNwzxJu4) | [Silentro](https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl) | [Circular](https://open.spotify.com/album/20TgQ8xgWoHQKl8xbWWxt9) | 3:25 | 2024-03-04 |  |
 | [cognition](https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR) | [theta.wav](https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W), [Droner](https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl) | [cognition](https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG) | 2:21 | 2025-02-28 |  |
+| [contrary](https://open.spotify.com/track/45h1p5CdQR0hY4GYXQEJVQ) | [Lunn Drawing](https://open.spotify.com/artist/2xGgo9Gdptc0ft6d3ip7ds) | [contrary](https://open.spotify.com/album/5VIveNznaPwWO0YQjfzDeB) | 1:37 | 2026-11-09 |  |
 | [Conversion](https://open.spotify.com/track/2GSbqrO1pSvi46KnEV8t7Q) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Conversion \- Dream House Mix](https://open.spotify.com/album/1YAQjuaR4OMMFq7Mk1QI5X) | 2:31 | 2023-11-24 |  |
 | [Cumulus Revisited](https://open.spotify.com/track/2ez9u28AzhRDfvjg3PHaro) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:54 | 2023-01-31 |  |
 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 | 2023-01-31 |  |
@@ -48,6 +49,7 @@
 | [Finding Determination](https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:56 | 2023-03-17 |  |
 | [Focus On](https://open.spotify.com/track/1ZPFtHW2s6uQc3KajMCP7l) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Focus On](https://open.spotify.com/album/0BZPrdDFhpgCD1mLYBhIan) | 3:13 | 2023-10-13 |  |
 | [Freeze](https://open.spotify.com/track/3TQQkJUq8DCgk2MA5EKBbz) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Freeze](https://open.spotify.com/album/43p8Rdk8Y4TLXVYtwpsqe9) | 3:05 | 2026-10-02 |  |
+| [futureslept](https://open.spotify.com/track/7MYYCJqUG1gx7EJvTjVzG9) | [Reso Nata](https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz) | [futureslept](https://open.spotify.com/album/0HkzHd7ayn56IWIIse17D5) | 2:04 | 2026-11-09 |  |
 | [Fyresvatn](https://open.spotify.com/track/3oXtuTObYRvhsShC7I96M5) | [Asle Bjørn](https://open.spotify.com/artist/5ktwEgR7MPFnz1QuYdUcmq) | [My Places](https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J) | 4:37 | 2023-01-31 | 2023-10-05 |
 | [Harmony Journey EMDR](https://open.spotify.com/track/1DmwX0vuWIIdUm4uTcTChO) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Harmony Journey EMDR](https://open.spotify.com/album/4KZse6hL8yvuvCDxs3vN2H) | 3:14 | 2025-05-09 |  |
 | [Hollow Streams](https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 3:56 | 2023-05-19 |  |
@@ -63,9 +65,12 @@
 | [Look Inside](https://open.spotify.com/track/10or7qxHVKgePHCIM7erOi) | [spcejnk](https://open.spotify.com/artist/3Apvi7QA59smLOrPGcI5g8) | [Look Inside](https://open.spotify.com/album/667s9T5dCsWCbzlZCsfEFB) | 3:10 | 2025-07-11 |  |
 | [Loop 5](https://open.spotify.com/track/1a9ejtUeQgDVxJ9dLkaBFd) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Melodic Loops to Relax to \(Loops 1\-10\)](https://open.spotify.com/album/0gc7IO1HmORugjwkALHoBG) | 7:37 | 2025-07-11 |  |
 | [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 | 2025-01-10 | 2025-11-22 |
+| [melatonin](https://open.spotify.com/track/4M1DsAYix2OCK8lCua3Ihg) | [eidra](https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM) | [melatonin](https://open.spotify.com/album/3RGNTlWKhz55YVhakCy1G6) | 1:50 | 2026-11-09 |  |
 | [Memories Collide](https://open.spotify.com/track/0WmNmMNmzy4IXOJhfNXIRx) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Memories Collide](https://open.spotify.com/album/27l1uX8Mjl3FATWzQzHxQF) | 5:05 | 2025-07-11 |  |
 | [Mesa](https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mesa](https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30) | 4:48 | 2023-01-31 |  |
 | [Na](https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/6Vco7xYNpXBhgHkANMHQXb) | 4:55 | 2023-01-31 |  |
+| [neon dust](https://open.spotify.com/track/1nl8ostabADa3DfmPSqfBn) | [grainx](https://open.spotify.com/artist/53NZ6wMMozM9AdQonk3zoB) | [neon dust](https://open.spotify.com/album/2kAHPEhzYSBW80u2NinXmh) | 3:11 | 2026-11-09 |  |
+| [netherworlds](https://open.spotify.com/track/7GfepFk1TaahPzLlgw9aDd) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk) | [netherworlds](https://open.spotify.com/album/6byFWEOsOmfpxpu3MS3Q7z) | 2:38 | 2026-11-09 |  |
 | [Night Hammer](https://open.spotify.com/track/661gdtPwxBK9pYp3nulHoS) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Golden Age of Dereliction](https://open.spotify.com/album/29gXtFxpaHQZIC3Ab13Q5s) | 5:24 | 2023-01-31 | 2026-04-02 |
 | [no sun, no moon](https://open.spotify.com/track/0vsXb5ggQjCF23QcDiffXA) | [eidra](https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [no sun, no moon](https://open.spotify.com/album/4KMt3TsMmo7cLINvF2KntK) | 1:55 | 2026-10-02 |  |
 | [Opalescent](https://open.spotify.com/track/4Bpx1CO7TsoaLKxQ4anISr) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/04GI4HyiQkhccc95GVAaan) | 2:11 | 2023-01-31 |  |
@@ -140,6 +145,7 @@
 | [White Fragment](https://open.spotify.com/track/2wnKNjSi5RMSIUgNMV46W7) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:11 | 2023-01-31 | 2023-11-25 |
 | [Willing Suspension of Disbelief](https://open.spotify.com/track/07JOkxdkKHffHm1YLbUhFg) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 8:07 | 2023-01-31 |  |
 | [winter disappear](https://open.spotify.com/track/2qNwg88ymnNlg0sUgpFpll) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [darkness](https://open.spotify.com/album/5ODPicbE6J8dEZ6QwMZp8j) | 2:41 | 2026-04-01 |  |
+| [With You Without](https://open.spotify.com/track/5VGl6azpzLQHzy0wKPbVZw) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [With You Without](https://open.spotify.com/album/11H4vFYvT6S8MSlP5c2bnT) | 2:33 | 2026-11-09 |  |
 | [Your Call is Important](https://open.spotify.com/track/3DJ0BDBbinvRqXS8LPfJhH) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Your Call is Important](https://open.spotify.com/album/44LJYmdiRfhqNGSUI20jpL) | 5:27 | 2025-09-15 |  |
 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 | 2023-01-31 |  |
 

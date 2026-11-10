@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,983 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,984 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 38 | [Spill](https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Spill](https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa) | 3:15 |
 | 39 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 |
 | 40 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 |
-| 41 | [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 |
-| 42 | [Be Your Boy](https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Wild](https://open.spotify.com/album/2tggKTosyVKKepsled2gaO) | 3:27 |
+| 41 | [Be Your Boy](https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Wild](https://open.spotify.com/album/2tggKTosyVKKepsled2gaO) | 3:27 |
+| 42 | [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 |
 | 43 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 44 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 |
 | 45 | [flame](https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:03 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 50 | [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch / Little Rib](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 |
 | 51 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
 | 52 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
-| 53 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 |
-| 54 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
+| 53 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
+| 54 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 |
 | 55 | [Diving \- feat\. Holly Humberstone](https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:35 |
 | 56 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
 | 57 | [End of the World](https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [End of the World](https://open.spotify.com/album/5omifXCLUvR9btSGKw90En) | 2:36 |
-| 58 | [can we just forget?](https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [can we just forget?](https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG) | 4:43 |
-| 59 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
+| 58 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
+| 59 | [can we just forget?](https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [can we just forget?](https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG) | 4:43 |
 | 60 | [Honey Water](https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 4:50 |
 | 61 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 62 | [a leith ross song](https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [a leith ross song](https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4) | 2:27 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 65 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 66 | [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 |
 | 67 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
-| 68 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
-| 69 | [Me and My Friends](https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Me and My Friends](https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd) | 3:20 |
+| 68 | [Me and My Friends](https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Me and My Friends](https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd) | 3:20 |
+| 69 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 70 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 |
 | 71 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 |
 | 72 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |

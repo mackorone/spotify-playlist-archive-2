@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,710 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,729 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 50 | [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 |
 | 51 | [It's A Wonderful World](https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:14 |
 | 52 | [How About You? \- Remastered 1998](https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:45 |
-| 53 | [I Only Have Eyes For You](https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:48 |
-| 54 | [I Get A Kick Out Of You](https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 6:21 |
+| 53 | [I Get A Kick Out Of You](https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 6:21 |
+| 54 | [I Only Have Eyes For You](https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:48 |
 | 55 | [Let's Dance](https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 2:32 |
 | 56 | [What Game Shall We Play Today](https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 4:26 |
 | 57 | [You're The Top](https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Mila Bea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,637 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,597 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 98 | [Kissing For Practice](https://open.spotify.com/track/3L3fuiq49FP38wjSGzwez7) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Kissing For Practice](https://open.spotify.com/album/3GmV0cvudoiZO7mKUEQ5Rj) | 2:43 |
 | 99 | [Immortal](https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [Immortal](https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz) | 3:28 |
 
-Snapshot ID: `AAAAAPO0iENhCxNO+TmcLqMHVwmDIpqi`
+Snapshot ID: `AAAAAD3jh8WumqvF8Pp8aP8EfWLFlHzw`

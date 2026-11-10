@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970,679 likes - 359 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,885 likes - 359 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

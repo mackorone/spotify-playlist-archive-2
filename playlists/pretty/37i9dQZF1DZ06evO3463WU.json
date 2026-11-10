@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161798,
+  "num_followers": 161803,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAC2lGX2F3Yhd0nkWMJtfAgp",
+  "snapshot_id": "au+7gAAAAAA80xFHxs8kHqcQyfmkKDjz",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/4J1HHM3K8s6iBq8bsrG1EK"
+        "name": "Pap\u00e1 Soltero",
+        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
       },
       "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2sr9me0DSRx58cJS7NFa8l"
+      "duration_ms": 255160,
+      "name": "Amor Que Mata",
+      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pap\u00e1 Soltero",
-        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
+        "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/4J1HHM3K8s6iBq8bsrG1EK"
       },
       "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Amor Que Mata",
-      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2sr9me0DSRx58cJS7NFa8l"
     },
     {
       "added_at": null,

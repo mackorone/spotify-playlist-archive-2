@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,746 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,870 likes - 80 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bela Lugosi's Dead \- The Hunger Mix](https://open.spotify.com/track/5YkxdXwkJKMYkGvui9hRs8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Bela Lugosi's Dead \(The Hunger Mix\)](https://open.spotify.com/album/1aNpufCyjQRxiINkt9Xp1g) | 6:53 |
 | 2 | [The Hanging Garden](https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 4:32 |
 | 3 | [Once Upon a Time](https://open.spotify.com/track/5OAP8HJDeVklrpLhHn7eIz) | [Robin Carolan](https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn) | [Nosferatu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x) | 0:41 |
-| 4 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
+| 4 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
 | 5 | [Incubus Succubus II](https://open.spotify.com/track/7zcicu8dsRMCOxzdcMyIYK) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/06yXOBC2Nc5cWprY03iB1U) | 4:45 |
 | 6 | [Stigmata Martyr](https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 3:46 |
-| 7 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
+| 7 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
 | 8 | [Lovesong \- Remastered](https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 3:28 |
 | 9 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 10 | [Vampiria](https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Wolfheart](https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7) | 5:35 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 60 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 61 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 62 | [Beat And The Pulse](https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8) | 4:55 |
-| 63 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
+| 63 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
 | 64 | [Don't Cling To Life](https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t) | 2:26 |
-| 65 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
-| 66 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
+| 65 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
+| 66 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
 | 67 | [Desire](https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Greatest Hits, Remixes & More](https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl) | 4:22 |
 | 68 | [Vampyre Girl \(2014\)](https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl) | [The Awakening](https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc) | [Anthology XV](https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1) | 4:12 |
 | 69 | [Allegedly, Dancefloor Tragedy](https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B) | [Suspiria](https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8) | [The Gothic Sounds Of Nightbreed Volumes One & Two](https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l) | 4:38 |

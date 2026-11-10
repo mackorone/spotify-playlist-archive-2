@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Jack Harlow, Ruben, Sval, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,793 likes - 104 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,780 likes - 104 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

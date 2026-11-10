@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-887 songs - 2 day 1 hr 49 min
+889 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-05 | 2025-06-07 |
 | [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-05-20 | 2025-06-07 |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-11-18 | 2021-06-26 |
+| [hey boyyy](https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [hey boyyy](https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga) | 4:38 | 2026-11-09 |  |
 | [Hey Hi Hello](https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Hey Hi Hello](https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p) | 3:09 | 2025-07-04 | 2026-01-24 |
 | [hi lo](https://open.spotify.com/track/7Ms7XQN4mDV3qWdkEHrFEN) | [NOA](https://open.spotify.com/artist/4wPKvnsueREFg2eOoUH6Gq) | [hi lo](https://open.spotify.com/album/09WWLiA9AZWMpywKn0ksTS) | 2:16 | 2025-02-28 | 2026-04-25 |
 | [High and Dry](https://open.spotify.com/track/5znRHTk8ihBQLkzq47hXM3) | [TRACES](https://open.spotify.com/artist/74qSjJarNp1Ilz2kp7IMdL) | [High and Dry](https://open.spotify.com/album/4903dr7fEcftLA7W2Z74L7) | 3:10 | 2020-10-13\* | 2021-02-19 |
@@ -486,6 +487,7 @@
 | [Lonely City](https://open.spotify.com/track/2r7gAghIWiDqpZE6t4ah0K) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Lonely City](https://open.spotify.com/album/4lqzfpAcP353PitY2PAH0M) | 2:37 | 2021-10-09 | 2022-04-17 |
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-09 | 2024-04-19 |
 | [Lonely Touch](https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lonely Touch](https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM) | 3:21 | 2026-01-09 | 2026-04-11 |
+| [Look at me](https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [I thought this story wasn't about me](https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ) | 3:52 | 2026-11-09 |  |
 | [Look To A Star](https://open.spotify.com/track/3Gg65zI31fM6sy7bAGzTOQ) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Look To A Star](https://open.spotify.com/album/73q30zKhxmR41pEkSmAZq6) | 3:30 | 2024-02-16 | 2024-05-25 |
 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 | 2025-05-02 | 2026-09-19 |
 | [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 | 2025-05-02 | 2026-09-19 |
@@ -497,7 +499,7 @@
 | [LOVE IS A...](https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 3:41 | 2023-05-19 | 2023-08-07 |
 | [LOVE IS A…](https://open.spotify.com/track/6CEwRvoydOQAXfteUT4OUN) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:41 | 2023-08-18 | 2023-09-25 |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-17 | 2025-03-29 |
-| [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 | 2026-07-17 |  |
+| [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 | 2026-07-17 | 2026-11-10 |
 | [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 | 2025-06-06 | 2026-05-16 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 | 2025-08-16 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2023-07-21 | 2024-04-19 |
@@ -522,7 +524,7 @@
 | [Married to Your Melody](https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su) | 2:58 | 2022-04-22 | 2022-07-28 |
 | [Mathematics](https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:26 | 2022-04-16 | 2025-11-08 |
 | [Maze](https://open.spotify.com/track/26RvvjRGW1XHfGfrAgHKdw) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Maze](https://open.spotify.com/album/0SKsEbiIcf5p48T9q5drmw) | 3:37 | 2026-07-03 |  |
-| [Me/You \(always and forever\)](https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Me/You \(always and forever\)](https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg) | 3:36 | 2026-09-18 |  |
+| [Me/You \(always and forever\)](https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Me/You \(always and forever\)](https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg) | 3:36 | 2026-09-18 | 2026-11-10 |
 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 | 2024-08-23 | 2025-01-25 |
 | [Metamorphosis](https://open.spotify.com/track/0ceif8GsGZ3C2gjqx3feud) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Metamorphosis](https://open.spotify.com/album/40zbHbbtU3HyfigfSkYpJN) | 3:33 | 2026-04-10 |  |
 | [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-27 | 2025-10-11 |

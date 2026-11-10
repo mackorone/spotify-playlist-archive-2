@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > The Indie highlights of 2014\. Cover: BANKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,621 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,653 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 44 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 |
 | 45 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 |
 | 46 | [My Silver Lining](https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI) | 3:35 |
-| 47 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
-| 48 | [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 |
+| 47 | [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 |
+| 48 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
 | 49 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 50 | [I Wanna Get Better](https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:24 |
 | 51 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 96 | [Sleeping With A Friend](https://open.spotify.com/track/6fFuOXIrVHUmSI8IM889wa) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Pop Psychology](https://open.spotify.com/album/0GWiQsYkFersPWJ0I3ZNUC) | 3:48 |
 | 97 | [Riptide](https://open.spotify.com/track/1WbYFNSUNn9fP1x0Z5DU95) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Sessions](https://open.spotify.com/album/6Udtuid2uIXkAZY6zmElfJ) | 4:13 |
 | 98 | [Mother & Father](https://open.spotify.com/track/3Nttjgkm2lDCRVFpMh22hv) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:07 |
-| 99 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 |
-| 100 | [Girls](https://open.spotify.com/track/6d8jFIWMRwhVYe7SCQwlqL) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 4:14 |
+| 99 | [Girls](https://open.spotify.com/track/6d8jFIWMRwhVYe7SCQwlqL) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 4:14 |
+| 100 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 |
 
 Snapshot ID: `AAAAAE40FFdJ7cdkLEiRTFV8w2/5Z8CJ`

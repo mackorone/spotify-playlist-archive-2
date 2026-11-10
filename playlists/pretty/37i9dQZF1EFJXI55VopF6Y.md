@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 71 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 71 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 35 | [Dive](https://open.spotify.com/track/6QziVTOnpWNHVpgCOPsABH) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:41 |
 | 36 | [Rather You Leave](https://open.spotify.com/track/4R0m1C9B2MuYVmW0NXjqyY) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:28 |
 | 37 | [Slösa din tid](https://open.spotify.com/track/0o9g7RkLi6KgoBOj7yhKKL) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Slösa din tid](https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw) | 2:34 |
-| 38 | [Puppy Luv <3](https://open.spotify.com/track/6RTnkma1flqZVmTLDlGKKS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/6llmxP5uTcFuGx2Vrk7OEn) | 2:21 |
-| 39 | [Party Baby](https://open.spotify.com/track/4ckBrQ2QsXuMKcMHjmsond) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:57 |
+| 38 | [Party Baby](https://open.spotify.com/track/4ckBrQ2QsXuMKcMHjmsond) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:57 |
+| 39 | [Puppy Luv <3](https://open.spotify.com/track/6RTnkma1flqZVmTLDlGKKS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/6llmxP5uTcFuGx2Vrk7OEn) | 2:21 |
 | 40 | [BRINGING TO THE TABLE](https://open.spotify.com/track/2bBcpzGbc9Xe0oumISMarC) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRT ON MY HANDS](https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed) | 2:46 |
 | 41 | [Alright](https://open.spotify.com/track/2OOx9fgzwR1A7mJuldIWvO) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Alright](https://open.spotify.com/album/7f4I2kZbkzPtxDdi3qX30S) | 2:54 |
 | 42 | [little things](https://open.spotify.com/track/7HPG4wUGKWT63rsyYGhmbc) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [everything, in time](https://open.spotify.com/album/5QknArSibMONi8qaAWn4OQ) | 3:33 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 70 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 71 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AchJ2AAAAACVYbMUDlCWIYvqXxGFEW6m`
+Snapshot ID: `AchP8AAAAADchUQWQSwIhD87u8QaFp4Q`

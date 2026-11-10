@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513236,
+  "num_followers": 513230,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Home Cookin'",
-      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Home Cookin'",
+      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -267,26 +267,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
-      },
-      "artists": [
-        {
-          "name": "The Bahama Soul Club",
-          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
-        },
-        {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
-        }
-      ],
-      "duration_ms": 221954,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "The Best Of Chick Corea",
         "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
       },
@@ -307,18 +287,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Trumpet Evolution",
-        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
       "artists": [
         {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+          "name": "The Bahama Soul Club",
+          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
+      "duration_ms": 221954,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -335,6 +319,22 @@
       "duration_ms": 357120,
       "name": "The Feeling Of Jazz",
       "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Trumpet Evolution",
+        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Manteca",
+      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
-      },
-      "artists": [
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "El Cervatillo",
         "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 307519,
       "name": "El Cervatillo",
       "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
+      },
+      "artists": [
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 349165,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 349165,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 250082,
-      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "cuarto de colores",
         "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 214300,
       "name": "Piscis",
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 250082,
+      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Colob\u00f3",
-        "url": "https://open.spotify.com/album/28uSFqiSMUzZyQOrD7IEA5"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        }
-      ],
-      "duration_ms": 359335,
-      "name": "Colob\u00f3",
-      "url": "https://open.spotify.com/track/43BkOsYBrtPJZSOWahpe7Q"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Expectativas",
         "url": "https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 256266,
       "name": "Chamber Timba",
       "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Colob\u00f3",
+        "url": "https://open.spotify.com/album/28uSFqiSMUzZyQOrD7IEA5"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 359335,
+      "name": "Colob\u00f3",
+      "url": "https://open.spotify.com/track/43BkOsYBrtPJZSOWahpe7Q"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Sonero: The Music of Ismael Rivera",
-        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        }
-      ],
-      "duration_ms": 427964,
-      "name": "Qu\u00edtate de la V\u00eda, Perico",
-      "url": "https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "The Dreamer Is The Dream",
         "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
       },
@@ -1659,22 +1643,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Tu, la Tierra",
-        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
+        "name": "Sonero: The Music of Ismael Rivera",
+        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
       },
       "artists": [
         {
-          "name": "Alvaro Rojas",
-          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
-        },
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
         }
       ],
-      "duration_ms": 237186,
-      "name": "Tu, la Tierra",
-      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
+      "duration_ms": 427964,
+      "name": "Qu\u00edtate de la V\u00eda, Perico",
+      "url": "https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1695,6 +1675,42 @@
       "duration_ms": 354049,
       "name": "Blue Hughes",
       "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Tu, la Tierra",
+        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Rojas",
+          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
+        },
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "Tu, la Tierra",
+      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Border-Free",
+        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 549366,
+      "name": "Congadanza",
+      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1731,22 +1747,6 @@
       "duration_ms": 345370,
       "name": "El Regreso (feat. Martin Bejerano)",
       "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Border-Free",
-        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 549366,
-      "name": "Congadanza",
-      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 350062,
       "name": "Last Happy Hour (feat. Martin Bejerano)",
       "url": "https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     }
   ],
   "unique_name": "Latin Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating Tems' debut " For Broken Ears"
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,715 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,804 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 28 | [Come Over](https://open.spotify.com/track/7b3NF9xMKOd5p1HH3Y760e) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/42PYBhtsi4gxaHHKKXk4WB) | 4:08 |
 | 29 | [Lo Lo](https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL) | 2:51 |
 | 30 | [Zoom](https://open.spotify.com/track/1Sk9EP4wMtXWhVMfcsWi2k) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Razor](https://open.spotify.com/album/6KhaMJdfAPIXxX5I56lZI3) | 3:24 |
-| 31 | [Beggie Beggie](https://open.spotify.com/track/39Mt7PigFFy62B5A5uYvxI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:28 |
-| 32 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 |
+| 31 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 |
+| 32 | [Beggie Beggie](https://open.spotify.com/track/39Mt7PigFFy62B5A5uYvxI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:28 |
 | 33 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 |
 | 34 | [Again \- Remix](https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 3:11 |
 | 35 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 |
-| 36 | [Away](https://open.spotify.com/track/6QiWZzGzYL2hDAxOp3bKLd) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/4BL8M68hy6nqNXUo2kvZ0G) | 2:49 |
-| 37 | [Too Bad](https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 3:55 |
+| 36 | [Too Bad](https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 3:55 |
+| 37 | [Away](https://open.spotify.com/track/6QiWZzGzYL2hDAxOp3bKLd) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/4BL8M68hy6nqNXUo2kvZ0G) | 2:49 |
 | 38 | [I Do](https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 2:43 |
 | 39 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 |
 | 40 | [FEM](https://open.spotify.com/track/71EKIFqUvCAT1WK1g4tnBa) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FEM](https://open.spotify.com/album/2vt6tirj8PxYErbB7GpkBG) | 3:22 |

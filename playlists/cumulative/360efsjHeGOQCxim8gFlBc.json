@@ -2856,10 +2856,28 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 179187,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/18zeBaioTJC861Fxs44L7c"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/6tWXP5PyqTPdhprUp78BWk"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179187,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2DdqDaZhr1lrY4jya6iHRw"
     },
     {
       "album": {
@@ -4210,7 +4228,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 100666,
       "name": "Drifting Silence (with rain)",
       "url": "https://open.spotify.com/track/1z5Cu5psEh4fd6Ugfx6Pvq"
@@ -4952,7 +4970,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 92500,
       "name": "Falling Petals (with rain)",
       "url": "https://open.spotify.com/track/1j7W4VbKf7jMqhVgbBPw5W"
@@ -8850,7 +8868,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 91384,
       "name": "Lilypads & Light",
       "url": "https://open.spotify.com/track/59LcUvNPW9XJuz6vkCI7LP"
@@ -13478,7 +13496,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 90666,
       "name": "Shadows on the Water (with rain)",
       "url": "https://open.spotify.com/track/2UAzUffZq3HmKrG5eO5JFN"
@@ -15064,7 +15082,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 94458,
       "name": "Still Waters (with rain)",
       "url": "https://open.spotify.com/track/4Hw273dIBVi0B2AyGNYY9v"
@@ -17084,7 +17102,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 91750,
       "name": "Velvet Dusk (with rain)",
       "url": "https://open.spotify.com/track/0ZTsepTg8kyunQ1JKCbrxN"
@@ -17872,7 +17890,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 93791,
       "name": "Whispering Leaves (with rain)",
       "url": "https://open.spotify.com/track/74RynVZnzzxJyfW42BveNi"

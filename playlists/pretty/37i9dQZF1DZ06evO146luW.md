@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,781 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,784 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 23 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 |
 | 24 | [Feel Better](https://open.spotify.com/track/6hYiwLZyGQ0hYlLLTzQMzg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 3:46 |
 | 25 | [Oklahoma Sun](https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:36 |
-| 26 | [Cold & Alone](https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:18 |
+| 26 | [Kuntry & Wistern](https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:01 |
 | 27 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
 | 28 | [Sober Sunday](https://open.spotify.com/track/6uzJmSCgxBMu9cIyYfFUKr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 4:42 |
 | 29 | [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 |
-| 30 | [Kuntry & Wistern](https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:01 |
+| 30 | [Cold & Alone](https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:18 |
 | 31 | [L.T.W.Y.H.M.](https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:29 |
 | 32 | [I'm Done](https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:30 |
 | 33 | [Lonely as It Gets](https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 49 | [Gravedigger](https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:00 |
 | 50 | [Gunshy \(Re\-recorded\)](https://open.spotify.com/track/2rbme7pc6goqI4wMcqIJEY) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Six String Sorrow Sessions](https://open.spotify.com/album/1az69IUJwlDGbVdpmrFaAN) | 4:48 |
 
-Snapshot ID: `au0YgAAAAAAaLm0uwhpBES9sS/Cvql9e`
+Snapshot ID: `au+7gAAAAAC7nLqGKtD8pWa9IhFtFRaB`

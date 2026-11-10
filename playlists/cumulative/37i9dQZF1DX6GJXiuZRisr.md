@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-715 songs - 2 day 0 hr 51 min
+716 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Vertigo](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Vertigo](https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j) | 3:09 | 2022-11-18 | 2024-06-09 |
 | [Vertigo](https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Vertigo](https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU) | 3:36 | 2023-06-23 | 2024-05-03 |
 | [Violet Sea](https://open.spotify.com/track/1f33u4p19t1nWX6t4vtps9) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Violet Sea + Aura](https://open.spotify.com/album/4LeAQhY0P24q2mvynao92G) | 3:48 | 2021-05-07 | 2022-04-20 |
+| [VISIONS](https://open.spotify.com/track/2ynp3xX9DVxUpZEZIMvYiO) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [VISIONS](https://open.spotify.com/album/0yG0Z8DBUK71NVxtSIUI5e) | 3:37 | 2026-10-16 |  |
 | [VLEKNO](https://open.spotify.com/track/0C1BD8MccXokM9YIUDcjWm) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tranquility Base Vol\. 1](https://open.spotify.com/album/5fC0IDTURADF9bMs3FqomK) | 2:41 | 2023-05-26 | 2023-06-24 |
 | [Void](https://open.spotify.com/track/5uVR4B3m24uI0zyNfjmLfu) | [ArtLec](https://open.spotify.com/artist/2aqJXiggBZaS7nbLUMTMKo) | [Void \- Crow](https://open.spotify.com/album/6wRh1QsfpcavIawneQZGUd) | 3:29 | 2021-05-07 | 2022-04-18 |
 | [Volition](https://open.spotify.com/track/0nGRMJGfNJVY9SNGckjP04) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Cronus / Volition](https://open.spotify.com/album/5yMK9RyecHKtrkFYfI7ye4) | 4:52 | 2021-12-10 | 2022-07-25 |
@@ -703,7 +704,7 @@
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-06-09 | 2024-12-07 |
 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-12 | 2025-10-04 |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-07 | 2026-04-18 |
-| [Wherever You Go](https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Wherever You Go](https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT) | 3:17 | 2025-03-14 |  |
+| [Wherever You Go](https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Wherever You Go](https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT) | 3:17 | 2025-03-14 | 2026-11-10 |
 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 | 2024-07-26 |  |
 | [Win Win \- Yotto Remix](https://open.spotify.com/track/6n8Rao9bqH5zQnXiY6d7tr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Win Win \(Yotto Remix\)](https://open.spotify.com/album/0lMeXS3yHep1snwNDuBKNG) | 4:03 | 2021-05-07 | 2022-04-21 |
 | [With You](https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [With You](https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP) | 3:15 | 2022-11-11 | 2023-03-02 |

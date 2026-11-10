@@ -4,7 +4,7 @@
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-90 songs - 6 hr 44 min
+91 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [I Learned from the Best](https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:19 | 2023-07-28 |  |
 | [I Look to You](https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 4:25 | 2023-07-28 |  |
 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 | 2023-07-28 |  |
-| [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4) | 3:38 | 2025-09-16 |  |
+| [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/1KGG3xSz0o8Tpf93ocgXH6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:38 | 2026-11-10 |  |
+| [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4) | 3:38 | 2025-09-16 | 2026-11-10 |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:52 | 2023-07-28 |  |
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2023-07-28 |  |
 | [I Will Always Love You \- Film Version](https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wish You Love: More From The Bodyguard](https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV) | 4:34 | 2023-07-28 |  |

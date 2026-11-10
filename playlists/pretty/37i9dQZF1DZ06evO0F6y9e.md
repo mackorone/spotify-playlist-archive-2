@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,256 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,402 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 17 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
 | 18 | [Se Fue La Pantera \- En Vivo](https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx) | 3:22 |
 | 19 | [Amor Factura](https://open.spotify.com/track/3cZgBPSMbcbpfLfpmv54Nq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Factura](https://open.spotify.com/album/3tyAXoOG4Q2nAs705ujxsy) | 3:57 |
-| 20 | [Vuelve](https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Vuelve](https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5) | 2:52 |
-| 21 | [El Mundo a Tus Pies](https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm) | 2:56 |
+| 20 | [El Mundo a Tus Pies](https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm) | 2:56 |
+| 21 | [Vuelve](https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Vuelve](https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5) | 2:52 |
 | 22 | [Modo Difícil](https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Modo Difícil](https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI) | 3:21 |
 | 23 | [Felicidades](https://open.spotify.com/track/3RxqFMGljx897MC9yApidW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Felicidades](https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl) | 3:09 |
 | 24 | [Hubiéramos](https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:49 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 37 | [Descuide](https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Descuide](https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK) | 3:25 |
 | 38 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/78qgcRHfy0y0e39nz34m64) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/album/4mdoJ7m4r9bd6nzr28ooCG) | 2:47 |
 | 39 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH) | 4:10 |
-| 40 | [C Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [C Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 |
-| 41 | [Deja \(En Vivo\)](https://open.spotify.com/track/061ZBrJy7HX9bSQR0uw77g) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 3:34 |
+| 40 | [Deja \(En Vivo\)](https://open.spotify.com/track/061ZBrJy7HX9bSQR0uw77g) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 3:34 |
+| 41 | [C Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [C Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 |
 | 42 | [Lujos y Secretos](https://open.spotify.com/track/6V9ZXuiHRGVU1sblM9LRbZ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Quinto V Imperio](https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Lujos y Secretos](https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx) | 2:45 |
 | 43 | [Hasta Que un día](https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta Que un día](https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK) | 2:50 |
 | 44 | [Ctrl + Z \- En Vivo](https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ctrl + Z \(En Vivo\)](https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Gracias \- En Vivo](https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo) | 3:55 |
 | 50 | [Te Equivocaste \(En Vivo\)](https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:35 |
 
-Snapshot ID: `au5qAAAAAAC7d0qx51FVA9GXjzli/7Pa`
+Snapshot ID: `au+7gAAAAAD7QcEAs7hcjIz1Z7a2FYIG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,549 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,687 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 58 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
 | 59 | [Plane Vs\. Tank Vs\. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 2:02 |
 | 60 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
-| 61 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
-| 62 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 61 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 62 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
 | 63 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 64 | [Sic Transit Gloria ..\. Glory Fades](https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 3:06 |
 | 65 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 79 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
 | 80 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
 | 81 | [Emily](https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 2:39 |
-| 82 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 |
-| 83 | [The Mixed Tape \- 2015 Remastered](https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit](https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM) | 3:14 |
+| 82 | [The Mixed Tape \- 2015 Remastered](https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit](https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM) | 3:14 |
+| 83 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 |
 | 84 | [All over You](https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [No Really, I'm Fine \(Standard Version\)](https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj) | 3:22 |
 | 85 | [Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 2:28 |
 | 86 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 89 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 90 | [L.G\. FUAD](https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:06 |
 | 91 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
-| 92 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
-| 93 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
+| 92 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
+| 93 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
 | 94 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
 | 95 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
 | 96 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 |

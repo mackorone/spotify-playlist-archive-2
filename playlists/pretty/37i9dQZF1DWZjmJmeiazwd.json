@@ -1,6 +1,6 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 717816,
+  "num_followers": 717882,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
+        "name": "Story Of My Life (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 191124,
+      "name": "Story Of My Life (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
         "name": "ONE MORE TIME...",
         "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
@@ -1347,30 +1371,6 @@
       "duration_ms": 291812,
       "name": "Parasite Eve",
       "url": "https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
-        "name": "Story Of My Life (feat. Trippie Redd)",
-        "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 191124,
-      "name": "Story Of My Life (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
     },
     {
       "added_at": "2026-03-02 16:13:57",

@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 44908,
+  "num_followers": 44912,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACoUvCcjhng7xsi833qHmcz",
+  "snapshot_id": "au+7gAAAAAAKnqaqKhMtav5tyPDb1Zct",
   "tracks": [
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
       "artists": [
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 167733,
-      "name": "Sincerely Me",
-      "url": "https://open.spotify.com/track/2r4ANDbGuwFVv5zTjJPrTZ"
+      "duration_ms": 178823,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
     },
     {
       "added_at": null,
@@ -363,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Sound",
-        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
       "artists": [
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 178823,
-      "name": "Part of Your World",
-      "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
+      "duration_ms": 167733,
+      "name": "Sincerely Me",
+      "url": "https://open.spotify.com/track/2r4ANDbGuwFVv5zTjJPrTZ"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Listen To Your Friends",
-      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
+      "duration_ms": 182945,
+      "name": "Good To Go",
+      "url": "https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w"
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 182945,
-      "name": "Good To Go",
-      "url": "https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS"
+      "duration_ms": 199706,
+      "name": "Listen To Your Friends",
+      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+        "name": "Radiosurgery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 195026,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N"
+      "duration_ms": 122582,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
     }
   ],
   "unique_name": "This Is New Found Glory",

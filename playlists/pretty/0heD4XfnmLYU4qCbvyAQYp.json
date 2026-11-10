@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAPTn7SpWSuNl6dmIPWUOQYOvY3TE4O",
+  "snapshot_id": "AAAPT9jxtrazBAazWkwMZvdTOTkdeGYZ",
   "tracks": [
+    {
+      "added_at": "2026-11-09 20:24:42",
+      "album": {
+        "name": "I rule my mind",
+        "url": "https://open.spotify.com/album/7A6TGezokbl9RmjYYslpuW"
+      },
+      "artists": [
+        {
+          "name": "Gengvej",
+          "url": "https://open.spotify.com/artist/5orPYxWUhMUSVZoXTXBqoW"
+        }
+      ],
+      "duration_ms": 164189,
+      "name": "I rule my mind",
+      "url": "https://open.spotify.com/track/3GvbjqSPnaXH5fjG46Kzbm"
+    },
     {
       "added_at": "2026-10-27 07:51:02",
       "album": {

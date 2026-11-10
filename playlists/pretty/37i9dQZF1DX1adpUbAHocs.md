@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,160 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,102 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 27 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 |
 | 28 | [Salt And The Sea](https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ) | 4:30 |
 | 29 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
-| 30 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
-| 31 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
+| 30 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
+| 31 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
 | 32 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 |
 | 33 | [Highs & Lows](https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Highs & Lows](https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8) | 3:29 |
 | 34 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 81 | [Rolling Sea](https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 5:18 |
 | 82 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
 | 83 | [Jara](https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:09 |
-| 84 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
-| 85 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
+| 84 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
+| 85 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
 | 86 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 |
 | 87 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 88 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 |

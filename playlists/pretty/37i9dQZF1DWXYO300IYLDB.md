@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,654 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,649 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 64 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
 | 65 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 |
 | 66 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
-| 67 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
-| 68 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
+| 67 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
+| 68 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
 | 69 | [Six Degrees](https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA) | 3:14 |
 | 70 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 71 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |

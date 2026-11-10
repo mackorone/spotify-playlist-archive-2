@@ -1,12 +1,12 @@
 {
   "description": "This is H.E.R.. The essential tracks, all in one playlist.",
-  "num_followers": 263809,
+  "num_followers": 263816,
   "original_name": "This Is H.E.R.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACGBheCD9gxH3TRiZw/AXWO",
+  "snapshot_id": "au+7gAAAAACZ74ao/EzGv8sw+W1CPINo",
   "tracks": [
     {
       "added_at": null,
@@ -555,42 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold Us Together (Hope Mix)",
-        "url": "https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 278108,
-      "name": "Hold Us Together - Hope Mix",
-      "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 219677,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
@@ -611,6 +575,42 @@
       "duration_ms": 212076,
       "name": "Chronicles (feat. H.E.R. & Lil Durk)",
       "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 219677,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold Us Together (Hope Mix)",
+        "url": "https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 278108,
+      "name": "Hold Us Together - Hope Mix",
+      "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "I Don't Want Your Money (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spell My Name",
         "url": "https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 258125,
       "name": "Gotta Move On (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "I Don't Want Your Money (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN"
     },
     {
       "added_at": null,

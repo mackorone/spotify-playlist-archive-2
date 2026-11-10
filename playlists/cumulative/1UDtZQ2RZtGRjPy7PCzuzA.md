@@ -4,7 +4,7 @@
 
 > 
 
-2,269 songs - 5 day 11 hr 27 min
+2,271 songs - 5 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 | 2026-06-18 |  |
 | [Call Me Mercy](https://open.spotify.com/track/2QMAkTQKMtrcE5xk3N65F4) | [Julia Harriman](https://open.spotify.com/artist/4pBuF0Sfo9lU7fA3ToTQ2i) | [Warriors](https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl) | 2:05 | 2024-11-09 |  |
 | [Call On Me \- Full Phatt Radio Remix](https://open.spotify.com/track/0jWKaI4i1haxFSCrIeVA64) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Matt Ward](https://open.spotify.com/artist/5u4TJDB53ZDkB9ueZ6A2fm), [Dean Gillard](https://open.spotify.com/artist/5IMltI7AzMZmM9TdapGK8w), [M Ward](https://open.spotify.com/artist/5hZluVpYWLqusV1LuEhmNA) | [Call On Me \(Full Phatt Radio Remix\)](https://open.spotify.com/album/4aZVCwljiugKfkYMIUPQIX) | 3:33 | 2026-06-18 |  |
+| [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3guGAtyo4OMdTZzOshIugb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:38 | 2026-11-09 |  |
 | [called you again](https://open.spotify.com/track/0yRpcT1UQgmILgqIMD0ig7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc) | 3:12 | 2026-07-04 |  |
 | [Camden](https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:06 | 2025-06-11 | 2026-06-01 |
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2026-08-13 |  |
@@ -1661,6 +1662,7 @@
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2025-12-31 |  |
 | [Signs](https://open.spotify.com/track/6DDEfqOoLlasIbPdzboOu4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:53 | 2025-02-20 | 2026-10-23 |
 | [Silver Spoon](https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Silver Spoon](https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ) | 4:14 | 2026-09-25 |  |
+| [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 | 2026-11-09 |  |
 | [Simple Things](https://open.spotify.com/track/2tUwCO3XQ9DXdTeW9oQuce) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:20 | 2026-02-20 | 2026-06-28 |
 | [Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:08 | 2025-09-14 |  |
 | [Since U Been Gone](https://open.spotify.com/track/33Psn9Le39Aqr0fhryNBBd) | [Lorna Courtney](https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap), [Original Broadway Cast of & Juliet](https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo) | [& Juliet \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD) | 2:38 | 2026-08-15 |  |

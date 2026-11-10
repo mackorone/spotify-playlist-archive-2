@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,608 likes - 81 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,587 likes - 81 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "That summer sound.",
-  "num_followers": 2056787,
+  "num_followers": 2056546,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        },
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        },
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158964,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "TQM",
-        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158964,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2026-07-17 04:15:30",

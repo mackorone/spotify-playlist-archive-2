@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 395183,
+  "num_followers": 395234,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
-      },
-      "artists": [
-        {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
-        }
-      ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Your Queen Is A Reptile",
         "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 314693,
       "name": "My Queen Is Albertina Sisulu",
       "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Here Come The Lords",
         "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 166400,
       "name": "Lord Jazz Hit Me One Time (Make It Funky)",
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
     },
     {
-      "added_at": "2024-03-26 13:55:21",
-      "album": {
-        "name": "The People Tree",
-        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "Apple Green",
-      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "In the Hand of the Inevitable",
@@ -735,6 +719,22 @@
       "duration_ms": 294240,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
+    },
+    {
+      "added_at": "2024-03-26 13:55:21",
+      "album": {
+        "name": "The People Tree",
+        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "Apple Green",
+      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+      },
+      "artists": [
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "duration_ms": 472690,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
+    },
+    {
       "added_at": "2026-10-02 04:00:35",
       "album": {
         "name": "Snap, Crackle & Bop!",
@@ -867,22 +883,6 @@
       "duration_ms": 278752,
       "name": "We Like That",
       "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
-      },
-      "artists": [
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
-        }
-      ],
-      "duration_ms": 472690,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1461,26 +1461,6 @@
       "url": "https://open.spotify.com/track/2iruUpQD0YhqePMyyzhaaU"
     },
     {
-      "added_at": "2025-03-21 04:00:36",
-      "album": {
-        "name": "Silver Rings",
-        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
-      },
-      "artists": [
-        {
-          "name": "New Street Adventure",
-          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
-        },
-        {
-          "name": "Nick Corbin",
-          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Silver Rings",
-      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "The Sun )",
@@ -1499,6 +1479,26 @@
       "duration_ms": 176342,
       "name": "The Sun )",
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
+    },
+    {
+      "added_at": "2025-03-21 04:00:36",
+      "album": {
+        "name": "Silver Rings",
+        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
+      },
+      "artists": [
+        {
+          "name": "New Street Adventure",
+          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
+        },
+        {
+          "name": "Nick Corbin",
+          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
+        }
+      ],
+      "duration_ms": 178264,
+      "name": "Silver Rings",
+      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Prince Of Peace",
+      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7o6XzFc6ZwdmqW8tDxlHyk"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 246840,
       "name": "Look Inside",
       "url": "https://open.spotify.com/track/4CGoEKup84yKbG9r6eYd4A"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     }
   ],
   "unique_name": "Acid Jazz",

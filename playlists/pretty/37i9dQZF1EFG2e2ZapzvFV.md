@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 99 | [This Time \(Serious Symptoms, Simple Solutions\)](https://open.spotify.com/track/3Bk0xlc3K75UQzqW8U4yIk) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:18 |
 | 100 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 |
 | 101 | [Life After](https://open.spotify.com/track/1am1MtgDcihuuP3crGeugt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 2:50 |
-| 102 | [Yellow of the Sun](https://open.spotify.com/track/1sopAWv0BToiOT2wAunyuV) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:51 |
-| 103 | [Flowers](https://open.spotify.com/track/2GCf6BF7vIqwPMmArZOeKS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:26 |
+| 102 | [Flowers](https://open.spotify.com/track/2GCf6BF7vIqwPMmArZOeKS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:26 |
+| 103 | [Yellow of the Sun](https://open.spotify.com/track/1sopAWv0BToiOT2wAunyuV) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:51 |
 | 104 | [Full Blown Love](https://open.spotify.com/track/3gkHtnfFxOD2Ts1WYIqYlh) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:30 |
 | 105 | [Okay](https://open.spotify.com/track/4fdo8V4TLA1aonfI4NxFjE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:53 |
 | 106 | [Pretty](https://open.spotify.com/track/1X2npDWQpg9lvM8MOw2mqm) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Unfortunately, Terror Jr](https://open.spotify.com/album/6b2KfLOzzs3nOKKaPbi47J) | 3:15 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 182 | [Buzzcut](https://open.spotify.com/track/7MtoF9z1wMtDqjbS7SJtEQ) | [St\. Augustine](https://open.spotify.com/artist/64Z3eqSabqBVpnGRRaUAfD) | [DEMOS](https://open.spotify.com/album/7zQ8bD7zGpk27yc2tHf6FN) | 3:48 |
 | 183 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AchKCgAAAAC0BNtzwuEiQ3iMntz3Wrvv`
+Snapshot ID: `AchP5gAAAAATNgQbbeC+nGeEIIOmSjWg`

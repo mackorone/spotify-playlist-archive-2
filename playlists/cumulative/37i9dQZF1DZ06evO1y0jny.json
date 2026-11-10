@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 137088,
       "name": "Anahulu",
       "url": "https://open.spotify.com/track/3GSevoaiKN4XIFNgJO9y19"
@@ -74,6 +74,24 @@
       "duration_ms": 190614,
       "name": "Dancing Under the Stars",
       "url": "https://open.spotify.com/track/4x7ZnyIhJRSoCXWwb9StkK"
+    },
+    {
+      "album": {
+        "name": "Anahulu",
+        "url": "https://open.spotify.com/album/0jdjbkb54AhyAQQKNzwwnt"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209991,
+      "name": "E Mau ka Ha\u02bbaheo o Pauahilani",
+      "url": "https://open.spotify.com/track/5QyGFWWi193U6aiakBmTRV"
     },
     {
       "album": {

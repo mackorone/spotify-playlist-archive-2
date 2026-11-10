@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: RESCENE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,924 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,911 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 18 | [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 |
 | 19 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
 | 20 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 |
-| 21 | [GRLS](https://open.spotify.com/track/1TtqALMlSp0o2RUu91Auz8) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 2:49 |
+| 21 | [Moonride](https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Moonride](https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG) | 2:56 |
 | 22 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
-| 23 | [Moonride](https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Moonride](https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG) | 2:56 |
+| 23 | [GRLS](https://open.spotify.com/track/1TtqALMlSp0o2RUu91Auz8) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 2:49 |
 | 24 | [Suddenly](https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [I.O.I 3rd MINI ALBUM \[I.O.I : LOOP\]](https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp) | 3:15 |
 | 25 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
 | 26 | [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 |

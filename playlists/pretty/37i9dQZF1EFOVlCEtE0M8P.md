@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381 likes - 298 songs - 17 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,380 likes - 298 songs - 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,9 +134,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 124 | [Wouldn't Be Love](https://open.spotify.com/track/6x7Q6sYuLRRlF3hkoGBQUO) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 3:45 |
 | 125 | [Feel For You](https://open.spotify.com/track/2d9459rCOb4K0xypqo3qK8) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:39 |
 | 126 | [Messiah](https://open.spotify.com/track/1KmvFKwJO3oK7e2rIz2OdG) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:43 |
-| 127 | [5000 Miles](https://open.spotify.com/track/1BlxRw4sjdcY2XkIReXs0q) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/6qbT3AEKNboKlotkOo6Yfr) | 3:31 |
-| 128 | [Bomba](https://open.spotify.com/track/1foglYjabYgq2PnG1IlMsz) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 3:39 |
-| 129 | [D i s t a n c e](https://open.spotify.com/track/0mzNuvoGJQuZ2Dk21Ru7lF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:22 |
+| 127 | [D i s t a n c e](https://open.spotify.com/track/0mzNuvoGJQuZ2Dk21Ru7lF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:22 |
+| 128 | [5000 Miles](https://open.spotify.com/track/1BlxRw4sjdcY2XkIReXs0q) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/6qbT3AEKNboKlotkOo6Yfr) | 3:31 |
+| 129 | [Bomba](https://open.spotify.com/track/1foglYjabYgq2PnG1IlMsz) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 3:39 |
 | 130 | [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 |
 | 131 | [Lie To Me](https://open.spotify.com/track/4KRdv66BiKGL4wNEhKmGYW) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Open Up Your Head](https://open.spotify.com/album/65YsNAuX9dJ7fVIKicT0d1) | 3:19 |
 | 132 | [Smile](https://open.spotify.com/track/6YJZ2uD1DwRUx2inm8g9kr) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Smile](https://open.spotify.com/album/4mKGz8LpzNFzhXHxeadZfi) | 2:56 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 149 | [Mr\. Diva](https://open.spotify.com/track/0aItLBbKuK6DXwUL7v46Tq) | [Jeffree Star](https://open.spotify.com/artist/0ZVqyfTk5GaaRiQNQaW9jg) | [Mr\. Diva \- EP](https://open.spotify.com/album/6QRuYRIVmLpS1YZGcPChYh) | 4:07 |
 | 150 | [Mania](https://open.spotify.com/track/3DmYeRGkCXxoxz3BiiBQNN) | [overrated](https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV), [r0pss](https://open.spotify.com/artist/1mYWtRJaiRhifspJSQ3BEj), [frailty](https://open.spotify.com/artist/4BrY7O6ooTJJB9vShnM50Y) | [Mania](https://open.spotify.com/album/09kovsHVqfARXDGMq0Ayud) | 2:43 |
 | 151 | [Chaos](https://open.spotify.com/track/5Z9wSJzIPUUHohUjVKZ5vl) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:41 |
-| 152 | [Call](https://open.spotify.com/track/0GCD5WOLFUVJMujQOWUrs3) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Call](https://open.spotify.com/album/76C2FYAWtNCxBeKWyi85Fz) | 3:30 |
-| 153 | [Slide](https://open.spotify.com/track/7HJ86cmPozGoxEFjntcMzp) | [LPX](https://open.spotify.com/artist/7xmK7SfecrmjqsiIoSa1uf) | [Slide](https://open.spotify.com/album/4JXMgekPtqjDcnrlERWiGS) | 4:13 |
+| 152 | [Slide](https://open.spotify.com/track/7HJ86cmPozGoxEFjntcMzp) | [LPX](https://open.spotify.com/artist/7xmK7SfecrmjqsiIoSa1uf) | [Slide](https://open.spotify.com/album/4JXMgekPtqjDcnrlERWiGS) | 4:13 |
+| 153 | [Call](https://open.spotify.com/track/0GCD5WOLFUVJMujQOWUrs3) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Call](https://open.spotify.com/album/76C2FYAWtNCxBeKWyi85Fz) | 3:30 |
 | 154 | [Interlude](https://open.spotify.com/track/5e8CJGh7vwV94l5csY2TIM) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 1:43 |
 | 155 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
 | 156 | [Intro](https://open.spotify.com/track/2oWvt0oERpusVJDG6kQoUo) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 1:27 |
@@ -247,8 +247,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 237 | [Love Makes You Do Crazy Things](https://open.spotify.com/track/6QldjjkwxMwjS09D9z6zFt) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:45 |
 | 238 | [For The Weekend](https://open.spotify.com/track/3aEL5BEVGThlYhaYPVmO50) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 2:48 |
 | 239 | [Possessed](https://open.spotify.com/track/5MUzO83XyuikiIyPAy2Yr6) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:49 |
-| 240 | [Different Kinds Of Love](https://open.spotify.com/track/26gSCV21Oa7OPDW70R0a5h) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [11 Past The Hour](https://open.spotify.com/album/2kw9020TKoe8O2hKliVWZu) | 3:01 |
-| 241 | [Dancer in the Sky](https://open.spotify.com/track/7taNEMT7XqxYEOMxkwv5bc) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:31 |
+| 240 | [Dancer in the Sky](https://open.spotify.com/track/7taNEMT7XqxYEOMxkwv5bc) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:31 |
+| 241 | [Different Kinds Of Love](https://open.spotify.com/track/26gSCV21Oa7OPDW70R0a5h) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [11 Past The Hour](https://open.spotify.com/album/2kw9020TKoe8O2hKliVWZu) | 3:01 |
 | 242 | [Part of Me](https://open.spotify.com/track/5MeJdfZ0TTyTHR9TkKawTU) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:41 |
 | 243 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 |
 | 244 | [Romantic](https://open.spotify.com/track/3sr4RsgNNoNMTx6L7J4qNo) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [That Really Long Night](https://open.spotify.com/album/472PYfaPfE7wVMajuRX4V1) | 4:04 |
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 297 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 298 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `AchJ7AAAAAD1pXpvo4DgcGzmKF+IzJiM`
+Snapshot ID: `AchQBAAAAAAotqKqFmlkgjAKjBIkfZ3s`

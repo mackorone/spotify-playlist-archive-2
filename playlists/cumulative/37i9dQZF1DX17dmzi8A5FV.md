@@ -4,7 +4,7 @@
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-171 songs - 11 hr 12 min
+172 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-12-23 |  |
 | [End Of The Road](https://open.spotify.com/track/6ITPK0Iw3OfdqSEWimISst) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Expanded Edition\)](https://open.spotify.com/album/1Uh5vHKID0YFIpCJf0Y4DN) | 5:49 | 2022-03-09 | 2022-07-29 |
 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 | 2021-04-29 |  |
+| [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2024-06-04 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2022-05-17 | 2022-12-24 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2021-04-29 | 2022-07-16 |
 | [Everybody Get Up \- Radio Edit](https://open.spotify.com/track/0WGn8xhpPumX73lECUY5Yo) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:03 | 2022-12-23 |  |
@@ -152,7 +153,7 @@
 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 | 2022-12-23 |  |
 | [Thank God I Found You \(feat\. Joe & 98°\)](https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:17 | 2022-05-17 | 2022-12-24 |
 | [Thank God I Found You \(feat\. Joe & 98°\)](https://open.spotify.com/track/0RPnQCfta3EGQcy7ofaSLx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Thank God I Found You](https://open.spotify.com/album/1A39QlrFMdUULY1WXXWipk) | 4:17 | 2022-03-09 | 2022-07-29 |
-| [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 | 2022-12-23 |  |
+| [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 | 2022-12-23 | 2026-11-10 |
 | [The Day We Find Love](https://open.spotify.com/track/1aqGEA5h6OyeTOjamOqQdB) | [911](https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT) | [The Journey](https://open.spotify.com/album/3reaD14iqQvWKxCZ2w1Py4) | 4:52 | 2021-04-29 | 2022-12-24 |
 | [The Distance](https://open.spotify.com/track/7Knembnq1sARRxU982gpUl) | [Evan And Jaron](https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G) | [evan and jaron](https://open.spotify.com/album/0aWAQQw7q4W3xKh35nGNnr) | 4:25 | 2022-03-18 | 2022-07-29 |
 | [The Hardest Thing](https://open.spotify.com/track/6PuaQbH3oPmj9XojS0SRaO) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/16oW7he0sWe3dBxV2XaQx6) | 4:34 | 2022-05-17 | 2022-12-24 |

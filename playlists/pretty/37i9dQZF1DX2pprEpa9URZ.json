@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 923739,
+  "num_followers": 923815,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Salaam",
-        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Hiya",
-          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Boho",
         "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "I'm Here",
-        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 205864,
-      "name": "I'm Here",
-      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Thierry",
         "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 375652,
       "name": "Thierry",
       "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 205864,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Agua e pipa",
         "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 202553,
       "name": "Agua e pipa",
       "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -851,22 +851,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Mercy Of Time",
-        "url": "https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8"
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
       "artists": [
         {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
         },
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
         }
       ],
-      "duration_ms": 615866,
-      "name": "Mercy Of Time - Louie Vega Mix",
-      "url": "https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5"
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Mercy Of Time",
+        "url": "https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 615866,
+      "name": "Mercy Of Time - Louie Vega Mix",
+      "url": "https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Amado",
         "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 210500,
       "name": "Amado",
       "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Gotta Let You Go (Radio Mix)",
         "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 178536,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6W",
+          "url": "https://open.spotify.com/artist/0ntJM1ZVyO8oyZGkhTEaTo"
+        },
+        {
+          "name": "Gaia Ekho",
+          "url": "https://open.spotify.com/artist/3IGkmJjeqJE1ZNmV9NQtsO"
+        }
+      ],
+      "duration_ms": 400695,
+      "name": "Tribal Rhythms",
+      "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Asalam Alaikum",
         "url": "https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 303386,
       "name": "Asalam Alaikum",
       "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6W",
-          "url": "https://open.spotify.com/artist/0ntJM1ZVyO8oyZGkhTEaTo"
-        },
-        {
-          "name": "Gaia Ekho",
-          "url": "https://open.spotify.com/artist/3IGkmJjeqJE1ZNmV9NQtsO"
-        }
-      ],
-      "duration_ms": 400695,
-      "name": "Tribal Rhythms",
-      "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Visions 2 (Departure)",
-        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
-      },
-      "artists": [
-        {
-          "name": "Harold van Lennep",
-          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
-        }
-      ],
-      "duration_ms": 509502,
-      "name": "Jungle Paradise",
-      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Samra Samra",
         "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 304418,
       "name": "Samra Samra",
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Visions 2 (Departure)",
+        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
+      },
+      "artists": [
+        {
+          "name": "Harold van Lennep",
+          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
+        }
+      ],
+      "duration_ms": 509502,
+      "name": "Jungle Paradise",
+      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
     },
     {
       "added_at": "2026-09-16 06:42:09",

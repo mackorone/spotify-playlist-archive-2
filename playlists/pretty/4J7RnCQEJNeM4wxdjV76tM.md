@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > old asl
 
-[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 654 songs - 1 day 12 hr 4 min
+[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 655 songs - 1 day 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -662,5 +662,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 652 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 |
 | 653 | [PERRA](https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [PERRA](https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr) | 2:13 |
 | 654 | [Personal](https://open.spotify.com/track/4vtODFep8AUV9fGfjMFyYH) | [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Personal](https://open.spotify.com/album/3MYb9GvMuaRTgtoOEAn7gm) | 4:52 |
+| 655 | [Killing Me](https://open.spotify.com/track/1kFUfu5GQWqYaFmhzALuVS) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 4:37 |
 
-Snapshot ID: `AAAEa0hURguWPEd9xASPimtSjt6nRQvN`
+Snapshot ID: `AAAEbGjHPtmylenR+BkkWE8bT+p/KOe6`

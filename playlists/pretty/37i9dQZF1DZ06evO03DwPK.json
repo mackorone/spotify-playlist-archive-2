@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4355338,
+  "num_followers": 4355436,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABJPz6ZWgZXQ56vL8pt9OfC",
+  "snapshot_id": "au+7gAAAAACZSe70dRWIagNr8nLX1Kq7",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 268320,
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -239,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.o.B Presents: The Adventures of Bobby Ray",
-        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
-      },
-      "artists": [
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 268320,
-      "name": "Nothin' on You (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 178560,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AM I THE DRAMA? (Ultimate Edition)",
         "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 200889,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/1Ydy1j4ooUkDvQYSvwxjoy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
     },
     {
       "added_at": null,

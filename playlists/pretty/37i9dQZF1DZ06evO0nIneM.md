@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,235 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,240 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 7 | [Glas](https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Glas](https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx) | 3:35 |
 | 8 | [Holiday In Spain](https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v) | 3:52 |
 | 9 | [Aan De Kust](https://open.spotify.com/track/7yVyTfEMnR4p1LcAbo2uiF) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Naakt Onder De Hemel](https://open.spotify.com/album/01QYbTcPYUIw0kNkFRcWiq) | 3:43 |
-| 10 | [Zo Stil](https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Stil](https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss) | 4:00 |
-| 11 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:43 |
+| 10 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:43 |
+| 11 | [Zo Stil](https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Stil](https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss) | 4:00 |
 | 12 | [Wat Zou Je Doen? \- Live From The Nighttrain, Netherlands / 1998](https://open.spotify.com/track/2mJyFLhoJtIcl2zh69JxuX) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Helder \(inclusief Live Bonus Tracks\)](https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0) | 4:50 |
 | 13 | [Later Als Ik Groter Ben](https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Later Als Ik Groter Ben](https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze) | 3:24 |
 | 14 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Een Manier Om Thuis Te Komen](https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 5:11 |
 | 50 | [Regen](https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Francis](https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2) | 3:26 |
 
-Snapshot ID: `au0YgAAAAAAOZMFiCmZnB/2TfA4ZGism`
+Snapshot ID: `au+7gAAAAAAF2zCAq4MxgMiFNYfqeshC`

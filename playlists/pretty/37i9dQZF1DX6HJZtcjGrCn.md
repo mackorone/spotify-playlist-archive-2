@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Ana Lua Caiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,973 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,986 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 77 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 | 78 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 79 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
-| 80 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 |
+| 80 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
 
 Snapshot ID: `AAAAANz7KZe6w7401EAkN1inAMi6mGY9`

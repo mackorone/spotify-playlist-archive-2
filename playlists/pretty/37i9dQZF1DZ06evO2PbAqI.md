@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 
 > This is Lacuna Coil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,096 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,098 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 | 49 | [Tight Rope XX](https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:37 |
 | 50 | [Senzafine](https://open.spotify.com/track/0WZXtSE1w08YDvU0nA7nF7) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Unleashed Memories \(Re\-Release + Bonus\)](https://open.spotify.com/album/3FQgJtOcKfuTlRkKIkCAV2) | 3:53 |
 
-Snapshot ID: `au0YgAAAAAAYHzJmkKAld1b0bQd5nz9d`
+Snapshot ID: `au+7gAAAAACEyuq4y6SnmEpQIFt2T4/d`

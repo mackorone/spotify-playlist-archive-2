@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 6269,
+  "num_followers": 6272,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAD4M2vBuTEQVXOP7JfUZpr",
+  "snapshot_id": "au+7gAAAAADRIztSxTI+AjGkx0sMSv1g",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/1rgwKSuwFnq9nw54ZfKKjp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'02",
         "url": "https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO"
       },
@@ -215,38 +247,6 @@
       "duration_ms": 213413,
       "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
       "url": "https://open.spotify.com/track/3bGfuGWywg85koHG8nturm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/1rgwKSuwFnq9nw54ZfKKjp"
     },
     {
       "added_at": null,

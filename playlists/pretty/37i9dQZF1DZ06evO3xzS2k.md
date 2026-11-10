@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,162 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,164 likes - 40 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 39 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
 | 40 | [Spend The Grace](https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:47 |
 
-Snapshot ID: `au0YgAAAAAAOsIGdAXCL3aq+4CPHMRDg`
+Snapshot ID: `au+7gAAAAAAgl+4GN5R6p3elhLNLggGw`

@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-255 songs - 15 hr 5 min
+256 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,10 +225,11 @@
 | [Strength Of A Woman \(feat\. Stonebwoy\)](https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 3:13 | 2025-04-16 | 2026-01-27 |
 | [Strength Of A Woman \(feat\. Stonebwoy\)](https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:13 | 2021-12-28 | 2025-04-13 |
 | [Sub Zero](https://open.spotify.com/track/55z37b4GACx19xCvJezn9x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sub Zero](https://open.spotify.com/album/5djGPnowlb7n7u63XrblWp) | 3:02 | 2022-01-04 | 2022-11-25 |
-| [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 | 2025-08-31 |  |
+| [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 | 2025-08-31 | 2026-11-10 |
 | [Take My Love \(feat\. Tekno\)](https://open.spotify.com/track/7MjFK0v2TormiqNHFyXvDH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 2:54 | 2022-01-12 | 2022-09-29 |
 | [Teef Teef](https://open.spotify.com/track/675Kfnzftrr18DztlsHekL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Teef Teef](https://open.spotify.com/album/1xikDf9KeiwGCPmi2BHEVX) | 4:30 | 2022-10-12 | 2023-06-26 |
 | [The Boys](https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Boys](https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu) | 3:47 | 2025-12-14 | 2026-04-21 |
+| [This & That](https://open.spotify.com/track/5NbP5ui2Y4tfV1QmwMSUrU) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [This & That](https://open.spotify.com/album/0tVLgekXw4qWrenZo6HtzD) | 2:34 | 2026-11-10 |  |
 | [Till We Die](https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die](https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV) | 3:00 | 2025-09-20 |  |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-11-10 | 2025-09-20 |
 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 | 2021-12-28 |  |

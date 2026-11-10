@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,292 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,297 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 46 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
 | 47 | [ノーダウト](https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 3:22 |
 | 48 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 |
-| 49 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
-| 50 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
+| 49 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
+| 50 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
 
 Snapshot ID: `AAAAABpUuceQGQtYZJpy3wUJT5iWJroy`

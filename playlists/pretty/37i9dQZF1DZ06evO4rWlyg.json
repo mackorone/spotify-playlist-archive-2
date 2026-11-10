@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 157370,
+  "num_followers": 157386,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABJ+rMtVi91ujM0zr+5Xl4Z",
+  "snapshot_id": "au+7gAAAAACmoP7m0hgV2duIO50+SFlY",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Oceania",
+      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Biophilia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
       "artists": [
         {
@@ -644,9 +660,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Oceania",
-      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 368688,
+      "name": "Lionsong",
+      "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
     },
     {
       "added_at": null,
@@ -671,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
       "artists": [
         {
@@ -680,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 368688,
-      "name": "Lionsong",
-      "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
     },
     {
       "added_at": null,
@@ -699,22 +731,6 @@
       "duration_ms": 205506,
       "name": "Domestica",
       "url": "https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Triumph Of A Heart",
-      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
     },
     {
       "added_at": null,
@@ -751,38 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 305703,
       "name": "Blissing Me",
       "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 319600,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+        "name": "Isobel",
+        "url": "https://open.spotify.com/album/10JHcYPElCXAZiyygOZ0F4"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 306400,
-      "name": "Mutual Core",
-      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
+      "duration_ms": 285000,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/2F2qfvrwmKykv9w2cUkhZj"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 32283,
+  "num_followers": 32348,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Bengicela (feat. JAZZWRLD)",
         "url": "https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 358008,
       "name": "Bengicela (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Iskaba",
+        "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Iskaba",
+      "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -631,22 +651,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Iskaba",
-        "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         },
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Iskaba",
-      "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+      "duration_ms": 148656,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -679,26 +699,6 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 148656,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 471428,
       "name": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Gangsta (Remix)",
-        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
       },
       "artists": [
         {
@@ -1156,13 +1156,13 @@
           "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         },
         {
-          "name": "One Acen",
-          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+        "name": "Gangsta (Remix)",
+        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
       },
       "artists": [
         {
@@ -1252,13 +1252,13 @@
           "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
         }
       ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+      "duration_ms": 216000,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
     },
     {
       "added_at": "2026-06-30 14:51:43",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Murat Ceylan Wish",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Adamlar",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 183678,
       "name": "3am.",
       "url": "https://open.spotify.com/track/1NsigGjFYGCGj6kN4U6hCD"
+    },
+    {
+      "album": {
+        "name": "FAVS",
+        "url": "https://open.spotify.com/album/1KvMaMl5M11KG6tpBewrCs"
+      },
+      "artists": [
+        {
+          "name": "Barlas",
+          "url": "https://open.spotify.com/artist/7svcr7IGuCyKZYwilzgx4n"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244399,
+      "name": "4 Duvar Efkar - 2026",
+      "url": "https://open.spotify.com/track/2s04OVlBKvBzOHjymXN7Nm"
     },
     {
       "album": {
@@ -2883,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Bir Daha Sevemem San\u0131yordum",
+        "url": "https://open.spotify.com/album/7Db2aeKAJYGMoS8qoafR50"
+      },
+      "artists": [
+        {
+          "name": "Girift",
+          "url": "https://open.spotify.com/artist/5Ryns7OyoV5vqDZuN4AW6b"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204082,
+      "name": "Bir Daha Sevemem San\u0131yordum",
+      "url": "https://open.spotify.com/track/4ScAZ3ExF09STDjzOZMfA0"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
         "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
       },
@@ -5181,6 +5217,24 @@
     },
     {
       "album": {
+        "name": "Edibe",
+        "url": "https://open.spotify.com/album/4owlPoNnN8nFwG0Wy99RDW"
+      },
+      "artists": [
+        {
+          "name": "NE\u0130?",
+          "url": "https://open.spotify.com/artist/3T2e3J6CJowqxJh8WyN42F"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174636,
+      "name": "Edibe",
+      "url": "https://open.spotify.com/track/4WdhMSRSQnnlfxjaCbI1LH"
+    },
+    {
+      "album": {
         "name": "Efendi",
         "url": "https://open.spotify.com/album/1IPYgdho0eGTcpDdAYqev9"
       },
@@ -5812,7 +5866,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 256888,
       "name": "Gece N\u00f6beti",
       "url": "https://open.spotify.com/track/7l6xFGJhVzv1wZq7SIk0gw"
@@ -6270,6 +6324,24 @@
       "duration_ms": 198053,
       "name": "Ge\u00e7mi\u015f Olsun",
       "url": "https://open.spotify.com/track/2aHDVFFCCWVHdsw8CMksF5"
+    },
+    {
+      "album": {
+        "name": "Ge\u00e7mi\u015fin A\u015fk\u0131na",
+        "url": "https://open.spotify.com/album/2wi6PqjDm5HHGEn2ejPUfc"
+      },
+      "artists": [
+        {
+          "name": "Tekin\u00e7etindor",
+          "url": "https://open.spotify.com/artist/0brHoYsNfbnHIWfX4OVv5g"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161820,
+      "name": "Ge\u00e7mi\u015fin A\u015fk\u0131na",
+      "url": "https://open.spotify.com/track/2tXhYrdYBX3eXIczn3cpSZ"
     },
     {
       "album": {
@@ -6891,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "G\u00fcn I\u015f\u0131\u011f\u0131",
+        "url": "https://open.spotify.com/album/3tH2xydPEKGdC9J6qKAh53"
+      },
+      "artists": [
+        {
+          "name": "Hakan",
+          "url": "https://open.spotify.com/artist/5YXsNDINW2ugxZFLoWWQjd"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "G\u00fcn I\u015f\u0131\u011f\u0131",
+      "url": "https://open.spotify.com/track/5dsDWvken40c4GPNsV5eI0"
+    },
+    {
+      "album": {
         "name": "G\u00fcne\u015f",
         "url": "https://open.spotify.com/album/1Rd5ve7LrKT8Nlim4ao6jg"
       },
@@ -7032,6 +7122,24 @@
       "duration_ms": 203000,
       "name": "G\u00fczel Bir Son",
       "url": "https://open.spotify.com/track/4l6iXB0L6s2AxEFN5J5QxG"
+    },
+    {
+      "album": {
+        "name": "G\u00fczel Bitemezdi",
+        "url": "https://open.spotify.com/album/6FZmgGSULL6WjeTJ3ErDmM"
+      },
+      "artists": [
+        {
+          "name": "Umut Er",
+          "url": "https://open.spotify.com/artist/2dIg9NWnGgv2XFcXcdEMDp"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "G\u00fczel Bitemezdi",
+      "url": "https://open.spotify.com/track/1n2NfCpv40Z6iQSrRFJnQS"
     },
     {
       "album": {
@@ -7426,6 +7534,24 @@
       "duration_ms": 238422,
       "name": "Hat\u0131ran Yeter - Canl\u0131 / Bostanc\u0131 G\u00f6steri Merkezi",
       "url": "https://open.spotify.com/track/08yPIXGR8irO2LmWNF7CRo"
+    },
+    {
+      "album": {
+        "name": "Hat\u0131rla Sevgili",
+        "url": "https://open.spotify.com/album/1Ca6xZmNIsW18NTILGlwx2"
+      },
+      "artists": [
+        {
+          "name": "Tual",
+          "url": "https://open.spotify.com/artist/1pN6fkbVTYbHEhN8jl49dE"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152467,
+      "name": "Hat\u0131rla Sevgili",
+      "url": "https://open.spotify.com/track/5W6mxXfDvGxoFbUFt1Nff7"
     },
     {
       "album": {
@@ -8674,7 +8800,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 209280,
       "name": "\u0130SYANBUL",
       "url": "https://open.spotify.com/track/2AnFO2uV93D37scJYBT2xW"
@@ -8944,7 +9070,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 165500,
       "name": "Kad\u0131n A\u015f\u0131k Olursa",
       "url": "https://open.spotify.com/track/384EodqQOEgeoPz1HpOgls"
@@ -9894,7 +10020,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 206666,
       "name": "Kimse Bilmiyor",
       "url": "https://open.spotify.com/track/14AqwYdQsgCqwGSuUEKjq4"
@@ -10433,6 +10559,24 @@
     },
     {
       "album": {
+        "name": "K\u00fcpelerin ve Kolyen",
+        "url": "https://open.spotify.com/album/0iTNLvupByI0SF9U6cHNFt"
+      },
+      "artists": [
+        {
+          "name": "Nab\u0131caz",
+          "url": "https://open.spotify.com/artist/78k8fo1xwd4ec0telN59Lu"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181985,
+      "name": "K\u00fcpelerin ve Kolyen",
+      "url": "https://open.spotify.com/track/2a2zwZ91JX9ZBInMijRRvB"
+    },
+    {
+      "album": {
         "name": "K\u00fcs",
         "url": "https://open.spotify.com/album/2EOgDCDLg7bTsP0FUgV5XE"
       },
@@ -10732,7 +10876,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 230062,
       "name": "Libido (Demo 2001)",
       "url": "https://open.spotify.com/track/6UAXwl7TYK47yDreIjYrTB"
@@ -10992,6 +11136,24 @@
       "duration_ms": 183281,
       "name": "Melek",
       "url": "https://open.spotify.com/track/70DXE9oeZyyaEHSe7pdPDO"
+    },
+    {
+      "album": {
+        "name": "Memleketim",
+        "url": "https://open.spotify.com/album/67ig8lR5GJSKS3wxt7mVV1"
+      },
+      "artists": [
+        {
+          "name": "Pera",
+          "url": "https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198082,
+      "name": "Memleketim",
+      "url": "https://open.spotify.com/track/1Kky0IakAG5tQqbJSHcssT"
     },
     {
       "album": {
@@ -12516,7 +12678,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 211448,
       "name": "Sana Yine Deli Deli",
       "url": "https://open.spotify.com/track/53Y4U5BVKxf4uSHcc1UJJC"
@@ -13830,7 +13992,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 266171,
       "name": "SON \u015eANS",
       "url": "https://open.spotify.com/track/2M7kcUQuJhJXTn3ZgaoDxn"
@@ -13960,6 +14122,24 @@
       "duration_ms": 178513,
       "name": "Susma",
       "url": "https://open.spotify.com/track/5p95SzY6x3dHoJdHbpaarz"
+    },
+    {
+      "album": {
+        "name": "Susma",
+        "url": "https://open.spotify.com/album/5npF5fh1VEMAA3PNtq2hot"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zer Atik",
+          "url": "https://open.spotify.com/artist/14ZEZKst5jpR651ee0I9Ho"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188490,
+      "name": "Susma",
+      "url": "https://open.spotify.com/track/0xk7u8Wnn8pmVQXFX80m49"
     },
     {
       "album": {
@@ -14481,6 +14661,24 @@
     },
     {
       "album": {
+        "name": "Tuzak",
+        "url": "https://open.spotify.com/album/2oI7KegpLv1iWuwm0leddL"
+      },
+      "artists": [
+        {
+          "name": "KINDER",
+          "url": "https://open.spotify.com/artist/3QXCxT7diCTwLa7Lqy7Oik"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230387,
+      "name": "Tuzak",
+      "url": "https://open.spotify.com/track/4DtnCAHmLkAvZDaVE6Qx2q"
+    },
+    {
+      "album": {
         "name": "T\u00f6vbeler Olsun",
         "url": "https://open.spotify.com/album/0JIDhXi2fxhFE0azejZLwb"
       },
@@ -14550,7 +14748,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 225700,
       "name": "T\u0131ls\u0131m",
       "url": "https://open.spotify.com/track/21vT78QKqv6qChwwfsKvhx"
@@ -14716,6 +14914,24 @@
       "duration_ms": 222229,
       "name": "Uyan",
       "url": "https://open.spotify.com/track/0f079K6bsQ4t4GVE0ig8cR"
+    },
+    {
+      "album": {
+        "name": "UYAN LAN \u0130STANBUL!",
+        "url": "https://open.spotify.com/album/6SdmJaj5DgZV2stceP2oJx"
+      },
+      "artists": [
+        {
+          "name": "Har\u015fena",
+          "url": "https://open.spotify.com/artist/3qXW2FkQoi3JZDzWAtmao4"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "UYAN LAN \u0130STANBUL!",
+      "url": "https://open.spotify.com/track/4rAOyInp5lEdQVM9TPAWN7"
     },
     {
       "album": {
@@ -15164,7 +15380,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 137293,
       "name": "Ya Sev Ya",
       "url": "https://open.spotify.com/track/39otRjzigYQZeVzx4l0u1X"
@@ -15418,7 +15634,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 238365,
       "name": "Yali Yali",
       "url": "https://open.spotify.com/track/4e1j5W9ogsWRFSJw7VPKqb"
@@ -16948,7 +17164,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 222890,
       "name": "Y\u0131ld\u00f6n\u00fcm\u00fc",
       "url": "https://open.spotify.com/track/4VIHJ3byXCDPSNicsjca8G"
@@ -17074,7 +17290,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 226496,
       "name": "Zaten A\u011fz\u0131m Bozuk",
       "url": "https://open.spotify.com/track/4Rgn6XuwkVGIPa9pFFISaN"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Aykut Aks\u00f6z",
+  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Mabel Matiz",
   "name": "Hot Hits T\u00fcrkiye",
   "tracks": [
     {
@@ -802,6 +802,24 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
+        "name": "Babyglock",
+        "url": "https://open.spotify.com/album/3pafEft2xzM7iLUKYLATHL"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Babyglock",
+      "url": "https://open.spotify.com/track/1TlxJsAybZkzZ5ji0cUELk"
     },
     {
       "album": {
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 137704,
       "name": "Bulamazs\u0131n",
       "url": "https://open.spotify.com/track/0IZ2qKKg9xwYrur7N4kjyT"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 198595,
       "name": "Daha \u0130yi",
       "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT"
@@ -2713,6 +2731,28 @@
     },
     {
       "album": {
+        "name": "Garson",
+        "url": "https://open.spotify.com/album/5BRakvIn8tCVM4RXrFLtTh"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "Garson",
+      "url": "https://open.spotify.com/track/2rWiGPqi1ECjYummm6o6hs"
+    },
+    {
+      "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
       },
@@ -2902,7 +2942,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 225570,
       "name": "Gidi\u015fat",
       "url": "https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6"
@@ -3974,7 +4014,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 148555,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3SkE3kqg6PJvT9TkzXPXru"
@@ -5085,6 +5125,28 @@
     },
     {
       "album": {
+        "name": "Olurmusun?",
+        "url": "https://open.spotify.com/album/4L4w0AxuKcdh1wMqJC2Jze"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Olurmusun?",
+      "url": "https://open.spotify.com/track/3hvvCCnS4JyToL2R8XmMyf"
+    },
+    {
+      "album": {
         "name": "ON NUMARA",
         "url": "https://open.spotify.com/album/03XaOdXeTAdCl6KHKrxtoJ"
       },
@@ -5666,7 +5728,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 210275,
       "name": "Sana Ra\u011fmen",
       "url": "https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AS8edutPQk.md) - [plain]
 
 > Sit back and relax by listening to piano renditions of your favorite Disney songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,767 likes - 153 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,940 likes - 153 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

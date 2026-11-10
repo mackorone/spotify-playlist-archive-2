@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,625,364 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,625,163 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 32 | [Cowboy](https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Cowboy](https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W) | 3:17 |
 | 33 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
 | 34 | [Villain](https://open.spotify.com/track/0sUJVa3AFcEqdy11QtiZCY) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 4:30 |
-| 35 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
-| 36 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
-| 37 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 35 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
+| 36 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 37 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
 | 38 | [High and Dry](https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [High and Dry](https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT) | 2:33 |
 | 39 | [Crucified Son](https://open.spotify.com/track/0dAVs6Bzri2ivspQ0E7vM7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Crucified Son](https://open.spotify.com/album/2NOFo26dGaPq2Z0QJIfdPg) | 3:29 |
 | 40 | [Old Pine \- EP Version](https://open.spotify.com/track/3KdYkzww6dbqQ37bNQSODD) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Old Pine E.P.](https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA) | 4:17 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 59 | [Quiet Eyes](https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Quiet Eyes](https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW) | 3:37 |
 | 60 | [Big Jet Plane](https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 3:59 |
 | 61 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 62 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
-| 63 | [Bad Luck Bad Habit](https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj) | [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Bad Luck Bad Habit](https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA) | 3:30 |
-| 64 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
-| 65 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 |
-| 66 | [Julia](https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:10 |
-| 67 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
+| 62 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 |
+| 63 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
+| 64 | [Bad Luck Bad Habit](https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj) | [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Bad Luck Bad Habit](https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA) | 3:30 |
+| 65 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
+| 66 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
+| 67 | [Julia](https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:10 |
 | 68 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
 | 69 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
 | 70 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |

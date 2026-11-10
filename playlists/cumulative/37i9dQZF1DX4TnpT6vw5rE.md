@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-445 songs - 1 day 0 hr 16 min
+446 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 | 2020-12-08\* | 2025-12-11 |
 | [Aberdeen](https://open.spotify.com/track/2Wy7h9LuSEmhapUh3RWrC2) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Aberdeen](https://open.spotify.com/album/3CLyLs90ir4VUkYlyFDg6B) | 3:16 | 2021-04-15 | 2021-05-27 |
 | [Above The Satellites](https://open.spotify.com/track/5lr8xODLjAI0K00QLhFR4b) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Above The Satellites](https://open.spotify.com/album/6PUWrGctjUcZj8kBr34jka) | 3:38 | 2021-10-21 | 2024-08-15 |
+| [abstracts](https://open.spotify.com/track/00UMrADh7yRPanOUP2uzrH) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [abstracts](https://open.spotify.com/album/5buFiQoofnLERwlYUur4Sc) | 3:59 | 2026-10-05 |  |
 | [Across the Sky](https://open.spotify.com/track/6v8xPSIQSererU5KSy9YkD) | [dsntf](https://open.spotify.com/artist/7pGATqxSjgQ7u0YQzeTH9F) | [Across the Sky](https://open.spotify.com/album/1V2l9t4HxfVoVwQnafOv4L) | 2:34 | 2025-02-26 | 2026-02-13 |
 | [Adjustments](https://open.spotify.com/track/0v8BDoE0D3jkCflIqanIbL) | [moodgenzy](https://open.spotify.com/artist/2LQ9WxkWhlHoBRYB1Iob4r) | [Adjustments](https://open.spotify.com/album/7FoAWPnRx4dB9DpnTLubPh) | 3:16 | 2026-02-12 |  |
 | [After 4AM](https://open.spotify.com/track/7JfqZOTWsA8pNtGrsaPHhU) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA) | [The Branches](https://open.spotify.com/album/0uxx3Q7y6wLjUnvzamYOCR) | 6:42 | 2020-12-08\* | 2021-03-06 |
@@ -97,7 +98,7 @@
 | [clarity](https://open.spotify.com/track/6Foa0catgRYzWrHvpXKgEn) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [clarity](https://open.spotify.com/album/3ILTfPyxwlmaeIfltPeHmN) | 3:12 | 2026-02-12 |  |
 | [Clean Slate](https://open.spotify.com/track/58JNVGTyirIg6PHjK6NiwW) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Clean Slate](https://open.spotify.com/album/5GlvVZOr2VHXz3kiOTbJ3n) | 2:31 | 2026-02-12 |  |
 | [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 | 2023-01-27 | 2025-03-02 |
-| [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-12-01 |  |
+| [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-12-01 | 2026-11-10 |
 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 | 2022-02-04 | 2026-06-10 |
 | [Clouds Come By](https://open.spotify.com/track/22QpETyov5UfGA9AinrKSu) | [Temperance Space](https://open.spotify.com/artist/2DPK0zJqIfqXdS6R7IVLiO) | [Clouds Come By](https://open.spotify.com/album/4wuAL4aslivLUKRHgn7xHI) | 4:42 | 2020-12-08\* | 2021-07-24 |
 | [Coincide](https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Coincide](https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp) | 2:14 | 2023-01-20 | 2025-10-03 |

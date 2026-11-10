@@ -4,7 +4,7 @@
 
 > This is Erykah Badu\. The essential tracks, all in one playlist.
 
-40 songs - 3 hr 0 min
+41 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [On Me](https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [So You Know](https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ) | 3:43 | 2026-11-04 |  |
 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 | 2026-11-04 |  |
 | [Other Side Of The Game](https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:33 | 2026-11-04 |  |
+| [Plenty](https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:38 | 2026-11-10 |  |
 | [Poetry](https://open.spotify.com/track/3nSECoLmCiUbpQVJtpmS1I) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:48 | 2026-11-04 |  |
 | [pure colour \(feat\. Erykah Badu\)](https://open.spotify.com/track/4BgZNZ8hKrfyU4jiCKoAIg) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 3:06 | 2026-11-04 |  |
 | [Rim Shot \- Intro](https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 1:57 | 2026-11-04 |  |

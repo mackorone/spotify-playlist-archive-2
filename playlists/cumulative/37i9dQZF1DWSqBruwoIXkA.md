@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Sienna Spiro
 
-1,112 songs - 2 day 13 hr 18 min
+1,113 songs - 2 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 | 2024-02-16 | 2024-09-21 |
 | [History](https://open.spotify.com/track/5mWv4ybQXGJ2YmYhOsqImT) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [History](https://open.spotify.com/album/3VGf64WCcsgeQwLJPxl3om) | 2:19 | 2022-05-06 | 2022-05-28 |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-15 |  |
+| [Hitachi](https://open.spotify.com/track/7Cd6ooLVhckjaOTHPBMdfn) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/7Ifiyhu4wyMHojKPy2jJlb) | 3:36 | 2026-11-09 |  |
 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 | 2025-04-25 | 2025-08-18 |
 | [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 | 2024-11-04 | 2026-08-22 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-01-07 | 2022-04-20 |
@@ -802,7 +803,7 @@
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2022-01-07 | 2022-03-18 |
 | [Pollution](https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Pollution](https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq) | 3:54 | 2023-09-29 | 2023-10-14 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-08-22 |
-| [Postcard](https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Postcard](https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM) | 2:59 | 2026-09-11 |  |
+| [Postcard](https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Postcard](https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM) | 2:59 | 2026-09-11 | 2026-11-10 |
 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 | 2025-01-31 | 2026-07-25 |
 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 | 2024-05-17 | 2024-10-28 |
 | [Pretty Ugly](https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Pretty Ugly](https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI) | 2:49 | 2026-08-07 | 2026-10-24 |

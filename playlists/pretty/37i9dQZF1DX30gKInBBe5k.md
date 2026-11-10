@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,053 likes - 84 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,048 likes - 84 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 12 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
 | 13 | [Nothing Left to Say](https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp) | [Tram](https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH) | [Heavy Black Frame](https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o) | 4:31 |
 | 14 | [Empty Words](https://open.spotify.com/track/330w7iBKrHxlJwx3WMdHVr) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:45 |
-| 15 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
-| 16 | [Untitled \#1](https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP) | [Spain](https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n) | [The Blue Moods Of Spain](https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC) | 6:38 |
+| 15 | [Untitled \#1](https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP) | [Spain](https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n) | [The Blue Moods Of Spain](https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC) | 6:38 |
+| 16 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
 | 17 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 18 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
 | 19 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 24 | [Wop\-A\-Din\-Din](https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Old Ramon](https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8) | 5:37 |
 | 25 | [Today Is the Day](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 5:34 |
 | 26 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
-| 27 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
-| 28 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
+| 27 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
+| 28 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
 | 29 | [The Loom](https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 5:15 |
-| 30 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
-| 31 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
-| 32 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
+| 30 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
+| 31 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
+| 32 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
 | 33 | [Flowers](https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 4:29 |
 | 34 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 |
 | 35 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 |

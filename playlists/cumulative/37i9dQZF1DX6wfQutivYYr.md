@@ -4,7 +4,7 @@
 
 > ADÉLA  in cover della playlist con tutte le hit 🔥
 
-388 songs - 20 hr 16 min
+389 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Attacchi di panico](https://open.spotify.com/track/6kcW7rUXA5zL4RlnrwJp0P) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:32 | 2025-10-24 | 2025-11-07 |
 | [AUTORITÀ](https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AUTORITÀ](https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO) | 3:03 | 2026-06-08 | 2026-09-08 |
 | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH) | 3:07 | 2025-01-07 | 2025-02-21 |
-| [AYAYAY](https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [AYAYAY](https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n) | 2:26 | 2026-06-08 |  |
+| [AYAYAY](https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [AYAYAY](https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n) | 2:26 | 2026-06-08 | 2026-11-10 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 | 2025-08-29 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-30 | 2026-06-23 |
 | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt) | 2:47 | 2024-06-28 | 2024-11-05 |
@@ -246,6 +246,7 @@
 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 | 2026-07-16 | 2026-09-15 |
 | [MUCHACHA](https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [MUCHACHA](https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O) | 3:12 | 2026-07-23 | 2026-09-12 |
 | [Ne vale la pena feat\. Sayf](https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 3:21 | 2026-09-24 |  |
+| [Nella Borsa Di Anna](https://open.spotify.com/track/0wOJD6ahoCXJJzyybnYOX2) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Nella Borsa Di Anna](https://open.spotify.com/album/44CUu8u5rgsXGTw9lX8snG) | 3:07 | 2026-11-09 |  |
 | [NEON](https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:46 | 2025-04-17 | 2026-06-09 |
 | [Nessuna](https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:43 | 2025-05-22 | 2026-03-24 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-13 | 2025-06-04 |

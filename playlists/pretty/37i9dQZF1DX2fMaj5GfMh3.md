@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Emma Kok
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,042 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,035 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Laissez\-Moi](https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv) | [Emma Kok](https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL) | [Laissez\-Moi](https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah) | 3:05 |
 | 2 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
-| 3 | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 |
-| 4 | [How do I dream](https://open.spotify.com/track/5RbhZUHxGRdZkpJ7FH0sph) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Private Page Club](https://open.spotify.com/album/0Jfff6qKoOGZKRCkcnEnEp) | 3:15 |
-| 5 | [Heal Me](https://open.spotify.com/track/3x8kFrynt8vnHk3x8yrsjK) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Heal Me](https://open.spotify.com/album/689jhFts2EvwIdvA4wysI3) | 3:18 |
-| 6 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
-| 7 | [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 |
-| 8 | [Dirty On The Dancefloor](https://open.spotify.com/track/5lu2iMzwV49342DeCy8yYO) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ), [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Dirty On The Dancefloor](https://open.spotify.com/album/2Gz0qlCGNRFNBXkMGbcDRm) | 2:24 |
-| 9 | [You Make It Make Sense](https://open.spotify.com/track/0evRhqpMd7JfuNszB8Np1S) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Make It Make Sense](https://open.spotify.com/album/6C7FqS0rJW6MQL5rMkxx1p) | 2:56 |
-| 10 | [breaks open](https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [FINAL GIRL](https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6) | 3:45 |
+| 3 | [breaks open](https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [FINAL GIRL](https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6) | 3:45 |
+| 4 | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 |
+| 5 | [How do I dream](https://open.spotify.com/track/5RbhZUHxGRdZkpJ7FH0sph) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Private Page Club](https://open.spotify.com/album/0Jfff6qKoOGZKRCkcnEnEp) | 3:15 |
+| 6 | [Dirty On The Dancefloor](https://open.spotify.com/track/5lu2iMzwV49342DeCy8yYO) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ), [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Dirty On The Dancefloor](https://open.spotify.com/album/2Gz0qlCGNRFNBXkMGbcDRm) | 2:24 |
+| 7 | [Heal Me](https://open.spotify.com/track/3x8kFrynt8vnHk3x8yrsjK) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Heal Me](https://open.spotify.com/album/689jhFts2EvwIdvA4wysI3) | 3:18 |
+| 8 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
+| 9 | [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 |
+| 10 | [You Make It Make Sense](https://open.spotify.com/track/0evRhqpMd7JfuNszB8Np1S) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Make It Make Sense](https://open.spotify.com/album/6C7FqS0rJW6MQL5rMkxx1p) | 2:56 |
 | 11 | [Survival](https://open.spotify.com/track/2PEr5UBQqLCtEXH64zInV0) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Survival](https://open.spotify.com/album/2YnK3g9CH18njRleef6mNT) | 3:14 |
 | 12 | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 |
 | 13 | [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Motivation](https://open.spotify.com/track/59edZBlolguuivWORanXkJ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Motivation](https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV) | 3:53 |
 | 100 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
 
-Snapshot ID: `AAAAAN9K1rbptFnPq4z+i3CJYu9dBinr`
+Snapshot ID: `AAAAAM7lbb7RqYJ8GIfK1hVKzvvpNZRp`

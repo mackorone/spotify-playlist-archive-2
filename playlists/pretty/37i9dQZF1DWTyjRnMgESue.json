@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 91015,
+  "num_followers": 91023,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "a couple minutes out",
-        "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/0vVel80XRhw0LuSQucKMui"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Sweet Fortune",
         "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 233785,
       "name": "Secret Language",
       "url": "https://open.spotify.com/track/2ATWSTxqUGUfqsQD4LIYPB"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "a couple minutes out",
+        "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/0vVel80XRhw0LuSQucKMui"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Sunflowers and Leather",
         "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 210973,
       "name": "Black Lung",
       "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -507,6 +475,38 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
         "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 321140,
       "name": "Where\u2019s Your Love Now - Waxahatchee Version",
       "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Poison In My Well",
         "url": "https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 188936,
       "name": "Poison In My Well",
       "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Nothing Comes Easy",
-        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 174087,
-      "name": "Nothing Comes Easy",
-      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
     },
     {
       "added_at": "2026-09-04 04:02:01",

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122187,
+  "num_followers": 122171,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV5ms/2zVybzXUXuf1XM3OPggtwFIy",
+  "snapshot_id": "AAAV51d0606KgFMiGOJZpyvGs5fmeZv8",
   "tracks": [
+    {
+      "added_at": "2026-11-09 15:28:37",
+      "album": {
+        "name": "Break My Body / Warning",
+        "url": "https://open.spotify.com/album/6T3ZjkcWHolhEwRC8XhJld"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Break My Body",
+      "url": "https://open.spotify.com/track/2t7AEWTHPEd26aKzA0nvnp"
+    },
     {
       "added_at": "2026-11-06 14:52:23",
       "album": {
@@ -370,6 +386,10 @@
         {
           "name": "Dillon Francis",
           "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
       "duration_ms": 199680,

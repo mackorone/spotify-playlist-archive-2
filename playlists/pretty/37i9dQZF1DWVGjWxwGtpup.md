@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Manuel Turizo x J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,490 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,498 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

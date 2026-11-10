@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495 likes - 185 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494 likes - 185 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 137 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
 | 138 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
 | 139 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
-| 140 | [Pass the Love Around](https://open.spotify.com/track/4CgWKazo7xiS2DYURJt3Cg) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm) | 3:18 |
-| 141 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
+| 140 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
+| 141 | [Pass the Love Around](https://open.spotify.com/track/4CgWKazo7xiS2DYURJt3Cg) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm) | 3:18 |
 | 142 | [Weakness \(Huey Lewis\) \(feat\. Maisy Stella\)](https://open.spotify.com/track/3lY1DbeIc84Y7kDCncyWbs) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 7:47 |
 | 143 | [Paranoid](https://open.spotify.com/track/6bigcY1dmG4tdXFH29qThb) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:21 |
 | 144 | [If Walls Could Talk \- Words on Bathroom Walls](https://open.spotify.com/track/5fBbkWcsvwoeI2u5ifhK5b) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Words on Bathroom Walls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sEhMYq3QFy3ShBGzUO2wu) | 1:38 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 184 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 185 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AchJ2AAAAAAL3Hd5EfpfUzHYVt09P8P6`
+Snapshot ID: `AchP8AAAAAC4WjEoo7hsTJ4VuLIJXuhK`

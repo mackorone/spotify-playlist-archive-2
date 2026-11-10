@@ -1,6 +1,6 @@
 {
   "description": "En modo: simulacro navide\u00f1o \ud83c\udf84 \ud83c\udf85\ud83c\udffc",
-  "num_followers": 144031,
+  "num_followers": 144034,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "Billo 76 1/2",
+        "url": "https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "La Casa De Fernando",
+      "url": "https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Para Mi Fanaticada",
         "url": "https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 255893,
       "name": "Mensaje De Navidad",
       "url": "https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "Billo 76 1/2",
-        "url": "https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "La Casa De Fernando",
-      "url": "https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Playa, Brisa y Mar",
-      "url": "https://open.spotify.com/track/0Bgq4T7bfYfWZLfcXUdHju"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "Navidad Colombiana - Para Cantar Y Bailar La Novena De Aguinaldos",
         "url": "https://open.spotify.com/album/3P5Kp1FhrmAUaPRJ5QDU7O"
       },
@@ -843,18 +827,34 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Que Bueno Baila Celina",
-        "url": "https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
       },
       "artists": [
         {
-          "name": "Celina Y Reutilio",
-          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 184786,
-      "name": "La Casa De Yagua",
-      "url": "https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc"
+      "duration_ms": 186933,
+      "name": "Playa, Brisa y Mar",
+      "url": "https://open.spotify.com/track/0Bgq4T7bfYfWZLfcXUdHju"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "A Pulir la Hebilla",
+        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
+      },
+      "artists": [
+        {
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Muchacha de 15",
+      "url": "https://open.spotify.com/track/3kHLuCDIx0OV1pawSLgarA"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "A Pulir la Hebilla",
-        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
+        "name": "Que Bueno Baila Celina",
+        "url": "https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m"
       },
       "artists": [
         {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+          "name": "Celina Y Reutilio",
+          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
         }
       ],
-      "duration_ms": 182333,
-      "name": "Muchacha de 15",
-      "url": "https://open.spotify.com/track/3kHLuCDIx0OV1pawSLgarA"
+      "duration_ms": 184786,
+      "name": "La Casa De Yagua",
+      "url": "https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "A Pulir la Hebilla",
+        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
+      },
+      "artists": [
+        {
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Festival Vallenato",
+      "url": "https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 2",
         "url": "https://open.spotify.com/album/7e2UmdoDrz2wZghz9qdjKF"
       },
@@ -935,6 +951,22 @@
       "duration_ms": 209653,
       "name": "Navidad Negra",
       "url": "https://open.spotify.com/track/0iNxOYzs1DzUL2SUnWD4wr"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Palmira Se\u00f1orial",
+      "url": "https://open.spotify.com/track/31l9NOTqNrLZ7ymU5QtnOj"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -955,38 +987,6 @@
       "duration_ms": 182386,
       "name": "La Molinera",
       "url": "https://open.spotify.com/track/7s2vffYrqcDb6ota0NbzdQ"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "A Pulir la Hebilla",
-        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
-      },
-      "artists": [
-        {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Festival Vallenato",
-      "url": "https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Palmira Se\u00f1orial",
-      "url": "https://open.spotify.com/track/31l9NOTqNrLZ7ymU5QtnOj"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Recupera Tus Clasicos de Navidad",
-        "url": "https://open.spotify.com/album/0nbTMDT4X3ZBgzFJfrx9yW"
-      },
-      "artists": [
-        {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/2YJNj0MLrbtbb5oOpLj8TB"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 191666,
       "name": "Las Pilanderas",
       "url": "https://open.spotify.com/track/41C90mKyPNawf6wPpznCLA"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Recupera Tus Clasicos de Navidad",
+        "url": "https://open.spotify.com/album/0nbTMDT4X3ZBgzFJfrx9yW"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/2YJNj0MLrbtbb5oOpLj8TB"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
+        "url": "https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL"
+      },
+      "artists": [
+        {
+          "name": "Checo Acosta",
+          "url": "https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q"
+        }
+      ],
+      "duration_ms": 231758,
+      "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
+      "url": "https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 249878,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
-        "url": "https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL"
-      },
-      "artists": [
-        {
-          "name": "Checo Acosta",
-          "url": "https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q"
-        }
-      ],
-      "duration_ms": 231758,
-      "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
-      "url": "https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Mejor Que Antes",
-        "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
+        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
         },
         {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "La Nueva Generaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
         }
       ],
-      "duration_ms": 257642,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
+      "duration_ms": 259015,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
+        "name": "Mejor Que Antes",
+        "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         },
         {
-          "name": "La Nueva Generaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
     },
     {
       "added_at": "2026-10-24 04:59:12",

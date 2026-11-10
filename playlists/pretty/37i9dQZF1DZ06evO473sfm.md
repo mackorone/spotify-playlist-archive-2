@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,029 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,181 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [mi droga](https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:47 |
 | 50 | [IMPOSIBLE](https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [IMPOSIBLE](https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW) | 3:13 |
 
-Snapshot ID: `au5qAAAAAAAhfafUruE0LasMKXlPTyHR`
+Snapshot ID: `au+7gAAAAACBUgVFptiXIQNEV66fbHkV`

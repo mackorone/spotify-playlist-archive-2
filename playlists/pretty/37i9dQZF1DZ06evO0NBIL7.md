@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 32 | [Psycho \- Demo](https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Bullet Head](https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG) | 2:58 |
 | 33 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
 
-Snapshot ID: `au0YgAAAAABTV2sRf9B5T6JNyTjjeCNv`
+Snapshot ID: `au+7gAAAAAACU8iKZ96kLOqJUOLm2xoq`

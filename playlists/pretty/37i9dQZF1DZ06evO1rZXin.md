@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,597 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,601 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 44 | [Mi Sierreña](https://open.spotify.com/track/2hCQSPkhyxdLzIvJvgoBtx) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Mi Sierreña](https://open.spotify.com/album/2rr4e80bcGLcZvJq0ndGYP) | 2:40 |
 | 45 | [Te Voy A Olvidar](https://open.spotify.com/track/7JmUqgfOHCAKcIlKLR2Sqd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/46sEyNNh4luoWDdmXLGs2D) | 3:00 |
 
-Snapshot ID: `au5qAAAAAADwEZicnhX1f4tLJsiiEv0d`
+Snapshot ID: `au+7gAAAAADHH8eDPRJSK2wSFe74qobH`

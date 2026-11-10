@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 22307,
+  "num_followers": 22327,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 187187,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "Lonely World",
         "url": "https://open.spotify.com/album/09FHjhBG2ymGRc7IHEKyZD"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 166034,
       "name": "FAMAME",
       "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 187187,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Signature (with Lasmid)",
-        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Signature (with Lasmid)",
-      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "Pancake",
         "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
       },
@@ -727,22 +707,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+        "name": "Signature (with Lasmid)",
+        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+      "duration_ms": 162935,
+      "name": "Signature (with Lasmid)",
+      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -779,6 +759,26 @@
       "duration_ms": 159272,
       "name": "Your Body (Crazy)",
       "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "Y3 Guy",
+        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 145146,
+      "name": "Y3 Guy",
+      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 210566,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Y3 Guy",
-        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
-      },
-      "artists": [
-        {
-          "name": "Ypee",
-          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 145146,
-      "name": "Y3 Guy",
-      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/0BGYDElNNZBTxdp2FZflOF"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
@@ -1019,42 +1035,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/0BGYDElNNZBTxdp2FZflOF"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 175148,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "BALENCIAGA II",
         "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
@@ -1087,22 +1067,38 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         },
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 143119,
-      "name": "IDK (with Sarkodie)",
-      "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
+      "duration_ms": 175148,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ara No Dey Sleep",
+      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ara No Dey Sleep",
-      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
+      "duration_ms": 143119,
+      "name": "IDK (with Sarkodie)",
+      "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
     },
     {
       "added_at": "2026-10-23 00:01:44",

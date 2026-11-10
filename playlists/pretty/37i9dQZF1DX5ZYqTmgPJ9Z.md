@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,594 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,601 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 43 | [Let Me Into Your Heart](https://open.spotify.com/track/6HfXfC5aZR5fZq8Ag50lVI) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Let Me Into Your Heart](https://open.spotify.com/album/0uVffzwyBDvOYbh8IrVVEc) | 5:04 |
 | 44 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
 | 45 | [FANGIRL](https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [FANGIRL](https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y) | 4:48 |
-| 46 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
-| 47 | [Nostalgia](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
+| 46 | [Nostalgia](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
+| 47 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 48 | [Bloom Innocent](https://open.spotify.com/track/1iVn6DAdn8kQ8Qri7Eu2Un) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Bloom Innocent](https://open.spotify.com/album/7mZdMFXdNUqaBNB7pkIJu1) | 6:56 |
 | 49 | [Probably Sorry](https://open.spotify.com/track/72VSo5LGhQz24MlULSh2G7) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Probably Sorry](https://open.spotify.com/album/143RT46s3JeoVZR8agkqQu) | 2:45 |
 | 50 | [Slowly](https://open.spotify.com/track/4kbljXIclSHAVeLW18iXXZ) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Slowly](https://open.spotify.com/album/3jZdEB70bvtAQRjN8mzRWE) | 3:13 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 61 | [Fall](https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Fall](https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp) | 2:52 |
 | 62 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
 | 63 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
-| 64 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
-| 65 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
+| 64 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
+| 65 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
 | 66 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
 | 67 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 |
 | 68 | [Shade](https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl), [Jordan Tait](https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Shade](https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk) | 3:34 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 77 | [Statue](https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Statue](https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF) | 3:24 |
 | 78 | [Clashing Colours](https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Clashing Colours](https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp) | 4:44 |
 | 79 | [Perfect](https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Perfect](https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN) | 3:04 |
-| 80 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 |
-| 81 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
+| 80 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
+| 81 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 |
 | 82 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 |
 | 83 | [Blume](https://open.spotify.com/track/3y1cSOZebGaS2IbEYLOiZ4) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 2:46 |
 | 84 | [faded nights](https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f) | [elmss](https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY) | [Faded Nights](https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3) | 2:32 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 95 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 96 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 |
 | 97 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
-| 98 | [Vancouver Time](https://open.spotify.com/track/3IVqLH79sttzFRDB2MorvV) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 4:37 |
-| 99 | [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 |
-| 100 | [Lost](https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Lost](https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg) | 3:12 |
+| 98 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 |
+| 99 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
+| 100 | [Vancouver Time](https://open.spotify.com/track/3IVqLH79sttzFRDB2MorvV) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 4:37 |
 
 Snapshot ID: `AAAAACpvE8gxVrrXYZLepS4oF7CSaCL4`

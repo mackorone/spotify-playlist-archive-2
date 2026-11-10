@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Chris Lorenzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,444 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,229 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

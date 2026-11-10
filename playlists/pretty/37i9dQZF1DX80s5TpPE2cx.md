@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,765 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,772 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 30 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 |
 | 31 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 |
 | 32 | [SARO](https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [SARO](https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU) | 3:02 |
-| 33 | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm) | 4:05 |
-| 34 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
+| 33 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
+| 34 | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm) | 4:05 |
 | 35 | [London](https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Never Gunna Be the Same](https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3) | 2:45 |
 | 36 | [MONICA](https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:51 |
 | 37 | [Skedaddle](https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Skedaddle](https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO) | 2:30 |

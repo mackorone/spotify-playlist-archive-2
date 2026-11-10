@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,014 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,053 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 32 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:38 |
 | 33 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 |
 | 34 | [Changing of the Guards](https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Street\-Legal](https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U) | 6:37 |
-| 35 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:32 |
-| 36 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:43 |
+| 35 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:43 |
+| 36 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:32 |
 | 37 | [Highway 61 Revisited](https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 3:30 |
 | 38 | [Tonight I'll Be Staying Here with You](https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:23 |
-| 39 | [Most of the Time](https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 5:05 |
-| 40 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 |
+| 39 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 |
+| 40 | [Most of the Time](https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 5:05 |
 | 41 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:57 |
 | 42 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:49 |
 | 43 | [Visions of Johanna](https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:34 |
 | 44 | [Isis](https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 6:59 |
 | 45 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 4:09 |
 | 46 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:59 |
-| 47 | [I Threw It All Away](https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 2:26 |
-| 48 | [One Too Many Mornings](https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 2:42 |
+| 47 | [One Too Many Mornings](https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 2:42 |
+| 48 | [I Threw It All Away](https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 2:26 |
 | 49 | [I Pity the Poor Immigrant \- Live at Tarrant County Convention Center Arena, Fort Worth, TX \- May 16, 1976](https://open.spotify.com/track/44TTJsUQZZpeHtJmTX51OP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Pity the Poor Immigrant \(Live at Tarrant County Convention Center Arena, Fort Worth, TX \- May 16, 1976\)](https://open.spotify.com/album/27FS50AX2xBSksq5NAZxid) | 4:41 |
 | 50 | [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:06 |
 
-Snapshot ID: `au5qAAAAAAAcB0o2WYBZwoiBqweLKl5Z`
+Snapshot ID: `au+7gAAAAAB7KlQRodgwuTL7Svuba27a`

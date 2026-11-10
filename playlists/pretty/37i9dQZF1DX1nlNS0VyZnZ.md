@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 
 > Tremendo vacilón\. Los éxitos del merengue de todos los tiempos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,967 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,990 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 19 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 20 | [Supérame Ya](https://open.spotify.com/track/0ozOkAcRTgIgrn2db1VutK) | [Negret](https://open.spotify.com/artist/3AjJw0OlVb2zZlDnZ5rgPH) | [Supérame Ya](https://open.spotify.com/album/6yKNm9ABAmrEYvCUCvT5fa) | 2:28 |
 | 21 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
-| 22 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
-| 23 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
+| 22 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
+| 23 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
 | 24 | [Guallando](https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 25 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
 | 26 | [Mar y Luna](https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P) | [Pecos Kanvas](https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8) | [Mar y Luna](https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp) | 4:20 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 32 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
 | 33 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
 | 34 | [La Novela](https://open.spotify.com/track/5lwfX0HEWjulISjPHGPC8S) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 6:13 |
-| 35 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
-| 36 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
+| 35 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
+| 36 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 37 | [Demasiado Romantica](https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:40 |
 | 38 | [Luna Llena](https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:25 |
 | 39 | [Esta Pegao](https://open.spotify.com/track/7f698P4uIhoNM4E3XkgvL3) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 4:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 46 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 47 | [Un Idiota](https://open.spotify.com/track/0DytMjpDw0CjYfAG63VCwT) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Para Siempre](https://open.spotify.com/album/6mAkgcHgvfl78vZcCgmBdq) | 3:52 |
 | 48 | [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 |
-| 49 | [Juana la Cubana](https://open.spotify.com/track/1EjA719WEDrpVezZ8KmxEx) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Caribe](https://open.spotify.com/album/29mpODkZsMOIgnU1LqBD7Z) | 4:52 |
-| 50 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
+| 49 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
+| 50 | [Juana la Cubana](https://open.spotify.com/track/1EjA719WEDrpVezZ8KmxEx) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Caribe](https://open.spotify.com/album/29mpODkZsMOIgnU1LqBD7Z) | 4:52 |
 
 Snapshot ID: `AAAAAENzuN4lIsV0b7gl9d5/MygF60XR`

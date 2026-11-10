@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Luister hier naar de beste songs van het jaar.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,524 likes - 65 songs - 3 hr 35 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,522 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

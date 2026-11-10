@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,832 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,827 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

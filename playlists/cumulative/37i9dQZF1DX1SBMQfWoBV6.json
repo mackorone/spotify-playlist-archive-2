@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "contrary",
+        "url": "https://open.spotify.com/album/5VIveNznaPwWO0YQjfzDeB"
+      },
+      "artists": [
+        {
+          "name": "Lunn Drawing",
+          "url": "https://open.spotify.com/artist/2xGgo9Gdptc0ft6d3ip7ds"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97245,
+      "name": "contrary",
+      "url": "https://open.spotify.com/track/45h1p5CdQR0hY4GYXQEJVQ"
+    },
+    {
+      "album": {
         "name": "Conversion - Dream House Mix",
         "url": "https://open.spotify.com/album/1YAQjuaR4OMMFq7Mk1QI5X"
       },
@@ -733,6 +751,24 @@
     },
     {
       "album": {
+        "name": "futureslept",
+        "url": "https://open.spotify.com/album/0HkzHd7ayn56IWIIse17D5"
+      },
+      "artists": [
+        {
+          "name": "Reso Nata",
+          "url": "https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124993,
+      "name": "futureslept",
+      "url": "https://open.spotify.com/track/7MYYCJqUG1gx7EJvTjVzG9"
+    },
+    {
+      "album": {
         "name": "My Places",
         "url": "https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J"
       },
@@ -1003,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "melatonin",
+        "url": "https://open.spotify.com/album/3RGNTlWKhz55YVhakCy1G6"
+      },
+      "artists": [
+        {
+          "name": "eidra",
+          "url": "https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110204,
+      "name": "melatonin",
+      "url": "https://open.spotify.com/track/4M1DsAYix2OCK8lCua3Ihg"
+    },
+    {
+      "album": {
         "name": "Memories Collide",
         "url": "https://open.spotify.com/album/27l1uX8Mjl3FATWzQzHxQF"
       },
@@ -1058,6 +1112,42 @@
       "duration_ms": 295665,
       "name": "Na",
       "url": "https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u"
+    },
+    {
+      "album": {
+        "name": "neon dust",
+        "url": "https://open.spotify.com/album/2kAHPEhzYSBW80u2NinXmh"
+      },
+      "artists": [
+        {
+          "name": "grainx",
+          "url": "https://open.spotify.com/artist/53NZ6wMMozM9AdQonk3zoB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191300,
+      "name": "neon dust",
+      "url": "https://open.spotify.com/track/1nl8ostabADa3DfmPSqfBn"
+    },
+    {
+      "album": {
+        "name": "netherworlds",
+        "url": "https://open.spotify.com/album/6byFWEOsOmfpxpu3MS3Q7z"
+      },
+      "artists": [
+        {
+          "name": "NueBoo",
+          "url": "https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "netherworlds",
+      "url": "https://open.spotify.com/track/7GfepFk1TaahPzLlgw9aDd"
     },
     {
       "album": {
@@ -2406,6 +2496,24 @@
       "duration_ms": 161311,
       "name": "winter disappear",
       "url": "https://open.spotify.com/track/2qNwg88ymnNlg0sUgpFpll"
+    },
+    {
+      "album": {
+        "name": "With You Without",
+        "url": "https://open.spotify.com/album/11H4vFYvT6S8MSlP5c2bnT"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153205,
+      "name": "With You Without",
+      "url": "https://open.spotify.com/track/5VGl6azpzLQHzy0wKPbVZw"
     },
     {
       "album": {

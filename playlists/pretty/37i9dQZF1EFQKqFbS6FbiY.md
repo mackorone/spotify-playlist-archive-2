@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 485 songs - 23 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 485 songs - 23 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -339,8 +339,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 329 | [Fica Titi Não](https://open.spotify.com/track/2LrCHoYfT9UeOK4PWnxV7O) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/7icDlIsubwdOBAfPwRyoNu) | 2:44 |
 | 330 | [Só Vem Quando Lá Não Tem](https://open.spotify.com/track/5EPMFWASTUfr6yS48cXvyZ) | [Lorrane Araújo](https://open.spotify.com/artist/1a8K8Hakz1xR4C5yCZuKy7) | [Só Vem Quando Lá Não Tem](https://open.spotify.com/album/7b0uWgI42QsCh8ThSj3Jga) | 2:45 |
 | 331 | [Colabora Aí \- Ao Vivo](https://open.spotify.com/track/39aSimlpRd81jshAvYkOLJ) | [Bruno & Rafa](https://open.spotify.com/artist/4ZL1DrfqfKCFj6x7WCxaBo), [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Na Raça, Completo \(Ao Vivo\)](https://open.spotify.com/album/1NcCK0Q8fzgLdIV1WjtW4i) | 2:49 |
-| 332 | [Só Você É Meu Baby](https://open.spotify.com/track/2RsIBixiNdfWiq2okUHKB2) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Gg e Seus Teclados, Ep\. 03, Vol\. 2](https://open.spotify.com/album/6fxNyhIB83TUBfmUQg1btl) | 3:24 |
-| 333 | [A Ferro e Fogo](https://open.spotify.com/track/5COqVUf0BcvIYQUHLwu4Im) | [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Volume 05](https://open.spotify.com/album/3qCbZqJfFVvgEJLkVChC3N) | 4:23 |
+| 332 | [A Ferro e Fogo](https://open.spotify.com/track/5COqVUf0BcvIYQUHLwu4Im) | [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Volume 05](https://open.spotify.com/album/3qCbZqJfFVvgEJLkVChC3N) | 4:23 |
+| 333 | [Só Você É Meu Baby](https://open.spotify.com/track/2RsIBixiNdfWiq2okUHKB2) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Gg e Seus Teclados, Ep\. 03, Vol\. 2](https://open.spotify.com/album/6fxNyhIB83TUBfmUQg1btl) | 3:24 |
 | 334 | [Por Entre a Multidão](https://open.spotify.com/track/7tx6En8pHolpfIOrCkYYYF) | [Alan e Aladim](https://open.spotify.com/artist/6lrgtZI2qTutbZMppO9NJd) | [Sol e Lua](https://open.spotify.com/album/03s2BAuRk2zXWLXaiqj3Sg) | 3:24 |
 | 335 | [Volta Amor Pra Mim](https://open.spotify.com/track/2hWcWUpqKxXiGILzpnb6G2) | [Lucas Rocha](https://open.spotify.com/artist/3AVAHN33h8JppZF2w6RUng) | [Volta Amor Pra Mim](https://open.spotify.com/album/3p1HBR1IxVd0upTZ7r0DIf) | 2:49 |
 | 336 | [Mariana \- Ao Vivo](https://open.spotify.com/track/10hgJEcUvOAFbSOvwlZpZv) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [João Gabriel: Ao Vivo em Goiânia](https://open.spotify.com/album/7kYGk5VsNaBwa3OuVsKmlI) | 3:20 |
@@ -467,8 +467,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 457 | [Dog Dog \- Ao Vivo](https://open.spotify.com/track/0bICDEm3ecaAeUy38sqEYG) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 2:32 |
 | 458 | [Adeus](https://open.spotify.com/track/7hS49CsgrcdKMewHLtVxNy) | [Tiaguinho Carvalho](https://open.spotify.com/artist/3YTPwaAl7b7ve2E7fEfeMc) | [Sentimento no Máximo 2.0](https://open.spotify.com/album/4asOaoxIcNXJv5wLPSBS5V) | 2:24 |
 | 459 | [Encarcerado](https://open.spotify.com/track/3Z1v2vb4QQCQTloMzuIpf3) | [Laluna e Vinícius](https://open.spotify.com/artist/2FC4Om8SSHWcOzab7jTYGf) | [O Que Rola Com Você](https://open.spotify.com/album/1KTxeiiTjqZCPZKDM7LRsm) | 3:13 |
-| 460 | [E Eu](https://open.spotify.com/track/2GfCkgOiNolKBv1HTnD14H) | [Vitor Lima](https://open.spotify.com/artist/3n5lTanyLbwil9M5vkjFqh) | [Brincar de Vida](https://open.spotify.com/album/4xYyGSs39slfLLhRPssNFH) | 3:27 |
-| 461 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
+| 460 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
+| 461 | [E Eu](https://open.spotify.com/track/2GfCkgOiNolKBv1HTnD14H) | [Vitor Lima](https://open.spotify.com/artist/3n5lTanyLbwil9M5vkjFqh) | [Brincar de Vida](https://open.spotify.com/album/4xYyGSs39slfLLhRPssNFH) | 3:27 |
 | 462 | [Amigo Que É Amigo](https://open.spotify.com/track/5D1ixNARlM6FgtVwrb0esH) | [Junior Magalhaes](https://open.spotify.com/artist/55PGtNFOs1hBbN0szW9p2T) | [Junior Magalhaes](https://open.spotify.com/album/2DE1jLXH3UgvNWW7WXxbSR) | 2:16 |
 | 463 | [Escolhe](https://open.spotify.com/track/2UBI2kgmy5pEzGJ5KpDbXZ) | [Nildo Rocha](https://open.spotify.com/artist/6PZ5U2oJhet83kYygVQ5mp) | [Chora Não Que Passa](https://open.spotify.com/album/5kl5EJ177UCxDi96PGeYIA) | 3:16 |
 | 464 | [Bébe Condenado \- Ao Vivo](https://open.spotify.com/track/4WE2NwQMt9kfop7q4kIzAg) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 2:33 |
@@ -494,4 +494,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 484 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 | 485 | [Empatado](https://open.spotify.com/track/2R2VmRrz86KaWp8bfXFXVQ) | [João Barreto Oficial](https://open.spotify.com/artist/7bTjPVV03uXGSwNaumEmtY) | [Arrochando no São João](https://open.spotify.com/album/21yJnJ6IuFwiDLSD10CiAX) | 2:27 |
 
-Snapshot ID: `AchJ9gAAAAA0JSEKBiiAoTRksgyYPKDl`
+Snapshot ID: `AchP0gAAAAAX34d0yA10rKL4W2LSFjgk`

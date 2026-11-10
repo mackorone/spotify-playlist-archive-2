@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29237,
+  "num_followers": 29240,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAOjVGY86oEezlKuwtY4oHD",
+  "snapshot_id": "au+7gAAAAACxXe+2KvCxq4rptw5brRhn",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GO! GO! GO! (feat. KB & Lecrae)",
+        "url": "https://open.spotify.com/album/2esYsGDC1pjESKiiAG2eHW"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 210485,
+      "name": "GO! GO! GO! (feat. KB & Lecrae)",
+      "url": "https://open.spotify.com/track/7plb5KLIukEWva4OGtYd8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wholehearted",
         "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
       },
@@ -955,26 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO! GO! GO! (feat. KB & Lecrae)",
-        "url": "https://open.spotify.com/album/2esYsGDC1pjESKiiAG2eHW"
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
       "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
         }
       ],
-      "duration_ms": 210485,
-      "name": "GO! GO! GO! (feat. KB & Lecrae)",
-      "url": "https://open.spotify.com/track/7plb5KLIukEWva4OGtYd8Z"
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,
@@ -999,26 +1019,6 @@
       "duration_ms": 203195,
       "name": "Danza",
       "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
-        }
-      ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     }
   ],
   "unique_name": "This Is KB",

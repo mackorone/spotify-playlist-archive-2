@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx">Mbryo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-62 songs - 3 hr 9 min
+63 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 | 2025-02-26 |  |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-08-21 |  |
 | [Sability](https://open.spotify.com/track/76mICRITD4cOg5KnqH9f3s) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability / Rush / Bloody Samaritan \(with Kelly Rowland\)](https://open.spotify.com/album/46AsExTYJHcAQSWvIdgD83) | 2:46 | 2023-08-21 |  |
+| [Show Me](https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:27 | 2026-11-09 |  |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-08-21 | 2024-04-04 |
 | [Tete](https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Tete](https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2) | 2:43 | 2024-08-23 |  |
 | [Treasure](https://open.spotify.com/track/0ZeU1691bYmy26bDvFCUMc) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:39 | 2026-10-05 |  |

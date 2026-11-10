@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf41",
-  "num_followers": 144273,
+  "num_followers": 144276,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "Ensorcel\u00e9e",
-        "url": "https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 163059,
-      "name": "Ensorcel\u00e9e",
-      "url": "https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH"
-    },
-    {
-      "added_at": "2026-11-06 05:02:37",
-      "album": {
         "name": "Loose Ends",
         "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 181448,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
+    },
+    {
+      "added_at": "2026-11-06 05:02:37",
+      "album": {
+        "name": "Ensorcel\u00e9e",
+        "url": "https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 163059,
+      "name": "Ensorcel\u00e9e",
+      "url": "https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH"
     },
     {
       "added_at": "2026-11-06 05:02:37",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
+        "name": "The Wandering",
+        "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "The Wandering",
+      "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
+    },
+    {
+      "added_at": "2026-11-06 05:02:37",
+      "album": {
         "name": "Moi je t'aime",
         "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "The Wandering",
-        "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "The Wandering",
-      "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
-    },
-    {
-      "added_at": "2026-11-06 05:02:37",
-      "album": {
         "name": "Ease Your Mind",
         "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Unlike Anything",
-      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
-    },
-    {
-      "added_at": "2026-11-06 05:02:37",
-      "album": {
         "name": "Sprint!",
         "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 204400,
       "name": "Frisbee & marmelade",
       "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
+    },
+    {
+      "added_at": "2026-11-06 05:02:37",
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Unlike Anything",
+      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
     },
     {
       "added_at": "2026-11-06 05:02:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 138026,
-      "name": "Rosier-douleur",
-      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
-    },
-    {
-      "added_at": "2026-11-06 05:02:37",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 215560,
       "name": "L'\u00eele \u00e0 vingt-cinq sous",
       "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
+    },
+    {
+      "added_at": "2026-11-06 05:02:37",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "Rosier-douleur",
+      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
     },
     {
       "added_at": "2026-11-06 05:02:37",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2026-11-06 05:02:37",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-11-06 05:02:37",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "TABLE DU FOND",
-        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
-      },
-      "artists": [
-        {
-          "name": "Marc-Antoine Delage",
-          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "TABLE DU FOND",
-      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
-    },
-    {
-      "added_at": "2026-11-06 05:02:37",
-      "album": {
         "name": "Parmi les autres",
         "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 219000,
       "name": "Parmi les autres",
       "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
+    },
+    {
+      "added_at": "2026-11-06 05:02:37",
+      "album": {
+        "name": "TABLE DU FOND",
+        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Delage",
+          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "TABLE DU FOND",
+      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
     },
     {
       "added_at": "2026-11-06 05:02:37",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
+    },
+    {
+      "added_at": "2026-11-06 05:02:37",
+      "album": {
         "name": "Gros Pierre",
         "url": "https://open.spotify.com/album/14c1yHU4DDR8s9pBeJ7ogR"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 325213,
       "name": "Gros Pierre",
       "url": "https://open.spotify.com/track/5Recbbg68TS7AdeHKy2tdk"
-    },
-    {
-      "added_at": "2026-11-06 05:02:37",
-      "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-11-06 05:02:37",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-11-06 05:02:37",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+        "name": "Dog (everybody learns)",
+        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
       },
       "artists": [
         {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
         }
       ],
-      "duration_ms": 184360,
-      "name": "pas de vagues",
-      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
+      "duration_ms": 193212,
+      "name": "Dog (everybody learns)",
+      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
     },
     {
       "added_at": "2026-11-06 05:02:37",

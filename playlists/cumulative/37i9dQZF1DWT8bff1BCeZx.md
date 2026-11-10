@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,174 songs - 3 day 6 hr 35 min
+1,175 songs - 3 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [God’s Love](https://open.spotify.com/track/3Z8WwJoVgX5l7EOeUecuRW) | [Jay\-x beatz](https://open.spotify.com/artist/6FJ1dXvPI0x6bghe5atmkb), [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [God’s Love](https://open.spotify.com/album/5KcgEdMLmMxZXUCcSz6osk) | 2:45 | 2025-10-24 | 2025-11-14 |
 | [Gold \(Pt\. 2\)](https://open.spotify.com/track/5pQtkqcOynPsVucdNnVj6a) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Gold \(Pt\. 2\)](https://open.spotify.com/album/6QQaqsjdZmIAvv6trWc3s2) | 3:21 | 2025-07-18 | 2025-11-14 |
 | [Gologosa](https://open.spotify.com/track/6JP4vMRwXJbNe32JDfnxvI) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe), [Tyra Chantey](https://open.spotify.com/artist/2TTmUTfsQjQb9Wx8arAZy9) | [Yerusalema](https://open.spotify.com/album/19BsmEf79uxQRjfiAcr7lH) | 4:22 | 2024-08-23 | 2025-03-14 |
+| [Good](https://open.spotify.com/track/1wIxkiisXdRDA6DgMuRem8) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [Ife Darams](https://open.spotify.com/artist/7vWtRhAI6BfOz9hmJXD1Pc) | [Good](https://open.spotify.com/album/1ribgy5ITd9gQBQZpRelXG) | 4:26 | 2026-11-06 |  |
 | [GOOD](https://open.spotify.com/track/7d2uC1DX0nR4zCk5JiKZoV) | [Hassan G.](https://open.spotify.com/artist/3C51DeAHTPM6YyRmXndP9D), [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [GOOD](https://open.spotify.com/album/4eWpBl8NoMadF6slBQQOwb) | 3:29 | 2025-09-12 | 2026-02-27 |
 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 | 2026-07-17 | 2026-09-25 |
 | [GOOD FEELIN](https://open.spotify.com/track/3kDMSBvc2zfjZBjvFqV8ZQ) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [GOOD FEELIN](https://open.spotify.com/album/1YCEfz6hbynNiARp90E1DV) | 2:31 | 2026-05-22 | 2026-06-26 |
@@ -418,7 +419,7 @@
 | [Halleluyah](https://open.spotify.com/track/4PbxaKWEFqJ7ipntKLUPh3) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Ola'sage](https://open.spotify.com/artist/7sOMk7p7RRSkNw7nBSitlH), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [14:6](https://open.spotify.com/album/42OzMezEOhj6PQeEx0gLhv) | 3:08 | 2025-04-25 | 2025-09-05 |
 | [Halleluyah](https://open.spotify.com/track/2h8yRl1LvFqM1CpbdUJhQN) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Halleluyah](https://open.spotify.com/album/4Bupyny8rQ2FhN9BBVvted) | 2:57 | 2025-09-05 | 2025-10-10 |
 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-02-28 | 2025-04-11 |
-| [Happiness Is Free](https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Happiness Is Free](https://open.spotify.com/album/6LFSxhcEU6ITOS3fGcxHoG) | 3:19 | 2026-03-27 |  |
+| [Happiness Is Free](https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Happiness Is Free](https://open.spotify.com/album/6LFSxhcEU6ITOS3fGcxHoG) | 3:19 | 2026-03-27 | 2026-11-10 |
 | [Happy Place](https://open.spotify.com/track/7tOiLVRNAYbGb0AiNWXzVs) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Happy Place](https://open.spotify.com/album/2pfSxBNURys5pxGjZisVpF) | 2:30 | 2025-08-01 | 2025-11-14 |
 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 | 2026-04-24 | 2026-06-26 |
 | [HASKE](https://open.spotify.com/track/5it5DZNFHCOQlHXxVDll3S) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk) | [HASKE](https://open.spotify.com/album/1DCDoYPp7dMNgYxkWjboAL) | 3:13 | 2025-06-20 | 2026-10-09 |

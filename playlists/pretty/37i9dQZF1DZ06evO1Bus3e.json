@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12754,
+  "num_followers": 12752,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAfenzJtyskxLmF4c3eIknM",
+  "snapshot_id": "au+7gAAAAACcFId86UGVt07FRCV7xBmp",
   "tracks": [
     {
       "added_at": null,
@@ -463,30 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Chaka",
-        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Gente Chaka",
-      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crimen Organizado",
         "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
       },
@@ -523,22 +499,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Coron\u00f3 La Vuelta",
-        "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
+        "name": "Gente Chaka",
+        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
       },
       "artists": [
         {
-          "name": "Josue",
-          "url": "https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc"
-        },
-        {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         }
       ],
-      "duration_ms": 151536,
-      "name": "Ya Coron\u00f3 La Vuelta",
-      "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
+      "duration_ms": 212400,
+      "name": "Gente Chaka",
+      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
     },
     {
       "added_at": null,
@@ -559,6 +539,26 @@
       "duration_ms": 241727,
       "name": "Sacando El Polvo",
       "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Coron\u00f3 La Vuelta",
+        "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
+      },
+      "artists": [
+        {
+          "name": "Josue",
+          "url": "https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 151536,
+      "name": "Ya Coron\u00f3 La Vuelta",
+      "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,791 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,795 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 23 | [Want to fall in love](https://open.spotify.com/track/0JrxJyLzc4dRNHE1Kcyycm) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Want to fall in love](https://open.spotify.com/album/4AJjXoKd9JVW1MI14Qulj0) | 3:54 |
 | 24 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
 | 25 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
-| 26 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
-| 27 | [Good Bye Sadness, Hello Happiness](https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:38 |
+| 26 | [Good Bye Sadness, Hello Happiness](https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:38 |
+| 27 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 28 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 |
 | 29 | [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 |
 | 30 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 |

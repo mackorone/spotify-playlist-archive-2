@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,249,436 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,249,261 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 56 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
 | 57 | [peace](https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:54 |
 | 58 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
-| 59 | [Wake Up, Breathe In](https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Wake Up, Breathe In](https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH) | 3:14 |
-| 60 | [Moth Song](https://open.spotify.com/track/3cYu5LhSV5Bxi8DLsOrXEj) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 5:03 |
+| 59 | [Moth Song](https://open.spotify.com/track/3cYu5LhSV5Bxi8DLsOrXEj) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 5:03 |
+| 60 | [Wake Up, Breathe In](https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Wake Up, Breathe In](https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH) | 3:14 |
 | 61 | [Joyride \(home demo\)](https://open.spotify.com/track/1crXwNM34nG0P3c55HvqtY) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Joyride \(home demo\)](https://open.spotify.com/album/1a9vLDB7fm36N1EeJe7gV6) | 3:44 |
 | 62 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 |
 | 63 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |

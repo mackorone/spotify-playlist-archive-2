@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,559 likes - 206 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560 likes - 206 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 90 | [Mattress](https://open.spotify.com/track/70AF8JxhK63gd3fpTA1pWj) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Mattress](https://open.spotify.com/album/6IHieoQMfn9lX8HWIfmKR3) | 3:05 |
 | 91 | [Low Rise Jeans](https://open.spotify.com/track/2TsYglxwgycpzDRhXjiodv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 3:26 |
 | 92 | [Take You Back](https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:49 |
-| 93 | [Closure](https://open.spotify.com/track/4qRWEdbVRXDeqLzH4KP6vw) | [Hayley Warner](https://open.spotify.com/artist/1xrvnT8IPYpS6iOkAq8tLt) | [Closure](https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc) | 4:00 |
-| 94 | [Ghost](https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 4:15 |
+| 93 | [Ghost](https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 4:15 |
+| 94 | [Closure](https://open.spotify.com/track/4qRWEdbVRXDeqLzH4KP6vw) | [Hayley Warner](https://open.spotify.com/artist/1xrvnT8IPYpS6iOkAq8tLt) | [Closure](https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc) | 4:00 |
 | 95 | [Legendary](https://open.spotify.com/track/4HHwFNJgxjZjCYCxQcNoMa) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:24 |
 | 96 | [Old Habits Die Hard](https://open.spotify.com/track/4H6pQsTQaY1ozwamsS1RJt) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:41 |
 | 97 | [Man Up](https://open.spotify.com/track/1YKOm06nQc83UXXG4ubrjo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 2:48 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 136 | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX) | 3:20 |
 | 137 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 |
 | 138 | [Whole Heart](https://open.spotify.com/track/4gbTxDPmg2KOUpfp727PGT) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 3:11 |
-| 139 | [Mood](https://open.spotify.com/track/5Z4O3TSZu69elcy61uTKWC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Mood](https://open.spotify.com/album/67h8coitqvalWbijNr6z7a) | 3:09 |
-| 140 | [Sex Star](https://open.spotify.com/track/3mMYKkVBrx0t7CABhM39n4) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 3:08 |
+| 139 | [Sex Star](https://open.spotify.com/track/3mMYKkVBrx0t7CABhM39n4) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 3:08 |
+| 140 | [Mood](https://open.spotify.com/track/5Z4O3TSZu69elcy61uTKWC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Mood](https://open.spotify.com/album/67h8coitqvalWbijNr6z7a) | 3:09 |
 | 141 | [Le Boy](https://open.spotify.com/track/0rWJes5y17NqEx29KI7bvh) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 3:30 |
 | 142 | [Latitude](https://open.spotify.com/track/6fjT2ujTDleTLCDWR5ja0f) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:05 |
 | 143 | [Drop Top Sleigh Ride \(with Tyga\)](https://open.spotify.com/track/2qVCRYKDLRWpMXhpLR09O3) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:20 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 152 | [Hungover](https://open.spotify.com/track/75g7UV5B1ndLGsDvfjC489) | [Emmalyn](https://open.spotify.com/artist/75y1eTkF9JFAO2MIR2EXtg) | [Hungover](https://open.spotify.com/album/464LmfCz1lP28qe5ndSj6s) | 3:14 |
 | 153 | [All The Money](https://open.spotify.com/track/4In7ngnXHyZieF5HCmoGqi) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:26 |
 | 154 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
-| 155 | [Middle of Love](https://open.spotify.com/track/4JjjhFFQ3Spgnl2BrXfKtN) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:15 |
-| 156 | [Rest In Peace](https://open.spotify.com/track/6LiBrstA5KyGCOuO7PH8Km) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/3zwVhRR9amRs0gBU2mEZ6a) | 2:55 |
+| 155 | [Rest In Peace](https://open.spotify.com/track/6LiBrstA5KyGCOuO7PH8Km) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/3zwVhRR9amRs0gBU2mEZ6a) | 2:55 |
+| 156 | [Middle of Love](https://open.spotify.com/track/4JjjhFFQ3Spgnl2BrXfKtN) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:15 |
 | 157 | [The Phone Call](https://open.spotify.com/track/6j4IgCOt3BfxkTf5KKreml) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:29 |
 | 158 | [miss america](https://open.spotify.com/track/1KnPoungklUoDF0I2uNA1R) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [miss america](https://open.spotify.com/album/4aqHiEdSSgOgjmxFUuV5v9) | 3:51 |
 | 159 | [Quarter Life Crisis](https://open.spotify.com/track/2tanvkYElTbqn48K3uawne) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [Yesterday's Tomorrow Night](https://open.spotify.com/album/0YUEyU02GWdY3xRs55DfzE) | 3:12 |
@@ -203,8 +203,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 193 | [Baby](https://open.spotify.com/track/5keMClWIr5PpsGeDi4QZKK) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:36 |
 | 194 | [Not Today](https://open.spotify.com/track/2RZCuOGKcbo7o6EOwZXhRA) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:47 |
 | 195 | [I Wanna Lose](https://open.spotify.com/track/0X2kBitXUuyANRUMKKSBbi) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:30 |
-| 196 | [Presentation Destination](https://open.spotify.com/track/4EIPjVRGtI5zvZSlNky3N2) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 1:04 |
-| 197 | [Never Getting Away](https://open.spotify.com/track/0Ztoe7sRtkPPjV3s0l419z) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:54 |
+| 196 | [Never Getting Away](https://open.spotify.com/track/0Ztoe7sRtkPPjV3s0l419z) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:54 |
+| 197 | [Presentation Destination](https://open.spotify.com/track/4EIPjVRGtI5zvZSlNky3N2) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 1:04 |
 | 198 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 | 199 | [Jesus Fucking Slays](https://open.spotify.com/track/23BWnKflS7OIhUV4TJNwRQ) | [Breland](https://open.spotify.com/artist/2dCmeVluj7wt6kLjV0ApeF) | [Jesus Fucking Slays](https://open.spotify.com/album/0WKiLaO2inOaA5CrdieKuw) | 2:37 |
 | 200 | [Rock Hard](https://open.spotify.com/track/39x4G6gNmj0L24pILg9oqk) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Rock Hard](https://open.spotify.com/album/6PksrWCNFp5Amz30JdDmwf) | 2:04 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 205 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 206 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AchJ9gAAAABk3vmo/ve0AenymP6pxwVA`
+Snapshot ID: `AchP0gAAAAB35u79U5HFxtTZnvBklc3P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,818 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,825 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 2 | [El Día Que Yo Quiera \- Bonus Track](https://open.spotify.com/track/76EFsBEh4KDIYer3po0yGe) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Día Que Yo Quiera \(Bonus Track\)](https://open.spotify.com/album/7eyKbzvAPU6i3NdE2k5Nuu) | 2:40 |
 | 3 | [A Lo Mejor](https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:32 |
 | 4 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
-| 5 | [Tengo Claro](https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Tengo Claro](https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr) | 3:11 |
-| 6 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 |
+| 5 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 |
+| 6 | [Tengo Claro](https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Tengo Claro](https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr) | 3:11 |
 | 7 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 |
 | 8 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
 | 9 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 36 | [El Ausente](https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 2:42 |
 | 37 | [Se Podria Decir](https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:24 |
 | 38 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
-| 39 | [Pensé En Ti](https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pensé En Ti](https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe) | 2:32 |
-| 40 | [La Mejor Versión De Mí](https://open.spotify.com/track/36V82ZTiFqW21W8UTzkloN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:48 |
+| 39 | [La Mejor Versión De Mí](https://open.spotify.com/track/36V82ZTiFqW21W8UTzkloN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:48 |
+| 40 | [Pensé En Ti](https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pensé En Ti](https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe) | 2:32 |
 | 41 | [Aguántame](https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Aguántame](https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF) | 2:08 |
 | 42 | [De Ti Enamorado](https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:25 |
 | 43 | [Increíble](https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [Qué Maldición](https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb) | 3:23 |
 | 50 | [Excepto A Ti](https://open.spotify.com/track/2D5QYCEVr0PvWIXnXUoGRa) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 2:30 |
 
-Snapshot ID: `au5qAAAAAABvZGZ9vVqfkKWm0GhC4A2G`
+Snapshot ID: `au+7gAAAAACZD5bQjAxJvVxtmKXqrfmT`

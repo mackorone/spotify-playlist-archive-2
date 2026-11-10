@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK?si=0ed48281746f426c">Ṣẹwà </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,215 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,226 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

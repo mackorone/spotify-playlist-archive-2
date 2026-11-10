@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 205984,
       "name": "I Feel Energy",
       "url": "https://open.spotify.com/track/1vOiEBJTfvWB4eHZ6O8Ha7"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 224328,
       "name": "Love Within",
       "url": "https://open.spotify.com/track/0O5J5xw0Geb9csWY6rg3uj"
@@ -2218,6 +2218,28 @@
       "duration_ms": 269000,
       "name": "Nanana",
       "url": "https://open.spotify.com/track/0lN46YG9nlCfJYf1JJQfOf"
+    },
+    {
+      "album": {
+        "name": "Nava Shuru",
+        "url": "https://open.spotify.com/album/4bDrK4ZFf4nYyZblNjqc1P"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        },
+        {
+          "name": "Molothav",
+          "url": "https://open.spotify.com/artist/1GuDzgOAU3C16mO3H3lZic"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211486,
+      "name": "Nava Shuru",
+      "url": "https://open.spotify.com/track/3HJtQkNms04N8BbGwJ5hNi"
     },
     {
       "album": {
@@ -2546,6 +2568,24 @@
       "duration_ms": 243200,
       "name": "Rage is a Feeling",
       "url": "https://open.spotify.com/track/4vq7sdPlVwqg3ONTEklL8F"
+    },
+    {
+      "album": {
+        "name": "Rain Tonight",
+        "url": "https://open.spotify.com/album/0Md3bmjnIcD6U0iNGTssJR"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Rain Tonight",
+      "url": "https://open.spotify.com/track/615uAwouJzlpJhjTTtAXFf"
     },
     {
       "album": {
@@ -3361,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "THE NIGHT GOES ON",
+        "url": "https://open.spotify.com/album/4DbLMoLzlBDNmGDzFqAVrh"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Roberts",
+          "url": "https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169307,
+      "name": "THE NIGHT GOES ON",
+      "url": "https://open.spotify.com/track/2yvI8iNb4srqkUHp6v1Pnb"
+    },
+    {
+      "album": {
         "name": "The Portal Is You",
         "url": "https://open.spotify.com/album/5Jr4WzHqfP08SZvlEMBYZy"
       },
@@ -3558,7 +3616,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 240000,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/42jrwZa5W3WJmIQJUJ0KNh"

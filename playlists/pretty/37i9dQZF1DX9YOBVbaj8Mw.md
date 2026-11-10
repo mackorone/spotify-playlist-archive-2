@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,408 likes - 79 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,412 likes - 79 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 75 | [Tisra for Zawinul \(feat\. Bodek Janke\)](https://open.spotify.com/track/7MNT9fWxScxpQInHFaasdr) | [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A), [Bodek Janke](https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE) | [No Return No Karma](https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB) | 5:02 |
 | 76 | [Etiuda f\-moll z Trois Nouvelles Études nr 1 Dbop\. 36A](https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK) | [LIS](https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Fryderyk LIS](https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71) | 4:11 |
 | 77 | [number 4](https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato) | [Aga Derlak](https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l) | [neurodivergent](https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu) | 3:09 |
-| 78 | [Through The Hourglass](https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku) | [Grzegorz Masłowski](https://open.spotify.com/artist/0Niiwq7pOtjOiLHWgazzFf), [Marcin Kaletka](https://open.spotify.com/artist/3Nt9qGuEE62mfXix1olw8T), [Jarosław Bothur](https://open.spotify.com/artist/27py90o2nVmbxES4ZRD0G0), [Mateusz Pałka](https://open.spotify.com/artist/6xP0Vou9vkHkmiblCpoLgo), [Piotr Południak](https://open.spotify.com/artist/5crOp7ea1g8f6YHiqzL8UH) | [Through The Hourglass \(Acoustic\)](https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE) | 9:10 |
-| 79 | [Dawno I Nieprawda](https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY) | [Karolina Błachnia](https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX) | [Wschód](https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92) | 7:50 |
+| 78 | [Dawno I Nieprawda](https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY) | [Karolina Błachnia](https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX) | [Wschód](https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92) | 7:50 |
+| 79 | [Through The Hourglass](https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku) | [Grzegorz Masłowski](https://open.spotify.com/artist/0Niiwq7pOtjOiLHWgazzFf), [Marcin Kaletka](https://open.spotify.com/artist/3Nt9qGuEE62mfXix1olw8T), [Jarosław Bothur](https://open.spotify.com/artist/27py90o2nVmbxES4ZRD0G0), [Mateusz Pałka](https://open.spotify.com/artist/6xP0Vou9vkHkmiblCpoLgo), [Piotr Południak](https://open.spotify.com/artist/5crOp7ea1g8f6YHiqzL8UH) | [Through The Hourglass \(Acoustic\)](https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE) | 9:10 |
 
 Snapshot ID: `AAAAAPfr+zFGOTc6SWGdywlopkMx+W7f`

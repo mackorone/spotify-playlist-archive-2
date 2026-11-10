@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604551,
+  "num_followers": 604560,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,38 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "You're Not What I Need",
+        "url": "https://open.spotify.com/album/4m8gGjBdYlYBoMlTlIbTwZ"
+      },
+      "artists": [
+        {
+          "name": "Offset Vision",
+          "url": "https://open.spotify.com/artist/21MA40opGe1SbGIZuN1G4F"
+        }
+      ],
+      "duration_ms": 175857,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/4G20NrWLkGu3PbEck4ItAt"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Nowhere, At Last",
+        "url": "https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "Dead Roses",
+      "url": "https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "JINX",
         "url": "https://open.spotify.com/album/35rdxaliabwQm6RTam3Wtk"
       },
@@ -455,38 +487,6 @@
       "duration_ms": 215342,
       "name": "TELL ME WHY - feat. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love",
       "url": "https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Nowhere, At Last",
-        "url": "https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "Dead Roses",
-      "url": "https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "You're Not What I Need",
-        "url": "https://open.spotify.com/album/4m8gGjBdYlYBoMlTlIbTwZ"
-      },
-      "artists": [
-        {
-          "name": "Offset Vision",
-          "url": "https://open.spotify.com/artist/21MA40opGe1SbGIZuN1G4F"
-        }
-      ],
-      "duration_ms": 175857,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/4G20NrWLkGu3PbEck4ItAt"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Big Couch",
-        "url": "https://open.spotify.com/album/63AHpXbfKdMuJlzZpCTujr"
-      },
-      "artists": [
-        {
-          "name": "Set Your Goals",
-          "url": "https://open.spotify.com/artist/2Ivw6FhAZpa7kiAXWztCq5"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Big Couch",
-      "url": "https://open.spotify.com/track/3UqJCXXBjkGMEsTpMvyFnW"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Barely Here",
         "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 164586,
       "name": "Barely Here",
       "url": "https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Big Couch",
+        "url": "https://open.spotify.com/album/63AHpXbfKdMuJlzZpCTujr"
+      },
+      "artists": [
+        {
+          "name": "Set Your Goals",
+          "url": "https://open.spotify.com/artist/2Ivw6FhAZpa7kiAXWztCq5"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Big Couch",
+      "url": "https://open.spotify.com/track/3UqJCXXBjkGMEsTpMvyFnW"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "So Happy",
-        "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 173783,
-      "name": "So Happy",
-      "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Burst & Decay (Volume III)",
         "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "So Happy",
+        "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 173783,
+      "name": "So Happy",
+      "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Hard Call",
         "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 190000,
       "name": "Hard Call",
       "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Moments Before The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Phoenix Down",
-      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1079,6 +1063,22 @@
       "duration_ms": 191475,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Phoenix Down",
+      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Right Place, Wrong Timing",
-        "url": "https://open.spotify.com/album/3ghkOYTOyYQFjI83YpDpEn"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 178270,
-      "name": "Right Place, Wrong Timing",
-      "url": "https://open.spotify.com/track/6CkPEo3j7XXNlNluwrMfYO"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Who Will Look After The Dogs?",
         "url": "https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 119481,
       "name": "No Hope",
       "url": "https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Right Place, Wrong Timing",
+        "url": "https://open.spotify.com/album/3ghkOYTOyYQFjI83YpDpEn"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 178270,
+      "name": "Right Place, Wrong Timing",
+      "url": "https://open.spotify.com/track/6CkPEo3j7XXNlNluwrMfYO"
     },
     {
       "added_at": "2026-10-23 04:01:58",

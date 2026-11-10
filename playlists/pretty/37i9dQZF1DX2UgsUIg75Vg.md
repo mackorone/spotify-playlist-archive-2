@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: nomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,748 likes - 260 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,673 likes - 260 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

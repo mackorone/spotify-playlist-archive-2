@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Robert van Hemert, Rutger van Barneveld, Bente, Milolaathetlukken, Slayyyter en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,654 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,628 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 67 | [Space Keeper](https://open.spotify.com/track/5TUn4xQuiPDKqPsuuNvbRV) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Space Keeper](https://open.spotify.com/album/49tJfnbIVGFkeBXSwfM69o) | 3:43 |
 | 68 | [Traantjes](https://open.spotify.com/track/2o4NbdzXSpy0b6cLBLPqwL) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Traantjes](https://open.spotify.com/album/254VsFHatdRvzoeOlSkbHf) | 2:56 |
 | 69 | [Ash](https://open.spotify.com/track/3VMqhMPRzXcrBfx1juYih9) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Ash](https://open.spotify.com/album/3zvtsRwSHUdyDboyQJY6VU) | 3:51 |
-| 70 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
+| 70 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
 | 71 | [Gentle](https://open.spotify.com/track/6LIJrLuXNtZ8KRTJwpH3MQ) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Gentle](https://open.spotify.com/album/4pCBag45vcTq2CEqC9OiWY) | 3:25 |
 | 72 | [7TEEN](https://open.spotify.com/track/7lTs1UOh6AHjgDEWrytpHh) | [Janet Livv](https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n) | [7TEEN](https://open.spotify.com/album/31WRqSd1rbuTZA9yM069sD) | 3:10 |
 | 73 | [Ratata](https://open.spotify.com/track/3p13w0ssiW2eH9udyGsNGj) | [Denise Kroes](https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Ratata](https://open.spotify.com/album/4KfyidXyjTq8ga9SPvNmxS) | 1:54 |

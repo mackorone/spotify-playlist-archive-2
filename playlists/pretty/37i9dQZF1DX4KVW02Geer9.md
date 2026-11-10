@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Sup
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,353 likes - 128 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,349 likes - 128 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

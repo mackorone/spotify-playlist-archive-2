@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,608 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,625 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 55 | [Bad Girlfriend](https://open.spotify.com/track/5ynWvN3bQymHVThxutO4hG) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs](https://open.spotify.com/album/1AB8tdwS9hY4iyulXexNab) | 3:25 |
 | 56 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
 | 57 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
-| 58 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
-| 59 | [The Best Things](https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 4:26 |
+| 58 | [The Best Things](https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 4:26 |
+| 59 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
 | 60 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 |
 | 61 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
 | 62 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 73 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
 | 74 | [Mood Ring](https://open.spotify.com/track/1G8801Xjv5DtBzmOn5yUjV) | [Grave Secrets](https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo) | [Til Your Lungs Fall Out](https://open.spotify.com/album/032Ru084gRFiYPGnvzNLTz) | 2:41 |
 | 75 | [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
-| 76 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
-| 77 | [Dance Of The Manatee](https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA) | [Fair To Midland](https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD) | [Fables From a Mayfly: What I Tell You Three Times is True](https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC) | 4:11 |
+| 76 | [Dance Of The Manatee](https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA) | [Fair To Midland](https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD) | [Fables From a Mayfly: What I Tell You Three Times is True](https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC) | 4:11 |
+| 77 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
 | 78 | [Turn Me Up](https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Turn Me Up](https://open.spotify.com/album/0yQtcZfchPzofdgfNamsLX) | 2:07 |
 | 79 | [Supercharged](https://open.spotify.com/track/1C4V5YwbuMEcQgsNV3Sapg) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:02 |
 | 80 | [Round The Bend](https://open.spotify.com/track/3pYEOC4YluYylx12kstL5L) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:14 |

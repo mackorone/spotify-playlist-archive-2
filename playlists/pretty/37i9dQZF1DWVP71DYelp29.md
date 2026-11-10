@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Alessia Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,086 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,075 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 62 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
 | 63 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 64 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 |
-| 65 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
-| 66 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 |
+| 65 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 |
+| 66 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
 | 67 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 |
 | 68 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 |
 | 69 | [Day ‘n’ Nite \- Spotify Singles](https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Spotify Singles](https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr) | 4:18 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 105 | [Waterfalls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Spotify Singles](https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v) | 3:10 |
 | 106 | [I Want It That Way \- Spotify Singles](https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:26 |
 | 107 | [Everything Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:37 |
-| 108 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
-| 109 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 |
+| 108 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 |
+| 109 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
 | 110 | [Broccoli \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6TdtffAIKX1VlGeDtadh2E) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Spotify Singles](https://open.spotify.com/album/2wxppKhtOtdVmulah3qxow) | 2:43 |
 | 111 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 |
 | 112 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,729 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,737 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 37 | [Bad Guy](https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:12 |
 | 38 | [Thug Cry](https://open.spotify.com/track/74PG0V0b2yt1xZqTNkL2Tr) | [LBS Kee'vin](https://open.spotify.com/artist/7CnxjDbOLSjMEAcyehjztA) | [Belair Baby](https://open.spotify.com/album/1iegXh1wkEkwo9Z74nwO4K) | 2:18 |
 | 39 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
-| 40 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
-| 41 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
+| 40 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
+| 41 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
 | 42 | [Florida Nights](https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 2:23 |
 | 43 | [No More Body's](https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX) | [Celfmade Cel](https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s) | [No More Body's](https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx) | 1:50 |
 | 44 | [Trenches](https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt) | [Tavey Baby](https://open.spotify.com/artist/2QBLcQmTu8qTGatJkUvgyd) | [Trenches](https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE) | 2:35 |

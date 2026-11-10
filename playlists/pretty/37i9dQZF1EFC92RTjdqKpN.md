@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217 likes - 201 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216 likes - 201 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 59 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
 | 60 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
 | 61 | [Gasoline \(feat\. Laura White\)](https://open.spotify.com/track/1Env1Ldwa5Ob2QMtBTTVZG) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:29 |
-| 62 | [In The Morning](https://open.spotify.com/track/5Tb0IjmjKKNa81rCXjqBiG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [In The Morning](https://open.spotify.com/album/5ZbJqA9d9JtOVwVb5nZYkU) | 2:47 |
-| 63 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 |
+| 62 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 |
+| 63 | [In The Morning](https://open.spotify.com/track/5Tb0IjmjKKNa81rCXjqBiG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [In The Morning](https://open.spotify.com/album/5ZbJqA9d9JtOVwVb5nZYkU) | 2:47 |
 | 64 | [Forever](https://open.spotify.com/track/56ZFxOatfQbv6lPABm4c17) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 2:51 |
 | 65 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
 | 66 | [Tattoo](https://open.spotify.com/track/1mxiMQWvsjMQKV0V7EAj3x) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:26 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 156 | [Where We Left](https://open.spotify.com/track/3z9yT94FvmgWOgXZHuE0b6) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Where We Left](https://open.spotify.com/album/5a5ywLo0LuBmnOO1hb28P7) | 3:40 |
 | 157 | [Baby Don't Dance](https://open.spotify.com/track/1fZ5HV5Qv5aQSV9dXWZ1vy) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:24 |
 | 158 | [Why Does It Hurt](https://open.spotify.com/track/3Vr2LVreIKr9aHy0x7Swmz) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Why Does It Hurt](https://open.spotify.com/album/3Zbab5E4YrBcBZPgcXpE05) | 3:18 |
-| 159 | [Who's It Gonna Be](https://open.spotify.com/track/53B756r7H1DB0l0jia4p5x) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:27 |
-| 160 | [After Hours](https://open.spotify.com/track/6HZtXTeZ3hUn5CvTybzvGx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:25 |
+| 159 | [After Hours](https://open.spotify.com/track/6HZtXTeZ3hUn5CvTybzvGx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:25 |
+| 160 | [Who's It Gonna Be](https://open.spotify.com/track/53B756r7H1DB0l0jia4p5x) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:27 |
 | 161 | [We've Been Here Before](https://open.spotify.com/track/5Jqrw4v1IOgoKdrPeswPKt) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [17 \- EP](https://open.spotify.com/album/6MRKuygv9ooGp2QPUyT4qk) | 3:01 |
 | 162 | [Therapy](https://open.spotify.com/track/2bjRu9zvmzsHcWFcvg9Wek) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [James Hart](https://open.spotify.com/artist/7EEz8argPRkpyE5cFJpyi5) | [Red Lips](https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1) | 3:38 |
 | 163 | [Little Things](https://open.spotify.com/track/5f0SfZp3LqbA1Ny6L4v15U) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Little Things](https://open.spotify.com/album/2Agpx4O43voM4HbvPJZ6cv) | 2:55 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 200 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 201 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AchJ7AAAAAC9dNsBEeg9ZYROm1cglrk5`
+Snapshot ID: `AchQBAAAAABdYA4tzFj4qGkszhNOD+e5`

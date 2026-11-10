@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 461094,
+  "num_followers": 461112,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 216986,
       "name": "Mis Sentimientos",
       "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
-      },
-      "artists": [
-        {
-          "name": "Grupo So\u00f1ador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo So\u00f1ador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Limonadas Verdes",
-        "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
-      },
-      "artists": [
-        {
-          "name": "Tropical Del Bravo",
-          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Limonadas Verdes",
-      "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Fuera De Control",
         "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 194826,
       "name": "Cumbia Del Sol",
       "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Limonadas Verdes",
+        "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
+      },
+      "artists": [
+        {
+          "name": "Tropical Del Bravo",
+          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Limonadas Verdes",
+      "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "En Contacto (En Vivo)",
         "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 172117,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Adicto a Tu Piel (Rebajada)",
-        "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
-      },
-      "artists": [
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Adicto a Tu Piel (Rebajada)",
-      "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Sin Salsa No Hay Para\u00edso",
-        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
+        "name": "Adicto a Tu Piel (Rebajada)",
+        "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
         }
       ],
-      "duration_ms": 281546,
-      "name": "Achilip\u00fa",
-      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
+      "duration_ms": 243066,
+      "name": "Adicto a Tu Piel (Rebajada)",
+      "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Antolog\u00eda Vol. 1",
-        "url": "https://open.spotify.com/album/2Yxv2Pk0U88ci91QsscZXI"
+        "name": "Sin Salsa No Hay Para\u00edso",
+        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
       },
       "artists": [
         {
-          "name": "Llamadores De Cartagena",
-          "url": "https://open.spotify.com/artist/57nuDj5UQKSty2q0Wb7zsy"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 203308,
-      "name": "Sonaja Y Tambor",
-      "url": "https://open.spotify.com/track/1WVX5idZvtAIOS82xElljf"
+      "duration_ms": 281546,
+      "name": "Achilip\u00fa",
+      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1311,6 +1295,22 @@
       "duration_ms": 287896,
       "name": "En Mi Escritorio (La Carta)",
       "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Antolog\u00eda Vol. 1",
+        "url": "https://open.spotify.com/album/2Yxv2Pk0U88ci91QsscZXI"
+      },
+      "artists": [
+        {
+          "name": "Llamadores De Cartagena",
+          "url": "https://open.spotify.com/artist/57nuDj5UQKSty2q0Wb7zsy"
+        }
+      ],
+      "duration_ms": 203308,
+      "name": "Sonaja Y Tambor",
+      "url": "https://open.spotify.com/track/1WVX5idZvtAIOS82xElljf"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Malas Amistades - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh"
+        "name": "Tarjeta de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/25oQJ8sgrHVw4PWSiZfz6G"
       },
       "artists": [
         {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "DENNA LA PORRI",
-          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+          "name": "La Sonora Ca\u00f1onera",
+          "url": "https://open.spotify.com/artist/6RIn3Qij1ciRIgOzvayySD"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Malas Amistades - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
+      "duration_ms": 203415,
+      "name": "Te Espero en el Cielo",
+      "url": "https://open.spotify.com/track/7bfwPC7Yng1uKEZcoBguCV"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1747,18 +1743,38 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Tarjeta de Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/25oQJ8sgrHVw4PWSiZfz6G"
+        "name": "Malas Amistades - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh"
       },
       "artists": [
         {
-          "name": "La Sonora Ca\u00f1onera",
-          "url": "https://open.spotify.com/artist/6RIn3Qij1ciRIgOzvayySD"
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
         }
       ],
-      "duration_ms": 203415,
-      "name": "Te Espero en el Cielo",
-      "url": "https://open.spotify.com/track/7bfwPC7Yng1uKEZcoBguCV"
+      "duration_ms": 219500,
+      "name": "Malas Amistades - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 -Mexico Version)",
+        "url": "https://open.spotify.com/album/2bynGiYzJfqV5SXS1wQ8rL"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/77OrXA8n0USqp0IlxgIBkp"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1791,22 +1807,6 @@
       "duration_ms": 286603,
       "name": "YO SOY TU MAESTRO Passion Vallenata (Parranda Mu)",
       "url": "https://open.spotify.com/track/6LaEYh9N6bbp0QBZgaWETP"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 -Mexico Version)",
-        "url": "https://open.spotify.com/album/2bynGiYzJfqV5SXS1wQ8rL"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/77OrXA8n0USqp0IlxgIBkp"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -2119,26 +2119,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Amor (Cover)",
-        "url": "https://open.spotify.com/album/6svLhFe9g8JPKJx9wJ4Cb3"
-      },
-      "artists": [
-        {
-          "name": "Sonido Los Jrs Oficial",
-          "url": "https://open.spotify.com/artist/1sxGl9qZa1kepq3veZ7S4z"
-        },
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 194281,
-      "name": "Amor - Cover",
-      "url": "https://open.spotify.com/track/7vObhMIqXv6IQuidv2qVny"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Fruko, El Teso",
         "url": "https://open.spotify.com/album/0elnXjwAQsyPNwfLLKGENj"
       },
@@ -2155,6 +2135,26 @@
       "duration_ms": 181322,
       "name": "Como Cumbiambero Que Soy",
       "url": "https://open.spotify.com/track/16RYSxYRjTE26PjQAkS3IY"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Amor (Cover)",
+        "url": "https://open.spotify.com/album/6svLhFe9g8JPKJx9wJ4Cb3"
+      },
+      "artists": [
+        {
+          "name": "Sonido Los Jrs Oficial",
+          "url": "https://open.spotify.com/artist/1sxGl9qZa1kepq3veZ7S4z"
+        },
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 194281,
+      "name": "Amor - Cover",
+      "url": "https://open.spotify.com/track/7vObhMIqXv6IQuidv2qVny"
     },
     {
       "added_at": "2026-10-02 06:00:16",

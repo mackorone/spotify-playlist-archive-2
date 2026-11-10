@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,665 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,664 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 15 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:15 |
 | 16 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 |
 | 17 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
-| 18 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5I9zIwGB6f0edpjO5oX2b9) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Escape...The Best Of](https://open.spotify.com/album/1DNXVmeXx7p959XvA3LtV8) | 4:35 |
-| 19 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
+| 18 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
+| 19 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5I9zIwGB6f0edpjO5oX2b9) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Escape...The Best Of](https://open.spotify.com/album/1DNXVmeXx7p959XvA3LtV8) | 4:35 |
 | 20 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
 | 21 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
 | 22 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 41 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
 | 42 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
 | 43 | [Love Will Keep Us Together](https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Scrapbook](https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB) | 3:23 |
-| 44 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:49 |
-| 45 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
+| 44 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
+| 45 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:49 |
 | 46 | [Arms of Mary](https://open.spotify.com/track/6287Wj4s5fDLLxZPQFCwZq) | [The Sutherland Brothers](https://open.spotify.com/artist/1Zc7TYayqzpDtjvXfNvPrL), [Quiver](https://open.spotify.com/artist/0vVxoKTyF3nIdUr2W84uIn), [Ron Albert](https://open.spotify.com/artist/1QoYcmEu5DiUAmmsFYNYBG), [Howle Albert](https://open.spotify.com/artist/7GNO2xlmnh1VmZAxkI8Mdl) | [REACH FOR THE SKY](https://open.spotify.com/album/250pi4BXKaHZKZg7Q4nnAo) | 2:37 |
 | 47 | [Everybody Plays the Fool](https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0) | [The Main Ingredient](https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm) | [Everybody Plays The Fool: The Best Of The Main Ingredient](https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K) | 3:22 |
 | 48 | [Lean on Me](https://open.spotify.com/track/20kN7bu0HMO8rIVY6tEytW) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:17 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 73 | [I'll Have To Say I Love You In A Song](https://open.spotify.com/track/55KKzF53NXeY7neYbd8wz5) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got A Name](https://open.spotify.com/album/6QVn3X0VlX6XynvzgQVPi0) | 2:31 |
 | 74 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 75 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
-| 76 | [Let's Stay Together](https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR) | 3:19 |
-| 77 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [On the Rocks](https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i) | 2:47 |
-| 78 | [Forever In Blue Jeans](https://open.spotify.com/track/1HNVGw472sKr3TeiECwmIH) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [You Don't Bring Me Flowers](https://open.spotify.com/album/765A5UZUav21YPHvo1ZBCB) | 3:37 |
-| 79 | [I'll Take You There](https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9) | 3:16 |
+| 76 | [I'll Take You There](https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9) | 3:16 |
+| 77 | [Let's Stay Together](https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR) | 3:19 |
+| 78 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [On the Rocks](https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i) | 2:47 |
+| 79 | [Forever In Blue Jeans](https://open.spotify.com/track/1HNVGw472sKr3TeiECwmIH) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [You Don't Bring Me Flowers](https://open.spotify.com/album/765A5UZUav21YPHvo1ZBCB) | 3:37 |
 | 80 | [Afternoon Delight](https://open.spotify.com/track/5Yq58BC5k14EVUJ63cmg8g) | [Starland Vocal Band](https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1) | [Starland Vocal Band](https://open.spotify.com/album/5DDpGgEdJKpH99oD4jlvQ8) | 3:13 |
 
 Snapshot ID: `AAAAABfcIHDywFAeR0LM5TPOCXZOB2yS`

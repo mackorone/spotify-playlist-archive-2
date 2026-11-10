@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,996 likes - 95 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,011 likes - 95 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 14 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 |
 | 15 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 |
 | 16 | [Rainforest Rain](https://open.spotify.com/track/7G9By80TKqAtNRPdBiSTpg) | [Wp Sounds](https://open.spotify.com/artist/28wXAxbwofL7K6bsmHnD6k) | [Rain Sounds](https://open.spotify.com/album/71OA2dK48YdLK22Q2ZKrkL) | 2:41 |
-| 17 | [Rainforest Serenade](https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Calming Rainforest Paradise](https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS) | 2:24 |
-| 18 | [Sleepy Rainforest](https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 |
+| 17 | [Sleepy Rainforest](https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 |
+| 18 | [Rainforest Serenade](https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Calming Rainforest Paradise](https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS) | 2:24 |
 | 19 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
 | 20 | [The Rainforest](https://open.spotify.com/track/6hktqFLE1dKP1kIGmEaIVr) | [Olof Dahlström Recordings](https://open.spotify.com/artist/6nwprrB1xrohGrilsErewM) | [Back To The Origin](https://open.spotify.com/album/1BzdZrarFzZvVQ6e4Zee2Z) | 2:23 |
 | 21 | [Lastovo Island Summer Bird Song](https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Lastovo Island Summer Bird Song](https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt) | 3:14 |
@@ -91,17 +91,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 81 | [Wildwood Meditation Soundscape](https://open.spotify.com/track/0pbswGrPsQ3LRkDGxiiZr5) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Relaxing Wilderness Serenade](https://open.spotify.com/album/3zAlxRrbuNo44XqLEHTLqg) | 1:47 |
 | 82 | [Safari Bird Calls](https://open.spotify.com/track/5XC0e5O32qEFsAsEOeeg9x) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/4fWw1JF0Mtke2CkcCmrm1S) | 3:20 |
 | 83 | [Safari Monkey Calls](https://open.spotify.com/track/1B3Xinpm6B2lr8aPar5fXv) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 3:20 |
-| 84 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 |
-| 85 | [Tropical Rain](https://open.spotify.com/track/1pemaAsyKtm9yvwGDTu8oZ) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Tutendo](https://open.spotify.com/album/6ccWP7k4DNx6t9TXJyBy4o) | 2:50 |
+| 84 | [Tropical Rain](https://open.spotify.com/track/1pemaAsyKtm9yvwGDTu8oZ) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Tutendo](https://open.spotify.com/album/6ccWP7k4DNx6t9TXJyBy4o) | 2:50 |
+| 85 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 |
 | 86 | [Whispering Trees in the Wild](https://open.spotify.com/track/45TgpexaojOZb4zok0pJaD) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Whispering Trees in the Wild](https://open.spotify.com/album/48ApjSa0knz7AVh9xKFPL5) | 2:05 |
 | 87 | [Savannah Rain](https://open.spotify.com/track/7bQW7iyHYo6cM9DVY0Dk6n) | [Naoxos](https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn) | [Savannah Rain](https://open.spotify.com/album/4OqrDxUFfWeg72huWRedYC) | 3:00 |
 | 88 | [Forest for rest](https://open.spotify.com/track/09ivEmCidtMHce7mS2XInL) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Forest Rain Sounds](https://open.spotify.com/album/0u5LVWFnf1IB2fXEhg2WkO) | 2:44 |
 | 89 | [Fugue of the Forest](https://open.spotify.com/track/0Do11qV3N7Wo1ZPoGjkE27) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Peaceful Nature Melodies](https://open.spotify.com/album/0TFmJQQqxdHlLcGz5MNnZE) | 3:32 |
 | 90 | [Alive in the Jungle](https://open.spotify.com/track/45lw3z8FeUxEZgEaLPXHx9) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Alive in the Jungle](https://open.spotify.com/album/00KplVJavSuMak3v3QDfxo) | 2:57 |
-| 91 | [Whispering Nature Harmony](https://open.spotify.com/track/1rWyQsyX5vqqSMXZyrtQqW) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Whispering Nature Harmony](https://open.spotify.com/album/28CXo52EEFsQF1yMBi8iXo) | 3:15 |
-| 92 | [Fresh Forest](https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:37 |
-| 93 | [Echoes of the Forest](https://open.spotify.com/track/2SyWrYLmK4Ax5wCtoKVdNQ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Echoes of the Forest](https://open.spotify.com/album/7xnEZ83r1Y3etJS0ofFQK4) | 2:23 |
-| 94 | [Dawn in the Borneo Jungle](https://open.spotify.com/track/48ye8iSWvzwF9i8jJpuThe) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Sounds of the Borneo Rainforest](https://open.spotify.com/album/03hSEx9PHgBPAP2XEkq4pO) | 3:10 |
+| 91 | [Fresh Forest](https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:37 |
+| 92 | [Whispering Nature Harmony](https://open.spotify.com/track/1rWyQsyX5vqqSMXZyrtQqW) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Whispering Nature Harmony](https://open.spotify.com/album/28CXo52EEFsQF1yMBi8iXo) | 3:15 |
+| 93 | [Dawn in the Borneo Jungle](https://open.spotify.com/track/48ye8iSWvzwF9i8jJpuThe) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Sounds of the Borneo Rainforest](https://open.spotify.com/album/03hSEx9PHgBPAP2XEkq4pO) | 3:10 |
+| 94 | [Echoes of the Forest](https://open.spotify.com/track/2SyWrYLmK4Ax5wCtoKVdNQ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Echoes of the Forest](https://open.spotify.com/album/7xnEZ83r1Y3etJS0ofFQK4) | 2:23 |
 | 95 | [Jungle Bird Sound](https://open.spotify.com/track/0CX24Ttg9UwIguSMA0zuyl) | [Streams of Dreams](https://open.spotify.com/artist/2MjkAKmAqlHhYHUISO8lli) | [Jungle Bird Sound](https://open.spotify.com/album/5m2Db8rEj86IQOJ94T2FIa) | 2:40 |
 
 Snapshot ID: `AAAAALHRgtV7GsBtimDMZ69jm40hG+vy`

@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Sufle
 
-787 songs - 1 day 16 hr 11 min
+788 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [Göz Nazına Hayran](https://open.spotify.com/track/6rmZTCqenih3PIhK32TCjB) | [Bahadır Sağlam](https://open.spotify.com/artist/60MyIKYA3yY1lGNroaZIgT) | [Göz Nazına Hayran](https://open.spotify.com/album/7qBriuCCLNHCiUU7RojjWX) | 3:10 | 2026-09-03 | 2026-09-23 |
 | [Gözlerimde Duman](https://open.spotify.com/track/74e7Bi3qKrfOK5MeSpoiBd) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Gözlerimde Duman](https://open.spotify.com/album/5cf6wDVgGZAucMHHAxAfSY) | 2:21 | 2026-08-06 | 2026-09-07 |
 | [Gözlerin Lazım](https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Gözlerin Lazım](https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9) | 2:59 | 2026-05-22 | 2026-06-26 |
-| [Gözlerin Mi Kör](https://open.spotify.com/track/1V2arQmSShZEVzUUJ9Dadb) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gözlerin Mi Kör](https://open.spotify.com/album/5i3RBmhxERr8nlQxXu8cuz) | 2:20 | 2026-08-06 |  |
+| [Gözlerin Mi Kör](https://open.spotify.com/track/1V2arQmSShZEVzUUJ9Dadb) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gözlerin Mi Kör](https://open.spotify.com/album/5i3RBmhxERr8nlQxXu8cuz) | 2:20 | 2026-08-06 | 2026-11-10 |
 | [Gözlerin Silah](https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Gözlerin Silah](https://open.spotify.com/album/40vrmeBLOD6yG33ADnmumm) | 2:07 | 2024-12-05 | 2025-01-27 |
 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 | 2025-01-31 | 2026-04-10 |
 | [Gözü Kara](https://open.spotify.com/track/26LTXFcJXonSIOPWGaXHRw) | [Demet Özdemir](https://open.spotify.com/artist/5RT8kelYwxEFA2udosMx6Q) | [Gözü Kara](https://open.spotify.com/album/3qklIaqqkwJUbuhWHyQYro) | 2:58 | 2026-01-12 | 2026-03-20 |
@@ -571,6 +571,7 @@
 | [Sen Anlamazsın](https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Sen Anlamazsın](https://open.spotify.com/album/3ZoTNMvjTmVSAVt7FOTh3s) | 2:50 | 2025-06-19 | 2025-08-21 |
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-26 | 2026-07-03 |
 | [Sen Kalp Ben](https://open.spotify.com/track/36yASDIlHQ3u2KjGPpIahi) | [Tuğba Özerk](https://open.spotify.com/artist/30Lb5Jijp6ynpodpRsrqIX) | [Sen Kalp Ben](https://open.spotify.com/album/2kUoBwwIZAQ3e85ILszLSB) | 2:29 | 2025-09-18 | 2025-09-26 |
+| [Sen Neredesin?](https://open.spotify.com/track/2zWdvZEyvoBRHHbveuk3Mu) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Selami Şahin](https://open.spotify.com/artist/4EBYDiIrM8szoEusJsTGak) | [Sen Neredesin?](https://open.spotify.com/album/0Tj4qZdXvxvKjcClMnQSOq) | 3:04 | 2026-11-03 |  |
 | [Sen Orda Yoksun](https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Sen Orda Yoksun](https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD) | 4:01 | 2026-08-12 |  |
 | [Sende De Benden Var](https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:08 | 2025-09-25 | 2025-11-18 |
 | [senden başka](https://open.spotify.com/track/1VQU6ewApPAVS6wTtxF321) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [senden başka](https://open.spotify.com/album/2e6ZwZkrFmawSOV7ivJep6) | 3:30 | 2025-12-04 | 2026-02-05 |

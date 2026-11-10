@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,104 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,273 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 36 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 |
 | 37 | [No Mercy](https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [No Mercy](https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu) | 2:35 |
 | 38 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
-| 39 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
+| 39 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
 | 40 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
-| 41 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
-| 42 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 |
+| 41 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 |
+| 42 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 43 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 |
 | 44 | [run](https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [run](https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk) | 4:22 |
 | 45 | [We Come 1](https://open.spotify.com/track/67AoFkT611zuwNP8CRjyvx) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [We Come 1](https://open.spotify.com/album/6JvalnlQnGWAXtZi8YPg7x) | 3:03 |

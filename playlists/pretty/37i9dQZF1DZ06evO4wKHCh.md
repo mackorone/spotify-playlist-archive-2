@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,626 likes - 39 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,625 likes - 39 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 38 | [Simple Request](https://open.spotify.com/track/2qMXHqR78AghFekIyXExCC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 3:49 |
 | 39 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 
-Snapshot ID: `au5qAAAAAACFDR/LJ8x3Z5GrBaI5J7Kg`
+Snapshot ID: `au+7gAAAAADNFbkroMrd88sUJaFkj9jv`

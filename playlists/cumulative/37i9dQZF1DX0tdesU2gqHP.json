@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
+    },
+    {
+      "album": {
         "name": "High Hopes 3000",
         "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 169059,
       "name": "I\u2019m your girl right?",
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
@@ -3156,10 +3174,28 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "album": {
+        "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
+        "url": "https://open.spotify.com/album/7kjFKbcW8aAOXPLgZgjscS"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225550,
+      "name": "My Body Isn't Ready - Orchestral Version from Sound City",
+      "url": "https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC"
     },
     {
       "album": {

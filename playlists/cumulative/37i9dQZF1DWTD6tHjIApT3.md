@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: ちゃんみな
 
-3,936 songs - 10 day 10 hr 19 min
+3,937 songs - 10 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2417,7 +2417,7 @@
 | [さよならの夏～コクリコ坂から～](https://open.spotify.com/track/7wlIzvt8gdV06UeI2F2gT1) | [にんじん](https://open.spotify.com/artist/3ps908XhbWfXA6kG3H4UXd) | [スタジオジブリトリビュートアルバム「ジブリをうたう その2」](https://open.spotify.com/album/4aSh6EozLaP8nPrgvSpazt) | 4:54 | 2026-02-24 | 2026-03-04 |
 | [さよならばっか](https://open.spotify.com/track/1EFGA5M8TzoaNC7ZgiMb85) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [さよならばっか](https://open.spotify.com/album/7BVyRyw7RjXxBatHQkYJfE) | 4:02 | 2026-10-14 |  |
 | [さよならクレール](https://open.spotify.com/track/0oYXyyHYFmGCJTwCqv0OU3) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [さよならクレール](https://open.spotify.com/album/5d8QblpT5wbBlaq9qOflhm) | 3:48 | 2022-05-29 | 2022-07-28 |
-| [さよならララ](https://open.spotify.com/track/5iLGuNVh2zfuQIam5ARoLX) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [さよならララ](https://open.spotify.com/album/4FaeqrMl7LloVlxdwCyKnc) | 4:54 | 2026-07-14 |  |
+| [さよならララ](https://open.spotify.com/track/5iLGuNVh2zfuQIam5ARoLX) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [さよならララ](https://open.spotify.com/album/4FaeqrMl7LloVlxdwCyKnc) | 4:54 | 2026-07-14 | 2026-11-10 |
 | [さらりさら](https://open.spotify.com/track/0cr85iMUCqSoDhIIIS5KSJ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [さらりさら](https://open.spotify.com/album/3VjLIlFSJL3OLNYoqIlAe5) | 4:29 | 2022-07-12 | 2022-07-28 |
 | [ざくろ](https://open.spotify.com/track/6vPPT1WvV33jLT13PbXeqq) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ざくろ](https://open.spotify.com/album/6kAdtRwIMmp8Nee6pcUKnN) | 6:42 | 2026-02-11 | 2026-02-25 |
 | [ざらめ](https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ざらめ](https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB) | 4:42 | 2024-07-30 | 2025-05-15 |
@@ -3047,6 +3047,7 @@
 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 | 2022-10-04 | 2023-08-18 |
 | [中央線の車窓から団地の貯水塔が見える](https://open.spotify.com/track/7rgQeTW3er0coRhGCEa6Sh) | [魚住英里奈](https://open.spotify.com/artist/7EiNSkVF6UXOKbjfLpXhi5) | [中央線の車窓から団地の貯水塔が見える](https://open.spotify.com/album/3y4PmOsvOS5lrof0XnE2TJ) | 4:41 | 2022-09-06 | 2022-09-15 |
 | [中途半端超絶良理論](https://open.spotify.com/track/7dGfZ451SSCaV5zJGll2TF) | [アイラヴミー](https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN) | [中途半端超絶良理論](https://open.spotify.com/album/3bUOymTU2XkTze2gmPRDpE) | 4:00 | 2024-05-21 | 2024-05-29 |
+| [乙女の剣](https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [乙女の剣](https://open.spotify.com/album/54rGAYE7lUEKMIDE2zdLt1) | 3:36 | 2026-11-03 |  |
 | [予定](https://open.spotify.com/track/65NJxK0BnrzcxHVOBEkyZN) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [予定](https://open.spotify.com/album/0Nxr5U1Y0MymWhuFY9xTa8) | 4:24 | 2024-01-30 | 2024-02-01 |
 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 | 2022-11-15 | 2023-02-01 |
 | [予感の途中](https://open.spotify.com/track/0HAfRRN1u1JZvW5fmut8AG) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [予感の途中](https://open.spotify.com/album/6FLL59vWywBMSWfikpJN30) | 3:57 | 2026-03-03 | 2026-03-11 |

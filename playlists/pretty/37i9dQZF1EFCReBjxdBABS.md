@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 82 | [Morning Person](https://open.spotify.com/track/2m9e4YyrrpMjlm7wVVwQ0N) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Dive Bar Beauty Queen](https://open.spotify.com/album/2stHI1R40N24BTQ0EIGccF) | 3:40 |
 | 83 | [just a house](https://open.spotify.com/track/0DzTXqEjas7NYeoLsaw6B9) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING \(DELUXE\)](https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd) | 3:39 |
 | 84 | [A Christmas We'll Remember](https://open.spotify.com/track/19SSpYuUi0ytkavyxX05k9) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 2:31 |
-| 85 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
-| 86 | [Show Up](https://open.spotify.com/track/3geEN1a4mrNshmS2qmuqik) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Mercy & Me](https://open.spotify.com/album/7B3T1gPdw86bz9obq258Rj) | 3:02 |
-| 87 | [Here Lately](https://open.spotify.com/track/3epRWaayV25eHLA2wo9JYJ) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1F0mesEH5vtp1x0AVobXH0) | 2:39 |
+| 85 | [Here Lately](https://open.spotify.com/track/3epRWaayV25eHLA2wo9JYJ) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1F0mesEH5vtp1x0AVobXH0) | 2:39 |
+| 86 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
+| 87 | [Show Up](https://open.spotify.com/track/3geEN1a4mrNshmS2qmuqik) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Mercy & Me](https://open.spotify.com/album/7B3T1gPdw86bz9obq258Rj) | 3:02 |
 | 88 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
 | 89 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
 | 90 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 130 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 131 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AchJ7AAAAABu90kKgYoVUsJjy5NIpOW0`
+Snapshot ID: `AchQBAAAAADLY2wqtLbn+85WqT6ETAm8`

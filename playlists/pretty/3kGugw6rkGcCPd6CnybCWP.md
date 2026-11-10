@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,156 likes - 98 songs - 5 hr 38 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,157 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 96 | [Pathological](https://open.spotify.com/track/4DB1DRBSY4QQM3hpXEkb9V) | [K⚝YL⚝](https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8) | [Pathological](https://open.spotify.com/album/7ECaU37wnfC5WRrrd17FPN) | 3:25 |
 | 97 | [Vortex](https://open.spotify.com/track/1fZGj47vPETglpLgbdmOt9) | [Pacific Sunsets](https://open.spotify.com/artist/7gm630ZR1NLY8fFD52XjIZ) | [New Earth](https://open.spotify.com/album/3k8N0sZrWStJ1wV0x0lwcQ) | 3:20 |
 | 98 | [Boy](https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Goodbye Nordhamn](https://open.spotify.com/album/2JFELJc4pCmyYVlq6uhG7t) | 4:34 |
+| 99 | [incel forums](https://open.spotify.com/track/4Fcpu0gJv8sZuuKdDiCeG9) | [phase](https://open.spotify.com/artist/7rf98Kl9DJsV2zZz0B4ue0) | [incel forums](https://open.spotify.com/album/7kprkkfEm24QYCOftJJkYv) | 2:11 |
+| 100 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
 
-Snapshot ID: `AAAQRqFb2ORR0auYuKdAl8FbuiRYQMgt`
+Snapshot ID: `AAAQSEHk54yWgkxRjBGUkAZau8QvRR33`

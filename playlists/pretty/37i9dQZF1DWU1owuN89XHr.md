@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,424 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,412 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 55 | [Causa y Efecto](https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Metamorfosis](https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6) | 4:56 |
 | 56 | [Usted No Debería](https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [De Ti o de Nadie](https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x) | 3:19 |
 | 57 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
-| 58 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 |
-| 59 | [Brazos De Sol](https://open.spotify.com/track/7nQRBFSxhSKMqDp0jggQBR) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Cain](https://open.spotify.com/album/6WsYFZlXi4OkE4oY2J6yrT) | 3:50 |
-| 60 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
+| 58 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
+| 59 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 |
+| 60 | [Brazos De Sol](https://open.spotify.com/track/7nQRBFSxhSKMqDp0jggQBR) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Cain](https://open.spotify.com/album/6WsYFZlXi4OkE4oY2J6yrT) | 3:50 |
 | 61 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 |
 | 62 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
 | 63 | [Entre Pairos y Derivas](https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ) | 4:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,626 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,627 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 2 | [Makin' Love \- Live At The Nippon Budokan, Tokyo, Japan \- April 2, 1977 \- Show 1](https://open.spotify.com/track/0ak7Z0TLdj61EW2S0TsGku) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Makin' Love / Mr\. Speed / Hard Luck Woman](https://open.spotify.com/album/4QIDu6vNzsYIaehcKvRA15) | 3:22 |
 | 3 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
 | 4 | [Rock And Roll All Nite \- 2025 Remaster](https://open.spotify.com/track/1Buwv1iql0YsxftE5LHIgq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:47 |
-| 5 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 |
-| 6 | [Detroit Rock City](https://open.spotify.com/track/4kFDcNuEXF7xArUklWSKF2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes, Thrashes & Hits](https://open.spotify.com/album/3Lh4LR8zXHUAq1ntllcx7u) | 3:47 |
+| 5 | [Detroit Rock City](https://open.spotify.com/track/4kFDcNuEXF7xArUklWSKF2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes, Thrashes & Hits](https://open.spotify.com/album/3Lh4LR8zXHUAq1ntllcx7u) | 3:47 |
+| 6 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 |
 | 7 | [Lick It Up](https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 3:56 |
 | 8 | [I Was Made For Lovin' You \- Single Mix](https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 4:01 |
 | 9 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 22 | [Tears Are Falling](https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 3:55 |
 | 23 | [War Machine \- 2022 Remastered](https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:17 |
 | 24 | [Charisma](https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:25 |
-| 25 | [We Are One](https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 4:41 |
-| 26 | [Rock 'N' Roll All Nite \- Live From MTV Unplugged/1995](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
+| 25 | [Rock 'N' Roll All Nite \- Live From MTV Unplugged/1995](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
+| 26 | [We Are One](https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 4:41 |
 | 27 | [Deuce \- Remastered 1997](https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:06 |
 | 28 | [Shandi](https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 3:36 |
 | 29 | [God Of Thunder](https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 4:13 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 39 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
 | 40 | [Creatures Of The Night \- 2022 Remastered](https://open.spotify.com/track/0pd7tyhNtTKOySAvbDDbVV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/5fMNBSecex43kyvmPIkxqW) | 4:03 |
 | 41 | [C'mon And Love Me \- 2025 Remaster](https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:58 |
-| 42 | [Nothin' To Lose \- Remastered 1997](https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:27 |
+| 42 | [Magic Touch](https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:42 |
 | 43 | [Christine Sixteen](https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:14 |
-| 44 | [Magic Touch](https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:42 |
+| 44 | [Nothin' To Lose \- Remastered 1997](https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:27 |
 | 45 | [Do You Love Me](https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:33 |
-| 46 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
-| 47 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 |
+| 46 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 |
+| 47 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 | 48 | [Dirty Livin'](https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:27 |
 | 49 | [Ladies Room](https://open.spotify.com/track/2StifeMeMCQ5MtCbO5JvAM) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:28 |
-| 50 | [Beth \- Live From MTV Unplugged/1995](https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:55 |
+| 50 | [Goin' Blind \- Live From MTV Unplugged/1995](https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 3:27 |
 
-Snapshot ID: `au5qAAAAAAAFu1/R1pBaoLDkzki4ghYW`
+Snapshot ID: `au+7gAAAAADl2ZjMtqJDH35NwiYdYQhv`

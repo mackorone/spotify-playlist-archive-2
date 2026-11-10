@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 113527,
+  "num_followers": 113528,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
+        "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres (En Vivo)",
+        "url": "https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "duration_ms": 589000,
+      "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
+      "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
         "name": "Ke Ganas de No Verte Nunca M\u00e1s",
         "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 142517,
       "name": "Ke Ganas de No Verte Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
-        "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres (En Vivo)",
-        "url": "https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 589000,
-      "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
-      "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Amor T\u00f3xico",
-        "url": "https://open.spotify.com/album/0wGToLsV8vdaavtTQiPcUF"
+        "name": "Vas a Llorar",
+        "url": "https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 247744,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/7hxfaH77Qepfk8ARHzSp2z"
+      "duration_ms": 204250,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX"
     }
   ],
   "unique_name": "Cumbieras",

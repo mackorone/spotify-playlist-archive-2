@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,973 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,967 likes - 75 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 4 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
 | 5 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 |
 | 6 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
-| 7 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
-| 8 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
-| 9 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
+| 7 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
+| 8 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
+| 9 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
 | 10 | [Soul Charger](https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Soul Charger](https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv) | 2:20 |
 | 11 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
 | 12 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 32 | [August](https://open.spotify.com/track/6WnEp9XsKFq5n88FzFT20Z) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [Loops](https://open.spotify.com/album/7LdkHMP8fcMyfo85r1HvKJ) | 1:54 |
 | 33 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 |
 | 34 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 |
-| 35 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 |
-| 36 | [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 |
+| 35 | [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 |
+| 36 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 |
 | 37 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 |
 | 38 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 |
 | 39 | [Life](https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE) | [Lost Son](https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF) | [Life](https://open.spotify.com/album/766qimmxJrU3wXg0coClg9) | 1:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 70 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
 | 71 | [No Samples](https://open.spotify.com/track/2cKR957eqapkn6oTaHPFPd) | [Maugre](https://open.spotify.com/artist/3wbexOl6INNsdpMetkdhN0) | [Maugre's Vinyl](https://open.spotify.com/album/7vGnIx373qLE1BbPn9tpet) | 2:36 |
 | 72 | [its not the time](https://open.spotify.com/track/68cwRG1sfkHrQQinU9Ibv9) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [its not the time](https://open.spotify.com/album/0jp4ud99lCwQTBfHur3bXS) | 1:56 |
-| 73 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
-| 74 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
-| 75 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
+| 73 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
+| 74 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
+| 75 | [Solitude](https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Solitude](https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W) | 2:41 |
 
 Snapshot ID: `AAAAAHYSMBgkuZmqmYEeZqlbAWv2JUJp`

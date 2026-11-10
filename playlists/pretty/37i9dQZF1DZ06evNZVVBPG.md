@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 
 > This is Lana Del Rey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,869,852 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,870,216 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 10 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
 | 11 | [Art Deco](https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 |
 | 12 | [Video Games](https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:41 |
-| 13 | [White Mustang](https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 2:44 |
+| 13 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 14 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 |
-| 15 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
+| 15 | [White Mustang](https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 2:44 |
 | 16 | [Born To Die](https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:45 |
 | 17 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 |
 | 18 | [Sad Girl](https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:17 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 35 | [Snow On The Beach \(feat\. More Lana Del Rey\)](https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:49 |
 | 36 | [Lust For Life \(with The Weeknd\)](https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:24 |
 | 37 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 |
-| 38 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 |
-| 39 | [Thunder](https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:19 |
+| 38 | [Thunder](https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:19 |
+| 39 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 |
 | 40 | [The Blackest Day](https://open.spotify.com/track/45pI8224KKX9Gx5fiyvEAh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 6:05 |
 | 41 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Once Upon a Dream \(from "Maleficent"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi) | 3:23 |
 | 42 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 49 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
 | 50 | [Tulsa Jesus Freak](https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:35 |
 
-Snapshot ID: `au5qAAAAAAC9nb+ii/fRK8oSNUCqo6m7`
+Snapshot ID: `au+7gAAAAAD+nMOhScfbqci/e2CfvW6V`

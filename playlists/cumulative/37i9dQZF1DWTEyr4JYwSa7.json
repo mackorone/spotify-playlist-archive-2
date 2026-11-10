@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 163537,
       "name": "Noel, Once Again",
       "url": "https://open.spotify.com/track/3DNvE8WmKcdRiCw4MQ84kR"
@@ -5090,6 +5090,24 @@
       "duration_ms": 117783,
       "name": "No\u00ebl No\u00ebl des fr\u00e8res lemay",
       "url": "https://open.spotify.com/track/0Nl7H6t83Tx57rlVchQI3o"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl revient",
+        "url": "https://open.spotify.com/album/4d1TSXsUwNbYOkZSB6YGRi"
+      },
+      "artists": [
+        {
+          "name": "Lalancette",
+          "url": "https://open.spotify.com/artist/0yjfA2bkrXl6yvF47pRh7q"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171044,
+      "name": "No\u00ebl revient",
+      "url": "https://open.spotify.com/track/25DZ5OSpq2DqeBG1FePgCS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9439,
+  "num_followers": 9442,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABXRKAWrtQcNvkFSwLn2Kr7",
+  "snapshot_id": "au+7gAAAAAAqrGizwoESMSEhQ8ZbbUVL",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Como Quisiera",
-      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canto Tu Historia (VOL. 1)",
         "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 190053,
       "name": "Casual (YTQDV)",
       "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Como Quisiera",
+      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bye Boy",
+        "url": "https://open.spotify.com/album/1bj0LT37coaDS7sBj6vICD"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 178261,
+      "name": "Bye Boy",
+      "url": "https://open.spotify.com/track/4axPMdcoNP43Ofeg26e0Az"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -599,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Boy",
-        "url": "https://open.spotify.com/album/1bj0LT37coaDS7sBj6vICD"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 178261,
-      "name": "Bye Boy",
-      "url": "https://open.spotify.com/track/4axPMdcoNP43Ofeg26e0Az"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "mucho texto",
         "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 203280,
       "name": "as\u00ed no funciona",
       "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Vivir En Silencio",
-      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 216637,
       "name": "DESPEDIDA",
       "url": "https://open.spotify.com/track/1OZLPVkCHAtOMk8K3xwyf5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00cdO",
+        "url": "https://open.spotify.com/album/11rPbUpu1jCyf674N8Nkdk"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "M\u00cdO",
+      "url": "https://open.spotify.com/track/5zoOsXcKzGKyfqKgxbJYI4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -739,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00cdO",
-        "url": "https://open.spotify.com/album/11rPbUpu1jCyf674N8Nkdk"
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 217232,
-      "name": "M\u00cdO",
-      "url": "https://open.spotify.com/track/5zoOsXcKzGKyfqKgxbJYI4"
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "added_at": null,
@@ -795,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -831,6 +831,26 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tributo A Una Leyenda Humberto Pab\u00f3n (Vol. 1)",
+        "url": "https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Coraz\u00f3n De Judas",
+      "url": "https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O"
     },
     {
       "added_at": null,
@@ -867,26 +887,6 @@
       "duration_ms": 226586,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tributo A Una Leyenda Humberto Pab\u00f3n (Vol. 1)",
-        "url": "https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Coraz\u00f3n De Judas",
-      "url": "https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O"
     }
   ],
   "unique_name": "This Is RENEE",

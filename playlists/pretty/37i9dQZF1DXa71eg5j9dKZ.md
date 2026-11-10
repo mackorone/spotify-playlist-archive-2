@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Conducta
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,875 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,882 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

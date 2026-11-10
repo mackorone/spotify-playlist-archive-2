@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 241137,
+  "num_followers": 241171,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAC4FVZyFlAeHOxG+qEUk70c",
+  "snapshot_id": "au+7gAAAAABZ37/Faa+V4QUCku3MK/pj",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 187834,
-      "name": "El Papel Cambio",
-      "url": "https://open.spotify.com/track/1zLMW29lIROfh3Hq6ZvHCs"
+      "duration_ms": 156908,
+      "name": "Malditas Ganas",
+      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 156908,
-      "name": "Malditas Ganas",
-      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
+      "duration_ms": 187834,
+      "name": "El Papel Cambio",
+      "url": "https://open.spotify.com/track/1zLMW29lIROfh3Hq6ZvHCs"
     },
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
       "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 180436,
-      "name": "Le Pas\u00e9 a la Plebe",
-      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
+      "duration_ms": 182212,
+      "name": "Fuga Pa Maza",
+      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
       "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 182212,
-      "name": "Fuga Pa Maza",
-      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
+      "duration_ms": 180436,
+      "name": "Le Pas\u00e9 a la Plebe",
+      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 210371,
+  "num_followers": 210376,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACfJpy5OhtUnvm4U4mAVf1Y",
+  "snapshot_id": "au+7gAAAAAB+OcA7F30owO6ei5wigq6u",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 220454,
-      "name": "Glorious (feat. Skylar Grey)",
-      "url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toast to Our Differences (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 211760,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/20ZP3Om9DvDazXrNUC7WM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 220454,
+      "name": "Glorious (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"
     },
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 240506,
-      "name": "Good Old Days (feat. Kesha)",
-      "url": "https://open.spotify.com/track/2Za1AlJNvksouPPWbXpR2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 292593,
       "name": "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
       "url": "https://open.spotify.com/track/5pfJsMwoRYKampPay8amX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 240506,
+      "name": "Good Old Days (feat. Kesha)",
+      "url": "https://open.spotify.com/track/2Za1AlJNvksouPPWbXpR2X"
     },
     {
       "added_at": null,
@@ -499,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "fucked up",
-        "url": "https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs"
+        "name": "I Don't Belong In This Club",
+        "url": "https://open.spotify.com/album/3pEIf94XjPRgUDyIKOmIBE"
       },
       "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         }
       ],
-      "duration_ms": 219357,
-      "name": "fucked up",
-      "url": "https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT"
+      "duration_ms": 222620,
+      "name": "I Don't Belong In This Club",
+      "url": "https://open.spotify.com/track/4Yo1ZTT9D7gUqyzgpVKkhQ"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Belong In This Club",
-        "url": "https://open.spotify.com/album/3pEIf94XjPRgUDyIKOmIBE"
+        "name": "fucked up",
+        "url": "https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs"
       },
       "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         }
       ],
-      "duration_ms": 222620,
-      "name": "I Don't Belong In This Club",
-      "url": "https://open.spotify.com/track/4Yo1ZTT9D7gUqyzgpVKkhQ"
+      "duration_ms": 219357,
+      "name": "fucked up",
+      "url": "https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT"
     },
     {
       "added_at": null,

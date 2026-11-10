@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 425640,
+  "num_followers": 425600,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 306586,
       "name": "Oraci\u00f3n del remanso",
       "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Gal\u00e1ctica",
         "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 207000,
       "name": "Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Monoambiente en Capital",
-        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Nico Cotton",
-          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
-        }
-      ],
-      "duration_ms": 181087,
-      "name": "Monoambiente en Capital",
-      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Monoambiente en Capital",
+        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Nico Cotton",
+          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
+        }
+      ],
+      "duration_ms": 181087,
+      "name": "Monoambiente en Capital",
+      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Modelo Para Armar",
         "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 291008,
-      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1131,6 +1115,22 @@
       "duration_ms": 173746,
       "name": "Inconsciente Colectivo",
       "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 291008,
+      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Vos",
         "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 198157,
       "name": "Vos",
       "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "Berrinche",
+        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Suerte y Hasta Pronto",
+      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Flaca",
         "url": "https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 226858,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Berrinche",
-        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Suerte y Hasta Pronto",
-      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Quiero - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "me hace bien amar(te)",
         "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 223142,
       "name": "me hace bien amar(te)",
       "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Quiero - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
-        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 66666,
-      "name": "Lo que elegiste.",
-      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Decir que s\u00ed",
         "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 138065,
       "name": "Dije que s\u00ed",
       "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
+        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 66666,
+      "name": "Lo que elegiste.",
+      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
     },
     {
       "added_at": "2026-10-13 18:55:37",

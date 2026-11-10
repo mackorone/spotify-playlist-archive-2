@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > big shouts to the very talented Evar
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,822 likes - 119 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,916 likes - 119 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

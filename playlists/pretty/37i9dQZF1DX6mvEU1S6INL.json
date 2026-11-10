@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1141911,
+  "num_followers": 1141908,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Gilgamesh",
-        "url": "https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI"
+        "name": "Sadnecessary",
+        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
       "artists": [
         {
-          "name": "GATC",
-          "url": "https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 234172,
-      "name": "Time to Wander",
-      "url": "https://open.spotify.com/track/4LDVjxkzOKa7YUxjO1x74S"
+      "duration_ms": 262000,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1303,34 +1303,18 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Sadnecessary",
-        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+        "name": "Gilgamesh",
+        "url": "https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "GATC",
+          "url": "https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
+      "duration_ms": 234172,
+      "name": "Time to Wander",
+      "url": "https://open.spotify.com/track/4LDVjxkzOKa7YUxjO1x74S"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1347,6 +1331,22 @@
       "duration_ms": 160253,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Guru",
         "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 204466,
       "name": "Guru",
       "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
     },
     {
       "added_at": "2026-02-18 18:45:42",

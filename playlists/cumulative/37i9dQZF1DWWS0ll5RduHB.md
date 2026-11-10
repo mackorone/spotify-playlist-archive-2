@@ -4,7 +4,7 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-272 songs - 15 hr 32 min
+273 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 | 2026-10-20 | 2026-11-07 |
 | [I CARE: FAYE WEBSTER VERSION](https://open.spotify.com/track/2952OPwh3MiKGVN5gXR70j) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 3:21 | 2026-10-20 |  |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-04-03 | 2026-11-07 |
+| [I kinda wanna ask you out](https://open.spotify.com/track/3BzrCJ28G6TWzfV5e1pixo) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Think twice](https://open.spotify.com/album/2oNKfbEXCZIPIAIBX5xO6T) | 2:05 | 2026-11-06 |  |
 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-25 | 2026-11-07 |
 | [I Love a Rainbow](https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y) | [Ms\. Rachel](https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep), [Mr\. Aron](https://open.spotify.com/artist/2vwgMqrI18rBthEJADjf5z) | [I Love a Rainbow](https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ) | 2:09 | 2026-10-20 |  |
 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 | 2026-10-20 |  |
@@ -160,7 +161,7 @@
 | [Paradise](https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Paradise](https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B) | 3:01 | 2026-10-20 |  |
 | [Peace Of Mind](https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR) | 3:09 | 2024-06-20 | 2025-03-14 |
 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 | 2024-06-20 | 2024-10-09 |
-| [Pick You Up](https://open.spotify.com/track/4ClKPOgfYQi6j26kpVCJCP) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Pick You Up](https://open.spotify.com/album/2jR3pofg0GEeOnfWWXNeVd) | 2:54 | 2026-10-20 |  |
+| [Pick You Up](https://open.spotify.com/track/4ClKPOgfYQi6j26kpVCJCP) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Pick You Up](https://open.spotify.com/album/2jR3pofg0GEeOnfWWXNeVd) | 2:54 | 2026-10-20 | 2026-11-10 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-20 | 2026-04-04 |
 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 | 2026-10-20 |  |
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2026-04-17 | 2026-11-07 |

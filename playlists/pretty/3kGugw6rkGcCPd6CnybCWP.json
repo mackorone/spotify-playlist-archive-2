@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1156,
+  "num_followers": 1157,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQRqFb2ORR0auYuKdAl8FbuiRYQMgt",
+  "snapshot_id": "AAAQSEHk54yWgkxRjBGUkAZau8QvRR33",
   "tracks": [
     {
       "added_at": "2026-07-23 12:25:41",
@@ -1587,6 +1587,38 @@
       "duration_ms": 274573,
       "name": "Boy",
       "url": "https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn"
+    },
+    {
+      "added_at": "2026-11-09 12:50:40",
+      "album": {
+        "name": "incel forums",
+        "url": "https://open.spotify.com/album/7kprkkfEm24QYCOftJJkYv"
+      },
+      "artists": [
+        {
+          "name": "phase",
+          "url": "https://open.spotify.com/artist/7rf98Kl9DJsV2zZz0B4ue0"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "incel forums",
+      "url": "https://open.spotify.com/track/4Fcpu0gJv8sZuuKdDiCeG9"
+    },
+    {
+      "added_at": "2026-11-09 12:52:09",
+      "album": {
+        "name": "The Gauntlet",
+        "url": "https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb"
+      },
+      "artists": [
+        {
+          "name": "The UNSOLVED",
+          "url": "https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO"
+        }
+      ],
+      "duration_ms": 201808,
+      "name": "In The Red",
+      "url": "https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

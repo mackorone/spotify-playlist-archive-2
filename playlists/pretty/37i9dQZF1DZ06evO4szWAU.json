@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 107752,
+  "num_followers": 107762,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAYw+h2qs0gqtxQyg8kJdlr",
+  "snapshot_id": "au+7gAAAAACVSE4AO/PVYIFYaUI2sBI5",
   "tracks": [
     {
       "added_at": null,
@@ -158,10 +158,6 @@
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
       "duration_ms": 303373,
@@ -251,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Sin Poderte Hablar",
-      "url": "https://open.spotify.com/track/0cG5FL1bWUhhZTCaiRQVsg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -283,6 +263,22 @@
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Sin Poderte Hablar",
+      "url": "https://open.spotify.com/track/0cG5FL1bWUhhZTCaiRQVsg"
     },
     {
       "added_at": null,
@@ -327,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Secrets",
-        "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Legal Alien",
-          "url": "https://open.spotify.com/artist/7vfizYhRy90JbEGQHUih3T"
-        }
-      ],
-      "duration_ms": 353773,
-      "name": "Asia",
-      "url": "https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -367,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+        "name": "Top Secrets",
+        "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
       "artists": [
         {
@@ -376,13 +352,29 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Legal Alien",
+          "url": "https://open.spotify.com/artist/7vfizYhRy90JbEGQHUih3T"
         }
       ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+      "duration_ms": 353773,
+      "name": "Asia",
+      "url": "https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
       "added_at": null,
@@ -456,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Ah-Ah / O-No",
-      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": null,
@@ -683,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 338013,
-      "name": "Juana Pe\u00f1a",
-      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -723,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 338013,
+      "name": "Juana Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -735,6 +727,22 @@
       "duration_ms": 318520,
       "name": "Cueste Lo Que Cueste",
       "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
     },
     {
       "added_at": null,
@@ -755,22 +763,6 @@
       "duration_ms": 317813,
       "name": "Eso Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n Guerrero",
-        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
     },
     {
       "added_at": null,
@@ -815,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Gran Fuga (Remastered 2024)",
+        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 354829,
+      "name": "Paname\u00f1a - Remastered 2024",
+      "url": "https://open.spotify.com/track/3nKFRo3pxh2KMITB9zKt0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -831,22 +839,6 @@
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Gran Fuga (Remastered 2024)",
-        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 354829,
-      "name": "Paname\u00f1a - Remastered 2024",
-      "url": "https://open.spotify.com/track/3nKFRo3pxh2KMITB9zKt0c"
     },
     {
       "added_at": null,
@@ -898,10 +890,6 @@
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
       "duration_ms": 316680,

@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 270187,
+  "num_followers": 270232,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAq+tH/YG3iAKjxkpLTejBT",
+  "snapshot_id": "au+7gAAAAABzypEQ36gsrF9s72LBQTz5",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Loca Como T\u00fa",
-        "url": "https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 235008,
-      "name": "Una Loca Como T\u00fa",
-      "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Tin y Que Tan",
         "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 198957,
       "name": "En Tu Boca El Humo Me Sabe Mejor",
       "url": "https://open.spotify.com/track/4aP7c3XvK1QPX5ru1Xcnyv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Loca Como T\u00fa",
+        "url": "https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 235008,
+      "name": "Una Loca Como T\u00fa",
+      "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
       },
@@ -663,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
       },
       "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 198280,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
     },
     {
       "added_at": null,
@@ -703,46 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contra Todo Pron\u00f3stico",
-        "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
       },
       "artists": [
         {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
-        }
-      ],
-      "duration_ms": 189098,
-      "name": "Volvernos a Amar",
-      "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LQRA Session #7",
-        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 169642,
-      "name": "LQRA Session #7",
-      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
+      "duration_ms": 198280,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
     },
     {
       "added_at": null,
@@ -767,6 +723,50 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LQRA Session #7",
+        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "LQRA Session #7",
+      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contra Todo Pron\u00f3stico",
+        "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "duration_ms": 189098,
+      "name": "Volvernos a Amar",
+      "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi amor",
-        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 178619,
-      "name": "Mi amor",
-      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRAGO #1 LOLOLO",
         "url": "https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 185084,
       "name": "TRAGO #1 LOLOLO",
       "url": "https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi amor",
+        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 178619,
+      "name": "Mi amor",
+      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
     },
     {
       "added_at": null,

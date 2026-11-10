@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 54119,
+  "num_followers": 54149,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-30 12:00:17",
       "album": {
-        "name": "Din Shagna",
-        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 229135,
-      "name": "Din Shagna",
-      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
-    },
-    {
-      "added_at": "2026-09-30 12:00:17",
-      "album": {
         "name": "Modern Punjab",
         "url": "https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 285181,
       "name": "Mirza Saiba",
       "url": "https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb"
+    },
+    {
+      "added_at": "2026-09-30 12:00:17",
+      "album": {
+        "name": "Din Shagna",
+        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 229135,
+      "name": "Din Shagna",
+      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
     },
     {
       "added_at": "2026-09-30 12:00:17",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-30 12:00:17",
       "album": {
-        "name": "The Great Big Punjabi Wedding",
-        "url": "https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1"
-      },
-      "artists": [
-        {
-          "name": "Radhika Chopra",
-          "url": "https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD"
-        }
-      ],
-      "duration_ms": 329273,
-      "name": "Kut Kut Bajra",
-      "url": "https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt"
-    },
-    {
-      "added_at": "2026-09-30 12:00:17",
-      "album": {
         "name": "Chan Kithan (Folk Recreation)",
         "url": "https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 178415,
       "name": "Chan Kithan - Folk Recreation",
       "url": "https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL"
+    },
+    {
+      "added_at": "2026-09-30 12:00:17",
+      "album": {
+        "name": "The Great Big Punjabi Wedding",
+        "url": "https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1"
+      },
+      "artists": [
+        {
+          "name": "Radhika Chopra",
+          "url": "https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD"
+        }
+      ],
+      "duration_ms": 329273,
+      "name": "Kut Kut Bajra",
+      "url": "https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt"
     },
     {
       "added_at": "2026-09-30 12:00:17",

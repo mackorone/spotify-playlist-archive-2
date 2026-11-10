@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-472 songs - 1 day 21 hr 41 min
+474 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bay Baby](https://open.spotify.com/track/3LoFfJc8gswCBKLvXzpyPj) | [Michele Conte](https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q) | [A Little Life](https://open.spotify.com/album/6xW6F51FnnMSHONxw70BEY) | 5:29 | 2026-06-26 | 2026-09-17 |
 | [Bearhugg](https://open.spotify.com/track/5tAwbTMK5Aadm9DFY6USdQ) | [Eric Powell](https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo) | [Bearhugg](https://open.spotify.com/album/0mt9pxZzcHa1DU1qBw3Aw2) | 5:41 | 2026-03-20 | 2026-09-17 |
 | [Bearhugg \- Rory Marshall's No\-Nonsense Remix](https://open.spotify.com/track/5BBaOMqOdv9xKj7JlP693i) | [Eric Powell](https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo), [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Bearhugg](https://open.spotify.com/album/0mt9pxZzcHa1DU1qBw3Aw2) | 8:51 | 2026-03-20 | 2026-09-05 |
+| [Beauty In Us \- Carl Cox \[UNVRS\] Rework](https://open.spotify.com/track/1cVEz3E9IKOW2M7IQ4fcbE) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Beauty In Us \(Carl Cox \[UNVRS\] Rework\)](https://open.spotify.com/album/3nZ3R14Bv7cc8QnOVbuQ2r) | 2:48 | 2026-11-09 |  |
 | [Because of You \- Eric Powell Remix](https://open.spotify.com/track/0iN8OLBUqcw8He3jOSHeK0) | [MDFC](https://open.spotify.com/artist/7uWqqgv6VPqAihzjh6JwNN), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3), [Eric Powell](https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo) | [Because of You](https://open.spotify.com/album/6xnu4iDryMJh8bryztlmzR) | 2:58 | 2025-11-06 | 2026-09-05 |
 | [Being Colours \- Sebastian Mullaert rework](https://open.spotify.com/track/5DBbEnO01eu651KnJFKFkA) | [Sebastian Mullaert](https://open.spotify.com/artist/5cKPK8DCxX1R5PwQOU1huv), [Tamarma](https://open.spotify.com/artist/0CcQCSk6CpO4xkHLrQqZXX) | [Being Colours](https://open.spotify.com/album/7Fk8jVgnJPSDpEGP73WqRN) | 8:07 | 2026-07-31 | 2026-09-05 |
 | [Belgium](https://open.spotify.com/track/1mecAHTzBVDduXdtq9CYab) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Belgium](https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7) | 7:02 | 2022-11-30 | 2023-06-27 |
@@ -426,6 +427,7 @@
 | [The Dust Arrival](https://open.spotify.com/track/1A4d4nfAMLGhpCQmxiE1fS) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 5:19 | 2023-02-13 | 2023-08-04 |
 | [The Dust Arrival \- Rebuke Edit](https://open.spotify.com/track/5xN35R4QaEIFKQkJNT6Rv1) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \(The Rebuke Edits\)](https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw) | 4:18 | 2023-10-06 | 2024-04-30 |
 | [The Great Migration](https://open.spotify.com/track/3WZPH0alJvYymqoeIKDtJy) | [Hybrasil](https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI) | [The Voyagers](https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp) | 7:15 | 2024-11-04 | 2025-11-18 |
+| [The Phantom \- Carl Cox Rewire](https://open.spotify.com/track/1z2zUsq3PSU5qKHxvJ7MOn) | [Renegade Soundwave](https://open.spotify.com/artist/34wtf7GZVapHNvysEvuFzY), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [The Phantom \(Carl Cox Rewire\)](https://open.spotify.com/album/0QX3JtkivkxhsAePfeBfuN) | 3:45 | 2026-11-09 |  |
 | [The Siren](https://open.spotify.com/track/0Oa28vZJYTvMCzVTxX7bdY) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Waveriders EP](https://open.spotify.com/album/38r01VO4vB927FYxYjXtTz) | 6:41 | 2023-04-18 | 2024-02-28 |
 | [The Way I Want](https://open.spotify.com/track/2w6sztEz9aeDYQFPIwMF47) | [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Tender Perceptions](https://open.spotify.com/album/4O5hCAjwwVOh42ictNAf0K) | 7:08 | 2023-11-17 | 2024-04-30 |
 | [Thirty Six](https://open.spotify.com/track/2GHlq3HwJvBpkOahNROVBR) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Venti](https://open.spotify.com/album/3pC1DRK7kDrIUSOaxuBISL) | 12:31 | 2024-06-03 | 2024-11-21 |

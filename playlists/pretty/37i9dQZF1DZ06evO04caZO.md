@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,890 likes - 45 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,037 likes - 45 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 24 | [Automatic Stop](https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:27 |
 | 25 | [Is This It](https://open.spotify.com/track/2pAD0PKMUMtxlMvz33tYzB) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 2:31 |
 | 26 | [Falling out of Love](https://open.spotify.com/track/7D92yxAcYNd1Sis8uXdkQo) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 6:21 |
-| 27 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
-| 28 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
+| 27 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
+| 28 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
 | 29 | [Soma](https://open.spotify.com/track/7G8hUONVhvJnkD3Ak8mNF1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 2:33 |
 | 30 | [Liar's Remorse](https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 4:50 |
 | 31 | [Razorblade](https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:28 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 44 | [On the Other Side](https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:36 |
 | 45 | [Tap Out](https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:42 |
 
-Snapshot ID: `au5qAAAAAAB6Q9JhmrPFsB/vduT7/muE`
+Snapshot ID: `au+7gAAAAAACin0PgqT5R1Dc7KfYLwxm`

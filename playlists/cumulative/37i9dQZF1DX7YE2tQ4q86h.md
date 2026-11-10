@@ -4,7 +4,7 @@
 
 > Tate is the main pop girl emergency✨
 
-1,853 songs - 3 day 21 hr 12 min
+1,854 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,6 +995,7 @@
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-09 | 2024-03-23 |
 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 | 2025-01-03 | 2025-04-05 |
 | [Lonely Together \(feat\. Dagny\)](https://open.spotify.com/track/0dfOAWQfRVFYpLnm9OTpxv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 2:58 | 2022-11-15 | 2023-05-06 |
+| [Look at me](https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [I thought this story wasn't about me](https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ) | 3:52 | 2026-11-09 |  |
 | [LOOK AT ME RIGHT NOW](https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [LOOK AT ME RIGHT NOW](https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn) | 2:08 | 2023-07-07 | 2024-02-10 |
 | [Look To A Star](https://open.spotify.com/track/3Gg65zI31fM6sy7bAGzTOQ) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Look To A Star](https://open.spotify.com/album/73q30zKhxmR41pEkSmAZq6) | 3:30 | 2024-02-16 | 2024-03-09 |
 | [Looking for Love](https://open.spotify.com/track/2mnpxgYxvU3cx8EQtY8cuU) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/67vln5FBToyFmc5IML4aSm) | 3:17 | 2024-06-14 | 2024-06-22 |

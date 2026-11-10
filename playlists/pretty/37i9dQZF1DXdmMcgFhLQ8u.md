@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,880 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,903 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 25 | [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 |
 | 26 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
 | 27 | [Somewhere With You](https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:03 |
-| 28 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
-| 29 | [Break Up In A Small Town](https://open.spotify.com/track/7aftSOGSOpSoIlVAQVBb71) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:49 |
+| 28 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
+| 29 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 30 | [You Don't Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
-| 31 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
+| 31 | [Break Up In A Small Town](https://open.spotify.com/track/7aftSOGSOpSoIlVAQVBb71) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:49 |
 | 32 | [Just In Case](https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Just In Case](https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4) | 2:46 |
 | 33 | [My Way](https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [My Way](https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA) | 4:02 |
 | 34 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
 | 35 | [Here Lies the Fool](https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Here Lies the Fool](https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj) | 4:12 |
 | 36 | [Mercy](https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 |
-| 37 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
-| 38 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
+| 37 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
+| 38 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 39 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 |
 | 40 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 |
 | 41 | [It Don't Hurt Like It Used To](https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:04 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 65 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 66 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 | 67 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 |
-| 68 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 |
-| 69 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 |
+| 68 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 |
+| 69 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 |
 | 70 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
 | 71 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
 | 72 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 |

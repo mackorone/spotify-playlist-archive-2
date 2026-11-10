@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,327 songs - 3 day 6 hr 0 min
+1,328 songs - 3 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Hair Up High](https://open.spotify.com/track/2Yy2LQe91B18DxooUldFLm) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tomorrow I'll Never Be Twenty\-Two](https://open.spotify.com/album/1P1WOWCim8bfcz6Z1Gqr8s) | 4:20 | 2022-10-20 | 2022-11-09 |
 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2023-10-12 | 2024-04-19 |
 | [HANDLE](https://open.spotify.com/track/1ad2WwhtOoNhB8W0KTveZL) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [HANDLE](https://open.spotify.com/album/4q4KHPSLPNjq7gucqUh3LN) | 2:37 | 2024-01-23 | 2024-02-07 |
+| [Hannah Montana](https://open.spotify.com/track/01IGRCAMEZdlmkwly9Fqt6) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:33 | 2026-11-04 |  |
 | [Happy Ending Show](https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Happy Ending Show](https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN) | 4:01 | 2025-03-11 | 2025-03-19 |
 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-10 | 2023-10-23 |
 | [Hard Part \(feat\. Lucky Daye\)](https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 | 2025-08-29 | 2026-03-31 |
@@ -1027,7 +1028,7 @@
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-10 |  |
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/0v2Kv316ccVrrL3BDDqRHm) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/3Krjqn3TYEyvQ4JC0TF7xX) | 3:35 | 2023-03-07 | 2023-03-09 |
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/72MRQEQStg151kpzKoTM7q) | 3:35 | 2023-03-07 | 2023-03-29 |
-| [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 | 2026-08-26 |  |
+| [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 | 2026-08-26 | 2026-11-10 |
 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 | 2026-05-30 | 2026-07-30 |
 | [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 | 2025-07-02 | 2025-07-11 |
 | [taste test](https://open.spotify.com/track/6cJMqbFoBGsLFf4yuq7PRv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [taste test](https://open.spotify.com/album/1PCcnx3pkx9xnDjE48JE9f) | 2:49 | 2025-10-01 | 2025-10-15 |

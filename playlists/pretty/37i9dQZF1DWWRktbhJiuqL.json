@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2027862,
+  "num_followers": 2027816,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
+        "name": "Save Me Some Sunshine",
+        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 217143,
+      "name": "Save Me Some Sunshine",
+      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
-        "name": "Save Me Some Sunshine",
-        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 217143,
-      "name": "Save Me Some Sunshine",
-      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "Fallin' With Me",
         "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2026-07-17 00:16:35",

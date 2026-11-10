@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,426 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,352 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 53 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 54 | [Me Gusta](https://open.spotify.com/track/2grcaP2t5eJpDv4YhOuMWn) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Nuevo Hotel Miranda!](https://open.spotify.com/album/4di9h6Igl1rbd0xtZfsyD6) | 2:37 |
 | 55 | [BOMBÓN](https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [BOMBÓN](https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF) | 2:10 |
-| 56 | [/Lentes](https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:09 |
-| 57 | [4LIFE](https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [4LIFE](https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf) | 3:32 |
+| 56 | [4LIFE](https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [4LIFE](https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf) | 3:32 |
+| 57 | [/Lentes](https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:09 |
 | 58 | [Mírame Ahora](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 |
 | 59 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
 | 60 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |

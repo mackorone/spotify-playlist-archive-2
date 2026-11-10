@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,663 songs - 4 day 0 hr 10 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,665 songs - 4 day 0 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1671,5 +1671,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1661 | [Volume \- Remastered](https://open.spotify.com/track/1FL2Pg2dGFIY668tmGCqiL) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Gyrate \(Remastered\)](https://open.spotify.com/album/3D9XPJM22YNb9OYAMOs49F) | 4:13 |
 | 1662 | [Sex Beat](https://open.spotify.com/track/4H3J2qzrhGbmV0hES5nixl) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire Of Love](https://open.spotify.com/album/6XIW3ZmE0wOl2QqMNUyElb) | 2:48 |
 | 1663 | [Natural's Not in It](https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:06 |
+| 1664 | [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 |
+| 1665 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3guGAtyo4OMdTZzOshIugb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:38 |
 
-Snapshot ID: `AAAOpWk7RBkSRTSnFcw6xLB7iQINcNv2`
+Snapshot ID: `AAAOp2AL8mDpTDEWekcYOip818VXL4Gj`

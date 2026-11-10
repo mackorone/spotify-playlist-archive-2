@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Jessi Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,350 likes - 194 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,353 likes - 194 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

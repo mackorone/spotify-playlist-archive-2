@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: K/DA)",
-  "num_followers": 175729,
+  "num_followers": 175725,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABF5LUWInYi6HWVT7U4evkoaNBlv",
+  "snapshot_id": "AAAAAP5ms2NAH4bumZY2vn+uOrlzf0/J",
   "tracks": [
     {
       "added_at": "2026-10-31 04:54:23",
@@ -475,8 +475,8 @@
     {
       "added_at": "2026-10-31 04:54:23",
       "album": {
-        "name": "NewJeans 2nd EP 'Get Up'",
-        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 151373,
-      "name": "ETA",
-      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
       "added_at": "2026-10-31 04:54:23",
@@ -579,8 +579,8 @@
     {
       "added_at": "2026-10-31 04:54:23",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
       "added_at": "2026-10-31 04:54:23",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-31 04:54:23",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
-    },
-    {
-      "added_at": "2026-10-31 04:54:23",
-      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 148000,
       "name": "Hollywood Action",
       "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
+    },
+    {
+      "added_at": "2026-10-31 04:54:23",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2026-10-31 04:54:23",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-10-31 04:54:23",
       "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 172073,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
-    },
-    {
-      "added_at": "2026-10-31 04:54:23",
-      "album": {
         "name": "Pretty Please",
         "url": "https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 204322,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
+    },
+    {
+      "added_at": "2026-10-31 04:54:23",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
     },
     {
       "added_at": "2026-10-31 04:54:23",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-10-31 04:54:23",
       "album": {
-        "name": "We made",
-        "url": "https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Gimme Dat Love",
-      "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
-    },
-    {
-      "added_at": "2026-10-31 04:54:23",
-      "album": {
         "name": "Fe3O4: FORWARD",
         "url": "https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 165773,
       "name": "KNOW ABOUT ME",
       "url": "https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj"
+    },
+    {
+      "added_at": "2026-10-31 04:54:23",
+      "album": {
+        "name": "We made",
+        "url": "https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Gimme Dat Love",
+      "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
     },
     {
       "added_at": "2026-10-31 04:54:23",

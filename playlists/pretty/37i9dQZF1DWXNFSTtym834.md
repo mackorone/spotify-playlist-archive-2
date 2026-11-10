@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,419,163 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419,219 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 40 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 |
 | 41 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 |
 | 42 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
-| 43 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
-| 44 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
+| 43 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
+| 44 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
 | 45 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
 | 46 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 47 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 91 | [Rot](https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [The Darker Side of Nonsense](https://open.spotify.com/album/2MwTe2PM8IAZy84vfYtpEz) | 4:32 |
 | 92 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 |
 | 93 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
-| 94 | [How Can I Live](https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \[Special Edition\]](https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md) | 3:16 |
-| 95 | [Scream Aim Fire](https://open.spotify.com/track/7tFxCn0Qb75pbx993wqUIQ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:26 |
+| 94 | [Scream Aim Fire](https://open.spotify.com/track/7tFxCn0Qb75pbx993wqUIQ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:26 |
+| 95 | [How Can I Live](https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \[Special Edition\]](https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md) | 3:16 |
 | 96 | [Nothing Left](https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 3:43 |
 | 97 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 |
 | 98 | [Move](https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The Art Of Breaking](https://open.spotify.com/album/1OfR6MaF4KVFTAe3pMrtYv) | 3:28 |

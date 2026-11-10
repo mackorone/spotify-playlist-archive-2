@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 28 | [Givin' Up You](https://open.spotify.com/track/3sfdysA1dqXE7BRd24YLLZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/7x1Z7VKEA37xVx7xQC4pqw) | 3:26 |
 | 29 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/0ficIny5GmEHdWjeC4oYdw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 3:53 |
 | 30 | [It Don't Hurt No More](https://open.spotify.com/track/6sGK2wbCXNWFk9dOvfm2oD) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 7:05 |
-| 31 | [Beat Up Guitar](https://open.spotify.com/track/5wmXBmD91LB1CJ7UDtpxfi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:27 |
-| 32 | [Too Close](https://open.spotify.com/track/72feSuQENqrGxdtFEkzAsn) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 4:39 |
+| 31 | [Too Close](https://open.spotify.com/track/72feSuQENqrGxdtFEkzAsn) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 4:39 |
+| 32 | [Beat Up Guitar](https://open.spotify.com/track/5wmXBmD91LB1CJ7UDtpxfi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:27 |
 | 33 | [Wine O'Clock](https://open.spotify.com/track/38sN3PuhutkIeTsbVHcV8V) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 4:03 |
 | 34 | [Apple Pie And A .45](https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:45 |
 | 35 | [Dumb It Down](https://open.spotify.com/track/3wTUzLbHkoZFtOnyH6lvOw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 49 | [It's 2 A.M.](https://open.spotify.com/track/004057Au60xNi5a6rvCTDE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:28 |
 | 50 | [Walk Until I Ride](https://open.spotify.com/track/4oTb36MHmlBJHikriDUQhj) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:12 |
 
-Snapshot ID: `au0YgAAAAACWHopoUmfNK7omIaxEcwcs`
+Snapshot ID: `au+7gAAAAACXF/oO0fjf3ife4yAkIZO6`

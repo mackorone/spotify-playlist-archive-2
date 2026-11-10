@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,589 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,565 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 52 | [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 |
 | 53 | [Perfect Blue](https://open.spotify.com/track/4isltDchfXCDrGCNd8iupg) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [RYO\-Z](https://open.spotify.com/artist/4sAapCy25wlBnkilgKmtgK) | [Perfect Blue](https://open.spotify.com/album/54xd4oRJbt6MQJUpbqLcL9) | 3:22 |
 | 54 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 |
-| 55 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
-| 56 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
+| 55 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
+| 56 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 57 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
 | 58 | [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 |
 | 59 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 63 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
 | 64 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 65 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
-| 66 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 |
+| 66 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
 | 67 | [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 |
-| 68 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
+| 68 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 |
 | 69 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
 | 70 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 71 | [ささくれ](https://open.spotify.com/track/2ooP5Cy1B5zgt2Y0xspqOh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ささくれ](https://open.spotify.com/album/7Li9ecAIGzliHx0rcUGAQc) | 4:58 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 90 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 |
 | 91 | [FLIP FLAP](https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FLIP FLAP](https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5) | 2:29 |
 | 92 | [by my side](https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt) | [by my side](https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6) | 4:49 |
-| 93 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
-| 94 | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 |
+| 93 | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 |
+| 94 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
 | 95 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
 | 96 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
 | 97 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 |
-| 98 | [abyss in the world](https://open.spotify.com/track/7g0px70vi7BKiSyZcBre2Y) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [abyss in the world](https://open.spotify.com/album/6p5nuvaCsrspKOkDsn3yPw) | 3:55 |
-| 99 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
-| 100 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
+| 98 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
+| 99 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
+| 100 | [abyss in the world](https://open.spotify.com/track/7g0px70vi7BKiSyZcBre2Y) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [abyss in the world](https://open.spotify.com/album/6p5nuvaCsrspKOkDsn3yPw) | 3:55 |
 
 Snapshot ID: `AAAAAPizbXX6GvMNJ8m1NT3lBhqk9a2Y`

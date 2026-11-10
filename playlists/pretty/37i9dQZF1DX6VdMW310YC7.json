@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4013763,
+  "num_followers": 4013647,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
-        }
-      ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "Fading Out",
+        "url": "https://open.spotify.com/album/0HrNoFYHg4dNuosyMjmbZy"
+      },
+      "artists": [
+        {
+          "name": "Lee Burridge",
+          "url": "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Fading Out",
+      "url": "https://open.spotify.com/track/0na4GriccSSdSu8QquLDYd"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Fading Out",
-        "url": "https://open.spotify.com/album/0HrNoFYHg4dNuosyMjmbZy"
-      },
-      "artists": [
-        {
-          "name": "Lee Burridge",
-          "url": "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Fading Out",
-      "url": "https://open.spotify.com/track/0na4GriccSSdSu8QquLDYd"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Burning Up",
         "url": "https://open.spotify.com/album/6wGU0EkcUsdGDTmh9Sri86"
       },
@@ -1451,6 +1451,26 @@
       "duration_ms": 237172,
       "name": "Burning Up",
       "url": "https://open.spotify.com/track/4LJ0y24EWNaEgAfAOLXCHM"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Hiding / Shallow Water",
+        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Claxy",
+          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
+        }
+      ],
+      "duration_ms": 232130,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1483,46 +1503,6 @@
       "duration_ms": 209696,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Hiding / Shallow Water",
-        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
-      },
-      "artists": [
-        {
-          "name": "Steven Weston",
-          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
-        },
-        {
-          "name": "Claxy",
-          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
-        }
-      ],
-      "duration_ms": 232130,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Here Again / Wild Again",
-        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Kazmyn",
-          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
-        }
-      ],
-      "duration_ms": 227069,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1563,22 +1543,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "All Is Right",
         "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
@@ -1595,18 +1559,38 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
         }
       ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Here Again / Wild Again",
+        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Kazmyn",
+          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
+        }
+      ],
+      "duration_ms": 227069,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1647,6 +1631,22 @@
       "duration_ms": 259480,
       "name": "Return to Ojai",
       "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "The last dance...",
+        "url": "https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "The last dance...",
+      "url": "https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Electric Soul (YOTTO Remix)",
         "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 226300,
       "name": "Electric Soul - YOTTO Remix",
       "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "The last dance...",
-        "url": "https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "The last dance...",
-      "url": "https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "Higher Note",
+        "url": "https://open.spotify.com/album/0Jlm4EJqBKBUtm9sNtTwFe"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "duration_ms": 251100,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Love Pains",
         "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 265161,
       "name": "Love Pains",
       "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Higher Note",
-        "url": "https://open.spotify.com/album/0Jlm4EJqBKBUtm9sNtTwFe"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        },
-        {
-          "name": "Lily Denning",
-          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
-        }
-      ],
-      "duration_ms": 251100,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+      "duration_ms": 204419,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
     }
   ],
   "unique_name": "Chill Tracks",

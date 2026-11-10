@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,243 songs - 6 day 22 hr 37 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,249 songs - 6 day 22 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3251,5 +3251,11 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3241 | [DUAL BREAKER XX \-Re:BOOT\-](https://open.spotify.com/track/1BiKzRUhS0b5N9ojyn6lKt) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [XX](https://open.spotify.com/album/7IaATgGKasyabzvas5DTE1) | 3:42 |
 | 3242 | [One More Night](https://open.spotify.com/track/2jzR4gC6mwhz3xcR8zzidz) | [Broken Element](https://open.spotify.com/artist/6WMONlXvkrTWxC4TcI8qcD) | [One More Night](https://open.spotify.com/album/3sTxYQXFXsd7O7uYXbO3J1) | 2:21 |
 | 3243 | [LUNATIC](https://open.spotify.com/track/7mTuaYq4dF2DtAMjTIzWbH) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [LUNATIC](https://open.spotify.com/album/5X4Tyjppw5jv8KDT8C9eD3) | 2:25 |
+| 3244 | [RAISE IT UP \- Extended Mix](https://open.spotify.com/track/0IM7zPmXHx6pzh5juW0pDt) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [ASTRA \~ABEAR CUP THEME SONG COLLECTION 2\~](https://open.spotify.com/album/0Wen6FDnmmWTHSwI4dEjnz) | 3:45 |
+| 3245 | [Nope](https://open.spotify.com/track/3hSNumROfbXHOkvS1MhWTT) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Nope](https://open.spotify.com/album/4nSxMceFkL3tUr1J1kXjhF) | 2:55 |
+| 3246 | [G.H.O.S.T\. \(feat\. KASANE TETO\)](https://open.spotify.com/track/3PoY4JlR0gk38oKxiCxVjb) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [G.H.O.S.T\. \(feat\. KASANE TETO\)](https://open.spotify.com/album/292ckVfntPDDXgYeo0URYB) | 2:37 |
+| 3247 | [Archangels](https://open.spotify.com/track/40rHiQ2H7YYEXYsGGjMFrH) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L), [Exoform](https://open.spotify.com/artist/3sU17CPlVZZ4ImHsRAq7gM) | [Archangels](https://open.spotify.com/album/3JWRb3AotLf0GZnGbKNfB9) | 3:13 |
+| 3248 | [Party Hard](https://open.spotify.com/track/4MOWWUI78gBHyA2YTs8R1G) | [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Neon Funfair](https://open.spotify.com/album/2XCGEq42bD4eiIagE3mVUN) | 2:27 |
+| 3249 | [Like It Like That](https://open.spotify.com/track/1M2lxWlF7p8T4qCx17SbXS) | [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Neon Funfair](https://open.spotify.com/album/2XCGEq42bD4eiIagE3mVUN) | 2:32 |
 
-Snapshot ID: `AAANImiC0qquv7351dsUoiv7BiLeYeny`
+Snapshot ID: `AAANKBUn5uvtGlXnPubH1H2GkhdlDLzx`

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: ALICJA",
-  "num_followers": 26754,
+  "num_followers": 26756,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "ZR\u00d3B TO DLA MNIE",
-        "url": "https://open.spotify.com/album/73T0qeSoVVXxYdJBpCzGWE"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 185909,
-      "name": "ZR\u00d3B TO DLA MNIE",
-      "url": "https://open.spotify.com/track/4K88kcWQbXeUBrG7GRh5dc"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
         "name": "BESOS",
         "url": "https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 158457,
       "name": "BESOS",
       "url": "https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "ZR\u00d3B TO DLA MNIE",
+        "url": "https://open.spotify.com/album/73T0qeSoVVXxYdJBpCzGWE"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 185909,
+      "name": "ZR\u00d3B TO DLA MNIE",
+      "url": "https://open.spotify.com/track/4K88kcWQbXeUBrG7GRh5dc"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "nie wierz\u0119 w bajki",
-        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
-      },
-      "artists": [
-        {
-          "name": "Qncicka",
-          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
-        }
-      ],
-      "duration_ms": 192679,
-      "name": "nie wierz\u0119 w bajki",
-      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
         "name": "bunny boy problems",
         "url": "https://open.spotify.com/album/6Ga8Ft1RTJO7bFAej0Uz5K"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 134788,
       "name": "fiji water angel \u795e\u5c64",
       "url": "https://open.spotify.com/track/2EMmkAzrNynjNTmqCFqXDi"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "nie wierz\u0119 w bajki",
+        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
+      },
+      "artists": [
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        }
+      ],
+      "duration_ms": 192679,
+      "name": "nie wierz\u0119 w bajki",
+      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
+        "name": "Nie umiem kocha\u0107",
+        "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 190879,
+      "name": "Nie umiem kocha\u0107",
+      "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
         "name": "mo\u017cemorze",
         "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 159529,
       "name": "mo\u017cemorze",
       "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
-        "name": "Nie umiem kocha\u0107",
-        "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 190879,
-      "name": "Nie umiem kocha\u0107",
-      "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -955,18 +955,22 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "D\u0142o\u0144 trzymam w laysach",
-        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
+        "name": "Czuj\u0119 si\u0119 sexy af",
+        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
       },
       "artists": [
         {
           "name": "Frank Leen",
           "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
         }
       ],
-      "duration_ms": 146280,
-      "name": "D\u0142o\u0144 trzymam w laysach",
-      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
+      "duration_ms": 161280,
+      "name": "Czuj\u0119 si\u0119 sexy af",
+      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -1043,22 +1047,38 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "Czuj\u0119 si\u0119 sexy af",
-        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
+        "name": "D\u0142o\u0144 trzymam w laysach",
+        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
       },
       "artists": [
         {
           "name": "Frank Leen",
           "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
         }
       ],
-      "duration_ms": 161280,
-      "name": "Czuj\u0119 si\u0119 sexy af",
-      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
+      "duration_ms": 146280,
+      "name": "D\u0142o\u0144 trzymam w laysach",
+      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "Bez dw\u00f3ch zda\u0144",
+        "url": "https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS"
+      },
+      "artists": [
+        {
+          "name": "Filip Mettler",
+          "url": "https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r"
+        },
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 179636,
+      "name": "Bez dw\u00f3ch zda\u0144",
+      "url": "https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -1099,26 +1119,6 @@
       "duration_ms": 194181,
       "name": "Zatrzymaj si\u0119",
       "url": "https://open.spotify.com/track/5gXek4hzwj136OrPEc7ZQK"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
-        "name": "Bez dw\u00f3ch zda\u0144",
-        "url": "https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS"
-      },
-      "artists": [
-        {
-          "name": "Filip Mettler",
-          "url": "https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r"
-        },
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 179636,
-      "name": "Bez dw\u00f3ch zda\u0144",
-      "url": "https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4"
     },
     {
       "added_at": "2026-11-05 23:01:25",

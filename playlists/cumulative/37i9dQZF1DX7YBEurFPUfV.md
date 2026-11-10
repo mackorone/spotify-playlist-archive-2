@@ -2,9 +2,9 @@
 
 ### [RapTounsi](https://open.spotify.com/playlist/37i9dQZF1DX7YBEurFPUfV)
 
-> Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
+> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-187 songs - 10 hr 41 min
+188 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Ghazali](https://open.spotify.com/track/1IWlR9Ld9K2teqAiJGpCzn) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ghazali](https://open.spotify.com/album/6hbOaD0XIJeDJ6QRHrnrDC) | 4:07 | 2025-01-23 | 2026-01-15 |
 | [Ghiba](https://open.spotify.com/track/4WA8ymp4hYwOJtMV4mJUCd) | [Gati](https://open.spotify.com/artist/4ekWTbo9R4FEndFfYwQT6c) | [Ghiba](https://open.spotify.com/album/7EZ5etOyXIX2goENkCzNW3) | 3:38 | 2025-02-27 | 2026-08-04 |
 | [Ghiri Ena](https://open.spotify.com/track/7bIc7LBLYiTIV9MhpHSJif) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ghiri Ena](https://open.spotify.com/album/3vUP0vneujlPSieDnbGZsZ) | 3:18 | 2024-02-24 | 2025-01-08 |
+| [Ghyabek](https://open.spotify.com/track/0UC6f4FVgtrJVTeSSn4Fuu) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ghyabek](https://open.spotify.com/album/4xrs40U2OJYwaKeXVaaFf5) | 2:58 | 2026-11-10 |  |
 | [Haka Tao?](https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [Haka Tao?](https://open.spotify.com/album/5Vo3jtsikRXZwG8Hh7g47V) | 3:37 | 2024-07-26 | 2024-11-01 |
 | [Hameda Hereb هارب](https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V) | [Hameda Hereb](https://open.spotify.com/artist/1xnqi3G6wGYmgPXOA0fu1i) | [Hameda Hereb هارب](https://open.spotify.com/album/2HAqYpg8n9ovBZ2JehbxdZ) | 3:17 | 2024-02-24 | 2025-10-22 |
 | [Happy Hour](https://open.spotify.com/track/7cKHVDykmR75pjqJp0KFaR) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Happy Hour](https://open.spotify.com/album/0ljDJIAMsQIUbS2YduqhO3) | 2:57 | 2024-11-08 | 2025-07-03 |
@@ -128,7 +129,7 @@
 | [Messyeba](https://open.spotify.com/track/5PQEjCkpBTcu7ckIHzlFZm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Messyeba](https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr) | 4:43 | 2024-02-24 | 2024-07-17 |
 | [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 | 2025-04-03 | 2026-06-12 |
 | [MONDAY](https://open.spotify.com/track/2rXwQZu39IkjjlnVOGdLev) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [MONDAY](https://open.spotify.com/album/7bHuP10BZyK6zUjqnMPJTU) | 2:52 | 2024-06-05 | 2024-08-21 |
-| [Mosta7il](https://open.spotify.com/track/1iSKsj1KqfXtOhB0khjd4F) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Mosta7il](https://open.spotify.com/album/6RUwR8C98iqqJoEpneld4d) | 3:17 | 2025-06-20 |  |
+| [Mosta7il](https://open.spotify.com/track/1iSKsj1KqfXtOhB0khjd4F) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Mosta7il](https://open.spotify.com/album/6RUwR8C98iqqJoEpneld4d) | 3:17 | 2025-06-20 | 2026-11-10 |
 | [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 | 2024-10-10 | 2026-04-08 |
 | [Mr.Beast](https://open.spotify.com/track/1BeNrqDTCQ0mPRp9zdyfUl) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Mr.Beast](https://open.spotify.com/album/3y3oOcdoAUVRfyVzGmYNUI) | 2:15 | 2025-07-02 |  |
 | [Mrara](https://open.spotify.com/track/20hX6OCPCz4Q7RA9CMiIW6) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Mrara](https://open.spotify.com/album/1if6NGfmEZVfz1QhUDFCfl) | 3:33 | 2025-12-18 |  |

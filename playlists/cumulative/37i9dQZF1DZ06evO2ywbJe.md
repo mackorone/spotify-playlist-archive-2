@@ -4,7 +4,7 @@
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 44 min
+95 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Hustle](https://open.spotify.com/track/5IMibq46O9uX2m0wog6eus) | [Leczy](https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [THE GENESIS](https://open.spotify.com/album/17yWmoY733ymMQm4zhmicN) | 2:26 | 2025-07-12 | 2025-07-13 |
 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 | 2025-07-12 |  |
 | [INFERNO](https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [INFERNO](https://open.spotify.com/album/4oVtp47IW7IyevJL95hdf8) | 2:31 | 2026-11-01 |  |
-| [it's over](https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [it's over](https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX) | 3:10 | 2026-09-13 |  |
+| [it's over](https://open.spotify.com/track/0PwE9xMpIh9QL67kSK65ED) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 3:10 | 2026-11-10 |  |
+| [it's over](https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [it's over](https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX) | 3:10 | 2026-09-13 | 2026-11-10 |
 | [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 | 2026-08-07 |  |
 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2025-07-12 | 2025-08-11 |
 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 | 2026-04-05 |  |

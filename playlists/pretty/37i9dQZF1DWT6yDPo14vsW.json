@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? ",
-  "num_followers": 572975,
+  "num_followers": 572970,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-09 03:00:38",
       "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "\u00a1Ay Amor!",
-      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
-    },
-    {
-      "added_at": "2026-10-09 03:00:38",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2026-10-09 03:00:38",
+      "album": {
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "\u00a1Ay Amor!",
+      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
     },
     {
       "added_at": "2026-10-09 03:00:38",
@@ -1059,6 +1059,30 @@
     {
       "added_at": "2026-10-09 03:00:38",
       "album": {
+        "name": "En La Intimidad | CROSSOVER #1",
+        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 165854,
+      "name": "En La Intimidad | CROSSOVER #1",
+      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": "2026-10-09 03:00:38",
+      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -1091,30 +1115,6 @@
       "duration_ms": 380373,
       "name": "La Gloria de Dios (feat. Evaluna Montaner)",
       "url": "https://open.spotify.com/track/2SXA7iCdyfpIr2fpsYpf8U"
-    },
-    {
-      "added_at": "2026-10-09 03:00:38",
-      "album": {
-        "name": "En La Intimidad | CROSSOVER #1",
-        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 165854,
-      "name": "En La Intimidad | CROSSOVER #1",
-      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
     },
     {
       "added_at": "2026-10-09 03:00:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-10-09 03:00:38",
       "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn"
-    },
-    {
-      "added_at": "2026-10-09 03:00:38",
-      "album": {
         "name": "Fantas\u00eda o realidad",
         "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 241226,
       "name": "Dame tu aire",
       "url": "https://open.spotify.com/track/7b7wNlZPexrJ95FiN5KQ3Q"
+    },
+    {
+      "added_at": "2026-10-09 03:00:38",
+      "album": {
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn"
     },
     {
       "added_at": "2026-10-09 03:00:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-09 03:00:38",
       "album": {
-        "name": "Estrella Guia",
-        "url": "https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Amame",
-      "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
-    },
-    {
-      "added_at": "2026-10-09 03:00:38",
-      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2026-10-09 03:00:38",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
+        "name": "Estrella Guia",
+        "url": "https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Solo Importas Tu",
-      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
+      "duration_ms": 245720,
+      "name": "Amame",
+      "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
     },
     {
       "added_at": "2026-10-09 03:00:38",
@@ -1319,6 +1303,22 @@
       "duration_ms": 218520,
       "name": "Estoy Hecho De Pedacitos De Ti",
       "url": "https://open.spotify.com/track/476qF2YsjlF2pBNgbn0Q4E"
+    },
+    {
+      "added_at": "2026-10-09 03:00:38",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Solo Importas Tu",
+      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
     },
     {
       "added_at": "2026-10-09 03:00:38",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-10-09 03:00:38",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
-    },
-    {
-      "added_at": "2026-10-09 03:00:38",
-      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 234964,
       "name": "Mi H\u00e9roe",
       "url": "https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8"
+    },
+    {
+      "added_at": "2026-10-09 03:00:38",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
     },
     {
       "added_at": "2026-10-09 03:00:38",

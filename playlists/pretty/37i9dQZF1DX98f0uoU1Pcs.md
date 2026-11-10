@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,169 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,171 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 28 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 |
 | 29 | [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 |
 | 30 | [Saoirse](https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 5:13 |
-| 31 | [Skint](https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW) | [The Dead Bolts](https://open.spotify.com/artist/3dV5tGTAVKea7D3ifjjy5K) | [Skint](https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc) | 3:42 |
-| 32 | [Tongue](https://open.spotify.com/track/6s3L8c2gax4hCWZx5a7IqD) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 2:28 |
+| 31 | [Tongue](https://open.spotify.com/track/6s3L8c2gax4hCWZx5a7IqD) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 2:28 |
+| 32 | [Skint](https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW) | [The Dead Bolts](https://open.spotify.com/artist/3dV5tGTAVKea7D3ifjjy5K) | [Skint](https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc) | 3:42 |
 | 33 | [Jeans](https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Jeans](https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5) | 3:27 |
-| 34 | [Sidestep](https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Sidestep](https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45) | 5:56 |
-| 35 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
-| 36 | [You’ll Never Fix Me](https://open.spotify.com/track/3CDNh6dWpYjSgOeykhT71M) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 3:23 |
+| 34 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
+| 35 | [You’ll Never Fix Me](https://open.spotify.com/track/3CDNh6dWpYjSgOeykhT71M) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 3:23 |
+| 36 | [Sidestep](https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Sidestep](https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45) | 5:56 |
 | 37 | [New Self](https://open.spotify.com/track/3sG9piWq8U1TELm4aGDZgq) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [New Self](https://open.spotify.com/album/29iBRlzAcmRmKRvw7onM0j) | 2:37 |
 | 38 | [Man with Hands and Ankles Bound](https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:18 |
 | 39 | [Life Signs](https://open.spotify.com/track/63JK811l2UcpiyDvYFCQX5) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [It's a Beautiful Place](https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d) | 4:32 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 50 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
 | 51 | [Lily Of The Valley](https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Hymns From The Hills](https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q) | 3:34 |
 | 52 | [Like I Do](https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L) | [Cashier](https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf) | [Like I Do](https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19) | 3:39 |
-| 53 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
-| 54 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 53 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 54 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
 | 55 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
 | 56 | [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 |
 | 57 | [Still Around](https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:24 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 74 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
 | 75 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
 | 76 | [Rolling By](https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B) | [Antenna](https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f) | [Rolling By](https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c) | 3:02 |
-| 77 | [Volvo \(On The Road\)](https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:25 |
-| 78 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 77 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 78 | [Volvo \(On The Road\)](https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:25 |
 | 79 | [Mind's a Lie](https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mind's a Lie](https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn) | 4:46 |
 | 80 | [Sleep In It](https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Sleep In It](https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v) | 2:59 |
 | 81 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |

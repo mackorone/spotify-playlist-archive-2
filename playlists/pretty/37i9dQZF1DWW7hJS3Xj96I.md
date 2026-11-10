@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 
 > ¡Baila con los mejores éxitos de los 90! Ricky Martin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,434,952 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,174 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

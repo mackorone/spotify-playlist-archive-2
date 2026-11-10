@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,367 likes - 153 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,366 likes - 153 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 25 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 |
 | 26 | [ALWAYS DO](https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:31 |
 | 27 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
-| 28 | [Naked \- Bonus Track](https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:17 |
-| 29 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 28 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 29 | [Naked \- Bonus Track](https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:17 |
 | 30 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 31 | [B2b](https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:58 |
 | 32 | [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 152 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 153 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 
-Snapshot ID: `AchJ2AAAAACvGAC/rc0kzQ7X8mREcwDe`
+Snapshot ID: `AchP8AAAAAC3irx5lArNDDdN9n38NT0k`

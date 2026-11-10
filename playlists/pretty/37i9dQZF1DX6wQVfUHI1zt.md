@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,913 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,952 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 29 | [Quién Iba A Pensar](https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Quién Iba A Pensar \(Remastered\)](https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs) | 4:00 |
 | 30 | [Lo Que Yo Tengo](https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [The Voice](https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b) | 3:29 |
 | 31 | [No Debes Jugar \- 1993 Version](https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:48 |
-| 32 | [Estúpido Romántico](https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 4:34 |
-| 33 | [La Llama](https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb) | [Los Palominos](https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe) | [10 De Colección](https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb) | 3:28 |
-| 34 | [Tonta](https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Puro Tejano Gold](https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7) | 3:06 |
+| 32 | [La Llama](https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb) | [Los Palominos](https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe) | [10 De Colección](https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb) | 3:28 |
+| 33 | [Tonta](https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Puro Tejano Gold](https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7) | 3:06 |
+| 34 | [Estúpido Romántico](https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 4:34 |
 | 35 | [Eclipse](https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM) | [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Juntos](https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm) | 3:37 |
 | 36 | [Besitos](https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:23 |
 | 37 | [Yo Te Voy A Amar](https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Si Me Faltas Tu \(Remastered\)](https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB) | 4:11 |
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 83 | [Enséñame A Olvidarte](https://open.spotify.com/track/0shtd9B4bdC8Nf4hw5Ii7k) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:22 |
 | 84 | [El Mariachi Loco](https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Porque Todavía Te Quiero](https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb) | 4:13 |
 | 85 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 |
-| 86 | [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 |
+| 86 | [Fotos Y Recuerdos](https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:35 |
 | 87 | [Traicionera](https://open.spotify.com/track/6uwFq7V0QQEENpFHFpYX4z) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:48 |
 | 88 | [Eso Duele](https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:16 |
 | 89 | [Porque Todavía Te Quiero](https://open.spotify.com/track/6cDh2RUe0AFbt2XJZd3R0J) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Porque Todavía Te Quiero](https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb) | 4:08 |
 | 90 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
-| 91 | [Fotos Y Recuerdos](https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:35 |
+| 91 | [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 |
 | 92 | [Quiero Ser](https://open.spotify.com/track/1y4RgBiBb7VvQUQ2EuGQuZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:21 |
 | 93 | [Con Mis Alas Rotas](https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:36 |
 | 94 | [Alma Negra](https://open.spotify.com/track/7tDhR4DkIf5qEmUyWhl6aj) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 96 | [Missing My Baby](https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:51 |
 | 97 | [Don Luis El Tejano](https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:02 |
 | 98 | [Soy Un Novato](https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:15 |
-| 99 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/3GZMMuN6QVF6PQLWFpwTpN) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:10 |
+| 99 | [Preciosa](https://open.spotify.com/track/6lruDosJz30DwXkz1hxytg) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:43 |
 | 100 | [Un Golpe De Suerte](https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 |
 
 Snapshot ID: `AAAAAD5pDOfp6FIbBVWZx/lfZAjciI4d`

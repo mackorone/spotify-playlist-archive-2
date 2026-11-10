@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Girl Tones
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,965 likes - 192 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,991 likes - 192 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

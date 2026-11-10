@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,797 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,815 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 15 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
 | 16 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
 | 17 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
-| 18 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 |
-| 19 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
-| 20 | [In Those Jeans](https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:03 |
-| 21 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
+| 18 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
+| 19 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 |
+| 20 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
+| 21 | [In Those Jeans](https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:03 |
 | 22 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
-| 23 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
-| 24 | [Meeting in My Bedroom](https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:06 |
+| 23 | [Meeting in My Bedroom](https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:06 |
+| 24 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
 | 25 | [Put That Woman First](https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Still Ghetto](https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa) | 4:05 |
-| 26 | [The Matrimony \(feat\. Usher\)](https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 6:35 |
-| 27 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
+| 26 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
+| 27 | [The Matrimony \(feat\. Usher\)](https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 6:35 |
 | 28 | [Anniversary](https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:31 |
 | 29 | [If I Ever Fall In Love](https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 3:09 |
 | 30 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |

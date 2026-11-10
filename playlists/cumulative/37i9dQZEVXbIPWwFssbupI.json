@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
@@ -9804,7 +9804,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 183813,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
@@ -10734,7 +10734,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -22158,7 +22158,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
@@ -24538,7 +24538,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -24834,7 +24834,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 172786,
       "name": "Je pense \u00e0 toi",
       "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
@@ -29510,6 +29510,24 @@
       "duration_ms": 157766,
       "name": "Lettre \u00e0 une femme",
       "url": "https://open.spotify.com/track/10rwyGbKAWZ8JZbL7uHl28"
+    },
+    {
+      "album": {
+        "name": "M.I.L.S 3",
+        "url": "https://open.spotify.com/album/7MYn9BLGDun0DFxKKQUrWJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157766,
+      "name": "Lettre \u00e0 une femme",
+      "url": "https://open.spotify.com/track/5HEtuK03ygUzqca6yfgOYZ"
     },
     {
       "album": {
@@ -35900,7 +35918,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 153779,
       "name": "m\u00e9li-m\u00e9lo",
       "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
@@ -38910,7 +38928,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 121704,
       "name": "Pangor (Swalalala)",
       "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
@@ -46106,7 +46124,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/74bFjTmlTbZVH9lG3EH7C2"
@@ -53384,7 +53402,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 161140,
       "name": "Uber",
       "url": "https://open.spotify.com/track/2PPFDGYR4t96gLVsd52NmL"
@@ -55374,7 +55392,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 134493,
       "name": "Wetin Day",
       "url": "https://open.spotify.com/track/29RDlOhGIcBo4Ydpz0NKHQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,392 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,390 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 20 | [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 |
 | 21 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 22 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
-| 23 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
-| 24 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
+| 23 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
+| 24 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
 | 25 | [Keep It To Yourself](https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw) | 4:17 |
 | 26 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 |
 | 27 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 31 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
 | 32 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 33 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |
-| 34 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
+| 34 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 35 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
-| 36 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
+| 36 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 37 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 38 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 |
 | 39 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |

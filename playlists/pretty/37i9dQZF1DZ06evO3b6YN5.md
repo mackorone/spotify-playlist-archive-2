@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,737 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,750 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 2 | [Gracias por Nada](https://open.spotify.com/track/3DdQqYkpbqqfhnYuVlKJrv) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:26 |
 | 3 | [Disco de Oro](https://open.spotify.com/track/4z17lasP9rNazlyeegw5J6) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/0Ap0dLTItDICfkHLnxJuPC) | 4:21 |
 | 4 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 |
-| 5 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
-| 6 | [SAHUARO](https://open.spotify.com/track/3Hsq2yl5dAAs8Rq1Y2JNM4) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [SAHUARO](https://open.spotify.com/album/29lpRI9e86cYqrBxiDRzlD) | 5:12 |
+| 5 | [SAHUARO](https://open.spotify.com/track/3Hsq2yl5dAAs8Rq1Y2JNM4) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [SAHUARO](https://open.spotify.com/album/29lpRI9e86cYqrBxiDRzlD) | 5:12 |
+| 6 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
 | 7 | [Fuera de Lugar](https://open.spotify.com/track/2BWTYAiWbBGCJeKbQ6rpFA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:16 |
 | 8 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 |
 | 9 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7DgqUtn0PG12upFOatwd82) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 26 | [Fuego Fuego Fuego Fuego](https://open.spotify.com/track/2JRfXtlt2jx1kilhfm0OJx) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:13 |
 | 27 | [Mala Onda](https://open.spotify.com/track/2rYHKN73hrtu3lb1OjFzzH) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:21 |
 | 28 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
-| 29 | [Volver al Futuro](https://open.spotify.com/track/44Odnyqirhbo2mOGlUd2GZ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:36 |
-| 30 | [Nuevo México](https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:35 |
-| 31 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 |
+| 29 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 |
+| 30 | [Volver al Futuro](https://open.spotify.com/track/44Odnyqirhbo2mOGlUd2GZ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:36 |
+| 31 | [Nuevo México](https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:35 |
 | 32 | [Los Esclavos](https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:10 |
 | 33 | [Tierra Llamando A Sant](https://open.spotify.com/track/3mMoZxMp4cIOzx2WfZ3f4o) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 5:18 |
 | 34 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 49 | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp) | 4:49 |
 | 50 | [llorandoenelclub\_100625\_v2](https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [llorandoenelclub\_100625\_v2](https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU) | 2:28 |
 
-Snapshot ID: `au5qAAAAAADkks5oWeR2ZYJiQtuC7JHT`
+Snapshot ID: `au+7gAAAAAC7/6cCeAjahTKbm9VsDydm`

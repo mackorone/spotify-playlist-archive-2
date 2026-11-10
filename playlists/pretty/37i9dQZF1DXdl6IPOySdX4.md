@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227,784 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,227,991 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 55 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 |
 | 56 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
 | 57 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 |
-| 58 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
-| 59 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
+| 58 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
+| 59 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 60 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
 | 61 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |
 | 62 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 83 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
 | 84 | [freak for you](https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [freak for you](https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg) | 2:26 |
 | 85 | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/track/27xprsAJJYC2U02zKog81S) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY) | 2:14 |
-| 86 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
-| 87 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 |
+| 86 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 |
+| 87 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 88 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 |
 | 89 | [Le Boy](https://open.spotify.com/track/3cxRaVmDRFflWFgDg9TkX5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:30 |
 | 90 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 |

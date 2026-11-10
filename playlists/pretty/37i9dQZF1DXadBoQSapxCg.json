@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319647,
+  "num_followers": 319646,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw"
+      },
+      "artists": [
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "duration_ms": 165350,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
         "name": "INOCENTE",
         "url": "https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 139605,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw"
-      },
-      "artists": [
-        {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
-        },
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        }
-      ],
-      "duration_ms": 165350,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5"
     },
     {
       "added_at": "2026-09-10 03:01:30",

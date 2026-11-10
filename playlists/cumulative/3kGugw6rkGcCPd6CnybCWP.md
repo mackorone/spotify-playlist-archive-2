@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-543 songs - 1 day 7 hr 28 min
+545 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,9 @@
 | [If I Go Missin’](https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [If I Go Missin’](https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ) | 3:40 | 2026-04-06 | 2026-05-14 |
 | [Im not going home](https://open.spotify.com/track/1U1Eqi1n2Q0PMoi1Rw9FuA) | [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T), [nostranger](https://open.spotify.com/artist/1llGv7eEgoGpXykdEan0cJ) | [Im not going home](https://open.spotify.com/album/3YIwF38ME0q1PRfqF8kBpa) | 3:36 | 2026-07-15 | 2026-08-18 |
 | [in my bones](https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB) | [purr grief](https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI) | [superficial bliss](https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4) | 4:49 | 2026-02-02 | 2026-03-10 |
+| [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 | 2026-11-09 |  |
 | [In the Town I Grew Up In](https://open.spotify.com/track/1sTvYF8AHWD5Ji9zRpF8bk) | [Neve Rosales](https://open.spotify.com/artist/1EC8EQXTQBuVt5oloBJunz) | [In the Town I Grew Up In](https://open.spotify.com/album/49vS9GywlAg2Ia339LTIn7) | 4:07 | 2026-08-21 |  |
+| [incel forums](https://open.spotify.com/track/4Fcpu0gJv8sZuuKdDiCeG9) | [phase](https://open.spotify.com/artist/7rf98Kl9DJsV2zZz0B4ue0) | [incel forums](https://open.spotify.com/album/7kprkkfEm24QYCOftJJkYv) | 2:11 | 2026-11-09 |  |
 | [Infinito](https://open.spotify.com/track/5K4JUd244XjzQLWfmiaTmS) | [Andrés Zapata](https://open.spotify.com/artist/3EVyrf1OgXe8woUNY6fbdO), [Daniela Garzon](https://open.spotify.com/artist/57VooYaAoRCGzc6AuRcIqj) | [Infinito](https://open.spotify.com/album/0JerWmlIVL40BX3uDukQSF) | 4:32 | 2026-04-17 | 2026-07-01 |
 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 | 2026-03-18 | 2026-04-21 |
 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2026-02-08 | 2026-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,258 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,256 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 34 | [Dive](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Dive](https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU) | 3:17 |
 | 35 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
 | 36 | [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 |
-| 37 | [So Cold](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI) | [So Cold](https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW) | 3:10 |
-| 38 | [New Love](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Reminders](https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic) | 4:16 |
-| 39 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
-| 40 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
+| 37 | [New Love](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Reminders](https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic) | 4:16 |
+| 38 | [So Cold](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI) | [So Cold](https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW) | 3:10 |
+| 39 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
+| 40 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 41 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 |
 | 42 | [Lost](https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Ava June](https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV) | [Lost](https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ) | 4:00 |
 | 43 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 |

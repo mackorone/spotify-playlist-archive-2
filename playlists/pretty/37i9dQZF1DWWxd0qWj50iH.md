@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,639 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,579 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 24 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 |
 | 25 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 |
 | 26 | [every day is a game](https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [every day is a game](https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e) | 4:09 |
-| 27 | [Hourglass](https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:18 |
+| 27 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 28 | [Stoned at the Nail Salon](https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 4:26 |
-| 29 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
+| 29 | [Hourglass](https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:18 |
 | 30 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
 | 31 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
 | 32 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 80 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
 | 81 | [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 |
 | 82 | [Confirmation \(SSBD\)](https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk) | 4:18 |
-| 83 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
-| 84 | [If Only](https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter \(Deluxe\)](https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq) | 3:22 |
-| 85 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 83 | [If Only](https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter \(Deluxe\)](https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq) | 3:22 |
+| 84 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 85 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
 | 86 | [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 |
 | 87 | [Unknown](https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Unknown](https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I) | 3:34 |
 | 88 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |

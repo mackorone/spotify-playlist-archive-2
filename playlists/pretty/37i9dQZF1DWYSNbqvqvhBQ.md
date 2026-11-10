@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,725 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,692 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

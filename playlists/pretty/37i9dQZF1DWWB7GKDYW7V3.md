@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 
 > De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,942 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,939 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 70 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
 | 71 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 72 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
-| 73 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 74 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 73 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 74 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 75 | [You & Me \- Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:42 |
 | 76 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 77 | [Favourite](https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:16 |
@@ -108,9 +108,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 98 | [Iron Sky](https://open.spotify.com/track/2bcC9Xyi40wnI7Od5uch31) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ) | 6:13 |
 | 99 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
 | 100 | [America](https://open.spotify.com/track/6bS7DqTuzrpkluB7boWmw2) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 4:09 |
-| 101 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
-| 102 | [Shut Up](https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 2:59 |
-| 103 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
+| 101 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
+| 102 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
+| 103 | [Shut Up](https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 2:59 |
 | 104 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
 | 105 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 |
 | 106 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |

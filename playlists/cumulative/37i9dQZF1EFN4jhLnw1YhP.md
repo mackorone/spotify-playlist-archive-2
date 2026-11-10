@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 45 min
+131 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Lonely](https://open.spotify.com/track/0JrbZwJPfWMXTZW68jzyR2) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:10 | 2026-02-20 | 2026-09-16 |
 | [Love Don't Die](https://open.spotify.com/track/2Vlqcu8SXjSfOmiU3TIGgY) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Love Don't Die](https://open.spotify.com/album/5Z8vTwT3bPke3ho3jsVs5Y) | 3:32 | 2026-07-14 |  |
 | [Love Me or Lie](https://open.spotify.com/track/5K4krJb4vQolazcqYgFbHb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Love Me or Lie](https://open.spotify.com/album/7sRcLXHqMQ5OpgsiffvD4X) | 2:21 | 2026-06-17 |  |
+| [Lucky Secret](https://open.spotify.com/track/002moL8vrvcntzM73R4ath) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Fairy Pop](https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO) | 3:19 | 2026-11-09 |  |
 | [Lullaby](https://open.spotify.com/track/4uvDD1w3zySeYBtfHiHSrA) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Supernal Dawn](https://open.spotify.com/album/4vdHr2Rv5zSPZslTpz0MyQ) | 4:02 | 2025-10-27 |  |
 | [MAGNETIC](https://open.spotify.com/track/7GZzsSkIXMgqJl0TxYDPRz) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [DAY ONE](https://open.spotify.com/album/4X2k3NS469qBJXhGY02jAl) | 3:02 | 2026-02-20 |  |
 | [Making Time](https://open.spotify.com/track/4hIj1YNfEdcYnYawKK0eYd) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:31 | 2025-10-27 |  |
@@ -96,6 +97,7 @@
 | [Paradise](https://open.spotify.com/track/5Fpjih4NZh3zP1pXrGsBwi) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Paradise](https://open.spotify.com/album/0GPDwSguRhujUI0sVLJvQL) | 3:22 | 2026-02-20 |  |
 | [Paraphernalia \(Interlude\)](https://open.spotify.com/track/0qIJRIOwm0K03tGYYFEz4j) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cups and Balloons](https://open.spotify.com/album/6uk1Vku0XMhMEieLJbzFls) | 1:50 | 2025-10-27 |  |
 | [Perfect Storm](https://open.spotify.com/track/42bP9LpXhB7Y749btV5Nug) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Perfect Storm](https://open.spotify.com/album/6zgS9inx8Jwt5KmWf3CL8B) | 2:38 | 2025-10-27 |  |
+| [Pieces](https://open.spotify.com/track/09ytGGDddr11kR9lOY29MB) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Pure Love](https://open.spotify.com/album/40XRXw5Z4QOzBMvTyE0GQi) | 3:47 | 2026-11-09 |  |
 | [Pink Rocket](https://open.spotify.com/track/3IoFCMDfNJn8EpWh9a0tRg) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Pink Rocket](https://open.spotify.com/album/4o7djMUwflYpEuhwcy9DZV) | 3:07 | 2025-10-27 |  |
 | [Precious Stone](https://open.spotify.com/track/6akfsCQ3o1KhUQL7Qh0Xpy) | [Thomas Irwin](https://open.spotify.com/artist/0gQVc6ZiCAzLXqyISPi0qT), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Precious Stone](https://open.spotify.com/album/5fDmzWfFZLRufAiGm6Ph8N) | 2:48 | 2026-02-20 |  |
 | [Pretender](https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Pretender](https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq) | 3:12 | 2026-02-20 |  |
@@ -124,6 +126,7 @@
 | [Tether](https://open.spotify.com/track/19SgSzIT7tACElrLcuwrTk) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Tether](https://open.spotify.com/album/53ZAjcZ9RlFAJmdsjfSQ0P) | 3:08 | 2026-02-20 |  |
 | [That's Alright \(feat\. Julia Church\)](https://open.spotify.com/track/6o1oZN8tCkcQrE0vtFKP2i) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [If Summer Was A Sound](https://open.spotify.com/album/4S5YBpgdnin3eYhbzPvErZ) | 3:34 | 2026-02-20 |  |
 | [The Edge](https://open.spotify.com/track/6P4gHVZuGI2K1OnuvOTBjX) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [The Edge](https://open.spotify.com/album/3ojueSxWncY2bxqPoUdrzS) | 3:40 | 2026-04-15 |  |
+| [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [The Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 | 2026-11-09 |  |
 | [Thursday](https://open.spotify.com/track/674eJylPTltR16ISBvUp3S) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Thursday](https://open.spotify.com/album/6tHlpSOXbM3YfWJcAPEuPI) | 4:25 | 2026-02-20 |  |
 | [Tides](https://open.spotify.com/track/0FDohASCkMdjnsyFJNENJQ) | [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Tides](https://open.spotify.com/album/1LyX2cr9RL4H3qBp5qzURf) | 3:36 | 2025-10-27 |  |
 | [Tightropes](https://open.spotify.com/track/6ihtjwDFO3MB8nCeYN9MdE) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Adam Butler](https://open.spotify.com/artist/59OcLANY6VTX2eInlGP3GG) | [Tightropes](https://open.spotify.com/album/4jayika7Sm4T9JM6at4a9H) | 4:21 | 2025-10-27 |  |

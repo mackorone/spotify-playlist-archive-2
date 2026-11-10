@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,976 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,989 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 38 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
 | 39 | [Dónde Están Corazón](https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Greatest Hits](https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk) | 4:19 |
 | 40 | [No Me Compares](https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [La Música No Se Toca \(Deluxe\)](https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk) | 4:38 |
-| 41 | [Rival \(feat\. Mario Domm\)](https://open.spotify.com/track/0JYdkP4Kz0ixmSfTTPvECC) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:16 |
-| 42 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 41 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 42 | [Rival \(feat\. Mario Domm\)](https://open.spotify.com/track/0JYdkP4Kz0ixmSfTTPvECC) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:16 |
 | 43 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 44 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 45 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 63 | [Penelope](https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Luna Nueva](https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA) | 5:19 |
 | 64 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 65 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
-| 66 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
+| 66 | [Tanto Amor](https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:48 |
 | 67 | [Enséñame A Vivir Sin Ti](https://open.spotify.com/track/59f765mlM08j2POCl3zPvd) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 3:32 |
-| 68 | [Tanto Amor](https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:48 |
+| 68 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
 | 69 | [Hasta El Final](https://open.spotify.com/track/0ZTLjaYqttGVI74ElAghci) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Hasta El Final](https://open.spotify.com/album/2YGDOgKssRti0qRksHmJmX) | 2:47 |
 | 70 | [Comiendote a Besos](https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Con Derecho A...](https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA) | 4:01 |
 | 71 | [La Llamada](https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [La Llamada](https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q) | 4:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,095 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,110 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 52 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 53 | [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 |
 | 54 | [Heaven Can Wait](https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:49 |
-| 55 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
-| 56 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
+| 55 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
+| 56 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
 | 57 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 | 58 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
 | 59 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 80 | [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 |
 | 81 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 |
 | 82 | [Zombie](https://open.spotify.com/track/42GKyvz5KBsHTBaLpo3cqJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 4:06 |
-| 83 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:01 |
-| 84 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
+| 83 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
+| 84 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:01 |
 | 85 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 86 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 87 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |

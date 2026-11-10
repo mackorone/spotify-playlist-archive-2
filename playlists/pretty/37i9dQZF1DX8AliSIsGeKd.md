@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Kellerkind
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,583 likes - 90 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,663 likes - 90 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

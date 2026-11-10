@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 270899,
+  "num_followers": 270927,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACzOOKG0Q1rRnF/Ci/fxLj7",
+  "snapshot_id": "au+7gAAAAADDjCuwtoGZ/QVwYsuA9YMQ",
   "tracks": [
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Ski",
-      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Season",
         "url": "https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt"
       },
@@ -667,6 +643,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Ski",
+      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tell Her Nothing",
         "url": "https://open.spotify.com/album/23GqCmiLqpRumFdxcHJnp6"
       },
@@ -703,6 +703,34 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 189964,
+      "name": "All My Partnas (feat. Future, Young Thug & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/4bZoNVFloslp1MJSugAXdH"
     },
     {
       "added_at": null,
@@ -787,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Went Thru It",
+      "url": "https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -823,22 +867,6 @@
       "duration_ms": 230253,
       "name": "City Girls",
       "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Went Thru It",
-      "url": "https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07"
     },
     {
       "added_at": null,
@@ -903,34 +931,6 @@
       "duration_ms": 302564,
       "name": "About the Money",
       "url": "https://open.spotify.com/track/37uaJAJDAYRsJyrgz4jZ72"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FRESH",
-        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 189964,
-      "name": "All My Partnas (feat. Future, Young Thug & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/4bZoNVFloslp1MJSugAXdH"
     },
     {
       "added_at": null,

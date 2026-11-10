@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,095 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,107 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 30 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
 | 31 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 32 | [Crying Over U](https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:54 |
-| 33 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
-| 34 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
+| 33 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
+| 34 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
 | 35 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 36 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
 | 37 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 38 | [Garden of Eden](https://open.spotify.com/track/0NlYeYreqeP6OO5cYG2ALx) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:55 |
 | 39 | [I Can't Get My Head Around You](https://open.spotify.com/track/72TRVAfkS1BeMgkbPPBa19) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 |
-| 40 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 |
-| 41 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |
+| 40 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |
+| 41 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 |
 | 42 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 43 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
 | 44 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 77 | [Dandelion](https://open.spotify.com/track/4PXkfv5sg0qAvW7ImFOglp) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 3:51 |
 | 78 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
 | 79 | [Bonnet Of Pins](https://open.spotify.com/track/0hLFRJetaM0qj09lyyJ9a5) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Bonnet Of Pins](https://open.spotify.com/album/4yNVLDb15XthYKBzMq2sy1) | 4:47 |
-| 80 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 |
+| 80 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 
 Snapshot ID: `AAAAAPeSOu4E2zO1x5+iV7l5LfMHP8nj`

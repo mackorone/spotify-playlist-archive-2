@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,957 likes - 78 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,005 likes - 78 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 18 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 19 | [GTA](https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GTA](https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN) | 2:35 |
 | 20 | [Already Falling](https://open.spotify.com/track/3ozNRKWMwoVDoFSsamwJ5e) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 3:26 |
-| 21 | [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 |
-| 22 | [MOTION SICKNESS \(feat\. Zlatan\)](https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [MOTION SICKNESS](https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM) | 2:47 |
+| 21 | [MOTION SICKNESS \(feat\. Zlatan\)](https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [MOTION SICKNESS](https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM) | 2:47 |
+| 22 | [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 |
 | 23 | [Ako \- Live in London](https://open.spotify.com/track/42enlqjY1SvHHUNmyaBy7f) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY Live in London \(Spotify Live\)](https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB) | 4:04 |
 | 24 | [Back 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Back 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 |
 | 25 | [I Know Who I Be \(with JAZZWRLD & GL\_Ceejay\)](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [I Know Who I Be \(with JAZZWRLD & GL\_Ceejay\)](https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g) | 3:53 |
-| 26 | [fine ting \(fine $hit\)](https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [fine ting \(fine $hit\)](https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa) | 3:15 |
-| 27 | [Alaye](https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:35 |
-| 28 | [Burukutu](https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Burukutu](https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7) | 5:11 |
+| 26 | [Burukutu](https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Burukutu](https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7) | 5:11 |
+| 27 | [fine ting \(fine $hit\)](https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [fine ting \(fine $hit\)](https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa) | 3:15 |
+| 28 | [Alaye](https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:35 |
 | 29 | [CA$H OUT](https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [NOMADINHO: 4TH PRIME](https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3) | 2:36 |
 | 30 | [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
 | 31 | [MOVE](https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [MOVE](https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K) | 1:56 |

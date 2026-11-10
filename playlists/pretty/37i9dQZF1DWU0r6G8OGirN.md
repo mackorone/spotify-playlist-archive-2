@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,089 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,691 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -7755,6 +7755,24 @@
     },
     {
       "album": {
+        "name": "Play Crack The Sky",
+        "url": "https://open.spotify.com/album/44vu7kx1XYz4gazJPzC8pZ"
+      },
+      "artists": [
+        {
+          "name": "When Snakes Sing",
+          "url": "https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274614,
+      "name": "Play Crack The Sky",
+      "url": "https://open.spotify.com/track/1IzfZHQaAD3WRmy2E5uM60"
+    },
+    {
+      "album": {
         "name": "Song Every Day For 30 Days",
         "url": "https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe"
       },
@@ -10724,6 +10742,24 @@
       "duration_ms": 129056,
       "name": "unnatural",
       "url": "https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U"
+    },
+    {
+      "album": {
+        "name": "UP. DOWN. LEFT. RIGHT.",
+        "url": "https://open.spotify.com/album/5ZCN8F3DPxvplmfVJmpwuL"
+      },
+      "artists": [
+        {
+          "name": "Studi01",
+          "url": "https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "UP. DOWN. LEFT. RIGHT.",
+      "url": "https://open.spotify.com/track/16oMZrqeEEEEmsyTEjTqfe"
     },
     {
       "album": {

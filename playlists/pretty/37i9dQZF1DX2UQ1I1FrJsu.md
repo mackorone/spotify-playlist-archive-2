@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,716 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,757 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 81 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 82 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
 | 83 | [Echo](https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:49 |
-| 84 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
-| 85 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 |
+| 84 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 |
+| 85 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
 | 86 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 |
 | 87 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 88 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 94 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
 | 95 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 96 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 |
-| 97 | [Basta Ya](https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:56 |
-| 98 | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 |
+| 97 | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 |
+| 98 | [Basta Ya](https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:56 |
 | 99 | [I Want Your Love](https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [I Want Your Love](https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6) | 2:33 |
 | 100 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 |
 

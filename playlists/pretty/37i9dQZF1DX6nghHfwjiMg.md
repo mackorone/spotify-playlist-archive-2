@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Artistas para descubrir 📸 Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,354 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,358 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 66 | [Capital](https://open.spotify.com/track/6HgoLwaS6qMbR5QlkBmVTU) | [Marcos Gaba](https://open.spotify.com/artist/1P12QdGTRg6fc7EELbk94J) | [Un Diablo Distinto](https://open.spotify.com/album/2nvfhkq2n20Bayoo6NBM0M) | 3:30 |
 | 67 | [Elevados](https://open.spotify.com/track/396JLGShBHYMC67DDC8Vy3) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Emblema](https://open.spotify.com/album/2MXupQ2U7M4KdPyxGx7INp) | 3:18 |
 | 68 | [FK4 2.0](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 3:41 |
-| 69 | [LOS COLONOS](https://open.spotify.com/track/7MktbGIccRK3UxTfzcLN2l) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o), [Majo Chicar](https://open.spotify.com/artist/7yZIq6IICjh94zRexdl2fR) | [LOS COLONOS](https://open.spotify.com/album/4jr9MY9VU6JFVjyhCOO8KT) | 3:17 |
+| 69 | [LOS COLONOS](https://open.spotify.com/track/7MktbGIccRK3UxTfzcLN2l) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o), [Majo Chicar](https://open.spotify.com/artist/2t1ZWcvmcsJnj9yCRuzvOG) | [LOS COLONOS](https://open.spotify.com/album/4jr9MY9VU6JFVjyhCOO8KT) | 3:17 |
 | 70 | [bajare](https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D) | [Lito](https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW) | [bajare](https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW) | 2:27 |
 | 71 | [Eresi](https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [Pavlo, cada vez menos...](https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ) | 3:15 |
 | 72 | [Libros](https://open.spotify.com/track/1HNbpzg02LwvscJiyR5Adk) | [Joako Garcia](https://open.spotify.com/artist/0UDzdnndviQU4dtzQ47zqz), [Cofran Olima](https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967) | [Libros](https://open.spotify.com/album/1afjwi14YT8ZfrHu7asnSl) | 3:30 |

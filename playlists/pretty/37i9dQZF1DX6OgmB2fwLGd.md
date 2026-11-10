@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\_glitch \_❅ ･:\*:｡ ❆\_\[FINAL\]\_\[REAL\]\_\_coverartist.bassvictim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,394 likes - 69 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,318 likes - 69 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

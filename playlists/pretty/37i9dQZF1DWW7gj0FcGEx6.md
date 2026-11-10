@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,442 likes - 318 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,477 likes - 318 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

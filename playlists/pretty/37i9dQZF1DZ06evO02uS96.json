@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABxiT6QO9Uqi49XyiuG6UYS",
+  "snapshot_id": "au+7gAAAAAD+TC2yNSmq7pM4m4OYX0Ug",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 329786,
+      "name": "\u831c\u3055\u3059",
+      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 315800,
       "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEST SELECTION \"blanc\"",
-        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "\u831c\u3055\u3059",
-      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 338173,
       "name": "\u516d\u7b49\u661f\u306e\u591c",
       "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 328493,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9065\u304b",
         "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 191047,
       "name": "\u9065\u304b",
       "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 328493,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SCOPE",
+        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 175022,
+      "name": "SCOPE",
+      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 150842,
       "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
       "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SCOPE",
-        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 175022,
-      "name": "SCOPE",
-      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
     },
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2V-ALK",
-        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
       },
       "artists": [
-        {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
-        },
         {
           "name": "Aimer",
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 305346,
-      "name": "ninelie <cry-v>",
-      "url": "https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ"
+      "duration_ms": 235202,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
+        "name": "2V-ALK",
+        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
       },
       "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
         {
           "name": "Aimer",
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 235202,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
+      "duration_ms": 305346,
+      "name": "ninelie <cry-v>",
+      "url": "https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "escalate",
-        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+        "name": "\u767d\u8272\u8709\u8763",
+        "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 242341,
-      "name": "escalate",
-      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+      "duration_ms": 191803,
+      "name": "\u767d\u8272\u8709\u8763",
+      "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u767d\u8272\u8709\u8763",
-        "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 191803,
-      "name": "\u767d\u8272\u8709\u8763",
-      "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 190 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 190 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 83 | [SET YOURSELF ON FIRE](https://open.spotify.com/track/51seeZMWB9XvLl1jl8p6EP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/6SW7IIrlj6LoWxDPinGeQp) | 2:51 |
 | 84 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 |
 | 85 | [Leigh](https://open.spotify.com/track/7vqomJv75Sp17yEm3puTlv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:22 |
-| 86 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
-| 87 | [Wasted](https://open.spotify.com/track/6QZNdH4HVdKMc6zxwyo6zF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:43 |
+| 86 | [Wasted](https://open.spotify.com/track/6QZNdH4HVdKMc6zxwyo6zF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:43 |
+| 87 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
 | 88 | [Bad Decisions](https://open.spotify.com/track/2WHEFHMKSfnCA36Ea2vfmr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:08 |
 | 89 | [Trepidation](https://open.spotify.com/track/4QOCthgAhRJKn4RbepFKC4) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 4:07 |
 | 90 | [The Weight of the Woods](https://open.spotify.com/track/5oZcHcUJ5zf9HviBBTbEJk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:42 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 99 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
 | 100 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
 | 101 | [Magnet](https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:48 |
-| 102 | [Good Day](https://open.spotify.com/track/24QDabNf5LeeTQoTMYOACb) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:07 |
-| 103 | [Sertraline](https://open.spotify.com/track/659flwujVevewkwxpyk7DG) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 102 | [Sertraline](https://open.spotify.com/track/659flwujVevewkwxpyk7DG) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 103 | [Good Day](https://open.spotify.com/track/24QDabNf5LeeTQoTMYOACb) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:07 |
 | 104 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
 | 105 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
 | 106 | [Gotta Get To Know Ya](https://open.spotify.com/track/2v8jqoNTcjzgS2W5UG9QhB) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/2gHwDJVrMGadBm6mPUnWt5) | 2:17 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 190 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `AchJ9gAAAACy5rxW+tB07HVF2vzdFyt8`
+Snapshot ID: `AchP0gAAAAArI5sPzZdD6p7YsgVs0rjX`

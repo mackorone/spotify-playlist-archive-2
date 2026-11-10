@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 
 > tate mcrae, a REAL LIFE angel 🪽
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,979 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,466 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

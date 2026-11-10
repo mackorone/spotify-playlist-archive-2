@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.",
-  "num_followers": 41414,
+  "num_followers": 41407,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABPwbcyeOXvxO4Y+b+WktJl6WHndqVb",
+  "snapshot_id": "AABPyd+yvV2fwMwf4uiA8e5d0lRyzWwy",
   "tracks": [
     {
       "added_at": "2026-10-30 17:56:54",
@@ -333,20 +333,32 @@
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
-      "added_at": "2026-10-27 18:29:47",
+      "added_at": "2026-11-09 19:07:46",
       "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+        "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
+      "duration_ms": 214000,
+      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV"
     },
     {
       "added_at": "2026-10-27 18:29:47",
@@ -1231,22 +1243,6 @@
     {
       "added_at": "2026-10-27 18:29:47",
       "album": {
-        "name": "Crush Forever",
-        "url": "https://open.spotify.com/album/13ibuOKOy1lAxVJ2e8O6Sz"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 272173,
-      "name": "Crush Forever",
-      "url": "https://open.spotify.com/track/0NLRlg2rElM8r4rU53Zqd0"
-    },
-    {
-      "added_at": "2026-10-27 18:29:47",
-      "album": {
         "name": "A Book Like This",
         "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
@@ -1367,22 +1363,6 @@
     {
       "added_at": "2026-10-27 18:29:47",
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Your Favorite Toy",
-      "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
-    },
-    {
-      "added_at": "2026-10-27 18:29:47",
-      "album": {
         "name": "WE ON GO",
         "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
       },
@@ -1455,22 +1435,6 @@
     {
       "added_at": "2026-10-27 18:29:47",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 166735,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
-    },
-    {
-      "added_at": "2026-10-27 18:29:47",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4Lc269uQdu2XPJC1aZBR1E"
       },
@@ -1523,22 +1487,6 @@
     {
       "added_at": "2026-10-27 18:29:47",
       "album": {
-        "name": "A Light That Waits",
-        "url": "https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Ice Cold Lakes",
-      "url": "https://open.spotify.com/track/4j2eOzBQBX65CuR5thn8da"
-    },
-    {
-      "added_at": "2026-10-27 18:29:47",
-      "album": {
         "name": "Criminal (From the Original Motion Picture Scream 7)",
         "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
       },
@@ -1567,22 +1515,6 @@
       "duration_ms": 215173,
       "name": "No Need For Leavin'",
       "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
-    },
-    {
-      "added_at": "2026-10-27 18:29:47",
-      "album": {
-        "name": "Don\u2019t Come Home",
-        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 109966,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
     },
     {
       "added_at": "2026-10-27 18:29:47",

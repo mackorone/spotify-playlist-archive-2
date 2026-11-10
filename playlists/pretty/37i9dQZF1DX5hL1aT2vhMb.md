@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Suena
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,775 likes - 173 songs - 12 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,790 likes - 173 songs - 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

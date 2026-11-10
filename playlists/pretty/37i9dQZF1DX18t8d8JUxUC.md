@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: selines
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,939 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,944 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 21 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 |
 | 22 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
 | 23 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 |
-| 24 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
-| 25 | [Un Rayo de Luz](https://open.spotify.com/track/50N28N6qdKjK9Z6XmRpuso) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:37 |
+| 24 | [Un Rayo de Luz](https://open.spotify.com/track/50N28N6qdKjK9Z6XmRpuso) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:37 |
+| 25 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
 | 26 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 | 27 | [Quiero Sentirlo Todo](https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Balboa](https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I) | 3:40 |
 | 28 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 80 | [Ahi Estaré](https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ahi Estaré](https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS) | 3:00 |
 | 81 | [Veintitrés](https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h) | [Brandon Bison](https://open.spotify.com/artist/2r5TgQxK2D0Eu7ZFNmBodx), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Veintitrés](https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL) | 3:28 |
 | 82 | [Luces de bengala](https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Luces de bengala](https://open.spotify.com/album/40mdyXPVKvGinpTommcy3h) | 2:45 |
-| 83 | [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 |
-| 84 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 |
-| 85 | [Pasarás](https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Pasarás](https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e) | 4:16 |
-| 86 | [Todo Es Falso](https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Todo Es Falso](https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83) | 3:36 |
+| 83 | [Pasarás](https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Pasarás](https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e) | 4:16 |
+| 84 | [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 |
+| 85 | [Todo Es Falso](https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Todo Es Falso](https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83) | 3:36 |
+| 86 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 |
 | 87 | [Wild One](https://open.spotify.com/track/520rPNF7A4QqJctaPhzLBb) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 4:16 |
 | 88 | [Luces](https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 3:22 |
 | 89 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 |

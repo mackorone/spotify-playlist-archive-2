@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Quincy Isaiah, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,556 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,564 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

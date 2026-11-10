@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3061\u3083\u3093\u307f\u306a",
-  "num_followers": 139631,
+  "num_followers": 139630,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "MISMATCH",
-        "url": "https://open.spotify.com/album/4p5geEZVzAnALRrj44ssGZ"
+        "name": "\u30b5\u30e8\u30ca\u30e9\u3068\u30d0\u30c8\u30f3",
+        "url": "https://open.spotify.com/album/2CeR5TzZJBE0VatfvUATJW"
       },
       "artists": [
         {
-          "name": "LEE JISOO",
-          "url": "https://open.spotify.com/artist/4e8d1kUIBfF1Zen9BB0Rrp"
+          "name": "DREAMS COME TRUE",
+          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
         }
       ],
-      "duration_ms": 193638,
-      "name": "MISMATCH",
-      "url": "https://open.spotify.com/track/6Du72Nsm3osfaoKxp0QDQ2"
+      "duration_ms": 229580,
+      "name": "\u30b5\u30e8\u30ca\u30e9\u3068\u30d0\u30c8\u30f3",
+      "url": "https://open.spotify.com/track/5M3j6N5CpMgOrzuBge17JZ"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "\u30b5\u30e8\u30ca\u30e9\u3068\u30d0\u30c8\u30f3",
-        "url": "https://open.spotify.com/album/2CeR5TzZJBE0VatfvUATJW"
+        "name": "MISMATCH",
+        "url": "https://open.spotify.com/album/4p5geEZVzAnALRrj44ssGZ"
       },
       "artists": [
         {
-          "name": "DREAMS COME TRUE",
-          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
+          "name": "LEE JISOO",
+          "url": "https://open.spotify.com/artist/4e8d1kUIBfF1Zen9BB0Rrp"
         }
       ],
-      "duration_ms": 229580,
-      "name": "\u30b5\u30e8\u30ca\u30e9\u3068\u30d0\u30c8\u30f3",
-      "url": "https://open.spotify.com/track/5M3j6N5CpMgOrzuBge17JZ"
+      "duration_ms": 193638,
+      "name": "MISMATCH",
+      "url": "https://open.spotify.com/track/6Du72Nsm3osfaoKxp0QDQ2"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
+        "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
+        "url": "https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
+      "url": "https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R"
+    },
+    {
+      "added_at": "2026-11-03 15:00:49",
+      "album": {
         "name": "\u3055\u3055\u304f\u308c",
         "url": "https://open.spotify.com/album/7Li9ecAIGzliHx0rcUGAQc"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 211840,
       "name": "TABOO",
       "url": "https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles"
-    },
-    {
-      "added_at": "2026-11-03 15:00:49",
-      "album": {
-        "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
-        "url": "https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 239840,
-      "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
-      "url": "https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
+    },
+    {
+      "added_at": "2026-11-03 15:00:49",
+      "album": {
         "name": "Blue Shining Star",
         "url": "https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 232133,
       "name": "2 Hands",
       "url": "https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX"
-    },
-    {
-      "added_at": "2026-11-03 15:00:49",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
+        "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
+        "url": "https://open.spotify.com/album/0AKItcNg4t6CC2nOu8yv98"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
+      "url": "https://open.spotify.com/track/75B3tVCZozY6YRkC9N6ThQ"
+    },
+    {
+      "added_at": "2026-11-03 15:00:49",
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/5PbF9PSkjUKeACBW4E8Csc"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 220813,
       "name": "\u7d20\u76f4\u672a\u6e80",
       "url": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd"
-    },
-    {
-      "added_at": "2026-11-03 15:00:49",
-      "album": {
-        "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
-        "url": "https://open.spotify.com/album/0AKItcNg4t6CC2nOu8yv98"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
-      "url": "https://open.spotify.com/track/75B3tVCZozY6YRkC9N6ThQ"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
+        "name": "blue in",
+        "url": "https://open.spotify.com/album/2WF2hhxDP1gdPQtMJnNk3X"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "blue in",
+      "url": "https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T"
+    },
+    {
+      "added_at": "2026-11-03 15:00:49",
+      "album": {
         "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
         "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 201000,
       "name": "favorite song",
       "url": "https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN"
-    },
-    {
-      "added_at": "2026-11-03 15:00:49",
-      "album": {
-        "name": "blue in",
-        "url": "https://open.spotify.com/album/2WF2hhxDP1gdPQtMJnNk3X"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "blue in",
-      "url": "https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "\u590f\u8749",
-        "url": "https://open.spotify.com/album/7ilZipPln1gAgFYk7d2fbu"
-      },
-      "artists": [
-        {
-          "name": "JUJU",
-          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
-        }
-      ],
-      "duration_ms": 291808,
-      "name": "\u590f\u8749",
-      "url": "https://open.spotify.com/track/5SotpyBWM0DaYmGRLpwDiw"
-    },
-    {
-      "added_at": "2026-11-03 15:00:49",
-      "album": {
         "name": "\u30ad\u30e9\u30a4\u306e\u3061\u30b9\u30ad\uff01",
         "url": "https://open.spotify.com/album/5AzdFKB1GHLGdX8pLaC2CL"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 194692,
       "name": "\u30ad\u30e9\u30a4\u306e\u3061\u30b9\u30ad\uff01",
       "url": "https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT"
+    },
+    {
+      "added_at": "2026-11-03 15:00:49",
+      "album": {
+        "name": "\u590f\u8749",
+        "url": "https://open.spotify.com/album/7ilZipPln1gAgFYk7d2fbu"
+      },
+      "artists": [
+        {
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+        }
+      ],
+      "duration_ms": 291808,
+      "name": "\u590f\u8749",
+      "url": "https://open.spotify.com/track/5SotpyBWM0DaYmGRLpwDiw"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "\u30e1\u30c7\u30a3\u30a2\u30ce\u30fc\u30c1\u30a7",
-        "url": "https://open.spotify.com/album/243VUqXWPKavxwE9ll1Vyo"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "\u30e1\u30c7\u30a3\u30a2\u30ce\u30fc\u30c1\u30a7",
-      "url": "https://open.spotify.com/track/0da1IJi7awMHj2O4ZzGFWj"
-    },
-    {
-      "added_at": "2026-11-03 15:00:49",
-      "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/5VW7VeqLHjtz6lH9mMlD2l"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 178110,
       "name": "Butter",
       "url": "https://open.spotify.com/track/4oDkcyR28qZS9pfU5BxdtX"
+    },
+    {
+      "added_at": "2026-11-03 15:00:49",
+      "album": {
+        "name": "\u30e1\u30c7\u30a3\u30a2\u30ce\u30fc\u30c1\u30a7",
+        "url": "https://open.spotify.com/album/243VUqXWPKavxwE9ll1Vyo"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "\u30e1\u30c7\u30a3\u30a2\u30ce\u30fc\u30c1\u30a7",
+      "url": "https://open.spotify.com/track/0da1IJi7awMHj2O4ZzGFWj"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
-        "url": "https://open.spotify.com/album/75ud6v5jZFdJdPXdoqyZwe"
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz"
       },
       "artists": [
         {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+          "name": "Maya",
+          "url": "https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4"
         }
       ],
-      "duration_ms": 208520,
-      "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
-      "url": "https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm"
+      "duration_ms": 221930,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "\u714c\u3081\u304d",
-        "url": "https://open.spotify.com/album/1SMHURDMjPyDAn1IsvSvp0"
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
+        "url": "https://open.spotify.com/album/75ud6v5jZFdJdPXdoqyZwe"
       },
       "artists": [
         {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 209012,
-      "name": "\u714c\u3081\u304d",
-      "url": "https://open.spotify.com/track/4f5Y1HJ7rigPnCDJSonwzS"
+      "duration_ms": 208520,
+      "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
+      "url": "https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz"
+        "name": "\u714c\u3081\u304d",
+        "url": "https://open.spotify.com/album/1SMHURDMjPyDAn1IsvSvp0"
       },
       "artists": [
         {
-          "name": "Maya",
-          "url": "https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4"
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
         }
       ],
-      "duration_ms": 221930,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw"
+      "duration_ms": 209012,
+      "name": "\u714c\u3081\u304d",
+      "url": "https://open.spotify.com/track/4f5Y1HJ7rigPnCDJSonwzS"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "Power of Love",
-        "url": "https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ"
+        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
       "artists": [
         {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
         }
       ],
-      "duration_ms": 220172,
-      "name": "Power of Love",
-      "url": "https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9"
+      "duration_ms": 193430,
+      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1547,34 +1547,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
+        "name": "Power of Love",
+        "url": "https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ"
       },
       "artists": [
         {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
         }
       ],
-      "duration_ms": 193430,
-      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
-    },
-    {
-      "added_at": "2026-11-03 15:00:49",
-      "album": {
-        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
+      "duration_ms": 220172,
+      "name": "Power of Love",
+      "url": "https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2026-11-03 15:00:49",
       "album": {
-        "name": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
-        "url": "https://open.spotify.com/album/4FaeqrMl7LloVlxdwCyKnc"
+        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
       },
       "artists": [
         {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
         }
       ],
-      "duration_ms": 294800,
-      "name": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
-      "url": "https://open.spotify.com/track/5iLGuNVh2zfuQIam5ARoLX"
+      "duration_ms": 217392,
+      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
     },
     {
       "added_at": "2026-11-03 15:00:49",
@@ -1623,6 +1607,22 @@
       "duration_ms": 277800,
       "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
       "url": "https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS"
+    },
+    {
+      "added_at": "2026-11-03 15:00:49",
+      "album": {
+        "name": "\u4e59\u5973\u306e\u5263",
+        "url": "https://open.spotify.com/album/54rGAYE7lUEKMIDE2zdLt1"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 216588,
+      "name": "\u4e59\u5973\u306e\u5263",
+      "url": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh"
     }
   ],
   "unique_name": "Women's Voice",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: HAAN, SHIRT\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,847 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,778 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 60 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
 | 61 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
 | 62 | [Unconditional](https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Unconditional](https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9) | 3:04 |
-| 63 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 |
-| 64 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 |
+| 63 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 |
+| 64 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 |
 | 65 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
 | 66 | [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 |
 | 67 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
 | 68 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
-| 69 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
+| 69 | [Adore You](https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Adore You](https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3) | 2:31 |
 | 70 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 71 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
-| 72 | [Adore You](https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Adore You](https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3) | 2:31 |
+| 72 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 73 | [UFO](https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Inside Out](https://open.spotify.com/album/3xA110ttA5PDmnDIBoyb7b) | 3:19 |
 | 74 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
 | 75 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 |

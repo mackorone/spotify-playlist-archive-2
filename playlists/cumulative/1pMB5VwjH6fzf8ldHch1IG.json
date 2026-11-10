@@ -6288,7 +6288,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 272173,
       "name": "Crush Forever",
       "url": "https://open.spotify.com/track/0NLRlg2rElM8r4rU53Zqd0"
@@ -14760,7 +14760,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 181000,
       "name": "Ice Cold Lakes",
       "url": "https://open.spotify.com/track/4j2eOzBQBX65CuR5thn8da"
@@ -21382,7 +21382,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 154293,
       "name": "Of All People",
       "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
@@ -31272,7 +31272,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 109966,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
@@ -32354,7 +32354,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 166735,
       "name": "Woman",
       "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
@@ -32528,6 +32528,36 @@
       "duration_ms": 291506,
       "name": "x-ray eyes",
       "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
+    },
+    {
+      "album": {
+        "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV"
     },
     {
       "album": {
@@ -33046,7 +33076,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 645506,
+  "num_followers": 645511,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADmOgvkPGKUULNWuWApmMeo",
+  "snapshot_id": "au+7gAAAAADDTzOb8VKhoN1293UriHFD",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "I Wanna Dance With Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Whitney",
         "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 276822,
       "name": "You Give Good Love",
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avenoir",
+        "url": "https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/1KGG3xSz0o8Tpf93ocgXH6"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "Same Script, Different Cast",
-      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 245533,
       "name": "If I Told You That (feat. George Michael) - Radio Edit",
       "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Same Script, Different Cast",
+      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
     },
     {
       "added_at": null,

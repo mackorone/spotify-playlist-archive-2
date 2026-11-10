@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,389 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,414 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 43 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 |
 | 44 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 |
 | 45 | [GET UP!](https://open.spotify.com/track/6BNAZp8Q2EcAQioytug0mg) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [BRAIDED](https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH) | 4:14 |
-| 46 | [Love / Hate](https://open.spotify.com/track/2dr0U0kEHfZv19o0lESsPO) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Love / Hate](https://open.spotify.com/album/7IVEMKNDRehODrCp0owdds) | 4:36 |
-| 47 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
+| 46 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
+| 47 | [Love / Hate](https://open.spotify.com/track/2dr0U0kEHfZv19o0lESsPO) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Love / Hate](https://open.spotify.com/album/7IVEMKNDRehODrCp0owdds) | 4:36 |
 | 48 | [Kirakuni \- DK Remix](https://open.spotify.com/track/1VRg90rpRv7usFnOQTqDKE) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Do Hyun Kim](https://open.spotify.com/artist/4v0r2FTwARi4Fq8KCV3YQg) | [REFRESH: One](https://open.spotify.com/album/4Umn1iYWkLNEY9S2Fvd2qk) | 3:56 |
 | 49 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
 | 50 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 |

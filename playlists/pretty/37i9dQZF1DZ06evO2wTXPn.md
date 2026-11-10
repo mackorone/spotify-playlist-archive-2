@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,985 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,984 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 21 | [Desde Antes De Nacer](https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 2:46 |
 | 22 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 23 | [Por Su Amor \(with KURT\)](https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Por Su Amor \(with KURT\)](https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP) | 3:41 |
-| 24 | [Somos Instantes \- Acústico](https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [unas acústicas](https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l) | 3:22 |
-| 25 | [Espectador](https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:18 |
+| 24 | [Espectador](https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:18 |
+| 25 | [Somos Instantes \- Acústico](https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [unas acústicas](https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l) | 3:22 |
 | 26 | [Me Entrego](https://open.spotify.com/track/5pZ9vdwCn8HdP1iNqfExKn) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [M.A.S.O.Q.U.I.S.T.A](https://open.spotify.com/album/2etimzLGBxWBkxozTHAq1k) | 3:27 |
 | 27 | [10 Veces Mejor](https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:22 |
 | 28 | [Cuando Te Duele El Alma](https://open.spotify.com/track/4dPizCyaoZ4W72WwLhCPF5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:04 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 40 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 |
 | 41 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 |
 | 42 | [Sobreviviendo](https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:16 |
-| 43 | [la vida viene y va](https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI) | 3:35 |
-| 44 | [Escapémonos](https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:33 |
+| 43 | [Escapémonos](https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:33 |
+| 44 | [la vida viene y va](https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI) | 3:35 |
 | 45 | [Te Regalo](https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Te Regalo](https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi) | 2:37 |
 | 46 | [YA VA A VENIR](https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:24 |
 | 47 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
-| 48 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
-| 49 | [A Un Minuto](https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:04 |
+| 48 | [A Un Minuto](https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:04 |
+| 49 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
 | 50 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida \(Deluxe\)](https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH) | 2:53 |
 
-Snapshot ID: `au0YgAAAAAAvjf7Ge9lrkjTESRZl1tPL`
+Snapshot ID: `au+7gAAAAAA47V0Vk5xgtqxQ4UoKv7In`

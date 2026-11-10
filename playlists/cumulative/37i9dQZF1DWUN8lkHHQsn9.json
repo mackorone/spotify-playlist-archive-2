@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:5eqHDE9r1yrBnr3kPAu96H\">QueenKutee</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:0gnNmkzfTegBSI0Y3qrTso\">Baby V</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 123000,
       "name": "52 Kilo",
       "url": "https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL"
+    },
+    {
+      "album": {
+        "name": "8 Miles Away",
+        "url": "https://open.spotify.com/album/5tvQRkuHbSbUHEZNcBAngr"
+      },
+      "artists": [
+        {
+          "name": "agatheanneg",
+          "url": "https://open.spotify.com/artist/2uJ59FpkNK76iqMlZSUtkM"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "8 Miles Away",
+      "url": "https://open.spotify.com/track/57PKa4ic8MHfEo4Krb6YRk"
     },
     {
       "album": {
@@ -903,6 +921,24 @@
     },
     {
       "album": {
+        "name": "CHECK",
+        "url": "https://open.spotify.com/album/683OmGOwNc1AHtC6eEXFFE"
+      },
+      "artists": [
+        {
+          "name": "Baby V",
+          "url": "https://open.spotify.com/artist/0gnNmkzfTegBSI0Y3qrTso"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "CHECK",
+      "url": "https://open.spotify.com/track/0Yu6ApyECjr0h0J2MdBKeA"
+    },
+    {
+      "album": {
         "name": "Chodzili\u015bmy nocami",
         "url": "https://open.spotify.com/album/1TzeQF6yFHilcxCpMiqlRu"
       },
@@ -1218,6 +1254,28 @@
       "duration_ms": 138446,
       "name": "Control",
       "url": "https://open.spotify.com/track/2GXT5unTnuzQ7wYAm28Y4s"
+    },
+    {
+      "album": {
+        "name": "Czapeczka z We\u0142ny",
+        "url": "https://open.spotify.com/album/6O100qFv17iW9d0mVOmNlu"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Baby V",
+          "url": "https://open.spotify.com/artist/0gnNmkzfTegBSI0Y3qrTso"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178615,
+      "name": "Czapeczka z We\u0142ny",
+      "url": "https://open.spotify.com/track/4Maxal4QE5G0rfC3567U1p"
     },
     {
       "album": {
@@ -3434,7 +3492,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 221820,
       "name": "Kot Schr\u00f6dingera",
       "url": "https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S"
@@ -3551,6 +3609,28 @@
     },
     {
       "album": {
+        "name": "Kr\u00f3lowe Nocy",
+        "url": "https://open.spotify.com/album/1RDUVJlRoWICpaOiLOJoM8"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "Zgonia",
+          "url": "https://open.spotify.com/artist/5YuN4yVeTlqRa09jX4X81W"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "Kr\u00f3lowe Nocy (feat. Zgonia)",
+      "url": "https://open.spotify.com/track/3cWeSKNPjCEzU7zV2X6ejW"
+    },
+    {
+      "album": {
         "name": "Kumple <3 (MAVOOI Remix)",
         "url": "https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU"
       },
@@ -3642,6 +3722,24 @@
       "duration_ms": 199668,
       "name": "Lalki",
       "url": "https://open.spotify.com/track/5WmMPLNk8ZXkKtUMLjwVn8"
+    },
+    {
+      "album": {
+        "name": "LATER",
+        "url": "https://open.spotify.com/album/0pcOC86OohtlZAwxF1T3i0"
+      },
+      "artists": [
+        {
+          "name": "Baby V",
+          "url": "https://open.spotify.com/artist/0gnNmkzfTegBSI0Y3qrTso"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "LATER",
+      "url": "https://open.spotify.com/track/6ebW5rjUGQALsgVTJOtQf8"
     },
     {
       "album": {
@@ -4356,7 +4454,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 194418,
       "name": "Mosty",
       "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
@@ -4410,7 +4508,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 153226,
       "name": "MVP",
       "url": "https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3"
@@ -4566,7 +4664,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 236444,
       "name": "Nice from Poland - DJ BLIK remix",
       "url": "https://open.spotify.com/track/49NWBgKq5JxteqNIQ6IVhu"
@@ -5560,7 +5658,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 219347,
       "name": "Pies na dw\u00f3ch \u0142apach",
       "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
@@ -8043,6 +8141,24 @@
     },
     {
       "album": {
+        "name": "Venus In Gemini",
+        "url": "https://open.spotify.com/album/6si1D9oEHorZV6eSdODCij"
+      },
+      "artists": [
+        {
+          "name": "Metrosexual",
+          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168137,
+      "name": "Venus In Gemini",
+      "url": "https://open.spotify.com/track/0x4KT2mf9sGzQpcNZuGHYO"
+    },
+    {
+      "album": {
         "name": "VHS Cassette",
         "url": "https://open.spotify.com/album/6yKHf83RrCDa2NgyPcFZiG"
       },
@@ -8742,7 +8858,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 159137,
       "name": "zosta\u0107 czy odej\u015b\u0107",
       "url": "https://open.spotify.com/track/2F5ZDCSwEBx7CnV2njYOgz"

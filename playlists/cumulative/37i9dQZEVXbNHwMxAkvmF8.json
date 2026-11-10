@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 144666,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -10524,7 +10524,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 197538,
       "name": "Estelente",
       "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
@@ -17302,7 +17302,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 134885,
       "name": "J\u00d3ZANOK",
       "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
@@ -18216,7 +18216,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 140689,
       "name": "Klitorisz",
       "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"
@@ -28057,6 +28057,24 @@
     },
     {
       "album": {
+        "name": "Rasta G | Froppi",
+        "url": "https://open.spotify.com/album/6KmokbMuq9K3DWotNKN6ko"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115926,
+      "name": "Rasta G | Froppi",
+      "url": "https://open.spotify.com/track/6JpvtvcPddlXSJLrt4UJOH"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -35312,7 +35330,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 122500,
       "name": "TOP TIER - SPACCONE",
       "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
@@ -36936,7 +36954,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 189714,
       "name": "VID\u00c9KI CSAJSZI",
       "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"

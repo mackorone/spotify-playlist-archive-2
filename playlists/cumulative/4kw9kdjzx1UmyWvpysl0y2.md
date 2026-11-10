@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,334 songs - 3 day 1 hr 55 min
+1,335 songs - 3 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-11-09 |
 | [Break It](https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Break It](https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl) | 2:53 | 2026-04-15 | 2026-07-21 |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 | 2023-09-26 |
+| [Break My Body](https://open.spotify.com/track/2t7AEWTHPEd26aKzA0nvnp) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Break My Body / Warning](https://open.spotify.com/album/6T3ZjkcWHolhEwRC8XhJld) | 2:51 | 2026-11-09 |  |
 | [BREAK THROUGH](https://open.spotify.com/track/5dWiTTEHrm1JKuU6Ae0ytl) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [BREAK THROUGH / RADIATE](https://open.spotify.com/album/0UmwhMlIhRLcKk6UGTSMlV) | 3:15 | 2025-04-17 | 2025-07-10 |
 | [BREAK YOUR NECK](https://open.spotify.com/track/4OB9Vpew2T1eDEh8kGarFp) | [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [BREAK YOUR NECK](https://open.spotify.com/album/4nIB5DVnc2ryn9UGX4JdWH) | 2:03 | 2026-03-06 | 2026-06-27 |
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-02-27 | 2025-05-24 |
@@ -393,7 +394,7 @@
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-15 | 2024-08-14 |
 | [FADEAWAY](https://open.spotify.com/track/7uL3j02IAUGhqcBZdkpXJt) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [FADEAWAY](https://open.spotify.com/album/3EQJvXNmXb3CVFgOBbnOB6) | 3:17 | 2026-07-15 |  |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
-| [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 | 2026-10-07 |  |
+| [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 | 2026-10-07 |  |
 | [Fall](https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Blue Dream](https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs) | 3:15 | 2023-06-02 | 2023-08-28 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
 | [Fall Apart](https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Fall Apart](https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt) | 3:07 | 2026-01-22 | 2026-05-13 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. Lasso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,762,891 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,762,565 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Borracho Otra Vez](https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Objetos Frágiles en Ambientes Hostiles](https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP) | 2:47 |
 | 2 | [Olimpo](https://open.spotify.com/track/0vGKL7wzfkhzGEJScbYt7N) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Olimpo](https://open.spotify.com/album/4vIpcjWLlMwyEdZsC1BKv3) | 2:29 |
-| 3 | [LA PLAYA \(feat\. Flackoloyal\)](https://open.spotify.com/track/6OJ83IY4WkIIBx7xd2FRuQ) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb), [flackoloyal](https://open.spotify.com/artist/0hhDA92zBSqlVzFM2KFN0n) | [LA PLAYA \(feat\. Flackoloyal\)](https://open.spotify.com/album/44KvYEUOc4aPeXjc0qNBxf) | 4:11 |
+| 3 | [LA PLAYA](https://open.spotify.com/track/6OJ83IY4WkIIBx7xd2FRuQ) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb), [flackoloyal](https://open.spotify.com/artist/0hhDA92zBSqlVzFM2KFN0n) | [LA PLAYA](https://open.spotify.com/album/44KvYEUOc4aPeXjc0qNBxf) | 4:11 |
 | 4 | [TÚ SIN YO](https://open.spotify.com/track/5AfQY75NZq66n15hw9TNVC) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [TÚ SIN YO](https://open.spotify.com/album/0nXSt89ulEI3AjZOrDIdLk) | 3:23 |
 | 5 | [hIGhLIGhTS](https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [hIGhLIGhTS](https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK) | 2:08 |
 | 6 | [COMO FUERA](https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COMO FUERA](https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b) | 2:48 |

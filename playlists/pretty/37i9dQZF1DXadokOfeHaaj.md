@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: FKJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,185 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,188 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 38 | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Khadija Al Hanafi](https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5) | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH) | 2:40 |
 | 39 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 40 | [Till It's Over](https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U) | [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Till It's Over](https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps) | 3:33 |
-| 41 | [Tell Your Friends You Love Them](https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Kaleidoscope](https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM) | 2:13 |
-| 42 | [Center Peace](https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Center Peace](https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf) | 3:54 |
+| 41 | [Center Peace](https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Center Peace](https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf) | 3:54 |
+| 42 | [Tell Your Friends You Love Them](https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Kaleidoscope](https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM) | 2:13 |
 | 43 | [Round The Block](https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [Jane](https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk) | [Round The Block](https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo) | 2:42 |
 | 44 | [Talk to Me](https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Talk to Me](https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg) | 3:42 |
 | 45 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 56 | [I LUV IT](https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [I LUV IT](https://open.spotify.com/album/5oEIprEr2NPtmVt60Ajahw) | 2:46 |
 | 57 | [Bad Bara](https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Bad Bara](https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg) | 4:05 |
 | 58 | [Elation](https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Elation](https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3) | 3:32 |
-| 59 | [The First Five Minutes of Magnolia](https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Decoding Birdsong](https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6) | 3:25 |
-| 60 | [Seaford Sunset](https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Seaford Sunset](https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM) | 3:38 |
+| 59 | [Seaford Sunset](https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Seaford Sunset](https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM) | 3:38 |
+| 60 | [The First Five Minutes of Magnolia](https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Decoding Birdsong](https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6) | 3:25 |
 | 61 | [Woman](https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv), [deadream](https://open.spotify.com/artist/17TL40UHDx9A5qfF3tskms) | [Woman](https://open.spotify.com/album/0VJhL9eUwtKSAiqVOYKsFV) | 3:45 |
 | 62 | [PROJECT X](https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [PROJECT X](https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E) | 3:48 |
 | 63 | [mangetout \- The Dare remix](https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [mangetout \(The Dare remix\)](https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls) | 3:20 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 67 | [Lights](https://open.spotify.com/track/1Va3leaBTjd9HUGNbuI97i) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Lights](https://open.spotify.com/album/7fjdvyrAAPwqDoGEoW8Blr) | 2:16 |
 | 68 | [All Your Love](https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [All Your Love](https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv) | 2:31 |
 | 69 | [retrograde](https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [retrograde](https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE) | 2:55 |
-| 70 | [Another Planet \(feat\. Pollena\)](https://open.spotify.com/track/2ukTDvCXtV43vG9v9JDp7k) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Another Planet \(feat\. Pollena\)](https://open.spotify.com/album/0B8L1AR40Qw5PGTs4ViBrX) | 3:15 |
+| 70 | [Lose All Your Friends](https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Lose All Your Friends](https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS) | 5:01 |
 
 Snapshot ID: `AAAAAPszcA7+ZJh+JZvs112B4Ix3wj6u`

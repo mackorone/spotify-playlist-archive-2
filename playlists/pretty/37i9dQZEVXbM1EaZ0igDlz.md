@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,086 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,084 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 6 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 7 | [Mama \- Remix](https://open.spotify.com/track/69PI6qcKE6c90NCjPHHQnp) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Mama \(Remix\)](https://open.spotify.com/album/0oMeZ74j10HLRINkIijBmT) | 2:00 |
 | 8 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
-| 9 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 9 | [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
 | 10 | [Verschwommen](https://open.spotify.com/track/31vk09XYn5aKoz54RQPTMk) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Ski Aggu Musik](https://open.spotify.com/album/0R4eDXE5VmE6T7KirQXSBz) | 2:08 |
 | 11 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 12 | [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 17 | [Katz und Maus](https://open.spotify.com/track/5c3yFUXoJOxVAM6St6aCme) | [LORENZ](https://open.spotify.com/artist/29AFMZC7aOFh52PJn1JoRx) | [Katz und Maus](https://open.spotify.com/album/2NoOmFZaDdLT9RDnuWzWYs) | 3:11 |
 | 18 | [TRIPPIN](https://open.spotify.com/track/3p4nKrnEv1LprXB3SjoYtU) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Levi Did It](https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au) | 3:22 |
 | 19 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
-| 20 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
+| 20 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
 | 21 | [Für immer](https://open.spotify.com/track/3syJILv7CyZQ3ZSkm2xu5a) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Für immer](https://open.spotify.com/album/4k8BTY0xoGFomTmckK9hAL) | 3:04 |
 | 22 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
 | 23 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 26 | [Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:30 |
 | 27 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
 | 28 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
-| 29 | [Talking Body](https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm) | 3:58 |
+| 29 | [Talking Body](https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw) | 3:58 |
 | 30 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
 | 31 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 |
 | 32 | [STORM II](https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 2:53 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 37 | [PROPAGANDA](https://open.spotify.com/track/7pfA9nAEhwQVM3c1Veke1z) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Fler](https://open.spotify.com/artist/75ctWsRuGXmxMxnFPkuEwA) | [PROPAGANDA](https://open.spotify.com/album/0BgCueInmKsXf8T9Bw9Ldd) | 2:38 |
 | 38 | [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 |
 | 39 | [Self Aware](https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Self Aware](https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv) | 2:31 |
-| 40 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
+| 40 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
 | 41 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
 | 42 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 43 | [Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Inundauswendig](https://open.spotify.com/album/0R7lKm7pMZHjdrY1UVcc02) | 2:41 |
 | 44 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:36 |
 | 45 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
 | 46 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
-| 47 | [In the End](https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/2pKw6GERJVAD61449B1EEM) | 3:36 |
+| 47 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
 | 48 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |
 | 49 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 50 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 
-Snapshot ID: `MoQBwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MoVoWAAAAAAAAAAAAAAAAAAAAAAAAGVu`

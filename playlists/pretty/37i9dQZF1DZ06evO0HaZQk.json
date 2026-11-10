@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 526080,
+  "num_followers": 526078,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAhOf4Lr9BOL/fh6Ogp748S",
+  "snapshot_id": "au+7gAAAAADE56XtxfPceY8IFptfkdhS",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 393453,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 241680,
       "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HU HU HU",
-        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 393453,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Luz de Luna (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 257493,
       "name": "Gulliver (with Natalia Lafourcade, \u00c1lex Gonz\u00e1lez y Sergio Vall\u00edn) - MTV Unplugged",
       "url": "https://open.spotify.com/track/3O38qNyWTWL4QOdFNJqMS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Luz de Luna (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "Alma M\u00eda (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "Alma M\u00eda (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Antes de Huir",
-      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 224533,
       "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Antes de Huir",
+      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 225573,
       "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
     },
     {
       "added_at": null,

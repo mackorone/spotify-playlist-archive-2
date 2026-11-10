@@ -1,12 +1,12 @@
 {
   "description": "This is R\u00dcF\u00dcS DU SOL. The essential tracks, all in one playlist.",
-  "num_followers": 522696,
+  "num_followers": 522848,
   "original_name": "This Is R\u00dcF\u00dcS DU SOL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAC1txMYsRNviXckM7V4ynIC",
+  "snapshot_id": "au+7gAAAAAAFhOHHQk6CmqMrK640OHTQ",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 241580,
-      "name": "Like An Animal",
-      "url": "https://open.spotify.com/track/6dw1sbdCwW5sbsbcpq6QED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 448800,
       "name": "Always",
       "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 241580,
+      "name": "Like An Animal",
+      "url": "https://open.spotify.com/track/6dw1sbdCwW5sbsbcpq6QED"
     },
     {
       "added_at": null,

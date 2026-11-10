@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 480672,
+  "num_followers": 480756,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACeSOsUJDqFxZAY8zR4iHN5",
+  "snapshot_id": "au+7gAAAAACvRlTU4yyy/xkwhKU5+vCt",
   "tracks": [
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Ultima Bohemia (En Vivo)",
-        "url": "https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y"
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 167520,
-      "name": "Linda Guerita",
-      "url": "https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS"
+      "duration_ms": 250146,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+        "name": "Mi Ultima Bohemia (En Vivo)",
+        "url": "https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 250146,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs"
+      "duration_ms": 167520,
+      "name": "Linda Guerita",
+      "url": "https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS"
     },
     {
       "added_at": null,

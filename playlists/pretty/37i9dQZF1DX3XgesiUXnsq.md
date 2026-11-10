@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,245 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,262 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

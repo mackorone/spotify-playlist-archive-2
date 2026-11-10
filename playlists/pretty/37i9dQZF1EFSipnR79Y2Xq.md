@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738 likes - 117 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 117 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 116 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 117 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AchJ7AAAAADahFps4kXY1OFvINohNzIi`
+Snapshot ID: `AchQBAAAAABUHVeL85QGdeC7Mysu6CA9`

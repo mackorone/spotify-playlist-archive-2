@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,528 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,552 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 20 | [Aattama Therottama](https://open.spotify.com/track/6B8UmdUMhZyyAJKTYibavN) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Captain Prabhakaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yARHhU9QpNkZZ9ujc7DMB) | 5:14 |
 | 21 | [Ennai Thalatta Varuvala \(Duet\)](https://open.spotify.com/track/4MezfRc3Yw4m7PvFPF85o8) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [Kadalukku Mariyadai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz) | 5:04 |
 | 22 | [Malligai Mottu](https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Sakthivel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NJ0S5vBfJxkGvYRBhGvaZ) | 5:04 |
-| 23 | [Inji Idupazhagi](https://open.spotify.com/track/4LSvEyv1uzh8i80fTeJ4GB) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Devar Magan](https://open.spotify.com/album/5o3RgTQpbSjQeMvVlpXeU6) | 3:29 |
-| 24 | [Sundari](https://open.spotify.com/track/6mssbRQ5gvSac5YWjPiVgl) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r) | [Thalapathi](https://open.spotify.com/album/49aJppWozUgAxp8D8D6e6U) | 7:09 |
+| 23 | [Sundari](https://open.spotify.com/track/6mssbRQ5gvSac5YWjPiVgl) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r) | [Thalapathi](https://open.spotify.com/album/49aJppWozUgAxp8D8D6e6U) | 7:09 |
+| 24 | [Inji Idupazhagi](https://open.spotify.com/track/4LSvEyv1uzh8i80fTeJ4GB) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Devar Magan](https://open.spotify.com/album/5o3RgTQpbSjQeMvVlpXeU6) | 3:29 |
 | 25 | [Maalayil Yaro Manathodu](https://open.spotify.com/track/2o74yd2eqvGyF0RByJSQne) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Chatriyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mFPKnYF5EXwWpzzN87SiH) | 5:31 |
 | 26 | [Nila Kayum](https://open.spotify.com/track/17i9gJP9iPpLIWgeBw7JpQ) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Chembaruthi](https://open.spotify.com/album/5ztp5QLPlMZP4BSQt0kVUu) | 5:02 |
 | 27 | [Endhan Nenjil](https://open.spotify.com/track/1BWuoRLjrkRIpr40hacdmS) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Kalaingan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1HwWQc5SgjUnCdGmT8PY8Y) | 4:49 |

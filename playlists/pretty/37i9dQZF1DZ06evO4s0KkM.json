@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 127726,
+  "num_followers": 127728,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAhfQHBgB5R8kJQiP1PhoXd",
+  "snapshot_id": "au+7gAAAAACm9+DF3kKZUzTueopkwsEi",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Sunshine Highway",
-      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -439,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
       "artists": [
         {
@@ -448,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 140693,
-      "name": "Peg O' My Heart",
-      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
+      "duration_ms": 202000,
+      "name": "Sunshine Highway",
+      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 162853,
       "name": "The Lonesome Boatman",
       "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
@@ -535,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest of Times (Limited Edition)",
-        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -544,25 +528,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Broken Hymns",
-      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
+      "duration_ms": 171026,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
     },
     {
       "added_at": null,
@@ -599,6 +567,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Broken Hymns",
+      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Signed and Sealed In Blood",
         "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
       },
@@ -624,25 +624,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 238286,
-      "name": "James Connolly",
-      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "The Hardest Mile",
-      "url": "https://open.spotify.com/track/3tJLadifOqL3teq4NHZ7JJ"
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 139152,
       "name": "Finnegan's Wake",
       "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "The Hardest Mile",
+      "url": "https://open.spotify.com/track/3tJLadifOqL3teq4NHZ7JJ"
     },
     {
       "added_at": null,
@@ -688,25 +688,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 160013,
-      "name": "Mick Jones Nicked My Pudding",
-      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
+      "duration_ms": 238286,
+      "name": "James Connolly",
+      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 207017,
       "name": "Bury the Bones",
       "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Until the Next Time",
-      "url": "https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Signed and Sealed In Blood",
         "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 191506,
       "name": "Out of Our Heads",
       "url": "https://open.spotify.com/track/6pYfWV7I1M5vNU3DsVSXhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Until the Next Time",
+      "url": "https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8"
     },
     {
       "added_at": null,

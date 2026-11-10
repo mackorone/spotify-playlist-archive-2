@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,062 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,061 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 32 | [Brand New \(feat\. Layton Green\)](https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:46 |
 | 33 | [Easy](https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:25 |
 | 34 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 |
-| 35 | [HERSKIII](https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [HERSKIII](https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc) | 2:00 |
-| 36 | [2 Tone](https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:04 |
-| 37 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 |
-| 38 | [FYT \(Fuckin you tonight\)](https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [FYT \(Fuckin you tonight\)](https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6) | 4:14 |
-| 39 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 |
-| 40 | [Get Ratchet](https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Get Ratchet](https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp) | 2:21 |
+| 35 | [2 Tone](https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:04 |
+| 36 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 |
+| 37 | [HERSKIII](https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [HERSKIII](https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc) | 2:00 |
+| 38 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 |
+| 39 | [Get Ratchet](https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Get Ratchet](https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp) | 2:21 |
+| 40 | [FYT \(Fuckin you tonight\)](https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [FYT \(Fuckin you tonight\)](https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6) | 4:14 |
 | 41 | [INDECISIVE](https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [INDECISIVE](https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA) | 2:56 |
 | 42 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
 | 43 | [look easy](https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 49 | [Basic](https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 1:51 |
 | 50 | [To The Money \- feat\. Lakeyah](https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Bridge Kard Blessings](https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy) | 2:26 |
 
-Snapshot ID: `au0YgAAAAADo+a51DtfUpzmytq+vHfpz`
+Snapshot ID: `au+7gAAAAABiOMLRuLlkWQ1FQTA+SiAl`

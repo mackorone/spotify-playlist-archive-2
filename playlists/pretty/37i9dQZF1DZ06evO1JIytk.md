@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,679 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,676 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 8 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
 | 9 | [Hate Conquers All](https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:46 |
 | 10 | [I'd Tell You But...](https://open.spotify.com/track/1iZKML1ki9knISenUIzXpM) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:10 |
-| 11 | [A New Kind of Army](https://open.spotify.com/track/0ZpIkt4KFc38LzuiHwFkX2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:41 |
-| 12 | [We Are the One](https://open.spotify.com/track/2VUW1FogZMc8RCjGqiH1Lt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu) | 3:07 |
+| 11 | [We Are the One](https://open.spotify.com/track/2VUW1FogZMc8RCjGqiH1Lt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu) | 3:07 |
+| 12 | [A New Kind of Army](https://open.spotify.com/track/0ZpIkt4KFc38LzuiHwFkX2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:41 |
 | 13 | [911 for Peace](https://open.spotify.com/track/4CrufimpcYAOqighojrziP) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Mobilize](https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I) | 3:34 |
 | 14 | [1 Trillion Dollar$ \- Dirty Version](https://open.spotify.com/track/1dIYsviqWVfAOmkvZm8WQ2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:30 |
-| 15 | [Tearing Everyone Down](https://open.spotify.com/track/4Y8ZO4vKghbTlKFi5Fx547) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:55 |
-| 16 | [Brandenburg Gate](https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 3:30 |
-| 17 | [Drink Drank Punk](https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:41 |
+| 15 | [Drink Drank Punk](https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:41 |
+| 16 | [Tearing Everyone Down](https://open.spotify.com/track/4Y8ZO4vKghbTlKFi5Fx547) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:55 |
+| 17 | [Brandenburg Gate](https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 3:30 |
 | 18 | [Confessions of an Economic Hit Man \- Dirty Version](https://open.spotify.com/track/7b7RifetHxERla9vz3GATu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:43 |
 | 19 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/3OZRIyuKW3u3Z6Ux9x9eDX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/3Hs5IoUSWpxFMHTUNGo78w) | 2:43 |
 | 20 | [The Economy is Suffering...Let It Die](https://open.spotify.com/track/517pxni9CL4zU8Lb0JzrQ7) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu) | 3:36 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 34 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/2chElQHFe6YyegzUbFBd1Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu) | 2:50 |
 | 35 | [You Can Kill The Protester, But You Can't Kill The Protest](https://open.spotify.com/track/5z92wWwolpshtOe27xrdHZ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA) | 2:33 |
 | 36 | [The Ranks of the Masses Rising](https://open.spotify.com/track/2YXkq18FeC5urvPpxraQ7c) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j) | 2:28 |
-| 37 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
-| 38 | [It Went Off Like A Bomb](https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:23 |
+| 37 | [It Went Off Like A Bomb](https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:23 |
+| 38 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
 | 39 | [Underground Network](https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 4:03 |
 | 40 | [The Neoliberal Anthem](https://open.spotify.com/track/0ujgWDkEJaJRSY6nzOGTqF) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j) | 3:17 |
 | 41 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 44 | [Bring Out Your Dead](https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 2:14 |
 | 45 | [Red, White & Brainwashed](https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:51 |
 | 46 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 4:40 |
-| 47 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
-| 48 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
+| 47 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
+| 48 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
 | 49 | [Kill the Rich \(Re\-Recorded\)](https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Cease Fires](https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA) | 2:59 |
 | 50 | [Rotten Future](https://open.spotify.com/track/77QXaDMVbxeLA9PpfqHmHs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:58 |
 
-Snapshot ID: `au0YgAAAAABbb/lEZ/NY9GOOMjrW/Hje`
+Snapshot ID: `au+7gAAAAABg42NPwIHkK50qjp4mRREm`

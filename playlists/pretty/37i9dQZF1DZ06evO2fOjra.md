@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,127 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,246 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 20 | [Thoughtless](https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:32 |
 | 21 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
 | 22 | [All In the Family \(feat\. Fred Durst\)](https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:48 |
-| 23 | [Good God](https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:21 |
-| 24 | [Trash](https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:26 |
+| 23 | [Trash](https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:26 |
+| 24 | [Good God](https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:21 |
 | 25 | [Evolution](https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled](https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi) | 3:37 |
 | 26 | [Ball Tongue](https://open.spotify.com/track/5pbfZdAP7xUu354ZQBhTS2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:28 |
-| 27 | [Alone I Break](https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:16 |
-| 28 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
+| 27 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
+| 28 | [Alone I Break](https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:16 |
 | 29 | [Dead Bodies Everywhere](https://open.spotify.com/track/6vsyag9kEPckt19NClSf51) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:45 |
 | 30 | [Clown](https://open.spotify.com/track/3TZuUaGjEtyAiUM9iM89ff) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:36 |
 | 31 | [Cold](https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:45 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 38 | [Divine](https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 2:50 |
 | 39 | [Another Brick in the Wall, Pt\. 1, 2, 3 \- Pink Floyd Cover](https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P) | 7:07 |
 | 40 | [Insane](https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:50 |
-| 41 | [Hater](https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt) | 3:53 |
-| 42 | [Chi](https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:55 |
+| 41 | [Chi](https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:55 |
+| 42 | [Hater](https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt) | 3:53 |
 | 43 | [Children of the Korn \(feat\. Ice Cube\)](https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:52 |
 | 44 | [Let's Get This Party Started](https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:41 |
 | 45 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
-| 46 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
-| 47 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 |
+| 46 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 |
+| 47 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
 | 48 | [Prey for Me](https://open.spotify.com/track/4J6K4ZMQvJRibLLtlOlndI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(Deluxe\)](https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh) | 3:35 |
 | 49 | [Everything I've Known](https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:34 |
 | 50 | [Creep \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/3Ieq1FuiSAiC65mmmL2zMw) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:51 |
 
-Snapshot ID: `au5qAAAAAAAgT/JrmaO1+WDgSVqIV07c`
+Snapshot ID: `au+7gAAAAADotqV9h5SLQCeaGOCVPYB7`

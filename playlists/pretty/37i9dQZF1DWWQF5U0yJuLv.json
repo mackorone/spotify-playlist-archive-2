@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 201860,
+  "num_followers": 201880,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "A Certain Distance",
-        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Two Dots",
-      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "A Certain Distance",
+        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
+      },
+      "artists": [
+        {
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Two Dots",
+      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
-        }
-      ],
-      "duration_ms": 263630,
-      "name": "Star City",
-      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Puzzlewood",
         "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
+        }
+      ],
+      "duration_ms": 263630,
+      "name": "Star City",
+      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Iaora Tahiti",
         "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
       },
       "artists": [
         {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1403,22 +1387,6 @@
       "duration_ms": 194358,
       "name": "Trusted",
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "An Everest Death Situation",
-        "url": "https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x"
-      },
-      "artists": [
-        {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "An Everest Death Situation",
-      "url": "https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1443,6 +1411,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Body Riddle (Remastered)",
         "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 174560,
       "name": "Ted",
       "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "An Everest Death Situation",
+        "url": "https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "An Everest Death Situation",
+      "url": "https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Zoom",
-        "url": "https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 196547,
-      "name": "Echo Boomed",
-      "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Naturally Gushing vol.2",
         "url": "https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 361000,
       "name": "Fine Life",
       "url": "https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 196547,
+      "name": "Echo Boomed",
+      "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "The Red Line",
-        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
-      },
-      "artists": [
-        {
-          "name": "Dualizm",
-          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "The Red Line",
-      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "lux",
         "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 195960,
       "name": "lux",
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "The Red Line",
+        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
+      },
+      "artists": [
+        {
+          "name": "Dualizm",
+          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "The Red Line",
+      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
     },
     {
       "added_at": "2025-11-07 05:00:56",

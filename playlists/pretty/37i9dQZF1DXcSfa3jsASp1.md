@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 
 > Rock on repeat during the summers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,454 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,456 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 38 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
 | 39 | [Painkiller](https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 2:58 |
 | 40 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |
-| 41 | [MONSTERS](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 4:08 |
+| 41 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 |
 | 42 | [Princess of China](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 |
-| 43 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 |
+| 43 | [MONSTERS](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 4:08 |
 | 44 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
 | 45 | [Uma Thurman](https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:31 |
 | 46 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 77 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
 | 78 | [Lights Out](https://open.spotify.com/track/1060gzllf4b0UETAXisR5l) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:56 |
 | 79 | [Run](https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 5:23 |
-| 80 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 |
-| 81 | [Shake Me Down](https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:31 |
+| 80 | [Shake Me Down](https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:31 |
+| 81 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 |
 | 82 | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:29 |
 | 83 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 |
 | 84 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |

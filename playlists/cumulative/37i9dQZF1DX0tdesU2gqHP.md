@@ -4,7 +4,7 @@
 
 > The best videos from the world of pop! Cover: Olivia Rodrigo & Chappell Roan
 
-293 songs - 15 hr 44 min
+295 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Heart Shaped Bed](https://open.spotify.com/track/7gjOdGi8agj10BCbcKaiiw) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Plain Jane](https://open.spotify.com/album/3d219WSRvmx2bMOjktulEK) | 3:28 | 2026-11-02 |  |
 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 | 2026-10-09 |  |
 | [Heavenly](https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Heavenly](https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk) | 2:42 | 2026-03-31 | 2026-05-16 |
+| [hey boyyy](https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [hey boyyy](https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga) | 4:38 | 2026-11-10 |  |
 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-06 |  |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-15 | 2026-08-01 |
 | [HOLLYWOODLAND](https://open.spotify.com/track/3hFGWEdCfGKSjyrbM3IPsi) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [HOLLYWOODLAND](https://open.spotify.com/album/5tFVKRNk4AmAywYFbgTyrz) | 2:47 | 2026-08-21 |  |
@@ -137,7 +138,7 @@
 | [Infinity \(123\)](https://open.spotify.com/track/0hxm1fqvdrGLRbf1RF6wID) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Infinity \(123\)](https://open.spotify.com/album/5QzDHoPIyHsaD0XgnMwnKH) | 2:19 | 2026-05-22 | 2026-07-20 |
 | [Island](https://open.spotify.com/track/4OlKkdk4xclh30KufpSmf5) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Island](https://open.spotify.com/album/0HbBbA2jkbUV4169cLsuGQ) | 3:28 | 2026-07-31 | 2026-10-20 |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-05-01 | 2026-07-20 |
-| [I’m your girl right?](https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I’m your girl right?](https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX) | 2:49 | 2026-05-15 |  |
+| [I’m your girl right?](https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I’m your girl right?](https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX) | 2:49 | 2026-05-15 | 2026-11-10 |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-12-09 | 2026-05-16 |
 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 | 2026-07-19 | 2026-08-22 |
 | [Joy.](https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:23 | 2026-09-10 |  |
@@ -178,7 +179,8 @@
 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 | 2026-07-22 |  |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-12-09 | 2026-10-20 |
 | [Motivation](https://open.spotify.com/track/59edZBlolguuivWORanXkJ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Motivation](https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV) | 3:53 | 2026-08-21 | 2026-09-19 |
-| [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-06-26 |  |
+| [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-06-26 | 2026-11-10 |
+| [My Body Isn't Ready \- Orchestral Version from Sound City](https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready \(Orchestral Version from Sound City\)](https://open.spotify.com/album/7kjFKbcW8aAOXPLgZgjscS) | 3:45 | 2026-11-10 |  |
 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-03-09 | 2026-07-20 |
 | [My Vice Is Misery](https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room, sensitive to the sound](https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s) | 3:57 | 2026-11-02 |  |
 | [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [gao dan dan](https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ) | 2:12 | 2026-09-11 | 2026-10-10 |

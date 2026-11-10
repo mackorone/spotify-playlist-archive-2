@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,020 likes - 179 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 179 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 104 | [GLORIOUS](https://open.spotify.com/track/2K8JydQDSqQx6dUh4BsN2n) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy) | 3:25 |
 | 105 | [Deserve It](https://open.spotify.com/track/4DhcorFL5TTEMuh17ZQUqY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/4Nlbt2EuXedr6UqaeXEI4c) | 4:21 |
 | 106 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 |
-| 107 | [Relax with Me](https://open.spotify.com/track/1YFvAy5VuWHoAo7QsU0Ghb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/3JMlMEVOpqa3HoO9dzUN2s) | 2:47 |
-| 108 | [Routine Rouge](https://open.spotify.com/track/3XE4ONqvAqbyADR17aoGO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 3:08 |
+| 107 | [Routine Rouge](https://open.spotify.com/track/3XE4ONqvAqbyADR17aoGO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 3:08 |
+| 108 | [Relax with Me](https://open.spotify.com/track/1YFvAy5VuWHoAo7QsU0Ghb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/3JMlMEVOpqa3HoO9dzUN2s) | 2:47 |
 | 109 | [Joy](https://open.spotify.com/track/2pdECoZHNYpcYVJx2t9CS4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:15 |
 | 110 | [SHOWING YOU](https://open.spotify.com/track/5I8OJIlHo4Hiq85uq0efDe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6) | 4:46 |
 | 111 | [Temptations](https://open.spotify.com/track/7ye67NNbkTaHYad1oBH0g2) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 2:43 |
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 161 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
 | 162 | [Nothing but Net](https://open.spotify.com/track/0Kuuk3DYQwNsD6qWA3EmPV) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [We Run This, Vol\. 13 \(Mixed by Mr\. E\)](https://open.spotify.com/album/34wToEA3gR8J6qez359k39) | 3:31 |
 | 163 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
-| 164 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
-| 165 | [You Made It](https://open.spotify.com/track/0ltp7EEFhsMeYjoxywDljd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 3:05 |
+| 164 | [You Made It](https://open.spotify.com/track/0ltp7EEFhsMeYjoxywDljd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 3:05 |
+| 165 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
 | 166 | [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 |
 | 167 | [ON UR MIND](https://open.spotify.com/track/3Ci0JKVWZ4vldEs9KMlkfy) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [GOOD MAN \(Deluxe\)](https://open.spotify.com/album/5kXmI1B0BLb2joTTAckz9n) | 3:22 |
 | 168 | [Let Me](https://open.spotify.com/track/2zGbEkMYPxlQJQ9VKD5crD) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:09 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 178 | [Truth For You](https://open.spotify.com/track/6yveqkneVj9bQtcOscvhgR) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [Detrooklyn.](https://open.spotify.com/album/5cir9swuU0WpGojsTPGBfb) | 2:36 |
 | 179 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `AchJ9gAAAABEtQ9wzV1iSmuut+D0gGru`
+Snapshot ID: `AchP0gAAAAAR0b/zWz/aI6qDt9Dt9HxP`

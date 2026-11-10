@@ -4,7 +4,7 @@
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-92 songs - 7 hr 32 min
+94 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Feeling Good \- Live](https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:15 | 2023-07-28 |  |
 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 | 2023-07-28 |  |
 | [Flawless \(Go to the City\) \- Remastered 2006](https://open.spotify.com/track/6jDDXNRl16wr8nhfUyU3tL) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:50 | 2026-08-26 | 2026-08-28 |
+| [Freedom Opening \- Live in Paris, 1988](https://open.spotify.com/track/45ahIPl7ALwFoiw0Xw5IJH) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Faith Tour](https://open.spotify.com/album/5mg5BcbOiMuIWdMGp9TsUu) | 2:47 | 2026-11-10 |  |
 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 6:30 | 2023-11-10 |  |
 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 | 2023-07-28 | 2023-11-11 |
 | [Freeek! '04](https://open.spotify.com/track/6hoj2fpD27ELoVe2aK4fom) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:28 | 2024-05-17 | 2024-07-18 |
@@ -52,7 +53,8 @@
 | [I Want Your Sex \- Live in Paris, 1988](https://open.spotify.com/track/58DmbLiWwFABLti9yktZmI) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Faith Tour](https://open.spotify.com/album/5mg5BcbOiMuIWdMGp9TsUu) | 4:44 | 2026-11-08 |  |
 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 | 2023-07-28 | 2026-11-08 |
 | [I Want Your Sex \- Rhythm 1 \- Lust](https://open.spotify.com/track/5kiOZ0ey8yeeQB3X7iYDcN) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [I Want Your Sex](https://open.spotify.com/album/4tx01vn62FAbTMXXkTGV96) | 4:46 | 2026-03-27 | 2026-04-24 |
-| [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 | 2023-12-31 |  |
+| [I'm Your Man \- Live in Paris, 1988](https://open.spotify.com/track/3DYfWiSzMq5NBTp59Q6fnc) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Faith Tour](https://open.spotify.com/album/5mg5BcbOiMuIWdMGp9TsUu) | 5:37 | 2026-11-10 |  |
+| [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 | 2023-12-31 | 2026-11-10 |
 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 | 2023-07-28 |  |
 | [If You Were My Woman](https://open.spotify.com/track/2mpPu9931WS9IDrhS6tE1x) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:06 | 2024-05-19 | 2025-08-31 |
 | [Jesus to a Child](https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:51 | 2023-07-28 |  |
@@ -64,7 +66,7 @@
 | [Monkey \- Remastered](https://open.spotify.com/track/2nzPzkGP9QSZ1lqvXTfyzT) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:06 | 2023-07-28 | 2026-09-16 |
 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:59 | 2023-08-09 |  |
 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:59 | 2023-12-13 | 2024-10-05 |
-| [My Baby Just Cares for Me](https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 1:45 | 2023-07-28 |  |
+| [My Baby Just Cares for Me](https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 1:45 | 2023-07-28 | 2026-11-10 |
 | [Older](https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:33 | 2023-07-28 |  |
 | [One More Try \- Remastered](https://open.spotify.com/track/5932kbyNt445gDTT2chRUS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:50 | 2023-07-28 |  |
 | [Outside](https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 4:43 | 2023-07-28 | 2024-09-29 |

@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Klisman",
-  "num_followers": 151480,
+  "num_followers": 151486,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-11-05 23:33:38",
       "album": {
+        "name": "+ Swag",
+        "url": "https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "+ Swag",
+      "url": "https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK"
+    },
+    {
+      "added_at": "2026-11-05 23:33:38",
+      "album": {
         "name": "QUEM \u00c9 BANDIDO N\u00c3O FALA!",
         "url": "https://open.spotify.com/album/2Qwhae5mBLsaPJ63W6Jbha"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 141290,
       "name": "QUEM \u00c9 BANDIDO N\u00c3O FALA!",
       "url": "https://open.spotify.com/track/1HR4dYh0FSrkkBOIkW8Twj"
-    },
-    {
-      "added_at": "2026-11-05 23:33:38",
-      "album": {
-        "name": "+ Swag",
-        "url": "https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD"
-      },
-      "artists": [
-        {
-          "name": "Phl Notunrboy",
-          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "+ Swag",
-      "url": "https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK"
     },
     {
       "added_at": "2026-11-05 23:33:38",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-11-05 23:33:38",
       "album": {
-        "name": "Linguagem De Rua",
-        "url": "https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "ProdbyFp",
-          "url": "https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK"
-        }
-      ],
-      "duration_ms": 128966,
-      "name": "DE ONDE ELE VEM?",
-      "url": "https://open.spotify.com/track/3uyEHWoyEXDadTBqN90wMn"
-    },
-    {
-      "added_at": "2026-11-05 23:33:38",
-      "album": {
         "name": "Sentido \u00e0 Zona Leste",
         "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 123508,
       "name": "Sentido \u00e0 Zona Leste",
       "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
+    },
+    {
+      "added_at": "2026-11-05 23:33:38",
+      "album": {
+        "name": "Linguagem De Rua",
+        "url": "https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "ProdbyFp",
+          "url": "https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK"
+        }
+      ],
+      "duration_ms": 128966,
+      "name": "DE ONDE ELE VEM?",
+      "url": "https://open.spotify.com/track/3uyEHWoyEXDadTBqN90wMn"
     },
     {
       "added_at": "2026-11-05 23:33:38",

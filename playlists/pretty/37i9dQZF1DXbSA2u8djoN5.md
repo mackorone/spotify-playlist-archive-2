@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Serotone, IRAIDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,759 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,767 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 27 | [Poti Sa\-mi Iei Tot \- Doamna si Vagabondu](https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy) | [POLLY](https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Poti Sa\-mi Iei Tot \(Doamna si Vagabondu\)](https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B) | 3:13 |
 | 28 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 |
 | 29 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 |
-| 30 | [THEY.](https://open.spotify.com/track/2eBwDlgcvJPupBLCZNNSbE) | [Yakki](https://open.spotify.com/artist/10Gn7d0q1THIu8PM5ywP20), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [THEY.](https://open.spotify.com/album/2npKi9k5cbyLHcxJD74Kd7) | 2:24 |
-| 31 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 |
+| 30 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 |
+| 31 | [THEY.](https://open.spotify.com/track/2eBwDlgcvJPupBLCZNNSbE) | [Yakki](https://open.spotify.com/artist/10Gn7d0q1THIu8PM5ywP20), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [THEY.](https://open.spotify.com/album/2npKi9k5cbyLHcxJD74Kd7) | 2:24 |
 | 32 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
 | 33 | [BACCARAT](https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [BACCARAT](https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2) | 2:41 |
 | 34 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 |

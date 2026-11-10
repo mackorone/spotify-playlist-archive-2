@@ -4,7 +4,7 @@
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-35 songs - 1 hr 59 min
+36 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Another Name](https://open.spotify.com/track/0KebKJIyG9EzIaAldHPaRM) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 1:51 | 2026-10-18 |  |
 | [BETRAYAL](https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:55 | 2026-08-17 |  |
 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 | 2026-08-08 |  |
-| [Caught in the Shadow](https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed \(Original Motion Picture Score\)](https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n) | 1:20 | 2026-08-19 |  |
+| [Caught in the Shadow](https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed \(Original Motion Picture Score\)](https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n) | 1:20 | 2026-08-19 | 2026-11-10 |
 | [Chasing the Escaping Sun](https://open.spotify.com/track/6yk1nPTG2ymfQAvD9Qncuc) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 3:20 | 2026-08-08 |  |
 | [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 | 2026-08-08 |  |
 | [Destroyer Of Worlds](https://open.spotify.com/track/3NQtYTbGk64fHf8ZIppj69) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 2:54 | 2026-08-08 |  |
@@ -39,6 +39,7 @@
 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 | 2026-08-08 |  |
 | [The Mandalorian and Grogu](https://open.spotify.com/track/2soMoQzD2HlsVmys7Se3Pq) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 3:07 | 2026-08-08 |  |
 | [Truths \(From "Everything, Everything" Score\)](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 | 2026-08-08 |  |
+| [Two Paths Diverged](https://open.spotify.com/track/60lUxQu8QRSfeU458DG2rw) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 2 \(Chapters 5\-7\) \[Original Soundtrack\]](https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC) | 2:50 | 2026-11-10 |  |
 | [Under Water \(From "Creed II" Soundtrack\)](https://open.spotify.com/track/1bLvzQn4FfejNtceBOyyov) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 2:01 | 2026-11-01 | 2026-11-06 |
 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 | 2026-08-28 |  |
 | [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 | 2026-08-08 |  |

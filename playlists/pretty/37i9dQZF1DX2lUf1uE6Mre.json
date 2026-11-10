@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 906109,
+  "num_followers": 906065,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Sonne \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/27QReVTi8x2TlM819taRAq"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 152459,
-      "name": "Sonne \u00fcber Berlin",
-      "url": "https://open.spotify.com/track/2dw6tVaptSJwYvKK0hVrge"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/2yF4mFRJKTHJrWDxrUgUpG"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 138913,
       "name": "hotels & skylines",
       "url": "https://open.spotify.com/track/2aeC1sWpv4bTN61yadaHUk"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "Sonne \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/27QReVTi8x2TlM819taRAq"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 152459,
+      "name": "Sonne \u00fcber Berlin",
+      "url": "https://open.spotify.com/track/2dw6tVaptSJwYvKK0hVrge"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
+        "name": "Gold & Eis",
+        "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Gold & Eis",
+      "url": "https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
         "name": "WER BIST DU DENN?",
         "url": "https://open.spotify.com/album/4gHPTOO5l0tylL3GDBeOAB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 147884,
       "name": "WER BIST DU DENN?",
       "url": "https://open.spotify.com/track/0gKGWokeCq8WkXQB66ZSTw"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
-        "name": "Gold & Eis",
-        "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Gold & Eis",
-      "url": "https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 139065,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "FUXWAVE",
         "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
       },
@@ -807,6 +787,26 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 139065,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
         "name": "Lounge Musik",
         "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
       },
@@ -819,30 +819,6 @@
       "duration_ms": 118211,
       "name": "Lounge City",
       "url": "https://open.spotify.com/track/77edDDeo7gh25s1YUEenxX"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
-        "name": "DRINNE",
-        "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "CANEY030",
-          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
-        },
-        {
-          "name": "JURI",
-          "url": "https://open.spotify.com/artist/6SGVQ8bD0Hab6BItkqWVuJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "DRINNE",
-      "url": "https://open.spotify.com/track/1QZ1Rm9H5ytBhukQbZpaXx"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -867,6 +843,30 @@
       "duration_ms": 153175,
       "name": "Syt",
       "url": "https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "DRINNE",
+        "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        },
+        {
+          "name": "JURI",
+          "url": "https://open.spotify.com/artist/6SGVQ8bD0Hab6BItkqWVuJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "DRINNE",
+      "url": "https://open.spotify.com/track/1QZ1Rm9H5ytBhukQbZpaXx"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -999,22 +999,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Lamborghini",
-        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
+        "name": "ZEITPUNKT",
+        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
       },
       "artists": [
         {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         },
         {
-          "name": "Lucio101",
-          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
         }
       ],
-      "duration_ms": 156340,
-      "name": "Lamborghini",
-      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
+      "duration_ms": 181624,
+      "name": "ZEITPUNKT",
+      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "ZEITPUNKT",
-        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
         },
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
         }
       ],
-      "duration_ms": 181624,
-      "name": "ZEITPUNKT",
-      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
+      "duration_ms": 156340,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 151546,
-      "name": "MARIA",
-      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 151165,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/4X1IZUzZupFxE0HRVPVTQ8"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "duration_ms": 151546,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Heavyweight",
-        "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
-      },
-      "artists": [
-        {
-          "name": "Saliou",
-          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
-        }
-      ],
-      "duration_ms": 95049,
-      "name": "Heavyweight",
-      "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Pretty Privilege",
         "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 145493,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
+      },
+      "artists": [
+        {
+          "name": "Saliou",
+          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
+        }
+      ],
+      "duration_ms": 95049,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
     },
     {
       "added_at": "2026-10-16 09:20:36",

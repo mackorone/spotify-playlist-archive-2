@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,701 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,704 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 40 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
 | 41 | [Las Cosas Simples](https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Las Cosas Simples](https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW) | 3:37 |
 | 42 | [El Mejor Verano](https://open.spotify.com/track/7vRH3UN0yJjgFlnhv5FPOR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:11 |
-| 43 | [Diosa](https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Diosa](https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd) | 2:55 |
-| 44 | [Lo Bailado](https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:53 |
+| 43 | [Lo Bailado](https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:53 |
+| 44 | [Diosa](https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Diosa](https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd) | 2:55 |
 | 45 | [Lo Que Se Va](https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Que Se Va](https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW) | 3:28 |
 | 46 | [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 |
 | 47 | [Ruptura](https://open.spotify.com/track/3D51NYZSRztVQqim234LiI) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 4:09 |
 | 48 | [Nada Para Ti](https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Adentro](https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ) | 3:56 |
-| 49 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
-| 50 | [La tina](https://open.spotify.com/track/6m4Td7QOqE7mZqNYwD4ruF) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:56 |
+| 49 | [La tina](https://open.spotify.com/track/6m4Td7QOqE7mZqNYwD4ruF) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:56 |
+| 50 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
 
-Snapshot ID: `au5qAAAAAAAH+Bb0WqqQ5UolylFvExHX`
+Snapshot ID: `au+7gAAAAADu76cw9w3HokLpwFwzb3bH`

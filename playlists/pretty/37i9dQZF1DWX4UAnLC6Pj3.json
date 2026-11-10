@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva \ud83d\udcf8",
-  "num_followers": 1296449,
+  "num_followers": 1296442,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
-      },
-      "artists": [
-        {
-          "name": "Diego Herrera",
-          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 175834,
-      "name": "Mis Canciones de Amor",
-      "url": "https://open.spotify.com/track/3yqiCLBbNKVZxqUWqMDxkr"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "La M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/0aLytLEELAi75gqvjsynmA"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 186021,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/6sGbcuvaz15btt3RupkRCO"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 175834,
+      "name": "Mis Canciones de Amor",
+      "url": "https://open.spotify.com/track/3yqiCLBbNKVZxqUWqMDxkr"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Al Diablo Mi Orgullo",
-        "url": "https://open.spotify.com/album/4aIB5TQdP45dtNFjhw1leO"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 176604,
-      "name": "Al Diablo Mi Orgullo",
-      "url": "https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Eres Pasado",
         "url": "https://open.spotify.com/album/4ITOsDeTwaLv6PNPKInVfZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 165160,
       "name": "Eres Pasado",
       "url": "https://open.spotify.com/track/7Hz6BDxLKCxmwJfTkGEpKf"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Al Diablo Mi Orgullo",
+        "url": "https://open.spotify.com/album/4aIB5TQdP45dtNFjhw1leO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 176604,
+      "name": "Al Diablo Mi Orgullo",
+      "url": "https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Amar De Verdad",
-        "url": "https://open.spotify.com/album/05C1CBbMRLU8hIIWEiu4W7"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "Amar De Verdad",
-      "url": "https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "La Voz De Un Rosario",
         "url": "https://open.spotify.com/album/7t33AstobkW3BikWbFine7"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "M\u00e1s Perris",
-        "url": "https://open.spotify.com/album/4Dxoh1BqN03wVod0jum9l9"
+        "name": "Amar De Verdad",
+        "url": "https://open.spotify.com/album/05C1CBbMRLU8hIIWEiu4W7"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 185169,
-      "name": "M\u00e1s Perris",
-      "url": "https://open.spotify.com/track/5lqSgMAQiwK54xtinq7KaP"
+      "duration_ms": 210329,
+      "name": "Amar De Verdad",
+      "url": "https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -943,6 +927,22 @@
       "duration_ms": 254973,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "M\u00e1s Perris",
+        "url": "https://open.spotify.com/album/4Dxoh1BqN03wVod0jum9l9"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 185169,
+      "name": "M\u00e1s Perris",
+      "url": "https://open.spotify.com/track/5lqSgMAQiwK54xtinq7KaP"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Mi Segunda Vida",
-        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 161384,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Finales Tristes",
-        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 188971,
-      "name": "Finales Tristes",
-      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Cantina Ambulante (En Vivo)",
         "url": "https://open.spotify.com/album/7awJyiX8sxV6fkdk9ItJJM"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 229546,
       "name": "Que No Se D\u00e9 Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/63BqSJThnN0iYkFsW9vCgC"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Finales Tristes",
+        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 188971,
+      "name": "Finales Tristes",
+      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Ebrio de amor",
-        "url": "https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Ebrio de amor",
-      "url": "https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Qui\u00e9n te entiende",
         "url": "https://open.spotify.com/album/1JkjGZwM13QmiR4HceYBzQ"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 196986,
       "name": "Qui\u00e9n te entiende",
       "url": "https://open.spotify.com/track/6ZYufYYNZ18mWo1ogJQaYx"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Ebrio de amor",
+        "url": "https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Ebrio de amor",
+      "url": "https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/6WdQA7zU2fXvzcGgxcnDjf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 131645,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/2bl9PTz5CmEtmxAxbHiv1E"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
         "name": "Como Me Haces Falta",
         "url": "https://open.spotify.com/album/0ss7vkd2j4uJ13lKA3CSxW"
       },
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/6WdQA7zU2fXvzcGgxcnDjf"
+        "name": "Ya no Vivo por Vivir",
+        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Brazeros Musical De Durango",
+          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
         }
       ],
-      "duration_ms": 131645,
-      "name": "Hermos\u00edsimo Lucero",
-      "url": "https://open.spotify.com/track/2bl9PTz5CmEtmxAxbHiv1E"
+      "duration_ms": 213075,
+      "name": "Ya no Vivo por Vivir",
+      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1811,22 +1827,6 @@
       "duration_ms": 190332,
       "name": "Las Mismas Costumbres - En Vivo",
       "url": "https://open.spotify.com/track/5eEW8uGChSpFGlqLYuMNfN"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
-        "name": "Ya no Vivo por Vivir",
-        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
-      },
-      "artists": [
-        {
-          "name": "Brazeros Musical De Durango",
-          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
-        }
-      ],
-      "duration_ms": 213075,
-      "name": "Ya no Vivo por Vivir",
-      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
     },
     {
       "added_at": "2026-10-23 09:16:07",

@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Esquina 22",
+        "url": "https://open.spotify.com/album/1eghflM8a7rxXrHyMtigOO"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/7s3dW90my4ocMcArYOpSqU"
+    },
+    {
+      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -654,7 +672,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 166008,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/5I3XYM5MzSZfcFfyWxjtfb"
@@ -1106,6 +1124,24 @@
       "duration_ms": 178834,
       "name": "Cartas Marcadas",
       "url": "https://open.spotify.com/track/1PKXHeXMAR7KMAhN2hT5bw"
+    },
+    {
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/2cxXpfm0xND5e9eC2Fx5F9"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224582,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/5eaLzflCOZknktPA5PdoAV"
     },
     {
       "album": {
@@ -2804,7 +2840,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 192520,
       "name": "El Cholo",
       "url": "https://open.spotify.com/track/6OJfzzIDwEgjHn1ZFib3Je"
@@ -3680,6 +3716,24 @@
       "duration_ms": 171785,
       "name": "El Viejo Fino",
       "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
+    },
+    {
+      "album": {
+        "name": "INNOVACI\u00d3N",
+        "url": "https://open.spotify.com/album/0JGaftlxzNCXZZjrwsjEw1"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "ELLA",
+      "url": "https://open.spotify.com/track/2rk85MqkJmJHHWadZA3UlL"
     },
     {
       "album": {
@@ -5213,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "Pilares de Cristal",
+        "url": "https://open.spotify.com/album/3NpgSCTAvbfn0WEW64ouDE"
+      },
+      "artists": [
+        {
+          "name": "Los 2 Plebes Y Su Tuba De Oro",
+          "url": "https://open.spotify.com/artist/1YzuswgrVFHlvA6Norl7Ze"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165590,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/11hsFzKUhMfxAjUbP1j3Ra"
+    },
+    {
+      "album": {
         "name": "Puro Che Rios Oiga",
         "url": "https://open.spotify.com/album/0RpKcuhlypb45ragJxcPDD"
       },
@@ -5488,7 +5560,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 163181,
       "name": "la tarde de un domingo",
       "url": "https://open.spotify.com/track/2N6zjjqumNIVod4TXjqiLD"
@@ -5524,7 +5596,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 247920,
       "name": "Las Edades",
       "url": "https://open.spotify.com/track/0DA9WS8YBvH72qX3xs4DRL"
@@ -6624,6 +6696,28 @@
       "duration_ms": 305213,
       "name": "Morenaza",
       "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
+    },
+    {
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Allegados",
+          "url": "https://open.spotify.com/artist/7MZBmhd6drb9VL0CLRntt8"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230592,
+      "name": "MORENITA DE OJOS NEGROS - En Vivo",
+      "url": "https://open.spotify.com/track/3HRyn76JxRbwrLi8CeBwVr"
     },
     {
       "album": {
@@ -7775,6 +7869,24 @@
     },
     {
       "album": {
+        "name": "Por Tus Amores Juanita (En Vivo)",
+        "url": "https://open.spotify.com/album/7BuceWvTrbVvf7o4B75d4c"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206894,
+      "name": "Por Tus Amores Juanita - En Vivo",
+      "url": "https://open.spotify.com/track/6oo8Bwdi51XQFl7E7oK209"
+    },
+    {
+      "album": {
         "name": "Por Un Amor",
         "url": "https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf"
       },
@@ -7986,6 +8098,24 @@
       "duration_ms": 157569,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
+    },
+    {
+      "album": {
+        "name": "Te Seguire Queriendo",
+        "url": "https://open.spotify.com/album/0W6osj6QMKTexpoqX2DUBM"
+      },
+      "artists": [
+        {
+          "name": "Los 2 Plebes Y Su Tuba De Oro",
+          "url": "https://open.spotify.com/artist/1YzuswgrVFHlvA6Norl7Ze"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175464,
+      "name": "Pura Pa Delante",
+      "url": "https://open.spotify.com/track/4q2u5KY3oIm95IeyPYslmu"
     },
     {
       "album": {
@@ -8478,7 +8608,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 238266,
       "name": "Regalo Caro",
       "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
@@ -9432,7 +9562,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 182047,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb"
@@ -11020,7 +11150,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 196590,
       "name": "\u00bfY Que Les Vamos A Decir?",
       "url": "https://open.spotify.com/track/1GcNbbLUIuDj2MAlJqFHpa"

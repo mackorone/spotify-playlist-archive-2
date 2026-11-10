@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 716939,
+  "num_followers": 716952,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAD9YOmZeoieIsxRVYC1jhWE",
+  "snapshot_id": "au+7gAAAAAA/seIZglbYgEI1IiOHr7eK",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Must Love Me",
-        "url": "https://open.spotify.com/album/2u04sbbN8GsaPoe9JsQRcd"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "You Must Love Me - Single Version",
-      "url": "https://open.spotify.com/track/5aQ3EkgRY3Cu333HS2ory3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
@@ -115,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/7bkyXSi4GtVfD7itZRUR3e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4 Minutes (feat. Justin Timberlake and Timbaland) [Remixes]",
         "url": "https://open.spotify.com/album/6U4hLkY2ITGsSQ9gekaEYt"
       },
@@ -135,22 +135,6 @@
       "duration_ms": 189693,
       "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
       "url": "https://open.spotify.com/track/3BLQrC76YB29r1Z5hNJbti"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/7bkyXSi4GtVfD7itZRUR3e"
     },
     {
       "added_at": null,
@@ -195,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -223,22 +191,6 @@
       "duration_ms": 218626,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 235771,
-      "name": "Danceteria",
-      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
     },
     {
       "added_at": null,
@@ -259,6 +211,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 235771,
+      "name": "Danceteria",
+      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -275,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 283848,
-      "name": "Into the Groove",
-      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CONFESSIONS II",
         "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
       },
@@ -303,6 +271,22 @@
       "duration_ms": 263469,
       "name": "One Step Away",
       "url": "https://open.spotify.com/track/7eidNIYy4hPOlGioM7jBwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 283848,
+      "name": "Into the Groove",
+      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 263813,
       "name": "I'll Remember (Theme from the Motion Picture With Honors)",
       "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Must Love Me",
+        "url": "https://open.spotify.com/album/2u04sbbN8GsaPoe9JsQRcd"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "You Must Love Me - Single Version",
+      "url": "https://open.spotify.com/track/5aQ3EkgRY3Cu333HS2ory3"
     }
   ],
   "unique_name": "This Is Madonna",

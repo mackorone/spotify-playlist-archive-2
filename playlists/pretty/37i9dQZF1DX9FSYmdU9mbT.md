@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Maria Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,480 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,510 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 47 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
 | 48 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 |
 | 49 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
-| 50 | [Amigos Novos e Antigos](https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Amigos Novos e Antigos](https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms) | 4:36 |
-| 51 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
+| 50 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
+| 51 | [Amigos Novos e Antigos](https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Amigos Novos e Antigos](https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms) | 4:36 |
 | 52 | [O Que é o Amor](https://open.spotify.com/track/29Ftly2gNWx246MSdIkDZG) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Elas Cantam Arlindo](https://open.spotify.com/album/66yRQTSxY2dC2UdflCdjZg) | 3:26 |
 | 53 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
 | 54 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |

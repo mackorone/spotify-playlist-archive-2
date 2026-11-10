@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Robert van Hemert, Rutger van Barneveld, Bente, Milolaathetlukken, Slayyyter en meer..\n",
-  "num_followers": 302654,
+  "num_followers": 302628,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -1252,12 +1252,12 @@
       },
       "artists": [
         {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
           "name": "June Freedom",
           "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
         }
       ],
       "duration_ms": 169565,

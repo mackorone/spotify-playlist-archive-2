@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Cody Johnson",
-  "num_followers": 518357,
+  "num_followers": 518561,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "There Was This Girl",
-      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "There Was This Girl",
+      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         },
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 191146,
-      "name": "Here (with Chris Stapleton)",
-      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         },
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 191441,
-      "name": "Don't We",
-      "url": "https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 233869,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 191441,
+      "name": "Don't We",
+      "url": "https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
@@ -1847,18 +1863,18 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Next Thing You Know",
-        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 175237,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
+      "duration_ms": 218160,
+      "name": "Pretty Little Poison",
+      "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1891,22 +1907,6 @@
       "duration_ms": 215146,
       "name": "Can't Sit Still",
       "url": "https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
-        "name": "Pretty Little Poison",
-        "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Pretty Little Poison",
-      "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2026-09-18 04:02:02",

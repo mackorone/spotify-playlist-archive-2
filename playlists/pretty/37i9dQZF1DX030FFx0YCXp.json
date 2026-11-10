@@ -1,6 +1,6 @@
 {
   "description": "Crowd-pleasing favorites for an easy, carefree day. ",
-  "num_followers": 471662,
+  "num_followers": 471641,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "American Nights",
-      "url": "https://open.spotify.com/track/00ju8gshHD67on6Aqh83Pb"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 210760,
       "name": "Movin' Out (Anthony's Song)",
       "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "American Nights",
+      "url": "https://open.spotify.com/track/00ju8gshHD67on6Aqh83Pb"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 162160,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "No One Else Like Me",
-      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "No One Else Like Me",
+      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Eddie Money (2022 Remaster)",
-        "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
       "artists": [
         {
-          "name": "Eddie Money",
-          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 240419,
-      "name": "Two Tickets to Paradise (2022 Remaster)",
-      "url": "https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH"
+      "duration_ms": 161466,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1275,6 +1259,22 @@
       "duration_ms": 238410,
       "name": "365 Flavors",
       "url": "https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Eddie Money (2022 Remaster)",
+        "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
+      },
+      "artists": [
+        {
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+        }
+      ],
+      "duration_ms": 240419,
+      "name": "Two Tickets to Paradise (2022 Remaster)",
+      "url": "https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "In The Pocket",
-        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 293226,
-      "name": "Lady (You Bring Me Up)",
-      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Al Green Explores Your Mind",
         "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "In The Pocket",
+        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 293226,
+      "name": "Lady (You Bring Me Up)",
+      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
     },
     {
       "added_at": "2026-06-30 13:32:35",

@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 609382,
+  "num_followers": 609369,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
       "artists": [
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -599,6 +583,22 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 298133,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Breezin' (Expanded)",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Buster Poindexter",
-        "url": "https://open.spotify.com/album/4lFx9yBIZmyiBXmw0nFUQf"
-      },
-      "artists": [
-        {
-          "name": "Buster Poindexter And His Banshees Of Blue",
-          "url": "https://open.spotify.com/artist/77GFTVwA0F6Ag1xtlYr0UA"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Hot Hot Hot",
-      "url": "https://open.spotify.com/track/2BeFYfKuc0AZGhbeVY78ep"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
         "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 168706,
       "name": "Beggin' - 2007 Remaster",
       "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Buster Poindexter",
+        "url": "https://open.spotify.com/album/4lFx9yBIZmyiBXmw0nFUQf"
+      },
+      "artists": [
+        {
+          "name": "Buster Poindexter And His Banshees Of Blue",
+          "url": "https://open.spotify.com/artist/77GFTVwA0F6Ag1xtlYr0UA"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Hot Hot Hot",
+      "url": "https://open.spotify.com/track/2BeFYfKuc0AZGhbeVY78ep"
     },
     {
       "added_at": "2024-07-14 16:19:42",

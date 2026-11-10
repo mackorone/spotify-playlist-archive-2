@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 9024,
+  "num_followers": 9028,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAAzAZ1O9LVSHk8K6DSiYbS0",
+  "snapshot_id": "au+7gAAAAADUKEgziHLBCIC3dMCzQKW4",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mental",
-        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
     },
     {
       "added_at": null,
@@ -880,9 +880,29 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 262844,
-      "name": "Feeling You",
-      "url": "https://open.spotify.com/track/1l8UZotTBOynkYGEPW0WEa"
+      "duration_ms": 236564,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iworiwo",
+        "url": "https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Iworiwo",
+      "url": "https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa"
     },
     {
       "added_at": null,
@@ -907,26 +927,6 @@
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iworiwo",
-        "url": "https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Iworiwo",
-      "url": "https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa"
     },
     {
       "added_at": null,
@@ -956,25 +956,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 236564,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 253126,
-      "name": "Dance Floor",
-      "url": "https://open.spotify.com/track/0viLDN2HnFEMJXgUnIaoWp"
+      "duration_ms": 262844,
+      "name": "Feeling You",
+      "url": "https://open.spotify.com/track/1l8UZotTBOynkYGEPW0WEa"
     }
   ],
   "unique_name": "This Is 2Baba",

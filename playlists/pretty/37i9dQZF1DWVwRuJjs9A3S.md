@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: GRANT
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,585 likes - 199 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,732 likes - 199 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 198 | [Onenon](https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 4:04 |
 | 199 | [Lubnan \(لبنان\)](https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lubnan \(لبنان\)](https://open.spotify.com/album/4z0HkMA3ktMlt4cGVOrMFU) | 5:16 |
 
-Snapshot ID: `AAAAAGYLfAmuEDuBgIfYEBpDTrO36WP7`
+Snapshot ID: `AAAAAMXJ1d8qfVudsujvw5QBZZwkJnCK`

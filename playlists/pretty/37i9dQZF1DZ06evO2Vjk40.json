@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 732838,
+  "num_followers": 732880,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAB0twRNA53YndqwYsMDzYWM",
+  "snapshot_id": "au+7gAAAAAAVtbPbm5RQ3gd99qFHSv66",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "What Are You Listening To?",
+        "url": "https://open.spotify.com/album/7DQVMB8uAJyLF7lyvY7j1n"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 216013,
-      "name": "A Simple Song",
-      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
+      "duration_ms": 245920,
+      "name": "What Are You Listening To?",
+      "url": "https://open.spotify.com/track/3KZw9g7PNBBx66sHNqme6Z"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Are You Listening To?",
-        "url": "https://open.spotify.com/album/7DQVMB8uAJyLF7lyvY7j1n"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 245920,
-      "name": "What Are You Listening To?",
-      "url": "https://open.spotify.com/track/3KZw9g7PNBBx66sHNqme6Z"
+      "duration_ms": 216013,
+      "name": "A Simple Song",
+      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Heart Letting Go",
+      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "Heart Letting Go",
-      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
     },
     {
       "added_at": null,

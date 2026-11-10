@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 
 > This is Dario Marianelli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,100 likes - 34 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,103 likes - 33 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 | 27 | [Last Words](https://open.spotify.com/track/4St6fcntR7xnt010lLUnnA) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 2:58 |
 | 28 | [Cassy Daydreams](https://open.spotify.com/track/4ik50CJSp2oVOwYKQirvuY) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [I Capture The Castle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dcBaNl2OYtVHRzdfLVupD) | 4:11 |
 | 29 | [Alexei's Story](https://open.spotify.com/track/0Bs3Xje1pdhzdouDzyd6Vb) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 4:47 |
-| 30 | [Curtain](https://open.spotify.com/track/0slUosFqoMpI7ZAA8SafHB) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Anna Karenina \(Original Music From The Motion Picture\)](https://open.spotify.com/album/3Cfjb8PWFgaQsqzM2MFvB5) | 1:53 |
+| 30 | [Farewell](https://open.spotify.com/track/2vlafA2ljFvjZmBkn4VYac) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 3:32 |
 | 31 | [Setting Off From Kathmandu](https://open.spotify.com/track/7xlkdd1ZV7q8eEhc46dE2X) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:16 |
-| 32 | [Farewell](https://open.spotify.com/track/2vlafA2ljFvjZmBkn4VYac) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 3:32 |
-| 33 | [Scotland](https://open.spotify.com/track/7ievbrE1wFfU5Mp3QVdacl) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Salmon Fishing in the Yemen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4E1hxkt7ibGJM49WD43xTc) | 1:53 |
-| 34 | [Ancestors](https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Kubo and the Two Strings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0) | 2:07 |
+| 32 | [Ancestors](https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Kubo and the Two Strings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0) | 2:07 |
+| 33 | [Curtain](https://open.spotify.com/track/0slUosFqoMpI7ZAA8SafHB) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Anna Karenina \(Original Music From The Motion Picture\)](https://open.spotify.com/album/3Cfjb8PWFgaQsqzM2MFvB5) | 1:53 |
 
-Snapshot ID: `au5qAAAAAABC1FM9DRm0tEslVrPeRcPP`
+Snapshot ID: `au+7gAAAAABVP/1sDIJvH0JLGmKlqN3R`

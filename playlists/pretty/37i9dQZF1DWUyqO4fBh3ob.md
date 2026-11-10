@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,708 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,709 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 6 | [Ya Leil W Yal Ein](https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Ya Leil W Yal Ein](https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62) | 3:04 |
 | 7 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 |
 | 8 | [Jouwana](https://open.spotify.com/track/57Z2cIxwm4ifUhcDxhA0Cv) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Jouwana](https://open.spotify.com/album/6Gct58maHMB57OcDx0cjfc) | 3:24 |
-| 9 | [Akbar Ghalta Bhaiati](https://open.spotify.com/track/16y55jwMHL4nOwluPlGdXe) | [Reem Alsawas](https://open.spotify.com/artist/69F3HmSAZ3eP1lmZ3OTkCA) | [Akbar Ghalta Bhaiati](https://open.spotify.com/album/0DaJP0Wx5cfsQSBDv5KYYu) | 9:50 |
+| 9 | [Rabeh Marra](https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Rabeh Marra](https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG) | 3:11 |
 | 10 | [طوفان](https://open.spotify.com/track/6z4UjJuzuxWGOe8z7igt8N) | [Odai](https://open.spotify.com/artist/7EKPJOvqNmDu6IZjJTWKWO) | [طوفان](https://open.spotify.com/album/05ZtTHKEUJjr4mWZWwKdNE) | 3:46 |
-| 11 | [Rabeh Marra](https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Rabeh Marra](https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG) | 3:11 |
+| 11 | [Akbar Ghalta Bhaiati](https://open.spotify.com/track/16y55jwMHL4nOwluPlGdXe) | [Reem Alsawas](https://open.spotify.com/artist/69F3HmSAZ3eP1lmZ3OTkCA) | [Akbar Ghalta Bhaiati](https://open.spotify.com/album/0DaJP0Wx5cfsQSBDv5KYYu) | 9:50 |
 | 12 | [Ba'd Elly Saar](https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK) | [Shahd Barmada](https://open.spotify.com/artist/6wwlkaIcFu0b2L2w6xtVRr) | [Ba'd Elly Saar](https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG) | 4:44 |
 | 13 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 |
-| 14 | [ارجعلا بدا](https://open.spotify.com/track/0PsJP3Igq0uUSwKNu5tN6q) | [Wael Idrees](https://open.spotify.com/artist/00MQ5607RYLIP2OH8jSWOA) | [ارجعلا بدا](https://open.spotify.com/album/2bixbH22rOVxfiR1kk3xne) | 3:01 |
-| 15 | [La Ana Bensak](https://open.spotify.com/track/1m1MbKuznjpaJcVBHaRBq0) | [Shadi Jamil](https://open.spotify.com/artist/200BwGs3UAf9kQ6e0dllBp) | [Rann El Kaas](https://open.spotify.com/album/4p2g7EyPh4K6SYsmGXdu50) | 7:19 |
+| 14 | [La Ana Bensak](https://open.spotify.com/track/1m1MbKuznjpaJcVBHaRBq0) | [Shadi Jamil](https://open.spotify.com/artist/200BwGs3UAf9kQ6e0dllBp) | [Rann El Kaas](https://open.spotify.com/album/4p2g7EyPh4K6SYsmGXdu50) | 7:19 |
+| 15 | [ارجعلا بدا](https://open.spotify.com/track/0PsJP3Igq0uUSwKNu5tN6q) | [Wael Idrees](https://open.spotify.com/artist/00MQ5607RYLIP2OH8jSWOA) | [ارجعلا بدا](https://open.spotify.com/album/2bixbH22rOVxfiR1kk3xne) | 3:01 |
 | 16 | [Ghanni](https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ghanni](https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF) | 3:31 |
 | 17 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 |
 | 18 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 |

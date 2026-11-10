@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Didi B x Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,689 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,804 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 10 | [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
 | 11 | [Playtime](https://open.spotify.com/track/2roMAjSYH4LosdF1VtvCjy) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [CATALYST](https://open.spotify.com/album/4PKeqaq4gG30Q4I2Rd9B8m) | 3:06 |
 | 12 | [Hot](https://open.spotify.com/track/09pHOwDVlQ4Fz765ABRiyi) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Latitude 0°](https://open.spotify.com/album/65yypGmPB601BBGAOXwEPo) | 2:44 |
-| 13 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
+| 13 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
 | 14 | [Mokonzi](https://open.spotify.com/track/33ly2ow7uDQNZDsdAZ4vdJ) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Mokonzi](https://open.spotify.com/album/3TDNYdvL2yupkJIfhZJMvj) | 3:00 |
 | 15 | [If You Like](https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 2:42 |
 | 16 | [LOSE SLEEP](https://open.spotify.com/track/25oP7i8yQ0fu2gwMLiy9Fd) | [Mack H.D](https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ) | [LOSE SLEEP](https://open.spotify.com/album/11rm5iU98NJ6DAGSgI82H0) | 2:07 |

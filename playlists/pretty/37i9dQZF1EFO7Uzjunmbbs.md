@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095 likes - 220 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 220 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 16 | [Getting Over Him](https://open.spotify.com/track/3WqT52bSkjn8tG7N9rn3Ba) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 2:46 |
 | 17 | [God's Not Done with You \- Single Version](https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [God's Not Done with You](https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk) | 3:15 |
 | 18 | [Trying](https://open.spotify.com/track/2mWp5olnLmpzAReIGK18dA) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:56 |
-| 19 | [Boy With Luv \- Japanese ver.](https://open.spotify.com/track/1GAAUZBTaIM1LwNpOJQJrZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7 \~ THE JOURNEY \~](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) | 3:50 |
-| 20 | [Wish I Didn't](https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:29 |
+| 19 | [Wish I Didn't](https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:29 |
+| 20 | [Boy With Luv \- Japanese ver.](https://open.spotify.com/track/1GAAUZBTaIM1LwNpOJQJrZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7 \~ THE JOURNEY \~](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) | 3:50 |
 | 21 | [Sinning With You](https://open.spotify.com/track/1lGteWyWcTweQh7MCyIgLb) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:16 |
 | 22 | [Next Boyfriend](https://open.spotify.com/track/7Mnku6jtYFjgG6RbFiLKxm) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:11 |
 | 23 | [Didn't I?](https://open.spotify.com/track/6McgYCZQifHoKNw9twZKw0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp) | 2:50 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 111 | [Undeniable](https://open.spotify.com/track/4ZfmH7Un9Xd9Y7jqiLTlNP) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:18 |
 | 112 | [In This Moment](https://open.spotify.com/track/7iPSolwRNIDbQXB5trVePD) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 3:50 |
 | 113 | [Better Because Of It](https://open.spotify.com/track/4zcYX4ZJfmyrL9ySSoNykW) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:00 |
-| 114 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
-| 115 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 114 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 115 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
 | 116 | [He Did It](https://open.spotify.com/track/0hylElUN1yBarrV6GPhxdP) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 2:54 |
 | 117 | [Tell You Enough](https://open.spotify.com/track/3ZpOfxlomk5LipI7GvETCT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:07 |
 | 118 | [Done It By Now](https://open.spotify.com/track/4G6uUGW2M8pKgSSlAMp8iS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/5sPOAtvoraeS9ak1oVVgdi) | 3:24 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AchJ9gAAAADjh6Mtx11ckekajn/vIBfA`
+Snapshot ID: `AchP0gAAAACJtRFR552nrIwBEWNiWwnE`

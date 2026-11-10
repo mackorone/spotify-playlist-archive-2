@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,901 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,899 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 62 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 |
 | 63 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
 | 64 | [Love On The Outside](https://open.spotify.com/track/1HS1Q38mPX3iAP66gTHt6E) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 3:58 |
-| 65 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/7lnDmOjAU6K1LjAxfSHa9n) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/1C5fhhTePIQ3MVw1OZIGMc) | 2:33 |
-| 66 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
+| 65 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
+| 66 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/7lnDmOjAU6K1LjAxfSHa9n) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/1C5fhhTePIQ3MVw1OZIGMc) | 2:33 |
 | 67 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
 | 68 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
 | 69 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 75 | [ALL OF U](https://open.spotify.com/track/4ealCIKR5aAYaKYuxVWJ0J) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALL OF U](https://open.spotify.com/album/0qzN96GJVCxQJ1YNGkXlN3) | 3:32 |
 | 76 | [Vespers](https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP) | 3:25 |
 | 77 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 |
-| 78 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
-| 79 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 |
+| 78 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 |
+| 79 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
 | 80 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 |
 
 Snapshot ID: `AAAAAEjxaWiHK40+8oiQoSEMujZ1OS8A`

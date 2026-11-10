@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Tarryn Lamb, Robbie Wessels, Zaan Sonnekus, Irene\-Louise Van Wyk en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,956 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,950 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

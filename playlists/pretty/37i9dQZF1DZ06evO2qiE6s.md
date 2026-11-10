@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,619 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,610 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:56 |
 | 50 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 |
 
-Snapshot ID: `au5qAAAAAAD9xwneItqyN0xeQZmr0Xcg`
+Snapshot ID: `au+7gAAAAAAVWjsNPpv3ZkSG3MjXtZOF`

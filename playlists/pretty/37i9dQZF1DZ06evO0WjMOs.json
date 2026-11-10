@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 61328,
+  "num_followers": 61354,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADAxFYKXNjJkRNSJzce7FFM",
+  "snapshot_id": "au+7gAAAAACY9ZGyM0sDSjbQuXpcTwxR",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 180482,
       "name": "Let Light Be Light",
       "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "All Falls Down",
-      "url": "https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 225500,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224959,
-      "name": "Come Down Soon",
-      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
     },
     {
       "added_at": null,
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
         {
@@ -556,9 +540,25 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 242311,
-      "name": "Force of Nature",
-      "url": "https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE"
+      "duration_ms": 202800,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224959,
+      "name": "Come Down Soon",
+      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 242311,
+      "name": "Force of Nature",
+      "url": "https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -588,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Same Boat",
-      "url": "https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr"
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
     },
     {
       "added_at": null,
@@ -615,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Could Start A Cult (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 194869,
-      "name": "You Could Start A Cult (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -651,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
       "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 157493,
-      "name": "Give Me A Minute",
-      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "added_at": null,

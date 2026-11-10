@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Thoom
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,975 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,984 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 55 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
 | 56 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
 | 57 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
-| 58 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
-| 59 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 58 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 59 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 60 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 |
 | 61 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 62 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 |
 | 63 | [Best Guess](https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 4:00 |
 | 64 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
-| 65 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 |
-| 66 | [Crybaby](https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Crybaby](https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA) | 2:55 |
+| 65 | [Crybaby](https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Crybaby](https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA) | 2:55 |
+| 66 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 |
 | 67 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
 | 68 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 69 | [Breathe onto me](https://open.spotify.com/track/4Ptz8KrFzU52Eyp1wwpVCn) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 3:57 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 88 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
 | 89 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
 | 90 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
-| 91 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
-| 92 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 91 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 92 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
 | 93 | [Starvation](https://open.spotify.com/track/6rtwjJHMx7pNd6xAnT8nK8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV) | 3:27 |
 | 94 | [Blue Disco](https://open.spotify.com/track/2cMWLXuEm6ggAaUKT2oJmD) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 3:00 |
 | 95 | [Holding On](https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:19 |
 | 96 | [Care](https://open.spotify.com/track/2vMFO30YvEX3PQFKO1nVLZ) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 4:37 |
 | 97 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
-| 98 | [Glad He's Gone](https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Glad He's Gone](https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94) | 3:16 |
+| 98 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
 | 99 | [Black Dog](https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:48 |
-| 100 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
+| 100 | [Glad He's Gone](https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Glad He's Gone](https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94) | 3:16 |
 
 Snapshot ID: `AAAAAIBo8mEaRcoWDFXc7X1bj69zotxy`

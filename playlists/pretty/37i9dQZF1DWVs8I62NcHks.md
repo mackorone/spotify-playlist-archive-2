@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > Listen to all your favorite Disney tunes, including "You've Got a Friend in Me" from Toy Story, now available on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,081,996 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,082,026 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

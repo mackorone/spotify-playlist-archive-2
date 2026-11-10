@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 667420,
+  "num_followers": 667413,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADgnkH32QxYDeyWA1iYdbP8",
+  "snapshot_id": "au+7gAAAAADm67HthjwEYihIqAymSC1i",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The List",
-        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Sea Of Heartbreak",
-      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take the Sadness Out of Saturday Night",
         "url": "https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 244189,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The List",
+        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Sea Of Heartbreak",
+      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 274186,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 240226,
       "name": "Prove It All Night",
       "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 274186,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 270248,
       "name": "Darkness On the Edge of Town",
       "url": "https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
     },
     {
       "added_at": null,

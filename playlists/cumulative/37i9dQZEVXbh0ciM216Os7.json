@@ -13692,7 +13692,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 200853,
       "name": "Choices",
       "url": "https://open.spotify.com/track/4602ssIzMXFlYQCfqpoEAO"
@@ -23237,6 +23237,28 @@
     },
     {
       "album": {
+        "name": "Face Down (Ass Up) [Restricted & Revoxx Rework]",
+        "url": "https://open.spotify.com/album/0IcLfZKPDSSDrFy4mnE9U8"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Revoxx",
+          "url": "https://open.spotify.com/artist/15K5jNZQaQRGzqodC5QxNb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228011,
+      "name": "Face Down (Ass Up) [Restricted & Revoxx Rework]",
+      "url": "https://open.spotify.com/track/52SNUoihZQoYqcWv8wDIPY"
+    },
+    {
+      "album": {
         "name": "Australia Stops",
         "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
       },
@@ -32078,7 +32100,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 156000,
       "name": "Hennessy Pure",
       "url": "https://open.spotify.com/track/2KfZ28aa0VLmakPqSxA4J3"
@@ -81948,7 +81970,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 173382,
       "name": "Weekend In Texas",
       "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"

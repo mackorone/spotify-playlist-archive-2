@@ -1,12 +1,12 @@
 {
   "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
-  "num_followers": 285321,
+  "num_followers": 285334,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAd6CjPqiOJMmK8sA13d71WOFn55",
+  "snapshot_id": "AAAAAH6hpn1bAdTszUaI5Dh2vfmW3JgL",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:32",
@@ -23,6 +23,38 @@
       "duration_ms": 228661,
       "name": "Film Noir",
       "url": "https://open.spotify.com/track/7DjfpeQoZzZv2DUe0kHaLT"
+    },
+    {
+      "added_at": "2026-11-09 19:59:25",
+      "album": {
+        "name": "I thought this story wasn't about me",
+        "url": "https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Look at me",
+      "url": "https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk"
+    },
+    {
+      "added_at": "2026-11-09 19:59:25",
+      "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
     },
     {
       "added_at": "2026-09-18 04:00:41",
@@ -45,22 +77,6 @@
       "url": "https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV"
     },
     {
-      "added_at": "2026-08-07 18:28:01",
-      "album": {
-        "name": "brand new chanel$",
-        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 238505,
-      "name": "brand new chanel$",
-      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
-    },
-    {
       "added_at": "2026-09-18 04:00:41",
       "album": {
         "name": "The Box",
@@ -75,38 +91,6 @@
       "duration_ms": 225383,
       "name": "The Box",
       "url": "https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq"
-    },
-    {
-      "added_at": "2026-09-18 04:00:41",
-      "album": {
-        "name": "Me/You (always and forever)",
-        "url": "https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 216358,
-      "name": "Me/You (always and forever)",
-      "url": "https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb"
-    },
-    {
-      "added_at": "2026-09-18 04:00:41",
-      "album": {
-        "name": "GET MEAN",
-        "url": "https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Faulty",
-      "url": "https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR"
     },
     {
       "added_at": "2026-08-14 04:00:10",
@@ -125,6 +109,22 @@
       "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
+      "added_at": "2026-09-18 04:00:41",
+      "album": {
+        "name": "GET MEAN",
+        "url": "https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Faulty",
+      "url": "https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR"
+    },
+    {
       "added_at": "2026-07-17 04:02:09",
       "album": {
         "name": "Club To Your Arms / Just Be Bodies",
@@ -139,6 +139,22 @@
       "duration_ms": 207173,
       "name": "Just Be Bodies",
       "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
+    },
+    {
+      "added_at": "2026-08-07 18:28:01",
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
       "added_at": "2026-05-15 04:01:35",
@@ -187,22 +203,6 @@
       "duration_ms": 225706,
       "name": "Hard Beat",
       "url": "https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV"
-    },
-    {
-      "added_at": "2026-07-17 04:02:09",
-      "album": {
-        "name": "Love Love (Love Love)",
-        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Love Love (Love Love)",
-      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
     },
     {
       "added_at": "2026-07-03 04:02:07",

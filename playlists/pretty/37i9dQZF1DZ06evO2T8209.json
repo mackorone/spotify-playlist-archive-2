@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 740549,
+  "num_followers": 740526,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADrVOyi5gTeVo/Wgwg7ZKMG",
+  "snapshot_id": "au+7gAAAAAA8GgZEsnf36/m4xjzUL6a+",
   "tracks": [
     {
       "added_at": null,
@@ -771,30 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "QR\u00d6MELIFE",
-        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+        "name": "SAG HARBOR",
+        "url": "https://open.spotify.com/album/0WEIzP144txcADcIcumIiy"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 227787,
-      "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
-      "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
+      "duration_ms": 220573,
+      "name": "SAG HARBOR",
+      "url": "https://open.spotify.com/track/6NVRUjLqjAsPpaSUgVawTQ"
     },
     {
       "added_at": null,
@@ -819,18 +807,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAG HARBOR",
-        "url": "https://open.spotify.com/album/0WEIzP144txcADcIcumIiy"
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
       },
       "artists": [
         {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 220573,
-      "name": "SAG HARBOR",
-      "url": "https://open.spotify.com/track/6NVRUjLqjAsPpaSUgVawTQ"
+      "duration_ms": 227787,
+      "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
     },
     {
       "added_at": null,

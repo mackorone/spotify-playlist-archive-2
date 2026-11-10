@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,287 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,294 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 7 | [Gana la Que Pierde](https://open.spotify.com/track/1sXPJeFdOrf5Jw1YlF7mPY) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Gana la Que Pierde](https://open.spotify.com/album/4DG0TxUWEtyVPMoDxG1fPr) | 3:44 |
 | 8 | [Quiero Un Amor](https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:13 |
 | 9 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
-| 10 | [Así Fue](https://open.spotify.com/track/5RhdxZfyZyVRWJtqVjeLHc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Fue](https://open.spotify.com/album/1KEaQvBKkUoZVD3OY3RpEt) | 6:47 |
-| 11 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 |
+| 10 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 |
+| 11 | [Así Fue](https://open.spotify.com/track/5RhdxZfyZyVRWJtqVjeLHc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Fue](https://open.spotify.com/album/1KEaQvBKkUoZVD3OY3RpEt) | 6:47 |
 | 12 | [Amor Ilegal](https://open.spotify.com/track/3ceovJ34rV8rdAW31Cpavk) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 2:49 |
 | 13 | [No Vuelvas](https://open.spotify.com/track/6OoshvH8ZH1QSz0E7yRih7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Vuelvas](https://open.spotify.com/album/3vmOjzuvn1Pd95ObRtDaIj) | 3:46 |
 | 14 | [Cucurrucucú Paloma](https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 4:41 |
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 17 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU) | 4:14 |
 | 18 | [Como Tu Mujer](https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:23 |
 | 19 | [Morí](https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:44 |
-| 20 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
-| 21 | [Canción Para Olvidarte](https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 2:44 |
+| 20 | [Canción Para Olvidarte](https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 2:44 |
+| 21 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
 | 22 | [No Te Apartes de Mí](https://open.spotify.com/track/5fHc0yLAyEAmzF3VDCXlDw) | [Cumbia Machine](https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes de Mí](https://open.spotify.com/album/7wHS73JJOpGAJwhNqrMdIk) | 3:52 |
-| 23 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
-| 24 | [Si Nos Dejamos Querer](https://open.spotify.com/track/4ib3BMMkFenoPc8NckbzQf) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [25 Aniversario](https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA) | 2:33 |
+| 23 | [Si Nos Dejamos Querer](https://open.spotify.com/track/4ib3BMMkFenoPc8NckbzQf) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [25 Aniversario](https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA) | 2:33 |
+| 24 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
 | 25 | [A Través Del Vaso](https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Través Del Vaso](https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ) | 3:02 |
 | 26 | [Paloma Negra](https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:25 |
 | 27 | [Cómo Te Olvido](https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 49 | [Así Es La Vida](https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:06 |
 | 50 | [¿Por Qué Dejaste Que Te Amara?](https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cuando Te Enamores](https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f) | 3:44 |
 
-Snapshot ID: `au0YgAAAAAA13fswIAkMjU8ys4ZplCkX`
+Snapshot ID: `au+7gAAAAACqahiy88G5gefN2posaBzp`

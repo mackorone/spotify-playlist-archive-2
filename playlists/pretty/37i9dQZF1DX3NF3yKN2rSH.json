@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 55884,
+  "num_followers": 55882,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Blessed By Association",
-        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
-      },
-      "artists": [
-        {
-          "name": "John P. Kee & The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM"
-        }
-      ],
-      "duration_ms": 299586,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Road to DeMaskUs",
         "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+        "name": "Blessed By Association",
+        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "John P. Kee & The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
+      "duration_ms": 299586,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -583,6 +567,22 @@
       "duration_ms": 130214,
       "name": "Raised to Life (feat. The Walls Group)",
       "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
       },
       "artists": [
         {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
         }
       ],
-      "duration_ms": 237280,
-      "name": "Always Jesus",
-      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
+      "duration_ms": 250160,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
       },
       "artists": [
         {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
         }
       ],
-      "duration_ms": 250160,
-      "name": "I Need You Now",
-      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
+      "duration_ms": 237280,
+      "name": "Always Jesus",
+      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "My Tribute",
         "url": "https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 300800,
       "name": "Take Me Back (feat. Kirk Franklin & Kelontae Gavin)",
       "url": "https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Sing A Nu Song",
-        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 370826,
-      "name": "I Know It Was the Blood",
-      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Another Chapter, Psalms 51",
         "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 356179,
       "name": "He Loves Me",
       "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Sing A Nu Song",
+        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 370826,
+      "name": "I Know It Was the Blood",
+      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Bishop Paul Morton - Let It Rain",
         "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 418728,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Always Coko",
         "url": "https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 416213,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 418728,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344019,
-      "name": "Victory Belongs To Jesus",
-      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "The Cry: A Live Worship Experience",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
         "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 286946,
       "name": "Power In the Blood v1.1",
       "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 429522,
       "name": "The Crucifixion",
       "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
     },
     {
       "added_at": "2026-04-04 06:06:32",

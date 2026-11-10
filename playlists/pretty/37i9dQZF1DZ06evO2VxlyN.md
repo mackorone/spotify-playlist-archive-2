@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,568 likes - 16 songs - 50 min 28 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,589 likes - 16 songs - 50 min 28 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 | 15 | [Say it Say](https://open.spotify.com/track/5aXoGAAyRvNIz7NbNi8cDS) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:42 |
 | 16 | [mindf\*ck](https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:20 |
 
-Snapshot ID: `au5qAAAAAAAtx+tsuhPlHOoAYlQ5EvZ/`
+Snapshot ID: `au+7gAAAAAD5MQpKqoHXFSsb19HmmLzC`

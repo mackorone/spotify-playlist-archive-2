@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,794 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,782 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 12 | [Love Scene](https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:37 |
 | 13 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
 | 14 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
-| 15 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
-| 16 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
+| 15 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
+| 16 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
 | 17 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
 | 18 | [bath](https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [bath](https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r) | 4:21 |
 | 19 | [MOVIE](https://open.spotify.com/track/4VnBF5nptyzyiY9AKJ95z9) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [bright \#9](https://open.spotify.com/album/44LkNR2ydGI4qVdaDPgEBg) | 3:00 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 42 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
 | 43 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |
 | 44 | [The Night’s Window](https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 4:24 |
-| 45 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
-| 46 | [vestigial organ](https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [JEMN](https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5) | [EASTERN NIGHT](https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw) | 2:48 |
+| 45 | [vestigial organ](https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [JEMN](https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5) | [EASTERN NIGHT](https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw) | 2:48 |
+| 46 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
 | 47 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
 | 48 | [4 Seasons](https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby) | [4 Seasons](https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX) | 2:31 |
 | 49 | [Traces Of Memory \(feat\. Milena\)](https://open.spotify.com/track/03J8HvGINHfQWdKbeCttRP) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [dnss](https://open.spotify.com/artist/5ZW2UKvYiMUTn9R3IzaQac), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Traces Of Memory](https://open.spotify.com/album/1ZMa26gMWLWk2rr4PJMLW2) | 2:57 |

@@ -4,7 +4,7 @@
 
 > This is Ella Mai\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 54 min
+70 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [24/7 \(feat\. Ella Mai\)](https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:41 | 2025-08-02 |  |
 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 | 2025-08-02 |  |
 | [A Thousand Times](https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:57 | 2025-08-02 |  |
+| [All I Know](https://open.spotify.com/track/1XVeutN9LyRRzGAiklgN8E) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3two](https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn) | 3:14 | 2026-11-10 |  |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM) | 3:10 | 2025-08-02 | 2025-08-18 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2025-08-18 | 2026-02-11 |
 | [Anymore](https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 3:55 | 2025-08-02 |  |
@@ -29,6 +30,7 @@
 | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT) | 3:19 | 2025-08-02 |  |
 | [Down](https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 4:13 | 2025-08-02 |  |
 | [Everything \(feat\. John Legend\)](https://open.spotify.com/track/0V6imIPZVXJEtl2umdNILO) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:01 | 2025-08-02 | 2026-02-04 |
+| [Favourite T\-Shirt](https://open.spotify.com/track/3j527NXpjd10gAnwigbdP5) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3two](https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn) | 2:56 | 2026-11-10 |  |
 | [First Day](https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:34 | 2026-02-11 |  |
 | [Found](https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:06 | 2025-08-02 |  |
 | [Hearts On Deck](https://open.spotify.com/track/1liiwnCXoqwPVrC0LWxaYq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 4:00 | 2025-08-02 |  |
@@ -56,6 +58,7 @@
 | [One Of These](https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 3:44 | 2025-08-02 |  |
 | [Our Song](https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:19 | 2025-08-02 |  |
 | [Outside](https://open.spotify.com/track/16ECoILgtdIBK9L3B345Tq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 2:53 | 2026-02-11 | 2026-03-15 |
+| [Over and Over](https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3two](https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn) | 4:02 | 2026-11-10 |  |
 | [Piece of Me \(feat\. Ella Mai\)](https://open.spotify.com/track/6m4SEnC7eZLrgroEvwAmCF) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 | 2025-08-02 |  |
 | [Power Of A Woman](https://open.spotify.com/track/1dDy8IYSA4NH8JtpGLhcMb) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:33 | 2025-08-02 |  |
 | [Put It All on Me \(feat\. Ella Mai\)](https://open.spotify.com/track/5T03itPFOPGGkvVPvPiyla) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:17 | 2025-08-02 |  |

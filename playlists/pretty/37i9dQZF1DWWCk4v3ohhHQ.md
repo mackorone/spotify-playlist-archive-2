@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,443 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,466 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 21 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 |
 | 22 | [I Lived](https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 3:54 |
 | 23 | [Somebody Else](https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 5:47 |
-| 24 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
-| 25 | [Superheroes](https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [No Sound Without Silence](https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx) | 4:05 |
+| 24 | [Superheroes](https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [No Sound Without Silence](https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx) | 4:05 |
+| 25 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 26 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 | 27 | [The Phoenix](https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
 | 28 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 31 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 32 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
 | 33 | [For the First Time](https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0) | 4:12 |
-| 34 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 |
-| 35 | [When We Stand Together](https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:10 |
+| 34 | [When We Stand Together](https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:10 |
+| 35 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 |
 | 36 | [Princess of China](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 |
 | 37 | [Walking The Wire](https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:52 |
 | 38 | [Love Runs Out](https://open.spotify.com/track/3cOO5IQtOYs7huq4Z6lYfr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:44 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 54 | [Fourth Of July](https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:44 |
 | 55 | [Sovereign Light Café](https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland](https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4) | 3:38 |
 | 56 | [Counting Stars](https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 4:17 |
-| 57 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 |
-| 58 | [Speeding Cars](https://open.spotify.com/track/4wLvmlgcHW5ZkNERDIDv5H) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:02 |
+| 57 | [Speeding Cars](https://open.spotify.com/track/4wLvmlgcHW5ZkNERDIDv5H) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:02 |
+| 58 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 |
 | 59 | [Go Big Or Go Home](https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 2:49 |
 | 60 | [Silenced By The Night](https://open.spotify.com/track/0BhGZmaQ1SET53qGkGvwxD) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland](https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4) | 3:16 |
 | 61 | [One Foot](https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [What If Nothing](https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg) | 4:21 |

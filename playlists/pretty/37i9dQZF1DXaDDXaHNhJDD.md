@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years <br/>Cover : Khalifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,261 likes - 54 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,313 likes - 54 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

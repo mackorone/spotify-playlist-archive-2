@@ -4,7 +4,7 @@
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-133 songs - 8 hr 22 min
+134 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Lucille \- Live at the Fillmore, 1997](https://open.spotify.com/track/0gYDOZuqFacAURzBIwjon3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 2:31 | 2022-11-30 | 2023-03-26 |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:31 | 2022-01-11 | 2026-08-18 |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 4:33 | 2022-01-11 |  |
-| [Mystery Man](https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:03 | 2024-12-24 |  |
+| [Mystery Man](https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:03 | 2024-12-24 | 2026-11-10 |
 | [Mystery Man](https://open.spotify.com/track/5ReNpU1vhwaC4P2EWQ2SWy) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:03 | 2023-04-17 | 2024-06-23 |
 | [Mystery of Love](https://open.spotify.com/track/3Q3a1YNSrQCUvAxnzUJWp3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo \(Extra Mojo Version\)](https://open.spotify.com/album/5Vd6FI8d0ZMXyrJUdCsCSP) | 4:05 | 2023-11-10 | 2024-02-02 |
 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 | 2022-10-17 |  |
@@ -106,6 +106,7 @@
 | [Room at the Top](https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:00 | 2022-01-13 |  |
 | [Runnin' Down a Dream \- Live at the Fillmore, 1997](https://open.spotify.com/track/6ZIqc8hMV2PqK5qPqvcI6H) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 4:52 | 2022-11-28 | 2023-03-07 |
 | [Shadow Of A Doubt \(A Complex Kid\)](https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 4:24 | 2022-10-12 |  |
+| [Sin City](https://open.spotify.com/track/1TJ7znkrgtsdguQVOuUDxt) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [No Sleep Til L.A.](https://open.spotify.com/album/5y6CE4cFDzGnJ7EaLQXUv9) | 3:25 | 2026-11-10 |  |
 | [So You Want To Be A Rock & Roll Star \- Live At The Wiltern/1985](https://open.spotify.com/track/1bYjWWpROUmKeBSWb0b6Qr) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 3:36 | 2022-01-11 | 2022-04-07 |
 | [Something Big](https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:44 | 2022-10-12 |  |
 | [Something Good Coming](https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 4:10 | 2022-01-11 |  |

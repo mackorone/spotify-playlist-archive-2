@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 368309,
+  "num_followers": 368323,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Kanji Title",
-        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
-      },
-      "artists": [
-        {
-          "name": "TANUKI",
-          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Ganbare",
-      "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Kanji Title",
+        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
+      },
+      "artists": [
+        {
+          "name": "TANUKI",
+          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Ganbare",
+      "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Take Me Back to Shinjuku",
+        "url": "https://open.spotify.com/album/53Oabg4TRYA5oHPzWNrgHI"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Take Me Back to Shinjuku",
+      "url": "https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Kudatah, Vol. 1",
         "url": "https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 230655,
       "name": "Answer",
       "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Take Me Back to Shinjuku",
-        "url": "https://open.spotify.com/album/53Oabg4TRYA5oHPzWNrgHI"
-      },
-      "artists": [
-        {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Take Me Back to Shinjuku",
-      "url": "https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Saturn St.",
-        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
-      },
-      "artists": [
-        {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Cheetahs in Barcelona",
         "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 169714,
       "name": "Cheetahs in Barcelona",
       "url": "https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Saturn St.",
+        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
+      },
+      "artists": [
+        {
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Get Up, Get Out",
-        "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
-      },
-      "artists": [
-        {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
-        },
-        {
-          "name": "Dylan C. Greene",
-          "url": "https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4"
-        }
-      ],
-      "duration_ms": 202577,
-      "name": "Get Up, Get Out",
-      "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "I Must Be Dreamin'",
         "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
       },
@@ -1671,18 +1651,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "ICE CREAM",
-        "url": "https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF"
+        "name": "Get Up, Get Out",
+        "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
       "artists": [
         {
-          "name": "glue70",
-          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        },
+        {
+          "name": "Dylan C. Greene",
+          "url": "https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4"
         }
       ],
-      "duration_ms": 161280,
-      "name": "Sometime's He's Pretty",
-      "url": "https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU"
+      "duration_ms": 202577,
+      "name": "Get Up, Get Out",
+      "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1699,6 +1683,22 @@
       "duration_ms": 185750,
       "name": "Future Funk 2022",
       "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "ICE CREAM",
+        "url": "https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF"
+      },
+      "artists": [
+        {
+          "name": "glue70",
+          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Sometime's He's Pretty",
+      "url": "https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU"
     },
     {
       "added_at": "2023-07-18 02:21:29",

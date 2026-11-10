@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABbh4rq8TJT4kp4xZlC5QqD",
+  "snapshot_id": "au+7gAAAAAAAUJsQK0jfCIqU4+dH8jK2",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 369280,
-      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 308053,
       "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 369280,
+      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus",
-        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 319166,
-      "name": "Grande \u00e9 o Nosso Deus",
-      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 334042,
       "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/61lRtNFARQCV0OUcUdXcBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
     },
     {
       "added_at": null,

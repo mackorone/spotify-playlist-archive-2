@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Unmade",
+        "url": "https://open.spotify.com/album/5iS20v4owMyFzmBx2T05AQ"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/2LjXiHfabkd8kI7yQHfWmO"
+    },
+    {
+      "album": {
         "name": "ELA M",
         "url": "https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA"
       },

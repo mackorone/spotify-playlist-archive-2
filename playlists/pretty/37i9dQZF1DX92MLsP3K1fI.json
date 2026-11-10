@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Alleh en portada \u2728",
-  "num_followers": 96735,
+  "num_followers": 96746,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
-      },
-      "artists": [
-        {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 172765,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Te Juro No Te Miento",
         "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "added_at": "2026-11-06 06:00:28",

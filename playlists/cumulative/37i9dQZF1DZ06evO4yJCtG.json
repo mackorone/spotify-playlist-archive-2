@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194669,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/1XVeutN9LyRRzGAiklgN8E"
+    },
+    {
+      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
@@ -404,6 +422,24 @@
       "duration_ms": 181644,
       "name": "Everything (feat. John Legend)",
       "url": "https://open.spotify.com/track/0V6imIPZVXJEtl2umdNILO"
+    },
+    {
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176545,
+      "name": "Favourite T-Shirt",
+      "url": "https://open.spotify.com/track/3j527NXpjd10gAnwigbdP5"
     },
     {
       "album": {
@@ -922,6 +958,24 @@
       "duration_ms": 173433,
       "name": "Outside",
       "url": "https://open.spotify.com/track/16ECoILgtdIBK9L3B345Tq"
+    },
+    {
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242256,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx"
     },
     {
       "album": {

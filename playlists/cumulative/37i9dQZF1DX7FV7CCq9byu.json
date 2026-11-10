@@ -19927,6 +19927,24 @@
     },
     {
       "album": {
+        "name": "Look At All The Happy People",
+        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
+      },
+      "artists": [
+        {
+          "name": "Bluegirl",
+          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Look At All The Happy People",
+      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
+    },
+    {
+      "album": {
         "name": "I thought this story wasn't about me",
         "url": "https://open.spotify.com/album/2vrhyLpkOHQXewh8NMbmL2"
       },

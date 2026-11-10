@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 171958,
       "name": "CHAT",
       "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 176250,
       "name": "Golden - David Guetta REM/X",
       "url": "https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4"
@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 214906,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/7aLT0tLcS40Penaplqu2cZ"
@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
@@ -4512,7 +4512,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 232813,
       "name": "I AM WOMAN",
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
@@ -4928,6 +4928,24 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150452,
+      "name": "I'm The Man",
+      "url": "https://open.spotify.com/track/3XcBnNDlch48NLxfPTl4ju"
     },
     {
       "album": {
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 157316,
       "name": "KGB",
       "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
@@ -7410,7 +7428,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
@@ -9870,7 +9888,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
@@ -9888,7 +9906,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -10054,7 +10072,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 320586,
       "name": "The Edge Of Glory",
       "url": "https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM"
@@ -10072,7 +10090,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
@@ -10362,7 +10380,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -10572,7 +10590,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"

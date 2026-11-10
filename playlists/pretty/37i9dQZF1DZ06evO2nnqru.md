@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,675 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,692 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 2 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
 | 3 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
 | 4 | [El Güero \- En Vivo](https://open.spotify.com/track/5ZRMUce9HCMJpiIN5rSEYs) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(En Vivo\)](https://open.spotify.com/album/7JWISvo58VF6E1zefmcMym) | 3:33 |
-| 5 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
-| 6 | [Quizas Si Quizas No](https://open.spotify.com/track/0grdf7aD3GLmSIFE8nwgQy) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:22 |
+| 5 | [Quizas Si Quizas No](https://open.spotify.com/track/0grdf7aD3GLmSIFE8nwgQy) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:22 |
+| 6 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
 | 7 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 |
 | 8 | [Soy Alegre](https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:09 |
-| 9 | [Que Fue Lo Que Paso](https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:47 |
-| 10 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
+| 9 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
+| 10 | [Que Fue Lo Que Paso](https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:47 |
 | 11 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
 | 12 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
 | 13 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 16 | [CADA DÍA TE QUIERO MÁS](https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [CADA DÍA TE QUIERO MÁS](https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn) | 3:43 |
 | 17 | [El Gallo Celoso](https://open.spotify.com/track/5ehlpaAQnRLBB18cl7xKjr) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Gallo Celoso](https://open.spotify.com/album/3qwKU6NmVTrt6jjQU9lX0Z) | 3:03 |
 | 18 | [El Güero \- En vivo](https://open.spotify.com/track/7a6gK5GwlIvGTU4ayZhskd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:39 |
-| 19 | [Tal Vez](https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:02 |
-| 20 | [Todo Es Diferente](https://open.spotify.com/track/0V5GclSIKLSgFWMPlAcRmY) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:20 |
+| 19 | [Todo Es Diferente](https://open.spotify.com/track/0V5GclSIKLSgFWMPlAcRmY) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:20 |
+| 20 | [Tal Vez](https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:02 |
 | 21 | [Acá en Guanajuato](https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:55 |
 | 22 | [Ya No](https://open.spotify.com/track/2Bh6Yhxs10L9LAa0zoGckk) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Ya No](https://open.spotify.com/album/3HQrm9m7IcUrp62FX6fLhs) | 3:40 |
 | 23 | [Fino](https://open.spotify.com/track/5bMcrPmz2hxyUpZzUiNych) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Fino](https://open.spotify.com/album/1Yk23LsU2ZPNScnJo2R9bn) | 2:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 45 | [Desde Que La Vi](https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Desde Que La Vi](https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64) | 2:48 |
 | 46 | [Rose Coke](https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Rose Coke](https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII) | 2:46 |
 | 47 | [No Me Voy a Rajar \- En vivo](https://open.spotify.com/track/6yiRCPwBdcXkLYgHjwRvdq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 2:58 |
-| 48 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 |
-| 49 | [Litzahaya](https://open.spotify.com/track/3t9RSoRYSbvXH3YmvKtLaS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Litzahaya](https://open.spotify.com/album/3HfkxQauyghL6mcQViSqui) | 3:28 |
+| 48 | [Litzahaya](https://open.spotify.com/track/3t9RSoRYSbvXH3YmvKtLaS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Litzahaya](https://open.spotify.com/album/3HfkxQauyghL6mcQViSqui) | 3:28 |
+| 49 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 |
 | 50 | [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 |
 
-Snapshot ID: `au5qAAAAAABdjFzUEi0mg5erB0fKDlXe`
+Snapshot ID: `au+7gAAAAABmfqlk02wKGqUTkT2Sa8Zb`

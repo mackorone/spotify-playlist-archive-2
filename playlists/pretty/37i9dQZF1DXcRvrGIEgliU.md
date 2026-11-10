@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,859 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,872 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 91 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 92 | [Sao Em Lại Tắt Máy?](https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Sao Em Lại Tắt Máy?](https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1) | 3:18 |
 | 93 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 |
-| 94 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
-| 95 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
-| 96 | [Groundhog Day](https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Groundhog Day](https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O) | 2:53 |
-| 97 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
+| 94 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
+| 95 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
+| 96 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
+| 97 | [Groundhog Day](https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Groundhog Day](https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O) | 2:53 |
 | 98 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 |
 | 99 | [Chuyện Rằng](https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chuyện Rằng](https://open.spotify.com/album/5luCD1OBB8iHHhaSaOLHGz) | 4:32 |
 | 100 | [Flight of the Crows](https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv) | 2:38 |
@@ -121,9 +121,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 111 | [One and Only](https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Songs4u](https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx) | 3:26 |
 | 112 | [i haunt ur dreams](https://open.spotify.com/track/2JE60bG37E2hJA0pAuQ9wo) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/6Nm1396bUjq3IUS0nlhcAP) | 3:36 |
 | 113 | [high school boy](https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:54 |
-| 114 | [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 |
-| 115 | [Cat Girls Are Ruining My Life!](https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Cat Girls Are Ruining My Life!](https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW) | 1:37 |
-| 116 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
+| 114 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
+| 115 | [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 |
+| 116 | [Cat Girls Are Ruining My Life!](https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Cat Girls Are Ruining My Life!](https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW) | 1:37 |
 | 117 | [nine thirty \(the glow\)](https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:34 |
 | 118 | [Closer](https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Closer](https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL) | 3:27 |
 | 119 | [False Direction](https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:37 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 122 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 | 123 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 |
 | 124 | [Joga Bonito](https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:42 |
-| 125 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 |
-| 126 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
+| 125 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
+| 126 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 |
 | 127 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 |
 | 128 | [Alone](https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Alone](https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh) | 3:16 |
 | 129 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 |

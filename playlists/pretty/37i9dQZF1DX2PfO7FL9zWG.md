@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Buffalo Traffic Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,791 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,795 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 58 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 |
 | 59 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 60 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
-| 61 | [Crying Over U](https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:54 |
-| 62 | [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 |
+| 61 | [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 |
+| 62 | [Crying Over U](https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:54 |
 | 63 | [Lost In The Light](https://open.spotify.com/track/0boz2COxgC376hg1Drao5V) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/78JxIticjNz5ZB3iNYEP6g) | 3:56 |
 | 64 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
 | 65 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
-| 66 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
-| 67 | [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 |
+| 66 | [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 |
+| 67 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
 | 68 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
 | 69 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
 | 70 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 81 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 82 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
 | 83 | [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 |
-| 84 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 |
-| 85 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
+| 84 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
+| 85 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 |
 | 86 | [tangerine!](https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [tangerine!](https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl) | 2:38 |
 | 87 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 88 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 |

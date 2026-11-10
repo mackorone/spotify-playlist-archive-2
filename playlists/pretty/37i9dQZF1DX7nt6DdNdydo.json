@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 65422,
+  "num_followers": 65430,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
-        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
-      },
-      "artists": [
-        {
-          "name": "Humphrey Lyttelton",
-          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
-        },
-        {
-          "name": "Jimmy Rushing",
-          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
-        }
-      ],
-      "duration_ms": 116933,
-      "name": "Mr. Five By Five",
-      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 167866,
       "name": "Deacon Rides Again",
       "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
+        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
+      },
+      "artists": [
+        {
+          "name": "Humphrey Lyttelton",
+          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
+        },
+        {
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "Mr. Five By Five",
+      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
     },
     {
       "added_at": "2022-03-28 19:44:25",

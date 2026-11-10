@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,351 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,384 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 11 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
 | 12 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 |
 | 13 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
-| 14 | [All I Wanna Do Is Make Love To You](https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 5:10 |
-| 15 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
+| 14 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
+| 15 | [All I Wanna Do Is Make Love To You](https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 5:10 |
 | 16 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
 | 17 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:40 |
 | 18 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 74 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
 | 75 | [Show Me The Way](https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Edge Of The Century](https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF) | 4:37 |
 | 76 | [WE ALL DIE YOUNG](https://open.spotify.com/track/0QTITeLFPONXy8qzJQk4Kt) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [WAIT](https://open.spotify.com/album/6p3T3xQw03nDDBTt6TbLpx) | 5:09 |
-| 77 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Essential Survivor](https://open.spotify.com/album/0SPJ2DOCEtX6l3MkLA2fbQ) | 3:50 |
-| 78 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
+| 77 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
+| 78 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Essential Survivor](https://open.spotify.com/album/0SPJ2DOCEtX6l3MkLA2fbQ) | 3:50 |
 | 79 | [Price of Love](https://open.spotify.com/track/56y9EmjGAAejQ6QX9blIGI) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:46 |
 | 80 | [Goodbye](https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [7 Wishes](https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB) | 4:19 |
 | 81 | [What Love Can Be](https://open.spotify.com/track/54ksR9aJry2nrGZqmJN7ji) | [Kingdom Come](https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q) | [Kingdom Come](https://open.spotify.com/album/4tgiJxO6vfa3pF46IO9w2n) | 5:14 |

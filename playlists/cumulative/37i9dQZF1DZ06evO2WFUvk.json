@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Don't Slow Down",
+        "url": "https://open.spotify.com/album/5csPeJEHcFnSIa7TzDrrR7"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207435,
+      "name": "Don't Slow Down",
+      "url": "https://open.spotify.com/track/5Ai6BUmEm1sQuVkjp6gSA3"
+    },
+    {
+      "album": {
         "name": "Club Sessions",
         "url": "https://open.spotify.com/album/4haY5hf6lUnMyUUn7oXFNO"
       },

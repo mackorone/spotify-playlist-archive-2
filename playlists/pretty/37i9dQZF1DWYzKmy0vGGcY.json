@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 662285,
+  "num_followers": 662348,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Under the Boardwalk",
@@ -343,6 +327,22 @@
       "duration_ms": 161960,
       "name": "Under the Boardwalk",
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
-      },
-      "artists": [
-        {
-          "name": "Scott McKenzie",
-          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
-      "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
+      },
+      "artists": [
+        {
+          "name": "Scott McKenzie",
+          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
+      "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Insight Out",
@@ -971,6 +955,22 @@
       "duration_ms": 187693,
       "name": "Never My Love - Remastered Version",
       "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "And Then...Along Comes",
-        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
-      },
-      "artists": [
-        {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Bobby Vee",
@@ -1247,6 +1231,22 @@
       "duration_ms": 149973,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "And Then...Along Comes",
+        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
+      },
+      "artists": [
+        {
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1693,6 +1693,22 @@
       "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "This Is My Country",
+        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Fool for You",
+      "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Doo Wop Classics Vol. 1",
@@ -1711,22 +1727,6 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "This Is My Country",
-        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Fool for You",
-      "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2101,6 +2101,22 @@
       "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
     },
     {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
+    },
+    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
@@ -2135,22 +2151,6 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
     },
     {
       "added_at": "2022-05-30 13:00:37",

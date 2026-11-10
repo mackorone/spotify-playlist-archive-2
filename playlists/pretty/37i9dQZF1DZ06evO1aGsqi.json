@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16666,
+  "num_followers": 16667,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAATmzXsn5XcIUHAByIiYLMk",
+  "snapshot_id": "au+7gAAAAAD+J5PmPkfqzqT/SlcKVVlN",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 316430,
-      "name": "WINDMILLS",
-      "url": "https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CREED: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 294925,
       "name": "Lord Knows / Fighting Stronger",
       "url": "https://open.spotify.com/track/767T5vqvDToZ8LtqT8iZx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 316430,
+      "name": "WINDMILLS",
+      "url": "https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE"
     },
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 170598,
+      "name": "Two Paths Diverged",
+      "url": "https://open.spotify.com/track/60lUxQu8QRSfeU458DG2rw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
       },
@@ -507,22 +527,6 @@
       "duration_ms": 235570,
       "name": "BETRAYAL",
       "url": "https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creed (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 80818,
-      "name": "Caught in the Shadow",
-      "url": "https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI"
     },
     {
       "added_at": null,

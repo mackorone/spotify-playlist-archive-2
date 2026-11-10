@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating South Africa's most beloved hits\. Cover: The Mahotella Queens, lordkez
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,660 likes - 60 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,703 likes - 60 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 41 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 | 42 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
 | 43 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
-| 44 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
-| 45 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
+| 44 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
+| 45 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
 | 46 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
 | 47 | [Sbali](https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:07 |
 | 48 | [I’m Burning Up](https://open.spotify.com/track/5MtRQ4ICD8SqeJqDwSi3yB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [I'm Burning Up](https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3) | 5:10 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 51 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 52 | [Ungaphel' Umoya Son](https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:36 |
 | 53 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
-| 54 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
-| 55 | [Grateful \- Interlude](https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 0:59 |
+| 54 | [Grateful \- Interlude](https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 0:59 |
+| 55 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
 | 56 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
 | 57 | [Wozobona](https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli), [Hoodlum](https://open.spotify.com/artist/1jN8jSEK1ODKCfjviN7Hxp) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:10 |
 | 58 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |

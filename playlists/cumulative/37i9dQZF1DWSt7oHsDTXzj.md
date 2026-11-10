@@ -2,9 +2,9 @@
 
 ### [Indie Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSt7oHsDTXzj)
 
-> The ultimate seasonal \(indie\) playlist.
+> The ultimate seasonal \(indie\) playlist, ft Sufjan Stevens
 
-292 songs - 16 hr 2 min
+293 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,10 +201,11 @@
 | [O Holy Night](https://open.spotify.com/track/7GaUxiJvhyZRe16Pt4V8FZ) | [Don McCloskey](https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH) | [O Holy Night](https://open.spotify.com/album/2dYqxXKtKJigqTrCFuweqQ) | 5:06 | 2021-11-12 | 2022-07-28 |
 | [O Holy Night](https://open.spotify.com/track/7MIdnR2ZXfucsjkAMQlSwj) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [O Holy Night](https://open.spotify.com/album/3cmsfC00zdOPjc1d3CqjXK) | 4:08 | 2025-08-18 | 2025-11-09 |
 | [On Christmas Night](https://open.spotify.com/track/7AhwtvWWMdohC9G1n0LJH2) | [Nelson Can](https://open.spotify.com/artist/5pYHnsao4ARhkpGvHGTgHP) | [On Christmas Night](https://open.spotify.com/album/67govfB9y8dX4ECr33I8DW) | 3:29 | 2021-11-12 | 2022-05-14 |
+| [On This Christmas \(It Only Gets Better\)](https://open.spotify.com/track/6j9T9L1ISbLbkUjEsFHFcd) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [On This Christmas \(It Only Gets Better\)](https://open.spotify.com/album/0dEoTBRi6DvUIcESme3or0) | 3:22 | 2026-11-09 |  |
 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 | 2021-11-12 | 2024-12-03 |
 | [Pink Xmas Tree](https://open.spotify.com/track/4CUon9bxIwVXCG9CdJlvOS) | [Jagged Jaw](https://open.spotify.com/artist/3Es6oUz3zUC5IZDRRhcRxG) | [Pink Xmas Tree](https://open.spotify.com/album/4ttCLHM3YmqgYPB58w4SWU) | 3:20 | 2021-11-12 | 2022-06-07 |
 | [pumpkin bread](https://open.spotify.com/track/603mAqHBigy7cueil9FxJf) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [pumpkin bread](https://open.spotify.com/album/1Bm7slaDsarcd8ZinmA9py) | 2:57 | 2022-01-07 | 2024-08-14 |
-| [Purple Snowflakes](https://open.spotify.com/track/6xsacBkUuy32IMngfVBhXl) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes](https://open.spotify.com/album/6iKOSo7BK2upVDTVQiO7QZ) | 3:45 | 2024-11-15 |  |
+| [Purple Snowflakes](https://open.spotify.com/track/6xsacBkUuy32IMngfVBhXl) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes](https://open.spotify.com/album/6iKOSo7BK2upVDTVQiO7QZ) | 3:45 | 2024-11-15 | 2026-11-10 |
 | [Red River Rock](https://open.spotify.com/track/52EcieQczA1KKZ9ed5P7J8) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Red River Rock](https://open.spotify.com/album/2oF0Uy7bSrLNm2GiCvZStu) | 2:09 | 2022-01-07 | 2024-08-26 |
 | [Rise Up Shepherd](https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i) | 2:27 | 2021-11-12 | 2023-04-10 |
 | [Rise Up Shepherd](https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke) | 2:27 | 2021-11-12 | 2022-07-14 |

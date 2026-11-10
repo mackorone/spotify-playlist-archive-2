@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 826555,
+  "num_followers": 826594,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Adelitas Way",
-        "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
-      },
-      "artists": [
-        {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Last Stand",
-      "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 175203,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Adelitas Way",
+        "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Last Stand",
+      "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
     },
     {
       "added_at": "2026-03-27 04:00:05",

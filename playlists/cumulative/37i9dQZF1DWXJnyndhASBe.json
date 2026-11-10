@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 221090,
       "name": "AMSTERDAM CYPHER",
       "url": "https://open.spotify.com/track/1XHW6uFgfSctI8R63MWs0E"
@@ -25852,6 +25852,28 @@
       "duration_ms": 187445,
       "name": "Ulubiony",
       "url": "https://open.spotify.com/track/233m2I0kzHIifD6NbdIYV0"
+    },
+    {
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/23iBc123jfJwcj1q4aRbFk"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "Umami",
+      "url": "https://open.spotify.com/track/2g0cJ8EXqIDRO9boleDMdu"
     },
     {
       "album": {

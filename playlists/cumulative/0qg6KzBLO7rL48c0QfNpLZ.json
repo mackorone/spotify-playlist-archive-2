@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/5966HCVhf7QMitMQUHbQsw"
+      },
+      "artists": [
+        {
+          "name": "The Theseus Thread",
+          "url": "https://open.spotify.com/artist/6we6RYPbXviPwc2AAUAqE8"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239920,
+      "name": "A Little Bit Lost",
+      "url": "https://open.spotify.com/track/2xn8XNUpguAR253AyuRggO"
+    },
+    {
+      "album": {
         "name": "Cafe Piano Music, Mahogany Glass",
         "url": "https://open.spotify.com/album/5qWLIBk7i8HMtlYTNpUqdv"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 177612,
       "name": "Addicted to you",
       "url": "https://open.spotify.com/track/67UnvlwshXibdCUyTk9ltP"
@@ -12069,6 +12087,24 @@
     },
     {
       "album": {
+        "name": "Fly High Magical Pixie",
+        "url": "https://open.spotify.com/album/3SKqHiPerzwvYOaVSB9WCg"
+      },
+      "artists": [
+        {
+          "name": "Carma Russell",
+          "url": "https://open.spotify.com/artist/4cJWj1PjFWdHy9Dq4SE5wp"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227480,
+      "name": "Fly High Magical Pixie",
+      "url": "https://open.spotify.com/track/51uRzrh6wiJ9KOB3HWkQAV"
+    },
+    {
+      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/4pbYior7CDNSmtOsIVi6ku"
       },
@@ -12208,7 +12244,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 204923,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2qPqplDBLCgn9jLQrhdWUZ"
@@ -14298,7 +14334,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 231319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/6sJ7xfikcYdVSYDWdPQ3Xt"
@@ -16732,7 +16768,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 227333,
       "name": "I Miss Those Days",
       "url": "https://open.spotify.com/track/71yYhdybEaDkxdFLTRkFpO"
@@ -24828,7 +24864,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 170189,
       "name": "No Second Chances",
       "url": "https://open.spotify.com/track/0XoAXd5I9YgRbIBUS2ZrPb"
@@ -26218,7 +26254,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 185806,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/4DQ6m8sGEsuGhtcI40fpi1"
@@ -26532,6 +26568,24 @@
       "duration_ms": 161402,
       "name": "Our Mirror",
       "url": "https://open.spotify.com/track/15oKxmTDg0s3tXJ0MC4XsH"
+    },
+    {
+      "album": {
+        "name": "Our Next Life Together (Acoustic)",
+        "url": "https://open.spotify.com/album/7zfe4HQ0fBh8j1DWFV0sn1"
+      },
+      "artists": [
+        {
+          "name": "North Webster",
+          "url": "https://open.spotify.com/artist/0ZigkNtg25KFf4KNFKgdhk"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Our Next Life Together - Acoustic",
+      "url": "https://open.spotify.com/track/1bQeePxX8QI4OlMorgLKuh"
     },
     {
       "album": {
@@ -27578,7 +27632,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 83160,
       "name": "promises",
       "url": "https://open.spotify.com/track/0fUaqbJ5IYdhJUBkGJqKJ1"
@@ -27734,7 +27788,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 253919,
       "name": "Pure insane moment - Demo Version",
       "url": "https://open.spotify.com/track/2p0yKA9Pp4Z2FAoYA07pOe"
@@ -30744,7 +30798,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 192748,
       "name": "Sky Blue Hope",
       "url": "https://open.spotify.com/track/43xbempQSYPxZFNFU3YUhe"
@@ -32446,6 +32500,24 @@
       "duration_ms": 144100,
       "name": "strangers/lovers/friends",
       "url": "https://open.spotify.com/track/0MZZnJwgPotQT5wNkqYqV8"
+    },
+    {
+      "album": {
+        "name": "Stripped of You",
+        "url": "https://open.spotify.com/album/1Plj2XJICEGqpIndSDIGZq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caroline",
+          "url": "https://open.spotify.com/artist/4XVGlRSNTpzNRW63mIFJ8l"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214956,
+      "name": "Stripped of You",
+      "url": "https://open.spotify.com/track/23lxwH4vRPyhDPr1B5xH7M"
     },
     {
       "album": {
@@ -34992,7 +35064,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 195500,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/1u9zdz5Jpsy5kHCj2aPpMg"
@@ -35898,7 +35970,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 208775,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/1nYvcPxcGadGvtGIzMlmHC"
@@ -39154,7 +39226,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 226400,
       "name": "x",
       "url": "https://open.spotify.com/track/7AcuKv4VKHal0cz6k4dV9A"
@@ -39326,7 +39398,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 255800,
       "name": "You are the one",
       "url": "https://open.spotify.com/track/4jsSJCyyyqAZjdhSSBOD0m"

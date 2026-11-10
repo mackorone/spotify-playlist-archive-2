@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Grupo MM, Chuyin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,687 likes - 119 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,810 likes - 119 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

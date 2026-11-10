@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Las Petunias.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,058 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,057 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Twisted Teens.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,142,095 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,141,556 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

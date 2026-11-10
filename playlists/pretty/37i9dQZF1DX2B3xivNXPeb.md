@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Music for enjoying your space
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,515 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,518 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 58 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 59 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 |
 | 60 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
-| 61 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
-| 62 | [LYIN'](https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:06 |
+| 61 | [LYIN'](https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:06 |
+| 62 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
 | 63 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
 | 64 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
 | 65 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 89 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 |
 | 90 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
 | 91 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
-| 92 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
-| 93 | [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 |
-| 94 | [Baby Blue](https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Hug](https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ) | 2:13 |
+| 92 | [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 |
+| 93 | [Baby Blue](https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Hug](https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ) | 2:13 |
+| 94 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
 | 95 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 96 | [Call Me By Your Name](https://open.spotify.com/track/1CIy9H06HPGqs92dnKGTTG) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Call Me By Your Name](https://open.spotify.com/album/1Rgi7cJxdtyEBiw82eRo0H) | 3:00 |
 | 97 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
 | 98 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
-| 99 | [On Wires](https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [On Wires](https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH) | 3:22 |
-| 100 | [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 |
+| 99 | [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 |
+| 100 | [On Wires](https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [On Wires](https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH) | 3:22 |
 
 Snapshot ID: `AAAAAP8NqajbFXSU3pWr9g4RrfTrT5go`

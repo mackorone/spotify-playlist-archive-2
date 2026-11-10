@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 10 hr 21 min
+190 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [My Guy](https://open.spotify.com/track/2oQhNpylkd2vtbXGr6IBWa) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:20 | 2022-06-04 |  |
 | [Naked \(feat\. Big Sean\)](https://open.spotify.com/track/6NNWpqisP8aFWSO377cAks) | [Kevin McCall](https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Naked \(feat\. Big Sean\)](https://open.spotify.com/album/0jMahV23gJ1MZErE9ZzvGk) | 4:21 | 2022-06-04 | 2025-05-22 |
 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 | 2026-02-19 |  |
-| [Never Learned](https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/3RlzBv7Az9FPUyEgQzXvlm) | 3:26 | 2022-06-04 |  |
+| [Never Learned](https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/3RlzBv7Az9FPUyEgQzXvlm) | 3:26 | 2022-06-04 | 2026-11-10 |
+| [Never Learned](https://open.spotify.com/track/3trSCAgCOECvmROhstKEr2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/0lMY2vy8m1sEdxtcj9maLQ) | 3:26 | 2026-11-09 |  |
 | [Never Love Again](https://open.spotify.com/track/5IPE706f5GnhM06ZNrTYnh) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:14 | 2022-06-04 |  |
 | [No Chance](https://open.spotify.com/track/0pZ2vkhWBEWWOwuAB8OlgE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [No Chance](https://open.spotify.com/album/3zY5iu6GBWO927JdIu8OQT) | 3:40 | 2022-06-04 |  |
 | [No Help](https://open.spotify.com/track/3X4oYHoEhwoR8oCmQFMy1E) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [No Help](https://open.spotify.com/album/7KaecE3th2EoJMsrIJ6zVL) | 3:02 | 2025-11-10 |  |

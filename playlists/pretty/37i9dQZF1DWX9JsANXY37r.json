@@ -303,22 +303,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Rosa Maria",
         "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 368758,
-      "name": "VIRGO'S GROOVE",
-      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 165599,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 368758,
+      "name": "VIRGO'S GROOVE",
+      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 250454,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
-        "name": "Blue Lights",
-        "url": "https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 250454,
-      "name": "Blue Lights",
-      "url": "https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0"
     },
     {
       "added_at": "2026-10-19 16:00:13",

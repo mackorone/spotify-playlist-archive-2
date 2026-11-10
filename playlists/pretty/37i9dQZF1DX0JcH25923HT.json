@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 611024,
+  "num_followers": 611130,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Crecia",
         "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1399,6 +1399,34 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Jimmy Fallon (Remix)",
+        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Jimmy Fallon - Remix",
+      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/0OoijCMFMoorw6EBRkULoJ"
       },
@@ -1427,34 +1455,6 @@
       "duration_ms": 236360,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4XgcpHJAulT6gSTPFODnB7"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Jimmy Fallon (Remix)",
-        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Jimmy Fallon - Remix",
-      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "La Cone",
         "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 251942,
       "name": "La Cone",
       "url": "https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el Celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 189333,
       "name": "Sigo Fresh",
       "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el Celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2026-08-11 14:10:49",

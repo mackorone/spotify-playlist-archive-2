@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Babasha
+> Cele mai de succes 50 de hituri în România\. Cover: MADATORRICELLI
 
-378 songs - 17 hr 54 min
+379 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-05 | 2024-09-17 |
 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-12-02 | 2025-01-08 |
 | [COSTA](https://open.spotify.com/track/0X3m5JIdxBaVTMnSz34pOR) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [COSTA](https://open.spotify.com/album/59j8mLRuInvXhvPzjuTTqy) | 2:59 | 2024-09-09 | 2024-10-22 |
-| [Countup](https://open.spotify.com/track/0Avd3IwLnCDp3HErwUIsjA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lyfestyle Corporation](https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Luh Leakyz Vol\. 1](https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN) | 2:34 | 2026-11-03 |  |
+| [Countup](https://open.spotify.com/track/0Avd3IwLnCDp3HErwUIsjA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lyfestyle Corporation](https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Luh Leakyz Vol\. 1](https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN) | 2:34 | 2026-11-03 | 2026-11-10 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-25 |
 | [Cu Tălpile Goale](https://open.spotify.com/track/5eMX92EXE1FFV0JCixVkXD) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Cu Tălpile Goale](https://open.spotify.com/album/0R7eK1bGzwk5UBJ7IKoZWE) | 2:33 | 2025-07-07 | 2026-01-15 |
 | [CUBA](https://open.spotify.com/track/2LPxsYSkDeSeLgb70iR5O7) | [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [CUBA](https://open.spotify.com/album/2TM3q0Sf8hCcFyjLVX1mj4) | 3:10 | 2026-04-13 | 2026-05-26 |
@@ -305,6 +305,7 @@
 | [sexyZ](https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Z PRINT](https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso) | 2:22 | 2025-06-03 | 2026-04-28 |
 | [SHE WANNA DANCE](https://open.spotify.com/track/017lLMCoXyiJrwhu9DfqiQ) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB) | [SHE WANNA DANCE](https://open.spotify.com/album/5AGYEzwSZi1V753Cg17MmO) | 2:37 | 2025-11-03 | 2025-12-02 |
 | [Sheik Yo Body](https://open.spotify.com/track/3lalW2qJFjoMXtFTUFQLt8) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Adi Ploiesteanu](https://open.spotify.com/artist/5tjo9S3AcLqbrLinGFtblY) | [Sheik Yo Body](https://open.spotify.com/album/4kTTrLM15TobYToXLERtC6) | 2:28 | 2026-08-17 |  |
+| [Shotta's.](https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3) | [Season 25](https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat) | [Shotta's.](https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE) | 2:22 | 2026-11-09 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-24 | 2025-12-30 |
 | [Simpatica](https://open.spotify.com/track/7rvezbe0QVV6JNUNlSFHiU) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [Simpatica](https://open.spotify.com/album/16PLrglIu3QHlxZRzYGKuV) | 2:13 | 2026-08-31 |  |
 | [Sistem Otoman](https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa) | [Tony One](https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Sistem Otoman](https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e) | 2:43 | 2024-07-01 | 2024-12-03 |

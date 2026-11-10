@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "I rule my mind",
+        "url": "https://open.spotify.com/album/7A6TGezokbl9RmjYYslpuW"
+      },
+      "artists": [
+        {
+          "name": "Gengvej",
+          "url": "https://open.spotify.com/artist/5orPYxWUhMUSVZoXTXBqoW"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164189,
+      "name": "I rule my mind",
+      "url": "https://open.spotify.com/track/3GvbjqSPnaXH5fjG46Kzbm"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },

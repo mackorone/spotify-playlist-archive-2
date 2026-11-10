@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,553 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,640 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 61 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 |
 | 62 | [Angel Eyes](https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:39 |
 | 63 | [Teach Me Tonight](https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [L.A\. Is My Lady](https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU) | 3:45 |
-| 64 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
-| 65 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
+| 64 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
+| 65 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
 | 66 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:42 |
 | 67 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
 | 68 | [My Foolish Heart](https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 3:09 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 72 | [One for My Baby](https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [Meet Me Around Midnight](https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO) | 3:49 |
 | 73 | [With A Song In My Heart \- 78 rpm Version](https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [A Day At The Movies](https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi) | 3:07 |
 | 74 | [Please Be Kind](https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Man I Love](https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj) | 4:13 |
-| 75 | [Embraceable You](https://open.spotify.com/track/45IeaJkarobL2YT6bZYMm3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 3:45 |
-| 76 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
+| 75 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
+| 76 | [Embraceable You](https://open.spotify.com/track/45IeaJkarobL2YT6bZYMm3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 3:45 |
 | 77 | [Our Love Is Here To Stay](https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable Songs](https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d) | 2:13 |
 | 78 | [Easy Living](https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 5:37 |
 | 79 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |

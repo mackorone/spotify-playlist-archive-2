@@ -2,9 +2,9 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> Celebrating all the songs with over a Billion streams on Spotify\. Cover: BTS
+> Celebrating all the songs with over a Billion streams on Spotify\. Cover: Daft Punk
 
-1,539 songs - 3 day 21 hr 52 min
+1,544 songs - 3 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [...Ready For It?](https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:28 | 2026-03-04 |  |
 | [1\-800\-273\-8255](https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Everybody](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) | 4:10 | 2021-07-21 |  |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2023-12-14 |  |
+| [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 | 2026-11-10 |  |
 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 | 2024-06-06 |  |
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2021-08-23 |  |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2025-04-24 |  |
@@ -164,6 +165,7 @@
 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 | 2026-03-09 |  |
 | [Bohemian Rhapsody \- 2011 Remaster](https://open.spotify.com/track/6AWe04n4zsYkGKb3Pf7LMk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 5:54 | 2021-07-21 |  |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2023-11-30 |  |
+| [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 | 2026-11-10 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2025-11-21 |  |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2024-08-07 |  |
 | [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2026-01-12 |  |
@@ -739,6 +741,7 @@
 | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ) | 3:15 | 2022-04-11 |  |
 | [Lemonade \(feat\. NAV\)](https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a) | 3:15 | 2022-04-11 | 2026-06-04 |
 | [Les](https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta) | 5:17 | 2026-03-04 |  |
+| [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 | 2026-11-10 |  |
 | [Let Her Go](https://open.spotify.com/track/0JmiBCpWc1IAc0et7Xm7FL) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:12 | 2021-07-21 |  |
 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 | 2021-07-21 | 2026-06-04 |
 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered 2009\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 | 2026-10-19 |  |
@@ -960,6 +963,7 @@
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2021-07-21 |  |
 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 | 2022-09-05 |  |
 | [One More Night](https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed \(Deluxe\)](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) | 3:39 | 2024-12-23 |  |
+| [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 | 2026-11-10 |  |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-07-03 |  |
 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2025-07-14 |  |
 | [Only Girl \(In The World\)](https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 3:55 | 2024-03-22 |  |
@@ -1167,6 +1171,7 @@
 | [Smack That](https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:32 | 2025-07-25 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2021-07-21 |  |
 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 | 2026-01-06 |  |
+| [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2026-11-10 |  |
 | [SNAP](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/3WchHjZ44WYDGA7H7LQcfI) | 2:59 | 2024-05-06 | 2026-06-04 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2024-05-06 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2024-06-07 |  |

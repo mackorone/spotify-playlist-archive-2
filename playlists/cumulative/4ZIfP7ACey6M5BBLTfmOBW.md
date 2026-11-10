@@ -4,7 +4,7 @@
 
 > Strictly the freshest and finest hip\-hop heats\. No skips\. Cover: A$AP Rocky.
 
-957 songs - 1 day 20 hr 31 min
+958 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,6 +955,7 @@
 | [Wtf U Mean](https://open.spotify.com/track/7gw6N2Jnoi9eFKj8xbkvq8) | [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK), [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [Leverage](https://open.spotify.com/album/1EvhGFBT6IZv3AGlCtXZHB) | 2:04 | 2025-07-04 | 2025-09-09 |
 | [WTFO](https://open.spotify.com/track/4FLcnGgf4mVSQARxZTWy7H) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [WTFO](https://open.spotify.com/album/3pnpGoG0kfiyg5P58nZ0u5) | 2:59 | 2024-10-25 | 2024-11-16 |
 | [WTM](https://open.spotify.com/track/50J3eT2OtzhLWCWmvEz1NY) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [WTM](https://open.spotify.com/album/6iTaOr8waUXd7dPqckmnLG) | 2:20 | 2024-12-13 | 2025-02-22 |
+| [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 | 2026-11-09 |  |
 | [Yaad](https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:12 | 2024-02-16 | 2024-02-24 |
 | [Yeah Baby](https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Yeah Baby](https://open.spotify.com/album/5PHb8QUa081t4IxLhLrWcV) | 1:49 | 2024-07-19 | 2024-09-04 |
 | [YEH](https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [YEH](https://open.spotify.com/album/2dQCBUYuCOoEbrrU4HzDbd) | 2:14 | 2024-02-09 | 2024-03-16 |

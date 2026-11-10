@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 448020,
+  "num_followers": 448064,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Ecos de ti",
-        "url": "https://open.spotify.com/album/1IhdlMI5dlFEElhAXd4oQT"
-      },
-      "artists": [
-        {
-          "name": "Juancho Marqu\u00e9s",
-          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
-        }
-      ],
-      "duration_ms": 141028,
-      "name": "Ecos de ti",
-      "url": "https://open.spotify.com/track/0ns3p06uk2bcO60yI9fSMh"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 212958,
       "name": "La herida que prefiero",
       "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Ecos de ti",
+        "url": "https://open.spotify.com/album/1IhdlMI5dlFEElhAXd4oQT"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        }
+      ],
+      "duration_ms": 141028,
+      "name": "Ecos de ti",
+      "url": "https://open.spotify.com/track/0ns3p06uk2bcO60yI9fSMh"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Tanto para dar",
-        "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
-      },
-      "artists": [
-        {
-          "name": "Meritxell Neddermann",
-          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Tanto para dar",
-      "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -955,22 +935,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/0AkhdqeJJslwFGSaVNI633"
+        "name": "Tanto para dar",
+        "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+          "name": "Meritxell Neddermann",
+          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
         },
         {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/0Rm1j5kZrVF80nhql0PWAM"
+      "duration_ms": 174225,
+      "name": "Tanto para dar",
+      "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -987,6 +967,26 @@
       "duration_ms": 156478,
       "name": "brb",
       "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/0AkhdqeJJslwFGSaVNI633"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/0Rm1j5kZrVF80nhql0PWAM"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 232040,
       "name": "Boredom",
       "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+        "name": "La Chica del Norte",
+        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
+      "duration_ms": 221600,
+      "name": "La Chica del Norte",
+      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Pladur",
-        "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
-      },
-      "artists": [
-        {
-          "name": "Paco Moreno",
-          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
-        }
-      ],
-      "duration_ms": 162750,
-      "name": "Pladur",
-      "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Redux",
         "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 357956,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Pladur",
+        "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
+      },
+      "artists": [
+        {
+          "name": "Paco Moreno",
+          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "Pladur",
+      "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "La Chica del Norte",
-        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
       },
       "artists": [
         {
@@ -1632,25 +1632,9 @@
           "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 221600,
-      "name": "La Chica del Norte",
-      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Septiembre",
-        "url": "https://open.spotify.com/album/1aeEV7SMIVFBDiJy1AYgkT"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Septiembre",
-      "url": "https://open.spotify.com/track/0fFNJAGBaSmMrZhG3oqMZY"
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1667,6 +1651,22 @@
       "duration_ms": 270250,
       "name": "La Espiral",
       "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Septiembre",
+        "url": "https://open.spotify.com/album/1aeEV7SMIVFBDiJy1AYgkT"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Septiembre",
+      "url": "https://open.spotify.com/track/0fFNJAGBaSmMrZhG3oqMZY"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "talvez",
-        "url": "https://open.spotify.com/album/2jAD6mAa04Y4cUt4GtAUYW"
-      },
-      "artists": [
-        {
-          "name": "AMYNATA",
-          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
-        }
-      ],
-      "duration_ms": 128846,
-      "name": "talvez",
-      "url": "https://open.spotify.com/track/6Az9wDLwMpLGDxJ5dmln3D"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5xML2DTGRbTcNjW4olh8js"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 176434,
       "name": "Free As a Bird",
       "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "talvez",
+        "url": "https://open.spotify.com/album/2jAD6mAa04Y4cUt4GtAUYW"
+      },
+      "artists": [
+        {
+          "name": "AMYNATA",
+          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
+        }
+      ],
+      "duration_ms": 128846,
+      "name": "talvez",
+      "url": "https://open.spotify.com/track/6Az9wDLwMpLGDxJ5dmln3D"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
-      },
-      "artists": [
-        {
-          "name": "Tristicis",
-          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Algo Fugaz",
         "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
       },
@@ -1839,6 +1823,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1851,22 +1851,6 @@
       "duration_ms": 161250,
       "name": "Me Tienes Aqu\u00ed",
       "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "0MG!",
-        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
-      },
-      "artists": [
-        {
-          "name": "Mira Paula",
-          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
-        }
-      ],
-      "duration_ms": 166621,
-      "name": "0MG!",
-      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
       },
       "artists": [
         {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
         }
       ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1927,6 +1911,38 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Tamesis",
+        "url": "https://open.spotify.com/album/1TJGpB0M8m8PAycC8vCDo9"
+      },
+      "artists": [
+        {
+          "name": "Zurito",
+          "url": "https://open.spotify.com/artist/3zyjOpipjSnFWFRKQvO57T"
+        }
+      ],
+      "duration_ms": 475250,
+      "name": "Gymnopedie N. 1",
+      "url": "https://open.spotify.com/track/3ciSwoLfrJMGJbwCCEGfHs"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "esa cara",
         "url": "https://open.spotify.com/album/5mj39NSYk6TGy5VzA2x9kX"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 151821,
       "name": "esa cara",
       "url": "https://open.spotify.com/track/4aN7X1buWStoLqvJrZgIWC"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Tamesis",
-        "url": "https://open.spotify.com/album/1TJGpB0M8m8PAycC8vCDo9"
-      },
-      "artists": [
-        {
-          "name": "Zurito",
-          "url": "https://open.spotify.com/artist/3zyjOpipjSnFWFRKQvO57T"
-        }
-      ],
-      "duration_ms": 475250,
-      "name": "Gymnopedie N. 1",
-      "url": "https://open.spotify.com/track/3ciSwoLfrJMGJbwCCEGfHs"
     },
     {
       "added_at": "2026-10-15 22:01:52",

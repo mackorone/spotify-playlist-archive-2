@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1539682,
+  "num_followers": 1539481,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "que seas t\u00fa -- & amor herido . . .",
-        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "que seas t\u00fa --",
-      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "si la ves",
         "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 177829,
       "name": "si la ves",
       "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "que seas t\u00fa -- & amor herido . . .",
+        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "que seas t\u00fa --",
+      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "La gravedad y el tiempo.",
         "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 162333,
       "name": "La gravedad y el tiempo.",
       "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
-      },
-      "artists": [
-        {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
-        }
-      ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "LA MENTIRA",
-        "url": "https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex"
-      },
-      "artists": [
-        {
-          "name": "Abrildefresa",
-          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "LA MENTIRA",
-      "url": "https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "INTER\u00c9S HACIA TI",
         "url": "https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 149291,
       "name": "INTER\u00c9S HACIA TI",
       "url": "https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "LA MENTIRA",
+        "url": "https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex"
+      },
+      "artists": [
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "LA MENTIRA",
+      "url": "https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE"
     },
     {
       "added_at": "2026-10-21 21:02:34",

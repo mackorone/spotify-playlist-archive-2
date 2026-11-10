@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie you should know. Cover: Silvestre y La Naranja",
-  "num_followers": 685691,
+  "num_followers": 685619,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANC5jX1LUUR7RiBROVfoQnHFcQ1V",
+  "snapshot_id": "AAAAAGDPjTCqAuvAdsLkHP2X0wg3Se2l",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:17",
@@ -147,6 +147,22 @@
       "duration_ms": 194824,
       "name": "que si que no",
       "url": "https://open.spotify.com/track/7yZFeoo9wqiW5pTgemZpJ8"
+    },
+    {
+      "added_at": "2026-11-09 14:54:20",
+      "album": {
+        "name": "FORTUNA KID",
+        "url": "https://open.spotify.com/album/0LEUX7miHZjC68ocLiwbuI"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Vivir para siempre",
+      "url": "https://open.spotify.com/track/6Mi2Udl7eOQ1hg2l5YXqhF"
     },
     {
       "added_at": "2026-11-06 05:00:17",
@@ -679,22 +695,6 @@
       "duration_ms": 145294,
       "name": "Destino",
       "url": "https://open.spotify.com/track/23Y4omG3AmgATphnmR4R0E"
-    },
-    {
-      "added_at": "2026-11-06 05:00:17",
-      "album": {
-        "name": "Una vida en llamas",
-        "url": "https://open.spotify.com/album/3EUUuuxdkjBHBM5udQqIUP"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Una vida en llamas",
-      "url": "https://open.spotify.com/track/0cEYphx6nmaW4COfpOalAG"
     },
     {
       "added_at": "2026-11-06 05:00:17",

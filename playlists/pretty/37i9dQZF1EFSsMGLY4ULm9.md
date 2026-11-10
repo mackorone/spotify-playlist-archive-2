@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3AUv0IEjS8uKIooEtoQNF8">Raquel Silva</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 64 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 64 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 63 | [Tem Livramento](https://open.spotify.com/track/1ASaEiRmjzhNTvjBEYgjB9) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Tem Livramento](https://open.spotify.com/album/0sp0Ugzr8n7H78TzxgKPPX) | 6:41 |
 | 64 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AchJ9gAAAABlq+SQk1yb00ty1yI2973X`
+Snapshot ID: `AchP0gAAAADpwd14TMfdNcDIzQNgcF25`

@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 208066,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 210600,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/5NojbhELrksthk39c7ia1N"
@@ -2564,6 +2564,36 @@
       "duration_ms": 100536,
       "name": "Baby Perrea",
       "url": "https://open.spotify.com/track/30d0R3OYUxEXSJg65FrsbV"
+    },
+    {
+      "album": {
+        "name": "Bachateo",
+        "url": "https://open.spotify.com/album/7oHTX0RGfij4fEsicMKSSE"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138976,
+      "name": "Bachateo",
+      "url": "https://open.spotify.com/track/2uxr0pjA4XuAhprkOqPyNe"
     },
     {
       "album": {
@@ -5776,7 +5806,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 124068,
       "name": "Dame Hombro",
       "url": "https://open.spotify.com/track/1FXksRH3lFxHPlBauolc3C"
@@ -8848,7 +8878,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8920,7 +8950,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -17522,7 +17552,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
@@ -19022,6 +19052,40 @@
       "duration_ms": 171000,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+    },
+    {
+      "album": {
+        "name": "PARADIXE (REMIX)",
+        "url": "https://open.spotify.com/album/7yhY69RjFONtW48pts3gjl"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260268,
+      "name": "PARADIXE - REMIX",
+      "url": "https://open.spotify.com/track/18YYddH2JVaiAGJ3y5BFh0"
     },
     {
       "album": {
@@ -25794,7 +25858,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 367680,
       "name": "Toda - Remix",
       "url": "https://open.spotify.com/track/6RRnUWV7wemVRFZjPRQo66"
@@ -29240,7 +29304,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

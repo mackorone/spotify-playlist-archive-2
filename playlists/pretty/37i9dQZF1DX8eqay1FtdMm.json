@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Feel) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 413799,
+  "num_followers": 413774,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/3RFAbj6AHxD4n2sOnWkGO5"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "blinded",
-      "url": "https://open.spotify.com/track/0mzKWwpI4A5gJneDNvRjKj"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/3RFAbj6AHxD4n2sOnWkGO5"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "blinded",
+      "url": "https://open.spotify.com/track/0mzKWwpI4A5gJneDNvRjKj"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 221786,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "Summer, I",
-        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "i love LOVE",
-      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "Summer, I",
+        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "i love LOVE",
+      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "I'll Always Be With You",
-      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 267280,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "I'll Always Be With You",
+      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "To live",
-        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
-      },
-      "artists": [
-        {
-          "name": "SoonSoonHee",
-          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "To live",
-      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "\uadf8 \uc0ac\ub78c, \uadf8 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+        "name": "To live",
+        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "SoonSoonHee",
+          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
         }
       ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+      "duration_ms": 231520,
+      "name": "To live",
+      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "Days Gone",
+        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Days Gone",
+      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "Days Gone",
-        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
       },
       "artists": [
         {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Days Gone",
-      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
+      "duration_ms": 288046,
+      "name": "All Our Days",
+      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -1547,22 +1563,6 @@
       "duration_ms": 224480,
       "name": "I Can't Help It (Prod. Jungkey)",
       "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
-        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 288046,
-      "name": "All Our Days",
-      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
     },
     {
       "added_at": "2026-11-03 06:12:09",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "It's love",
-        "url": "https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 256252,
-      "name": "It's love",
-      "url": "https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1651,22 +1635,6 @@
     {
       "added_at": "2026-11-03 06:12:09",
       "album": {
-        "name": "Love Playlist3 Part.1",
-        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 237224,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
-    },
-    {
-      "added_at": "2026-11-03 06:12:09",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
       },
@@ -1679,6 +1647,38 @@
       "duration_ms": 222000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "It's love",
+        "url": "https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 256252,
+      "name": "It's love",
+      "url": "https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe"
+    },
+    {
+      "added_at": "2026-11-03 06:12:09",
+      "album": {
+        "name": "Love Playlist3 Part.1",
+        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 237224,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
     }
   ],
   "unique_name": "v o K a l",

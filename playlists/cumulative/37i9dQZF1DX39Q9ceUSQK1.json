@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Kensington",
+  "description": "Nieuwe alternative & rock releases. Cover: Fat Dog",
   "name": "New Alternative",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 243302,
       "name": "7563",
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
@@ -1663,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Silver Veil",
+        "url": "https://open.spotify.com/album/7FYyz2WfmctLRVRcSP41AD"
+      },
+      "artists": [
+        {
+          "name": "Pyo",
+          "url": "https://open.spotify.com/artist/3BNTy9A6fRhC8tCg7wApZB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149247,
+      "name": "Bathroom Door",
+      "url": "https://open.spotify.com/track/2zxRuIE7kDBjASdzNvwRWw"
+    },
+    {
+      "album": {
         "name": "Put A Smile On For Me",
         "url": "https://open.spotify.com/album/3lNBELeJGdsWUJYYtv6aLB"
       },
@@ -2038,6 +2056,28 @@
       "duration_ms": 201546,
       "name": "Black Page",
       "url": "https://open.spotify.com/track/5jYl4Qn9n6YKz1JscgSQPd"
+    },
+    {
+      "album": {
+        "name": "Black Stars",
+        "url": "https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Black Stars - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm"
     },
     {
       "album": {
@@ -2460,6 +2500,24 @@
       "duration_ms": 213794,
       "name": "Call It In",
       "url": "https://open.spotify.com/track/6g5oAr4QtYRYOdWUihyiK4"
+    },
+    {
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/74vQ5qdsnCnKnTS9Xmv8il"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170726,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/7M3KXts1VYicFwyjNcdWRs"
     },
     {
       "album": {
@@ -4728,7 +4786,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 167208,
       "name": "Educate The Billionaires",
       "url": "https://open.spotify.com/track/0nDhoLQdIA8YoebS6xBmfW"
@@ -4879,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Peeling an Orange in Just One Go",
+        "url": "https://open.spotify.com/album/43S9dWjXEMKqyFbKu7Khyu"
+      },
+      "artists": [
+        {
+          "name": "Library Card",
+          "url": "https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212100,
+      "name": "Every Ten Minutes",
+      "url": "https://open.spotify.com/track/7uMJlwRRyXUJnNwHD8PuAB"
+    },
+    {
+      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
@@ -4926,7 +5002,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 253556,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/5Hwv7ZHrkqqNUe5FpKJRf8"
@@ -5290,6 +5366,28 @@
       "duration_ms": 109431,
       "name": "Fireproof",
       "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
+    },
+    {
+      "album": {
+        "name": "FISHING",
+        "url": "https://open.spotify.com/album/4ZUEVS6PUZr8evBqdtZtav"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        },
+        {
+          "name": "SONS",
+          "url": "https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184811,
+      "name": "FISHING",
+      "url": "https://open.spotify.com/track/2laLarArBCMRHcBS48RjJR"
     },
     {
       "album": {
@@ -5852,7 +5950,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 210600,
       "name": "Get Me In / Get Me Out",
       "url": "https://open.spotify.com/track/2vSTmXh3DzqOyS8uBsNjmL"
@@ -8338,7 +8436,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 145560,
       "name": "Is That What It Is",
       "url": "https://open.spotify.com/track/5rbD4xvwCC5bChwxj8sGF3"
@@ -9190,7 +9288,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 175280,
       "name": "Leave The Sun Behind",
       "url": "https://open.spotify.com/track/0W6oV7MeL0PWEymCdYJRvZ"
@@ -9691,6 +9789,24 @@
     },
     {
       "album": {
+        "name": "Lost In Motion",
+        "url": "https://open.spotify.com/album/1BZ0bBcdVj2R9qW3feZlT5"
+      },
+      "artists": [
+        {
+          "name": "Moss",
+          "url": "https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202682,
+      "name": "Lost In Motion",
+      "url": "https://open.spotify.com/track/7gl1TEeJaXnR9MWNRTvAgm"
+    },
+    {
+      "album": {
         "name": "Lost In Space",
         "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
       },
@@ -9922,6 +10038,24 @@
       "duration_ms": 179759,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J"
+    },
+    {
+      "album": {
+        "name": "Make It Easy",
+        "url": "https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197018,
+      "name": "Make It Easy",
+      "url": "https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M"
     },
     {
       "album": {
@@ -10415,6 +10549,24 @@
     },
     {
       "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231683,
+      "name": "Mimesis",
+      "url": "https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu"
+    },
+    {
+      "album": {
         "name": "Dayglow",
         "url": "https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx"
       },
@@ -10667,6 +10819,24 @@
     },
     {
       "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/4dICy1P1QDSEY83qSZEsjh"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179881,
+      "name": "Mother Never Told You",
+      "url": "https://open.spotify.com/track/30LAPViPx3cUA8KUGNk4rP"
+    },
+    {
+      "album": {
         "name": "Mr. Alligator",
         "url": "https://open.spotify.com/album/1VfzgIuIeY3f3jG4t8Qydp"
       },
@@ -10704,6 +10874,24 @@
       "duration_ms": 223146,
       "name": "Mr. Tap n' Go",
       "url": "https://open.spotify.com/track/78bbsnvyylLQGwz53vXtRg"
+    },
+    {
+      "album": {
+        "name": "Surface, Echo & Sound",
+        "url": "https://open.spotify.com/album/1kFTis4C1qmlRNK9jph1qC"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258327,
+      "name": "Much Love",
+      "url": "https://open.spotify.com/track/4NQt1ZiyEhZtVV2MWXi7BL"
     },
     {
       "album": {
@@ -11410,7 +11598,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 176810,
       "name": "Not Cool",
       "url": "https://open.spotify.com/track/6ZfXGI85ZmI5PV9sNAmwV1"
@@ -12192,6 +12380,24 @@
       "duration_ms": 210213,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/6mOl6NqrhLWZz4pVfkgHLQ"
+    },
+    {
+      "album": {
+        "name": "Overthinker",
+        "url": "https://open.spotify.com/album/0WZ9DvpqOta5FaU6PVbqhK"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220510,
+      "name": "Overthinker",
+      "url": "https://open.spotify.com/track/18SLQPyPKYybUsR77ChEMS"
     },
     {
       "album": {
@@ -13291,6 +13497,24 @@
     },
     {
       "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205741,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
       },
@@ -13414,6 +13638,24 @@
       "duration_ms": 250476,
       "name": "Run Away - High-Energy",
       "url": "https://open.spotify.com/track/0TlqxXDWP2n4U8p0oCqCpY"
+    },
+    {
+      "album": {
+        "name": "Perfecth",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Run Away From the Mob",
+      "url": "https://open.spotify.com/track/7zRC0N2InIb6GPP67gSD4L"
     },
     {
       "album": {
@@ -13814,7 +14056,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 253520,
       "name": "SEEIN\u2019 STARS: ELTON JOHN VERSION",
       "url": "https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx"
@@ -15384,7 +15626,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 195186,
       "name": "Swarm",
       "url": "https://open.spotify.com/track/4UFPf8Q2Zpsk76b7BNwW4n"
@@ -16278,6 +16520,24 @@
       "duration_ms": 183466,
       "name": "The Hives Forever Forever The Hives",
       "url": "https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2"
+    },
+    {
+      "album": {
+        "name": "What's In Between",
+        "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222761,
+      "name": "The Intersection",
+      "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
     },
     {
       "album": {

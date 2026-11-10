@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: HAAN, SHIRT)",
-  "num_followers": 1095847,
+  "num_followers": 1095778,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-11-05 06:43:53",
       "album": {
-        "name": "Doctor! Doctor!",
-        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Doctor! Doctor!",
-      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
-    },
-    {
-      "added_at": "2026-11-05 06:43:53",
-      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 206613,
       "name": "Magic (Feat. JULIE of KISS OF LIFE)",
       "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
+    },
+    {
+      "added_at": "2026-11-05 06:43:53",
+      "album": {
+        "name": "Doctor! Doctor!",
+        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Doctor! Doctor!",
+      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
     },
     {
       "added_at": "2026-11-05 06:43:53",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2026-11-05 06:43:53",
       "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Riaan",
+          "url": "https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim"
         }
       ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+      "duration_ms": 151746,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2"
     },
     {
       "added_at": "2026-11-05 06:43:53",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2026-11-05 06:43:53",
       "album": {
-        "name": "Adore You",
-        "url": "https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3"
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
       "artists": [
         {
-          "name": "Riaan",
-          "url": "https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 151746,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2"
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
       "added_at": "2026-11-05 06:43:53",

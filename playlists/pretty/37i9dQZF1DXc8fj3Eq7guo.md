@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > 50 stops, one continent, grab your pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,058 likes - 57 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,078 likes - 57 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

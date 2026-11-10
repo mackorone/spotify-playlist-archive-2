@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,680 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,668 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 50 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
 | 51 | [Siste første dans](https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:40 |
 | 52 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 |
-| 53 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
+| 53 | [Heim te ståvo](https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Heim te ståvo](https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi) | 3:16 |
 | 54 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 |
 | 55 | [Ælsk nånn](https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Ælsk nånn](https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP) | 3:05 |
 | 56 | [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 |
 | 57 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
-| 58 | [Heim te ståvo](https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Heim te ståvo](https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi) | 3:16 |
+| 58 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
 | 59 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 |
 | 60 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 |
 | 61 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 73 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
 | 74 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 |
 | 75 | [Alt man tenker på](https://open.spotify.com/track/1DPL5Rw5K7D4VyLFMqfVp7) | [Paul Fjell](https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7) | [Alt man tenker på](https://open.spotify.com/album/35y5zwVgFUL32EnG2J4xA5) | 3:46 |
-| 76 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 |
-| 77 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
+| 76 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
+| 77 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 |
 | 78 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 |
 | 79 | [Late Bloomer](https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg vil ikke stå i ro lenger](https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A) | 2:53 |
-| 80 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 |
-| 81 | [Lykkelig uten meg](https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Lykkelig uten meg](https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6) | 3:05 |
-| 82 | [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 |
+| 80 | [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 |
+| 81 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 |
+| 82 | [Lykkelig uten meg](https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Lykkelig uten meg](https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6) | 3:05 |
 | 83 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 | 84 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 |
 | 85 | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 |

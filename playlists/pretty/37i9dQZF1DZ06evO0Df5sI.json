@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 24710,
+  "num_followers": 24714,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACCL80OuB8n5ffLruTEz/25",
+  "snapshot_id": "au+7gAAAAADRsaXbxegY8BnQTI8AkHBR",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Every Thug Needs a Lady",
-      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 198266,
       "name": "Fall Victim",
       "url": "https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Shake With Me",
+      "url": "https://open.spotify.com/track/4rRFTcNXhp2y2thpIoItHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "Shake With Me",
-      "url": "https://open.spotify.com/track/4rRFTcNXhp2y2thpIoItHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -591,38 +591,6 @@
       "duration_ms": 216533,
       "name": "Do You Wanna Know?",
       "url": "https://open.spotify.com/track/29PCRRuIs7enxT7Oih4VEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Is This Thing Cursed?",
-      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Metro",
-      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
     },
     {
       "added_at": null,
@@ -643,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
       "artists": [
         {
@@ -652,9 +620,25 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 187480,
-      "name": "I Wanna Be A Warhol",
-      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+      "duration_ms": 221520,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Is This Thing Cursed?",
+      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Love Love, Kiss Kiss",
+      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agony & Irony (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
       "artists": [
         {
@@ -700,9 +700,25 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 205240,
-      "name": "Love Love, Kiss Kiss",
-      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
+      "duration_ms": 187480,
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surprise Surprise",
+        "url": "https://open.spotify.com/album/0FDA1qgav59oEQxtu8fZBc"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 253257,
+      "name": "Surprise Surprise",
+      "url": "https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddamnit!",
         "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
       },
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surprise Surprise",
-        "url": "https://open.spotify.com/album/0FDA1qgav59oEQxtu8fZBc"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 253257,
-      "name": "Surprise Surprise",
-      "url": "https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt"
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,

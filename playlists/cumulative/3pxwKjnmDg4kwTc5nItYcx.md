@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-918 songs - 2 day 1 hr 21 min
+920 songs - 2 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Snow](https://open.spotify.com/track/0mxbKFPnLLZaSxRZuubdPu) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Snow](https://open.spotify.com/album/57aENVs14og7AO7IXFQpSO) | 3:15 | 2020-02-07 | 2021-05-12 |
 | [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 | 2022-10-07 | 2025-07-17 |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-06-12 |  |
+| [sober sally](https://open.spotify.com/track/4jOwRY5zgTCdcMkPOqSTIF) | [isobel](https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA), [kidlucky](https://open.spotify.com/artist/0RZtAmDno2JtPGBCfUjUOy) | [sober sally](https://open.spotify.com/album/3txhhOkzDQ4UC1xhpv1bMT) | 2:26 | 2026-11-09 |  |
 | [Solitude](https://open.spotify.com/track/31AuJaUuJV7LI0grZeJM1y) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Solitude](https://open.spotify.com/album/6uhLzJ1bQ7BvavKtMl57DV) | 2:58 | 2019-08-27\* | 2021-12-04 |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 | 2025-08-27 |
 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 | 2021-06-12 | 2024-10-10 |
@@ -871,6 +872,7 @@
 | [Want You Back](https://open.spotify.com/track/47ZgtovCo5c8I5QqAtXKiy) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Want You Back](https://open.spotify.com/album/0E5rDybP5sO4st8biXaOo3) | 3:03 | 2025-09-19 |  |
 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 | 2021-05-08 | 2025-07-17 |
 | [War Is Love](https://open.spotify.com/track/786Lp156fjnJQOW6OxGre1) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [War Is Love](https://open.spotify.com/album/3LrEoKNF8CswuzeE2FcGxu) | 4:00 | 2023-04-21 | 2025-07-17 |
+| [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 | 2026-11-09 |  |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2025-08-27 |
 | [Waves](https://open.spotify.com/track/53xhyrYyJMNylCQFJQgbCY) | [Jamyang](https://open.spotify.com/artist/5SqfYCWuVR4Cc2FGFYY2Tw) | [Waves](https://open.spotify.com/album/6kGWiXF2tpr7sCz1Ap1hFb) | 3:55 | 2022-10-14 | 2025-08-27 |
 | [Ways To Go \(feat\. Khalid\)](https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [12 Notes](https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj) | 2:34 | 2024-05-10 | 2025-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,659 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,657 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 7 | [GHOST!](https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3) | 3:51 |
 | 8 | [CHAINSAW MAN](https://open.spotify.com/track/25T1AENlMKuE1mk4kvGXtu) | [DRYFTKYNG](https://open.spotify.com/artist/4jY4uOyAxQE8OnoUam1DsB) | [CHAINSAW MAN](https://open.spotify.com/album/3MNuF5RHDJbqMUVFKJ1fs2) | 2:05 |
 | 9 | [808s and Goth Bitches](https://open.spotify.com/track/3pZEHc6Y0ohhixQKQeaHN9) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [808s and Goth Bitches](https://open.spotify.com/album/3L2N0JqbrsfU8mP04pe9qG) | 2:20 |
-| 10 | [sasuke uchiha.exe](https://open.spotify.com/track/0tMZiTEmeHj5uaTVEQwW9b) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq) | [sasuke uchiha.exe](https://open.spotify.com/album/2P8iJlrnyiHgn8CxbTKgkm) | 2:05 |
+| 10 | [SASUKE UCHIHA!](https://open.spotify.com/track/0tMZiTEmeHj5uaTVEQwW9b) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq) | [SASUKE UCHIHA!](https://open.spotify.com/album/2P8iJlrnyiHgn8CxbTKgkm) | 2:05 |
 | 11 | [Counterfeit](https://open.spotify.com/track/4Rld0QlUDeQiRaN8rNBmUO) | [Crooked Royals](https://open.spotify.com/artist/0J7GkwIuZsv0bzCBKeSziA) | [Counterfeit](https://open.spotify.com/album/0eewaYXd9uDSXr9lOLkmwg) | 2:41 |
 | 12 | [BxMxC](https://open.spotify.com/track/2HEM4wcGP2nFT1Z2i6jtvo) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BxMxC](https://open.spotify.com/album/3JmyTTW7j2dlYF5sj9KniK) | 3:03 |
 | 13 | [Akudama](https://open.spotify.com/track/3coeo9H305LiuDbXXn9ANe) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [A Quiet Place to Die](https://open.spotify.com/album/5lhJd031Bu6j42O8wnXWIc) | 2:37 |

@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "THE VOID",
+        "url": "https://open.spotify.com/album/6k0ppS67Skg7t6I3KhHZvm"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "are you downtown tonight?",
+      "url": "https://open.spotify.com/track/5liiqgxipWHtcleD5dkHTM"
+    },
+    {
+      "album": {
         "name": "Winnetka Bowling League",
         "url": "https://open.spotify.com/album/4tqrJS2IlHBXKMLLb6lx8T"
       },
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 230000,
       "name": "Big City",
       "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
@@ -5288,7 +5306,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 221624,
       "name": "Craving",
       "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
@@ -6070,7 +6088,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 292200,
       "name": "Don't Go Dark",
       "url": "https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O"
@@ -7010,7 +7028,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 167750,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/7iw9cLtkxLkZgHghAIp33A"
@@ -8952,7 +8970,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 219440,
       "name": "Ghost Hotel",
       "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
@@ -10440,7 +10458,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 180952,
       "name": "Home",
       "url": "https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR"
@@ -11114,7 +11132,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 193216,
       "name": "i hope you know",
       "url": "https://open.spotify.com/track/3J32FbwHUIfjEWmIg31u76"
@@ -14382,7 +14400,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 163619,
       "name": "Love Is Complicated",
       "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
@@ -18040,7 +18058,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 176250,
       "name": "Outta This Town",
       "url": "https://open.spotify.com/track/1XB5f0zAlslSQcYflH1il3"
@@ -20934,7 +20952,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 222197,
       "name": "someone like you",
       "url": "https://open.spotify.com/track/2ThYeivZiz0QOHZTBiJSat"
@@ -22008,7 +22026,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/5QTDDCZytU2evkFhaMSYus"
@@ -23084,7 +23102,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 178909,
       "name": "the movies",
       "url": "https://open.spotify.com/track/1NrcGaE2wOg1lYtNIxLa07"
@@ -23894,7 +23912,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 273509,
       "name": "To The Blue",
       "url": "https://open.spotify.com/track/4vzs8fYH9GV7UqnSH6AaGV"
@@ -24194,7 +24212,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 176365,
       "name": "tv shows",
       "url": "https://open.spotify.com/track/3fcMn1jCLiBRuFqfwkrjkX"
@@ -24212,7 +24230,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 276956,
       "name": "Twenty Something",
       "url": "https://open.spotify.com/track/6Wz9rIfo9tOBcVCd1Mo7F7"

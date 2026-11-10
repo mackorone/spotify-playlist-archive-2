@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Santi
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,128 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,210 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 36 | [Water](https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [All Hail Muyeez](https://open.spotify.com/album/050lle0DRA4195Robnvk2l) | 2:33 |
 | 37 | [Do Better](https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Do Better](https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u) | 2:42 |
 | 38 | [Round One \(Elle Mummy\)](https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Round One \(Elle Mummy\)](https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX) | 2:26 |
-| 39 | [Lalakula](https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Lalakula](https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k) | 2:32 |
-| 40 | [Shuperu](https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:49 |
+| 39 | [Shuperu](https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:49 |
+| 40 | [Lalakula](https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Lalakula](https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k) | 2:32 |
 | 41 | [Allonsy](https://open.spotify.com/track/134ATgu95x349r7c83DWO5) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allonsy](https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs) | 2:02 |
 | 42 | [CTRL](https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [CTRL](https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7) | 2:24 |
 | 43 | [Tease Me](https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [B4SAVEME](https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt) | 2:00 |
 | 44 | [Iskolodo](https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:36 |
 | 45 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
-| 46 | [Eyes On Me](https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:47 |
-| 47 | [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 |
+| 46 | [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 |
+| 47 | [Eyes On Me](https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:47 |
 | 48 | [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 |
 | 49 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
 | 50 | [Come Back Home](https://open.spotify.com/track/76bJuqprGVU6gHFqw1rjMu) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Come Back Home](https://open.spotify.com/album/79CXyWncscwC0nExbi0w22) | 2:35 |

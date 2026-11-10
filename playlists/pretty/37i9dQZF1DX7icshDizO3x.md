@@ -2,42 +2,40 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 ### [On Tour Japan: Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DX7icshDizO3x)
 
-> \[LIVE Blu\-ray『Stray Kids World Tour ＜dominATE JAPAN＞』発売記念\] 静岡エコパスタジアム公演でのセットリストを公開！
+> 「Stray Kids World Tour ＜RUN IT JAPAN＞」のセットリストをスペシャルメッセージとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,759 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,671 likes - 29 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MOUNTAINS](https://open.spotify.com/track/6jTOFMDc15rrTj9ZN0b7eN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:07 |
-| 2 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 |
-| 3 | [JJAM](https://open.spotify.com/track/4KRgLn8XQmriYbqY0PX9eC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:05 |
+| 1 | [Message from Stray Kids](https://open.spotify.com/track/5NF2mu6qy1Q4MOGsPa9Ut7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Message from Stray Kids](https://open.spotify.com/album/2UCj8UjR40ryllSRI29Bk4) | 0:58 |
+| 2 | [Hall of Fame](https://open.spotify.com/track/5MgUrkWwWmG88ZJoekItxo) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 2:51 |
+| 3 | [Hellevator](https://open.spotify.com/track/77B96OF6qhdVTjzLZWCn0O) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:59 |
 | 4 | [District 9](https://open.spotify.com/track/6SoVSL2pw4HGMWLB24Eyrm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:33 |
-| 5 | [Back Door](https://open.spotify.com/track/3KUGAgxo3b81X5bWoOp0U8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI) | 3:09 |
-| 6 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 |
-| 7 | [DOMINO](https://open.spotify.com/track/6h9xMouzZfgzhfAJJnVoZz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:18 |
-| 8 | [God's Menu](https://open.spotify.com/track/0oWusldermKl7MdzF2XQTj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/0UNe68TUKuA57Xo0QrHliu) | 2:47 |
-| 9 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/66yecHTxgtWpRPqnLPSfVM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 3:15 |
-| 10 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/1qpIvbvH6qdeIclH8exaQA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 2:53 |
-| 11 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/3azJdRk8qSuApz5irmde3R) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 3:11 |
-| 12 | [CINEMA \(Lee Know & Seungmin\)](https://open.spotify.com/track/62gh6CJh4UgCKhb0UVOgNf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 3:41 |
-| 13 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 |
-| 14 | [Walkin On Water](https://open.spotify.com/track/4YPF8kjq2Q9hVzOwBjM2vg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:28 |
-| 15 | [S\-Class](https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:15 |
-| 16 | [Hollow](https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT) | 3:29 |
-| 17 | [Lonely St.](https://open.spotify.com/track/0KtKaZ0jNXOrHb3OxeXz9A) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:44 |
-| 18 | [Cover Me](https://open.spotify.com/track/3JANGirqYxKdxjh55Lj1a9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:11 |
-| 19 | [TOPLINE](https://open.spotify.com/track/2OQ30nbqnapjoMlcxKIAJu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:23 |
-| 20 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 |
-| 21 | [LALALALA](https://open.spotify.com/track/79f5CcWzdkkDVD4XAIQgKr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:02 |
-| 22 | [MEGAVERSE](https://open.spotify.com/track/3USu1p2lKTzoKFIRDeeJf8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:05 |
-| 23 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 |
-| 24 | [SUPER BOARD](https://open.spotify.com/track/4lcJyn1TIlgyx9pdq78Gfg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:05 |
-| 25 | [I Like It](https://open.spotify.com/track/3YBjR4X2CXbUcbpFTPSfSk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 |
-| 26 | [My Pace](https://open.spotify.com/track/395rNeuO1Eqmc1dai4K83p) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:10 |
-| 27 | [BLIND SPOT](https://open.spotify.com/track/4PV7XCf0Kts7mWu4KPbi56) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:20 |
-| 28 | [Stray Kids](https://open.spotify.com/track/5XugsQp25XnhxN9v5QUS5s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:09 |
+| 5 | [Side Effects](https://open.spotify.com/track/1fgWj3ZDNneYCknBevuQ6r) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:15 |
+| 6 | [Double Knot](https://open.spotify.com/track/4lUo3Flgcylcq2JRRTeCzy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:11 |
+| 7 | [Back Door](https://open.spotify.com/track/3KUGAgxo3b81X5bWoOp0U8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI) | 3:09 |
+| 8 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 |
+| 9 | [God's Menu](https://open.spotify.com/track/0oWusldermKl7MdzF2XQTj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/0UNe68TUKuA57Xo0QrHliu) | 2:47 |
+| 10 | [CREED](https://open.spotify.com/track/76GnA27I7WemuQ4Qg6k2z2) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:41 |
+| 11 | [SLASH \(From Deadpool & Wolverine \)](https://open.spotify.com/track/4vzgKCxeHecT98TgQQN0qM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From Deadpool & Wolverine \)](https://open.spotify.com/album/4saEL9wBL0FnOTR1Rsjts5) | 3:11 |
+| 12 | [DIVINE](https://open.spotify.com/track/7tvHcZM7GcXJQ1rKWuwRgp) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 3:07 |
+| 13 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 |
+| 14 | [just a little](https://open.spotify.com/track/60wxMzp43GS06tfG8ReRfI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3gWYgYUqqyz7BZgGiIGDql) | 4:06 |
+| 15 | [I Do](https://open.spotify.com/track/5YRtvhFxQFb9dhKMq2aprG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 2:53 |
+| 16 | [BLIND SPOT](https://open.spotify.com/track/4PV7XCf0Kts7mWu4KPbi56) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:20 |
+| 17 | [SUIATSU](https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SUIATSU](https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3) | 2:49 |
+| 18 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 |
+| 19 | [LALALALA](https://open.spotify.com/track/79f5CcWzdkkDVD4XAIQgKr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:02 |
+| 20 | [CEREMONY \(Hip Hip Version \- English Version\)](https://open.spotify.com/track/5xbustCIyvtwKZwO6c6aL1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CEREMONY \(Celebrate Remixes\)](https://open.spotify.com/album/2XKft2dCXQNcXNoO0GQ6Vw) | 2:37 |
+| 21 | [Chk Chk Boom \-Japanese ver.\-](https://open.spotify.com/track/43RLe6WDgwld9uEAXSvVUW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:29 |
+| 22 | [S\-Class](https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:15 |
+| 23 | [RUN IT](https://open.spotify.com/track/0TKmgSDpF4BR4M6VuNR5Il) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:29 |
+| 24 | [Stray Kids](https://open.spotify.com/track/5XugsQp25XnhxN9v5QUS5s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:09 |
+| 25 | [Phoenix](https://open.spotify.com/track/6Z1JeQUpM632wzGxJ2eGfC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 3:02 |
+| 26 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/24c1YnlFKxrAPINd69UlLd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:13 |
+| 27 | [宿命](https://open.spotify.com/track/4VwkODja7853Fz1FWzp126) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3gWYgYUqqyz7BZgGiIGDql) | 3:00 |
+| 28 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 |
 | 29 | [MIROH](https://open.spotify.com/track/4rDHgjmRMYpuXc60VoTcaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:28 |
-| 30 | [Chk Chk Boom \(Festival Version\)](https://open.spotify.com/track/0pvWPyB7T0auonNDeNmyVa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:33 |
-| 31 | [FAM](https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:35 |
 
-Snapshot ID: `AAAAAM8bF7kcvzXcMOvs9hjaAUDxbX+b`
+Snapshot ID: `AAAAANTfNlbEM3App+ydzN65nCmyEe6z`

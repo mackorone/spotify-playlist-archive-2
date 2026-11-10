@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,145 likes - 42 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,162 likes - 42 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

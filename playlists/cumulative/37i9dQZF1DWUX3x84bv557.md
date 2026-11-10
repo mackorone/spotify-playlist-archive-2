@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Pommelien Thijs
 
-1,525 songs - 3 day 0 hr 54 min
+1,526 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [5 Weken](https://open.spotify.com/track/3z4SfCpG6tg6OBqqvwCICq) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [5 Weken](https://open.spotify.com/album/7B55bsmbHHOrKIyAs8QJSP) | 2:54 | 2026-10-15 |  |
 | [6 Ballonnen](https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:49 | 2024-10-08 | 2024-10-11 |
 | [7 Maanden](https://open.spotify.com/track/7fPUAntzxh9gSaSRLXmE2y) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [7 Maanden](https://open.spotify.com/album/0rR80engsHwrzpyexED99M) | 2:09 | 2023-02-23 | 2023-05-12 |
+| [7 Minuten](https://open.spotify.com/track/1k0Dhhqj9ahO2yR9sdmmg2) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [DWARS](https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S) | 3:35 | 2026-11-09 |  |
 | [A12](https://open.spotify.com/track/1Ebwz3WncsNCnK2X3BhfWg) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [A12](https://open.spotify.com/album/1sQThsHCsZxdBU8uKvjiiT) | 2:29 | 2026-03-19 | 2026-06-12 |
 | [Aan](https://open.spotify.com/track/5Yoe79keJ0xoIeYC4I9HLK) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Aan](https://open.spotify.com/album/6bcsjxw1agsRZeWfGCFVvk) | 2:38 | 2023-02-23 | 2023-06-09 |
 | [Aan Vakantie Toe](https://open.spotify.com/track/0zy7nv9DfbpWnNgQFzKiMq) | [Sick & Nimon](https://open.spotify.com/artist/78oo3JI8z5VDA8voOrA0Tl), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Aan Vakantie Toe](https://open.spotify.com/album/4onWLoRGEa7joTr8apOuXg) | 2:09 | 2023-07-27 | 2023-09-15 |
@@ -1244,7 +1245,7 @@
 | [Terug In M'n Armen](https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:27 | 2023-05-09 | 2023-08-18 |
 | [Terug Naar Daar Waar De Zon Scheen](https://open.spotify.com/track/3TVjFBmMBHig54PN1JcRQz) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Terug Naar Daar Waar De Zon Scheen](https://open.spotify.com/album/6pGl5ODtnmQGoJL0BcGPjO) | 3:00 | 2024-03-28 | 2024-04-12 |
 | [Terug Naar Huis](https://open.spotify.com/track/43NlqymyGXzfh1RJA5zxHJ) | [Baggio](https://open.spotify.com/artist/5MOK1V3sHO0zHwVjzBrZhT) | [Terug Naar Huis](https://open.spotify.com/album/5W0tOrxrXIlYI0NC9b9kB2) | 2:34 | 2023-07-27 | 2023-08-18 |
-| [Terug Naar Toen](https://open.spotify.com/track/5F96zcYJqIuBbKikZxeueb) | [Liv Webbers](https://open.spotify.com/artist/74he4SuOzyeqs99TYxvXcT) | [Terug Naar Toen](https://open.spotify.com/album/1KEsesYvD9y0anfFbbNMgK) | 2:25 | 2026-10-08 |  |
+| [Terug Naar Toen](https://open.spotify.com/track/5F96zcYJqIuBbKikZxeueb) | [Liv Webbers](https://open.spotify.com/artist/74he4SuOzyeqs99TYxvXcT) | [Terug Naar Toen](https://open.spotify.com/album/1KEsesYvD9y0anfFbbNMgK) | 2:25 | 2026-10-08 | 2026-11-10 |
 | [Terugweg](https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Terugweg](https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii) | 2:43 | 2023-02-23 | 2023-05-19 |
 | [Teveel Is Niet Genoeg](https://open.spotify.com/track/2yFAJ5JEKQ0msRjrYc7Fw3) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Teveel Is Niet Genoeg](https://open.spotify.com/album/3IcpCBmUs6zX19sMv9Xdgj) | 2:56 | 2026-08-13 | 2026-10-23 |
 | [That’s Life](https://open.spotify.com/track/3dhJ95PwhjILl4ubUUJ3GW) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [That’s Life](https://open.spotify.com/album/51LOKi2MGxL2zz7CABENn9) | 2:50 | 2025-04-03 | 2025-05-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 181559,
+  "num_followers": 181553,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABLItMxLBbteNeWTBwmnv6a",
+  "snapshot_id": "au+7gAAAAABxBGiL8ZLKQfm9hy+R7DzP",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Como Es Que Se Hace",
-      "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 270173,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Como Es Que Se Hace",
+      "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E"
     },
     {
       "added_at": null,

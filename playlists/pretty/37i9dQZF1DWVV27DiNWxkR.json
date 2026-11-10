@@ -1,6 +1,6 @@
 {
   "description": "The premier indie melancholia playlist, featuring Phoebe Bridgers",
-  "num_followers": 1979482,
+  "num_followers": 1979343,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-10-15 18:29:42",
       "album": {
-        "name": "a couple minutes out",
-        "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 206022,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
-    },
-    {
-      "added_at": "2026-10-15 18:29:42",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2026-10-15 18:29:42",
+      "album": {
+        "name": "a couple minutes out",
+        "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 206022,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
     },
     {
       "added_at": "2026-10-15 18:29:42",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-10-15 18:29:42",
       "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2026-10-15 18:29:42",
-      "album": {
         "name": "Faye Webster",
         "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
+      "added_at": "2026-10-15 18:29:42",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
       "added_at": "2026-10-15 18:29:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Linked Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 8008,
+  "num_followers": 8007,
   "original_name": "This Is Linked Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADxPHL7B1N+JkCCI0ieAUKd",
+  "snapshot_id": "au+7gAAAAABTmzET4Dhd19VdTHrAgAsP",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 315255,
-      "name": "\u96db\u9ce5 - Vocalized Version",
-      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
+      "duration_ms": 311013,
+      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
+      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 327040,
-      "name": "Nikagetsugo no Kimi e",
-      "url": "https://open.spotify.com/track/7IMuezAZparajKkgkCMalN"
+      "duration_ms": 319253,
+      "name": "\u5f7c\u5973\u306f\u51b7\u305f\u3044\u68fa\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/3mo7ekUP32oYKKfE1pv7DS"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 311013,
-      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
-      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
+      "duration_ms": 315255,
+      "name": "\u96db\u9ce5 - Vocalized Version",
+      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
     },
     {
       "added_at": null,

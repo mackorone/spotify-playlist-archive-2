@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,509 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,507 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 25 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 |
 | 26 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
 | 27 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 |
-| 28 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
-| 29 | [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 |
+| 28 | [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 |
+| 29 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 30 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
-| 31 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
-| 32 | [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 |
-| 33 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
-| 34 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
+| 31 | [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 |
+| 32 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
+| 33 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
+| 34 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
 | 35 | [Our Past Lives](https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 3:45 |
 | 36 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
 | 37 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 70 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
 | 71 | [Cricket Songs](https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP) | [Phantom Handshakes](https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo) | [Cricket Songs](https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM) | 3:50 |
 | 72 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
-| 73 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 |
-| 74 | [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 |
+| 73 | [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 |
+| 74 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 |
 | 75 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
 | 76 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
 | 77 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
 | 78 | [Blue Arcade](https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Blue Arcade](https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd) | 3:37 |
-| 79 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 |
-| 80 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
+| 79 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
+| 80 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 |
 
 Snapshot ID: `AAAAAD8Ico1a52vZYF1nZR8pGtazJ/k2`

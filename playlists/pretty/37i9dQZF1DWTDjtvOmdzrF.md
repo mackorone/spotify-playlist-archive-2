@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,639 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,610 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 36 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |
 | 37 | [Mesra\-mesraannya kecil\-kecilan dulu](https://open.spotify.com/track/3TW8XLF8PyA3kFsV1l5713) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:29 |
 | 38 | [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 |
-| 39 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
+| 39 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 40 | [Mendarah](https://open.spotify.com/track/75OokMC3JzPnRNXcLTAKdr) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 4:02 |
-| 41 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
+| 41 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
 | 42 | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP) | [Amigdala](https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk) | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ) | 5:17 |
 | 43 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 |
 | 44 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 60 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 |
 | 61 | [I Still Love You](https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Cek Toko Sebelah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe) | 4:46 |
 | 62 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
-| 63 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
-| 64 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/69kihYAcQNLmqq6uJWulyP) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
+| 63 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/69kihYAcQNLmqq6uJWulyP) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
+| 64 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
 | 65 | [Kau Cantik Hari Ini](https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr) | [Lobow](https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib) | [Terus Bersinar](https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG) | 4:44 |
 | 66 | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu) | 3:52 |
 | 67 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 70 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 |
 | 71 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 |
 | 72 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 |
-| 73 | [Pupus](https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Cerita Hanin Dhiya](https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH) | 3:54 |
-| 74 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
+| 73 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
+| 74 | [Pupus](https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Cerita Hanin Dhiya](https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH) | 3:54 |
 | 75 | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v) | 3:49 |
 
 Snapshot ID: `AAAAAJKsPtdNfouBa5uwBqkaFrq8wnO6`

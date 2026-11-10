@@ -1,6 +1,6 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 6684235,
+  "num_followers": 6683914,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+    },
+    {
+      "added_at": "2026-10-23 04:01:24",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2026-10-23 04:01:24",
-      "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 110886,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
+    },
+    {
+      "added_at": "2026-10-23 04:01:24",
+      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
-    },
-    {
-      "added_at": "2026-10-23 04:01:24",
-      "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 110886,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -991,30 +991,6 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
-    },
-    {
-      "added_at": "2026-10-23 04:01:24",
-      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -1055,18 +1031,26 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
       "artists": [
         {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -1119,6 +1099,26 @@
       "duration_ms": 236160,
       "name": "So Far So Fake",
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
+    },
+    {
+      "added_at": "2026-10-23 04:01:24",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2026-10-23 04:01:24",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2026-10-23 04:01:24",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
-    },
-    {
-      "added_at": "2026-10-23 04:01:24",
-      "album": {
         "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
       },
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
-        "name": "RHYNO (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 180000,
-      "name": "RHYNO (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -1627,6 +1607,26 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "added_at": "2026-10-23 04:01:24",
+      "album": {
+        "name": "RHYNO (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "RHYNO (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "added_at": "2026-10-23 04:01:24",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-10-23 04:01:24",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2026-10-23 04:01:24",
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "added_at": "2026-10-23 04:01:24",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2026-10-23 04:01:24",

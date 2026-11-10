@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "You're Under Arrest (Remixes)",
+        "url": "https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You're Under Arrest",
+      "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
+    },
+    {
+      "album": {
         "name": "\u96ea\u660e\u304b\u308a (Yukiakari)",
         "url": "https://open.spotify.com/album/6Y72DbWH9RBBVh8XNIGY16"
       },

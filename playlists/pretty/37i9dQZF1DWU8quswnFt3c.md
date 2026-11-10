@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Thoom from Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,789 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,664 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [te odio](https://open.spotify.com/track/2xyCkGYkYIrbi5JwzCjcH8) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/6j7QHBlPi3gdLeMOqiTZAT) | 2:50 |
 | 29 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
 | 30 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
-| 31 | [Bottle](https://open.spotify.com/track/46qTAm0OtOb9xhXoftlyCT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:18 |
-| 32 | [DUSTY](https://open.spotify.com/track/5mllbepsjuNZPax6LX1tuW) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DUST](https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV) | 3:00 |
-| 33 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
+| 31 | [DUSTY](https://open.spotify.com/track/5mllbepsjuNZPax6LX1tuW) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DUST](https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV) | 3:00 |
+| 32 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
+| 33 | [Bottle](https://open.spotify.com/track/46qTAm0OtOb9xhXoftlyCT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:18 |
 | 34 | [t escucho al pensar](https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:18 |
 | 35 | [Tiger Tiger](https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Bangs N Braces](https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt) | 2:45 |
 | 36 | [Que Culpa tengo Yo](https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Que Culpa tengo Yo](https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv) | 3:11 |

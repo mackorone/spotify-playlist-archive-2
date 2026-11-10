@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,024 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,028 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Regret \(feat\. 2Baba\)](https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:14 |
 | 2 | [If Love Is A Crime](https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:29 |
 | 3 | [Street Credibility](https://open.spotify.com/track/74BCbm03x3JamvFUAEcVGH) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gongo Aso](https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3) | 4:48 |
-| 4 | [Mental](https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Mental](https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS) | 2:46 |
-| 5 | [African Queen](https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:22 |
+| 4 | [African Queen](https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:22 |
+| 5 | [Mental](https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Mental](https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS) | 2:46 |
 | 6 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 |
 | 7 | [Only Me](https://open.spotify.com/track/3CfjVXBuaco9qwbTab6sxG) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 3:49 |
 | 8 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 42 | [Nwa Baby](https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 3:30 |
 | 43 | [Thank U Lord](https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:27 |
 | 44 | [Officially Blind](https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Officially Blind](https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9) | 3:07 |
-| 45 | [Feeling You](https://open.spotify.com/track/1l8UZotTBOynkYGEPW0WEa) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:22 |
-| 46 | [Ashewo](https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 3:04 |
-| 47 | [Iworiwo](https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Iworiwo](https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel) | 4:02 |
+| 45 | [Outside](https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 3:56 |
+| 46 | [Iworiwo](https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Iworiwo](https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel) | 4:02 |
+| 47 | [Ashewo](https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 3:04 |
 | 48 | [Hate What You Do To Me](https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Ascension](https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ) | 3:54 |
-| 49 | [Outside](https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 3:56 |
-| 50 | [Dance Floor](https://open.spotify.com/track/0viLDN2HnFEMJXgUnIaoWp) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:13 |
+| 49 | [Feeling You](https://open.spotify.com/track/1l8UZotTBOynkYGEPW0WEa) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:22 |
 
-Snapshot ID: `au5qAAAAAAAzAZ1O9LVSHk8K6DSiYbS0`
+Snapshot ID: `au+7gAAAAADUKEgziHLBCIC3dMCzQKW4`

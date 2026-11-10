@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,144 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,162 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 86 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 87 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
 | 88 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
-| 89 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
-| 90 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
+| 89 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
+| 90 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
 | 91 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
 | 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
 | 93 | [My Love Took Me Down To The River To Silence Me](https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 5:00 |
-| 94 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/5t8OscU60DLybml2sjwhri) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The System Only Dreams in Total Darkness](https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9) | 3:56 |
-| 95 | [Deliverance](https://open.spotify.com/track/5ADqP9XM6BSIqgSka1sGyt) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Deliverance](https://open.spotify.com/album/1Hk5Phd1AMnsPJ9yuFOkPj) | 3:50 |
+| 94 | [Deliverance](https://open.spotify.com/track/5ADqP9XM6BSIqgSka1sGyt) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Deliverance](https://open.spotify.com/album/1Hk5Phd1AMnsPJ9yuFOkPj) | 3:50 |
+| 95 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/5t8OscU60DLybml2sjwhri) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The System Only Dreams in Total Darkness](https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9) | 3:56 |
 | 96 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
 | 97 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
 | 98 | [Never Want To Be In Love](https://open.spotify.com/track/1KE6EibRsVW9ld2PrTGfnd) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Never Want To Be In Love](https://open.spotify.com/album/3DF99BmBkxpdyh2zPmYuTH) | 3:33 |

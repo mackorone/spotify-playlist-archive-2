@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,522 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,538 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 8 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 9 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
 | 10 | [Tell Me](https://open.spotify.com/track/581KISzBIATjlONj5MbPQe) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 3:51 |
-| 11 | [Take It As It Is](https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Take It As It Is](https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3) | 4:49 |
-| 12 | [Stoned and Starving](https://open.spotify.com/track/2YpKV2BEmWBLIGEHBXrv0N) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold](https://open.spotify.com/album/6NpTqYfk9dZfMbSbaHYNtP) | 5:11 |
+| 11 | [Stoned and Starving](https://open.spotify.com/track/2YpKV2BEmWBLIGEHBXrv0N) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold](https://open.spotify.com/album/6NpTqYfk9dZfMbSbaHYNtP) | 5:11 |
+| 12 | [Take It As It Is](https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Take It As It Is](https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3) | 4:49 |
 | 13 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
 | 14 | [Like Exploding Stones](https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 7:18 |
 | 15 | [Come Again](https://open.spotify.com/track/23UmwWszk53DqTksWWAlTa) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Wowed Out](https://open.spotify.com/album/65AADj5uYQYxQYxuXHfl9e) | 3:28 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 19 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 |
 | 20 | [Nothing Ever Happened](https://open.spotify.com/track/0Q2vqScvfcZOmxoXlW4p0V) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Microcastle](https://open.spotify.com/album/4wJ585ippGitIpRcGs1GD7) | 5:50 |
 | 21 | [Honey](https://open.spotify.com/track/7oCgYtZkRPGwqGIon03DyX) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Hard Hearted Woman](https://open.spotify.com/album/1r3wE07afZnLGbikNXDt3X) | 4:26 |
-| 22 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
-| 23 | [Goodbye Summer](https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Shannon In Nashville](https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt) | 2:43 |
+| 22 | [Goodbye Summer](https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Shannon In Nashville](https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt) | 2:43 |
+| 23 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
 | 24 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
 | 25 | [Little White Dove](https://open.spotify.com/track/6GmpADghIK0gLem1FS2VGJ) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:49 |
 | 26 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |

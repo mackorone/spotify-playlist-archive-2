@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,518 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,531 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 16 | [fuck this town](https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fuck this town](https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26) | 1:55 |
 | 17 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 |
 | 18 | [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:01 |
-| 19 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 |
-| 20 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
+| 19 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
+| 20 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 |
 | 21 | [heather](https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:51 |
 | 22 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
 | 23 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |

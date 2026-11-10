@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 146461,
+  "num_followers": 146469,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABGEio9A5KUHImeFTPKUl9N",
+  "snapshot_id": "au+7gAAAAAD3CA/Mh8xaCwXHvi4diGSV",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "Lo Que Es",
+      "url": "https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 138432,
       "name": "Cosas De La Clica (feat. Legado 7)",
       "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait",
-        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "Lo Que Es",
-      "url": "https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Capitan Del Barco",
+      "url": "https://open.spotify.com/track/4FMd1bWKZXcyQi9iBiuqYN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL KARMA",
         "url": "https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 171749,
       "name": "EL KARMA",
       "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait",
-        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Capitan Del Barco",
-      "url": "https://open.spotify.com/track/4FMd1bWKZXcyQi9iBiuqYN"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Ultimos Son Los Primeros",
         "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 153384,
       "name": "No Me Preocupo Tanto",
       "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
-        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/0uCptU5AmxgXn3yUVHG35z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 207293,
       "name": "Los Ultimos Son Los Primeros (Remix)",
       "url": "https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
-        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/0uCptU5AmxgXn3yUVHG35z"
     },
     {
       "added_at": null,

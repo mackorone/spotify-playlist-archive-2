@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1670892,
+  "num_followers": 1670759,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 204453,
       "name": "Trick To Happy",
       "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Faith Crisis Pt 1",
-        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Sorry Now",
-        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Bad Religion / A Pair Of Brown Eyes",
         "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 260760,
       "name": "Bad Religion",
       "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Sorry Now",
+        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
+        "name": "Excalibur / Toy",
+        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 250976,
       "name": "Sweet Lucy",
       "url": "https://open.spotify.com/track/567Df0jSPeshvSIpU5TEZ9"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
-        "name": "Excalibur / Toy",
-        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Excalibur",
-      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
     },
     {
       "added_at": "2026-04-20 20:08:42",

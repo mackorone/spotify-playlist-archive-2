@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,626 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,618 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
 | 50 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
 
-Snapshot ID: `au0YgAAAAABdf1IgxMWatBgkcaFCN+bZ`
+Snapshot ID: `au+7gAAAAADzu+vDA9wPvGCfvhjfoCkl`

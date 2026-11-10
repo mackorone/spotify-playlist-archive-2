@@ -5765,6 +5765,24 @@
     },
     {
       "album": {
+        "name": "Mother Never Told You",
+        "url": "https://open.spotify.com/album/6ANa4M1uNSlApKIEJ5rYlB"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179881,
+      "name": "Mother Never Told You",
+      "url": "https://open.spotify.com/track/0dyMMaFJW1vHSPTqUvv7VY"
+    },
+    {
+      "album": {
         "name": "Only Revolutions",
         "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
       },

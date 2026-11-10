@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 646905,
+  "num_followers": 646901,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -311,30 +311,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Turn The Lights Off",
-        "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
-      },
-      "artists": [
-        {
-          "name": "Just\u0117",
-          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
-        },
-        {
-          "name": "Jaxstyle",
-          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
-        }
-      ],
-      "duration_ms": 162717,
-      "name": "Turn The Lights Off",
-      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -355,6 +331,30 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "duration_ms": 162717,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 163783,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
+        "name": "Als du gingst (edit)",
+        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
+      },
+      "artists": [
+        {
+          "name": "Contec",
+          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
+        },
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        }
+      ],
+      "duration_ms": 239019,
+      "name": "Als du gingst - edit",
+      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
         "name": "Have You Ever Seen The Rain",
         "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
       },
@@ -987,22 +1007,18 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Als du gingst (edit)",
-        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
+        "name": "Biertornado",
+        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
       "artists": [
         {
-          "name": "Contec",
-          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
-        },
-        {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+          "name": "PA69",
+          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
         }
       ],
-      "duration_ms": 239019,
-      "name": "Als du gingst - edit",
-      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
+      "duration_ms": 218417,
+      "name": "Biertornado",
+      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1023,22 +1039,6 @@
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
-        "name": "Biertornado",
-        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
-      },
-      "artists": [
-        {
-          "name": "PA69",
-          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
-        }
-      ],
-      "duration_ms": 218417,
-      "name": "Biertornado",
-      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
-        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 136551,
-      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
-      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
         }
       ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+      "duration_ms": 136551,
+      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
         "name": "Bar Song (Tipsy Techno)",
         "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 135242,
       "name": "Bar Song (Tipsy Techno)",
       "url": "https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "LEBKUCHENHERZ",
-        "url": "https://open.spotify.com/album/6d8qFx0U6qDU2EvvXTF9MH"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "2 Engel & Charlie",
-          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
-        }
-      ],
-      "duration_ms": 156768,
-      "name": "LEBKUCHENHERZ",
-      "url": "https://open.spotify.com/track/0QhRLYQ2N3KhkgOu2VfURs"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Meet Her At The Love Parade",
         "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 168800,
       "name": "Meet Her At The Love Parade",
       "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
+        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
+      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
     }
   ],
   "unique_name": "schiebt anders",

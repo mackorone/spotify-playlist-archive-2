@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1300157,
+  "num_followers": 1300186,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Date With A Dream",
-        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
-      },
-      "artists": [
-        {
-          "name": "Malene Mortensen",
-          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
-        }
-      ],
-      "duration_ms": 252081,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 278901,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "Date With A Dream",
+        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
+      },
+      "artists": [
+        {
+          "name": "Malene Mortensen",
+          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
+        }
+      ],
+      "duration_ms": 252081,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -727,6 +727,38 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
         "name": "Sweet Pumpkin",
         "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
       },
@@ -747,22 +779,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "The Best Of... The Great American Songbook",
         "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 192133,
       "name": "Long Ago And Far Away",
       "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "On Holiday",
         "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 285866,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
-      },
-      "artists": [
-        {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
-        }
-      ],
-      "duration_ms": 262920,
-      "name": "It Amazes Me",
-      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 272085,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+      },
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+        }
+      ],
+      "duration_ms": 262920,
+      "name": "It Amazes Me",
+      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
     },
     {
       "added_at": "2026-09-25 08:21:10",

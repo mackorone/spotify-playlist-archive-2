@@ -1,6 +1,6 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 443941,
+  "num_followers": 443928,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-15 13:00:34",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
-    },
-    {
-      "added_at": "2026-10-15 13:00:34",
-      "album": {
         "name": "The Beatles (Remastered 2009)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2026-10-15 13:00:34",
+      "album": {
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "added_at": "2026-10-15 13:00:34",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
     },
     {
+      "added_at": "2026-10-22 23:43:00",
+      "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
+    },
+    {
       "added_at": "2026-10-15 13:00:34",
       "album": {
         "name": "A Rush of Blood to the Head",
@@ -879,22 +895,6 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
-    },
-    {
-      "added_at": "2026-10-22 23:43:00",
-      "album": {
-        "name": "Tom and Jerry",
-        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 231554,
-      "name": "Tom and Jerry",
-      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
     },
     {
       "added_at": "2026-10-15 13:00:34",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-10-15 13:00:34",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2026-10-15 13:00:34",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-10-15 13:00:34",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+      "duration_ms": 213760,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
     },
     {
       "added_at": "2026-10-15 13:00:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-15 13:00:34",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2026-10-15 13:00:34",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 134400,
       "name": "Never Going Back Again - 2004 Remaster",
       "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
+    },
+    {
+      "added_at": "2026-10-15 13:00:34",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2026-10-15 13:00:34",

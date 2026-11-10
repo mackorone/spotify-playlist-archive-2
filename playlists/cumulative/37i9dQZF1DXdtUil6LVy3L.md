@@ -4,7 +4,7 @@
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-150 songs - 7 hr 19 min
+152 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 | 2024-10-17 |  |
 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 | 2024-10-17 |  |
 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 | 2024-10-17 |  |
-| [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 | 2024-10-17 |  |
+| [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 | 2024-10-17 | 2026-11-10 |
 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 | 2024-10-17 | 2025-09-05 |
 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 | 2024-10-17 |  |
 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 | 2024-10-17 | 2025-09-05 |
@@ -76,7 +76,7 @@
 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 | 2024-10-17 | 2026-11-09 |
 | [Let it Snow](https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [This Time of Year](https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL) | 1:48 | 2026-11-06 |  |
 | [Listen To A Chant](https://open.spotify.com/track/2GOtcz0zPACJyNs6xT12op) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Listen To A Chant](https://open.spotify.com/album/2GKjk69ZnMOCoB3cEM0Ic6) | 2:48 | 2026-11-06 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 | 2024-10-17 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 | 2024-10-17 | 2026-11-10 |
 | [Little Saint Nick](https://open.spotify.com/track/3ZujkFo6UN8jihSZirvbWz) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Little Saint Nick](https://open.spotify.com/album/4N7C1nhf0lCBLoMVJEo80H) | 2:41 | 2024-12-05 | 2024-12-13 |
 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 | 2024-10-17 | 2025-09-05 |
 | [Lost in the Stars](https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Lost in the Stars](https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7) | 3:25 | 2025-10-17 |  |
@@ -114,6 +114,7 @@
 | [The Boar's Head Carol](https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [The Boar's Head Carol](https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb) | 3:19 | 2025-10-17 |  |
 | [The Chipmunk Song](https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg) | 2:43 | 2024-10-17 | 2025-09-05 |
 | [The Christmas I Fell For You](https://open.spotify.com/track/5lYCdABg8ji35l57OWyTej) | [Gail Cameron](https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg) | [The Christmas I Fell For You](https://open.spotify.com/album/6sgyWLAhf8JAUT7nC7KquK) | 3:04 | 2026-11-06 |  |
+| [The Christmas Song](https://open.spotify.com/track/0J1HBjPpOOpB9iKSbvFi6n) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [The Christmas Song](https://open.spotify.com/album/6TxctcVc4GMhjXPGP8pWyt) | 3:36 | 2026-11-06 |  |
 | [The Christmas Song](https://open.spotify.com/track/0GV5Du6sVdokEA5Xd1Cs8a) | [Barry Snyder Band](https://open.spotify.com/artist/5xmw30TV4tlHFIOH6HmPnd) | [It's Christmas Jazz Time](https://open.spotify.com/album/5JR94Jt73E9NuIAWksIoKR) | 5:12 | 2024-10-17 | 2025-09-05 |
 | [The Christmas Song](https://open.spotify.com/track/4ns7ixAIalaaE9ukUDWZxL) | [Belleville Trio](https://open.spotify.com/artist/403HCrqfVGqA17ba6ulE5q) | [The Christmas Song](https://open.spotify.com/album/5oJL7v5SPjjpFxYpo00URm) | 3:40 | 2025-12-19 | 2026-11-07 |
 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 | 2024-10-17 |  |
@@ -146,6 +147,7 @@
 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 | 2024-10-17 |  |
 | [What Child Is This](https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [What Child Is This](https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3) | 2:44 | 2024-10-17 | 2024-12-06 |
 | [When Christmas Comes To Town](https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [When Christmas Comes To Town](https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO) | 3:29 | 2025-11-13 |  |
+| [When Christmas Falls Silent](https://open.spotify.com/track/1U4v0Iy6dyVSpOZoHqqIQp) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [When Christmas Falls Silent](https://open.spotify.com/album/4L32lmO7v5wyTxVNkxDU3t) | 3:01 | 2026-11-06 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2024-10-17 | 2024-12-06 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/1L6GnWMSzeNRQWQYmeITQV) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Let It Snow](https://open.spotify.com/album/0gIaPB4dF1Oxfxpm6DbvzS) | 2:25 | 2024-12-12 | 2024-12-21 |
 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 | 2024-10-17 | 2026-11-08 |

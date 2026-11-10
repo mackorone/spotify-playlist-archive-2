@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192246,
+  "num_followers": 192259,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Dubl\u00ea",
         "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 158105,
       "name": "Rude",
       "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Dissolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 119440,
-      "name": "Sem ter que me explicar",
-      "url": "https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "FORA DA LEI",
         "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 186396,
       "name": "FORA DA LEI",
       "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Dissolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 119440,
+      "name": "Sem ter que me explicar",
+      "url": "https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Deixa eu Te Amar",
+        "url": "https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8"
+      },
+      "artists": [
+        {
+          "name": "Drana",
+          "url": "https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 240326,
+      "name": "Deixa Eu Te Amar",
+      "url": "https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "SKY",
         "url": "https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 245952,
       "name": "COMO ELA FAZ",
       "url": "https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Deixa eu Te Amar",
-        "url": "https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8"
-      },
-      "artists": [
-        {
-          "name": "Drana",
-          "url": "https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 240326,
-      "name": "Deixa Eu Te Amar",
-      "url": "https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC"
     },
     {
       "added_at": "2026-11-06 16:01:03",

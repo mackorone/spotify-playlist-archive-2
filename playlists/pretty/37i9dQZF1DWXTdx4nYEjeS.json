@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 862248,
+  "num_followers": 862292,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-11-05 21:26:20",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Luna - En Vivo",
-      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
-    },
-    {
-      "added_at": "2026-11-05 21:26:20",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2026-11-05 21:26:20",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Luna - En Vivo",
+      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2026-11-05 21:26:20",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-11-05 21:26:20",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 336360,
-      "name": "Balada Del Diablo y La Muerte",
-      "url": "https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH"
-    },
-    {
-      "added_at": "2026-11-05 21:26:20",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 242932,
       "name": "Un Dia Perfecto",
       "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
+    },
+    {
+      "added_at": "2026-11-05 21:26:20",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 336360,
+      "name": "Balada Del Diablo y La Muerte",
+      "url": "https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH"
     },
     {
       "added_at": "2026-11-05 21:26:20",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-11-05 21:26:20",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
-    },
-    {
-      "added_at": "2026-11-05 21:26:20",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 266133,
       "name": "A Veces Vuelvo",
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+    },
+    {
+      "added_at": "2026-11-05 21:26:20",
+      "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2026-11-05 21:26:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-11-05 21:26:20",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2026-11-05 21:26:20",
-      "album": {
         "name": "Mordisco",
         "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 197000,
       "name": "19 (feat. Gustavo Cerati)",
       "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
+    },
+    {
+      "added_at": "2026-11-05 21:26:20",
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2026-11-05 21:26:20",

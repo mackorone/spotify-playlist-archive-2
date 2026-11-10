@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Fairy Pop",
+        "url": "https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199583,
+      "name": "Lucky Secret",
+      "url": "https://open.spotify.com/track/002moL8vrvcntzM73R4ath"
+    },
+    {
+      "album": {
         "name": "Supernal Dawn",
         "url": "https://open.spotify.com/album/4vdHr2Rv5zSPZslTpz0MyQ"
       },
@@ -1874,6 +1892,24 @@
       "duration_ms": 158706,
       "name": "Perfect Storm",
       "url": "https://open.spotify.com/track/42bP9LpXhB7Y749btV5Nug"
+    },
+    {
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/40XRXw5Z4QOzBMvTyE0GQi"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Cilmi",
+          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227854,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/09ytGGDddr11kR9lOY29MB"
     },
     {
       "album": {
@@ -2458,6 +2494,24 @@
       "duration_ms": 220952,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/6P4gHVZuGI2K1OnuvOTBjX"
+    },
+    {
+      "album": {
+        "name": "The Last Time",
+        "url": "https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo"
+      },
+      "artists": [
+        {
+          "name": "Immersed",
+          "url": "https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX"
     },
     {
       "album": {

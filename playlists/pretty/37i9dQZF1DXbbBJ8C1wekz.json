@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 197193,
+  "num_followers": 197264,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Rainha da Finesse",
-      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "10 Carros",
+        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "10 Carros",
+      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -1183,30 +1207,6 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "10 Carros",
-        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "10 Carros",
-      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1767,34 +1767,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
-        },
-        {
-          "name": "AmandesNoBeat",
-          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "T\u00e1 Eu e a Nicole",
-      "url": "https://open.spotify.com/track/55DFJBnyMKBteeKUl25zIB"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Melhor Dia: Dopamina",
         "url": "https://open.spotify.com/album/1U4rf44d0tsEqviaAKuu1m"
       },
@@ -1819,6 +1791,34 @@
       "duration_ms": 260129,
       "name": "Melhor Dia: Dopamina",
       "url": "https://open.spotify.com/track/78csEnL5LYOQc9eVITJTpu"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        },
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "T\u00e1 Eu e a Nicole",
+      "url": "https://open.spotify.com/track/55DFJBnyMKBteeKUl25zIB"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1871,6 +1871,30 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "PIR\u00c2MIDE",
+      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "Empate T\u00e9cnico",
         "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
       },
@@ -1903,50 +1927,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "CHTC?",
-        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
-      },
-      "artists": [
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "PIR\u00c2MIDE",
-      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Embalo",
         "url": "https://open.spotify.com/album/7gcHlsouDpaTaP1t03ajdj"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 185138,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2211,8 +2211,8 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "THE BOX MEDLEY 8",
-        "url": "https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk"
+        "name": "THE BOX MEDLEY 5",
+        "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
       },
       "artists": [
         {
@@ -2220,29 +2220,25 @@
           "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
         },
         {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
         },
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
         },
         {
-          "name": "MC Igu",
-          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
         }
       ],
-      "duration_ms": 293337,
-      "name": "THE BOX MEDLEY 8",
-      "url": "https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK"
+      "duration_ms": 189658,
+      "name": "THE BOX MEDLEY 5",
+      "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2339,8 +2335,8 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "THE BOX MEDLEY 5",
-        "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
+        "name": "THE BOX MEDLEY 8",
+        "url": "https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk"
       },
       "artists": [
         {
@@ -2348,25 +2344,29 @@
           "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
         },
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
         },
         {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         },
         {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         }
       ],
-      "duration_ms": 189658,
-      "name": "THE BOX MEDLEY 5",
-      "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
+      "duration_ms": 293337,
+      "name": "THE BOX MEDLEY 8",
+      "url": "https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2387,26 +2387,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Turma da Duq",
-        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 143202,
-      "name": "Turma da Duq",
-      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Franco, The Sir! On The Radar Freestyle",
         "url": "https://open.spotify.com/album/1n1VqHx9HS0ty0QnbhXBv4"
       },
@@ -2423,6 +2403,26 @@
       "duration_ms": 126433,
       "name": "Franco, The Sir! On The Radar Freestyle",
       "url": "https://open.spotify.com/track/28XT01pAGWnQTJrrGXcJh5"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Turma da Duq",
+        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 143202,
+      "name": "Turma da Duq",
+      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2483,30 +2483,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Reuni\u00e3o De Matuto",
-        "url": "https://open.spotify.com/album/2mHoPItlzud0E3NKyp4Uli"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Reuni\u00e3o De Matuto",
-      "url": "https://open.spotify.com/track/2Gy5gOqRd5gKlYGszVcckO"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Ordem do Mano",
         "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
@@ -2535,38 +2511,54 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Fazenda de Stream",
-        "url": "https://open.spotify.com/album/2tE9dEY8FJcOWpYd7cuwYw"
+        "name": "Reuni\u00e3o De Matuto",
+        "url": "https://open.spotify.com/album/2mHoPItlzud0E3NKyp4Uli"
       },
       "artists": [
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         },
         {
-          "name": "Scarp",
-          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
         }
       ],
-      "duration_ms": 341499,
-      "name": "Fazenda de Stream",
-      "url": "https://open.spotify.com/track/3QXa81ytaL2ZlK26KshU7k"
+      "duration_ms": 168960,
+      "name": "Reuni\u00e3o De Matuto",
+      "url": "https://open.spotify.com/track/2Gy5gOqRd5gKlYGszVcckO"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 263709,
+      "name": "Vetin",
+      "url": "https://open.spotify.com/track/3yJPPXZi4RINC7MC2cqYmR"
     }
   ],
   "unique_name": "Trap Classe",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADVoewRCi12eLJXQ2D3aghZ",
+  "snapshot_id": "au+7gAAAAABE+LkNtm57Ic/9ohMA7Erm",
   "tracks": [
     {
       "added_at": null,
@@ -206,11 +206,15 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 200400,
-      "name": "In & Out",
-      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+      "duration_ms": 223066,
+      "name": "Babygirl (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7"
     },
     {
       "added_at": null,
@@ -286,15 +290,11 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Babygirl (feat. Doechii)",
-      "url": "https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7"
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 197853,
-      "name": "Sew Me Back Together",
-      "url": "https://open.spotify.com/track/3GXhjB9dxqEwYqBH9GnDOp"
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3"
+      "duration_ms": 197853,
+      "name": "Sew Me Back Together",
+      "url": "https://open.spotify.com/track/3GXhjB9dxqEwYqBH9GnDOp"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
       "duration_ms": 239453,
       "name": "Lullabye",
       "url": "https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xtasy (Remix) [feat. Doechii]",
-        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 270497,
-      "name": "Xtasy (Remix) [feat. Doechii]",
-      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": null,
@@ -627,6 +607,26 @@
       "duration_ms": 183337,
       "name": "Settle Down (with Cory Henry, Ravyn Lenae)",
       "url": "https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163796,
-      "name": "Glo-Fi (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Crossroads",
         "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 212386,
       "name": "Don\u2019t Walk Away (feat. Jordan Ward & Ravyn Lenae)",
       "url": "https://open.spotify.com/track/2kxrJsFXKCUB3em2TWLG5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163796,
+      "name": "Glo-Fi (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
     },
     {
       "added_at": null,

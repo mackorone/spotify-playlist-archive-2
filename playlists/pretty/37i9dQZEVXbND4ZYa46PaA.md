@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,975 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,978 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 39 | [J'assume](https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [J'assume](https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G) | 2:58 |
 | 40 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 41 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
-| 42 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 |
+| 42 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 43 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 44 | [4](https://open.spotify.com/track/2IEzETw6a4UmDVw0j0hjJt) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker](https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn) | 2:20 |
 | 45 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [melodrama](https://open.spotify.com/track/55vPnuXfuzXNW75JpuSczF) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [on s'en rappellera pas](https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5) | 2:56 |
 | 50 | [Pocahontas](https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:48 |
 
-Snapshot ID: `MoQBwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MoVoWAAAAAAAAAAAAAAAAAAAAAAAAGVu`

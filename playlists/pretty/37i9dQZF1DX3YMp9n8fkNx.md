@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,802 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,880 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 40 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 |
 | 41 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 |
 | 42 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI) | 3:55 |
-| 43 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
-| 44 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 43 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 44 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
 | 45 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
 | 46 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
-| 47 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
-| 48 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
+| 47 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
+| 48 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
 | 49 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 50 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
 | 51 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 84 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
 | 85 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 |
 | 86 | [Laid](https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN) | 2:36 |
-| 87 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 |
-| 88 | [Naked Eye](https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2) | [Luscious Jackson](https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg) | [Fever In Fever Out](https://open.spotify.com/album/0GDMOxPfDWThpQJaGpJjqh) | 4:40 |
+| 87 | [Naked Eye](https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2) | [Luscious Jackson](https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg) | [Fever In Fever Out](https://open.spotify.com/album/0GDMOxPfDWThpQJaGpJjqh) | 4:40 |
+| 88 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 |
 | 89 | [Everything About You](https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [As Ugly As It Gets: The Very Best Of](https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj) | 4:15 |
 | 90 | [If You Could Only See](https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [A Casual Affair \- The Best Of Tonic](https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg) | 4:23 |
 | 91 | [Crazy for This Girl](https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd) | [Evan And Jaron](https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G) | [evan and jaron](https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy) | 3:22 |

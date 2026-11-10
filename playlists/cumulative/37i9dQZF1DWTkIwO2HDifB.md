@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: MC Ryan SP, DJ Glenner, Nego Trufa, MC Meno K, MC Lele JP, MC Jvilla
+> Os funks mais 🔑 do Brasil / Foto: MC JVila
 
 470 songs - 1 day 4 hr 15 min
 

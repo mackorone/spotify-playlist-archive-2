@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 13174,
+  "num_followers": 13190,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAC2nE2lQvrvyTbyQ9BJmxMm",
+  "snapshot_id": "au+7gAAAAAAa5Q65DCtqgSy0BWkm7dZD",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 132856,
       "name": "Kilo",
       "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
     },
     {
       "added_at": null,

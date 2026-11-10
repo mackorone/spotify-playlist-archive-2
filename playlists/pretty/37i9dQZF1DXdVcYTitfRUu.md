@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,053 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,058 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,12 +79,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 69 | [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 |
 | 70 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 |
 | 71 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
-| 72 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
+| 72 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 |
 | 73 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
-| 74 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 |
-| 75 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 |
-| 76 | [Be with U](https://open.spotify.com/track/0BSMFWQxVWlFG4dtw7QVpx) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [We Are All Trying Here \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1vuyFbNIp8V2MprNjev7Dz) | 3:49 |
-| 77 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 |
+| 74 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
+| 75 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 |
+| 76 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 |
+| 77 | [Be with U](https://open.spotify.com/track/0BSMFWQxVWlFG4dtw7QVpx) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [We Are All Trying Here \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1vuyFbNIp8V2MprNjev7Dz) | 3:49 |
 | 78 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 |
 | 79 | [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 |
 | 80 | [A Day](https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [EXchange4, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI) | 2:57 |

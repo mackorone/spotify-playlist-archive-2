@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 108677,
+  "num_followers": 108688,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABYAN3OENeGpJkqPF5ml3qa",
+  "snapshot_id": "au+7gAAAAAC2CpgtBW//zjZxqDHhikAA",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 86021,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 86021,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beat A B!tch Up",
         "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 167746,
       "name": "Beat A B!tch Up",
       "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 60447,
+      "name": "Bills",
+      "url": "https://open.spotify.com/track/5LPXCjLSAPxTmOTSx4n308"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
         "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 270497,
       "name": "Xtasy (Remix) [feat. Doechii]",
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 60447,
-      "name": "Bills",
-      "url": "https://open.spotify.com/track/5LPXCjLSAPxTmOTSx4n308"
     },
     {
       "added_at": null,

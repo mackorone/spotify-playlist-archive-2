@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111307,
+  "num_followers": 111310,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -244,22 +244,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 173889,
-      "name": "Solar Power - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
       },
       "artists": [
@@ -271,6 +255,22 @@
       "duration_ms": 268566,
       "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 173889,
+      "name": "Solar Power - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -524,22 +524,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Cornflake Girl - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
       },
       "artists": [
@@ -551,6 +535,22 @@
       "duration_ms": 220098,
       "name": "Glory - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6i1Rn2NjB2a55zq5F6FUAO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Cornflake Girl - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -588,22 +588,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 214393,
-      "name": "Hold Your Head Up High - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
       "artists": [
@@ -615,6 +599,22 @@
       "duration_ms": 213480,
       "name": "Dead Boys - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 214393,
+      "name": "Hold Your Head Up High - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -700,22 +700,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 463336,
-      "name": "Taste - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
       },
       "artists": [
@@ -727,6 +711,22 @@
       "duration_ms": 315953,
       "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
       "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 463336,
+      "name": "Taste - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1116,22 +1116,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 235979,
-      "name": "Pressure - Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
       },
       "artists": [
@@ -1143,6 +1127,22 @@
       "duration_ms": 245596,
       "name": "Good Kisser - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5eyPkSDWFQNnnkZhFfE6Yo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235979,
+      "name": "Pressure - Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1616,22 +1616,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv"
-      },
-      "artists": [
-        {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        }
-      ],
-      "duration_ms": 198119,
-      "name": "Everybody Wants To Be Famous - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
       },
       "artists": [
@@ -1643,6 +1627,22 @@
       "duration_ms": 208159,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 198119,
+      "name": "Everybody Wants To Be Famous - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 199575,
-      "name": "Genghis Khan - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 248398,
       "name": "Gold Rush - Live at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 199575,
+      "name": "Genghis Khan - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1860,22 +1860,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 370674,
-      "name": "Blood Under My Belt - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
       },
       "artists": [
@@ -1887,6 +1871,22 @@
       "duration_ms": 231729,
       "name": "Born Again - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 370674,
+      "name": "Blood Under My Belt - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1956,22 +1956,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "La Tirana - Spotify Singles",
-      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb"
       },
       "artists": [
@@ -1983,6 +1967,22 @@
       "duration_ms": 229916,
       "name": "Fountain Of Youth",
       "url": "https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "La Tirana - Spotify Singles",
+      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
     },
     {
       "added_at": "2023-01-11 22:54:33",

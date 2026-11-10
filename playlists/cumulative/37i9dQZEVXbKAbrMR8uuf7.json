@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -9886,6 +9886,32 @@
     {
       "album": {
         "name": "De Amanec\u00eda",
+        "url": "https://open.spotify.com/album/2g5zwyr0jj0UY2RjJewCdD"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        },
+        {
+          "name": "Malcom Produce",
+          "url": "https://open.spotify.com/artist/0zLv6N4yO8Eqn3MZQFpqit"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108717,
+      "name": "De Amanec\u00eda",
+      "url": "https://open.spotify.com/track/0PIeGpoUBNNZ2zpH8i8ocb"
+    },
+    {
+      "album": {
+        "name": "De Amanec\u00eda",
         "url": "https://open.spotify.com/album/7CgLXbLtHcx9U4j7XX7unK"
       },
       "artists": [
@@ -9904,7 +9930,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 108717,
       "name": "De Amanec\u00eda",
       "url": "https://open.spotify.com/track/1SOyEJ6B7LHeClBUI4fR1T"
@@ -19178,7 +19204,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -27550,7 +27576,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 213868,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/37BkJJ6JR2qBmt5PRJaPHi"
@@ -48008,7 +48034,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 262058,
       "name": "Ya Me Enter\u00e9 - Live",
       "url": "https://open.spotify.com/track/6fIseBtp274Jl2s6pjugWG"

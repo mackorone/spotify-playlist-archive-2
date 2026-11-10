@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,375 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,374 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 7 | [Doma](https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:08 |
 | 8 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 9 | [Amor](https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi) | 3:19 |
-| 10 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
+| 10 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
 | 11 | [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp) | 1:51 |
 | 12 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 13 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 29 | [Bailando Conmigo](https://open.spotify.com/track/4d4cW91CpcogH1COrpNaH2) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Bailando Conmigo](https://open.spotify.com/album/1UR0HYFjrVtdbP9eEPGhu6) | 3:13 |
 | 30 | [Mi Momento Humilde](https://open.spotify.com/track/48Dyra3QzxrQ0yLFVjtCBU) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t), [Jota Narbaja](https://open.spotify.com/artist/3ttX2IijhFJOYwI1NkDtch) | [Mi Momento Humilde](https://open.spotify.com/album/7ee9pPofXVgQMk0EJgZ1CS) | 3:22 |
 | 31 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
-| 32 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 32 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 33 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
 | 34 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 35 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 | 50 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
 
-Snapshot ID: `MoP/aAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MoVoWAAAAAAAAAAAAAAAAAAAAAAAAGVu`

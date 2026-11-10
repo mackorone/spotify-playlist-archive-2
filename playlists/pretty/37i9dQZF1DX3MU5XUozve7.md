@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,061 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,134 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 65 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
 | 66 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
 | 67 | [Veteran](https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A Place Called Home](https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi) | 2:45 |
-| 68 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |
-| 69 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
+| 68 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
+| 69 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |
 | 70 | [Clear The Air](https://open.spotify.com/track/7dNsLDM4BflWv392VYzr7n) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [In Desolation](https://open.spotify.com/album/2vc58taiB1ZmDDXS6CtENW) | 3:47 |
 | 71 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
-| 72 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
-| 73 | [Still Waiting](https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 2:40 |
+| 72 | [Still Waiting](https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 2:40 |
+| 73 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
 | 74 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
 | 75 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
 | 76 | [Sugar Youth](https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 1:54 |

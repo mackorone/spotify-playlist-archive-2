@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,922 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,017 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 26 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 |
 | 27 | [Noche De Sexo](https://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:25 |
 | 28 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 |
-| 29 | [Junto Al Amanecer](https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:10 |
-| 30 | [Flow Natural](https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Deevani](https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 2:53 |
+| 29 | [Flow Natural](https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Deevani](https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 2:53 |
+| 30 | [Junto Al Amanecer](https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:10 |
 | 31 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 |
 | 32 | [Mírala Bien](https://open.spotify.com/track/04uA3BJ1Rj8DBKkpKCABJx) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:36 |
 | 33 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |

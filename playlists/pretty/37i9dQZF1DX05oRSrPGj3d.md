@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,265 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,277 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 49 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 |
 | 50 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
 | 51 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 |
-| 52 | [One More Goodbye](https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 4:14 |
-| 53 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
+| 52 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
+| 53 | [One More Goodbye](https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 4:14 |
 | 54 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
 | 55 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
 | 56 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
-| 57 | [Damn Good Goodbye](https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Blink You'll Miss It](https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq) | 3:32 |
-| 58 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
+| 57 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
+| 58 | [Damn Good Goodbye](https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Blink You'll Miss It](https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq) | 3:32 |
 | 59 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 60 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 61 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 95 | [Ballad Of Spider John](https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd) | [Willis Alan Ramsey](https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX) | [Willis Alan Ramsey](https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL) | 4:18 |
 | 96 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 |
 | 97 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
-| 98 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 |
-| 99 | [Cowboy Man](https://open.spotify.com/track/5OnywzRyf7oWKZUdpvXtlQ) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Lyle Lovett](https://open.spotify.com/album/7uMTmBlPNpXh85cX2w41XE) | 2:50 |
+| 98 | [Cowboy Man](https://open.spotify.com/track/5OnywzRyf7oWKZUdpvXtlQ) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Lyle Lovett](https://open.spotify.com/album/7uMTmBlPNpXh85cX2w41XE) | 2:50 |
+| 99 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 |
 | 100 | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 |
 
 Snapshot ID: `AAAAAAO2f5660Gz6bIbqnhLz6ctSgW2a`

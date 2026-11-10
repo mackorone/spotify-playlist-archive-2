@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 233233,
+  "num_followers": 233265,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,30 @@
     {
       "added_at": "2026-11-06 00:01:52",
       "album": {
+        "name": "Phumela",
+        "url": "https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "Brotherkupa",
+          "url": "https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r"
+        }
+      ],
+      "duration_ms": 180927,
+      "name": "Phumela",
+      "url": "https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl"
+    },
+    {
+      "added_at": "2026-11-06 00:01:52",
+      "album": {
         "name": "Sounds of the Diaspora 2",
         "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
       },
@@ -939,30 +963,6 @@
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
-    },
-    {
-      "added_at": "2026-11-06 00:01:52",
-      "album": {
-        "name": "Phumela",
-        "url": "https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "KindlyNxsh",
-          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
-        },
-        {
-          "name": "Brotherkupa",
-          "url": "https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r"
-        }
-      ],
-      "duration_ms": 180927,
-      "name": "Phumela",
-      "url": "https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl"
     },
     {
       "added_at": "2026-11-06 00:01:52",

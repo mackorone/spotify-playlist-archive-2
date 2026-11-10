@@ -25007,6 +25007,24 @@
     },
     {
       "album": {
+        "name": "Saudades",
+        "url": "https://open.spotify.com/album/3bOL0VIU1OXvePAgATgRUc"
+      },
+      "artists": [
+        {
+          "name": "Addal",
+          "url": "https://open.spotify.com/artist/4KvEeVTVVyMlEhr5ovZBOT"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "Saudades",
+      "url": "https://open.spotify.com/track/3HJUSRHm1aZY2oWL9MsSag"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/5F6XZV6i7gTz4RuPNKGJ2N"
       },

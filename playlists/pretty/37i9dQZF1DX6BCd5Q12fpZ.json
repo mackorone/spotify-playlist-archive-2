@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 63914,
+  "num_followers": 63915,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
+        "name": "She Got Me",
+        "url": "https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "She Got Me",
+      "url": "https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
         "name": "Waterloo",
         "url": "https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 168960,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
-        "name": "Bobbysocks!",
-        "url": "https://open.spotify.com/album/17nnsL4uzJSeknmZVrlcDT"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC"
     }
   ],
   "unique_name": "Eurovision Party",

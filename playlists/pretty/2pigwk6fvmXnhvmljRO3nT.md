@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,465 songs - 21 day 12 hr 27 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,484 songs - 21 day 13 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8473,5 +8473,24 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8463 | [ハレ晴レユカイ](https://open.spotify.com/track/2LjozKhOvVNAsir4E4WnKK) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [涼宮ハルヒの記憶](https://open.spotify.com/album/2EFbQ9zEh7J4urd5UblpPZ) | 3:37 |
 | 8464 | [Palmtree Panic](https://open.spotify.com/track/7vixwXMjLjlbgH9SrcmiSd) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SONIC THE HEDGEHOG CD Original Soundtrack \(20th Anniversary Edition\)](https://open.spotify.com/album/0RVg417ta0HUTRD9qqDz1p) | 2:12 |
 | 8465 | [Palmtree Panic \- ”P” mix](https://open.spotify.com/track/58nqArQQR9mlhLtHrwYsZL) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SONIC THE HEDGEHOG CD Original Soundtrack \(20th Anniversary Edition\)](https://open.spotify.com/album/0RVg417ta0HUTRD9qqDz1p) | 2:13 |
+| 8466 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
+| 8467 | [十四時のシンフォニー](https://open.spotify.com/track/0MU1SsaqFbALoMrjlZsrsQ) | [ミツキヨ](https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9) | [夢箱](https://open.spotify.com/album/5h0z0KlN9PiEh5Ui5uoIsj) | 1:06 |
+| 8468 | [七時の食事\(Chocolate Lemon\)](https://open.spotify.com/track/2Tf7jUzaybygDrW89UA1fh) | [ミツキヨ](https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9) | [夢箱](https://open.spotify.com/album/5h0z0KlN9PiEh5Ui5uoIsj) | 3:38 |
+| 8469 | [Jinro no tame no komoriuta](https://open.spotify.com/track/5gEhvLbdtU3scMryOH659i) | [しゃろう](https://open.spotify.com/artist/78Oq5iXIM9HCAe0zYg8E7o) | [Jinro no tame no komoriuta](https://open.spotify.com/album/7CXfgV6XcL1pi6I65yOV8U) | 1:39 |
+| 8470 | [Missing Home](https://open.spotify.com/track/0XdiunIsBvtb6j6VkEX74p) | [Erikson Jayanto](https://open.spotify.com/artist/3q1blSi57degdJeXeay4SM), [Mevlied Nahla](https://open.spotify.com/artist/7F4LyPxmKrxFC4xNkdSAhl) | [Slice of life \(人生のひとこま\)](https://open.spotify.com/album/3Doufqp570uF1ekOaAoPrR) | 3:32 |
+| 8471 | [Farewell](https://open.spotify.com/track/7s2dWFnGSW2TyghkD6uvWb) | [Erikson Jayanto](https://open.spotify.com/artist/3q1blSi57degdJeXeay4SM) | [Slice of life \(人生のひとこま\)](https://open.spotify.com/album/3Doufqp570uF1ekOaAoPrR) | 2:22 |
+| 8472 | [初恋の人](https://open.spotify.com/track/6o1HHiJ6wpQ4et2h66abBB) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [青春ブタ野郎はバニーガール先輩の夢を見ない Original Soundtrack](https://open.spotify.com/album/3DoYRbb546hUM8MfU12dYK) | 2:50 |
+| 8473 | [fish in the pool・花屋敷](https://open.spotify.com/track/4Cx1roYpSYOuaQhLV0FyDO) | [Hekuto Pascal](https://open.spotify.com/artist/6UIfKkGMlsOHlMygiAFuAu) | [fish in the pool](https://open.spotify.com/album/0vkDFg4cJkcWBplspUVp7f) | 4:36 |
+| 8474 | [Visiting Home](https://open.spotify.com/track/6o38ztCMVS0CrlfB0RSOjh) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 3:42 |
+| 8475 | [タッちゃん](https://open.spotify.com/track/3V68DyWlt9CLTRwSUfloYB) | [戸田信子](https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d), [陣内一真](https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs) | [『ウマ娘 プリティーダービー』WINNING LIVE 06](https://open.spotify.com/album/4yUrE4BXP4DE1Z4PxMXOPI) | 1:21 |
+| 8476 | [honey toast](https://open.spotify.com/track/3R5Uqm3TP8S6hdovcwxKxN) | [sakuracloud](https://open.spotify.com/artist/4e29E9h4Vt0UHW9Fnd0AhO) | [cafe sakura](https://open.spotify.com/album/54c8wQalzrWHRRxgmO6UfS) | 2:10 |
+| 8477 | [we're together only when i close my eyes](https://open.spotify.com/track/0uuke4f9beeLIZmZrPeyfV) | [Seycara Orchestral](https://open.spotify.com/artist/1tdHPEu7gU9axrfswtGmhL) | [i see the world in her eyes](https://open.spotify.com/album/04gguupBSIon00nbt0whVD) | 4:55 |
+| 8478 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 |
+| 8479 | [Gogo Nara Yappari?](https://open.spotify.com/track/4pP9ZQDTJfVZZPSWTx9BSl) | [Foxtail\-Grass Studio](https://open.spotify.com/artist/0eFVVg97VFAlMg1tNoYfDJ) | [Yonagomisan\-chi no Ouchi Cafe](https://open.spotify.com/album/6xGbI5FCvhpLC2aWwZGokT) | 2:46 |
+| 8480 | [Dark chocolate](https://open.spotify.com/track/1KxZf63AhpZ1Dod1S7Q8qt) | [Hemio](https://open.spotify.com/artist/2056Yz5AikkYkjm3HYaVNO) | [Love Does Soul Like Water on Withered Soil](https://open.spotify.com/album/0bZKlXn4Pm46J3y6iyBwp0) | 3:18 |
+| 8481 | [帽子](https://open.spotify.com/track/0YPx5tIeDN6qC1v3OnzT6G) | [Hekuto Pascal](https://open.spotify.com/artist/6UIfKkGMlsOHlMygiAFuAu) | [fish in the pool](https://open.spotify.com/album/0vkDFg4cJkcWBplspUVp7f) | 2:25 |
+| 8482 | [memories of summer](https://open.spotify.com/track/466geVSwCs7CwPcogY9Bfw) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [memories of summer](https://open.spotify.com/album/3jUKdm3ww6TcDOEZVRqwdO) | 4:08 |
+| 8483 | [ユメの喫茶店](https://open.spotify.com/track/4yPO73fgwXHx3k2VmVRGSy) | [ミツキヨ](https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9) | [ユメの喫茶店](https://open.spotify.com/album/45FARqBv5O6b7Rj0n9inXB) | 3:39 |
+| 8484 | [陽だまり道 \- Piano Ver.](https://open.spotify.com/track/0UMOJGjNPicsWQPSSmnpF1) | [水谷広実](https://open.spotify.com/artist/7gTlgJynk9xXSXEJyg2LJC) | [TVアニメ『のんのんびより』オリジナルサウンドトラック](https://open.spotify.com/album/72VTYTtuIr63vd9ITiHQVp) | 3:02 |
 
-Snapshot ID: `AAAOAMRoDCs1VhGeAJt/eSXyJGJD+1G2`
+Snapshot ID: `AAAOEwo1KO4MMtsUhnydllXjJ2Ix6GJ+`

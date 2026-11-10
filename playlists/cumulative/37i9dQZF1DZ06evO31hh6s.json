@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 182331,
       "name": "Angels Sing",
       "url": "https://open.spotify.com/track/3XFL6ehChtKBCM157ciccZ"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 213904,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/6x84cOoTHrCnO8RBfE9Bb4"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 196153,
       "name": "Grow Through It (feat. J.Dot.L & Young Noble)",
       "url": "https://open.spotify.com/track/7950mPHg3yU4JpWkaC95al"
@@ -2625,6 +2625,40 @@
     },
     {
       "album": {
+        "name": "Scrapes Apes & Grapes",
+        "url": "https://open.spotify.com/album/43mEPQIueayik0r5q0YSOm"
+      },
+      "artists": [
+        {
+          "name": "Lee Majors",
+          "url": "https://open.spotify.com/artist/6Jl1J3fFLlVBYFa8lPKhf8"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Lazy Bone",
+          "url": "https://open.spotify.com/artist/5xbusVF0EIYaLlgdckuwW1"
+        },
+        {
+          "name": "Yukmouth",
+          "url": "https://open.spotify.com/artist/0ndMofuAPmTktjONZv20JL"
+        },
+        {
+          "name": "Killa Klump",
+          "url": "https://open.spotify.com/artist/5tzhUTWpxF0AB2DaxHgSlb"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340653,
+      "name": "Im Good",
+      "url": "https://open.spotify.com/track/45mfoQ3NsPogL4Tw6YQROb"
+    },
+    {
+      "album": {
         "name": "3rd Eye View",
         "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
       },
@@ -2774,7 +2808,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 48506,
       "name": "Intro",
       "url": "https://open.spotify.com/track/2EtkKMpuRfKjXcytihFnFX"
@@ -2800,7 +2834,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 210831,
       "name": "IRemember",
       "url": "https://open.spotify.com/track/6aux4EaPFpdpH5f7IpmkK8"
@@ -3172,7 +3206,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 174812,
       "name": "Letter To DMX",
       "url": "https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3"
@@ -3884,7 +3918,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 317600,
       "name": "Nothn U Can Do",
       "url": "https://open.spotify.com/track/0JhFtLFvYoUyKFwZtks3wv"
@@ -4670,7 +4704,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
@@ -4976,7 +5010,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 197068,
       "name": "Shepherds and Sheep",
       "url": "https://open.spotify.com/track/0EkhwmX7Jy3drjK24gbRkH"
@@ -5148,7 +5182,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"
@@ -6454,6 +6488,28 @@
       "duration_ms": 283952,
       "name": "When It Rains (feat. EDIDON, Aktual & Realest)",
       "url": "https://open.spotify.com/track/2VyHsS0WrSkMBpzQNHuH0g"
+    },
+    {
+      "album": {
+        "name": "Dope Game: 4",
+        "url": "https://open.spotify.com/album/30bMR4RkbV0OPafuko7xdw"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Killa Klump",
+          "url": "https://open.spotify.com/artist/5tzhUTWpxF0AB2DaxHgSlb"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207979,
+      "name": "When We Come Thur Phrophet (feat. Killa Klump)",
+      "url": "https://open.spotify.com/track/6NT0pM6hJUc2d8Uk1gCVOn"
     },
     {
       "album": {

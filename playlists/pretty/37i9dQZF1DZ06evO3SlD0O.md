@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,392 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,393 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 25 | [Fracaso](https://open.spotify.com/track/45k71bk9yCZioceJ3umVzC) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:45 |
 | 26 | [Tres Veces Te Engañé](https://open.spotify.com/track/4VPiiwdjs8gWAQLVjn0NoZ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 3:12 |
 | 27 | [Solo Y Triste](https://open.spotify.com/track/2GNsqriWKJlqCaMCvfTW9H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:20 |
-| 28 | [Popurrí Norteño](https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Intrusso 100% Norteño](https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX) | 10:00 |
+| 28 | [El Conejito](https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:05 |
 | 29 | [Corazón Vació](https://open.spotify.com/track/1xb1n8lg8FkLkt8mxcRuVX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:42 |
 | 30 | [Soy Yo](https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:29 |
-| 31 | [El Conejito](https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:05 |
+| 31 | [Popurrí Norteño](https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Intrusso 100% Norteño](https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX) | 10:00 |
 | 32 | [La Quiero Con El Alma](https://open.spotify.com/track/5O7gyxlFdbRcupanCMT1bG) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:33 |
 | 33 | [La Francis](https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:51 |
 | 34 | [El Beso De Judas](https://open.spotify.com/track/41u6boHB1VeoyQltaHgu7D) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:55 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 42 | [Islas Marías](https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:03 |
 | 43 | [Trigueñita De Ojos Negros](https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:38 |
 | 44 | [Tres Por Una](https://open.spotify.com/track/7961JijxsrpZXUzWkquseT) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Cesáreo Sánchez](https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif), [Salomon Robles](https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu) | [Ni Amores Ni Deudas](https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY) | 3:04 |
-| 45 | [El Divorcio](https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:48 |
-| 46 | [El Amor De Los Dos](https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:44 |
+| 45 | [El Amor De Los Dos](https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:44 |
+| 46 | [El Divorcio](https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:48 |
 | 47 | [Dale Un Cuartazo Al Macho](https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Atrás Del Escenario](https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl) | 2:39 |
 | 48 | [Popurrí Homenaje a Carlos Y Jose \- En Vivo](https://open.spotify.com/track/1TMNGa0Z2IrIDVNaclrFpW) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Los Astros de China](https://open.spotify.com/artist/6E77RT90bxptRYDYWWv5QR) | [En Vivo, Vol\. 2](https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi) | 5:46 |
-| 49 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
-| 50 | [Una Noche No](https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 |
+| 49 | [Una Noche No](https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 |
+| 50 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
 
-Snapshot ID: `au5qAAAAAADYudP9rN2/qOdTmfyv5IRC`
+Snapshot ID: `au+7gAAAAACwS8WBJe/hpmrYwhHmIMDh`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Crashendo\. Artwork: Isu Kim
 
-549 songs - 1 day 4 hr 46 min
+550 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Benzema](https://open.spotify.com/track/3qaWo8EFTYcGNIHStUC0Ta) | [AB](https://open.spotify.com/artist/3fRLeiaGIS4o3hgu8OV2MP) | [Benzema](https://open.spotify.com/album/6W3C2eRSsweoSJ0kn55NyT) | 2:34 | 2024-02-20 | 2024-07-10 |
 | [Bet](https://open.spotify.com/track/3iowVvAog2lPhMjuLpb6Sj) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Bet](https://open.spotify.com/album/0rmT0TYdnLKImISjpgiiQl) | 2:14 | 2023-09-12 | 2024-02-08 |
 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 | 2022-09-20 | 2023-01-28 |
+| [Bizou](https://open.spotify.com/track/2QgwbAsme2H3LdMsFBpnYE) | [Maé](https://open.spotify.com/artist/5zKmjTnrm6HRVErp0BqGtp) | [Bizou](https://open.spotify.com/album/5j9HHGNguFZYb3Ptq3ZDNx) | 3:40 | 2026-11-09 |  |
 | [Blue](https://open.spotify.com/track/5SReQqpPuEhowJod8RdpG1) | [Ghida](https://open.spotify.com/artist/70R0r2Qd9G2lzXfqAXJXtT) | [Blue](https://open.spotify.com/album/07Rk9Vm4dTBvbqti8YNV4C) | 3:25 | 2024-01-16 | 2024-06-27 |
 | [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 | 2022-10-04 | 2023-06-07 |
 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 | 2022-09-20 | 2022-11-16 |
@@ -379,7 +380,7 @@
 | [push back \(feat\. GrzzLee\)](https://open.spotify.com/track/0x1Z1binRRDnQKL6ALG4x2) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [push back \(feat\. GrzzLee\)](https://open.spotify.com/album/3VoZJdHv32izzxBHyjQdod) | 2:15 | 2024-02-07 | 2024-06-27 |
 | [QAAR A](https://open.spotify.com/track/0Eh0KuFNOQ0gPilhJzZRXz) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/6mCMQFns9e0g2civC8khcB) | 4:00 | 2023-03-01 | 2023-06-21 |
 | [QAAR A](https://open.spotify.com/track/0ipud6EnSxKYX27PDU9lXM) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/0r0oe1UN516mz9vAh3uu5m) | 4:00 | 2023-01-17 | 2023-03-03 |
-| [QARFS MERI](https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC) | [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD), [DOKHAN](https://open.spotify.com/artist/1tUkpIZZacamR0XXrwCp8P), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1) | [Z!EN GPT](https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3) | 1:46 | 2025-06-17 |  |
+| [QARFS MERI](https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC) | [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD), [DOKHAN](https://open.spotify.com/artist/1tUkpIZZacamR0XXrwCp8P), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1) | [Z!EN GPT](https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3) | 1:46 | 2025-06-17 | 2026-11-10 |
 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 | 2023-03-14 | 2023-07-19 |
 | [Quick Flex](https://open.spotify.com/track/4Xsgdr7McooFSUUGoYvU9g) | [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D), [Gra](https://open.spotify.com/artist/4QFDQS3cWdDXIZRaXFvW5B), [Chasey the Illest](https://open.spotify.com/artist/42kTgzgcQLKru8mxK04VLa) | [Quick Flex](https://open.spotify.com/album/3I5pQO3UYPpQZO3xrRox9e) | 3:52 | 2024-02-20 | 2024-07-10 |
 | [RADAR](https://open.spotify.com/track/06McU6WqFd04gcP7OT64e4) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [Underground](https://open.spotify.com/album/2uI4qM6Z4WXGK1b2VWVUsf) | 2:20 | 2026-10-21 |  |

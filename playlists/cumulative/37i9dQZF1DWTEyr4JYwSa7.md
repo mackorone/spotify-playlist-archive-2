@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-386 songs - 21 hr 1 min
+387 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Mémoire de l'essentiel](https://open.spotify.com/track/5Sg3AaC8NsXnGnNXZLF8Jc) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Mémoire de l'essentiel](https://open.spotify.com/album/32YZqNNCKaDTrmCYaq7yKe) | 3:43 | 2021-12-17 | 2022-07-28 |
 | [Neiges \- 50ᵉ anniversaire](https://open.spotify.com/track/35s4bGiNTmxOcGwE9Hig1m) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Neiges \(50ᵉ anniversaire\)](https://open.spotify.com/album/12veMAOLkjETeLYIziClbr) | 10:00 | 2025-11-21 |  |
 | [Nikaui \(Nipaiamianan\)](https://open.spotify.com/track/7oWgPFNQoe7lqrmGSmgOTq) | [Yan Riverin](https://open.spotify.com/artist/7b4rO8os5umSduj2lp07z6) | [Nikaui \(Nipaiamianan\)](https://open.spotify.com/album/5azARElDOCTUJOU0ghkAcR) | 4:27 | 2025-12-12 | 2026-08-11 |
-| [Noel, Once Again](https://open.spotify.com/track/3DNvE8WmKcdRiCw4MQ84kR) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Noel, Once Again](https://open.spotify.com/album/750nLSC0fUi9Ls3wCO37B6) | 2:43 | 2025-12-12 |  |
+| [Noel, Once Again](https://open.spotify.com/track/3DNvE8WmKcdRiCw4MQ84kR) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Noel, Once Again](https://open.spotify.com/album/750nLSC0fUi9Ls3wCO37B6) | 2:43 | 2025-12-12 | 2026-11-10 |
 | [Noël](https://open.spotify.com/track/5kME8UidheMP9OAQsqRvQG) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Les tubes de Noël, vol.4](https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8) | 4:18 | 2024-11-22 |  |
 | [Noël](https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Noël](https://open.spotify.com/album/0YGHpzUXxhxm6bSvSuWlWw) | 2:56 | 2021-12-17 | 2026-11-08 |
 | [Noël \(au coin de Portage et Main\)](https://open.spotify.com/track/6vhaBKypqRYJWYjUonnxYj) | [Chic Gamine](https://open.spotify.com/artist/6GMElLPm8xlZbjP7HQkrpq) | [Christmas Vol.1](https://open.spotify.com/album/1sx4KP3bzJcEPOI1Rv6FNN) | 3:31 | 2021-12-17 | 2022-07-29 |
@@ -274,6 +274,7 @@
 | [Noël New York](https://open.spotify.com/track/1MAFXESfROAHuxUWdpDIFT) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Noël New York](https://open.spotify.com/album/1mqTOcDist9hJ5llLFD2wa) | 3:02 | 2021-12-17 | 2022-07-24 |
 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet, vol\. 1](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 | 2025-11-14 |  |
 | [Noël Noël des frères lemay](https://open.spotify.com/track/0Nl7H6t83Tx57rlVchQI3o) | [Les Frères Lemay](https://open.spotify.com/artist/5fjBetcHajIgEvRX8uwMRk) | [Noël Noël des frères lemay](https://open.spotify.com/album/59YqHJt0iWF2EyzFMewtFy) | 1:57 | 2021-12-17 | 2022-07-28 |
+| [Noël revient](https://open.spotify.com/track/25DZ5OSpq2DqeBG1FePgCS) | [Lalancette](https://open.spotify.com/artist/0yjfA2bkrXl6yvF47pRh7q) | [Noël revient](https://open.spotify.com/album/4d1TSXsUwNbYOkZSB6YGRi) | 2:51 | 2025-12-12 |  |
 | [Noël s'invite chez moi](https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T) | [Marjolaine Morasse](https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW) | [Noël s'invite chez moi](https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A) | 3:15 | 2021-12-17 | 2024-11-17 |
 | [Noël sans faim](https://open.spotify.com/track/2W70sfUzxo1gsogZcL8Ccf) | [Wilfred LeBouthillier](https://open.spotify.com/artist/50YgUB4G1dgqAyv3aj5qRh) | [Chansons de Noël pour la Fondation Jasmin Roy](https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00) | 4:01 | 2021-12-17 | 2022-07-28 |
 | [Noël sans toi](https://open.spotify.com/track/1qIQUECvM6S7ZLanFpyVgP) | [Francis Bedard](https://open.spotify.com/artist/3h8yd5Ig09beZqG3Gdg0u3) | [Mes voeux de Noël](https://open.spotify.com/album/59zF13haa6pweaojC4WjKL) | 3:20 | 2021-12-17 | 2022-07-28 |

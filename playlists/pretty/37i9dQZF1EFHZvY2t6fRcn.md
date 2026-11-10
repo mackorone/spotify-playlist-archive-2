@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 171 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 725 likes - 171 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,11 +122,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 112 | [Growing Up](https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [Growing Up](https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm) | 3:53 |
 | 113 | [The Boy I Almost Was](https://open.spotify.com/track/4wfhf3BPpsNZAAsydxKDmw) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:07 |
 | 114 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 |
-| 115 | [WHEREVER YOU ARE](https://open.spotify.com/track/6hZ7ijGtCywQGARDHKKAFB) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/6RGawt7sBZg1mMrb9nZEdE) | 3:45 |
-| 116 | [THE MOVEMENT](https://open.spotify.com/track/7urjWk4GVZ94gTpRInEvAh) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f) | 2:38 |
+| 115 | [THE MOVEMENT](https://open.spotify.com/track/7urjWk4GVZ94gTpRInEvAh) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f) | 2:38 |
+| 116 | [WHEREVER YOU ARE](https://open.spotify.com/track/6hZ7ijGtCywQGARDHKKAFB) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/6RGawt7sBZg1mMrb9nZEdE) | 3:45 |
 | 117 | [Body](https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:18 |
-| 118 | [EMPATHY](https://open.spotify.com/track/7EpON15U12btUd6zamNiR3) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [THE ROAD TO CLOSURE](https://open.spotify.com/album/3YIJtPT5HcicPCTTHzMZWo) | 3:15 |
-| 119 | [SMALL WORLD](https://open.spotify.com/track/4SLY4s0g69PJvduMeyhppQ) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f) | 2:26 |
+| 118 | [SMALL WORLD](https://open.spotify.com/track/4SLY4s0g69PJvduMeyhppQ) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f) | 2:26 |
+| 119 | [EMPATHY](https://open.spotify.com/track/7EpON15U12btUd6zamNiR3) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [THE ROAD TO CLOSURE](https://open.spotify.com/album/3YIJtPT5HcicPCTTHzMZWo) | 3:15 |
 | 120 | [Mile High](https://open.spotify.com/track/2mrJgi1rm64SVje5CdHYhL) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [Stephen Kirk](https://open.spotify.com/artist/6i7BAJYLVDj8TW3eU8ZS6R) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:52 |
 | 121 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 |
 | 122 | [Out of my Head](https://open.spotify.com/track/6cuTVVwWDbXaDklh2Kf2KK) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 3:04 |
@@ -136,12 +136,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 126 | [我愛](https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [1212](https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8) | 3:46 |
 | 127 | [Butterflies](https://open.spotify.com/track/0Ns9MYv0gL70HRkyiBSNgZ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:00 |
 | 128 | [Stay In Bed](https://open.spotify.com/track/6tmA6I8aay97Aj0F0mRA2f) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:35 |
-| 129 | [BAD](https://open.spotify.com/track/5ZlduQgpSRumIfGzbHeiLg) | [Alexx Mack](https://open.spotify.com/artist/56SybfJx38GvQ7nM4ezPnZ) | [Like We're Famous](https://open.spotify.com/album/0R4mVnaeofJvTlbf7yr0Qq) | 3:47 |
-| 130 | [I Love You, But](https://open.spotify.com/track/4dKAXI5lvnoan3m4YryZlN) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/2wPN08yZghT08iRTUfeB1x) | 3:31 |
+| 129 | [I Love You, But](https://open.spotify.com/track/4dKAXI5lvnoan3m4YryZlN) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/2wPN08yZghT08iRTUfeB1x) | 3:31 |
+| 130 | [BAD](https://open.spotify.com/track/5ZlduQgpSRumIfGzbHeiLg) | [Alexx Mack](https://open.spotify.com/artist/56SybfJx38GvQ7nM4ezPnZ) | [Like We're Famous](https://open.spotify.com/album/0R4mVnaeofJvTlbf7yr0Qq) | 3:47 |
 | 131 | [BOYS](https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn) | [Aidan Martin](https://open.spotify.com/artist/7aOFV5qa46hrbcWlAYiSZW) | [BOYS](https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB) | 2:55 |
 | 132 | [Pace Yourself](https://open.spotify.com/track/0MvqfZ64k279BTGvIxuLm0) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:54 |
-| 133 | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p) | 3:36 |
-| 134 | [Clickbait](https://open.spotify.com/track/1GXTAOPCzjlF8UkyFxQm4c) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To...Do A Fan Edition](https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R) | 3:07 |
+| 133 | [Clickbait](https://open.spotify.com/track/1GXTAOPCzjlF8UkyFxQm4c) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To...Do A Fan Edition](https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R) | 3:07 |
+| 134 | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p) | 3:36 |
 | 135 | [Unanimous](https://open.spotify.com/track/5fYotloHnlkET0dzjw82aU) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [Trey Campbell](https://open.spotify.com/artist/05S2PVQNMDOsTxQGwmCp6U) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 2:32 |
 | 136 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
 | 137 | [Stretch](https://open.spotify.com/track/7FDIy88xtbPq2lI61jM0ZB) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 3:07 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 170 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 | 171 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AchJ7AAAAAATzlk2HI4BQs/63VfQxeJB`
+Snapshot ID: `AchQBAAAAACkMJ2zxzBAsakHUXIjV+x8`

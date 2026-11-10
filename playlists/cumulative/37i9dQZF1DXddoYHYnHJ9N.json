@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: imago mundi",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Kr\u00fabi",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 197341,
       "name": "Free Johnny",
       "url": "https://open.spotify.com/track/6B6oxOWau5ngBRfMrLuDsz"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 139551,
       "name": "KERTES H\u00c1Z",
       "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
@@ -3789,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Rasta G | Froppi",
+        "url": "https://open.spotify.com/album/6KmokbMuq9K3DWotNKN6ko"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115926,
+      "name": "Rasta G | Froppi",
+      "url": "https://open.spotify.com/track/6JpvtvcPddlXSJLrt4UJOH"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -4462,6 +4480,24 @@
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
+    },
+    {
+      "album": {
+        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
     },
     {
       "album": {

@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Wegh
+> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,750 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,866 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ALO](https://open.spotify.com/track/5rwkmcw5tPCSQMb3c8TIXh) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [ALO](https://open.spotify.com/album/6jilmZztlDC0XuSEwcxOCR) | 3:12 |
-| 2 | [Yara İzi](https://open.spotify.com/track/5rxGnhqxUkuayT1By6x1JY) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Yara İzi](https://open.spotify.com/album/0yAEqJ04KgZWjldbOq9Ppq) | 2:44 |
-| 3 | [acını seçmekte özgürsün](https://open.spotify.com/track/745VDYhAc31FTulJ6puBn8) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [acını seçmekte özgürsün](https://open.spotify.com/album/2E0t7baG5FcDrK28DzW6xi) | 2:36 |
-| 4 | [Akila](https://open.spotify.com/track/6TiCIA7EPfjSqpfRP5XKDf) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Akila](https://open.spotify.com/album/2igL5PBsn9bW1C7Rfz9RsV) | 2:48 |
-| 5 | [MENTOL](https://open.spotify.com/track/5xnksA2JEO2uSi1Q3RYbGE) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [MENTOL](https://open.spotify.com/album/5iCgAAGYDGB8CgpTP5uSMn) | 3:01 |
-| 6 | [Benim Yüzümden](https://open.spotify.com/track/6R6jMYL9MMrDMsNFeGxGWJ) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [Benim Yüzümden](https://open.spotify.com/album/0jlWMjW3FUCmzDNN1AUWld) | 2:46 |
-| 7 | [Arıyor](https://open.spotify.com/track/4HcS33qrufPKoj9qw2FtA8) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [Arıyor](https://open.spotify.com/album/0DjQMRDN95luH3fNhXfmbD) | 2:06 |
-| 8 | [BİPOLAR](https://open.spotify.com/track/2oTcTeCe63Rt4LEWTQLT23) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [KERO](https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2) | [BİPOLAR](https://open.spotify.com/album/73ZpIT1sbDrhEoCGI0DLWK) | 1:56 |
-| 9 | [Şile Yolunda Daire](https://open.spotify.com/track/7HT50cBQDnxq4IrTAkOqbO) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Şile Yolunda Daire](https://open.spotify.com/album/0MBqOn2nJyUMofy3MDqSi2) | 3:04 |
-| 10 | [70'lik](https://open.spotify.com/track/57nmhwF2m4de6U9SK6SEC2) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [70'lik](https://open.spotify.com/album/5yotNaBNQlkf5VoWQc4ZaT) | 2:31 |
-| 11 | [Uykudan Önce](https://open.spotify.com/track/3Ldzb6hcIpYPqfjfVqYYuK) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Uykudan Önce](https://open.spotify.com/album/0UAqrSmApdrRiUCS0ETcq7) | 2:45 |
-| 12 | [Düşe Kalka](https://open.spotify.com/track/0DsOgz0zmjRjvHXOPwZnhi) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Düşe Kalka](https://open.spotify.com/album/1y6r0FQoHlw8mxVJMYh8eo) | 2:39 |
-| 13 | [Gerçekler Bunlar](https://open.spotify.com/track/1CKFhjHfUQMQnqADfL4LkF) | [nasky](https://open.spotify.com/artist/3O1ooSxWUbl8OkS6G7tBik), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [NOES](https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET) | [Gerçekler Bunlar](https://open.spotify.com/album/2zohZe98f07ocr1JoRXkKs) | 2:49 |
-| 14 | [Senden Vazgeçemem ki](https://open.spotify.com/track/6yMbzTUIh9gbKU7wLSDFaf) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Senden Vazgeçemem ki](https://open.spotify.com/album/5GDJCpAIgKMpkOfSEBrVcu) | 2:07 |
-| 15 | [Inferno](https://open.spotify.com/track/5vZ1UuapQITrjdLTelc6Y5) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [TRAVMA](https://open.spotify.com/album/33nnYpWyePoYOZGvPVoM3a) | 2:34 |
-| 16 | [Aqua](https://open.spotify.com/track/0LcZO0SujUEO5zwqlNWqfC) | [Birand](https://open.spotify.com/artist/02DLpTPfY9uEAEvKdz3RBZ), [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [Aqua](https://open.spotify.com/album/1mpmn2sXsinHjKySNFr8KU) | 2:20 |
+| 1 | [Babyglock](https://open.spotify.com/track/1TlxJsAybZkzZ5ji0cUELk) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Babyglock](https://open.spotify.com/album/3pafEft2xzM7iLUKYLATHL) | 2:46 |
+| 2 | [ALO](https://open.spotify.com/track/5rwkmcw5tPCSQMb3c8TIXh) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [ALO](https://open.spotify.com/album/6jilmZztlDC0XuSEwcxOCR) | 3:12 |
+| 3 | [Yara İzi](https://open.spotify.com/track/5rxGnhqxUkuayT1By6x1JY) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Yara İzi](https://open.spotify.com/album/0yAEqJ04KgZWjldbOq9Ppq) | 2:44 |
+| 4 | [acını seçmekte özgürsün](https://open.spotify.com/track/745VDYhAc31FTulJ6puBn8) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [acını seçmekte özgürsün](https://open.spotify.com/album/2E0t7baG5FcDrK28DzW6xi) | 2:36 |
+| 5 | [Akila](https://open.spotify.com/track/6TiCIA7EPfjSqpfRP5XKDf) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Akila](https://open.spotify.com/album/2igL5PBsn9bW1C7Rfz9RsV) | 2:48 |
+| 6 | [Olurmusun?](https://open.spotify.com/track/3hvvCCnS4JyToL2R8XmMyf) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Olurmusun?](https://open.spotify.com/album/4L4w0AxuKcdh1wMqJC2Jze) | 3:04 |
+| 7 | [Benim Yüzümden](https://open.spotify.com/track/6R6jMYL9MMrDMsNFeGxGWJ) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [Benim Yüzümden](https://open.spotify.com/album/0jlWMjW3FUCmzDNN1AUWld) | 2:46 |
+| 8 | [MENTOL](https://open.spotify.com/track/5xnksA2JEO2uSi1Q3RYbGE) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [MENTOL](https://open.spotify.com/album/5iCgAAGYDGB8CgpTP5uSMn) | 3:01 |
+| 9 | [Arıyor](https://open.spotify.com/track/4HcS33qrufPKoj9qw2FtA8) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [Arıyor](https://open.spotify.com/album/0DjQMRDN95luH3fNhXfmbD) | 2:06 |
+| 10 | [Kumarbazın Gündüz Kabusları](https://open.spotify.com/track/2lz6ot6QcjBsagJxZENK6p) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [KOZ: Kumarbaz](https://open.spotify.com/album/77JhgTuoeWTJ3nEEJIK43c) | 3:11 |
+| 11 | [BİPOLAR](https://open.spotify.com/track/2oTcTeCe63Rt4LEWTQLT23) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [KERO](https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2) | [BİPOLAR](https://open.spotify.com/album/73ZpIT1sbDrhEoCGI0DLWK) | 1:56 |
+| 12 | [Şile Yolunda Daire](https://open.spotify.com/track/7HT50cBQDnxq4IrTAkOqbO) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Şile Yolunda Daire](https://open.spotify.com/album/0MBqOn2nJyUMofy3MDqSi2) | 3:04 |
+| 13 | [Uykudan Önce](https://open.spotify.com/track/3Ldzb6hcIpYPqfjfVqYYuK) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Uykudan Önce](https://open.spotify.com/album/0UAqrSmApdrRiUCS0ETcq7) | 2:45 |
+| 14 | [70'lik](https://open.spotify.com/track/57nmhwF2m4de6U9SK6SEC2) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [70'lik](https://open.spotify.com/album/5yotNaBNQlkf5VoWQc4ZaT) | 2:31 |
+| 15 | [Düşe Kalka](https://open.spotify.com/track/0DsOgz0zmjRjvHXOPwZnhi) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Düşe Kalka](https://open.spotify.com/album/1y6r0FQoHlw8mxVJMYh8eo) | 2:39 |
+| 16 | [Senden Vazgeçemem ki](https://open.spotify.com/track/6yMbzTUIh9gbKU7wLSDFaf) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Senden Vazgeçemem ki](https://open.spotify.com/album/5GDJCpAIgKMpkOfSEBrVcu) | 2:07 |
 | 17 | [Yalan Dünya](https://open.spotify.com/track/13N2PpYdj9Xkox0RXPwKHc) | [Selo](https://open.spotify.com/artist/6Hw6zmpru6uNDiUWep8ENG), [Orchi](https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve), [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6) | [Yalan Dünya](https://open.spotify.com/album/2oh8qejcADaaKtMj8WU7sI) | 3:24 |
 | 18 | [Daha Koyu](https://open.spotify.com/track/6bMIQnTROwnl9kCSNNXMgt) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Daha Koyu](https://open.spotify.com/album/2EnUpvQzVnPSxh59PD2o86) | 4:02 |
 | 19 | [KAFA RAHAT](https://open.spotify.com/track/4rjqYVD8N7neJxcv5rLfiM) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAFA RAHAT](https://open.spotify.com/album/3OfDoOiVnJSztmXjUqhoxJ) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/track/3bfcPN5EAU1CzXIGaWBaUR) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/album/2WfdMP5Y3GtlBO857nvF7a) | 1:58 |
 | 50 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
 
-Snapshot ID: `AAAAACShR8zEWmWyRKGq+1oRO9eDCcch`
+Snapshot ID: `AAAAANkJD3/Ncj8hmxJTPmrDEJqc4TPf`

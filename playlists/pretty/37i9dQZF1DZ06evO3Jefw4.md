@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,176 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,174 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 31 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 |
 | 32 | [Con Calma \- Remix](https://open.spotify.com/track/4au7FRcgZzChASRYu279xH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma \(Remix\)](https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB) | 3:01 |
 | 33 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 |
-| 34 | [WONDER](https://open.spotify.com/track/1nJNqdhKLx2LF01wAtkH8j) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:24 |
-| 35 | [The One That Got Away](https://open.spotify.com/track/0YdcjSwXRXuGOkIW5sjJWE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [The One That Got Away \(feat\. B.o.B\)](https://open.spotify.com/album/0hnaydjZUbzKPn4orAxzCL) | 4:22 |
+| 34 | [The One That Got Away](https://open.spotify.com/track/0YdcjSwXRXuGOkIW5sjJWE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [The One That Got Away \(feat\. B.o.B\)](https://open.spotify.com/album/0hnaydjZUbzKPn4orAxzCL) | 4:22 |
+| 35 | [WONDER](https://open.spotify.com/track/1nJNqdhKLx2LF01wAtkH8j) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:24 |
 | 36 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 |
 | 37 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 |
 | 38 | [Waking Up In Vegas](https://open.spotify.com/track/6fvxos1qSHrIgOkKw4dhWS) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:19 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 46 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
 | 47 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 | 48 | [ALL THE LOVE](https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:15 |
-| 49 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
-| 50 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 |
+| 49 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 |
+| 50 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
 
-Snapshot ID: `au5qAAAAAACuLAv438IKyyNjAqkfW8l4`
+Snapshot ID: `au+7gAAAAADNuU0vprUk3fBPgEUqjsRz`

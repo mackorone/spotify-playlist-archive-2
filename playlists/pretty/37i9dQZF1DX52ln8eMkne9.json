@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 222987,
+  "num_followers": 223043,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAO0J39Vxvs7gK7umgF0vi5MbcLUf",
   "tracks": [
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
-        "name": "Dance Of Time",
-        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "Little Paradise",
-      "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
-    },
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 213010,
       "name": "Join Me in a Dream",
       "url": "https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Dance Of Time",
+        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "Little Paradise",
+      "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 129533,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/1N9e1myOWV26evyObwnkoM"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "My Kinda Swing",
         "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 158373,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/3y2T4X0ECN8LWG72gKIjFL"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 129533,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/1N9e1myOWV26evyObwnkoM"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
         "name": "Castles in the Air",
         "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
       },
@@ -483,18 +499,18 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+        "name": "Cool Velvet: Stan Getz And Strings",
+        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+      "duration_ms": 246866,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -515,22 +531,6 @@
       "duration_ms": 217208,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/5zSVV1d87RqUFiZx7kPeKd"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
-        "name": "Cool Velvet: Stan Getz And Strings",
-        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Sea of Love",
-        "url": "https://open.spotify.com/album/3viYc1A9PygUx2PTHyzJ8O"
-      },
-      "artists": [
-        {
-          "name": "Jody Sternberg",
-          "url": "https://open.spotify.com/artist/5e54vDDW4xAxgz6Z0HfOdv"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/76nJXcFAhwy1w1Sld9AhqW"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "Skylark",
         "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 274945,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Sea of Love",
+        "url": "https://open.spotify.com/album/3viYc1A9PygUx2PTHyzJ8O"
+      },
+      "artists": [
+        {
+          "name": "Jody Sternberg",
+          "url": "https://open.spotify.com/artist/5e54vDDW4xAxgz6Z0HfOdv"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/76nJXcFAhwy1w1Sld9AhqW"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "Violets for Your Furs",
         "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 216654,
       "name": "Violets for Your Furs",
       "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 207745,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Fever: a Peggy Lee Celebration!",
-        "url": "https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 366706,
-      "name": "The Folks Who Live on the Hill",
-      "url": "https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "Spring Waltz",
         "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Fever: a Peggy Lee Celebration!",
+        "url": "https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 366706,
+      "name": "The Folks Who Live on the Hill",
+      "url": "https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1931,6 +1931,30 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
+        "name": "To Miss Shirley Horn with Love",
+        "url": "https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Claudia Zannoni",
+          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        }
+      ],
+      "duration_ms": 348229,
+      "name": "Isn't It a Pity",
+      "url": "https://open.spotify.com/track/5G0iZZ2GagXujTaBRAnW0U"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
         "name": "The Art of Jazz with Ben Besiakov",
         "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
       },
@@ -1955,30 +1979,6 @@
       "duration_ms": 319955,
       "name": "Emily",
       "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
-        "name": "To Miss Shirley Horn with Love",
-        "url": "https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Claudia Zannoni",
-          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        }
-      ],
-      "duration_ms": 348229,
-      "name": "Isn't It a Pity",
-      "url": "https://open.spotify.com/track/5G0iZZ2GagXujTaBRAnW0U"
     },
     {
       "added_at": "2026-08-28 13:51:31",

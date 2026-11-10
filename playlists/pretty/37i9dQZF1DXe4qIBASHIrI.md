@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,746 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,773 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 50 | [Un Año Quebrado](https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 3:32 |
 | 51 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
 | 52 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 |
-| 53 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
-| 54 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
+| 53 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
+| 54 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
 | 55 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 |
 | 56 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
 | 57 | [Monitor](https://open.spotify.com/track/6w0ZRnaxlWcpHTpJW3K4Ma) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor \(Slidepac\)](https://open.spotify.com/album/7ocVUPDtRB9Vna4d29DvMd) | 3:55 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 62 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 |
 | 63 | [Voltage Is O.K.](https://open.spotify.com/track/55ZfCuNYNWYW4l9dLOVfVD) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Menonita Rock](https://open.spotify.com/album/6djkx8A7bD2sf7LsF42onV) | 3:40 |
 | 64 | [Minutos de Aire \(feat\. Jorge Gonzalez\)](https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 5 Coyote Nights](https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F) | 4:37 |
-| 65 | [Chubaca Tiene un Secreto](https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Levantate Sakuraba](https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS) | 3:33 |
-| 66 | [Lo Que Puedes Dar](https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV) | [Los Fascinantes](https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ) | [Lo Que Puedes Dar](https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV) | 2:52 |
+| 65 | [Lo Que Puedes Dar](https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV) | [Los Fascinantes](https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ) | [Lo Que Puedes Dar](https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV) | 2:52 |
+| 66 | [Chubaca Tiene un Secreto](https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Levantate Sakuraba](https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS) | 3:33 |
 | 67 | [Cielo](https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Salvaje](https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E) | 4:23 |
 | 68 | [Ja Ja Ja](https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Never Greens, Vol\. 1](https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh) | 4:01 |
 | 69 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |

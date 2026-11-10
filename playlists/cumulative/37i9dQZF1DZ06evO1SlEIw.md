@@ -4,7 +4,7 @@
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 30 min
+44 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Kami no Miwaza](https://open.spotify.com/track/1ZwXYsG8IA9h10Uz7gVNdU) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 2:19 | 2024-03-27 | 2024-04-23 |
 | [Kanojo wa Tsumetai Hitsugi no Nakade](https://open.spotify.com/track/20doJFAJWN2Krqri6fTbpZ) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:19 | 2024-04-23 | 2025-03-14 |
 | [Moshi Kono Kabe No Naka Ga Ikken No Ie Datoshitara](https://open.spotify.com/track/2nHjd0aNkPjP5MnA6kMwFm) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Jiyuu Eno Shingeki](https://open.spotify.com/album/3SbektNvHcTUH5uP2fpiUP) | 4:12 | 2022-12-23 |  |
-| [Nikagetsugo no Kimi e](https://open.spotify.com/track/7IMuezAZparajKkgkCMalN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:27 | 2022-12-23 |  |
+| [Nikagetsugo no Kimi e](https://open.spotify.com/track/7IMuezAZparajKkgkCMalN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:27 | 2022-12-23 | 2026-11-10 |
 | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv) | 4:44 | 2023-12-13 |  |
 | [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-10 |  |
 | [Saigo no Senka](https://open.spotify.com/track/6s1vr66o45wiygolreLIfz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg) | 5:24 | 2024-08-22 | 2024-09-06 |
@@ -39,6 +39,7 @@
 | [巫女の祈り \- Strings Quartet Version](https://open.spotify.com/track/4efVZMDuSOBKJRmyxUCFYd) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 3:29 | 2024-01-23 | 2024-02-01 |
 | [希望へ向う譚詩曲 \- Long Version](https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 8:08 | 2022-12-23 |  |
 | [彼の者の名は… \- Vocalized Version](https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 6:12 | 2022-12-23 |  |
+| [彼女は冷たい棺の中で](https://open.spotify.com/track/3mo7ekUP32oYKKfE1pv7DS) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:19 | 2026-11-10 |  |
 | [愛の放浪者 \- Vocalized Version](https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:41 | 2022-12-23 |  |
 | [戦いの鐘 \- Long Version](https://open.spotify.com/track/6EByiOlFcxdA5zj8Gcu0wU) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:38 | 2023-01-31 | 2026-06-29 |
 | [来訪者 \- Long Version](https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 4:30 | 2022-12-23 |  |

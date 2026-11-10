@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,709 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,710 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 5 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 6 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 7 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 |
-| 8 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 |
-| 9 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
+| 8 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
+| 9 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 |
 | 10 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 |
 | 11 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 |
 | 12 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 49 | [Out of Time Man](https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two of Diamonds](https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5) | 2:57 |
 | 50 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 |
 | 51 | [Young And Dumb](https://open.spotify.com/track/4b3EgGk2hdOQwBHvFQUTmJ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Young And Dumb](https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r) | 2:37 |
-| 52 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
-| 53 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 |
+| 52 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 |
+| 53 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
 | 54 | [couleur menthe à l'eau](https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [uplifters](https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9) | 3:32 |
 | 55 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
 | 56 | [Yours & Mine](https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:33 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 66 | [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 |
 | 67 | [Same Old Game](https://open.spotify.com/track/5NWGBbsGm0NmWfB8ipByzA) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Same Old Game](https://open.spotify.com/album/4veOrtelXSE4JncGgA2FKK) | 2:44 |
 | 68 | [Sua Alma](https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [D'Alma](https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us) | [Umoja](https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA) | 4:42 |
-| 69 | [All Night](https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [All Night](https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td) | 3:16 |
-| 70 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
-| 71 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
+| 69 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 70 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
+| 71 | [All Night](https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [All Night](https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td) | 3:16 |
 | 72 | [Starlight](https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Starlight](https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf) | 3:21 |
 | 73 | [Grizzly Bear](https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone](https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6) | 4:08 |
 | 74 | [I try my best](https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [I try my best](https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS) | 3:49 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 82 | [Go For The Other Side](https://open.spotify.com/track/4i7ZRojYjzCNi2a3lpzfhs) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Go For The Other Side](https://open.spotify.com/album/47W7mP5qdbJuR7NAcgccgl) | 3:28 |
 | 83 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 |
 | 84 | [Autour de toi](https://open.spotify.com/track/0nXBuHnmJJeFZMVkWAAU51) | [Milhan](https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2) | [Latino Triste](https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F) | 3:17 |
-| 85 | [Polaroïds](https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Polaroïds](https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl) | 3:13 |
-| 86 | [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 |
+| 85 | [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 |
+| 86 | [Polaroïds](https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Polaroïds](https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl) | 3:13 |
 | 87 | [Beast of the Night](https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Beast of the Night](https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU) | 3:40 |
 | 88 | [Goanna](https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Goanna](https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg) | 2:59 |
 | 89 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 94 | [San Francisco](https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [San Francisco](https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4) | 3:51 |
 | 95 | [Rapids of Love](https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm) | [Rapids of Love](https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D) | 2:45 |
 | 96 | [Don't Forget Yourself](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [California Calling](https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp) | 3:21 |
-| 97 | [Too High](https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Too High](https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb) | 3:58 |
-| 98 | [END OF THE SKY](https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [END OF THE SKY](https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45) | 2:39 |
+| 97 | [Plume](https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY) | [Simon Mény](https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ) | [Plume](https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7) | 3:17 |
+| 98 | [Too High](https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Too High](https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb) | 3:58 |
 | 99 | [Origami](https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Origami](https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7) | 3:46 |
-| 100 | [Plume](https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY) | [Simon Mény](https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ) | [Plume](https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7) | 3:17 |
+| 100 | [END OF THE SKY](https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [END OF THE SKY](https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45) | 2:39 |
 
 Snapshot ID: `AAAAAPz/U+lnqn2OHYcheGtpDuY0qZlp`

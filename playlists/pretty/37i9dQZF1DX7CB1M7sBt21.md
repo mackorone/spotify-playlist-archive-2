@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,496 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,507 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 52 | [Into the Groove](https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Angel](https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK) | 4:43 |
 | 53 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 54 | [Blue \(Da Ba Dee\) \- Gabry Ponte Video Edit](https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 3:39 |
-| 55 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 |
-| 56 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
+| 55 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
+| 56 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 |
 | 57 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 |
 | 58 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 | 59 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 |

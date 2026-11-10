@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,264 songs - 2 day 17 hr 36 min
+1,265 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 | 2025-05-23 | 2026-05-21 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-01-26 | 2023-03-31 |
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-03-24 | 2022-04-20 |
+| [Look At All The Happy People](https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG) | [Bluegirl](https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr) | [Look At All The Happy People](https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU) | 3:26 | 2026-11-09 |  |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-13 | 2025-03-07 |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-12-16 | 2022-07-28 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-09-18 | 2024-12-06 |
@@ -709,7 +710,7 @@
 | [Love You Right](https://open.spotify.com/track/2X4zeCbENnOF6cQYKLbfyq) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love You Right](https://open.spotify.com/album/6KTqHLSSHvbv6E0KgfYlnm) | 3:01 | 2022-03-24 | 2022-04-16 |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-02-16 | 2024-12-06 |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2024-05-23 | 2024-12-06 |
-| [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-05-02 |  |
+| [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-05-02 | 2026-11-10 |
 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 | 2026-02-12 | 2026-04-27 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-23 | 2025-03-06 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2026-01-23 |  |

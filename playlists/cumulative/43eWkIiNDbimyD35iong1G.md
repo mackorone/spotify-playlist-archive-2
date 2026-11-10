@@ -2,7 +2,7 @@
 
 ### [Wedding Songs 2026](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
-> The ultimate wedding mix and timeless wedding music for your special day\. Celebrate wedding love from ceremony to reception with essential wedding songs by Bruno Mars, John Legend, Taylor Swift &amp; Coldplay\. The complete romantic wedding soundtrack\. Updated weekly for 2026.
+> The ultimate wedding music mix for your ceremony, first dance &amp; reception\. Experience timeless wedding love ballads and upbeat wedding songs featuring Ed Sheeran, Taylor Swift, John Legend &amp; Dan + Shay\. Your essential wedding playlist\. Updated weekly.
 
 287 songs - 17 hr 12 min
 

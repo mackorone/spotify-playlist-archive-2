@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,143 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,180 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 44 | [BOA](https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:34 |
 | 45 | [Running Up Freestyle](https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:04 |
 | 46 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 |
-| 47 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 |
-| 48 | [Like a Freak](https://open.spotify.com/track/5xTmKnPWXX4FcYgpxjXTrD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 1:16 |
+| 47 | [Like a Freak](https://open.spotify.com/track/5xTmKnPWXX4FcYgpxjXTrD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 1:16 |
+| 48 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 |
 | 49 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 |
 | 50 | [B.B.B.](https://open.spotify.com/track/1qnJsxcWSJPuacF8tvDgYd) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Boiling Point](https://open.spotify.com/album/749xM3zGRzzipjewrRzTfW) | 2:20 |
 
-Snapshot ID: `au0YgAAAAAD+7KtTLprL+E32jX4oHRz+`
+Snapshot ID: `au+7gAAAAACGzc62AyLWaB28K4ehrUMw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SNIK",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -604,7 +604,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 172000,
       "name": "AGAINST ALL",
       "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 156992,
       "name": "APROVEITAR",
       "url": "https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 168695,
       "name": "ATOUTALE",
       "url": "https://open.spotify.com/track/0rFYzY1NdEywkMHHR1IXrO"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 181492,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/6S1gs8NVoVEi8ODwUHLvqW"
@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 160151,
       "name": "Bijo Bijo",
       "url": "https://open.spotify.com/track/6TMlv6rPQCsjrBSa1mCfEe"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 152368,
       "name": "BLUE CURACAO",
       "url": "https://open.spotify.com/track/5tLBF4O1yatzdf8lQeQibM"
@@ -2810,6 +2810,24 @@
       "duration_ms": 202800,
       "name": "BRO X3",
       "url": "https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB"
+    },
+    {
+      "album": {
+        "name": "BTF",
+        "url": "https://open.spotify.com/album/46MhiVqO9KAeaagW2qanjt"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219100,
+      "name": "BTF",
+      "url": "https://open.spotify.com/track/2rvf9qEEw2CCR5juZU1TGN"
     },
     {
       "album": {
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 193846,
       "name": "Creta",
       "url": "https://open.spotify.com/track/4RneiUNonURNBoT5IKC4ku"
@@ -5775,6 +5793,28 @@
     },
     {
       "album": {
+        "name": "GOURI",
+        "url": "https://open.spotify.com/album/2cprn8WOgZV7GlAR8xrmzV"
+      },
+      "artists": [
+        {
+          "name": "Silly Slime",
+          "url": "https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl"
+        },
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115400,
+      "name": "GOURI",
+      "url": "https://open.spotify.com/track/4tbwYf1pYmFPMuNnWu6C2k"
+    },
+    {
+      "album": {
         "name": "GOUSTAREI",
         "url": "https://open.spotify.com/album/0DK32gaYIFI0EUazkxq4Aj"
       },
@@ -6332,6 +6372,24 @@
       "duration_ms": 226595,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/6KIKPP18A8XR66bRVMy08k"
+    },
+    {
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
       "album": {
@@ -7384,7 +7442,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 144000,
       "name": "KONTAKIES",
       "url": "https://open.spotify.com/track/0oguLG6sMAtzEEzdZU8MoS"
@@ -7414,7 +7472,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 145455,
       "name": "KONTRA STO NOMO",
       "url": "https://open.spotify.com/track/08EaxbwB0iQIjdGrhtO7KK"
@@ -8581,6 +8639,28 @@
     },
     {
       "album": {
+        "name": "Medallion",
+        "url": "https://open.spotify.com/album/5etpD9LDjp2MgWg1PayD8E"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Medallion",
+      "url": "https://open.spotify.com/track/7H7dHzMQGXLl1NveKglZ1E"
+    },
+    {
+      "album": {
         "name": "MELANI",
         "url": "https://open.spotify.com/album/0i8eSP7x4801qP5X3tRThr"
       },
@@ -9241,6 +9321,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "NISIA",
         "url": "https://open.spotify.com/album/6ZUkBlTayrdL1pI6I9Q4Ue"
       },
@@ -9494,6 +9592,28 @@
       "duration_ms": 172615,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/1Q8rZrajPF6SP6casHTMVA"
+    },
+    {
+      "album": {
+        "name": "OLA",
+        "url": "https://open.spotify.com/album/592UOi281fiNmo0RGtvKGM"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159660,
+      "name": "OLA",
+      "url": "https://open.spotify.com/track/10HdOwmrZ9IrX9vYIfXNKZ"
     },
     {
       "album": {
@@ -9864,7 +9984,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 113333,
       "name": "Oxi Oxi",
       "url": "https://open.spotify.com/track/4tr7QnnigYv7MfWZECjtTD"
@@ -12685,6 +12805,32 @@
     },
     {
       "album": {
+        "name": "SUVS",
+        "url": "https://open.spotify.com/album/2KE8q640Y4z16ZWE2xfD9R"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Quervo",
+          "url": "https://open.spotify.com/artist/4SEFbvxDiWfU8ucxo1kymr"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "SUVS",
+      "url": "https://open.spotify.com/track/6YfzIZmyRO420cwXoq8sUF"
+    },
+    {
+      "album": {
         "name": "SYNTAGH",
         "url": "https://open.spotify.com/album/1RW7ZSxu05jD61IOeydBAi"
       },
@@ -12778,6 +12924,28 @@
       "duration_ms": 128000,
       "name": "TA EXW PANW MOU",
       "url": "https://open.spotify.com/track/6c0Mv6NHqLAJQ2mZxiVjGB"
+    },
+    {
+      "album": {
+        "name": "Ta Paidia Tis Skonis",
+        "url": "https://open.spotify.com/album/1ckk4AfCu0eToYn4HW96pX"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165017,
+      "name": "Ta Paidia Tis Skonis",
+      "url": "https://open.spotify.com/track/2TrY7JObDgtkXxsZbUuvHr"
     },
     {
       "album": {
@@ -13172,6 +13340,24 @@
       "duration_ms": 282115,
       "name": "Tha Ta Katafero",
       "url": "https://open.spotify.com/track/19WDU6ZfYeVNYtm9tL4RkL"
+    },
+    {
+      "album": {
+        "name": "Tha To Ksanakana",
+        "url": "https://open.spotify.com/album/2pwFXfNczdgMbmpQ8NFFFw"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239016,
+      "name": "Tha To Ksanakana",
+      "url": "https://open.spotify.com/track/5Q2NvgoOY0cJFhbLW8VZQF"
     },
     {
       "album": {
@@ -14188,6 +14374,32 @@
       "duration_ms": 176843,
       "name": "WHISKEY",
       "url": "https://open.spotify.com/track/7y6Nl7g2lPJ3zP4RaN33DE"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/3s9Clp9uXr3iHTOKZTPLvI"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125510,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3QBJHQh5yaDS2pzMZMQI1R"
     },
     {
       "album": {

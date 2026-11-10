@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,469 songs - 12 day 17 hr 30 min
+5,472 songs - 12 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1726,6 +1726,7 @@
 | [Fading Echoes](https://open.spotify.com/track/5yIHSwTY5LANczMnsjLPim) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Fading Echoes](https://open.spotify.com/album/6A62zL1RUIMKRwCTIc8T8t) | 3:37 | 2025-05-10 |  |
 | [Fading Gold](https://open.spotify.com/track/6sH1EExdd4wbOxZ75zq6hZ) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:27 | 2025-10-09 |  |
 | [Fading Memories](https://open.spotify.com/track/2Tjq2WaKud0Y7p23guCK5T) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Fading Memories](https://open.spotify.com/album/3Z0bcJ6hkX0CTwOqZlafrn) | 4:00 | 2025-06-05 |  |
+| [Fading Trace](https://open.spotify.com/track/25SdqP59ZUBkkfTZXgVhzN) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Burn the Old Maps](https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth) | 2:45 | 2026-11-09 |  |
 | [Fading Trace](https://open.spotify.com/track/6VRtRhIuagAfxY6tXIjWMe) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Fading Trace](https://open.spotify.com/album/0L1E65Cgz1nwbjD3XOe47v) | 2:45 | 2026-08-26 |  |
 | [Faith and Loss](https://open.spotify.com/track/3zlB7vUQsAE28KJDcg8Hk1) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Faith and Loss](https://open.spotify.com/album/0WlDmKxKEDZsXMEOrpsNfm) | 3:25 | 2025-05-31 |  |
 | [Fake](https://open.spotify.com/track/0MBYfuf0BxZH1FJf6jHTus) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 2:51 | 2025-04-09 |  |
@@ -4295,6 +4296,7 @@
 | [somehow you know](https://open.spotify.com/track/3MyMQQY8A2DFw9BU9n82bh) | [Bishesh Silwal](https://open.spotify.com/artist/0gh2ztSK87CtLjYwEDSITZ) | [somehow you know](https://open.spotify.com/album/1pQrtc21pBDPyYy0XZSIrV) | 2:48 | 2025-10-12 |  |
 | [Something](https://open.spotify.com/track/5gAPlerVQ3cFednbpheJdQ) | [AIRFLO](https://open.spotify.com/artist/5enWQoEEYc5HIcUmju49vL) | [Something](https://open.spotify.com/album/3DtbqRhzGDVrWBzkBHjuF6) | 4:00 | 2026-11-02 |  |
 | [Something](https://open.spotify.com/track/3OD7xq8S6eqfBALoJvN5hV) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Something](https://open.spotify.com/album/5QpuH1peDU5W5Wc3gfdMJY) | 3:36 | 2025-09-15 |  |
+| [Sometimes](https://open.spotify.com/track/53AWwRIORkZEKeQgbYEEN9) | [VKY Emotion 237](https://open.spotify.com/artist/6h6qfGkgMnXehDGCKyF6Fj), [Aka Relli](https://open.spotify.com/artist/48Vao2QW3UDxRAA8zTMus7) | [Sometimes](https://open.spotify.com/album/3fdeMM8GUqyNNxsK8bmAbb) | 2:58 | 2026-11-09 |  |
 | [Somewhere I Used to Know \- Initial Version](https://open.spotify.com/track/7f6rfp7aXoVAkw4TybTL7j) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Somewhere I Used to Know \(Initial Version\)](https://open.spotify.com/album/3CPKtNKfxolxLfij1rfoas) | 4:04 | 2025-06-01 |  |
 | [Somewhere Unknown](https://open.spotify.com/track/5vaJe0O125oOMZnjDrv7ca) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Somewhere Unknown](https://open.spotify.com/album/7nGLkpkRmwx9g39hngKcR9) | 3:01 | 2026-01-01 |  |
 | [Son latidos](https://open.spotify.com/track/5VOSgEmunAUim5YrSTvOqE) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:41 | 2026-04-12 |  |
@@ -5020,6 +5022,7 @@
 | [Unmade](https://open.spotify.com/track/3kfYHxdBmhXdEvpn9vXCxE) | [Ascrail](https://open.spotify.com/artist/1041Yy0Ao1YWSBj0gD1hHG) | [Unmade](https://open.spotify.com/album/6MKzwexbNEDlSZFm2tiaZL) | 3:21 | 2026-10-17 |  |
 | [UNO DOS TRES](https://open.spotify.com/track/4Mc5YJxzaZ7cp9blMtLGU7) | [N i G H T S](https://open.spotify.com/artist/1qkiRLdru6TQdeTX0PI1CP) | [Margarita](https://open.spotify.com/album/4YHG0Qi5K7IS8MRxrg66Hr) | 1:59 | 2025-05-16 |  |
 | [Unreal Pop Fantasy](https://open.spotify.com/track/0y6NIEdhBauBaKoiTyOmUg) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 2:44 | 2025-09-19 |  |
+| [Unspoken](https://open.spotify.com/track/78ab07jV5XIsr1Zlmtq4hs) | [N3OLUMIN](https://open.spotify.com/artist/7bpeZd1O8qMlzRN49oUWZl) | [Unspoken](https://open.spotify.com/album/3G4QJXO7Y9fTAgqG6MPGug) | 3:10 | 2026-11-09 |  |
 | [Unstoppable](https://open.spotify.com/track/7lF8Va3ilPS4CMv9ihv9g9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Aggressive and Electric](https://open.spotify.com/album/4fU6piQ6RsYHW50LXKA2UL) | 2:02 | 2025-09-19 |  |
 | [Unstoppable \(another\)](https://open.spotify.com/track/0d0jkTGayciXI8DxIwFSXY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Aggressive and Electric](https://open.spotify.com/album/4fU6piQ6RsYHW50LXKA2UL) | 2:53 | 2025-09-19 |  |
 | [Unstoppable Energy](https://open.spotify.com/track/5RZnOGfTbLLVLnBCTb5ivU) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Powerful Energy Pop Electricity](https://open.spotify.com/album/5dMZ4odMNv3qx6UVBoDZ2e) | 3:30 | 2025-09-19 |  |

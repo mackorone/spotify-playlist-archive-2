@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- United Kingdom.
 
-390 songs - 23 hr 14 min
+391 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Mimesis](https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:51 | 2026-10-23 | 2026-10-31 |
 | [Mistletoe](https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH) | 3:02 | 2025-12-19 | 2025-12-31 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2025-12-05 | 2026-01-03 |
-| [Monster Mash](https://open.spotify.com/track/2D7iDoCv55FL4ZaCF5y89f) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX), [The Crypt\-Kickers](https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5) | [Monster Mash \(Monster Party Spoooky Versions\)](https://open.spotify.com/album/2FZo0PX8puTO2u6E0HFXqz) | 3:13 | 2026-11-06 |  |
+| [Monster Mash](https://open.spotify.com/track/4uUVNaxpS4zYcXkTrrRp6R) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX) | [Sinister Stomp](https://open.spotify.com/album/5oBxNVnIhfXuOlYLqtQLhO) | 3:14 | 2026-11-06 |  |
+| [Monster Mash](https://open.spotify.com/track/2D7iDoCv55FL4ZaCF5y89f) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX), [The Crypt\-Kickers](https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5) | [Monster Mash \(Monster Party Spoooky Versions\)](https://open.spotify.com/album/2FZo0PX8puTO2u6E0HFXqz) | 3:13 | 2026-11-06 | 2026-11-10 |
 | [Movin' To The Sun](https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:22 | 2026-07-31 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2025-10-24 |  |
 | [My 27th Birthday](https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 7:51 | 2025-10-31 | 2025-11-08 |

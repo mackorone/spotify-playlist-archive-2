@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,913 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,959 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 17 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
 | 18 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
 | 19 | [Amidinine](https://open.spotify.com/track/2ISu36NpmL9Uirpn0ubbQ4) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Amidinine](https://open.spotify.com/album/45rSglMAjMobDFFbWbDcAU) | 4:21 |
-| 20 | [Pk 18](https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [Bedia](https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd) | 2:31 |
-| 21 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
+| 20 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
+| 21 | [Pk 18](https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [Bedia](https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd) | 2:31 |
 | 22 | [Mama](https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Akö](https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx) | 2:04 |
 | 23 | [Degg Gui](https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Fixi](https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET) | [Degg Gui](https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx) | 3:48 |
 | 24 | [Tamiditine](https://open.spotify.com/track/0SEiSDYckOwK8PJ4tY8PLc) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Eylel](https://open.spotify.com/album/1A14W8j3lCfImsotyGSUiT) | 5:50 |

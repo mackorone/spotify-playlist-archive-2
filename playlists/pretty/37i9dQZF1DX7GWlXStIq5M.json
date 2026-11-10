@@ -1,6 +1,6 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 354073,
+  "num_followers": 354015,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Tamborim",
-        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
+        "name": "Seda de Casulo",
+        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
       },
       "artists": [
         {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 165568,
-      "name": "Tamborim",
-      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
+      "duration_ms": 150422,
+      "name": "Ningu\u00e9m Morre de Amor",
+      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -335,18 +331,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Seda de Casulo",
-        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
+        "name": "Tamborim",
+        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
       },
       "artists": [
         {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
         }
       ],
-      "duration_ms": 150422,
-      "name": "Ningu\u00e9m Morre de Amor",
-      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+      "duration_ms": 165568,
+      "name": "Tamborim",
+      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -383,34 +383,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Dan\u00e7ar Pelada",
-        "url": "https://open.spotify.com/album/0XKfLtfzLAWjdawsfqzxXh"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        },
-        {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Dan\u00e7ar Pelada",
-      "url": "https://open.spotify.com/track/7gu5xUTfbhrsVncu5iwD7f"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "Avoad\u00e3o",
         "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
       },
@@ -443,6 +415,34 @@
       "duration_ms": 163571,
       "name": "Banho de Sol",
       "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Dan\u00e7ar Pelada",
+        "url": "https://open.spotify.com/album/0XKfLtfzLAWjdawsfqzxXh"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Dan\u00e7ar Pelada",
+      "url": "https://open.spotify.com/track/7gu5xUTfbhrsVncu5iwD7f"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Tar\u00f4",
-        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "Tar\u00f4",
-      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "CARAMELO SALGADO",
         "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
       },
@@ -559,6 +539,26 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "Tar\u00f4",
+        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 200345,
+      "name": "Tar\u00f4",
+      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "MOSAICO",
         "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
       },
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "NUVEM NEGRA",
-        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        },
-        {
-          "name": "Fernando Catatau",
-          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
-        }
-      ],
-      "duration_ms": 294570,
-      "name": "NUVEM NEGRA",
-      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "Baby, l\u00e1 onde?",
         "url": "https://open.spotify.com/album/1KN3NoJYzoeyffdUje6AYn"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 206415,
       "name": "Baby, l\u00e1 onde?",
       "url": "https://open.spotify.com/track/0wWEfSm8cY7bX1yQzuD6wc"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "NUVEM NEGRA",
+        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        },
+        {
+          "name": "Fernando Catatau",
+          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
+        }
+      ],
+      "duration_ms": 294570,
+      "name": "NUVEM NEGRA",
+      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -735,22 +735,26 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "GRAZI",
-        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
       "artists": [
         {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
         },
         {
-          "name": "NAVII",
-          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
         }
       ],
-      "duration_ms": 171428,
-      "name": "L\u00c1 DE CIMA (1999)",
-      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
+      "duration_ms": 193610,
+      "name": "F\u00faria",
+      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -767,6 +771,26 @@
       "duration_ms": 193280,
       "name": "DANCE!",
       "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -791,30 +815,6 @@
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "F\u00faria",
-        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
-        }
-      ],
-      "duration_ms": 193610,
-      "name": "F\u00faria",
-      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "A Minha Flor",
-        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
-      },
-      "artists": [
-        {
-          "name": "Felipe Lobo",
-          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "A Minha Flor",
-      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 183210,
       "name": "a1",
       "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "A Minha Flor",
+        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
+      },
+      "artists": [
+        {
+          "name": "Felipe Lobo",
+          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "A Minha Flor",
+      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "Tento",
+        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Tento",
+      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "Mais Que Isso",
         "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 228000,
       "name": "Mais Que Isso",
       "url": "https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "Tento",
-        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Tento",
-      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "efeito borboleta: caos",
+        "url": "https://open.spotify.com/album/6HiLYfZopYkN0dnniW2Ok1"
+      },
+      "artists": [
+        {
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "HOMEM N\u00c3O PENSA",
+      "url": "https://open.spotify.com/track/66vstCDJ5H9tEIgGielOnM"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "efeito borboleta: caos",
-        "url": "https://open.spotify.com/album/6HiLYfZopYkN0dnniW2Ok1"
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
       },
       "artists": [
         {
-          "name": "BELLI",
-          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
         }
       ],
-      "duration_ms": 120827,
-      "name": "HOMEM N\u00c3O PENSA",
-      "url": "https://open.spotify.com/track/66vstCDJ5H9tEIgGielOnM"
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -1055,22 +1071,6 @@
       "duration_ms": 122628,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "Tudo Pelo Show",
-        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 152232,
-      "name": "Os Mo\u00e7os da R\u00e1dio",
-      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Emocionalmente Indispon\u00edvel",
-        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Emocionalmente Indispon\u00edvel",
-      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "Avenida",
         "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
       },
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+        "name": "Emocionalmente Indispon\u00edvel",
+        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
       },
       "artists": [
         {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 139354,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+      "duration_ms": 191304,
+      "name": "Emocionalmente Indispon\u00edvel",
+      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -1195,6 +1175,26 @@
       "duration_ms": 174250,
       "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
       "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
     },
     {
       "added_at": "2026-11-06 03:00:13",

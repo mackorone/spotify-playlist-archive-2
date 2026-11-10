@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Joeboy",
-  "num_followers": 268547,
+  "num_followers": 268557,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-11-08 13:46:38",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-11-08 13:46:38",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
+    },
+    {
+      "added_at": "2026-11-08 13:46:38",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-11-08 13:46:38",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2026-11-08 13:46:38",
       "album": {
-        "name": "ANGELINA",
-        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
+        "name": "Catapult",
+        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
       },
       "artists": [
         {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
         }
       ],
-      "duration_ms": 154000,
-      "name": "ANGELINA",
-      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
+      "duration_ms": 208000,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
     },
     {
       "added_at": "2026-11-08 13:46:38",
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2026-11-08 13:46:38",
       "album": {
-        "name": "Catapult",
-        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
       },
       "artists": [
         {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Catapult",
-      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
     },
     {
       "added_at": "2026-11-08 13:46:38",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-11-08 13:46:38",
       "album": {
+        "name": "The Only Lover Boy Left (TOLBL)",
+        "url": "https://open.spotify.com/album/7fVMBx3ZTAZViAFSInMGJ0"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 164971,
+      "name": "Bolonese",
+      "url": "https://open.spotify.com/track/7DBSJmoCTvuUEO5V1FngrD"
+    },
+    {
+      "added_at": "2026-11-08 13:46:38",
+      "album": {
         "name": "Only Sad People Smile",
         "url": "https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP"
       },
@@ -1255,6 +1271,22 @@
       "duration_ms": 163200,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY"
+    },
+    {
+      "added_at": "2026-11-08 13:46:38",
+      "album": {
+        "name": "Love Is Important",
+        "url": "https://open.spotify.com/album/7AaxqJMo01Zxq3CwZjKY4C"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Love Is Important",
+      "url": "https://open.spotify.com/track/5r52OoF7vHWJa7CrJkQ1Xp"
     },
     {
       "added_at": "2026-11-08 13:46:38",
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2026-11-08 13:46:38",
       "album": {
-        "name": "The Only Lover Boy Left (TOLBL)",
-        "url": "https://open.spotify.com/album/7fVMBx3ZTAZViAFSInMGJ0"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 164971,
-      "name": "Bolonese",
-      "url": "https://open.spotify.com/track/7DBSJmoCTvuUEO5V1FngrD"
-    },
-    {
-      "added_at": "2026-11-08 13:46:38",
-      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/6E2AaPEuYIeYZdlacN6jc4"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 197052,
       "name": "My Type",
       "url": "https://open.spotify.com/track/3xsPlJ6VUeNJcbjPJ6BQ2d"
-    },
-    {
-      "added_at": "2026-11-08 13:46:38",
-      "album": {
-        "name": "Love Is Important",
-        "url": "https://open.spotify.com/album/7AaxqJMo01Zxq3CwZjKY4C"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Love Is Important",
-      "url": "https://open.spotify.com/track/5r52OoF7vHWJa7CrJkQ1Xp"
     },
     {
       "added_at": "2026-11-08 13:46:38",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2026-11-08 13:46:38",
       "album": {
-        "name": "Time Of Our Lives",
-        "url": "https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Time Of Our Lives",
-          "url": "https://open.spotify.com/artist/1a0dkcZrMwhd1nbwvIxIax"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Time Of Our Lives",
-      "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
-    },
-    {
-      "added_at": "2026-11-08 13:46:38",
-      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 152400,
       "name": "ROCK",
       "url": "https://open.spotify.com/track/1Ll7UszpQf1H3NnucmLSsA"
+    },
+    {
+      "added_at": "2026-11-08 13:46:38",
+      "album": {
+        "name": "Time Of Our Lives",
+        "url": "https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Time Of Our Lives",
+          "url": "https://open.spotify.com/artist/1a0dkcZrMwhd1nbwvIxIax"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Time Of Our Lives",
+      "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
     },
     {
       "added_at": "2026-11-08 13:46:38",

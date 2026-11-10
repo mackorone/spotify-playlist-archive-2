@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,559 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,553 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 5 | [Nunca Me Olvides](https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:01 |
 | 6 | [Ay Mi Dios](https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Ay Mi Dios](https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO) | 4:12 |
 | 7 | [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 |
-| 8 | [Como Es Que Se Hace](https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 3:25 |
-| 9 | [No Me Digas Que No](https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 4:30 |
+| 8 | [No Me Digas Que No](https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 4:30 |
+| 9 | [Como Es Que Se Hace](https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 3:25 |
 | 10 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
 | 11 | [Brickell](https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:00 |
 | 12 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Bonita \- Remix](https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Bonita \(Remix\)](https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA) | 5:22 |
 | 50 | [Dembow y Reggaeton](https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DEMBO$$](https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV) | 4:08 |
 
-Snapshot ID: `au5qAAAAAABLItMxLBbteNeWTBwmnv6a`
+Snapshot ID: `au+7gAAAAABxBGiL8ZLKQfm9hy+R7DzP`

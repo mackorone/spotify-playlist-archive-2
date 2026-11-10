@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Alba Akvama
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,083 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,092 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

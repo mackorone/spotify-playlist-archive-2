@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,010 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,045 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 56 | [Ve Kamleya \- Asees Version](https://open.spotify.com/track/0t13TDloNQhmFFLOa4bMhs) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ve Kamleya \- Asees Version](https://open.spotify.com/album/4rFLZ85c7DH7p7dTzMYanE) | 3:00 |
 | 57 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
 | 58 | [Khabar Nahi](https://open.spotify.com/track/7Esjmr77c4SU5IlMtym7Ho) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:19 |
-| 59 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 |
-| 60 | [Der Lagi Lekin](https://open.spotify.com/track/78HEXs4YB5SE9JgTHOUdDw) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 5:55 |
+| 59 | [Der Lagi Lekin](https://open.spotify.com/track/78HEXs4YB5SE9JgTHOUdDw) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 5:55 |
+| 60 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 |
 | 61 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
 | 62 | [Taaj](https://open.spotify.com/track/1BCGF3PckkLOAMyGWK3ByV) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem \(Deluxe\)](https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX) | 3:16 |
 | 63 | [Shauq](https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 4:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, indie rock, and folk sprinkled into this sonic melting pot\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,758 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,728 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 41 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 |
 | 42 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 43 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
-| 44 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 |
-| 45 | [White Horses](https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:29 |
+| 44 | [White Horses](https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:29 |
+| 45 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 |
 | 46 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
 | 47 | [Sympathy Magic](https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:28 |
 | 48 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 83 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
 | 84 | [Red Rocking Chair](https://open.spotify.com/track/1u13aCgd6aurUwkuUu4vR3) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Red Rocking Chair](https://open.spotify.com/album/5UXoHjimRykqta25wy8w2B) | 6:28 |
 | 85 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
-| 86 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
-| 87 | [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR), [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 |
+| 86 | [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR), [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 |
+| 87 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
 | 88 | [Lou Reed Was My Babysitter](https://open.spotify.com/track/5DEH15ogLTyxJnopN6QhId) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 3:19 |
 | 89 | [Room On Your Shoulder](https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Room On Your Shoulder](https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va) | 3:26 |
 | 90 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 |

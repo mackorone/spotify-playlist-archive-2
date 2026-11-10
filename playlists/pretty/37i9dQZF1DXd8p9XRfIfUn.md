@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,453 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,457 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 2 | [PA QUE LA BC](https://open.spotify.com/track/5TZ8QutXyJcMMCRgMAoUFo) | [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy) | [LCPUCR](https://open.spotify.com/album/1dMUoEEycgxB4s1ySFNab7) | 2:54 |
 | 3 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 |
 | 4 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 |
-| 5 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
-| 6 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
+| 5 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
+| 6 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
 | 7 | [DILE A TU GATO](https://open.spotify.com/track/1QOhuJfXAPwRSGPDBNXqBU) | [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy) | [DILE A TU GATO](https://open.spotify.com/album/6RRIUBQqOpXv3xwj7oxh9J) | 2:22 |
 | 8 | [ANDO](https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ANDO](https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D) | 2:52 |
 | 9 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 |

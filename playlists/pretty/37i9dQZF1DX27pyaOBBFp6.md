@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,778 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,781 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 73 | [Schemering \(Wanneer De Zon Verkleurt Tot Oranje\) \- Remastered](https://open.spotify.com/track/0hKoOOgxib2r9hNoGtyTyI) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Favorieten Expres](https://open.spotify.com/album/7ghZOFhVXnKPQrcsZ0mJXl) | 2:38 |
 | 74 | [Vader Is De Dader \- Bonus Track](https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Kom Uit De Bedstee Mijn Liefste \(Bonus Track\)](https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo) | 3:47 |
 | 75 | [Mona Lisa](https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollandse Sterren](https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs) | 2:39 |
-| 76 | [Jij Alleen](https://open.spotify.com/track/6Fa3DamR01xXEz7tB0rrf6) | [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [De Gert Timmerman Show No\. 2](https://open.spotify.com/album/0riKMv34shrO6OSwiSkAHC) | 2:01 |
-| 77 | [Parel Van De Zuidzee](https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Dit Is De Nacht](https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk) | 2:28 |
+| 76 | [Parel Van De Zuidzee](https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Dit Is De Nacht](https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk) | 2:28 |
+| 77 | [Jij Alleen](https://open.spotify.com/track/6Fa3DamR01xXEz7tB0rrf6) | [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [De Gert Timmerman Show No\. 2](https://open.spotify.com/album/0riKMv34shrO6OSwiSkAHC) | 2:01 |
 | 78 | [Anja\- De laatste dans](https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [16 Vlaamse Hits](https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc) | 3:02 |
-| 79 | [Tango bleu](https://open.spotify.com/track/0eOiH3LstB5U0QfJrOkuuk) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1967](https://open.spotify.com/album/32UDEV8bgjXTIqJumuODJD) | 3:25 |
-| 80 | [Mexico](https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9) | [Zangeres Zonder Naam](https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9) | [Alle 40 Goed](https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88) | 3:36 |
-| 81 | [Anna Paulowna](https://open.spotify.com/track/09SHbU3QUEbJuanr9U9NyE) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Favorieten Expres](https://open.spotify.com/album/1PQ906kx6b931PPEUHjhbF) | 3:26 |
-| 82 | [Een Pikketanussie](https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt) | [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [Hollandse Sterren Collectie](https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0) | 2:14 |
+| 79 | [Een Pikketanussie](https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt) | [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [Hollandse Sterren Collectie](https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0) | 2:14 |
+| 80 | [Tango bleu](https://open.spotify.com/track/0eOiH3LstB5U0QfJrOkuuk) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1967](https://open.spotify.com/album/32UDEV8bgjXTIqJumuODJD) | 3:25 |
+| 81 | [Mexico](https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9) | [Zangeres Zonder Naam](https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9) | [Alle 40 Goed](https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88) | 3:36 |
+| 82 | [Anna Paulowna](https://open.spotify.com/track/09SHbU3QUEbJuanr9U9NyE) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Favorieten Expres](https://open.spotify.com/album/1PQ906kx6b931PPEUHjhbF) | 3:26 |
 | 83 | [Beestjes](https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN) | [Ronnie](https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO), [De Ronnies](https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:48 |
 | 84 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 |
 | 85 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |

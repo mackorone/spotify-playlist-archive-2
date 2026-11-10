@@ -4,7 +4,7 @@
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 51 min
+43 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Dicen Que La Muerte](https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 3:28 | 2023-01-14 |  |
 | [Distante Instante](https://open.spotify.com/track/6q5ITxhCRAK98hh03pbgK4) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:41 | 2023-01-14 |  |
 | [Diva Francesa](https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 2:17 | 2023-01-14 |  |
+| [Don't Slow Down](https://open.spotify.com/track/5Ai6BUmEm1sQuVkjp6gSA3) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Don't Slow Down](https://open.spotify.com/album/5csPeJEHcFnSIa7TzDrrR7) | 3:27 | 2026-11-10 |  |
 | [Down 2 \- Original Mix](https://open.spotify.com/track/3ZUyhfMERIGdD2lZtbGXdy) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Club Sessions](https://open.spotify.com/album/4haY5hf6lUnMyUUn7oXFNO) | 7:10 | 2026-04-11 | 2026-06-09 |
 | [El Campeón](https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:48 | 2024-02-05 |  |
 | [El Feo](https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 5:51 | 2023-01-14 |  |

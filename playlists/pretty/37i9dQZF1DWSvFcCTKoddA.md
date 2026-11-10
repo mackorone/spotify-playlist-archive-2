@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,853 likes - 11 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,854 likes - 11 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

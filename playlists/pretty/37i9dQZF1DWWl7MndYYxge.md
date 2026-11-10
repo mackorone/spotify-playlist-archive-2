@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,114 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,063 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 27 | [Purple Rain \- 7" Single Edit; 2017 Remaster](https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 4:05 |
 | 28 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
 | 29 | [Need You Tonight](https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 3:01 |
-| 30 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
-| 31 | [Relax \(Come Fighting\)](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 |
+| 30 | [Relax \(Come Fighting\)](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 |
+| 31 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
 | 32 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 33 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
 | 34 | [L'aventurier](https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'aventurier](https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6) | 3:51 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 41 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
 | 42 | [Still Loving You](https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV) | 6:43 |
 | 43 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le train de mes souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
-| 44 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
-| 45 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
+| 44 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
+| 45 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
 | 46 | [Trois nuits par semaine](https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [3](https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu) | 5:12 |
 | 47 | [On va s'aimer](https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [Liberté](https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu) | 4:06 |
 | 48 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 61 | [Ella, elle l'a](https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Évidemment](https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN) | 4:51 |
 | 62 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 |
 | 63 | [Ça \(c'est vraiment toi\) \- Remasterisé en 2015](https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 4:28 |
-| 64 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
-| 65 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |
+| 64 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |
+| 65 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
 | 66 | [Girls Just Want to Have Fun](https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors: The Best Of Cyndi Lauper](https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3) | 3:56 |
 | 67 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 |
 | 68 | [Résiste](https://open.spotify.com/track/2IAq7NOjlLVe6bnu0YwdOV) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Évidemment](https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN) | 4:32 |

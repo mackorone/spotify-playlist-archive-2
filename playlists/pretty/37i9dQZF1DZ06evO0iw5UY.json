@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28250,
+  "num_followers": 28246,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAACdx3VCeM7G86M/3BwGJVlY",
+  "snapshot_id": "au+7gAAAAACLK/GA+OeOOqFIZyDqeGp6",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Legacy - Radio Edit",
-      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/5dQU0fKWQiAug7KBahk3Gj"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 161963,
       "name": "New World",
       "url": "https://open.spotify.com/track/2gBQ35qqBE75t00kV221Xy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/3PYnxj0fUKzJrhtZXiOf78"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alarm",
-        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 225428,
-      "name": "Alarm",
-      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PEAK",
         "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 193103,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/4MaoGkbOugIFBlTx9FbKOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 198822,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 198822,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 236806,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3MIDI56fBQenFrMMz2cO7i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moondance",
         "url": "https://open.spotify.com/album/5JbnxSY7fjom9WaIFwCZOV"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 279160,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 236806,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3MIDI56fBQenFrMMz2cO7i"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "TH2C",
+      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 163479,
       "name": "No Control",
       "url": "https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "TH2C",
-      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
     },
     {
       "added_at": null,

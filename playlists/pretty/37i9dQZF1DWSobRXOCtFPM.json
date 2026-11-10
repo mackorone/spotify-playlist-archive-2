@@ -1,39 +1,59 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 150660,
+  "num_followers": 150675,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVLvNUgwAaRrZkKqvtGmLwXIoKy",
+  "snapshot_id": "AAAAAAKdbwgNjzh1/Ugae5NDrmPFAM+D",
   "tracks": [
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
-        "name": "Legacy (Carl Cox Remix)",
-        "url": "https://open.spotify.com/album/1jgvW0X6BjMksP2FuUhUFc"
+        "name": "Beauty In Us (Carl Cox [UNVRS] Rework)",
+        "url": "https://open.spotify.com/album/3nZ3R14Bv7cc8QnOVbuQ2r"
       },
       "artists": [
         {
-          "name": "Vikthor",
-          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         },
         {
-          "name": "Pianoalani",
-          "url": "https://open.spotify.com/artist/0hGWwi26siJSLSzUq1n011"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         },
         {
           "name": "Carl Cox",
           "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
         }
       ],
-      "duration_ms": 185158,
-      "name": "Legacy - Carl Cox Remix Radio Edit",
-      "url": "https://open.spotify.com/track/069cmHPXe69lxCo318s6ni"
+      "duration_ms": 168461,
+      "name": "Beauty In Us - Carl Cox [UNVRS] Rework",
+      "url": "https://open.spotify.com/track/1cVEz3E9IKOW2M7IQ4fcbE"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
+      "album": {
+        "name": "The Phantom (Carl Cox Rewire)",
+        "url": "https://open.spotify.com/album/0QX3JtkivkxhsAePfeBfuN"
+      },
+      "artists": [
+        {
+          "name": "Renegade Soundwave",
+          "url": "https://open.spotify.com/artist/34wtf7GZVapHNvysEvuFzY"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "The Phantom - Carl Cox Rewire",
+      "url": "https://open.spotify.com/track/1z2zUsq3PSU5qKHxvJ7MOn"
+    },
+    {
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Burn Tonight",
         "url": "https://open.spotify.com/album/71LmEhiOz3TpmiJ1O34v31"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/7rET0ECdQK6UVbrFMDvHxv"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/3QrNx4hLFV5cS4SumNsrCA"
@@ -77,7 +97,31 @@
       "url": "https://open.spotify.com/track/18FNU0a23h26PZ7daIyuGx"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
+      "album": {
+        "name": "Legacy (Carl Cox Remix)",
+        "url": "https://open.spotify.com/album/1jgvW0X6BjMksP2FuUhUFc"
+      },
+      "artists": [
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        },
+        {
+          "name": "Pianoalani",
+          "url": "https://open.spotify.com/artist/0hGWwi26siJSLSzUq1n011"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "duration_ms": 185158,
+      "name": "Legacy - Carl Cox Remix Radio Edit",
+      "url": "https://open.spotify.com/track/069cmHPXe69lxCo318s6ni"
+    },
+    {
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Futurama",
         "url": "https://open.spotify.com/album/5ZD16W0hbWhN5M7oMmohCp"
@@ -93,7 +137,7 @@
       "url": "https://open.spotify.com/track/31P58Sk8gl8jmmjohUBWQF"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Blade",
         "url": "https://open.spotify.com/album/4NzxxnEpt0tyFdIbAXUKn1"
@@ -109,7 +153,7 @@
       "url": "https://open.spotify.com/track/1cuX7zjpg5aLUfA7UhLhZN"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "I\u2019m Black And I\u2019m Proud - Say It Loud (Carl Cox Techno Mix)",
         "url": "https://open.spotify.com/album/18li5VPD9GwAZDLul1YJas"
@@ -129,7 +173,7 @@
       "url": "https://open.spotify.com/track/3hV1r5GEeT6L3zgPNXBkAi"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Talking To You",
         "url": "https://open.spotify.com/album/6vx2K5yI2MDlfnKHZ4lh7u"
@@ -145,7 +189,7 @@
       "url": "https://open.spotify.com/track/3e7IOb9MBr8PfV1KU5LQ9K"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/5x1HujeSgTikExjHqf27xJ"
@@ -161,7 +205,7 @@
       "url": "https://open.spotify.com/track/2W8WB0WW0Jif7NUUjlFwzC"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Joya (Remixes)",
         "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
@@ -185,7 +229,7 @@
       "url": "https://open.spotify.com/track/319uNyq0znC1vL1VQoYnHd"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Steel Drum",
         "url": "https://open.spotify.com/album/7IfvPYfV65MiwYXQUKfOUk"
@@ -201,7 +245,7 @@
       "url": "https://open.spotify.com/track/2b5x072M9YaoZX3d4FNQjK"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "I\u2019m Black And I\u2019m Proud - Say It Loud",
         "url": "https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW"
@@ -221,7 +265,7 @@
       "url": "https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Somethin' Nasty EP",
         "url": "https://open.spotify.com/album/0ZuYGyumTL8CHCPW5Y4UTi"
@@ -237,7 +281,7 @@
       "url": "https://open.spotify.com/track/0f2awIrx2xgR3A0VwnUgPE"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Joya (Remixes)",
         "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
@@ -257,7 +301,7 @@
       "url": "https://open.spotify.com/track/4ma0W7M6P0vozkLrLqby4M"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/2C0HjOrLU30mXHQh6Ag8Jv"
@@ -273,7 +317,7 @@
       "url": "https://open.spotify.com/track/2kRMyG4XXyoX31VpuDaKiy"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Ay Querico EP",
         "url": "https://open.spotify.com/album/5HbHPaAloDwSBJtCB6mFkt"
@@ -289,7 +333,7 @@
       "url": "https://open.spotify.com/track/3KcNOurIrZIqpX30tT0zHf"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Can\u2019t Stop",
         "url": "https://open.spotify.com/album/2mrrDlJa961xfvs24sF2rC"
@@ -305,7 +349,7 @@
       "url": "https://open.spotify.com/track/2PHTL1d8V2UmnVcIDebjQY"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Too Late (Six Days of Madness)",
         "url": "https://open.spotify.com/album/7yrbKckk5EGBZbSw4dhuqw"
@@ -325,7 +369,7 @@
       "url": "https://open.spotify.com/track/3xry697cuI5EbPLN9PBBih"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Ex Machina",
         "url": "https://open.spotify.com/album/7wWXfmtiHOLt5vjIJQrsmv"
@@ -345,7 +389,7 @@
       "url": "https://open.spotify.com/track/5djLUt3zRG1sYC3MqiQJLw"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Big Saldo's Chunker 002",
         "url": "https://open.spotify.com/album/7vCrMkN3vcD2SWfmZd3fYH"
@@ -361,7 +405,7 @@
       "url": "https://open.spotify.com/track/77LNyJjmC5SSBCtzT9Biou"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Boca Linda",
         "url": "https://open.spotify.com/album/4Y6O0z9aqQw2TiGAlaWZMi"
@@ -377,7 +421,7 @@
       "url": "https://open.spotify.com/track/211cWjDcDvCoadZfvTwF0c"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "Love Rave",
         "url": "https://open.spotify.com/album/6CVXCgJYaTNqPguu55IMge"
@@ -393,7 +437,7 @@
       "url": "https://open.spotify.com/track/6Kej1UX7cX8Nxzv4sh9DVN"
     },
     {
-      "added_at": "2026-09-16 13:59:40",
+      "added_at": "2026-11-09 14:57:27",
       "album": {
         "name": "The Bells",
         "url": "https://open.spotify.com/album/2jAj35hNgG0G4zIWqdrlED"

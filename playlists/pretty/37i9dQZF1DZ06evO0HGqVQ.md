@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,568 likes - 46 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,576 likes - 46 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 19 | [Beso Tras Beso](https://open.spotify.com/track/6qPaehY7CYFCOO5qHRTXa3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 4:23 |
 | 20 | [Ella Era Todo](https://open.spotify.com/track/2omMTVSamX8SotkaYBJIgH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 5:06 |
 | 21 | [Si Tu Estuvieras](https://open.spotify.com/track/2prHeuwThub9FAPKb2REA9) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 4:57 |
-| 22 | [No Le Temas Al Amor](https://open.spotify.com/track/7jE4t5ZWcXvPnt9BSzVm8a) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:17 |
-| 23 | [Ven Tú](https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:00 |
+| 22 | [Ven Tú](https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:00 |
+| 23 | [No Le Temas Al Amor](https://open.spotify.com/track/7jE4t5ZWcXvPnt9BSzVm8a) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:17 |
 | 24 | [Te Quiero Asi](https://open.spotify.com/track/3YHoI3rKWYyxg7va9VyEy1) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 4:46 |
 | 25 | [Te Daré Mi Vida](https://open.spotify.com/track/1Tuo4INhBf6J0jbMcKbZv2) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 4:49 |
 | 26 | [Me Cuesta Tanto](https://open.spotify.com/track/0aMszifcdIAK9AYSaev409) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 4:33 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 45 | [Te Quiero Como Eres](https://open.spotify.com/track/49Y9MIid1kzJYaULdsJ7S8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Orgullo Vallenato](https://open.spotify.com/album/58XJDLb5RJOKVfGEx4OoRA) | 4:43 |
 | 46 | [Si La Ves](https://open.spotify.com/track/5YQFXXgC97Hh82y4sTB3gI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:39 |
 
-Snapshot ID: `au5qAAAAAADlKjW0aIDJdUdhuTeSzJjy`
+Snapshot ID: `au+7gAAAAACufOltxtCpDkC4ptWU5aYj`

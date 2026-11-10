@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 747760,
+  "num_followers": 748011,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "I've Drawn Your Face",
+      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "I've Drawn Your Face",
-      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
-        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/1IDdRfd99shwFnJzGJdvYm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 310973,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
+        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Reawakened",
-        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "First Song",
         "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 245148,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Reawakened",
+        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "You Better Go Now",
         "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 170070,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
       "artists": [
         {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        },
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
         }
       ],
-      "duration_ms": 406554,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1223,18 +1203,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
       },
       "artists": [
         {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
         }
       ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
+      "duration_ms": 406554,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1251,6 +1235,22 @@
       "duration_ms": 209043,
       "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "True Love's Flame",
         "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 251103,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Just a Little Lovin'",
         "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 289670,
       "name": "Just a Little Lovin\u2019",
       "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "The Moon, the Stars and You",
-        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "The Moon's a Harsh Mistress",
-      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 228174,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "The Moon, the Stars and You",
+        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "The Moon's a Harsh Mistress",
+      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "The World in You",
-        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Wright",
-          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "The World in You",
-      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "As If (feat. Vanisha Gould)",
         "url": "https://open.spotify.com/album/6ZPg8lJwVk2SQ45Z9NzpNH"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 301568,
       "name": "As If (feat. Vanisha Gould)",
       "url": "https://open.spotify.com/track/3mwk7xlvg8cq6SHhWkkFVS"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "The World in You",
+        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Wright",
+          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "The World in You",
+      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -2311,6 +2311,34 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "I\u00b4m a Fool to Want You",
+        "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        },
+        {
+          "name": "Marcelo Kimura",
+          "url": "https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3"
+        },
+        {
+          "name": "Fi Mar\u00f3stica",
+          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
+        }
+      ],
+      "duration_ms": 246349,
+      "name": "I\u00b4m a Fool to Want You",
+      "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "Come Away With Me",
         "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
       },
@@ -2323,22 +2351,6 @@
       "duration_ms": 187666,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -2407,6 +2419,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
       },
@@ -2419,34 +2447,6 @@
       "duration_ms": 216746,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/5ZfhrMkluDMI7eMyCqqR7O"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "I\u00b4m a Fool to Want You",
-        "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        },
-        {
-          "name": "Marcelo Kimura",
-          "url": "https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3"
-        },
-        {
-          "name": "Fi Mar\u00f3stica",
-          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
-        }
-      ],
-      "duration_ms": 246349,
-      "name": "I\u00b4m a Fool to Want You",
-      "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
     },
     {
       "added_at": "2026-11-06 10:21:02",

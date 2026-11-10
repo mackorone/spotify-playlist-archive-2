@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,329 likes - 39 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,328 likes - 39 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 15 | [Half The World Away \- Remastered](https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:27 |
 | 16 | [D'You Know What I Mean? \- Remastered](https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 7:43 |
 | 17 | [Acquiesce \- Remastered](https://open.spotify.com/track/2VVRmrgSmyYnEZsBTsnIRz) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:27 |
-| 18 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
+| 18 | [Let There Be Love](https://open.spotify.com/track/570oJcBwoLGZz95xTNa0JB) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:31 |
 | 19 | [Whatever \- Remastered](https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:22 |
 | 20 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
 | 21 | [Roll With It \- Remastered](https://open.spotify.com/track/3czgcbI4YZ4Gg29DOYFAnd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:00 |
-| 22 | [Let There Be Love](https://open.spotify.com/track/570oJcBwoLGZz95xTNa0JB) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:31 |
+| 22 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
 | 23 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 |
 | 24 | [Sad Song \- Mauldeth Road West Demo, Nov '92](https://open.spotify.com/track/52T65lyjsgArtoojwttcvU) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov '92\)](https://open.spotify.com/album/089WE1Vmilp2odEqlfvpdl) | 4:34 |
 | 25 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 38 | [Going Nowhere](https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:39 |
 | 39 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
 
-Snapshot ID: `au0YgAAAAABZhIeE1bcFFf9mF8+w6Jfg`
+Snapshot ID: `au+7gAAAAABj6WRG/wI92U1ovxSQ+nqC`

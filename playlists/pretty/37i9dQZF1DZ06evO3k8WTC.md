@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,395 likes - 32 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,394 likes - 32 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 31 | [Schaffino](https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:48 |
 | 32 | [Continuum](https://open.spotify.com/track/67GKBxCS4OBLzigktvn2Un) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 4:02 |
 
-Snapshot ID: `au5qAAAAAAAaUdiY82LTct5sxXhukUq6`
+Snapshot ID: `au+7gAAAAACJNO7vO8eQ+6zZig1v/qRN`

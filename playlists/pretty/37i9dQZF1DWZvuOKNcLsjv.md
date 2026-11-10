@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,986 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,985 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

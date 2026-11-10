@@ -1,13 +1,45 @@
 {
   "description": "The best videos from the world of pop! Cover: Olivia Rodrigo & Chappell Roan",
-  "num_followers": 12038,
+  "num_followers": 12042,
   "original_name": "Pop Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIay3RQ5uH1Q9IZ+nbI+6edROf+T",
+  "snapshot_id": "AAAAAJU0I/Gm+T3fv3LgiLCQ+sj3VOl6",
   "tracks": [
+    {
+      "added_at": "2026-11-10 05:13:53",
+      "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
+    },
+    {
+      "added_at": "2026-11-10 05:13:53",
+      "album": {
+        "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
+        "url": "https://open.spotify.com/album/7kjFKbcW8aAOXPLgZgjscS"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 225550,
+      "name": "My Body Isn't Ready - Orchestral Version from Sound City",
+      "url": "https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC"
+    },
     {
       "added_at": "2026-10-20 00:20:01",
       "album": {
@@ -177,22 +209,6 @@
       "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
     },
     {
-      "added_at": "2026-10-09 05:10:31",
-      "album": {
-        "name": "i think he's got a girl",
-        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 214559,
-      "name": "i think he's got a girl",
-      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
-    },
-    {
       "added_at": "2026-09-10 16:17:47",
       "album": {
         "name": "PRIMA",
@@ -223,22 +239,6 @@
       "duration_ms": 312320,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
       "added_at": "2026-10-20 00:25:26",
@@ -383,6 +383,22 @@
       "duration_ms": 214806,
       "name": "Lucy, When You Wake Up",
       "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
+    },
+    {
+      "added_at": "2026-10-09 05:10:31",
+      "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
     },
     {
       "added_at": "2026-11-02 19:47:19",
@@ -1547,22 +1563,6 @@
       "duration_ms": 214472,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/33KlGMwarP80x0CmgcHuCT"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "I\u2019m your girl right?",
-        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 169059,
-      "name": "I\u2019m your girl right?",
-      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
       "added_at": "2026-08-21 18:05:13",

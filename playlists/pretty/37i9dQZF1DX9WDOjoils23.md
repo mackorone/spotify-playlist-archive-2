@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,315 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,349 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 35 | [Ranjha](https://open.spotify.com/track/5acSF43QLkBhy2O3Y5QLLn) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu) | [Andaaz \- E \- Sufi](https://open.spotify.com/album/7c81HIvRMeSp9DdNKBG5GX) | 5:18 |
 | 36 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
 | 37 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 |
-| 38 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
-| 39 | [Ranjhe](https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d) | [Hassrat](https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ), [HARJINDER JOHAL](https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY) | [Ranjhe](https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt) | 3:26 |
+| 38 | [Ranjhe](https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d) | [Hassrat](https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ), [HARJINDER JOHAL](https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY) | [Ranjhe](https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt) | 3:26 |
+| 39 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
 | 40 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 |
 | 41 | [Bismillah](https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE) | [Rais Anis Sabri](https://open.spotify.com/artist/5T5dXV0e8XnBMY5I3TBVoD), [Jaspal Singh](https://open.spotify.com/artist/0vOHNs0vuZmA3M0oui0wZM), [Ashok Sharma](https://open.spotify.com/artist/7MK1dDhPZ2IsthCeTX7qu5) | [Bismillah](https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F) | 5:58 |
 | 42 | [Meriyaan Udaasiyann](https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Meriyaan Udaasiyann](https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k) | 10:45 |

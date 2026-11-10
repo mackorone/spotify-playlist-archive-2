@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,726 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,753 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

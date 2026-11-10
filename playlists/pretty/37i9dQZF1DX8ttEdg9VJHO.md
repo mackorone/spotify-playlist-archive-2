@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,180 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,173 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 56 | [Slow Dance \(For A Minute\)](https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Slow Dance \(For A Minute\)](https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0) | 3:34 |
 | 57 | [You](https://open.spotify.com/track/7hkYOiAjBNifkavLfxjCo6) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [How To Heal](https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B) | 2:56 |
 | 58 | [Let Me Love You](https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Let Me Love You](https://open.spotify.com/album/105LdQFucx264gr5MMo2AX) | 3:13 |
-| 59 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
-| 60 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 59 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 60 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 61 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 |
 | 62 | [Schön genug](https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Kuss.](https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs) | 3:18 |
 | 63 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |

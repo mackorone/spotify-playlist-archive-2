@@ -1,6 +1,6 @@
 {
   "description": "if you wanna party, come over to my house",
-  "num_followers": 3744973,
+  "num_followers": 3744257,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -279,38 +279,6 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-      "added_at": "2026-10-30 04:00:49",
-      "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/6c7wNxBe71RHzHlY1uqxgR"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/3DjMtj3Q1gUm1wIVnVekPC"
-    },
-    {
-      "added_at": "2026-10-30 04:00:49",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -331,6 +299,38 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2026-10-30 04:00:49",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/6c7wNxBe71RHzHlY1uqxgR"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/3DjMtj3Q1gUm1wIVnVekPC"
+    },
+    {
+      "added_at": "2026-10-30 04:00:49",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2026-10-30 04:00:49",
+      "album": {
         "name": "Mi Chico (Official - Jason Derulo x Melody)",
         "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 125357,
       "name": "Mi Chico - Official - Jason Derulo x Melody",
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
-    },
-    {
-      "added_at": "2026-10-30 04:00:49",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
-    },
-    {
-      "added_at": "2026-10-30 04:00:49",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 187436,
       "name": "Sweet but Psycho",
       "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "added_at": "2026-10-30 04:00:49",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+        "name": "DANGEROUS SUMMER",
+        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+      "duration_ms": 198620,
+      "name": "COM\u00cb N GO",
+      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
-        "name": "DANGEROUS SUMMER",
-        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 198620,
-      "name": "COM\u00cb N GO",
-      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "added_at": "2026-10-30 04:00:49",
+      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -1315,18 +1331,22 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -1355,22 +1375,26 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -1395,30 +1419,6 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-10-30 04:00:49",
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2026-10-30 04:00:49",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2026-10-30 04:00:49",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2026-10-30 04:00:49",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2026-10-30 04:00:49",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2026-10-30 04:00:49",
+      "album": {
         "name": "Sexy Magic (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 195840,
       "name": "Sexy Magic (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
-    },
-    {
-      "added_at": "2026-10-30 04:00:49",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     }
   ],
   "unique_name": "Party Hits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Sign up for False Idols at Drumsheds <a href="https://register.broadwicklive.com/false\-idols\-london?ref=dsweb">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,896 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 32 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 33 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 |
 | 34 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ) | 2:06 |
-| 35 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
-| 36 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
+| 35 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
+| 36 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
 | 37 | [Poison \- Club Shy mix](https://open.spotify.com/track/5RJNdm66nI9xUVr3A1g48B) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 3:35 |
 | 38 | [MADELINE \- Sam Girling Remix](https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [MADELINE \(Remixes\)](https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE) | 3:25 |
 | 39 | [Affirmations](https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:34 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 47 | [Freak Me Now \(with Róisín Murphy\) \- Horse Meat Disco Remix](https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna) | [Freak Me Now \(with Róisín Murphy\) \[Horse Meat Disco Remix\]](https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r) | 2:53 |
 | 48 | [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 |
 | 49 | [Moonlight](https://open.spotify.com/track/2flLSFm3o1HbThLXabDoum) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Moonlight](https://open.spotify.com/album/76tdnPDtupBVJiQPN67GTp) | 2:48 |
-| 50 | [Brat](https://open.spotify.com/track/0NVnlAuLfKeOxK0sxvJFKI) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ), [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Brat/Nasty](https://open.spotify.com/album/19gN9RaefCtvZoGUZc8YLC) | 2:32 |
+| 50 | [Chez Moi \(Waiting For You\) \- Club Mix](https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 6:25 |
 
 Snapshot ID: `AAAAAGxD8x7iCZj7Ypnp0yk3tZj1opks`

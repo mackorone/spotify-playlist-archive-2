@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,482 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,558 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 27 | [Ámame Hasta Con Los Dientes](https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 8](https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU) | 2:54 |
 | 28 | [Claridad](https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 4:10 |
 | 29 | [Fuiste un Trozo de Hielo en la Escarcha](https://open.spotify.com/track/5zKq55gTFV7MvS3f9T4Gqu) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:42 |
-| 30 | [No Huyas de Mi](https://open.spotify.com/track/4Zt2Sl24XNWTMOUhJNDwdx) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 4:01 |
+| 30 | [Amante Bandido](https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bravo Bosé \- 30 Grandes Exitos](https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS) | 4:23 |
 | 31 | [En El Boulevard \(Corre, Corre\)](https://open.spotify.com/track/6Uxus4vvORyWbkEdHxAYEj) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 3:14 |
-| 32 | [Amante Bandido](https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bravo Bosé \- 30 Grandes Exitos](https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS) | 4:23 |
+| 32 | [No Huyas de Mi](https://open.spotify.com/track/4Zt2Sl24XNWTMOUhJNDwdx) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 4:01 |
 | 33 | [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 |
 | 34 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
 | 35 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |

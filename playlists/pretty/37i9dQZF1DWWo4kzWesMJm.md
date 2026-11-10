@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,506 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,530 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 17 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
 | 18 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
 | 19 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 |
-| 20 | [La terre est ronde](https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Le Chant des sirènes](https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY) | 3:39 |
-| 21 | [Andalouse](https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm) | 2:47 |
-| 22 | [Elle me dit](https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love](https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0) | 3:38 |
+| 20 | [Elle me dit](https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love](https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0) | 3:38 |
+| 21 | [La terre est ronde](https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Le Chant des sirènes](https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY) | 3:39 |
+| 22 | [Andalouse](https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm) | 2:47 |
 | 23 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le train de mes souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
 | 24 | [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 |
 | 25 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 33 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
 | 34 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
 | 35 | [Respire encore](https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:47 |
-| 36 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
-| 37 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
+| 36 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
+| 37 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 38 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
 | 39 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
 | 40 | [Cette année\-là](https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le vagabond](https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT) | 3:12 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 43 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 44 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
 | 45 | [L'horloge tourne](https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV) | [Mickael Miro](https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl) | [Juste Comme Ça](https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03) | 3:25 |
-| 46 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |
-| 47 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
+| 46 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
+| 47 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |
 | 48 | [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 |
 | 49 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |
 | 50 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 56 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
 | 57 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 58 | [Femme de couleur](https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Mes Fantaisies](https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu) | 3:36 |
-| 59 | [Allo le monde](https://open.spotify.com/track/5oAh4WgAinKO7T7XcHetLR) | [Pauline](https://open.spotify.com/artist/4zIUBMp6XPcC2rkdtbxwyL) | [Allo le monde](https://open.spotify.com/album/0D2PjanrAYvPHQlh2R7a8v) | 3:38 |
-| 60 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |
+| 59 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |
+| 60 | [Allo le monde](https://open.spotify.com/track/5oAh4WgAinKO7T7XcHetLR) | [Pauline](https://open.spotify.com/artist/4zIUBMp6XPcC2rkdtbxwyL) | [Allo le monde](https://open.spotify.com/album/0D2PjanrAYvPHQlh2R7a8v) | 3:38 |
 
 Snapshot ID: `AAAAAGJblQUCC/kR8QxsEYspkcuiReqT`

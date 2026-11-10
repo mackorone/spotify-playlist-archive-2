@@ -2,7 +2,7 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Prashob
 
 898 songs - 2 day 2 hr 42 min
 
@@ -244,7 +244,7 @@
 | [Jenny](https://open.spotify.com/track/6a6PTDbagCbU5Ta2UtgmTb) | [Vishwi](https://open.spotify.com/artist/2O5wrjgPsRf2iqpDHCwefP), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj) | [Jenny](https://open.spotify.com/album/3ZhkUC2cX8dzTBiC5L1rQj) | 3:38 | 2026-02-06 | 2026-06-27 |
 | [Jiginnu Jilla](https://open.spotify.com/track/4X7oNZQDohDVO2R0BOpoFP) | [Vathshan](https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz) | [Jiginnu Jilla](https://open.spotify.com/album/38EHQYrl4YMz9wpDwTC0dc) | 3:14 | 2023-10-20 | 2024-04-02 |
 | [Jinukku Jikka](https://open.spotify.com/track/595MCW6XYXF10IBVpLBPrV) | [Lak](https://open.spotify.com/artist/3kNbpMF08hTkUfVQLH3zPN), [K R Soundarya](https://open.spotify.com/artist/4f9IuGiCtB0c4bWHIJnQLq) | [Jinukku Jikka](https://open.spotify.com/album/5vmnvHJgGKa3RyOpOjBJ1I) | 3:51 | 2023-03-21 | 2023-09-26 |
-| [Joker](https://open.spotify.com/track/5e6R23np1iwQxHVikdMzjv) | [Krishpy](https://open.spotify.com/artist/1jKmjC44MUhtHG00dSp90N), [Smile Tupakeys](https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA), [S Arshad Khan](https://open.spotify.com/artist/3lVZDSuFWv0gcZFdlCx9qH) | [Joker](https://open.spotify.com/album/4RTaUjh2LLDJHzUgHU8TsM) | 2:02 | 2026-08-04 |  |
+| [Joker](https://open.spotify.com/track/5e6R23np1iwQxHVikdMzjv) | [Krishpy](https://open.spotify.com/artist/1jKmjC44MUhtHG00dSp90N), [Smile Tupakeys](https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA), [S Arshad Khan](https://open.spotify.com/artist/3lVZDSuFWv0gcZFdlCx9qH) | [Joker](https://open.spotify.com/album/4RTaUjh2LLDJHzUgHU8TsM) | 2:02 | 2026-08-04 | 2026-11-10 |
 | [Jubee Baby](https://open.spotify.com/track/7KKgBtE9lYCfcuHNAQaZMJ) | [Ganesan\. S](https://open.spotify.com/artist/44acENsqsJh2l7J8y8nfIo) | [Jubee Baby](https://open.spotify.com/album/4noPrcdL77oVyaFet56KCi) | 3:01 | 2025-07-24 | 2025-08-26 |
 | [Junjujukum Bojalo \- Bb Vox](https://open.spotify.com/track/5EzdwQAb4mY3Lkm29lgHeT) | [Orjunn](https://open.spotify.com/artist/5aEyedq28oCJ3UEnBrhJUY) | [Junjujukum Bojalo \(Bb Vox\)](https://open.spotify.com/album/3ILj97p3SofQRgUDKbAw4y) | 1:15 | 2024-11-25 | 2025-02-08 |
 | [Kaadal Sollava](https://open.spotify.com/track/2FarOeJIgevJf3XLK4AYOG) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Vignesh Jeyapal](https://open.spotify.com/artist/2R0GcZMKYrKEXyriXaGANA), [Sruthy Sasidharan](https://open.spotify.com/artist/25yRkdjW9bHSoEQhHMAsT8) | [Kaadal Sollava](https://open.spotify.com/album/5IHlTtqNG4CAYGCur3BKcc) | 3:10 | 2024-04-17 | 2024-09-21 |

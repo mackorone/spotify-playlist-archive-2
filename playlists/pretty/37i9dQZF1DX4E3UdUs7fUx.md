@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952,135 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951,799 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 87 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
 | 88 | [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 |
 | 89 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
-| 90 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
-| 91 | [Carry You](https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Carry You](https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb) | 4:33 |
-| 92 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
-| 93 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
-| 94 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
-| 95 | [Safe \- Acoustic](https://open.spotify.com/track/5tfFboWJhotbIPlY1aVsOD) | [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i) | [Safe \(Acoustic\)](https://open.spotify.com/album/2IpY7zqljoR9lsytK4aYl7) | 3:45 |
-| 96 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 |
-| 97 | [Boardwalks](https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/00UxqHa2736DcXKCZGF4i9) | 3:15 |
-| 98 | [Dink's Song](https://open.spotify.com/track/1oK521blRUrNIo4vgJbfGB) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Desdemona](https://open.spotify.com/album/3xXDyEwHqzDmXN5R6H65jx) | 3:27 |
-| 99 | [Wildfire](https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Wildfire](https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A) | 5:29 |
-| 100 | [Where's My Love \- Acoustic](https://open.spotify.com/track/6lvGthAouA0KfQ29tz4XAt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Acoustic\)](https://open.spotify.com/album/2u0MG5q7xctOMwx2q9Tm4o) | 3:59 |
+| 90 | [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 |
+| 91 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
+| 92 | [Carry You](https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Carry You](https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb) | 4:33 |
+| 93 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
+| 94 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
+| 95 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
+| 96 | [Safe \- Acoustic](https://open.spotify.com/track/5tfFboWJhotbIPlY1aVsOD) | [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i) | [Safe \(Acoustic\)](https://open.spotify.com/album/2IpY7zqljoR9lsytK4aYl7) | 3:45 |
+| 97 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 |
+| 98 | [Boardwalks](https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/00UxqHa2736DcXKCZGF4i9) | 3:15 |
+| 99 | [Dink's Song](https://open.spotify.com/track/1oK521blRUrNIo4vgJbfGB) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Desdemona](https://open.spotify.com/album/3xXDyEwHqzDmXN5R6H65jx) | 3:27 |
+| 100 | [Wildfire](https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Wildfire](https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A) | 5:29 |
 
 Snapshot ID: `AAAAAE9Ta1iV5tRU9C1cRyxyVCwJCzdO`

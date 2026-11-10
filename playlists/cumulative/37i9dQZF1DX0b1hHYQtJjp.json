@@ -3319,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Barely Holding On",
+        "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Barely Holding On",
+      "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
+    },
+    {
+      "album": {
         "name": "Basic Being Basic",
         "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
       },
@@ -10088,7 +10106,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 197637,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
@@ -11356,7 +11374,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 176972,
       "name": "Don't Want To Fall In Love",
       "url": "https://open.spotify.com/track/14xLURVIYerktg87WlGdwC"
@@ -13920,7 +13938,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 182833,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb"
@@ -26253,6 +26271,24 @@
     },
     {
       "album": {
+        "name": "Lonely Guy",
+        "url": "https://open.spotify.com/album/0RuMs1QX1Koe3oAGxmMLrT"
+      },
+      "artists": [
+        {
+          "name": "Tiger Lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "Lonely Guy",
+      "url": "https://open.spotify.com/track/1sd7RBCgu3CbV8QiiB7jn0"
+    },
+    {
+      "album": {
         "name": "Long Run (feat. Nina Nesbitt)",
         "url": "https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7"
       },
@@ -30108,6 +30144,24 @@
       "duration_ms": 192933,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
+      "album": {
+        "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
+        "url": "https://open.spotify.com/album/7kjFKbcW8aAOXPLgZgjscS"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225550,
+      "name": "My Body Isn't Ready - Orchestral Version from Sound City",
+      "url": "https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC"
     },
     {
       "album": {
@@ -35818,6 +35872,24 @@
       "duration_ms": 163228,
       "name": "Roots",
       "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205741,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
     },
     {
       "album": {
@@ -47042,7 +47114,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 194444,
       "name": "Versailles",
       "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"

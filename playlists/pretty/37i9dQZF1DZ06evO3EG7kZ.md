@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,922 likes - 27 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,922 likes - 27 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 19 | [Ice Cream \(Waltz of the Flowers\)](https://open.spotify.com/track/3xs2MdbijxgVs0FdLSEw5i) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 1:39 |
 | 20 | [Cricket](https://open.spotify.com/track/3lKbohZkDt7f2TtS0b41XL) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Pluto Jonze](https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:36 |
 | 21 | [Chattermax](https://open.spotify.com/track/2fjzQBE5mdrkmjYI3WkAWK) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Steve Peach](https://open.spotify.com/artist/66pztm8M3eSLgxel3BVsY5) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:21 |
-| 22 | [Wagon Ride](https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 3:22 |
-| 23 | [Flat Pack](https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 3:38 |
+| 22 | [The Weekend](https://open.spotify.com/track/4gfxbgos8kfCZybOnMgmns) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [David Barber](https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:37 |
+| 23 | [Tradies](https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 1:56 |
 | 24 | [Rug Island, Pt\. 3](https://open.spotify.com/track/2kmZBAGzmvnw6vaizoZONh) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:38 |
 | 25 | [Rug Island \- Full Version](https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island \(Full Version\)](https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc) | 4:04 |
-| 26 | [Tradies](https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 1:56 |
+| 26 | [Flat Pack](https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 3:38 |
 | 27 | [Rug Island, Pt\. 2](https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:16 |
 
-Snapshot ID: `au5qAAAAAAAbqSZ7jHaydSaliV5CRsaT`
+Snapshot ID: `au+7gAAAAADqC7K4y6gXfUK22Xm6w+KS`

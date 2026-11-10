@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205474,
+  "num_followers": 205482,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADRPQd1NLhDDooyMKKEa3wS",
+  "snapshot_id": "au+7gAAAAADwyzcQYcxDC+Kfeq3qO9Qd",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Good Hearted Woman",
-      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 243436,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Winning Hand",
-        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Everything Is Beautiful (In It's Own Way)",
-      "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 229773,
       "name": "Me and Paul",
       "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Winning Hand",
+        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Everything Is Beautiful (In It's Own Way)",
+      "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
       "artists": [
-        {
-          "name": "Mishka",
-          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
-        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
+      "duration_ms": 154160,
+      "name": "Stay All Night (Stay a Little Longer)",
+      "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
     },
     {
       "added_at": null,
@@ -1083,18 +1079,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
       },
       "artists": [
+        {
+          "name": "Mishka",
+          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Stay All Night (Stay a Little Longer)",
-      "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
+      "duration_ms": 211666,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
     },
     {
       "added_at": null,

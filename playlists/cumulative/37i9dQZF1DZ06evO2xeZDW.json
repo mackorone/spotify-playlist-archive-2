@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Jojo Rabbit (Original Score)",
+        "url": "https://open.spotify.com/album/24LihGaQcALI1GA51AXpPZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30826,
+      "name": "A Game of Names",
+      "url": "https://open.spotify.com/track/1bSeOLK9dg6UTFUMZ3dyBg"
+    },
+    {
+      "album": {
         "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 101173,
       "name": "Cast of Cooks",
       "url": "https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 176840,
       "name": "Colette Shows Him Le Ropes",
       "url": "https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 91680,
       "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
       "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"

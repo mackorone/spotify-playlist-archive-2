@@ -2,9 +2,9 @@
 
 ### [indie onderweg](https://open.spotify.com/playlist/37i9dQZF1DXa9XlH8nDPns)
 
-> upbeat indie en alternative voor onderweg: van fietsrit tot een lange roadtrip of treinreis.
+> upbeat indie en alternative voor onderweg: fietsrit, roadtrip of treinreis.
 
-130 songs - 7 hr 35 min
+132 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-07-10 |  |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-07-10 |  |
 | [Back of the Bus](https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Back of the Bus](https://open.spotify.com/album/70Mz5Kxdu9EjQQ46VRkN7m) | 3:00 | 2026-07-07 | 2026-09-08 |
-| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-10-09 |  |
+| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-10-09 | 2026-11-10 |
 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 | 2025-07-10 | 2025-09-17 |
 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:19 | 2026-07-07 | 2026-09-08 |
 | [Bowie's Pressure](https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Bowie's Pressure](https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow) | 3:12 | 2026-04-08 | 2026-09-08 |
@@ -50,6 +50,7 @@
 | [Hell or High Water](https://open.spotify.com/track/3uB5VuRR6J6nKbpBYmPCj8) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Benjamin Longman](https://open.spotify.com/artist/4mXA7wTTHSpP0T2cgHmlVE) | [A Mirror Sometimes](https://open.spotify.com/album/7M64ZCQVyWoEaFRhkdhV1x) | 3:51 | 2026-07-07 | 2026-09-08 |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2025-07-10 |  |
 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-25 |  |
+| [Hit The Sky](https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28) | 2:39 | 2026-11-09 |  |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2026-07-07 | 2026-09-08 |
 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 | 2025-12-18 | 2026-10-10 |
 | [How Lonely](https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [How Lonely](https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl) | 3:45 | 2026-10-12 |  |
@@ -78,7 +79,7 @@
 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-07-10 |  |
 | [Manifastique](https://open.spotify.com/track/6RoPCTtBn5hybhwlRF9hxe) | [Lézard](https://open.spotify.com/artist/71OpeN8Riy5gGtmqlSYfVH) | [Manifastique](https://open.spotify.com/album/5iR5uQ1aH0rKn7piLCys8Z) | 3:54 | 2026-07-07 | 2026-09-08 |
 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 | 2025-07-10 |  |
-| [Midnight Cruiser](https://open.spotify.com/track/2zdZICJSfEfZVuiD5aXWdM) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [De Nachtwacht](https://open.spotify.com/album/6QTcUbIQ0VLethxET8iSah) | 2:51 | 2026-07-07 |  |
+| [Midnight Cruiser](https://open.spotify.com/track/2zdZICJSfEfZVuiD5aXWdM) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [De Nachtwacht](https://open.spotify.com/album/6QTcUbIQ0VLethxET8iSah) | 2:51 | 2026-07-07 | 2026-11-10 |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-07-10 |  |
 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-07-10 |  |
 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 | 2025-07-10 |  |
@@ -115,6 +116,7 @@
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-07-10 |  |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-07-10 |  |
 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 | 2025-07-10 | 2026-10-09 |
+| [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 | 2026-11-09 |  |
 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 | 2025-07-10 | 2026-10-09 |
 | [Sympathy For The Devil](https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Collection: The London Years](https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB) | 6:16 | 2026-07-07 | 2026-09-08 |
 | [T\-Shirt Weather](https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ) | 3:14 | 2026-07-07 | 2026-09-08 |

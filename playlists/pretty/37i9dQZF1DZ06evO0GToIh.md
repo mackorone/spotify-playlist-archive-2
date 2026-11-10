@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,483 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,683 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 17 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
 | 18 | [El Mikima](https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:36 |
 | 19 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
-| 20 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
-| 21 | [Otra Vez](https://open.spotify.com/track/59GRTQJEI4zSyiCVmHRR6k) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Regreso](https://open.spotify.com/album/4bq7eLWq5fazAwtsVnrQDM) | 4:00 |
+| 20 | [Otra Vez](https://open.spotify.com/track/59GRTQJEI4zSyiCVmHRR6k) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Regreso](https://open.spotify.com/album/4bq7eLWq5fazAwtsVnrQDM) | 4:00 |
+| 21 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
 | 22 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 |
 | 23 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
 | 24 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 43 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 | 44 | [Traigo Saldo y Ganas de Rogar](https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 3:24 |
 | 45 | [Tu Cariñito](https://open.spotify.com/track/60Q6p6nH92omdBlYILHpYm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 3:56 |
-| 46 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
-| 47 | [Soy De La Calle \- En Vivo](https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:04 |
+| 46 | [Soy De La Calle \- En Vivo](https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:04 |
+| 47 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
 | 48 | [Cómo Me Duele \- En Vivo](https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:38 |
 | 49 | [MX \- MAD](https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:42 |
 | 50 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |
 
-Snapshot ID: `au5qAAAAAAA5QUBLOhATdrKZct0f3YdM`
+Snapshot ID: `au+7gAAAAAB6435mXVqHBEfrWqHe86/T`

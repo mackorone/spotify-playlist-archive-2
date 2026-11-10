@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,816 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,882 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 76 | [BETTER HELL \(Thicc boi\)](https://open.spotify.com/track/0ZTMohAj0uQlpRcl8a6SHD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:22 |
 | 77 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
 | 78 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 |
-| 79 | [DANCE WITH ME](https://open.spotify.com/track/5k2KDcpVLgyy0dr7uzdJit) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:08 |
-| 80 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
-| 81 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 |
+| 79 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 |
+| 80 | [DANCE WITH ME](https://open.spotify.com/track/5k2KDcpVLgyy0dr7uzdJit) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:08 |
+| 81 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
 | 82 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
 | 83 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
 | 84 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 |

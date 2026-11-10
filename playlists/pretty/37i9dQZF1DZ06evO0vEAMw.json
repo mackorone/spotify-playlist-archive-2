@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 108402,
+  "num_followers": 108421,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADJjmLFTuooYT10LjmqIwaS",
+  "snapshot_id": "au+7gAAAAADQoCTQ1UI7CzBqJyI/ZXdz",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHOGUN IN LAGOS",
+        "url": "https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 165663,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/4uyr0Cw61kDhk0JBJOfDAK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHOGUN IN LAGOS",
-        "url": "https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 165663,
-      "name": "PARTY",
-      "url": "https://open.spotify.com/track/4uyr0Cw61kDhk0JBJOfDAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -843,6 +843,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aza",
+        "url": "https://open.spotify.com/album/1FEEBPf8hVb5OplQtmvsPv"
+      },
+      "artists": [
+        {
+          "name": "DMW",
+          "url": "https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 224587,
+      "name": "Aza",
+      "url": "https://open.spotify.com/track/38CYTisSSjMhhHqFyj6w4l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
         "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
       },
@@ -879,34 +907,6 @@
       "duration_ms": 237714,
       "name": "If",
       "url": "https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aza",
-        "url": "https://open.spotify.com/album/1FEEBPf8hVb5OplQtmvsPv"
-      },
-      "artists": [
-        {
-          "name": "DMW",
-          "url": "https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Duncan Mighty",
-          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 224587,
-      "name": "Aza",
-      "url": "https://open.spotify.com/track/38CYTisSSjMhhHqFyj6w4l"
     },
     {
       "added_at": null,

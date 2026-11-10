@@ -2324,10 +2324,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 206911,
       "name": "Never Learned",
       "url": "https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2"
+    },
+    {
+      "album": {
+        "name": "Never Learned",
+        "url": "https://open.spotify.com/album/0lMY2vy8m1sEdxtcj9maLQ"
+      },
+      "artists": [
+        {
+          "name": "Eskeerdo",
+          "url": "https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206911,
+      "name": "Never Learned",
+      "url": "https://open.spotify.com/track/3trSCAgCOECvmROhstKEr2"
     },
     {
       "album": {

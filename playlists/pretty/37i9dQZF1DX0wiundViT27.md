@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > a dose of high\-energy alternative songs for your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,046 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,993 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 74 | [Someone Who Can](https://open.spotify.com/track/5Rqn1re29PkFLJBzNEcy0v) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe](https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH) | 3:45 |
 | 75 | [Automatic](https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Automatic](https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf) | 3:13 |
 | 76 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
-| 77 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 |
-| 78 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
+| 77 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
+| 78 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 |
 | 79 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 |
 | 80 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
 | 81 | [Unaffected](https://open.spotify.com/track/0ZC23Lr1ZJPeCwUKwIi1ZN) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Placebo](https://open.spotify.com/album/4iG8D4tZShUn8DpFvVDQEw) | 2:53 |
 | 82 | [Who Needs You](https://open.spotify.com/track/2x4F1O1fGO6yj860N2Or0N) | [The Orwells](https://open.spotify.com/artist/7ia4FaCVsbXvhVwagCJk7l) | [Disgraceland](https://open.spotify.com/album/1fQBO5rMjjml5ynOiiqPi3) | 3:19 |
 | 83 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 84 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
-| 85 | [For The Hell Of It](https://open.spotify.com/track/1LsilTAFvxGArcUnp0W3YW) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [For The Hell Of It](https://open.spotify.com/album/4K1nBlB4PjSHLQlO7jJuI0) | 3:10 |
-| 86 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 |
+| 85 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 |
+| 86 | [For The Hell Of It](https://open.spotify.com/track/1LsilTAFvxGArcUnp0W3YW) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [For The Hell Of It](https://open.spotify.com/album/4K1nBlB4PjSHLQlO7jJuI0) | 3:10 |
 | 87 | [Detroit](https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Detroit](https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy) | 3:31 |
 | 88 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 |
 | 89 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 |

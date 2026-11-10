@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Elyssa Figueroa
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,074 likes - 99 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,099 likes - 99 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

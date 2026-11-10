@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,834 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,849 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 14 | [Throes of Perdition](https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:54 |
 | 15 | [Like Light to the Flies](https://open.spotify.com/track/3wuGM9ka6DGQPtrEaVGl00) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:40 |
 | 16 | [I Don't Wanna Be Me](https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [I Don't Wanna Be Me](https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9) | 3:48 |
-| 17 | [Feast Of Fire](https://open.spotify.com/track/1c7kZbuNixEsCMbU3MZFpy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 4:18 |
-| 18 | [Bury Me With My Screams](https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Bury Me With My Screams](https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1) | 5:16 |
+| 17 | [Bury Me With My Screams](https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Bury Me With My Screams](https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1) | 5:16 |
+| 18 | [Feast Of Fire](https://open.spotify.com/track/1c7kZbuNixEsCMbU3MZFpy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 4:18 |
 | 19 | [Rain](https://open.spotify.com/track/4P23Pn5zl9QCkyto32fAaR) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:11 |
 | 20 | [Struck Dead](https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 5:17 |
 | 21 | [What The Dead Men Say](https://open.spotify.com/track/4KugBNgb6iilXInnWQrMVh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
 | 50 | [Ember to Inferno](https://open.spotify.com/track/4sMUta0WkVGXC7QEJ3dLPD) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ember to Inferno](https://open.spotify.com/album/2UibUYNkuWJkhwosbeYStK) | 4:11 |
 
-Snapshot ID: `au5qAAAAAABA+VOnmK6ORxkYQTkHw2Sg`
+Snapshot ID: `au+7gAAAAAAZsXqA/lqFXQzWsaEAHzLg`

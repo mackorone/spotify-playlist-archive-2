@@ -1,12 +1,12 @@
 {
   "description": "This is Erykah Badu. The essential tracks, all in one playlist.",
-  "num_followers": 153293,
+  "num_followers": 153317,
   "original_name": "This Is Erykah Badu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAABqDGKEIYlxSsS15mRXAdd7",
+  "snapshot_id": "au+7gAAAAABpbRkPYA8gWSSpk6KH6nhp",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "The Villest (with Erykah Badu)",
+      "url": "https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before The World Blows",
         "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 256396,
       "name": "To The Moon (Plan C) - feat. Steve Lacy",
       "url": "https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 270626,
-      "name": "The Villest (with Erykah Badu)",
-      "url": "https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN"
     },
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 233688,
+      "name": "Yun (with Erykah Badu)",
+      "url": "https://open.spotify.com/track/3F3PuqGinS2T1ePmjUTw9t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before The World Blows",
         "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 289071,
       "name": "They Ain't You - feat. Thundercat",
       "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
-      },
-      "artists": [
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 233688,
-      "name": "Yun (with Erykah Badu)",
-      "url": "https://open.spotify.com/track/3F3PuqGinS2T1ePmjUTw9t"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 178636,
-      "name": "Next 2 U",
-      "url": "https://open.spotify.com/track/1JnY7KGXg32YebN0fyLJPD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the id",
         "url": "https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 229333,
       "name": "Sweet Baby (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/2W9FCvuxSSXbnkj9q4Dd9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "Next 2 U",
+      "url": "https://open.spotify.com/track/1JnY7KGXg32YebN0fyLJPD"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/2ESN3ebvvqXcFAMxxn6QXF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before The World Blows",
         "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 333095,
       "name": "Crossfade",
       "url": "https://open.spotify.com/track/7f1qQ6bzCWSh3hiaeVRyHK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/2ESN3ebvvqXcFAMxxn6QXF"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Rim Shot - Intro",
+      "url": "https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before The World Blows",
         "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 202678,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/0Qbn1nkJqAPSy0KXO5cGDO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Rim Shot - Intro",
-      "url": "https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Back In The Day",
+      "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before The World Blows",
         "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 442506,
       "name": "Echos",
       "url": "https://open.spotify.com/track/3dcWjxOpSeOkaXt8bECN8i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worldwide Underground",
-        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Back In The Day",
-      "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Amerykah Part Two: Return Of The Ankh",
+        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 366693,
+      "name": "Fall In Love (Your Funeral)",
+      "url": "https://open.spotify.com/track/58yWJFglBzvZ7Zao70lGtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Go! Common Classics",
         "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 337573,
       "name": "Love Of My Life (An Ode To Hip Hop) - Longer Album Version",
       "url": "https://open.spotify.com/track/0ieS2bue78yadTdPiyzsaO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 366693,
-      "name": "Fall In Love (Your Funeral)",
-      "url": "https://open.spotify.com/track/58yWJFglBzvZ7Zao70lGtJ"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
       "duration_ms": 245951,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streetsoul",
+        "url": "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Plenty",
+      "url": "https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN"
     },
     {
       "added_at": null,

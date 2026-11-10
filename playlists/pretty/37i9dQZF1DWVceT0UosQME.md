@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,034 likes - 85 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,048 likes - 85 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 7 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 |
 | 8 | [less\-than\-flattering](https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [less\-than\-flattering](https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj) | 2:07 |
 | 9 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 |
-| 10 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 |
-| 11 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 |
+| 10 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 |
+| 11 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 |
 | 12 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 |
 | 13 | [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 |
 | 14 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 28 | [spring is coming](https://open.spotify.com/track/3S0NnkTIk3LbDoL8dUY1Tc) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [spring is coming](https://open.spotify.com/album/73luBiXIl3X7Gi3m1zskU7) | 3:12 |
 | 29 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
 | 30 | [True Crimes](https://open.spotify.com/track/1Xom95weqXElNvdHoAxuSi) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [True Crimes](https://open.spotify.com/album/1WguboHSQgsMGzoQ66Y8Ds) | 2:11 |
-| 31 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 |
-| 32 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 |
+| 31 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 |
+| 32 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 |
 | 33 | [Blue Horizon](https://open.spotify.com/track/0OA8PeZ8hLpAIku5Gg1C3U) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Blue Horizon](https://open.spotify.com/album/5zlNXnQTjDxiLeuS0fELY8) | 2:03 |
 | 34 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
-| 35 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
-| 36 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 |
+| 35 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 |
+| 36 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 37 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
 | 38 | [Sparks Down](https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy) | [KiddoCalvin](https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6) | [Sparks Down](https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h) | 2:18 |
 | 39 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 59 | [Humble Thoughts](https://open.spotify.com/track/38QAKMfUQMUVOkVsDJ1tlh) | [Somebody's Son](https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny) | [Humble Thoughts](https://open.spotify.com/album/1rWA1dux14RbyTupsbWiUa) | 1:29 |
 | 60 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 |
 | 61 | [Undeniable](https://open.spotify.com/track/4VkuebWvS2LlxmnMjukZ21) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Undeniable](https://open.spotify.com/album/6Yi9YIuFueT15dls1lblx2) | 2:34 |
-| 62 | [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 |
-| 63 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 |
+| 62 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 |
+| 63 | [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 |
 | 64 | [Lax](https://open.spotify.com/track/4I4tqUKsQ2mC89NoB8RLDC) | [Mellow Moose](https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR) | [Lax](https://open.spotify.com/album/1843ngbpbg1YhvSO6sAA4l) | 2:22 |
 | 65 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 |
 | 66 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 |

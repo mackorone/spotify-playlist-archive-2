@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,585 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,567 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 16 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
 | 17 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 |
 | 18 | [Is There A Ghost](https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 2:59 |
-| 19 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
+| 19 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
 | 20 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 |
-| 21 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
+| 21 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 22 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
 | 23 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
 | 24 | [Evil](https://open.spotify.com/track/6zPOdhLim2vbcLo0rfjDjq) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/5NUna7cH8t5yLMgBxmW4NL) | 3:35 |
 | 25 | [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/3gYr4NDoTEOUsHzxfttYPK) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/2PXlvqTzGBNetlGct7L5e6) | 4:28 |
-| 26 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
-| 27 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 |
+| 26 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 |
+| 27 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
 | 28 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
 | 29 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |
 | 30 | [Dracula Teeth](https://open.spotify.com/track/1x9EqJg2UOhlhDAaTUyOIZ) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:51 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 65 | [Standing on Ghosts](https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Four Words to Stand On](https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5) | 3:31 |
 | 66 | [Scarecrow](https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ) | 4:15 |
 | 67 | [Holiday in Lily Dale](https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Holiday in Lily Dale](https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ) | 4:53 |
-| 68 | [Struggle With the Beast](https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Struggle With the Beast](https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm) | 8:44 |
-| 69 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
+| 68 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
+| 69 | [Struggle With the Beast](https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Struggle With the Beast](https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm) | 8:44 |
 | 70 | [Halloween](https://open.spotify.com/track/7kdX6LUc9JZDoa1yfoDsTA) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB), [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [Halloween](https://open.spotify.com/album/54FyAqa3iLISVu717hD05y) | 2:45 |
 | 71 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
 | 72 | [Ghosts in the Valley](https://open.spotify.com/track/5GplInaCT9hOUW64LPtHvu) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Peanuts EP](https://open.spotify.com/album/4AWfbUBoDN3p3WCjc0z1Sw) | 2:36 |

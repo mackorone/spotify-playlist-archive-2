@@ -1,6 +1,6 @@
 {
   "description": "Pura rolita pa' empedar con la plebada ",
-  "num_followers": 138970,
+  "num_followers": 139023,
   "original_name": "LA PEDA",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2026-10-23 06:00:30",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
         "name": "FX De La Rose",
         "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+      "duration_ms": 185240,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
     },
     {
       "added_at": "2026-10-23 06:00:30",
@@ -783,22 +799,6 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
     },
     {
       "added_at": "2026-10-23 06:00:30",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2026-10-23 06:00:30",
@@ -1159,34 +1159,6 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
-        "name": "Cuando No Era Cantante (Remix)",
-        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 327488,
-      "name": "Cuando No Era Cantante - Remix",
-      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -1255,22 +1227,6 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -1287,6 +1243,50 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
+        "name": "Cuando No Era Cantante (Remix)",
+        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 327488,
+      "name": "Cuando No Era Cantante - Remix",
+      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
       "added_at": "2026-10-23 06:00:30",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
         "name": "Rico o Muerto, Vol. 1",
         "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 195314,
       "name": "Asquerosamente Rico",
       "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2026-10-23 06:00:30",
@@ -1779,38 +1779,6 @@
     {
       "added_at": "2026-10-23 06:00:30",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
-    },
-    {
-      "added_at": "2026-10-23 06:00:30",
-      "album": {
         "name": "AMANECIDO Y REGA\u00d1ADO",
         "url": "https://open.spotify.com/album/0H5gvCntscRctlcdmwMUJF"
       },
@@ -1831,6 +1799,38 @@
       "duration_ms": 205032,
       "name": "AMANECIDO Y REGA\u00d1ADO",
       "url": "https://open.spotify.com/track/67BjeJkPgqHpkzlQveRoFh"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
+    },
+    {
+      "added_at": "2026-10-23 06:00:30",
+      "album": {
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "added_at": "2026-10-23 06:00:30",

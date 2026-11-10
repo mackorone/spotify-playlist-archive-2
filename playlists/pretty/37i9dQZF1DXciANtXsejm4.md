@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,992 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,116 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 6 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 7 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
 | 8 | [Tu Sombra en Mi](https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:55 |
-| 9 | [Le Creí](https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:58 |
-| 10 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
+| 9 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
+| 10 | [Le Creí](https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:58 |
 | 11 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 12 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 13 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 41 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
 | 42 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 |
 | 43 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
-| 44 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
-| 45 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk), [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 |
+| 44 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk), [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 |
+| 45 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
 | 46 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 |
 | 47 | [Distancia](https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Volvió el Parrandero!!!](https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7) | 4:09 |
 | 48 | [Estas en el Recuerdo / Matala](https://open.spotify.com/track/2mMdfb5n1V9pA6f2cJPAKN) | [Habana Combo](https://open.spotify.com/artist/7zpSH2chjM380vMwQTEOaq) | [Matala](https://open.spotify.com/album/5GXPAzBUue89g3wL2p8CGT) | 4:35 |

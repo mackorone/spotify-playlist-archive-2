@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,669 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,681 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 26 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |
 | 27 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 | 28 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
-| 29 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
-| 30 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 |
+| 29 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 |
+| 30 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
 | 31 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
 | 32 | [We Belong](https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Tropico](https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8) | 3:41 |
 | 33 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:55 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 76 | [It's The First Time \- Bonus Track](https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy) | [Loïs Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Fortune Fairytales](https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn) | 3:58 |
 | 77 | [I'm Specialized in You](https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV) | [Time Bandits](https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne) | [Greatest Hits](https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da) | 3:51 |
 | 78 | [Doris Day](https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:48 |
-| 79 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
-| 80 | [Love & Pride](https://open.spotify.com/track/7s9MPp6IbrZa39gE0zpiVH) | [King](https://open.spotify.com/artist/3ckiHuEKcXHXV0QOkCdCki) | [Love And Pride \- The Best Of King](https://open.spotify.com/album/6I9he8EJUDC07nfcjq4NKZ) | 3:20 |
+| 79 | [Love & Pride](https://open.spotify.com/track/7s9MPp6IbrZa39gE0zpiVH) | [King](https://open.spotify.com/artist/3ckiHuEKcXHXV0QOkCdCki) | [Love And Pride \- The Best Of King](https://open.spotify.com/album/6I9he8EJUDC07nfcjq4NKZ) | 3:20 |
+| 80 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
 | 81 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
 | 82 | [How Many Times](https://open.spotify.com/track/5VkAKKliyRHqeEL3N2vlJq) | [Lori Spee](https://open.spotify.com/artist/1E6ogGNGAoSqr3sm20PVaU) | [Behind Those Eyes](https://open.spotify.com/album/3SOELAr03f95mbmVE5ys6w) | 4:01 |
 | 83 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |

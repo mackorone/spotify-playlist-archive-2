@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,412 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,439 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 25 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 |
 | 26 | [Adios Eterno](https://open.spotify.com/track/2iX8rlBlhVm7srjoFszWQd) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Pabblo](https://open.spotify.com/artist/352qR89UvJCYHGnCSUwMqw) | [Adios Eterno](https://open.spotify.com/album/1H1df7CB6hpVWSGa0XdNZ3) | 3:10 |
 | 27 | [Madonna](https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Madonna](https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd) | 3:07 |
-| 28 | [Ayúdame](https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Ayúdame](https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu) | 2:41 |
-| 29 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 |
+| 28 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 |
+| 29 | [Ayúdame](https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Ayúdame](https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu) | 2:41 |
 | 30 | [Hermoso Cariño](https://open.spotify.com/track/7gTlqMKTGQ3HLfxb44OUQ6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Tributo al Rey Con Banda \(Grandes Duetos Vol\. 2\)](https://open.spotify.com/album/4qAzZHdsN1frGTkE6KvAf8) | 2:34 |
 | 31 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 |
 | 32 | [Tanto Dolor](https://open.spotify.com/track/59sxYBYwmm0q9HYwwYA5nT) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Tanto Dolor](https://open.spotify.com/album/2aScIzD3NiJHrdvxSm1vQk) | 4:00 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 62 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 63 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 |
 | 64 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |
-| 65 | [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 |
-| 66 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
+| 65 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
+| 66 | [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 |
 | 67 | [7 DIAS](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 DIAS](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 |
 | 68 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 |
 | 69 | [Asquerosamente Rico](https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:15 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 96 | [AMIGOS CON DERECHOS](https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [AMIGOS CON DERECHOS](https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2) | 2:48 |
 | 97 | [YO NO TE OLVIDO](https://open.spotify.com/track/641M1deHD4Y0X74pt8csik) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [YO NO TE OLVIDO](https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP) | 3:20 |
 | 98 | [monterrey](https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:38 |
-| 99 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
-| 100 | [VPPMHDSPPM](https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [VPPMHDSPPM](https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs) | 1:55 |
+| 99 | [VPPMHDSPPM](https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [VPPMHDSPPM](https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs) | 1:55 |
+| 100 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
 
 Snapshot ID: `AAAAAIi2iqUq84V0maJ9rWqHe2iR5oQV`

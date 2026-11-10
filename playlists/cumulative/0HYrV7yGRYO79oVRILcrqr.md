@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-868 songs - 2 day 6 hr 4 min
+872 songs - 2 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [I'm Not Him](https://open.spotify.com/track/32zbpf0ODCs4SaorEgDlc0) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [I'm Not Him](https://open.spotify.com/album/2S3Grto0yAldonBiEIUXdM) | 2:40 | 2026-09-25 |  |
 | [I'm Nowhere](https://open.spotify.com/track/64xdIDgCW0RbO6Rldrygaa) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [I'm Nowhere](https://open.spotify.com/album/2eSNKPsgDjNj79AjRwDBJ1) | 3:21 | 2026-09-07 | 2026-09-20 |
 | [I'm On Fire](https://open.spotify.com/track/2YkStnBSMoFi5lNyub4xRd) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 2:38 | 2026-03-16 | 2026-04-21 |
+| [I'm on my way to die](https://open.spotify.com/track/1YC7hElGxuzwleWHU3HWdz) | [The Graveyard Ensemble](https://open.spotify.com/artist/5vp7fsuWOa2FJGohZcw8Ak) | [I'm on my way to die](https://open.spotify.com/album/1MyZi6xDYMjdraCRGELPI8) | 3:44 | 2026-11-09 |  |
 | [I've Got No Fear](https://open.spotify.com/track/0Aj2Zv5gEcj4ndcDpvy9WQ) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [I've Got No Fear](https://open.spotify.com/album/557Qq6MMDSAzL75W5qfeDw) | 2:23 | 2025-10-22 | 2025-11-28 |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2026-03-05 | 2026-03-18 |
 | [If Just Dreaming Isn’t Enought, Sorry! \(Version 2026\)](https://open.spotify.com/track/60UE0B8OoZy3b468b038iM) | [Mathias Neto](https://open.spotify.com/artist/5QrUJ71HRSZ4O2wVAJkKZG) | [Rock Worlds Collision](https://open.spotify.com/album/3texjmqZN34PmF4sQcYQ4l) | 5:43 | 2026-01-11 | 2026-03-18 |
@@ -503,6 +504,7 @@
 | [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 | 2026-02-24 | 2026-03-18 |
 | [Never Stop](https://open.spotify.com/track/2ya93c3UE2S0bkH5hHZGvG) | [Angga Waskita](https://open.spotify.com/artist/5oxjfK0gMogJFalhRyq3z3) | [Livin' On The Blues Way](https://open.spotify.com/album/3yi0j1CyLPJcmNHMIfdoAE) | 2:44 | 2026-08-02 |  |
 | [Night is Young](https://open.spotify.com/track/71dtvsaPOTCi4RkQzmIKlE) | [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [Night is Young](https://open.spotify.com/album/4ejuRVnwvqW6bng1O811IL) | 2:52 | 2026-05-26 | 2026-06-18 |
+| [NIGHTMARE](https://open.spotify.com/track/3lU8vaVFRz6CjNy1CGzJXx) | [STONE FIRE](https://open.spotify.com/artist/7FRYaiZbZAYFB7Ean4iCMr) | [FEELING THE HEAT](https://open.spotify.com/album/10s5qfjDIh5fzX4figypiW) | 4:49 | 2026-11-09 |  |
 | [Ninja Rabbit Ate My Weed](https://open.spotify.com/track/54lJlTm5aYdnVY2vASLXEG) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:31 | 2025-11-30 | 2025-12-17 |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2026-01-13 | 2026-03-18 |
 | [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 | 2026-06-01 | 2026-07-12 |
@@ -778,6 +780,7 @@
 | [Too Broke For Money](https://open.spotify.com/track/1s6mkOhtFZ43gRBwyhe5uU) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/7MX4Q2DfTrscHAIl5SoUtZ) | 2:03 | 2026-09-29 |  |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 | 2026-04-21 |
 | [Too Late](https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 3:44 | 2025-09-21 | 2026-07-03 |
+| [TOO LATE](https://open.spotify.com/track/69EBf3iMvbL04Q0nyuhPuJ) | [STONE FIRE](https://open.spotify.com/artist/7FRYaiZbZAYFB7Ean4iCMr) | [FEELING THE HEAT](https://open.spotify.com/album/10s5qfjDIh5fzX4figypiW) | 3:06 | 2026-11-09 |  |
 | [Too Late](https://open.spotify.com/track/7LEdMzwSF2nVOl6z5tmiDK) | [The Cellar Doors](https://open.spotify.com/artist/3p3yvQb5e3beH9kkk9iIve) | [The Cellar Doors II](https://open.spotify.com/album/7kgu4rRNCXT19dUEd84BZ4) | 3:33 | 2026-05-08 | 2026-05-26 |
 | [Torre Pendente](https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 5:07 | 2026-09-28 |  |
 | [Trainliner \- Sweet Country](https://open.spotify.com/track/423mrCTB07MUDpNAnGrjx7) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:39 | 2026-04-23 | 2026-05-26 |
@@ -844,6 +847,7 @@
 | [Wicked signal](https://open.spotify.com/track/4S1OjJEfufOBdizQ8svbES) | [Sun Ground](https://open.spotify.com/artist/2Cen5Ahjn2WerbImQDtygO) | [Exotic \-automatic](https://open.spotify.com/album/3d7kjv4ECBPjboeupDRA4S) | 3:29 | 2026-09-28 |  |
 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 | 2026-03-07 | 2026-05-31 |
 | [Wild and Free](https://open.spotify.com/track/6FhC8bFs3h2kydgyOL8JwG) | [Midnight Special](https://open.spotify.com/artist/5B1y5y3HpxIHlu9qYxcF62) | [Wild and Free](https://open.spotify.com/album/0KXkz7POFSC6FXIoANrEx6) | 4:24 | 2026-11-07 |  |
+| [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 | 2026-11-09 |  |
 | [Wild Man](https://open.spotify.com/track/3T7iZlkZHGfqcDK7ujnfmR) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [Wild Man](https://open.spotify.com/album/2RYNgaILfpO78U3QAJpEYA) | 4:47 | 2026-08-11 |  |
 | [Wild Time](https://open.spotify.com/track/3g1kVvfuzqqQtwrR6jyTyZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Wild Time](https://open.spotify.com/album/2xUDxS8dnszV9XvAUTNUxb) | 1:42 | 2026-06-02 | 2026-06-18 |
 | [Will](https://open.spotify.com/track/3Y7ek3umLkIb5hGcJLO9N4) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Will](https://open.spotify.com/album/2Q6BfCI53rsu63f6TRTHQ9) | 3:34 | 2026-09-09 | 2026-09-20 |

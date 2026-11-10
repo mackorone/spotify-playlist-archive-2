@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,706 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,773 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 76 | [Rollin' Stone](https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Rollin' Stone](https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB) | 2:31 |
 | 77 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 | 78 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
-| 79 | [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 |
-| 80 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
+| 79 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
+| 80 | [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 |
 | 81 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 82 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 83 | [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 94 | [Save Me \- with Lainey Wilson](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 95 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 |
 | 96 | [Music for the Soul](https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:44 |
-| 97 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
-| 98 | [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 |
-| 99 | [Last One To Know](https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Last One To Know](https://open.spotify.com/album/4zzLitRvQXzr4Eu2UVz0Nh) | 2:57 |
-| 100 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
+| 97 | [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 |
+| 98 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
+| 99 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
+| 100 | [Last One To Know](https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Last One To Know](https://open.spotify.com/album/4zzLitRvQXzr4Eu2UVz0Nh) | 2:57 |
 
 Snapshot ID: `AAAAANewlWm22PLNkwuud3jMxqt8sKpy`

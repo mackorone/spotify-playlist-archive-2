@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,164 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,217 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 28 | [Last Child](https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 3:26 |
 | 29 | [Eat The Rich](https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 4:10 |
 | 30 | [Falling In Love \(Is Hard On The Knees\)](https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 3:25 |
-| 31 | [Train Kept a Rollin'](https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 5:33 |
-| 32 | [What Could Have Been Love](https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 3:44 |
+| 31 | [What Could Have Been Love](https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 3:44 |
+| 32 | [Train Kept a Rollin'](https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 5:33 |
 | 33 | [Mama Kin](https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr) | 4:29 |
 | 34 | [A Thousand Days](https://open.spotify.com/track/5E5I4rpBQeJehV2EtNqzrQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/5V12ap591SmtretgcunhiO) | 3:57 |
 | 35 | [The Other Side \- Single Version](https://open.spotify.com/track/2fcRBvP5G8mlJiTPXnfmE2) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 4:04 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 46 | [Draw The Line](https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Draw The Line](https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd) | 3:24 |
 | 47 | [Ain't That A Bitch](https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:25 |
 | 48 | [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 |
-| 49 | [Sick As A Dog](https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:12 |
-| 50 | [Adam's Apple](https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:33 |
+| 49 | [Adam's Apple](https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:33 |
+| 50 | [Sick As A Dog](https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:12 |
 
-Snapshot ID: `au5qAAAAAACcTD1Db4pFfhvXGlCGTItj`
+Snapshot ID: `au+7gAAAAAASLRwZ4mr1zs1Ay8ggfFW4`

@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Birthday Wish",
       "url": "https://open.spotify.com/track/4EpUJbdObAoylk1004aMG3"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 200000,
       "name": "Birthday Wish",
       "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 189986,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 189986,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
@@ -5728,7 +5728,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 211574,
       "name": "I\u2019m gonna TOESA",
       "url": "https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ"
@@ -5750,7 +5750,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 211574,
       "name": "I\u2019m gonna TOESA (feat. Kian84)",
       "url": "https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg"
@@ -6473,6 +6473,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill (Alawn Remix Edition)",
+        "url": "https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/2iuhTbBB9ITEko3xeW7Jcz"
+    },
+    {
+      "album": {
         "name": "Looks Can Kill",
         "url": "https://open.spotify.com/album/1yTYJgDctUC6GsbGQXYgV1"
       },
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
@@ -9676,7 +9694,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Star Trace",
       "url": "https://open.spotify.com/track/1fI7jgWKJ41xELohFnVFp7"
@@ -9694,7 +9712,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 179000,
       "name": "Star Trace",
       "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
@@ -16178,7 +16196,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
@@ -16196,7 +16214,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
@@ -16358,7 +16376,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
@@ -16376,7 +16394,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -16780,7 +16798,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 295940,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
@@ -16798,7 +16816,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX"
@@ -17108,7 +17126,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
@@ -17130,7 +17148,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY"

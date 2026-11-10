@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 78538,
+  "num_followers": 78551,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MoQBwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MoVoWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "Rasta G | Froppi",
+        "url": "https://open.spotify.com/album/6KmokbMuq9K3DWotNKN6ko"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "duration_ms": 115926,
+      "name": "Rasta G | Froppi",
+      "url": "https://open.spotify.com/track/6JpvtvcPddlXSJLrt4UJOH"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "SUV 2",
         "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "SZALAD EL",
         "url": "https://open.spotify.com/album/6F9SPJeViUnEicebxhbK2G"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/59h5Gdsenx9M4VQEHc43xs"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "CIA",
         "url": "https://open.spotify.com/album/4MSxbOxc7OZl8ncDjwQ4ao"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/070lQRJdLH8E8pamx2Xisa"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "NEXT N GO",
         "url": "https://open.spotify.com/album/1sIWuAvNIdFeKQjrK4GryP"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/7tMZJxocJKGse3klJpJXvD"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "T\u00edz L\u00e1ny (feat. Bruno)",
         "url": "https://open.spotify.com/album/7ETJSl2Q16tNLVZazBBSun"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/07id7m2uwVlemW0Q231uFw"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "PRNSTR",
         "url": "https://open.spotify.com/album/6mVHjJjZzgeoU738rjGayb"
@@ -141,27 +157,7 @@
       "url": "https://open.spotify.com/track/2W4kPpKMD433pAW7rs4Bwu"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "HELLO HELLO",
-        "url": "https://open.spotify.com/album/1ilIuSiYwecV5UArPziG1z"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "HELLO HELLO",
-      "url": "https://open.spotify.com/track/6CRJvqQ7iItbT7911f1x0H"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "Kiskece",
         "url": "https://open.spotify.com/album/6VioEsOGLZlfveutyY89Yc"
@@ -181,7 +177,27 @@
       "url": "https://open.spotify.com/track/0nbfu1zUY9CrSOIA5UNjOe"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "HELLO HELLO",
+        "url": "https://open.spotify.com/album/1ilIuSiYwecV5UArPziG1z"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "HELLO HELLO",
+      "url": "https://open.spotify.com/track/6CRJvqQ7iItbT7911f1x0H"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "BOMBA",
         "url": "https://open.spotify.com/album/0SwkvjoLJtTofh2kCo2L1V"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/56fLrrqiXHH8ygYCrrb9AT"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "SZABADS\u00c1G, SZERELEM",
         "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/3nsf11JN914zRRLuC8ZH6p"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "Anal\u00f3g fot\u00f3",
         "url": "https://open.spotify.com/album/71rjrzkVKmGw4ddwGJNafM"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/4Bfzn5tzXjgZbkk1Tsm4EA"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "SZABADS\u00c1G, SZERELEM",
         "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
@@ -257,7 +273,23 @@
       "url": "https://open.spotify.com/track/70VRbSPeELXFYOO1rk2IJm"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "\u00c9letem Szerelme",
+        "url": "https://open.spotify.com/album/1oG4xEk5CwDgChH3BJ101l"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 186673,
+      "name": "\u00c9letem Szerelme",
+      "url": "https://open.spotify.com/track/5aBSboVH55mQNJQuQ2cNaI"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "FASTLIFE",
         "url": "https://open.spotify.com/album/4YJ4h5yTSw8igrBGbkLrX1"
@@ -277,23 +309,7 @@
       "url": "https://open.spotify.com/track/29Ukh0Jgkn1RDBHkRPDa6V"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "\u00c9letem Szerelme",
-        "url": "https://open.spotify.com/album/1oG4xEk5CwDgChH3BJ101l"
-      },
-      "artists": [
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 186673,
-      "name": "\u00c9letem Szerelme",
-      "url": "https://open.spotify.com/track/5aBSboVH55mQNJQuQ2cNaI"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "TIP TIP",
         "url": "https://open.spotify.com/album/35FPaskal0aoiu8iVfXgFD"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/3CHx5MlbwfflmgrUoHSZw5"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "KIK EZEK (Bruno)",
         "url": "https://open.spotify.com/album/0QYLwzHmEQbT5DRJRZuBIU"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/6bm5nVasvTr8WfnixC1Ecw"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "businessman",
         "url": "https://open.spotify.com/album/4ormZlOj0ttALx6rnB7Pzu"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/5yOsWdGuLzogeI78Dx2k4O"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "UTCA",
         "url": "https://open.spotify.com/album/2tmyUAUCLbtLKMekYCi6Y6"
@@ -381,7 +397,27 @@
       "url": "https://open.spotify.com/track/1HKO552g5ZkCXubx3i3MwW"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "BAKPAKK",
+        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 109455,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "Van Valami (feat. RZMVS)",
         "url": "https://open.spotify.com/album/3dBG6jdLkAFFLPd7KqVezj"
@@ -401,7 +437,7 @@
       "url": "https://open.spotify.com/track/0IM555Y5XQsro0o7vZa4y6"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/7eW86IEHYqxTc00Mwm8tuJ"
@@ -421,27 +457,7 @@
       "url": "https://open.spotify.com/track/04JBLnGi7AQ3vEayf6wuk0"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "SZEXI BB (Bruno)",
-        "url": "https://open.spotify.com/album/4ABZ9P0EXLCPmW8xnBf3Ij"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "Bereczki Zolt\u00e1n",
-          "url": "https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU"
-        }
-      ],
-      "duration_ms": 163905,
-      "name": "SZEXI BB - Bruno",
-      "url": "https://open.spotify.com/track/5LFEksBRiR2Nyyr7NSteyl"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -465,27 +481,7 @@
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "BAKPAKK",
-        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 109455,
-      "name": "SUV",
-      "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -501,7 +497,83 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "SZEXI BB (Bruno)",
+        "url": "https://open.spotify.com/album/4ABZ9P0EXLCPmW8xnBf3Ij"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "Bereczki Zolt\u00e1n",
+          "url": "https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU"
+        }
+      ],
+      "duration_ms": 163905,
+      "name": "SZEXI BB - Bruno",
+      "url": "https://open.spotify.com/track/5LFEksBRiR2Nyyr7NSteyl"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
+        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "duration_ms": 203898,
+      "name": "Hull\u00e1mforma",
+      "url": "https://open.spotify.com/track/1SqOH4TzkQCATIVAVtdfM6"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "OHMAMMA",
+        "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "OHMAMMA",
+      "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "MOKKA",
+        "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 163375,
+      "name": "MOKKA",
+      "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "GRIND",
         "url": "https://open.spotify.com/album/2lsK4dIcNT3eK6Z6c9E3tW"
@@ -525,7 +597,23 @@
       "url": "https://open.spotify.com/track/29URpEljCaPFoODyrDmuhd"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "VINNER",
         "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
@@ -541,123 +629,7 @@
       "url": "https://open.spotify.com/track/1Y4yr3lzCoV0I4m21W5LWB"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "OHMAMMA",
-        "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "OHMAMMA",
-      "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "NEMELVAGYUNK? II.",
-        "url": "https://open.spotify.com/album/6pgg8ZnFlRtrrVsVy5FrsR"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 120109,
-      "name": "MOVE IT",
-      "url": "https://open.spotify.com/track/0r4Alb0zn6ttEUgaTv25A8"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "ad astra",
-        "url": "https://open.spotify.com/album/6Q4fzGvDe5bE9UfVeV5lYX"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        },
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "\u00f6sszevissza",
-      "url": "https://open.spotify.com/track/5CgMYs7FYpqR1WRqj0MS9U"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "MOKKA",
-        "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 163375,
-      "name": "MOKKA",
-      "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "Bulv\u00e1r",
-        "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
-      },
-      "artists": [
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 128784,
-      "name": "Bulv\u00e1r",
-      "url": "https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "AFTERPARTY (Bruno)",
-        "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 144069,
-      "name": "AFTERPARTY - Bruno",
-      "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "VINNER DELUXE",
         "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
@@ -677,79 +649,63 @@
       "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
-        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
-        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
+        "name": "NEMELVAGYUNK? II.",
+        "url": "https://open.spotify.com/album/6pgg8ZnFlRtrrVsVy5FrsR"
       },
       "artists": [
         {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
-      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
-        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        }
-      ],
-      "duration_ms": 203898,
-      "name": "Hull\u00e1mforma",
-      "url": "https://open.spotify.com/track/1SqOH4TzkQCATIVAVtdfM6"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "nem hiszek",
-        "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 120109,
+      "name": "MOVE IT",
+      "url": "https://open.spotify.com/track/0r4Alb0zn6ttEUgaTv25A8"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "Bulv\u00e1r",
+        "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
+      },
+      "artists": [
         {
           "name": "Nagy Bogi",
           "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
         }
       ],
-      "duration_ms": 189726,
-      "name": "nem hiszek",
-      "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
+      "duration_ms": 128784,
+      "name": "Bulv\u00e1r",
+      "url": "https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
-        "name": "H\u0171tlen D\u00e9lib\u00e1b",
-        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
+        "name": "AFTERPARTY (Bruno)",
+        "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
       },
       "artists": [
         {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         },
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
         }
       ],
-      "duration_ms": 150725,
-      "name": "J\u00f3l leszek \u00fajra",
-      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
+      "duration_ms": 144069,
+      "name": "AFTERPARTY - Bruno",
+      "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "MEREDEK",
         "url": "https://open.spotify.com/album/5cphGJqxt3YRyPhbvFAbfs"
@@ -769,7 +725,27 @@
       "url": "https://open.spotify.com/track/7evObvcDijcKbmdngMFXKO"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 134885,
+      "name": "J\u00d3ZANOK",
+      "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -785,39 +761,47 @@
       "url": "https://open.spotify.com/track/5vLT8l8KAGe8rOGnyKkVNt"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
-        "name": "De\u00e1k Ferenc",
-        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
+        "name": "H\u0171tlen D\u00e9lib\u00e1b",
+        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
       },
       "artists": [
         {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 154176,
-      "name": "De\u00e1k Ferenc",
-      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
+      "duration_ms": 150725,
+      "name": "J\u00f3l leszek \u00fajra",
+      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
+        "name": "nem hiszek",
+        "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
       },
       "artists": [
         {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
         }
       ],
-      "duration_ms": 171692,
-      "name": "BOSZORK\u00c1NY",
-      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
+      "duration_ms": 189726,
+      "name": "nem hiszek",
+      "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "212223_Minden_ami_\u00e9n",
         "url": "https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg"
@@ -837,23 +821,91 @@
       "url": "https://open.spotify.com/track/12Pa9ujpXDXa0rJGElUsV4"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
-        "name": "Ne M\u00e9regess",
-        "url": "https://open.spotify.com/album/1GXVCSMyyggnSfqVdrB8q6"
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
       },
       "artists": [
         {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
         }
       ],
-      "duration_ms": 137686,
-      "name": "Gipsyland",
-      "url": "https://open.spotify.com/track/253XpMLROtasRt7uxDPYft"
+      "duration_ms": 171692,
+      "name": "BOSZORK\u00c1NY",
+      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "ad astra",
+        "url": "https://open.spotify.com/album/6Q4fzGvDe5bE9UfVeV5lYX"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        },
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "\u00f6sszevissza",
+      "url": "https://open.spotify.com/track/5CgMYs7FYpqR1WRqj0MS9U"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "VID\u00c9KI CSAJSZI",
+        "url": "https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "VID\u00c9KI CSAJSZI",
+      "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 141789,
+      "name": "TAKE YOUR TIME",
+      "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "De\u00e1k Ferenc",
+        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "De\u00e1k Ferenc",
+      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "Valamit Majd Kital\u00e1lok",
         "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
@@ -869,23 +921,39 @@
       "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
       "album": {
-        "name": "TOP TIER (SPACCONE)",
-        "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
+        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
+        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
         }
       ],
-      "duration_ms": 122500,
-      "name": "TOP TIER - SPACCONE",
-      "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
+      "duration_ms": 197538,
+      "name": "Estelente",
+      "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
     },
     {
-      "added_at": "2026-11-08 14:00:07",
+      "added_at": "2026-11-09 14:13:55",
+      "album": {
+        "name": "Ne M\u00e9regess",
+        "url": "https://open.spotify.com/album/1GXVCSMyyggnSfqVdrB8q6"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 137686,
+      "name": "Gipsyland",
+      "url": "https://open.spotify.com/track/253XpMLROtasRt7uxDPYft"
+    },
+    {
+      "added_at": "2026-11-09 14:13:55",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -903,86 +971,6 @@
       "duration_ms": 130285,
       "name": "MIRE SZ\u00c1M\u00cdTOTT\u00c1L",
       "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 141789,
-      "name": "TAKE YOUR TIME",
-      "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "ALL NIGHT",
-        "url": "https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "ALL NIGHT",
-      "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "PLAYB\u00c1NIA",
-        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 124273,
-      "name": "BAGIRA",
-      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
-    },
-    {
-      "added_at": "2026-11-08 14:00:07",
-      "album": {
-        "name": "212223_Minden_ami_\u00e9n",
-        "url": "https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Klitorisz",
-      "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"
     }
   ],
   "unique_name": "Top 50 - Hungary",

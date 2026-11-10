@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 1952135,
+  "num_followers": 1951799,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 329893,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Where's My Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2u0MG5q7xctOMwx2q9Tm4o"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "Where's My Love - Acoustic",
-      "url": "https://open.spotify.com/track/6lvGthAouA0KfQ29tz4XAt"
     }
   ],
   "unique_name": "Afternoon Acoustic",

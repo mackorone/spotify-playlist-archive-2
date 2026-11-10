@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,858 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,025 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 49 | [Let You Down](https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:29 |
 | 50 | [Dry Deserts](https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 2:31 |
 
-Snapshot ID: `au5qAAAAAAB2VVkZPsF9M/3sGEbfsmKq`
+Snapshot ID: `au+7gAAAAAAuk1yXSg3ES071zkj2QXXM`

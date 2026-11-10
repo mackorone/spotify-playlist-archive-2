@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10559,
+  "num_followers": 10561,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAACgszwEAPJgYLm1zE3bNIIZ",
+  "snapshot_id": "au+7gAAAAADnYkdhHxYbMltAG1tfcvie",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Criminales",
-        "url": "https://open.spotify.com/album/4e0vXYazcWfIqSfbbzz1s8"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Como Criminales",
-      "url": "https://open.spotify.com/track/16Vz8q5RmVru8BvlZfVP4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 158275,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Criminales",
+        "url": "https://open.spotify.com/album/4e0vXYazcWfIqSfbbzz1s8"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Como Criminales",
+      "url": "https://open.spotify.com/track/16Vz8q5RmVru8BvlZfVP4u"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 194429,
-      "name": "No Volvere",
-      "url": "https://open.spotify.com/track/5jLZIaTwQbjCmnVUwayk70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 194429,
+      "name": "No Volvere",
+      "url": "https://open.spotify.com/track/5jLZIaTwQbjCmnVUwayk70"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -235,6 +235,42 @@
       "duration_ms": 194037,
       "name": "Para Morir Iguales",
       "url": "https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumba Cha Cha Cha",
+        "url": "https://open.spotify.com/album/4BDjxZHbMW3ikcuFmFBdxD"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "duration_ms": 239382,
+      "name": "Rumba Cha Cha Cha",
+      "url": "https://open.spotify.com/track/1nO1avK5JH6nJbRLzpMN3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
     },
     {
       "added_at": null,
@@ -271,42 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rumba Cha Cha Cha",
-        "url": "https://open.spotify.com/album/4BDjxZHbMW3ikcuFmFBdxD"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
-        }
-      ],
-      "duration_ms": 239382,
-      "name": "Rumba Cha Cha Cha",
-      "url": "https://open.spotify.com/track/1nO1avK5JH6nJbRLzpMN3r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 172303,
       "name": "Hermosa Tirana",
       "url": "https://open.spotify.com/track/42jgtQjhL2Qu5nbZKUSO7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Nada Contigo-La Banqueta",
-      "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
     },
     {
       "added_at": null,
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 164728,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
+      "duration_ms": 181002,
+      "name": "Nada Contigo-La Banqueta",
+      "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
     },
     {
       "added_at": null,
@@ -387,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Dulce Morena",
-      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
+      "duration_ms": 164728,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
     },
     {
       "added_at": null,
@@ -419,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
       "artists": [
         {
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 195291,
-      "name": "Cien Anos",
-      "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
+      "duration_ms": 177706,
+      "name": "Dulce Morena",
+      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 161026,
       "name": "Cajita De Cart\u00f3n",
       "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Cien Anos",
+      "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 206236,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 198520,
       "name": "MI Amiga,MI Amor",
       "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 206236,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 195004,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 230034,
       "name": "Echame a Mi la Culpa",
       "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 195004,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 169116,
-      "name": "En Tu Dia Mi Amor",
-      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
+      "duration_ms": 177711,
+      "name": "De Su Vida Me Ire",
+      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 215405,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+      "duration_ms": 189546,
+      "name": "De Cantina En Cantina",
+      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
     },
     {
       "added_at": null,
@@ -728,15 +728,15 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 177711,
-      "name": "De Su Vida Me Ire",
-      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
+      "duration_ms": 169116,
+      "name": "En Tu Dia Mi Amor",
+      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 189546,
-      "name": "De Cantina En Cantina",
-      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
+      "duration_ms": 215405,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
     },
     {
       "added_at": null,

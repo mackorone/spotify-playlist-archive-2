@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 294562,
+  "num_followers": 294585,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABi756jJGSnalSNeOD/kiSz",
+  "snapshot_id": "au+7gAAAAAAUiplGZQFzKANAO/uxodDy",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Rock! Rock! (Till You Drop)",
-      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 342510,
       "name": "Women - Remastered 2017",
       "url": "https://open.spotify.com/track/2q1njJdxOMEClSnuBWGMJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Rock! Rock! (Till You Drop)",
+      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 254501,
-      "name": "Comin' Under Fire",
-      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 228534,
       "name": "Hysteria - Radio Edit",
       "url": "https://open.spotify.com/track/3VY92N8E7bbuoBH4aBD79X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 254501,
+      "name": "Comin' Under Fire",
+      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes (2026 Mix)",
-        "url": "https://open.spotify.com/album/1Fbi1jCqM5EXud9xBGer1K"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Heroes - 2026 Mix",
-      "url": "https://open.spotify.com/track/6WLXTE0f4ohzfXTF33cNYZ"
+      "duration_ms": 279300,
+      "name": "Run Riot",
+      "url": "https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+        "name": "Heroes (2026 Mix)",
+        "url": "https://open.spotify.com/album/1Fbi1jCqM5EXud9xBGer1K"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 279300,
-      "name": "Run Riot",
-      "url": "https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z"
+      "duration_ms": 213573,
+      "name": "Heroes - 2026 Mix",
+      "url": "https://open.spotify.com/track/6WLXTE0f4ohzfXTF33cNYZ"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 375866,
-      "name": "Die Hard The Hunter",
-      "url": "https://open.spotify.com/track/7KLg11Zw7jmxRC7CpGKEAR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Through The Night",
         "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 225226,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 375866,
+      "name": "Die Hard The Hunter",
+      "url": "https://open.spotify.com/track/7KLg11Zw7jmxRC7CpGKEAR"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 243321,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
+      "duration_ms": 217648,
+      "name": "I Wanna Touch U",
+      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 217648,
-      "name": "I Wanna Touch U",
-      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
+      "duration_ms": 243321,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
     },
     {
       "added_at": null,

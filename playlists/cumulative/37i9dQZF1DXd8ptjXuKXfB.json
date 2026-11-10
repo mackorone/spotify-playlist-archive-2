@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 153402,
       "name": "EMELEM A T\u00c9TET",
       "url": "https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 142856,
       "name": "Hol volt\u00e1l?",
       "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
@@ -6666,7 +6666,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -8093,6 +8093,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1jusi h\u00f3",
+        "url": "https://open.spotify.com/album/4PnRmyazNB3paCamwrzqnw"
+      },
+      "artists": [
+        {
+          "name": "4s Street",
+          "url": "https://open.spotify.com/artist/3W75Q3HN7adHVSjjRJX1ap"
+        },
+        {
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "M\u00e1jusi h\u00f3",
+      "url": "https://open.spotify.com/track/6N0LRBBz7bZsSquJcjHumD"
+    },
+    {
+      "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
@@ -8958,7 +8980,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 219427,
       "name": "Obsessica",
       "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
@@ -10006,7 +10028,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -10084,6 +10106,24 @@
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
+    },
+    {
+      "album": {
+        "name": "Rasta G | Froppi",
+        "url": "https://open.spotify.com/album/6KmokbMuq9K3DWotNKN6ko"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115926,
+      "name": "Rasta G | Froppi",
+      "url": "https://open.spotify.com/track/6JpvtvcPddlXSJLrt4UJOH"
     },
     {
       "album": {
@@ -11395,6 +11435,32 @@
     },
     {
       "album": {
+        "name": "SZALAD EL",
+        "url": "https://open.spotify.com/album/6F9SPJeViUnEicebxhbK2G"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Beatrick",
+          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
+        },
+        {
+          "name": "millair",
+          "url": "https://open.spotify.com/artist/1lHJW23ltScRJsdJmadkLC"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "SZALAD EL",
+      "url": "https://open.spotify.com/track/59h5Gdsenx9M4VQEHc43xs"
+    },
+    {
+      "album": {
         "name": "SZAR AZ \u00c9LET",
         "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
       },
@@ -11418,6 +11484,24 @@
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
+    },
+    {
+      "album": {
+        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
     },
     {
       "album": {
@@ -11516,7 +11600,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "SZEXFANTOM - Bonus Track",
       "url": "https://open.spotify.com/track/1Azz15IP4Fuf07sSc2DcSS"
@@ -12112,7 +12196,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 165258,
       "name": "Te vagy az \u00e9n hib\u00e1m",
       "url": "https://open.spotify.com/track/5dlXcyZle0u20scHIii12r"
@@ -13372,7 +13456,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 138097,
       "name": "WAKE N BAKE",
       "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
@@ -13910,6 +13994,28 @@
       "duration_ms": 263000,
       "name": "\u00d6r\u00f6kre el\u00e9g volt ebb\u0151l",
       "url": "https://open.spotify.com/track/7esbe7U4fAAGx0I0g0FzCs"
+    },
+    {
+      "album": {
+        "name": "ad astra",
+        "url": "https://open.spotify.com/album/6Q4fzGvDe5bE9UfVeV5lYX"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        },
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160403,
+      "name": "\u00f6sszevissza",
+      "url": "https://open.spotify.com/track/5CgMYs7FYpqR1WRqj0MS9U"
     },
     {
       "album": {

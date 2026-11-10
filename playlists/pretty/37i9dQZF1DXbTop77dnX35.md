@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Cruel Santino, Skepta, Joeboy, L.A.X, Didi B, Lil Baby, Bruno Mars and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,335 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,394 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,420 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,413 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 25 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
 | 26 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
 | 27 | [The Ghost of Tom Joad](https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 4:26 |
-| 28 | [Sea Of Heartbreak](https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The List](https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb) | 3:06 |
-| 29 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 4:04 |
+| 28 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 4:04 |
+| 29 | [Sea Of Heartbreak](https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The List](https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb) | 3:06 |
 | 30 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:22 |
 | 31 | [Radio Nowhere](https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 3:18 |
 | 32 | [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq) | 4:28 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 40 | [Letter To You](https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:55 |
 | 41 | [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:12 |
 | 42 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:27 |
-| 43 | [Blood Brothers](https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:34 |
-| 44 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:00 |
+| 43 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:00 |
+| 44 | [Blood Brothers](https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:34 |
 | 45 | [Jungleland](https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 9:33 |
 | 46 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 |
-| 47 | [Hello Sunshine](https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:56 |
-| 48 | [Darkness On the Edge of Town](https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:30 |
+| 47 | [Darkness On the Edge of Town](https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:30 |
+| 48 | [Hello Sunshine](https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:56 |
 | 49 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:31 |
 | 50 | [Out In the Street](https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:17 |
 
-Snapshot ID: `au5qAAAAAADgnkH32QxYDeyWA1iYdbP8`
+Snapshot ID: `au+7gAAAAADm67HthjwEYihIqAymSC1i`

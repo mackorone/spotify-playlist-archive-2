@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,355 likes - 101 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,371 likes - 101 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

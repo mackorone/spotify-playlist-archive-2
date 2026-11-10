@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,630 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,665 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 25 | [CHROME HEARTS](https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 3:16 |
 | 26 | [Cali](https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl) | [Kanito Escalante](https://open.spotify.com/artist/4Bo2MWN76cTam7PE2GZBj6), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Cali](https://open.spotify.com/album/6921DJk1AZONak9EoUPAR5) | 3:15 |
 | 27 | [Pa la Maña](https://open.spotify.com/track/2c5rzGmPdjADqPcoyrI6lO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 2:39 |
-| 28 | [A La Luz De La luna](https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A La Luz De La luna](https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs) | 2:45 |
-| 29 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
+| 28 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
+| 29 | [A La Luz De La luna](https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A La Luz De La luna](https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs) | 2:45 |
 | 30 | [Sin Querer Queriendo](https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Sin Querer Queriendo](https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O) | 3:26 |
 | 31 | [Cartier](https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cartier](https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB) | 3:06 |
 | 32 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 47 | [Rosita](https://open.spotify.com/track/3GARXzSTz07Wy4pX7PbmfJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 2:49 |
 | 48 | [Brasilia](https://open.spotify.com/track/6GVVcy83JingFYrxI7qDyR) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ay Weyy](https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY) | 2:35 |
 | 49 | [Sad Loqueron](https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:01 |
-| 50 | [y si no soy yo](https://open.spotify.com/track/6DKe3hR9GvFSw9HzgxQinZ) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Náufrago](https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf) | 3:22 |
+| 50 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 |
 
-Snapshot ID: `au5qAAAAAAAEURtMbv8ep5tQi0ENztw3`
+Snapshot ID: `au+7gAAAAABC+36kNz74SLuNJ1/SXoNF`

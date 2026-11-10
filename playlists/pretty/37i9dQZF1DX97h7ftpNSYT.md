@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,317 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,340 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 51 | [Do Not Disturb](https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:43 |
 | 52 | [Money Longer](https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:18 |
 | 53 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 |
-| 54 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
+| 54 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
 | 55 | [Weekend \(feat\. Miguel\)](https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:28 |
-| 56 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
+| 56 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
 | 57 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
 | 58 | [Walk It Talk It](https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:36 |
 | 59 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |

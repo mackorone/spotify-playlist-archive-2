@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,902 likes - 153 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,947 likes - 153 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

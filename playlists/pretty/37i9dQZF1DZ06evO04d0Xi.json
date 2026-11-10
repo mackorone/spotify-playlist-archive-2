@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAAD8vMTdWmOgDkIv5QRO3aWa",
+  "snapshot_id": "au+7gAAAAABga9MayMsI7uM5ju2QJqVm",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Mais Importa",
-        "url": "https://open.spotify.com/album/3VncXc1LWVDOFpHN8kfMZt"
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 234736,
-      "name": "Nada Mais Importa",
-      "url": "https://open.spotify.com/track/4bcOnlOqTKCvaL4QTk4T88"
+      "duration_ms": 279289,
+      "name": "A Tua Gl\u00f3ria Faz",
+      "url": "https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
+        "name": "Nada Mais Importa",
+        "url": "https://open.spotify.com/album/3VncXc1LWVDOFpHN8kfMZt"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 279289,
-      "name": "A Tua Gl\u00f3ria Faz",
-      "url": "https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw"
+      "duration_ms": 234736,
+      "name": "Nada Mais Importa",
+      "url": "https://open.spotify.com/track/4bcOnlOqTKCvaL4QTk4T88"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 205868,
-      "name": "Vaso de Alabastro",
-      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/5z7MRPtkoIttXElp2LVxsQ"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 205868,
+      "name": "Vaso de Alabastro",
+      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 256255,
-      "name": "O Amor Que Cura",
-      "url": "https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 228948,
       "name": "Algu\u00e9m",
       "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 256255,
+      "name": "O Amor Que Cura",
+      "url": "https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL"
     },
     {
       "added_at": null,
@@ -827,6 +827,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paix\u00e3o de Cristo - O Musical",
+        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Vinho e P\u00e3o",
+      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 305342,
+      "name": "Adorai, Adonai",
+      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -851,38 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 305342,
-      "name": "Adorai, Adonai",
-      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paix\u00e3o de Cristo - O Musical",
-        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Vinho e P\u00e3o",
-      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 297261,
       "name": "Liberta-me",
       "url": "https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 267633,
+      "name": "Peniel",
+      "url": "https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu"
     },
     {
       "added_at": null,
@@ -927,22 +943,6 @@
       "duration_ms": 331766,
       "name": "Sonhos",
       "url": "https://open.spotify.com/track/1VIheUgrhc6Xe0ZRz0GulJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 267633,
-      "name": "Peniel",
-      "url": "https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu"
     },
     {
       "added_at": null,

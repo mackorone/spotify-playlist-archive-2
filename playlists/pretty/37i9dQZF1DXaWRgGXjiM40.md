@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,956 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,890 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 26 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
 | 27 | [Mural Dos Sonhos](https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Mural Dos Sonhos](https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn) | 2:38 |
 | 28 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
-| 29 | [Lembranças de Amor \- Ao Vivo](https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:31 |
-| 30 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
+| 29 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
+| 30 | [Lembranças de Amor \- Ao Vivo](https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:31 |
 | 31 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
 | 32 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
 | 33 | [Flor e Água \- Ao Vivo](https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Da Minha Casa Pra Sua \(Ao Vivo\)](https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l) | 3:29 |

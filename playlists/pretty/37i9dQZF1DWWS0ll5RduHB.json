@@ -1,6 +1,6 @@
 {
   "description": "\u97f3\u697d\u3092\u30dd\u30b1\u30c3\u30c8\u306b\u8a70\u3081\u3066\u6563\u6b69\u306b\u51fa\u304b\u3051\u3088\u3046\u3002\u304d\u3063\u3068\u65b0\u3057\u3044\u666f\u8272\u304c\u898b\u3048\u3066\u304f\u308b\u306f\u305a\u3002",
-  "num_followers": 51239,
+  "num_followers": 51241,
   "original_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-11-06 09:34:56",
       "album": {
-        "name": "Casual Crime",
-        "url": "https://open.spotify.com/album/35q3NeLzH7VRKep6AtGFY1"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 155340,
-      "name": "Casual Crime",
-      "url": "https://open.spotify.com/track/52Ww5RZpJuDWttqnIBeGr3"
-    },
-    {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
         "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
         "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 176594,
       "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
       "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "Casual Crime",
+        "url": "https://open.spotify.com/album/35q3NeLzH7VRKep6AtGFY1"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 155340,
+      "name": "Casual Crime",
+      "url": "https://open.spotify.com/track/52Ww5RZpJuDWttqnIBeGr3"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
     },
     {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/379McNO5sSbweTq3tZi68P"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Hey, People",
+      "url": "https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK"
+    },
+    {
       "added_at": "2026-04-17 03:49:21",
       "album": {
         "name": "Home (feat. Hikaru Utada)",
@@ -475,22 +491,6 @@
       "duration_ms": 179834,
       "name": "cosas malas de m\u00ed",
       "url": "https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT"
-    },
-    {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
-        "name": "Airplane Mode",
-        "url": "https://open.spotify.com/album/379McNO5sSbweTq3tZi68P"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Hey, People",
-      "url": "https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "(no) te quiero perder [BY BERSHKA MUSIC]",
-        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 141663,
-      "name": "(no) te quiero perder - BY BERSHKA MUSIC",
-      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
-    },
-    {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
         "name": "Big Strong Man",
         "url": "https://open.spotify.com/album/2KLdQb39rhE54nb7Razscv"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 229682,
       "name": "Big Strong Man",
       "url": "https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3"
+    },
+    {
+      "added_at": "2026-10-20 15:00:08",
+      "album": {
+        "name": "(no) te quiero perder [BY BERSHKA MUSIC]",
+        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 141663,
+      "name": "(no) te quiero perder - BY BERSHKA MUSIC",
+      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        },
+        {
+          "name": "ApMontyy",
+          "url": "https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E"
+        }
+      ],
+      "duration_ms": 229233,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5U1UoeR6Dh0BwzoRtcXhvc"
+    },
+    {
+      "added_at": "2026-10-20 15:00:08",
+      "album": {
         "name": "Our Year",
         "url": "https://open.spotify.com/album/2g1D6JBcSrCBMnj3eQOVft"
       },
@@ -733,24 +753,20 @@
       "url": "https://open.spotify.com/track/4faHxt98lvOrv4InWwgR6U"
     },
     {
-      "added_at": "2026-10-20 15:00:08",
+      "added_at": "2026-04-17 03:49:21",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi"
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
       },
       "artists": [
         {
-          "name": "Le John",
-          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
-        },
-        {
-          "name": "ApMontyy",
-          "url": "https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 229233,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5U1UoeR6Dh0BwzoRtcXhvc"
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -767,22 +783,6 @@
       "duration_ms": 182356,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB"
-    },
-    {
-      "added_at": "2026-04-17 03:49:21",
-      "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -837,20 +837,24 @@
       "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
     },
     {
-      "added_at": "2026-10-20 15:00:08",
+      "added_at": "2026-11-06 09:34:56",
       "album": {
-        "name": "Pick You Up",
-        "url": "https://open.spotify.com/album/2jR3pofg0GEeOnfWWXNeVd"
+        "name": "Think twice",
+        "url": "https://open.spotify.com/album/2oNKfbEXCZIPIAIBX5xO6T"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        },
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Pick You Up",
-      "url": "https://open.spotify.com/track/4ClKPOgfYQi6j26kpVCJCP"
+      "duration_ms": 125293,
+      "name": "I kinda wanna ask you out",
+      "url": "https://open.spotify.com/track/3BzrCJ28G6TWzfV5e1pixo"
     }
   ],
   "unique_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",

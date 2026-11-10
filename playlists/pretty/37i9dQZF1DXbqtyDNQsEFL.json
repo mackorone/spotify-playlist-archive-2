@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor",
-  "num_followers": 121811,
+  "num_followers": 121817,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -401,6 +401,26 @@
       "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
     },
     {
+      "added_at": "2026-10-30 00:01:15",
+      "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Hope In You (with Davido)",
+      "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
@@ -423,26 +443,6 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
-    },
-    {
-      "added_at": "2026-10-30 00:01:15",
-      "album": {
-        "name": "I Am What I Am",
-        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Hope In You (with Davido)",
-      "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
       "added_at": "2025-09-19 00:01:03",
       "album": {
         "name": "Oluwatosin II",
@@ -543,22 +559,6 @@
       "duration_ms": 656000,
       "name": "Oluwatosin II",
       "url": "https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
-      "added_at": "2025-10-31 00:01:29",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "Me & My Jesus",
-      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Olorun Agbaye - You Are Mighty",
@@ -1055,6 +1039,22 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "added_at": "2025-10-31 00:01:29",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "Me & My Jesus",
+      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -1353,20 +1353,24 @@
       "url": "https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd"
     },
     {
-      "added_at": "2025-02-07 00:01:01",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Armour Of God (Live)",
-        "url": "https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F"
+        "name": "Fragrance (feat. GGTQ All Stars)",
+        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
         }
       ],
-      "duration_ms": 745760,
-      "name": "Armour Of God - Live",
-      "url": "https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um"
+      "duration_ms": 267337,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1389,24 +1393,20 @@
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2025-02-07 00:01:01",
       "album": {
-        "name": "Fragrance (feat. GGTQ All Stars)",
-        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
+        "name": "Armour Of God (Live)",
+        "url": "https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F"
       },
       "artists": [
         {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        },
-        {
-          "name": "GGTQ All Stars",
-          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         }
       ],
-      "duration_ms": 267337,
-      "name": "Fragrance (feat. GGTQ All Stars)",
-      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+      "duration_ms": 745760,
+      "name": "Armour Of God - Live",
+      "url": "https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um"
     },
     {
       "added_at": "2026-05-15 00:01:30",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
     },
     {
-      "added_at": "2026-10-16 00:01:33",
-      "album": {
-        "name": "Lazy Man",
-        "url": "https://open.spotify.com/album/44Hpk1LpKPDLGHBwCPM7ij"
-      },
-      "artists": [
-        {
-          "name": "Israel the creator",
-          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Lazy Man",
-      "url": "https://open.spotify.com/track/5ybg7689HmX4tY8sWao3y0"
-    },
-    {
       "added_at": "2025-10-03 00:01:16",
       "album": {
         "name": "Do It Now (Agbanilagbatan)",
@@ -1509,20 +1493,20 @@
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
-      "added_at": "2026-02-20 00:01:24",
+      "added_at": "2026-10-16 00:01:33",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
+        "name": "Lazy Man",
+        "url": "https://open.spotify.com/album/44Hpk1LpKPDLGHBwCPM7ij"
       },
       "artists": [
         {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
         }
       ],
-      "duration_ms": 172716,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
+      "duration_ms": 129391,
+      "name": "Lazy Man",
+      "url": "https://open.spotify.com/track/5ybg7689HmX4tY8sWao3y0"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 461003,
       "name": "Spontaneous Worship 1 - Live",
       "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
+    },
+    {
+      "added_at": "2026-02-20 00:01:24",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "duration_ms": 172716,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
     }
   ],
   "unique_name": "Be Lifted ",

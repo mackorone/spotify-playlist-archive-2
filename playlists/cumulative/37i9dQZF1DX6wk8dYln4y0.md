@@ -4,7 +4,7 @@
 
 > pop that \*hits different\* featuring lennon stella
 
-801 songs - 1 day 19 hr 9 min
+802 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-19 | 2023-11-27 |
 | [Some Kinda Glory](https://open.spotify.com/track/0XSXCd5vK1XtlaBwe382Wq) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [Some Kinda Glory](https://open.spotify.com/album/3B4ssiovd26NN0D8GCBVj4) | 3:51 | 2025-09-11 | 2025-10-24 |
 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 | 2026-02-19 | 2026-04-10 |
-| [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-26 |  |
+| [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-26 | 2026-11-10 |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-05-10 | 2024-01-17 |
 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 | 2026-01-15 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-03-16 | 2024-06-04 |
@@ -761,6 +761,7 @@
 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 | 2025-08-07 |  |
 | [WARCRY](https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN \(HIGH AS HELL\) \[Deluxe\]](https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR) | 3:02 | 2025-10-02 | 2026-01-15 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2023-03-16 | 2023-09-22 |
+| [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 | 2026-11-05 |  |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-09-04 | 2025-02-21 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-27 | 2024-06-12 |
 | [Water, Shelter, Oxygen](https://open.spotify.com/track/1QgbO0gGOT1zZAEuvXrhEc) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41) | [Water, Shelter, Oxygen](https://open.spotify.com/album/3YiFTvQ12qioSobqb9pQlu) | 2:54 | 2026-11-05 |  |

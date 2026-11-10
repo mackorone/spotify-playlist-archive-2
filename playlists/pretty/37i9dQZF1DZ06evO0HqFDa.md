@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,140 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,139 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 41 | [If This Be Victory](https://open.spotify.com/track/0d2ndwByMDkQkfqqTql13x) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 3 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/6seVyaHqO605uSpXoFpamn) | 5:40 |
 | 42 | [You Are No Son of Mine](https://open.spotify.com/track/2YOy1e7sBLXi5DL2klc9Nv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 4:29 |
 | 43 | [The Green Dress](https://open.spotify.com/track/2YD1j2swOJLysIZII179n2) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:50 |
-| 44 | [Maester](https://open.spotify.com/track/2Ift6YpqOCINgVYvGx8nVW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:52 |
-| 45 | [Mother Of Dragons](https://open.spotify.com/track/3czgLTPcYPQlkcnMeVxziP) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:35 |
+| 44 | [Mother Of Dragons](https://open.spotify.com/track/3czgLTPcYPQlkcnMeVxziP) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:35 |
+| 45 | [Maester](https://open.spotify.com/track/2Ift6YpqOCINgVYvGx8nVW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:52 |
 | 46 | [Blood of the Dragon](https://open.spotify.com/track/3As7Ugnc8VMp1Xf54VwwLW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ) | 1:33 |
 | 47 | [An Impossible Choice](https://open.spotify.com/track/793D3U2TMPyTgwWlY2cDup) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:34 |
-| 48 | [My Watch Has Ended](https://open.spotify.com/track/0SdHiRgv1yZtiPYuRnbUfu) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:53 |
-| 49 | [See You for What You Are](https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:09 |
+| 48 | [See You for What You Are](https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:09 |
+| 49 | [My Watch Has Ended](https://open.spotify.com/track/0SdHiRgv1yZtiPYuRnbUfu) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:53 |
 | 50 | [Paint It, Black](https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:44 |
 
-Snapshot ID: `au5qAAAAAADbBEoZc7NbwWh9q7mmx/e8`
+Snapshot ID: `au+7gAAAAAB9LLO6IhbXoe4JLa/8ew4E`

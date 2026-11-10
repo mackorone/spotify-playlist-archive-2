@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,633 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,632 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Esse \(feat\. Future\)](https://open.spotify.com/track/4wnMzgP1vaDoFBCJP72RLJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 4:25 |
 | 50 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 |
 
-Snapshot ID: `au5qAAAAAAAM8Fl+wQ/Y+XOE+V7kpnoG`
+Snapshot ID: `au+7gAAAAABybu/HHN4uPAe05hzY1joZ`

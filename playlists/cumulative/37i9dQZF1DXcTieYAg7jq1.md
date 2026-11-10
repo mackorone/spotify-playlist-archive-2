@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Blu DeTiger
 
-619 songs - 1 day 10 hr 51 min
+620 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 | 2023-05-26 | 2025-11-22 |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2021-12-03 | 2023-01-28 |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |
-| [I Stay I Leave I Love I Lose](https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:57 | 2025-11-14 |  |
+| [I Stay I Leave I Love I Lose](https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:57 | 2025-11-14 | 2026-11-10 |
 | [I Stood My Ground](https://open.spotify.com/track/4JRuQ22xck5DCfkQXRPnF6) | [Chloe Stroll](https://open.spotify.com/artist/31J0TFdcefgKGeFBKXRH8z) | [I Stood My Ground](https://open.spotify.com/album/3zuXv136QTdzBlGmTtN7ci) | 4:03 | 2025-08-01 | 2026-07-25 |
 | [I Was Wrong](https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4) | 3:30 | 2026-06-05 |  |
 | [I'll come back to you](https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Lady Love](https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx) | 3:13 | 2026-03-09 | 2026-10-24 |
@@ -368,6 +368,7 @@
 | [Mine! Mine! Mine!](https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Mine! Mine! Mine!](https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD) | 3:05 | 2026-11-06 |  |
 | [Missing You](https://open.spotify.com/track/1EgGW9s2H8zNGXQHVMcUnj) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Missing You](https://open.spotify.com/album/0Cs8yc9v730VOmCOcAD6pC) | 3:10 | 2026-03-28 | 2026-09-26 |
 | [misunderstood](https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [LOVER GIRL](https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V) | 3:48 | 2026-08-21 |  |
+| [Mon Papillon](https://open.spotify.com/track/4ybb9JOEipIKSxA9fsoZLs) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Reverie](https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T) | 2:59 | 2026-11-09 |  |
 | [Money \(with Tom Misch\)](https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Money](https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG) | 4:51 | 2021-12-03 | 2023-01-28 |
 | [Moonlight](https://open.spotify.com/track/0fXcMDftUSzCAnLXapMScF) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Fried Bananas](https://open.spotify.com/album/2xb949TecaOYkSUBKfgSIb) | 3:52 | 2022-05-27 | 2024-05-11 |
 | [Moonshine](https://open.spotify.com/track/6fnVXJMz2ahAVFxc9fwczD) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Moonshine](https://open.spotify.com/album/5yWslb5Coa1ZMCN43gRIjV) | 1:59 | 2025-09-12 | 2026-06-26 |

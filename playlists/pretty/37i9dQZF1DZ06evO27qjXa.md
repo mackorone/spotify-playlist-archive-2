@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,893 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,940 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 43 | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t) | 7:34 |
 | 44 | [The Color Dance](https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Color Dance](https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70) | 3:44 |
 | 45 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 |
-| 46 | [The Floor is Quicksand \- Pyramid Adventure](https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Quicksand \(Pyramid Adventure\)](https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n) | 3:57 |
-| 47 | [I Got That Rhythm!](https://open.spotify.com/track/4RNI2T3VjXFgu4PtrSdK8T) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Burning Energy!](https://open.spotify.com/album/59K3YaAwxti0OT65SChvno) | 4:02 |
-| 48 | [Rainbow Disco Unicorn](https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rainbow Disco Unicorn](https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG) | 2:58 |
-| 49 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
+| 46 | [Rainbow Disco Unicorn](https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rainbow Disco Unicorn](https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG) | 2:58 |
+| 47 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
+| 48 | [I Got That Rhythm!](https://open.spotify.com/track/4RNI2T3VjXFgu4PtrSdK8T) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Burning Energy!](https://open.spotify.com/album/59K3YaAwxti0OT65SChvno) | 4:02 |
+| 49 | [The Floor is Quicksand \- Pyramid Adventure](https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Quicksand \(Pyramid Adventure\)](https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n) | 3:57 |
 | 50 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
 
-Snapshot ID: `au5qAAAAAAA8nm4F7FTDOKgYOetlBvtH`
+Snapshot ID: `au+7gAAAAAA4MCk/34g3PTOdUZKRDK9U`

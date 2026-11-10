@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027,862 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,027,816 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 67 | [Slow Ride](https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Fool for the City](https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi) | 8:14 |
 | 68 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 69 | [Rebel Yell \- Remastered 1999](https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:46 |
-| 70 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
-| 71 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
+| 70 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
+| 71 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
 | 72 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
 | 73 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 74 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
@@ -106,9 +106,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 96 | [THUM](https://open.spotify.com/track/7t9bN3WmkWEPPKSdPbUgRb) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [Be Sweet To Me](https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu) | 2:11 |
 | 97 | [Ten Tonne Skeleton](https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:07 |
 | 98 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 |
-| 99 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
-| 100 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
-| 101 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
+| 99 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
+| 100 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
+| 101 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
 | 102 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
 | 103 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 |
 | 104 | [Come Inside](https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:13 |

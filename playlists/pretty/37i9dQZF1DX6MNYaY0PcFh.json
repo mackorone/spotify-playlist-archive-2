@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Interplanetary Criminal",
-  "num_followers": 110779,
+  "num_followers": 110817,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-10-22 23:00:52",
       "album": {
+        "name": "Talking Nonsense",
+        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
+      },
+      "artists": [
+        {
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
+        }
+      ],
+      "duration_ms": 339663,
+      "name": "Talking Nonsense",
+      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
+    },
+    {
+      "added_at": "2026-10-22 23:00:52",
+      "album": {
         "name": "Bring You Flowers",
         "url": "https://open.spotify.com/album/0rI1jinba9F5iYX9Fs1Kdm"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 139545,
       "name": "Bring You Flowers",
       "url": "https://open.spotify.com/track/1xUk8cy2f7FEzhFrMcABeb"
-    },
-    {
-      "added_at": "2026-10-22 23:00:52",
-      "album": {
-        "name": "Talking Nonsense",
-        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
-      },
-      "artists": [
-        {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 339663,
-      "name": "Talking Nonsense",
-      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-10-22 23:00:52",

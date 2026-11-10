@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,382 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,384 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 73 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
 | 74 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 | 75 | [HOUSE OF LUX \(JUMP ON THE PITCH REMIX\)](https://open.spotify.com/track/4eR8iyDWgah6SWs1GPD2Pr) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Ckdageneral](https://open.spotify.com/artist/4FIXMvdKOqfgiOwpgDrO5X) | [HOUSE OF LUX \(JUMP ON THE PITCH REMIX\)](https://open.spotify.com/album/07ZEWmcod4RvNw8g459vj3) | 2:49 |
-| 76 | [ITTY BITTY](https://open.spotify.com/track/6ho5dJJZp3z0dv4DnE34J5) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:23 |
-| 77 | [Gata \(feat\. Young Miko\)](https://open.spotify.com/track/79EyMEZdtzSoAvVA381QUf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:25 |
+| 76 | [Gata \(feat\. Young Miko\)](https://open.spotify.com/track/79EyMEZdtzSoAvVA381QUf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:25 |
+| 77 | [ITTY BITTY](https://open.spotify.com/track/6ho5dJJZp3z0dv4DnE34J5) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:23 |
 | 78 | [Club classics featuring bb trickz](https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:54 |
 | 79 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
 | 80 | [⁠⁠no debo :\(](https://open.spotify.com/track/5XycIQWzD3ofaE3BVklJh4) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:04 |

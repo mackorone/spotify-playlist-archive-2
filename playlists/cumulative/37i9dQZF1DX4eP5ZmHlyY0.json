@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "DREAM AFTER DREAM",
+        "url": "https://open.spotify.com/album/4ZOny2sfAeGeHixBa8UXcw"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/25aPAxdjuY65ndMA0Q4O8X"
+    },
+    {
+      "album": {
         "name": "BOOM BASH",
         "url": "https://open.spotify.com/album/2w4RMOw4SPJCuiONScbePk"
       },
@@ -3860,6 +3878,28 @@
       "duration_ms": 166000,
       "name": "Dancing By Myself",
       "url": "https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/6yXPYq0Iz38xI9BMByyMV4"
+      },
+      "artists": [
+        {
+          "name": "A2O SOUL",
+          "url": "https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7JaklRGtjDrRBtJHOSIEI4"
     },
     {
       "album": {
@@ -8430,7 +8470,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 163622,
       "name": "If You're Mine",
       "url": "https://open.spotify.com/track/23GA5FON8Aa21oSocnNmnm"
@@ -11430,6 +11470,24 @@
       "duration_ms": 287033,
       "name": "N.E.X.T.",
       "url": "https://open.spotify.com/track/345qiMdQHKT6V4S0AKK1TW"
+    },
+    {
+      "album": {
+        "name": "2ND EP [NA-GARI]",
+        "url": "https://open.spotify.com/album/5DFiaUhKJqek0JmM73l4S4"
+      },
+      "artists": [
+        {
+          "name": "KEYVITUP",
+          "url": "https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "NAGARI",
+      "url": "https://open.spotify.com/track/5TZZ7ZO7loxqV71zrFdPZ8"
     },
     {
       "album": {
@@ -15182,7 +15240,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 165000,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6rbE0DZpklcHtyTrqLNsc7"
@@ -16167,6 +16225,24 @@
     },
     {
       "album": {
+        "name": "SUIATSU",
+        "url": "https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "SUIATSU",
+      "url": "https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI"
+    },
+    {
+      "album": {
         "name": "Summer Light",
         "url": "https://open.spotify.com/album/0JLwjAXyinA9w0v4JjSGAg"
       },
@@ -16380,7 +16456,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 248000,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/1DWMei2F4L94avyzZh3Ms9"

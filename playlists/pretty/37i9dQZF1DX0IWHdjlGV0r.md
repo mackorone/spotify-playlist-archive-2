@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover:  Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,682 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,703 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 22 | [Non mi basta mai \(feat\. Frah Quintale, Capo Plaza\)](https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:34 |
 | 23 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 |
 | 24 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 |
-| 25 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 |
+| 25 | [4U](https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 3:06 |
 | 26 | [Polvere \(feat\. Tony Boy\)](https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:47 |
-| 27 | [4U](https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 3:06 |
+| 27 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 |
 | 28 | [Stare Senza \(feat\. Fashion Forty\)](https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 |
 | 29 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 |
 | 30 | [Polvere Rosa](https://open.spotify.com/track/0fR79MubHtwcEiGJzUw8Au) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:35 |

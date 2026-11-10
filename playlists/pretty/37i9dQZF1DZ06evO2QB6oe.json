@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71297,
+  "num_followers": 71296,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADvFfH5+tIZzLJ1fFeU0kq0",
+  "snapshot_id": "au+7gAAAAABOWptSvXNnw9cTCMKTvQrh",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 188708,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iko Iko (My Bestie) (feat. Small Jam)",
         "url": "https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 175586,
       "name": "Iko Iko (My Bestie) (feat. Small Jam)",
       "url": "https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201540,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Relevo",
         "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 244386,
       "name": "Fingir Est\u00e1 De Moda",
       "url": "https://open.spotify.com/track/21veSwBRn0s1HHLBf7fxZE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201540,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piel Canela (Casa Sole)",
         "url": "https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 192669,
       "name": "Piel Canela (Casa Sole)",
       "url": "https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 254258,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
     },
     {
       "added_at": null,

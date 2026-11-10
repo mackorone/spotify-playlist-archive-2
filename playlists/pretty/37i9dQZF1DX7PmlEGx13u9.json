@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 64359,
+  "num_followers": 64364,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
-    },
-    {
-      "added_at": "2026-03-17 14:32:26",
-      "album": {
         "name": "New Boy in Town",
         "url": "https://open.spotify.com/album/0Jy0LqxobKL1owsE4nc80f"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 151179,
       "name": "New Boy in Town",
       "url": "https://open.spotify.com/track/7cxFy7OiNo6TvpJ5suytkL"
+    },
+    {
+      "added_at": "2026-03-17 14:32:26",
+      "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
     },
     {
       "added_at": "2026-03-17 14:32:26",

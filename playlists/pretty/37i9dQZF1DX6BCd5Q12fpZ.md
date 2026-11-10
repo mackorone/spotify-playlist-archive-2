@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,914 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,915 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 71 | [Takes 2 To Tango](https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP) | [Jari Sillanpää](https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv) | [Albumi](https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL) | 3:01 |
 | 72 | [Ne partez pas sans moi \(Grand prix de L'Eurovision 1988\)](https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:06 |
 | 73 | [Toy](https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Toy](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) | 3:00 |
-| 74 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 |
-| 75 | [La det swinge](https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks!](https://open.spotify.com/album/17nnsL4uzJSeknmZVrlcDT) | 2:53 |
+| 74 | [She Got Me](https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [She Got Me](https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek) | 3:00 |
+| 75 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 |
 
 Snapshot ID: `AAAAAMH9qxw+NoXpChLgn2/+vEAkej7R`

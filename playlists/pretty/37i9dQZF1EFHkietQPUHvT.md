@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 76 | [Freak](https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Freak](https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP) | 3:01 |
 | 77 | [Love Like Us](https://open.spotify.com/track/4PUWuwvbqSKFvTZ5O0pqhF) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Love Like Us](https://open.spotify.com/album/0hDq3gHJMQgfMW8vg8RttR) | 2:58 |
 | 78 | [Afternoon Song](https://open.spotify.com/track/5l8NOrAi6aywtuZZFiec3r) | [HAMISH](https://open.spotify.com/artist/0vZ9bgfKD1AXIsJCIzqKsq) | [Afternoon Song](https://open.spotify.com/album/7v6lU4UWokW2qDnlZI6iTm) | 3:16 |
-| 79 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 |
+| 79 | [easy](https://open.spotify.com/track/07FbWGD3iIIkYBVeUVSEvv) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [the responsibility of being in love](https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL) | 3:15 |
 | 80 | [She's Like Me](https://open.spotify.com/track/2M2jqZueXe4nyUVntL4CR1) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [You Don't Hate Pop, You Just Hate Yourself](https://open.spotify.com/album/7sBj5jPcULxJUicbNvfhl2) | 2:45 |
-| 81 | [easy](https://open.spotify.com/track/07FbWGD3iIIkYBVeUVSEvv) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [the responsibility of being in love](https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL) | 3:15 |
+| 81 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 |
 | 82 | [Ordinary Love](https://open.spotify.com/track/2E5dMEYWxm3gY39vvAyOY6) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:40 |
 | 83 | [Breakfast Over Bae](https://open.spotify.com/track/6y8JwscZfUoEFBhoTLX7Ie) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:35 |
 | 84 | [Crybaby](https://open.spotify.com/track/1YLgcTKofzERZ6DxYkbX5D) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Crybaby](https://open.spotify.com/album/48LiIPSO9HyUCCb84ankpo) | 3:00 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 98 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 | 99 | [Riverbed](https://open.spotify.com/track/0cwARWmMGSE590s0KWGvsT) | [Bec O'Malley](https://open.spotify.com/artist/3VqZr4GJy8iXDI8BD610eE) | [Homeward Bound](https://open.spotify.com/album/0M8edmoN56Li5T8q4ATsHG) | 3:20 |
 
-Snapshot ID: `AchJ7AAAAACPcsZ5Tig5Wmft1IYvqnOt`
+Snapshot ID: `AchQBAAAAACg34Yf15g4RJsUMTsI4U1r`

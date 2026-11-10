@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 520006,
+  "num_followers": 520027,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-11-06 08:27:52",
       "album": {
+        "name": "Happiest",
+        "url": "https://open.spotify.com/album/6JkVyIx9aU3naTZtLmrYNT"
+      },
+      "artists": [
+        {
+          "name": "Mark Lee",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 171069,
+      "name": "Happiest",
+      "url": "https://open.spotify.com/track/6PhiK9i3MgfOCqbAsYMmaE"
+    },
+    {
+      "added_at": "2026-11-06 08:27:52",
+      "album": {
         "name": "Boat",
         "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 213853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2026-11-06 08:27:52",
-      "album": {
-        "name": "Happiest",
-        "url": "https://open.spotify.com/album/6JkVyIx9aU3naTZtLmrYNT"
-      },
-      "artists": [
-        {
-          "name": "Mark Lee",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 171069,
-      "name": "Happiest",
-      "url": "https://open.spotify.com/track/6PhiK9i3MgfOCqbAsYMmaE"
     },
     {
       "added_at": "2026-11-06 08:27:52",
@@ -355,42 +355,6 @@
     {
       "added_at": "2026-11-06 08:27:52",
       "album": {
-        "name": "Your Dog Loves You",
-        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Your Dog Loves You (Feat. Crush)",
-      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
-    },
-    {
-      "added_at": "2026-11-06 08:27:52",
-      "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
-    },
-    {
-      "added_at": "2026-11-06 08:27:52",
-      "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
       },
@@ -411,18 +375,38 @@
     {
       "added_at": "2026-11-06 08:27:52",
       "album": {
-        "name": "That Kind Of Love",
-        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
       },
       "artists": [
         {
-          "name": "I'MIN",
-          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 212733,
-      "name": "That Kind of Love",
-      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2026-11-06 08:27:52",
+      "album": {
+        "name": "Your Dog Loves You",
+        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Your Dog Loves You (Feat. Crush)",
+      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
     },
     {
       "added_at": "2026-11-06 08:27:52",
@@ -443,6 +427,22 @@
       "duration_ms": 187185,
       "name": "You Might (Feat. SHIRT)",
       "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
+    },
+    {
+      "added_at": "2026-11-06 08:27:52",
+      "album": {
+        "name": "That Kind Of Love",
+        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
+      },
+      "artists": [
+        {
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "That Kind of Love",
+      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
     },
     {
       "added_at": "2026-11-06 08:27:52",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-06 08:27:52",
       "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
-    },
-    {
-      "added_at": "2026-11-06 08:27:52",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "added_at": "2026-11-06 08:27:52",
+      "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
     },
     {
       "added_at": "2026-11-06 08:27:52",
@@ -871,18 +871,22 @@
     {
       "added_at": "2026-11-06 08:27:52",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 140506,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
+      "duration_ms": 194111,
+      "name": "Daydream (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
     }
   ],
   "unique_name": "Dalkom Cafe",

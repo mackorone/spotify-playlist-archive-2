@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,111 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,141 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 63 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 64 | [Be a Body](https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:20 |
 | 65 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
-| 66 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
-| 67 | [Swoon](https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm) | 6:05 |
+| 66 | [Swoon](https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm) | 6:05 |
+| 67 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
 | 68 | [Last Dance](https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:26 |
 | 69 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 |
 | 70 | [Ivory](https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj) | [MOVEMENT](https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX) | [MOVEMENT](https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck) | 3:42 |
 | 71 | [Affection](https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 2:36 |
 | 72 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
-| 73 | [I'll Take Care of U](https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Jamie Smith](https://open.spotify.com/artist/2PZO2EvqY5QjyW65YSKj7F) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:42 |
-| 74 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
+| 73 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
+| 74 | [I'll Take Care of U](https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Jamie Smith](https://open.spotify.com/artist/2PZO2EvqY5QjyW65YSKj7F) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:42 |
 | 75 | [Flicker](https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:39 |
 | 76 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 |
 | 77 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Irepelusa
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,549 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,548 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

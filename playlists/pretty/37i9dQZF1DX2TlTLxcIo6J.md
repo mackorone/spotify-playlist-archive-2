@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > New songwriters on the horizon from around the world\. Cover: Joe Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,858 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,864 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

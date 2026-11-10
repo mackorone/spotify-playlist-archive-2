@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,394 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,502 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 12 | [Amiga Si Lo Ves](https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 4:23 |
 | 13 | [Mirame](https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:43 |
 | 14 | [Como Tu Mujer \- Banda](https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:25 |
-| 15 | [Por Qué No Le Calas](https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:25 |
+| 15 | [Déjame Volver Contigo](https://open.spotify.com/track/01AVaTct7bSuVvG5HdsGbc) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:59 |
 | 16 | [No Me Pregunten por Él](https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:40 |
 | 17 | [Cuanto Te Debo](https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:40 |
 | 18 | [A Cambio de Qué \- Banda](https://open.spotify.com/track/0KJukOSRpRffsmjG3KB9L7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:24 |
-| 19 | [Déjame Volver Contigo](https://open.spotify.com/track/01AVaTct7bSuVvG5HdsGbc) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:59 |
+| 19 | [Por Qué No Le Calas](https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:25 |
 | 20 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 21 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:38 |
 | 22 | [A Que No Le Cuentas \- Banda](https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [La Misma Gran Señora](https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 3:01 |
 | 50 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
 
-Snapshot ID: `au5qAAAAAAAOvPCb6+FtqiBiKhRUmNoQ`
+Snapshot ID: `au+7gAAAAACBdCuJ5uetsp/vRz5j2WuJ`

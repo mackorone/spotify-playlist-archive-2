@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,092 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,025 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

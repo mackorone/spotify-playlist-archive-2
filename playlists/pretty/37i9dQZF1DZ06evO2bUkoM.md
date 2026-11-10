@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,105 likes - 46 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,106 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 12 | [chance](https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:20 |
 | 13 | [Sleepover](https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:53 |
 | 14 | [red bikini](https://open.spotify.com/track/7p381hdYk7IyEVgBk6lHvI) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:36 |
-| 15 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 |
-| 16 | [Gravel to Tempo](https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:38 |
+| 15 | [Gravel to Tempo](https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:38 |
+| 16 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 |
 | 17 | [Feelings](https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:36 |
 | 18 | [falling through \(from the motion picture\)](https://open.spotify.com/track/2KBe1zbcZKgj9upAk7eXef) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 2:54 |
 | 19 | [I Wish](https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp) | 3:25 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 23 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 |
 | 24 | [Sadness](https://open.spotify.com/track/3wW615TC8W0at2BjnOfiRM) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Sadness](https://open.spotify.com/album/171hNpaERUy2FQ17IrnH4F) | 2:39 |
 | 25 | [He'll Never Love You \(HNLY\)](https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:51 |
-| 26 | [This Side of Paradise](https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v) | 3:31 |
-| 27 | [found my friends](https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:34 |
+| 26 | [found my friends](https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:34 |
+| 27 | [This Side of Paradise](https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v) | 3:31 |
 | 28 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 |
-| 29 | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI) | 2:34 |
-| 30 | [One Bad Night](https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:55 |
+| 29 | [One Bad Night](https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:55 |
+| 30 | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI) | 2:34 |
 | 31 | [Mr\. Brightside](https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Mr\. Brightside](https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex) | 3:48 |
 | 32 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 |
 | 33 | [Bang! \- feat\. Hayley Kiyoko \- AhhHaa Remix](https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [AhhHaa](https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m) | [Bang! \(feat\. Hayley Kiyoko \- AhhHaa Remix\)](https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04) | 2:47 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 45 | [Need You Closer](https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Phantoms](https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA) | 4:12 |
 | 46 | [Runaway](https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:30 |
 
-Snapshot ID: `au0YgAAAAAAYQfuya2VFoxzhoNmZwzpA`
+Snapshot ID: `au+7gAAAAAA/ad67cjlsSEmCOAn6pvjk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,029 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,025 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 42 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
 | 43 | [laundry song](https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [laundry song](https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W) | 3:47 |
 | 44 | [Honey Is My New Favorite](https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK) | [Honey Is My New Favorite](https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl) | 2:23 |
-| 45 | [Covergirl](https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Nature's Pill](https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM) | 4:17 |
-| 46 | [Call Me If You Need Me](https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO) | [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [D3NZL](https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW) | [Call Me If You Need Me](https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo) | 2:22 |
+| 45 | [Call Me If You Need Me](https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO) | [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [D3NZL](https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW) | [Call Me If You Need Me](https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo) | 2:22 |
+| 46 | [Covergirl](https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Nature's Pill](https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM) | 4:17 |
 | 47 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
 | 48 | [Knife](https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Sunshine](https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4) | 2:31 |
 | 49 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 | 50 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
-| 51 | [potion](https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [come to mommy](https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I) | 2:43 |
-| 52 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 |
+| 51 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 |
+| 52 | [potion](https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [come to mommy](https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I) | 2:43 |
 | 53 | [SUPERHERO](https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FAITH OVER FAME](https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI) | 3:14 |
 | 54 | [Free](https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Free](https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW) | 3:16 |
 | 55 | [Thank You](https://open.spotify.com/track/0YwtsLxxci8s57omyhPvfV) | [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Stick Around For Tea](https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU) | 3:36 |

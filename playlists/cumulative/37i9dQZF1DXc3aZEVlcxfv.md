@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-705 songs - 1 day 23 hr 44 min
+706 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [FRIEND INDEED](https://open.spotify.com/track/37Z396VXnlD0ZaAukhljSl) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [FRIEND INDEED](https://open.spotify.com/album/3ZtXTQaPwtw9s7TENPCH2u) | 2:19 | 2025-04-18 | 2025-06-06 |
 | [Game Changer](https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Consecrated](https://open.spotify.com/album/43dgcmNuJia1zc64HRWlLE) | 4:42 | 2024-09-27 | 2025-02-07 |
 | [Gathering \- Special Version](https://open.spotify.com/track/0YKi0GV9YJ5ufYvX5aOYeK) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Gathering \(Special Version\)](https://open.spotify.com/album/16aGD6JpxEnq8WIknNoo2T) | 2:25 | 2024-10-18 | 2025-02-28 |
-| [GAZE](https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk) | [TheTEMI](https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace), [Lois Onyamedea](https://open.spotify.com/artist/6ynxkvN4t3or4RtcuQRnsY) | [GAZE](https://open.spotify.com/album/33JN4Luwa29wqD4OFWXtzf) | 2:53 | 2026-10-23 |  |
+| [GAZE](https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk) | [TheTEMI](https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace), [Lois Onyamedea](https://open.spotify.com/artist/6ynxkvN4t3or4RtcuQRnsY) | [GAZE](https://open.spotify.com/album/33JN4Luwa29wqD4OFWXtzf) | 2:53 | 2026-10-23 | 2026-11-10 |
 | [Give Am Praise](https://open.spotify.com/track/3PVoW55Hs6hfokXqnBc0u2) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Give Am Praise](https://open.spotify.com/album/01r98bMngk1MOMjY50Kvhm) | 7:01 | 2026-07-17 | 2026-08-13 |
 | [Giver of Good Things](https://open.spotify.com/track/4aDY4firFK9JKg6AgpPHwP) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Giver of Good Things](https://open.spotify.com/album/6jUm0DbfPTh0KQlPDMj10E) | 2:28 | 2025-12-12 | 2026-02-06 |
 | [Glorify the Lord](https://open.spotify.com/track/1WdnWUQaH6GUi2PABm1fry) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Glorify the Lord](https://open.spotify.com/album/2fgmnE9IqqX1cq0XT220cs) | 2:43 | 2026-01-02 | 2026-04-03 |
@@ -234,6 +234,7 @@
 | [God Is Good](https://open.spotify.com/track/5IOd2RGPZcoCBZfcx4mzA4) | [WATI](https://open.spotify.com/artist/3tCIswvTk9tvDVmNxaEs2W), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [God Is Good](https://open.spotify.com/album/6q9BbMFOegjRY1k9u9d0lq) | 3:25 | 2025-04-04 | 2025-05-30 |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 | 2025-02-07 |
 | [God's Favorite](https://open.spotify.com/track/2jcCdk4FEEyXf2sDdiC0qB) | [Mataya Newton](https://open.spotify.com/artist/4uIl3HS6qlnmWM3deds3hp) | [God's Favorite](https://open.spotify.com/album/1fPl9VPqzAR5Z2Ce5IegcY) | 2:10 | 2025-11-14 | 2026-01-15 |
+| [God's Got Me](https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [God's Got Me](https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa) | 3:06 | 2026-10-30 |  |
 | [God's Not Done](https://open.spotify.com/track/5wRISCEtas6GJO1KSfyZKX) | [O.B.Y](https://open.spotify.com/artist/3WY7G1znB6fpNocbEbjr0O) | [God's Not Done](https://open.spotify.com/album/5IJkqU0BaoyVtmOW44rfo7) | 3:02 | 2025-11-07 | 2026-03-22 |
 | [God's Revelation](https://open.spotify.com/track/6AYzQdNjbuirpuGfUpzOHu) | [GSense](https://open.spotify.com/artist/7qgUUzBFjqC1i985gr2yz2) | [Alpha & Omega](https://open.spotify.com/album/1hp3PYdr8CXfQyAE1LD7f3) | 3:40 | 2024-10-18 | 2025-03-28 |
 | [God, Turn It Around](https://open.spotify.com/track/7o7YMusB6yqUQUtz7lDVrg) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 4:15 | 2024-09-27 | 2025-02-28 |

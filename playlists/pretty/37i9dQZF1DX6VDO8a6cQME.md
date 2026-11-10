@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,889,490 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,889,562 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 26 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
 | 27 | [Kiss of Life](https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:50 |
 | 28 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
-| 29 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
-| 30 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
+| 29 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
+| 30 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
 | 31 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
 | 32 | [I Can Love You](https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:46 |
 | 33 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 65 | [Can We Talk](https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:44 |
 | 66 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
 | 67 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 |
-| 68 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
-| 69 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
+| 68 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
+| 69 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
 | 70 | [Angel of Mine](https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:10 |
 | 71 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
 | 72 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |

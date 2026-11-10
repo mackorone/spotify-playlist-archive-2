@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,277 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,318 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 34 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 |
 | 35 | [If I'm Lyin', I'm Flyin'](https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:10 |
 | 36 | [Codeine Dreaming \(feat\. Lil Wayne\)](https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Project Baby 2: All Grown Up \(Deluxe Edition\)](https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p) | 4:24 |
-| 37 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
+| 37 | [Yo Mama \(feat\. Kodak Black\)](https://open.spotify.com/track/35s4C6GUe0tpeoSZ6npYHV) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Cucuy](https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU) | 2:37 |
 | 38 | [No Love For A Thug](https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 5:05 |
-| 39 | [Yo Mama \(feat\. Kodak Black\)](https://open.spotify.com/track/35s4C6GUe0tpeoSZ6npYHV) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Cucuy](https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU) | 2:37 |
+| 39 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
 | 40 | [On Everything](https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:12 |
 | 41 | [Day for Day](https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:48 |
 | 42 | [Pimpin Ain't Eazy](https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 49 | [Till im Gone \(feat\. Kodak Black\)](https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 3:46 |
 | 50 | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Dj E Money](https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue), [G6reddot](https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq) | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ) | 3:57 |
 
-Snapshot ID: `au5qAAAAAACAn5RAv/GwTuqHySuy67sO`
+Snapshot ID: `au+7gAAAAABzLyKx3nvaaVZ2RhAa/7QM`

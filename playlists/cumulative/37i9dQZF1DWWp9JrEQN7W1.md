@@ -4,7 +4,7 @@
 
 > Something cute for baddies doing their hair and make\-up.
 
-248 songs - 13 hr 40 min
+249 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-29 | 2024-05-03 |
 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 | 2025-10-24 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-08-10 |  |
+| [Boys](https://open.spotify.com/track/5QHdBMFvD4ow4ePzZRNZQB) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 2:24 | 2026-11-09 |  |
 | [Break from Toronto](https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:39 | 2023-08-10 | 2025-12-31 |
 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 | 2023-08-10 |  |
 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2023-12-30 |  |
@@ -248,7 +249,7 @@
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2025-12-30 | 2026-09-22 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-12-30 |  |
 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 | 2025-12-30 | 2026-05-30 |
-| [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 | 2026-07-10 |  |
+| [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 | 2026-07-10 | 2026-11-10 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-08-10 | 2024-02-22 |
 | [Why Do You Feel So Down](https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:40 | 2024-05-02 | 2024-05-11 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-08-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Archie",
-  "num_followers": 56297,
+  "num_followers": 56301,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Contra Probabilidades",
-        "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 203082,
-      "name": "Contra Probabilidades",
-      "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Reservado",
         "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Contra Probabilidades",
+        "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 203082,
+      "name": "Contra Probabilidades",
+      "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Ser Feliz \u00e9 T\u00e3o Simples",
-        "url": "https://open.spotify.com/album/5tqdrs8Us3JHIS4H9gmvRN"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 164524,
-      "name": "Ser Feliz \u00e9 T\u00e3o Simples",
-      "url": "https://open.spotify.com/track/38LpJeDS86RSIIc1NcdWEX"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "SWEET LIKE SUGAR",
         "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 240000,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Ser Feliz \u00e9 T\u00e3o Simples",
+        "url": "https://open.spotify.com/album/5tqdrs8Us3JHIS4H9gmvRN"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 164524,
+      "name": "Ser Feliz \u00e9 T\u00e3o Simples",
+      "url": "https://open.spotify.com/track/38LpJeDS86RSIIc1NcdWEX"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153029,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "FIM DO NADA DELUXE",
         "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
       },
@@ -979,6 +963,38 @@
       "duration_ms": 240000,
       "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
       "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "duration_ms": 153029,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1011,22 +1027,6 @@
       "duration_ms": 198300,
       "name": "N\u00e3o Presto",
       "url": "https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM"
-      },
-      "artists": [
-        {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        }
-      ],
-      "duration_ms": 229661,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Se Eu Fosse a Ti",
         "url": "https://open.spotify.com/album/1NU178xk4sfnHGTw3rIZPf"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 190597,
       "name": "Se Eu Fosse a Ti",
       "url": "https://open.spotify.com/track/7nOyzGWCyciv7BWBoVtzuQ"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 229661,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
     },
     {
       "added_at": "2026-11-06 00:00:56",

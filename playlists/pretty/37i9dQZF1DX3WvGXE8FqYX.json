@@ -1,6 +1,6 @@
 {
   "description": "Celebrating the power of amazing female pop artists. Cover: Olivia Rodrigo & Chappell Roan",
-  "num_followers": 2553014,
+  "num_followers": 2552911,
   "original_name": "Women of Pop",
   "owner": {
     "name": "Spotify",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
+      "added_at": "2026-10-23 04:00:42",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+    },
+    {
       "added_at": "2026-05-15 19:46:51",
       "album": {
         "name": "Love Me Not / Love Is Blind",
@@ -337,22 +353,6 @@
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
-      "added_at": "2026-10-23 04:00:42",
-      "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 199460,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
-    },
-    {
       "added_at": "2026-05-15 19:46:51",
       "album": {
         "name": "a thousand years",
@@ -367,38 +367,6 @@
       "duration_ms": 285120,
       "name": "a thousand years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
-    },
-    {
-      "added_at": "2026-05-15 19:46:51",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2026-05-15 19:46:51",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2026-05-15 19:46:51",
@@ -435,6 +403,38 @@
     {
       "added_at": "2026-05-15 19:46:51",
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2026-05-15 19:46:51",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2026-05-15 19:46:51",
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-05-15 19:46:51",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-05-15 19:46:51",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2026-05-15 19:46:51",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "added_at": "2026-05-15 19:46:51",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
     },
     {
-      "added_at": "2026-05-15 19:46:51",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
-    },
-    {
       "added_at": "2026-10-23 04:00:42",
       "album": {
         "name": "TRALALA",
@@ -731,6 +715,22 @@
       "duration_ms": 195869,
       "name": "TRALALA",
       "url": "https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"
+    },
+    {
+      "added_at": "2026-05-15 19:46:51",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
     },
     {
       "added_at": "2026-05-15 19:46:51",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-15 19:46:51",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
-    },
-    {
-      "added_at": "2026-05-15 19:46:51",
-      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 252818,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
+    },
+    {
+      "added_at": "2026-05-15 19:46:51",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2026-05-15 19:46:51",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-15 19:46:51",
       "album": {
-        "name": "Girl on Fire (Remixes) - EP",
-        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Girl on Fire",
-      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
-    },
-    {
-      "added_at": "2026-05-15 19:46:51",
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2026-05-15 19:46:51",
+      "album": {
+        "name": "Girl on Fire (Remixes) - EP",
+        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Girl on Fire",
+      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
     },
     {
       "added_at": "2026-05-15 19:46:51",

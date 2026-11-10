@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Caroline Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,707 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,710 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 55 | [Told You So](https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Told You So](https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq) | 3:23 |
 | 56 | [Nothing To Do \(nananananana\)](https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg) | 3:24 |
 | 57 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
-| 58 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
-| 59 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
+| 58 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
+| 59 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
 | 60 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
 | 61 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
 | 62 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 72 | [6 8](https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:58 |
 | 73 | [i got a gun](https://open.spotify.com/track/3KqW72V5DRjWTPMulx3lqi) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [i got a gun](https://open.spotify.com/album/7pxOcKEaGSFMrEPsyIcarp) | 2:37 |
 | 74 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
-| 75 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
+| 75 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 |
 
 Snapshot ID: `AAAAANfF5oL8YPG0GTPo7ID2s/BOQs7q`

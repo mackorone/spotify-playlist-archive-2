@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,001 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,979 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 35 | [CRASHOUT](https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:55 |
 | 36 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 |
 | 37 | [BITCH](https://open.spotify.com/track/5Ob6j3t91qixhs7Fhzs0to) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:43 |
-| 38 | [Scuse Me](https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:24 |
+| 38 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
 | 39 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
 | 40 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 |
 | 41 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
-| 42 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
-| 43 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
-| 44 | [STILL CANT FUH \(FEAT\. DOJA CAT\)](https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:42 |
+| 42 | [Scuse Me](https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:24 |
+| 43 | [STILL CANT FUH \(FEAT\. DOJA CAT\)](https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:42 |
+| 44 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
 | 45 | [Happy 2 Be](https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:54 |
 | 46 | [Phone](https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Phone](https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2) | 2:49 |
-| 47 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
-| 48 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
+| 47 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
+| 48 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
 | 49 | [Let 'em Say](https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Caroline Smith](https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE) | [Let 'em Say](https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp) | 3:20 |
-| 50 | [She Stole My Man](https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:47 |
+| 50 | [Iko](https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7) | [N.A.S.A.](https://open.spotify.com/artist/07WjVPM79OGQLOZ1jfUVk9), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Iko](https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC) | 3:31 |
 
-Snapshot ID: `au0YgAAAAABmWVf6SyGCmDUVfsT4PX4c`
+Snapshot ID: `au+7gAAAAABUAtRSONcw9d5QSyrFSMoC`

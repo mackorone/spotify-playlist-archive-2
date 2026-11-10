@@ -11560,7 +11560,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 158589,
       "name": "Displicente - Ao Vivo",
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
@@ -14964,6 +14964,32 @@
       "duration_ms": 230625,
       "name": "EXAGERADO",
       "url": "https://open.spotify.com/track/4rfkoY5a4JzRmQSOQHAVsr"
+    },
+    {
+      "album": {
+        "name": "Exigente",
+        "url": "https://open.spotify.com/album/1uzvtWnZJsDV9gcUhQdRwx"
+      },
+      "artists": [
+        {
+          "name": "Deu B\u00e3o",
+          "url": "https://open.spotify.com/artist/0Mw7JpTAlJPiMHeUAYu8w8"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Bison e Comassetto",
+          "url": "https://open.spotify.com/artist/0VgVhZxYnmTGqqj7WkAATA"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158176,
+      "name": "Exigente",
+      "url": "https://open.spotify.com/track/3y1DTmkETpAhDePWF7Uiis"
     },
     {
       "album": {
@@ -19006,7 +19032,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 172046,
       "name": "Imagina Se Me Odiasse - Ao Vivo",
       "url": "https://open.spotify.com/track/1rb6dLdRPapa0Br8RuBDoS"
@@ -22776,7 +22802,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-10",
       "duration_ms": 148195,
       "name": "Me Fala Qual Necessidade - Ao Vivo",
       "url": "https://open.spotify.com/track/10a26720hpdHY8JVsHrrdQ"

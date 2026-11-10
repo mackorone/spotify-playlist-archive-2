@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35651,
+  "num_followers": 35650,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au5qAAAAAADV/pwogIhb7boF6toZXZo/",
+  "snapshot_id": "au+7gAAAAADwZBjXu94N6emoSk3wbaH9",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: White Flag",
-        "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Let The Future Begin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 508800,
       "name": "Revelation Song - Live",
       "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: White Flag",
+        "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Passion (So Far) [Live]",
-        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
-      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 309093,
       "name": "Behold The Lamb - Live",
       "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Passion (So Far) [Live]",
+        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
+      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
     },
     {
       "added_at": null,
@@ -652,17 +652,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Rachel Halbach",
-          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Landon Wolfe",
+          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
         }
       ],
-      "duration_ms": 446812,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/5ouxOzWduYx5B10FP4ChU5"
+      "duration_ms": 239211,
+      "name": "Watch Him Work",
+      "url": "https://open.spotify.com/track/5Yu1ghPPjavo7yAOuBpng9"
     },
     {
       "added_at": null,
@@ -736,13 +732,17 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Landon Wolfe",
-          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 239211,
-      "name": "Watch Him Work",
-      "url": "https://open.spotify.com/track/5Yu1ghPPjavo7yAOuBpng9"
+      "duration_ms": 446812,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/5ouxOzWduYx5B10FP4ChU5"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow You Anywhere (Live)",
-        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Follow You Anywhere - Live",
-      "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: A Generation United For His Renown",
         "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 1209226,
       "name": "Agnus Dei - Live From Passion 2024",
       "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow You Anywhere (Live)",
+        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Follow You Anywhere - Live",
+      "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Charlie Hall",
-          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
-        }
-      ],
-      "duration_ms": 352653,
-      "name": "Marvelous Light - Live",
-      "url": "https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whole Heart (Live)",
         "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 526306,
       "name": "Great Are You Lord - Live",
       "url": "https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Charlie Hall",
+          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+        }
+      ],
+      "duration_ms": 352653,
+      "name": "Marvelous Light - Live",
+      "url": "https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL"
     },
     {
       "added_at": null,

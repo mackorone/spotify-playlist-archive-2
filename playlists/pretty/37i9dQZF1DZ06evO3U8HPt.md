@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 
 > This is Ella Langley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,626 likes - 37 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,807 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 | 36 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 |
 | 37 | [cowgirl don't cry \- acoustic](https://open.spotify.com/track/3RhlRWYDgXqfQAH0VKLb2s) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:07 |
 
-Snapshot ID: `au5qAAAAAADjPwn7ZR0ie2pA3HTY4kkI`
+Snapshot ID: `au+7gAAAAAD23cDoC59RmajYJkEFLi9V`

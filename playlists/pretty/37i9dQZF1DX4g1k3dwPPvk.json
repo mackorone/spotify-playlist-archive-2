@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 333876,
+  "num_followers": 333920,
   "original_name": "Los 90s",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-10-02 20:34:39",
       "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "El Ni\u00e1gara en Bicicleta",
+      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
+    },
+    {
+      "added_at": "2026-10-02 20:34:39",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 308389,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2026-10-02 20:34:39",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2026-10-02 20:34:39",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-10-02 20:34:39",
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+    },
+    {
+      "added_at": "2026-10-02 20:34:39",
+      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 289600,
       "name": "Suave",
       "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
-    },
-    {
-      "added_at": "2026-10-02 20:34:39",
-      "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "El Ni\u00e1gara en Bicicleta",
-      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
     },
     {
       "added_at": "2026-10-02 20:34:39",
@@ -803,18 +803,22 @@
     {
       "added_at": "2026-10-02 20:34:39",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
         }
       ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
+      "duration_ms": 316960,
+      "name": "Amor Narc\u00f3tico",
+      "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
     }
   ],
   "unique_name": "Los 90s",

@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 813288,
+  "num_followers": 813296,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "the theory of you",
-        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 208510,
-      "name": "tower of memories",
-      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "the theory of you",
+        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Every Where Is Some Where",
-        "url": "https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz"
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
       "artists": [
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 188706,
-      "name": "Blood In The Cut",
-      "url": "https://open.spotify.com/track/4q604hQba5940BbOoaenmz"
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+        "name": "Every Where Is Some Where",
+        "url": "https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
+      "duration_ms": 188706,
+      "name": "Blood In The Cut",
+      "url": "https://open.spotify.com/track/4q604hQba5940BbOoaenmz"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/34XU427uXpPYwocbDxstyS"
-      },
-      "artists": [
-        {
-          "name": "Girl Tones",
-          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
-        }
-      ],
-      "duration_ms": 155027,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3ucVKI8BEpLXK3j64GDbY4"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Spend The Night (U.S. Version)",
         "url": "https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 161999,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/34XU427uXpPYwocbDxstyS"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "duration_ms": 155027,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ucVKI8BEpLXK3j64GDbY4"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Last Girls At The Party",
-        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "Last Girls At The Party",
-      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "No Obligation",
         "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 201187,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Last Girls At The Party",
+        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "Last Girls At The Party",
+      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
     },
     {
       "added_at": "2026-05-01 18:02:47",

@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 7329,
+  "num_followers": 7328,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABZhIeE1bcFFf9mF8+w6Jfg",
+  "snapshot_id": "au+7gAAAAABj6WRG/wI92U1ovxSQ+nqC",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 310440,
-      "name": "Lyla",
-      "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
+      "duration_ms": 331693,
+      "name": "Let There Be Love",
+      "url": "https://open.spotify.com/track/570oJcBwoLGZz95xTNa0JB"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 331693,
-      "name": "Let There Be Love",
-      "url": "https://open.spotify.com/track/570oJcBwoLGZz95xTNa0JB"
+      "duration_ms": 310440,
+      "name": "Lyla",
+      "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
     },
     {
       "added_at": null,

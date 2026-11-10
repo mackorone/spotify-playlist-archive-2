@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 773341,
+  "num_followers": 773369,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -211,42 +211,6 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
         "name": "Silence (John Summit Remix)",
         "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
       },
@@ -267,6 +231,42 @@
       "duration_ms": 274736,
       "name": "Silence - John Summit Remix",
       "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 151741,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 157593,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
         "name": "Freak (Tricky Disco)",
         "url": "https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 120836,
       "name": "Freak (Tricky Disco)",
       "url": "https://open.spotify.com/track/6955Aq4HnJ6dP3jvcptwCM"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 157593,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91"
     },
     {
       "added_at": "2026-10-23 07:40:39",

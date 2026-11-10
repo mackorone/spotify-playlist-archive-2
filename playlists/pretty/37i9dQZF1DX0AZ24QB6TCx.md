@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,860 likes - 70 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,868 likes - 70 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 26 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
 | 27 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 28 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
-| 29 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
-| 30 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
+| 29 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
+| 30 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 | 31 | [3AMStillAlive \- Remix](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [3AMStillAlive Remix](https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v) | 3:39 |
 | 32 | [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 |
 | 33 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |

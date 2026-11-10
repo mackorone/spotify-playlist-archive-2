@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,137 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,148 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 4 | [Perfect Man](https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:25 |
 | 5 | [애상](https://open.spotify.com/track/5LCxeObb3oj4m2lUCm0OJW) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool 4](https://open.spotify.com/album/416unZweUNNioYBuktMtLB) | 3:32 |
 | 6 | [CANDY](https://open.spotify.com/track/0K25zmumCzn2kFmh9zcLWy) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 3:37 |
-| 7 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
-| 8 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
+| 7 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
+| 8 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
 | 9 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 |
 | 10 | [Coming of age ceremony](https://open.spotify.com/track/2adWXRegCboef5ZOjW3ffe) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 3:30 |
 | 11 | [Couple](https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Special](https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf) | 4:10 |
-| 12 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
-| 13 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
+| 12 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
+| 13 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 14 | [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 |
 | 15 | [Tell me \(feat\. 엄정화\)](https://open.spotify.com/track/4ebC0oQEzTTNTpCDM1IBWD) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [Jinusean](https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt) | 3:53 |
 | 16 | [Dreams Come True](https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 4:05 |
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 44 | [난 널 원해](https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:53 |
 | 45 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |
 | 46 | [회상](https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [터보 HISTORY](https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa) | 4:35 |
-| 47 | [현명한 선택](https://open.spotify.com/track/1YhGLizQ8wq5AYvWFWC0Sp) | [So Chanwhee](https://open.spotify.com/artist/0IsLM1iIcsp652W1ruNLfV) | [Eight Times Begin Again](https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t) | 3:09 |
-| 48 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 |
+| 47 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 |
+| 48 | [현명한 선택](https://open.spotify.com/track/1YhGLizQ8wq5AYvWFWC0Sp) | [So Chanwhee](https://open.spotify.com/artist/0IsLM1iIcsp652W1ruNLfV) | [Eight Times Begin Again](https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t) | 3:09 |
 | 49 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
 | 50 | [Speed](https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Exchange Kg\. M4](https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ) | 3:46 |
 | 51 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 |
-| 52 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
-| 53 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 |
+| 52 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 |
+| 53 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
 | 54 | [으쌰! 으쌰!](https://open.spotify.com/track/3bEWc5qQJewGN2s7Yf4SuU) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [해결사 \- The 1st Album](https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob) | 3:35 |
 | 55 | [A\-Yo](https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [The Reign](https://open.spotify.com/album/2mtlNInQJMycvTN1losasj) | 3:45 |
 | 56 | [Sad Fate](https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [Big 5](https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN) | 4:04 |
-| 57 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
-| 58 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 |
-| 59 | [Illusion](https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 4:05 |
+| 57 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 |
+| 58 | [Illusion](https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 4:05 |
+| 59 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
 | 60 | [해결사](https://open.spotify.com/track/14L6wWMb636kbjdjrYmFCC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [해결사 \- The 1st Album](https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob) | 3:42 |
 | 61 | [The Rose of Betrayal](https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [All Details](https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z) | 3:36 |
 | 62 | [슬픔속에그댈지워야만해](https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC) | [Lee Hyun Woo](https://open.spotify.com/artist/1W9aLbgLrFbdqS01gR7yWD) | [Black Rainbow](https://open.spotify.com/album/4cV1aTuPH2uSVlE5626SfX) | 4:24 |

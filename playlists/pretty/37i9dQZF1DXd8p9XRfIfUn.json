@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81453,
+  "num_followers": 81457,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
       "added_at": "2025-09-18 23:00:14",
