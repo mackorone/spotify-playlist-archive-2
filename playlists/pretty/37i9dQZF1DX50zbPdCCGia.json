@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 332122,
+  "num_followers": 332173,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAODlJFIRjhRZwIStA6PN7u/wPYWH",
+  "snapshot_id": "AAAAAMo0GWWrk8nK5Vejs7oB+gHB6tVi",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "At the Speed of Sound (Archive Collection)",
-        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Silly Love Songs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Waking & Dreaming",
         "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 234040,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "At the Speed of Sound (Archive Collection)",
+        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Silly Love Songs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Save It For A Rainy Day",
-      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "One Man Dog (2019 Remaster)",
         "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 155343,
       "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
       "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Save It For A Rainy Day",
+      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 231479,
-      "name": "My Little Town",
-      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Walking Man (2019 Remaster)",
         "url": "https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 214920,
       "name": "Walking Man - 2019 Remaster",
       "url": "https://open.spotify.com/track/5CHX5fuINGV2Y7T4sDKdUJ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 231479,
+      "name": "My Little Town",
+      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
     }
   ],
   "unique_name": "70s Soft Rock",

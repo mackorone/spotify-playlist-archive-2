@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Alias Rukmini
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,486 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,490 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Madhini Merisavey \( From "G.D.N."\) \[Telugu\]](https://open.spotify.com/track/45Hi5RrI7EDLKXSshGplDN) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Rajshri Sudhakar](https://open.spotify.com/artist/3lffOIgHvU45UiJqJnjMB6), [S.P\. Abhishek](https://open.spotify.com/artist/0mT8jQ7Apit18Ny3xJ7r9g), [Devu](https://open.spotify.com/artist/2OhUJEHpyBziXcZiAPh1Cp) | [G.D.N \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5f4VYpFeSz0bc6QVy2EuzX) | 4:36 |
 | 50 | [Hey Pilla](https://open.spotify.com/track/7EmqaDmoj8sB8SzvSMjbmo) | [Raghavendra Saraswathula](https://open.spotify.com/artist/1zf5Oa5fPRUDqPPfacUv8m), [Sri Murali Karthikeya](https://open.spotify.com/artist/5hdDhVRtAtygssJd84hv06) | [Kalyanam Kamaneeyam Jeevitham](https://open.spotify.com/album/6KThYPI4OHPI0Y0qkGzdOt) | 4:07 |
 
-Snapshot ID: `AAAAADB+VDBt/jjVBy7R4ZEaLR4Rvxso`
+Snapshot ID: `AAAAAClbXDw9Q2SnDk71WtpYqaSjKtMS`

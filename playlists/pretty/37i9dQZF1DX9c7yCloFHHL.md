@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: Jeremiah Chiu
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,951 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,003 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Subterranean](https://open.spotify.com/track/4lFIVXYHYXD2ugJ8ZsH9wt) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Subterranean](https://open.spotify.com/album/6Ophb6R62fiGYihi62tgcD) | 4:42 |
 | 100 | [Ocean Arrivals](https://open.spotify.com/track/470HMPJ8Rdx1tqr5drrM2r) | [Sonant](https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K) | [Ocean Arrivals](https://open.spotify.com/album/7mHsPbpFfTBRHD7RlglEEg) | 2:04 |
 
-Snapshot ID: `AAAAACIkkER1We2TO7WfOtHeqvk4ImD1`
+Snapshot ID: `AAAAAIWdlU5UVwITXb6vqueVUuz2C6Ix`

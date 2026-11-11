@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec ESTL.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,973 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,962 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [normal](https://open.spotify.com/track/3HKxk6GjMHBpPAKWGypCNI) | [Nate](https://open.spotify.com/artist/4LqiQFpJnZECUc0lzQU7ZH) | [normal](https://open.spotify.com/album/5X3N74Rte8cNmTFSg4q3fS) | 2:37 |
 | 50 | [Ça change quoi ?](https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq) | [Paul Roman](https://open.spotify.com/artist/4WmJmadFvw4O76wPyjjGkO), [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Ça change quoi ?](https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS) | 2:30 |
 
-Snapshot ID: `AAAAAPpXLbBWYmgdgHo7tx4UYnJ4tK3T`
+Snapshot ID: `AAAAALip81g14V1VYqGsuxeUKvUgngXl`

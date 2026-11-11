@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > Listen to music from and inspired by Club Kid, curated by Jordan Firstman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,783 likes - 27 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,902 likes - 27 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 26 | [Fortress](https://open.spotify.com/track/2LtcQvCo1gFwEcCXDHjdYv) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Summer in Abaddon](https://open.spotify.com/album/22ekvUciiQ3yUOcwCJ4JVR) | 4:10 |
 | 27 | [Music Is Moving \- BK & dBm Amber Remix](https://open.spotify.com/track/0MABdSnjGg5hSwvisGzCvc) | [Cortina](https://open.spotify.com/artist/0JLR5lHwr8Sjb82eAuQ3bS), [BK](https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW), [DBM](https://open.spotify.com/artist/2YYKM89ingMwsljvXxz8bW) | [Music Is Moving 2011](https://open.spotify.com/album/4N6u8S77olYjv1cSpFm4Sr) | 7:38 |
 
-Snapshot ID: `AAAAADXuloJ35MjtjdWjvD9e1p4mSp1x`
+Snapshot ID: `AAAAAGherv6KDeU10G5TP4HgFWPsIsWr`

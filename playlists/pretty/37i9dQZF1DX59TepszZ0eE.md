@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,457 likes - 103 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,481 likes - 103 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 102 | [Uloyiko Lwami](https://open.spotify.com/track/79mI2X5OLrOdcqJMeuTIUH) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Siyakha Khitha](https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe) | [Uloyiko Lwami](https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta) | 8:07 |
 | 103 | [Uloyiko Lwami 2.0](https://open.spotify.com/track/2emoPu2M9pl2m30BESXX2J) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Siyakha Khitha](https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Uloyiko Lwami](https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta) | 8:05 |
 
-Snapshot ID: `AAAAAFraYvIMLj/2R3UyzdFWQMdiWUno`
+Snapshot ID: `AAAAAM2ZFK1Lvvb2GUIdHjynbYsYNSwS`

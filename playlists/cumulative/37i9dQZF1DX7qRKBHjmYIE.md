@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con ZUCO OMG.
 
-1,072 songs - 2 day 9 hr 33 min
+1,073 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2023-02-11 | 2023-03-09 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-30 | 2023-08-26 |
 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 | 2025-07-25 |  |
+| [HEELS](https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2) | [fidoisblue](https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI) | [HEELS](https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S) | 2:31 | 2026-11-06 |  |
 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 | 2024-01-19 | 2024-06-26 |
 | [Hit 'Em Up \- Single Version](https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 | 2022-03-21 | 2022-04-09 |
 | [Hola Senpai](https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Hola Senpai](https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4) | 1:50 | 2023-07-28 | 2023-09-30 |
@@ -599,7 +600,7 @@
 | [ME QUEDO AKÍ](https://open.spotify.com/track/1Kgq3SDw0J2h7Njyb7R9I7) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [ALL I DREAM](https://open.spotify.com/album/0GzGVVSRJdbkPQYQqjvH25) | 3:46 | 2025-07-04 | 2025-09-21 |
 | [Me Quieres Mal](https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Me Quieres Mal](https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9) | 3:13 | 2023-12-08 | 2024-04-13 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-11 | 2024-02-03 |
-| [ME TENÍA QUE PASAR](https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [EL QUE NO LLORA NO MAMA](https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8) | 3:09 | 2025-11-21 |  |
+| [ME TENÍA QUE PASAR](https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [EL QUE NO LLORA NO MAMA](https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8) | 3:09 | 2025-11-21 | 2026-11-11 |
 | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL) | 2:06 | 2024-09-20 | 2025-01-05 |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-20 | 2023-07-22 |
 | [Menina](https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Menina](https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO) | 3:02 | 2026-02-13 |  |

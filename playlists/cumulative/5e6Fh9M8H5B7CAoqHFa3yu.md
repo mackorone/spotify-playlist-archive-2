@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,795 songs - 6 day 18 hr 34 min
+2,799 songs - 6 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1185,6 +1185,7 @@
 | [Isn't It a Pity \- Version 1 \- 2020 Mix](https://open.spotify.com/track/4eqUOw3lQ366iJwDv9sSJi) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary \- Super Deluxe\)](https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak) | 7:10 | 2026-03-15 |  |
 | [Istanti](https://open.spotify.com/track/0eSpYJexCl777deCYp24Pr) | [Marco Labbate](https://open.spotify.com/artist/6IPAFrlvTCpVg95pj3GykX) | [Istanti](https://open.spotify.com/album/318dHLeE2qPqiiwX6Qpie6) | 3:29 | 2024-10-12 |  |
 | [It Never Rains in Southern California](https://open.spotify.com/track/3wfaNsrfzu364Ue4Uwn96V) | [Darow](https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l) | [It Never Rains in Southern California](https://open.spotify.com/album/0DNRbJVfBp5PlyR8q4YCXs) | 3:52 | 2025-11-02 |  |
+| [It Shows](https://open.spotify.com/track/18y9Fwa2JeQlu9DnLaGbxN) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Chancers Paradise](https://open.spotify.com/album/5ssnGImBA97l3w1z2Ii7Hw) | 2:57 | 2026-11-10 |  |
 | [It Would Be a Delight](https://open.spotify.com/track/4X6tx53seoOStba1QbpSci) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Televangelist](https://open.spotify.com/album/4EQ8Q3in2KptGJU8Ilo7uM) | 3:14 | 2025-07-02 |  |
 | [It's Around Us](https://open.spotify.com/track/17LZMhN8rYL6QWZbSS4SeH) | [Matteo Castelluccia](https://open.spotify.com/artist/1PjHSJjuRXjJwBrQyAoz53) | [It's Around Us](https://open.spotify.com/album/0TL8jDhLFhTEp8PMghFsiv) | 4:02 | 2025-12-20 |  |
 | [It's Because of You](https://open.spotify.com/track/7xMXgeArkcfPbtqMkIpIPp) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [Praise and Worship, Vol 5](https://open.spotify.com/album/3XEGc9mHpOPcopmcYeqlba) | 4:07 | 2025-10-02 |  |
@@ -1242,6 +1243,7 @@
 | [Jumping Jack \(HIIT 30\-10\)](https://open.spotify.com/track/5IduPfsFyeiWbgcjOk6udP) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [JUMPING HIIT](https://open.spotify.com/album/2Nafl7nCnwqeY7R8bc8SKD) | 1:24 | 2024-03-08 |  |
 | [Junto a mis dedos](https://open.spotify.com/track/2qWrXyAixAEfyvFDa3b3NG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:50 | 2026-03-15 |  |
 | [Juntos en la Playa](https://open.spotify.com/track/5mOs4uCtRlI06ZUHIkoo9t) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Juntos en la Playa](https://open.spotify.com/album/0tA0nw0PIJU817dg9obfWE) | 2:07 | 2026-03-12 |  |
+| [Just A Little Chance](https://open.spotify.com/track/1e81VVy5gfh2td7t3zoxd8) | [awilli9004](https://open.spotify.com/artist/6nQMOiWajkm9VmGDc7otaM) | [Just A Little Chance](https://open.spotify.com/album/02WrUXRfdxewGnA7Sihigu) | 2:54 | 2026-11-10 |  |
 | [Just a Little Faith](https://open.spotify.com/track/50hOUDqjfJod25YMKVZnUo) | [Brittany Mackie](https://open.spotify.com/artist/0LgTBAM4hYH6tlqaDXPTc2) | [Just a Little Faith](https://open.spotify.com/album/2AiNWvjubOQZKk5S8PdgCO) | 3:24 | 2026-03-17 |  |
 | [Just Another Day](https://open.spotify.com/track/6cqJPYDQ0nB8t0sTtZtbU0) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 4:31 | 2024-05-01 |  |
 | [just hit a jugg](https://open.spotify.com/track/59rUAYNrN9PUVhs3YTRctV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [just hit a jugg](https://open.spotify.com/album/7l4KjCqSzWOItEDJF5FKXT) | 1:36 | 2025-10-21 |  |
@@ -1639,6 +1641,7 @@
 | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/track/2QO3yvlqjk7OBbZ4knCcEd) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/album/4a9BjV5KNYRyMtL73YvzSh) | 3:47 | 2024-12-20 |  |
 | [NELLA STRADA](https://open.spotify.com/track/1LD58KQ0dWXyIRMgZblVOD) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NELLA STRADA](https://open.spotify.com/album/6j9miS8vjPHys6lb8MGkaa) | 3:36 | 2025-02-27 |  |
 | [Nemo](https://open.spotify.com/track/5BwnMHqoQ8wxF8uhPDOtuL) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [Nemo](https://open.spotify.com/album/7CtKHC7lwjIUu5ni7kZMkM) | 2:11 | 2026-07-21 |  |
+| [Nene](https://open.spotify.com/track/0TOjIwrGdOUwyeqxBWMkzs) | [Daniel EiGht](https://open.spotify.com/artist/6LS5viU7AUJSl75hFV31Kf) | [Nene](https://open.spotify.com/album/44gCPUh38LBhFc6ZGiOHGN) | 3:52 | 2026-11-10 |  |
 | [NEO TOKYO](https://open.spotify.com/track/3toZsVZJeh6sCBbE7u4YuO) | [kdhaner](https://open.spotify.com/artist/6aCwzXL8knkJ0eiL8Caya0), [Thomas Smith](https://open.spotify.com/artist/6yQ1Wnkd5CR7WM1hkl2r0K) | [NEO TOKYO](https://open.spotify.com/album/5AfCRtN3DdodBYg8NIWMvI) | 2:36 | 2025-06-28 |  |
 | [Neon Breeze](https://open.spotify.com/track/6E0So76OiY5EdlnDdlA1L9) | [Timeless Tunes](https://open.spotify.com/artist/0HrsERv5X1kKsTzjGZhPrN) | [Neon Breeze](https://open.spotify.com/album/2x0AfSoEFCz2uVWpDyptQW) | 2:42 | 2026-04-13 |  |
 | [Neon Sakura Bounce](https://open.spotify.com/track/5XFzqZO30XysZOAU9RrVJE) | [Peter Mor](https://open.spotify.com/artist/38KJeJHYikt98oEX7gcxSe) | [Neon Sakura Bounce](https://open.spotify.com/album/2zTZlPay4pTaDyucAD2OgO) | 3:21 | 2026-02-22 |  |
@@ -1889,6 +1892,7 @@
 | [Purple Sun](https://open.spotify.com/track/6ynwUzce6gRhmhySBff3Ts) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Purple Sun](https://open.spotify.com/album/7G3YoqjlW2FrTE29ZsK0pQ) | 2:22 | 2025-07-31 |  |
 | [Push On](https://open.spotify.com/track/0BrO6JpVQjbVe1foPTZoIO) | [12 Tribes Of Mars](https://open.spotify.com/artist/6DCPOFQmbWMu64jaWWEX87) | [Push On](https://open.spotify.com/album/1n0zoAysgW94AmxkNgm9FG) | 5:22 | 2026-02-20 |  |
 | [Push Up Shoulder Taps \(HIIT 30\-10\)](https://open.spotify.com/track/4Ub9dKmC6GSyTDzRyQi5Ez) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [PUSH UP](https://open.spotify.com/album/1ebdB3Tl6Q9et4RUnWxnxC) | 1:21 | 2024-12-25 |  |
+| [put the apple on](https://open.spotify.com/track/1bzMy2lXlvvhbvbtsCUaEB) | [Blake Cunningham](https://open.spotify.com/artist/7lDqMXbyfDk8fPXZAWgZDS) | [put the apple on](https://open.spotify.com/album/5GOX3gTi8is88glEvzVUEw) | 4:01 | 2026-11-10 |  |
 | [Put Your Hands Up \(HIIT 30\-10\)](https://open.spotify.com/track/06sRTlVipK8fJ5ddpEq8Fv) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [JUMPING HIIT](https://open.spotify.com/album/2Nafl7nCnwqeY7R8bc8SKD) | 1:20 | 2024-03-08 |  |
 | [Putzparty](https://open.spotify.com/track/5EXP9sH0luhiPMFfVyr55l) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [Putzparty](https://open.spotify.com/album/2MZRhwLG2qfB6j9UINWYbv) | 4:47 | 2025-06-17 |  |
 | [PUZZLE WITHOUT A PICTURE](https://open.spotify.com/track/3J2ECf3cRBqx95gD50vfdW) | [Mista Ed](https://open.spotify.com/artist/5QwfAuiGOyHkhKLAejUxGG), [Inside Trading](https://open.spotify.com/artist/6d9cVe6aUDxQpbclXVmzLw), [Millennium Jazz Music](https://open.spotify.com/artist/5Z0IPiVInY7yKWbuM0E32Y) | [PUZZLE WITHOUT A PICTURE](https://open.spotify.com/album/1SRYHYjclz8305WbdQlf91) | 2:16 | 2025-09-08 |  |

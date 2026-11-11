@@ -4,7 +4,7 @@
 
 > Rock never dies\. It's alive with Twisted Teens.
 
-1,486 songs - 3 day 10 hr 49 min
+1,487 songs - 3 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [A Question Of You](https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:42 | 2025-02-07 | 2025-05-17 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2021-12-03 | 2022-05-14 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-05-17 | 2024-06-22 |
+| [ACES](https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [ACES](https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH) | 3:31 | 2026-11-10 |  |
 | [Adrenaline](https://open.spotify.com/track/3QSVzVODWkWzGeDOGHZW0F) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Adrenaline](https://open.spotify.com/album/1YcMKSPZJmSf89tiRrYR4V) | 3:24 | 2021-10-20\* | 2021-11-27 |
 | [AFRAID TO DIE](https://open.spotify.com/track/6GiHYoRbplk9wYZ4TL3uw5) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [AFRAID TO DIE](https://open.spotify.com/album/6FMYxT1o4zfHEsas7nb1t9) | 4:00 | 2026-06-19 | 2026-09-19 |
 | [After You](https://open.spotify.com/track/0fIvB3uEk6K6T9JACYD66O) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [After You](https://open.spotify.com/album/6VISuMapTvAnaTvltpE7FC) | 2:28 | 2025-01-31 | 2025-02-22 |

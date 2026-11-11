@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,512 likes - 204 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,545 likes - 204 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 203 | [Hold the Moment](https://open.spotify.com/track/0JwMohVlSXmykh7s6bA2rt) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [Hold the Moment](https://open.spotify.com/album/1R0CCWV4dZrOY9lUz9Zc3K) | 2:35 |
 | 204 | [Sunny Sky](https://open.spotify.com/track/2x0SZYl1K2gjIHdlc7HDwN) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [Sunny Sky](https://open.spotify.com/album/3UnRhcGnqwnFTuYEZW0eFc) | 3:17 |
 
-Snapshot ID: `AAAAACgfhdsRQ+wX9OI19YW+nOeccFxO`
+Snapshot ID: `AAAAAEF2u+vGXfW6H3v6xwVaFiD9ys6d`

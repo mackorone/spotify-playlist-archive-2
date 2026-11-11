@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 44 | [桑原のテーマ](https://open.spotify.com/track/1xS1xkpVsxedglgB6awWSC) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック](https://open.spotify.com/album/3jjfgVzSP1ve3ATWDkR36e) | 2:59 |
 | 45 | [幽助パワーアップ!](https://open.spotify.com/track/5WH89dniVjsSZEACH6VrEt) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック Vol.2 ～魔界の扉編～](https://open.spotify.com/album/1ha1rWSxldGVVDH6JdKM2B) | 3:56 |
 
-Snapshot ID: `AAAAAKa7dwNueqIz6RU2ld9z7JIy23FU`
+Snapshot ID: `AAAAAKAL+ZxFNCikqZ0fOvZ/16a2jlrR`

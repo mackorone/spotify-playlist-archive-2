@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Mika Noé
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,531 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,513 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fang mich auf](https://open.spotify.com/track/0x8HTg8W2aYLWN2xGvQgzU) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [es wäre schön](https://open.spotify.com/album/1w5Gf1cE7Ks1QwZf1EyLNi) | 3:13 |
 | 75 | [Fenster runter](https://open.spotify.com/track/0eUZlCsyguCpvM6eBBMTP6) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Fenster runter](https://open.spotify.com/album/2tVMl6zQXP1odFB4JlVFBY) | 2:49 |
 
-Snapshot ID: `AAAAAKiZyzJtQknBFN1G8wC2/npYoNfB`
+Snapshot ID: `AAAAACjFNCYC7jXUaRFPoocMddFkjSgh`

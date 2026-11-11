@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADigQfq8uvxmDMaUMKlwPWRQQc+n",
+  "snapshot_id": "AAAAALuTv3f/QKc+dU3RsGOK6wt1m0OW",
   "tracks": [
     {
       "added_at": "2026-09-18 19:07:30",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
-        "name": "Vatos",
-        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
-      },
-      "artists": [
-        {
-          "name": "Vanita Leo",
-          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
-        }
-      ],
-      "duration_ms": 146511,
-      "name": "Vatos",
-      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
         "name": "Miss Me Much?",
         "url": "https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 114952,
       "name": "La Baby Cambi\u00f3",
       "url": "https://open.spotify.com/track/1qLnwbCwQ2YyubFYM0Pw1Z"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
+        "name": "Vatos",
+        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        }
+      ],
+      "duration_ms": 146511,
+      "name": "Vatos",
+      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
     },
     {
       "added_at": "2026-09-18 19:07:30",

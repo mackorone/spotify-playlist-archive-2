@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Adriatique, L2B, Slayyyter, JENNIE & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,243 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,240 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 79 | [Melody](https://open.spotify.com/track/639XKHDNrrjMUDvSv52mRq) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Pretty Girl EP](https://open.spotify.com/album/0QiYwNJYHhT0O8P0cCIlnr) | 2:04 |
 | 80 | [Head First](https://open.spotify.com/track/1yYCpm0ptEcHV8OwAAs4Nj) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Head First](https://open.spotify.com/album/4ySsGKZAPMYkHl0PGYqLvM) | 3:19 |
 
-Snapshot ID: `AAAAAKuhVM4OcblxZe+XUPeuajUhJCvj`
+Snapshot ID: `AAAAAI54Ff7Fl6oYb5LbqC97TSp9JkOI`

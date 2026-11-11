@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from daine, Lizzy McAlpine, DMA's, Skepta, Slayyyter, Mack Geiger, Te Wehi, MELOWDOWNZ, Hohua Sta + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,710 likes - 93 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,680 likes - 93 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Charger](https://open.spotify.com/track/32AkYmvP99jGqd5SfblUYD) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Charger](https://open.spotify.com/album/23AIm3BN1msdiVuv6mQURX) | 4:20 |
 | 93 | [PLAY ME](https://open.spotify.com/track/4FzVSlf2EpTfm6jJhz5TYF) | [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la), [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD) | [iD](https://open.spotify.com/album/4lQn6FJQ0tYewK6OaKYW83) | 2:05 |
 
-Snapshot ID: `AAAAAB1D91Jrlusif1AI17gZHeGH7aar`
+Snapshot ID: `AAAAACe2zlLmb1L9xjGj6ktZbOJPdQn/`

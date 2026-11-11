@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,866 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,830 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/track/3bfcPN5EAU1CzXIGaWBaUR) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/album/2WfdMP5Y3GtlBO857nvF7a) | 1:58 |
 | 50 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
 
-Snapshot ID: `AAAAANkJD3/Ncj8hmxJTPmrDEJqc4TPf`
+Snapshot ID: `AAAAAIQwN+m+pAR5jHs26Oq9ErPqX0yF`

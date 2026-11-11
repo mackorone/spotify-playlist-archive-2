@@ -1,12 +1,12 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: Vitinho RB, MD Chefe\n",
-  "num_followers": 138065,
+  "num_followers": 138062,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE/KQTAdSugUxiOdePUcDVchKXJx",
+  "snapshot_id": "AAAAABiU8Phnqz8uLlELCL6uv+q+j6W9",
   "tracks": [
     {
       "added_at": "2026-10-16 03:01:03",
@@ -631,34 +631,6 @@
     {
       "added_at": "2026-10-16 03:01:03",
       "album": {
-        "name": "Mistura de Sotaque",
-        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Mistura de Sotaque",
-      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
-    },
-    {
-      "added_at": "2026-10-16 03:01:03",
-      "album": {
         "name": "ZIGUIRIGUIDUM FUNKHALL",
         "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
       },
@@ -683,6 +655,34 @@
       "duration_ms": 122790,
       "name": "ZIGUIRIGUIDUM FUNKHALL",
       "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
+        "name": "Mistura de Sotaque",
+        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Mistura de Sotaque",
+      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
     },
     {
       "added_at": "2026-10-16 03:01:03",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-10-16 03:01:03",
       "album": {
+        "name": "Psicol\u00f3gico 2",
+        "url": "https://open.spotify.com/album/0WVQMqrIA4tQut8f3BE9vs"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Psicol\u00f3gico 2",
+      "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
         "name": "Ecos do Sil\u00eancio",
         "url": "https://open.spotify.com/album/3oiPHSVfWq4JunYpYnwxNK"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 174763,
       "name": "After Party",
       "url": "https://open.spotify.com/track/7pi9Y5Dix1avrFQgvBWoa5"
-    },
-    {
-      "added_at": "2026-10-16 03:01:03",
-      "album": {
-        "name": "Psicol\u00f3gico 2",
-        "url": "https://open.spotify.com/album/0WVQMqrIA4tQut8f3BE9vs"
-      },
-      "artists": [
-        {
-          "name": "Akashi Cruz",
-          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Psicol\u00f3gico 2",
-      "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
     },
     {
       "added_at": "2026-10-16 03:01:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Clave Especial
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,425,010 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,424,822 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [ME DICEN SARGENTO](https://open.spotify.com/track/60BLafFis43R6DlGWo2MWR) | [Jesus Paez](https://open.spotify.com/artist/3WZl3iuisqkeyDTJVOxid2), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp), [Los De La Nueva Era](https://open.spotify.com/artist/044xvh3zPu82tsolDMc9wy), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [ME DICEN SARGENTO](https://open.spotify.com/album/1a9Mg3YIJNLUtzfXohYRhA) | 3:16 |
 | 75 | [El Quilin](https://open.spotify.com/track/3d12eWHA9P7LUjUcY3vQp7) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El Quilin](https://open.spotify.com/album/0uf02vcbAZFQPpIeWUrYlB) | 3:42 |
 
-Snapshot ID: `AAAAADWrxYCig+D+XxJzxo95tiXXcehI`
+Snapshot ID: `AAAAAEtngNjIlrDoH91E68tJdi5pBQgm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,453,439 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,453,331 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Jacobsons](https://open.spotify.com/track/3NsyjB7Y1CZ2qjydcnFYXK) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Pugnello](https://open.spotify.com/album/5pTvVhdMVV24CQep4GA38F) | 4:38 |
 | 80 | [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 |
 
-Snapshot ID: `AAAAAOq4V1NdAq8S7NZD00vxHBogqF3H`
+Snapshot ID: `AAAAAKRbW2kr+BQ/Gb71y+JMPhIDCyn1`

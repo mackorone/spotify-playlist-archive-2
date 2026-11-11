@@ -1,12 +1,12 @@
 {
   "description": "per spingere come veri gym bro e gym sis (o come kimi \ud83c\udfce\ufe0f)",
-  "num_followers": 373359,
+  "num_followers": 373406,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALudGDkRGBntE+KasiafzZYEYwJ1",
+  "snapshot_id": "AAAAAJPHtQTKLwO66HC/AMlUjRDtj5Lf",
   "tracks": [
     {
       "added_at": "2026-11-02 10:44:58",
@@ -675,6 +675,26 @@
     {
       "added_at": "2026-11-02 10:44:58",
       "album": {
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
+    },
+    {
+      "added_at": "2026-11-02 10:44:58",
+      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": "2026-11-02 10:44:58",
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2026-11-02 10:44:58",
-      "album": {
         "name": "TENT78 (#2)",
         "url": "https://open.spotify.com/album/46pbB2EZ6SnWtOpwkSwPvY"
       },
@@ -731,6 +731,34 @@
       "duration_ms": 163468,
       "name": "Bass Head",
       "url": "https://open.spotify.com/track/3GInjxqUoBHBZAyFvOOD5I"
+    },
+    {
+      "added_at": "2026-11-02 10:44:58",
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 233786,
+      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
     },
     {
       "added_at": "2026-11-02 10:44:58",
@@ -767,34 +795,6 @@
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
-    },
-    {
-      "added_at": "2026-11-02 10:44:58",
-      "album": {
-        "name": "LONG.LIVE.A$AP (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
     },
     {
       "added_at": "2026-11-02 10:44:58",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-11-02 10:44:58",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2026-11-02 10:44:58",
+      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
-    },
-    {
-      "added_at": "2026-11-02 10:44:58",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2026-11-02 10:44:58",
@@ -1619,6 +1619,30 @@
     {
       "added_at": "2026-11-02 10:44:58",
       "album": {
+        "name": "Play Hard (feat. Ne-Yo & Akon) [New Edit]",
+        "url": "https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 208845,
+      "name": "Play Hard (feat. Ne-Yo & Akon) - New Edit",
+      "url": "https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG"
+    },
+    {
+      "added_at": "2026-11-02 10:44:58",
+      "album": {
         "name": "Berghain (Remix)",
         "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
       },
@@ -1643,30 +1667,6 @@
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
-    },
-    {
-      "added_at": "2026-11-02 10:44:58",
-      "album": {
-        "name": "Play Hard (feat. Ne-Yo & Akon) [New Edit]",
-        "url": "https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 208845,
-      "name": "Play Hard (feat. Ne-Yo & Akon) - New Edit",
-      "url": "https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG"
     },
     {
       "added_at": "2026-11-02 10:44:58",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2026-11-02 10:44:58",
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "Giovane fuoriclasse",
+      "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
+    },
+    {
+      "added_at": "2026-11-02 10:44:58",
+      "album": {
         "name": "Anche gli Eroi Muoiono",
         "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
       },
@@ -1827,38 +1843,6 @@
     {
       "added_at": "2026-11-02 10:44:58",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "Giovane fuoriclasse",
-      "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
-    },
-    {
-      "added_at": "2026-11-02 10:44:58",
-      "album": {
-        "name": "The Team",
-        "url": "https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "The Team",
-      "url": "https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU"
-    },
-    {
-      "added_at": "2026-11-02 10:44:58",
-      "album": {
         "name": "Club Dogo",
         "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 185041,
       "name": "Milly (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
+    },
+    {
+      "added_at": "2026-11-02 10:44:58",
+      "album": {
+        "name": "The Team",
+        "url": "https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "The Team",
+      "url": "https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU"
     },
     {
       "added_at": "2026-11-02 10:44:58",

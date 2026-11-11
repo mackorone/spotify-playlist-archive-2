@@ -1,12 +1,12 @@
 {
   "description": "mesmos bairros, mesmos pr\u00e9dios - e boa\u00b2",
-  "num_followers": 1426363,
+  "num_followers": 1426247,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEUU6UY5A9I75CrVzuF+WEopz/k8",
+  "snapshot_id": "AAAAAFdYksAPdMhdITetNkmwX/KH3QIT",
   "tracks": [
     {
       "added_at": "2026-11-09 19:53:26",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "EU TE BUSCO \u00c0S 6",
-        "url": "https://open.spotify.com/album/5fnWHCNRiUMvTEIx8ByJYC"
-      },
-      "artists": [
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "EU TE BUSCO \u00c0S 6",
-      "url": "https://open.spotify.com/track/0I9gm7sCtIJYdYBTY6e9ps"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "THE BOX MEDLEY FUNK 11",
         "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
+        "name": "EU TE BUSCO \u00c0S 6",
+        "url": "https://open.spotify.com/album/5fnWHCNRiUMvTEIx8ByJYC"
+      },
+      "artists": [
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "EU TE BUSCO \u00c0S 6",
+      "url": "https://open.spotify.com/track/0I9gm7sCtIJYdYBTY6e9ps"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -847,6 +847,34 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
+        "name": "ALIBABA",
+        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
+      },
+      "artists": [
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        }
+      ],
+      "duration_ms": 160203,
+      "name": "ALIBABA",
+      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
         "name": "SymSesh #002 - Piranha Sexy",
         "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
       },
@@ -923,34 +951,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "GLA",
-        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "DJ Menor PR",
-          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "Cicatrizes, Vol. 1",
         "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
       },
@@ -975,30 +975,30 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "ALIBABA",
-        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
+        "name": "GLA",
+        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
       },
       "artists": [
         {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
         },
         {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
         },
         {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
         },
         {
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+          "name": "DJ Menor PR",
+          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
         }
       ],
-      "duration_ms": 160203,
-      "name": "ALIBABA",
-      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
+      "duration_ms": 201904,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
+        "name": "Amor \u00c9 F*Da",
+        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Amor \u00c9 F*Da",
+      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
         "name": "BAILA IGUAL VINI",
         "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 160718,
       "name": "BAILA IGUAL VINI",
       "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
-        "name": "Amor \u00c9 F*Da",
-        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Amor \u00c9 F*Da",
-      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -1463,34 +1463,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "Fiquei Bonito...",
-        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
-      },
-      "artists": [
-        {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 134829,
-      "name": "Fiquei Bonito...",
-      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "N\u00f3is Ta Diferente",
         "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
       },
@@ -1515,6 +1487,34 @@
       "duration_ms": 162317,
       "name": "Na Onde N\u00f3is Mora",
       "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
+        "name": "Fiquei Bonito...",
+        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 134829,
+      "name": "Fiquei Bonito...",
+      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
     },
     {
       "added_at": "2026-11-09 19:53:26",

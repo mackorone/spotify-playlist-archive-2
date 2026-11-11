@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,249 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,251 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 23 | [For The Culture](https://open.spotify.com/track/44igif2xlQ3Mmfh4CQJqMu) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 4:01 |
 | 24 | [CSIRAC \- Dylan Brady Remix](https://open.spotify.com/track/0HlP3ZtuhEhTMYoEEQkuML) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [CSIRAC \(Dylan Brady Remix\)](https://open.spotify.com/album/4aPDJrAGd2zVBC2vEVDvHD) | 2:24 |
 | 25 | [Mi Coco](https://open.spotify.com/track/4oDBTDNpHOFuHHLyp6wgs3) | [Sir Hiss](https://open.spotify.com/artist/5eUlRqUYUY2rsuw7ZWTXTK), [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ) | [Mi Coco](https://open.spotify.com/album/61ci1plmRedoxtzdiYr6xJ) | 4:00 |
-| 26 | [effervescence](https://open.spotify.com/track/1mOPKhbhg4M7zYKms56FjH) | [Boukan Records](https://open.spotify.com/artist/0uh2x1PifSwAtlNzqS9edb), [alys\(alys\)alys](https://open.spotify.com/artist/7FzhwbH9S6hhSzcxTs9Dvi) | [effervescence](https://open.spotify.com/album/6h38xbH0Yho908HDOzWOMo) | 6:18 |
+| 26 | [effervescence](https://open.spotify.com/track/1mOPKhbhg4M7zYKms56FjH) | [alys\(alys\)alys](https://open.spotify.com/artist/7FzhwbH9S6hhSzcxTs9Dvi), [Boukan Records](https://open.spotify.com/artist/0uh2x1PifSwAtlNzqS9edb) | [effervescence](https://open.spotify.com/album/6h38xbH0Yho908HDOzWOMo) | 6:18 |
 | 27 | [Bald](https://open.spotify.com/track/5n971wJerecGKOsZiPRSWn) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [Bald](https://open.spotify.com/album/32RWMNjJAFlzAwzlZsnP7O) | 2:28 |
 | 28 | [OPA!](https://open.spotify.com/track/0QAN6BStZnoRsbQXWKu2tu) | [Papa Nugs](https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [SUCKERPUNCH008](https://open.spotify.com/album/0hXp89hlYhd2kbSDrHBRrz) | 3:27 |
 | 29 | [Shot Caller \- NASH Remix](https://open.spotify.com/track/7qtNfzYLmSKaxcQkbtvwu0) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p), [NASH](https://open.spotify.com/artist/1ak2DWCd69HGLayjfFehMQ) | [Shot Caller \(Remixes\)](https://open.spotify.com/album/3LX5oKGgY8Z6ZIRRomMqUp) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [Pick and Go](https://open.spotify.com/track/752fPgj9gKe17HOav3aSOB) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [Pick and Go](https://open.spotify.com/album/0ck1Lgcv1joCxLAkYaO1aG) | 2:14 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `AAAAAL6AgBKbzvMc/n/M3Jxntb8uEzAE`
+Snapshot ID: `AAAAAE1Qtc1XsEpsz3yUo1gaBKRMJ3fj`

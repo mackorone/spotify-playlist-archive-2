@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz for focus or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,035 likes - 213 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,108 likes - 213 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 212 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 |
 | 213 | [When We Used to Dance](https://open.spotify.com/track/5Id5aycj6xfkbsFnPPkGpM) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [When We Used to Dance](https://open.spotify.com/album/5n7kAGhnRuq6125wXayPR4) | 3:09 |
 
-Snapshot ID: `AAAAAB7jfRHelaQ8JiDtrLYXLmcZqv14`
+Snapshot ID: `AAAAAD8aghzA3dkjGRBAEFuz2o7ZxGrW`

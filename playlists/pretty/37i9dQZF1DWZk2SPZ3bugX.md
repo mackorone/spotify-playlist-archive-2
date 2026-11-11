@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,106 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,090 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 |
 | 60 | [Heartbeat](https://open.spotify.com/track/0LF31JzVi4GSthMthWoHIE) | [Plaisance](https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu), [Quiet Blue](https://open.spotify.com/artist/2Wid46wTM2efkNxWhmVqpf) | [Fallin'](https://open.spotify.com/album/2ckOSr74FyVnYd6a4nsXyY) | 4:00 |
 
-Snapshot ID: `AAAAAHRNeI7PGBqM6jnQEEjZoEp1iGox`
+Snapshot ID: `AAAAALsWiFOLGDSBgbjIhKELelORcbvJ`

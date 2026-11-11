@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Shimza, Ayra Starr, Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,917 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,903 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 69 | [Back To The Start](https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Levi Did It](https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au) | 3:12 |
 | 70 | [Hi Hello](https://open.spotify.com/track/2Kaldx1TDzLaxn1dvIfaKX) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Hi Hello](https://open.spotify.com/album/4yh8ZQrICMi0HKnFaXPWCY) | 2:37 |
 
-Snapshot ID: `AAAAAIcRShZiZh/1Fk0JbKlW0IGBEItL`
+Snapshot ID: `AAAAAKGsPLHozth5n/eQsUbbGe+yXgwb`

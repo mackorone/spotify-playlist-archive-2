@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > unge kniv 🔪 @Østen
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,181 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,177 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 37 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 |
 | 38 | [Bider Det I Mig](https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Sweetheart](https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz) | 2:48 |
 | 39 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 |
-| 40 | [Septembersol](https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Septembersol](https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU) | 3:33 |
+| 40 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
 | 41 | [Ring, når du har tid](https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Kristoffer Jessen](https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC), [Pernille Rosendahl](https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE), [Pia Raug](https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm), [Søren Huss](https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P) | [Ring, når du har tid](https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy) | 6:34 |
-| 42 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
+| 42 | [Septembersol](https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Septembersol](https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU) | 3:33 |
 | 43 | [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 |
 | 44 | [Solrig Altan](https://open.spotify.com/track/5t9Zq4DT9FtqXOqB5Vl4bI) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat), [Oilly Wallace](https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F) | [Det, Man Vander, Vokser](https://open.spotify.com/album/6E6WiXDFMhMxLO4FjAdH6r) | 2:51 |
-| 45 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 |
-| 46 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
+| 45 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
+| 46 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 |
 | 47 | [Forfra](https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X) | [Max Felix](https://open.spotify.com/artist/146lWyxRmwLV9HuVagrvFB), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hygge & Hustle](https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb) | 3:11 |
 | 48 | [Okay](https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Okay](https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT) | 2:52 |
 | 49 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 54 | [Dødvande](https://open.spotify.com/track/4xmR81dksRzRinebqUDKb9) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Dødvande](https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL) | 2:10 |
 | 55 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 |
 | 56 | [En Stor Lykkelig Familie](https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [En Stor Lykkelig Familie](https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh) | 3:15 |
-| 57 | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/track/27U7IT8vYLgI4tZnKTKf0r) | [Blaadage](https://open.spotify.com/artist/0ttQJRduN0NrldVyK7WRDy), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/album/6lvkflWV8rpLiRSWKVkqkT) | 3:35 |
-| 58 | [Kitchen](https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Kitchen](https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h) | 2:55 |
-| 59 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 |
+| 57 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 |
+| 58 | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/track/27U7IT8vYLgI4tZnKTKf0r) | [Blaadage](https://open.spotify.com/artist/0ttQJRduN0NrldVyK7WRDy), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/album/6lvkflWV8rpLiRSWKVkqkT) | 3:35 |
+| 59 | [Kitchen](https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Kitchen](https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h) | 2:55 |
 | 60 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 |
 | 61 | [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 |
 | 62 | [Var det dig, der var derinde?](https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Sarah Wichmann](https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx) | [Var det dig, der var derinde?](https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb) | 4:15 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 66 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 |
 | 67 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
 | 68 | [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 |
-| 69 | [Gemen](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 2:29 |
-| 70 | [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 |
+| 69 | [Heliumtanker](https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Heliumtanker](https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br) | 2:44 |
+| 70 | [Gemen](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 2:29 |
 
-Snapshot ID: `AAAAAK9OvgbgPBsGITE3XjIgEEb5L4+b`
+Snapshot ID: `AAAAAOAvZyrdJ/DlyqCQD9xti31tJoHk`

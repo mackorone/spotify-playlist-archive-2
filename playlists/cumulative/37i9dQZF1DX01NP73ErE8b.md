@@ -4,7 +4,7 @@
 
 > le canzoni di cui siamo ossessionati 💚 Alfa in cover
 
-764 songs - 1 day 15 hr 16 min
+765 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 | 2026-05-21 | 2026-06-19 |
 | [LOVE U / HATE U](https://open.spotify.com/track/4fRBih3IcHURUrTTgSbkEU) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [LOVE U / HATE U](https://open.spotify.com/album/0Tu7GjmRagzlelhnLXLtZz) | 3:03 | 2024-07-01 | 2024-09-27 |
 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 | 2025-04-08 | 2025-05-02 |
-| [Luci e ombre \(feat\. Noemi, Guè & Shablo\)](https://open.spotify.com/track/2oknFhmPdKEkpXvmaJqPmp) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Luci e ombre \(feat\. Noemi, Guè & Shablo\)](https://open.spotify.com/album/2uSazF989Vfy4rz5Bt4XOs) | 3:14 | 2026-10-15 |  |
+| [Luci e ombre \(feat\. Noemi, Guè & Shablo\)](https://open.spotify.com/track/2oknFhmPdKEkpXvmaJqPmp) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Luci e ombre \(feat\. Noemi, Guè & Shablo\)](https://open.spotify.com/album/2uSazF989Vfy4rz5Bt4XOs) | 3:14 | 2026-10-15 | 2026-11-11 |
 | [LUCIA \(STAY WITH ME\)](https://open.spotify.com/track/21NYfIzdx54csIcKIYHKaW) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LUCIA \(STAY WITH ME\)](https://open.spotify.com/album/2WgFP0w2qFvkJJUfhFhDKS) | 3:06 | 2024-07-01 | 2024-07-05 |
 | [LUNA ROSSA](https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [TOCCA IL CIELO](https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv) | 2:40 | 2025-05-22 | 2025-06-04 |
 | [Lunarossa \(feat\. Mahmood\)](https://open.spotify.com/track/1AtoFMtluLDiW0nZd7skxp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Canerandagio](https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR) | 2:58 | 2025-08-28 | 2025-09-26 |
@@ -665,6 +665,7 @@
 | [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 | 2024-11-13 | 2024-12-20 |
 | [Stella stellina](https://open.spotify.com/track/2wNoBWBMt1bpoAzPX2lAi0) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Stella stellina](https://open.spotify.com/album/0wVfHOSUm3hEgjPL3VtnvS) | 3:18 | 2026-02-25 | 2026-03-20 |
 | [STELLE](https://open.spotify.com/track/6A4xLWcVQdGGSGkY0XqZ6U) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:26 | 2026-01-22 | 2026-06-05 |
+| [Stelle&Galassie](https://open.spotify.com/track/6VDRCGGxETYuD0cPB5YIJh) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Stelle&Galassie](https://open.spotify.com/album/6cnxRaNlSLozN8uGgcYutv) | 3:14 | 2026-11-10 |  |
 | [STESSO RUMORE](https://open.spotify.com/track/53c18kDV41gxcLBweIk0Sv) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [STESSO RUMORE](https://open.spotify.com/album/5VOgvNt2tm0fsJYglya0lE) | 2:07 | 2025-09-25 | 2025-10-17 |
 | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/track/7bozAK8PtroF5owUL01coy) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4) | 2:47 | 2025-06-12 | 2025-11-04 |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-07-01 | 2024-11-07 |

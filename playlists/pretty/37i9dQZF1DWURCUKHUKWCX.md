@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,835 likes - 192 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,869 likes - 192 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 191 | [Spartacus Love Theme](https://open.spotify.com/track/6VtKjjaeZIsGIf7pqXJDoA) | [Alex North](https://open.spotify.com/artist/2x2WoBP4HIXYCxxNzfGG34), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 3:36 |
 | 192 | [Dono Per un Addio](https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#001 Coordinate](https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ) | 4:21 |
 
-Snapshot ID: `AAAAADKNLHbg+5YREHliCP8+0WPWrmAq`
+Snapshot ID: `AAAAAAhNj7cc9JyEMhSLIEbTO2HoaYii`

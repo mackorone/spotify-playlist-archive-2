@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Victony",
-  "num_followers": 123025,
+  "num_followers": 123021,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL+A1ovh0Radyq51idQ+UZvVEaI5",
+  "snapshot_id": "AAAAAH1nc50dJy8o/nYBoIftEtQFcS1e",
   "tracks": [
     {
       "added_at": "2026-10-27 04:00:01",
@@ -207,22 +207,18 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "ACCELERANDO",
-        "url": "https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv"
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "VADAKIN",
-          "url": "https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 242245,
-      "name": "ACCELERANDO",
-      "url": "https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O"
+      "duration_ms": 236600,
+      "name": "Swan Lake",
+      "url": "https://open.spotify.com/track/4EXi4kcNP02S4zUEqrqFuP"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -243,34 +239,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+        "name": "ACCELERANDO",
+        "url": "https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Swan Lake",
-      "url": "https://open.spotify.com/track/4EXi4kcNP02S4zUEqrqFuP"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Too Cute To Be Lonely",
-        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
-      },
-      "artists": [
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "VADAKIN",
+          "url": "https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ"
         }
       ],
-      "duration_ms": 196509,
-      "name": "Too Cute To Be Lonely",
-      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
+      "duration_ms": 242245,
+      "name": "ACCELERANDO",
+      "url": "https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -287,6 +271,22 @@
       "duration_ms": 306397,
       "name": "Jamie",
       "url": "https://open.spotify.com/track/30LhXbIEA2tqqL0yHXIRu9"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 216853,
       "name": "Guess",
       "url": "https://open.spotify.com/track/79N1to1hoaLfirS5M8H88A"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -387,22 +387,6 @@
       "duration_ms": 222580,
       "name": "Dientes De Fierro",
       "url": "https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -435,6 +419,22 @@
       "duration_ms": 233708,
       "name": "Power",
       "url": "https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
-      },
-      "artists": [
-        {
-          "name": "Star Moles",
-          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Take It Off For You",
-        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 156540,
-      "name": "Take It Off For You",
-      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "the greatest album of all time",
         "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 310596,
       "name": "Now I've Got A Lot You Know",
       "url": "https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -743,6 +743,26 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "Honey Is My New Favorite",
+        "url": "https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        },
+        {
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
+        }
+      ],
+      "duration_ms": 143551,
+      "name": "Honey Is My New Favorite",
+      "url": "https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "We'll Never Be This Young Again",
         "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 227541,
       "name": "laundry song",
       "url": "https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Honey Is My New Favorite",
-        "url": "https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        },
-        {
-          "name": "Deem Spencer",
-          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
-        }
-      ],
-      "duration_ms": 143551,
-      "name": "Honey Is My New Favorite",
-      "url": "https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Trillions",
-        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Trillions",
-      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 151146,
       "name": "Knife",
       "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "come to mommy",
-        "url": "https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I"
-      },
-      "artists": [
-        {
-          "name": "TEILZ",
-          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
-        }
-      ],
-      "duration_ms": 163658,
-      "name": "potion",
-      "url": "https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "FAITH OVER FAME",
         "url": "https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 194527,
       "name": "SUPERHERO",
       "url": "https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "come to mommy",
+        "url": "https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "duration_ms": 163658,
+      "name": "potion",
+      "url": "https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "My Forever",
-        "url": "https://open.spotify.com/album/3tTVKzLEPClBY7e4TT1RP6"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 249714,
-      "name": "My Forever",
-      "url": "https://open.spotify.com/track/1R8I3H65pxDY4t9ujP0huO"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Trace me on2 u",
         "url": "https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 181810,
       "name": "Trace me on2 u",
       "url": "https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "My Forever",
+        "url": "https://open.spotify.com/album/3tTVKzLEPClBY7e4TT1RP6"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 249714,
+      "name": "My Forever",
+      "url": "https://open.spotify.com/track/1R8I3H65pxDY4t9ujP0huO"
     },
     {
       "added_at": "2026-10-27 04:00:01",

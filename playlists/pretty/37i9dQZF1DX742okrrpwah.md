@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Vianney, L2B, Slayyyter, Kings of Leon & Christine and the Queens au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,844 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,802 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 102 | [1600 kmh](https://open.spotify.com/track/3MGYuY48ozV8Gge0gRP20R) | [Arthur Ely](https://open.spotify.com/artist/65WEveY2gA6BSkkkpT8jrl) | [TRÈS SAIGNANT](https://open.spotify.com/album/6ev9CEHL51nG8NIZCDUHvE) | 3:59 |
 | 103 | [PELIGRO](https://open.spotify.com/track/3KavB9Dq44BTTWQ4HXqS72) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1) | [INSTINTO](https://open.spotify.com/album/1LhDD7qksDHE9nKMCKNWXs) | 3:23 |
 
-Snapshot ID: `AAAAAGTq6SIOacd1DdecEHSJLlxo152d`
+Snapshot ID: `AAAAANZd19ZwPPH7NppzbmKLC/KgY2xh`

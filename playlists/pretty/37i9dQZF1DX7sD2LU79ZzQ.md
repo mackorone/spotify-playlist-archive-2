@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,371 likes - 101 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,380 likes - 101 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 100 | [Ini Bukan Cinta](https://open.spotify.com/track/3KFi5afCTz6clzLXK7noue) | [ASTRI](https://open.spotify.com/artist/7rn4Z9vVBJDsz4ehMwCmOg) | [Ini Bukan Cinta](https://open.spotify.com/album/2BScMn8yGahXrZs5qAV0Ex) | 2:54 |
 | 101 | [Strategi Memilikimu](https://open.spotify.com/track/1mwLvEiFXRKrxdFIDiuySS) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Strategi Memilikimu](https://open.spotify.com/album/6h0LAtMzO6fNCDQjgsQUtJ) | 3:34 |
 
-Snapshot ID: `AAAAAGEPK0h2QBsir+pROYmAK6fODxTj`
+Snapshot ID: `AAAAANrw51Of0UwcMCZqxphMclxqrusB`

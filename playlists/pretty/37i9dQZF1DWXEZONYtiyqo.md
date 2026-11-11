@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Juno, AMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,372 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,377 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Nu se va mai repeta](https://open.spotify.com/track/0zIvHxLp2tmLqIX9cMNdfP) | [Amna](https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ) | [Nu se va mai repeta](https://open.spotify.com/album/7Bltzdl6RsiHdcXt96e7DY) | 2:36 |
 | 50 | [Nonstop](https://open.spotify.com/track/6CmQuerzmP1MAa4FKdxezI) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Genul ăla](https://open.spotify.com/album/73pAQsXnxdmcnZh6VYRRiT) | 2:25 |
 
-Snapshot ID: `AAAAAHpzx7L71VAUW2DIhwaYWD3CQ29+`
+Snapshot ID: `AAAAAL98d3sx2VuBWIJhfMDPXqe2ifna`

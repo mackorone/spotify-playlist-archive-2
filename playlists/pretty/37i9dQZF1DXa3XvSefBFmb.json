@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANTUL2ugxwOOhy3gcAYaH7mIbghr",
+  "snapshot_id": "AAAAAF470sLTrVoW3zAfHUU88q001IMS",
   "tracks": [
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF"
@@ -29,7 +29,299 @@
       "url": "https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Mon Ch\u00e9ri",
+        "url": "https://open.spotify.com/album/65mYAuw0tbwojY0MyJqFRL"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "Mon Ch\u00e9ri",
+      "url": "https://open.spotify.com/track/516iFo23C83jkUcVbgvEpn"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "tenho saudades de casa",
+        "url": "https://open.spotify.com/album/6YUOHV3URPQPfUMFI68t3d"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "tenho saudades de casa",
+      "url": "https://open.spotify.com/track/6jEiqzJHHz7TpooAPr6bFg"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Devagar Que A Vida \u00c9 Curta",
+        "url": "https://open.spotify.com/album/6WctvU1Itl3ipep21NKQTu"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 193646,
+      "name": "Se A Cabe\u00e7a Anda Manca",
+      "url": "https://open.spotify.com/track/6bzKtI6Ga1DrmWTEX45G50"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Cartas de Desamor",
+        "url": "https://open.spotify.com/album/3g90TAkxEkK04mP6ynoxYU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "N\u00e3o sei quem sou",
+      "url": "https://open.spotify.com/track/05YCvKYacBIwf4EsDssz0M"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "CALA A BOCA",
+        "url": "https://open.spotify.com/album/7LpenptowipBgRY6C8WU0i"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        },
+        {
+          "name": "Dama Bete",
+          "url": "https://open.spotify.com/artist/0cFnYwwUg1OWV2AksuN22j"
+        }
+      ],
+      "duration_ms": 128659,
+      "name": "CALA A BOCA",
+      "url": "https://open.spotify.com/track/7KUwgcT6zCZsPsWTdPeaet"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "STRAVA",
+        "url": "https://open.spotify.com/album/4jtsQphofZNwTbFaA1TdL8"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "STRAVA",
+      "url": "https://open.spotify.com/track/7gCkbZuIPAmAmRIT2lQ3Ny"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Invent\u00e1rio Pessoal",
+        "url": "https://open.spotify.com/album/40O5zfHFQANO3UYd8ElV3z"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia",
+          "url": "https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r"
+        }
+      ],
+      "duration_ms": 87280,
+      "name": "Invent\u00e1rio Pessoal",
+      "url": "https://open.spotify.com/track/71jUcXrYanJEb4ygi4Fl9w"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Para l\u00e1 da paisagem",
+        "url": "https://open.spotify.com/album/6b5wrQZCyc0cySgXLE0a9m"
+      },
+      "artists": [
+        {
+          "name": "Mimi Froes",
+          "url": "https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Adeus aos lugares do sil\u00eancio",
+      "url": "https://open.spotify.com/track/4adV4Iu1K2nwOhuBEc6F9i"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Back Into Love",
+        "url": "https://open.spotify.com/album/5Vm41w4dp4a6NSeqA5ZJVT"
+      },
+      "artists": [
+        {
+          "name": "Aurea",
+          "url": "https://open.spotify.com/artist/752oCkLr3xnW9IVBnAhMMn"
+        }
+      ],
+      "duration_ms": 192728,
+      "name": "Back Into Love",
+      "url": "https://open.spotify.com/track/6c8sSAJv7cOwCGTlsdPrGo"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Desilus\u00e3o",
+        "url": "https://open.spotify.com/album/1VDuhD16F4wlS8DzOxLFsh"
+      },
+      "artists": [
+        {
+          "name": "Lurdes Miranda",
+          "url": "https://open.spotify.com/artist/5XHv4t7qG8d635Hf0a4Dk3"
+        }
+      ],
+      "duration_ms": 171083,
+      "name": "Desilus\u00e3o",
+      "url": "https://open.spotify.com/track/4994EGhDnRgqGY06YQ25F1"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/3Atrd1sPOXBjtVkJaqTrDq"
+      },
+      "artists": [
+        {
+          "name": "Mia Benita",
+          "url": "https://open.spotify.com/artist/7JUhLYbVExHkPDu3i2fc4e"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "POUCA A\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4CNNxC0M9lSlC2NtDopz2k"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Corta, Uma Palavra",
+        "url": "https://open.spotify.com/album/6TFHC8HnlslrYGfAIZ5QPc"
+      },
+      "artists": [
+        {
+          "name": "L\u00edquen",
+          "url": "https://open.spotify.com/artist/3Ka8NMuilAkSYvBbEnCQEc"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Corta, Uma Palavra",
+      "url": "https://open.spotify.com/track/3x62BE6StESp6x2MVGsBVc"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Falsidade a Bondade",
+        "url": "https://open.spotify.com/album/7rhTCDm7rtfcLTqRrOgs3y"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Abrunhosa",
+          "url": "https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF"
+        }
+      ],
+      "duration_ms": 166496,
+      "name": "Falsidade a Bondade",
+      "url": "https://open.spotify.com/track/1Y9LEoev9Y7PhjumRAlLsW"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Per\u00edodo Experimental",
+        "url": "https://open.spotify.com/album/6zC2coTTj385TpA7wba5tx"
+      },
+      "artists": [
+        {
+          "name": "Maria Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/4LxJT0EnNL4sYvgwrsHWJR"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/2zOBGwIQkd4Vv47KSHLYJc"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/12dPUoqAYSTREzpLGXIQE1"
+      },
+      "artists": [
+        {
+          "name": "Carolina Cardetas",
+          "url": "https://open.spotify.com/artist/2b8cXmYwRjGxE2snPkSFRI"
+        }
+      ],
+      "duration_ms": 203705,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/5xEQ8m4AeKzkmFzHz2iUHs"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "aguarela (vers\u00e3o da WI$H)",
+        "url": "https://open.spotify.com/album/1mvpLanF033k1oRGQ9Ednc"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soares",
+          "url": "https://open.spotify.com/artist/2QMZmKuBrDPtZcBnlMVW2v"
+        }
+      ],
+      "duration_ms": 178090,
+      "name": "aguarela (vers\u00e3o da WI$H)",
+      "url": "https://open.spotify.com/track/7537Wpxd9upi6apl3MzHou"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "\u00c1tomo",
+        "url": "https://open.spotify.com/album/6UMVIZyXyafYuesqjygzNX"
+      },
+      "artists": [
+        {
+          "name": "Mariana Moreira",
+          "url": "https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u00c1tomo",
+      "url": "https://open.spotify.com/track/7CB5EcxzBKeRWTNCs4eslF"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
+      "album": {
+        "name": "Podemos Ser",
+        "url": "https://open.spotify.com/album/4xGerB6FK8dnnEfnivzuxu"
+      },
+      "artists": [
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/5W3WfKsYcIFReQZ7Rm4cZV"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Podemos Ser",
+      "url": "https://open.spotify.com/track/3IfVwHQv37FFCHdWqeg1ps"
+    },
+    {
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Nha Tudo",
         "url": "https://open.spotify.com/album/0WefWIdw92yOqUeobkfvUb"
@@ -45,7 +337,7 @@
       "url": "https://open.spotify.com/track/2A0Rr37GBzGDgNER7YPW7G"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Beijos",
         "url": "https://open.spotify.com/album/1AElvHGR02z4o54MPbMw0b"
@@ -61,7 +353,7 @@
       "url": "https://open.spotify.com/track/03o1ahRUawH7rTQASCcmw0"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "\u00c9 Ouro",
         "url": "https://open.spotify.com/album/3pyDWNIXrGV90yGjKAktmi"
@@ -77,7 +369,7 @@
       "url": "https://open.spotify.com/track/5Oklu1nWOv3vgShrkh71s8"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "debaixo de \u00e1gua, contigo",
         "url": "https://open.spotify.com/album/3rvuwkwlFh7Udj0XotLZjr"
@@ -97,7 +389,7 @@
       "url": "https://open.spotify.com/track/32d5gYQGKPvZ87QjCNkqpD"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Paragem",
         "url": "https://open.spotify.com/album/4RAN0aWYDZgfRCJyrSLW95"
@@ -113,7 +405,7 @@
       "url": "https://open.spotify.com/track/501AJ5a3BH7JoBkh4lkp0R"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "E Ser Lisboa (From \"Santo Ant\u00f3nio\")",
         "url": "https://open.spotify.com/album/6zLC0pc7luI97fTqqCebaS"
@@ -129,7 +421,7 @@
       "url": "https://open.spotify.com/track/70ASJoUDSeGjPTMuMaD9Uk"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Quebranto",
         "url": "https://open.spotify.com/album/05qf2ghTPLyKUX2p9pkylE"
@@ -145,7 +437,7 @@
       "url": "https://open.spotify.com/track/7acTRQ3bpDo2B4k2eSep9S"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "vou-me embora",
         "url": "https://open.spotify.com/album/2UpuHSJ44Z8eXQA6shDNQQ"
@@ -161,7 +453,7 @@
       "url": "https://open.spotify.com/track/0PZbVncbTYs8mS62jK6PcK"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Hist\u00f3ria da Carolina",
         "url": "https://open.spotify.com/album/4TOZN3k7greHNQHKG9sWW5"
@@ -177,7 +469,7 @@
       "url": "https://open.spotify.com/track/5C2qT4ikixhBDeholC67n1"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Surto",
         "url": "https://open.spotify.com/album/3b3O0odN3O0ktd5kfIjRUB"
@@ -193,7 +485,7 @@
       "url": "https://open.spotify.com/track/4CQv4FfZz62MxIgwlO529C"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "A Saudade Aperta (feat. Tiago Nogueira)",
         "url": "https://open.spotify.com/album/3r2dTsZB1z0AVA660BDajT"
@@ -213,7 +505,7 @@
       "url": "https://open.spotify.com/track/0PEPgSOpegy4eaEhuo8wRl"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "O Meu Fado",
         "url": "https://open.spotify.com/album/3iKy6PzhWE7oFYQJmWsH95"
@@ -229,7 +521,7 @@
       "url": "https://open.spotify.com/track/1u9rwb8kSxlzsJ0GZ0GHcn"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Jogo das Escondidas",
         "url": "https://open.spotify.com/album/7nwgms2FH5V4bUTJfdnWGV"
@@ -245,7 +537,7 @@
       "url": "https://open.spotify.com/track/36Y5ZFk2ieOr9wC3S7c20c"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Vai que \u00e9 teu",
         "url": "https://open.spotify.com/album/5MgMyyomBztW3nPTheTmYb"
@@ -261,7 +553,7 @@
       "url": "https://open.spotify.com/track/1D5I3wZD9E0pjlidHxK6v4"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Casamos",
         "url": "https://open.spotify.com/album/338Vp1u4hsqcdFiwOu6Oiq"
@@ -277,7 +569,7 @@
       "url": "https://open.spotify.com/track/2RuaJW9ACZvRHp4peEpNeI"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "purgat\u00f3rio (Crisi)",
         "url": "https://open.spotify.com/album/1Bkutf7IV47JXOdpq8Hj85"
@@ -293,23 +585,7 @@
       "url": "https://open.spotify.com/track/63LsuUAN1CTRQfgtS9y499"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Dividir a dor",
-        "url": "https://open.spotify.com/album/4EGks1oGTv1DOxvjhRdSS2"
-      },
-      "artists": [
-        {
-          "name": "Mimi Froes",
-          "url": "https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Dividir a dor",
-      "url": "https://open.spotify.com/track/6ruEyzsMlqBmDvvnEwC8Lp"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Fala Bem",
         "url": "https://open.spotify.com/album/7LYs2BW6mdSS227wRPhCkF"
@@ -325,7 +601,7 @@
       "url": "https://open.spotify.com/track/6DOB7QK6gio2SfxQeDsWSt"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Est\u00e1s Com Quem?",
         "url": "https://open.spotify.com/album/3hqiTeFRz5uI6AZdRbQExe"
@@ -341,23 +617,7 @@
       "url": "https://open.spotify.com/track/4aXxiSClwJLhIalFM3zeZM"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Um Mais Um",
-        "url": "https://open.spotify.com/album/4uIMh5zR0GYAnSaLf2Ehfy"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 171297,
-      "name": "Um Mais Um",
-      "url": "https://open.spotify.com/track/37MIhQy5RKshiLFp7yF70E"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Renascer",
         "url": "https://open.spotify.com/album/5pf8ACxjInOvi1wMpcGF9I"
@@ -377,7 +637,7 @@
       "url": "https://open.spotify.com/track/6NPFYoThf0EO0odufxQJMa"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Novo Credo",
         "url": "https://open.spotify.com/album/6EXu4ifY4fmFyYQeuyThvF"
@@ -393,7 +653,7 @@
       "url": "https://open.spotify.com/track/16ZECSO99hbDff15y6s2Wf"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Dan\u00e7o por Voc\u00eas",
         "url": "https://open.spotify.com/album/5JHH43RTiz81q03Mnpeskf"
@@ -409,7 +669,7 @@
       "url": "https://open.spotify.com/track/3aZCkm1y8bn0cBmpekFvoe"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Dan\u00e7a para Esquecer",
         "url": "https://open.spotify.com/album/6DK8ZnL9QW0EkWxH1jFgfp"
@@ -429,7 +689,7 @@
       "url": "https://open.spotify.com/track/6NMfISET7TNNY32cUpxj6G"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Ela Por Elas",
         "url": "https://open.spotify.com/album/6VRts2s8cPQP86AWrBdspy"
@@ -445,7 +705,7 @@
       "url": "https://open.spotify.com/track/3OtW3uACjL5mEwv8KVEg5R"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "SERIOUS GAME",
         "url": "https://open.spotify.com/album/0V3KrZsfmWhaaXK4a5rakd"
@@ -461,7 +721,7 @@
       "url": "https://open.spotify.com/track/1Zrnq0YVgKzHT0ju2eJZjn"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Mais Um Dia",
         "url": "https://open.spotify.com/album/4Gua41RtfWOISbk6DCNu9I"
@@ -477,7 +737,7 @@
       "url": "https://open.spotify.com/track/4FK3kcWjCjRsbhczXTaJ29"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "O Plano Dela",
         "url": "https://open.spotify.com/album/66PW2HQtsJ4z3Q5NeZcD7m"
@@ -493,7 +753,7 @@
       "url": "https://open.spotify.com/track/3PcRy6tTYur7uqryvuHYQ9"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "M\u00fasica de Elevador",
         "url": "https://open.spotify.com/album/1tmJ5IxCHmuqCokvFJ9AnO"
@@ -509,7 +769,7 @@
       "url": "https://open.spotify.com/track/39ynx4NKlnCgzeJJizgJYN"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Para Da Pa Dodu",
         "url": "https://open.spotify.com/album/4SHjfzq4G7Jp79kloT0xYo"
@@ -529,7 +789,7 @@
       "url": "https://open.spotify.com/track/7DwWI6exyodWIYB2RB3bmA"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Sauvignon Blanc - Spotify Singles",
         "url": "https://open.spotify.com/album/2N3MmfURyFjmBP8ysx6dkM"
@@ -545,7 +805,7 @@
       "url": "https://open.spotify.com/track/4JxrT2o1nmMFOZZr85fJFH"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "O Pai",
         "url": "https://open.spotify.com/album/06j1stQOZfmrrhNILMr63w"
@@ -565,7 +825,7 @@
       "url": "https://open.spotify.com/track/0wnpc283RUxKyh0Qo0q4JG"
     },
     {
-      "added_at": "2026-10-07 23:00:24",
+      "added_at": "2026-11-11 00:00:23",
       "album": {
         "name": "Pau Santo",
         "url": "https://open.spotify.com/album/3Ys89CQDcWhNNJCd4LqiPl"
@@ -583,274 +843,6 @@
       "duration_ms": 173749,
       "name": "Pau Santo",
       "url": "https://open.spotify.com/track/4t40RekrJA3S2N3vnrzBuc"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "HOJE TEM",
-        "url": "https://open.spotify.com/album/3rqHBjTiYbb5BekHM97r19"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 171681,
-      "name": "HOJE TEM",
-      "url": "https://open.spotify.com/track/27qMXEJjDpbd1fr4SKxswN"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "0 aos 100",
-        "url": "https://open.spotify.com/album/5sDSK4IEE9507mx3YanTtm"
-      },
-      "artists": [
-        {
-          "name": "Catarina Filipe",
-          "url": "https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8"
-        }
-      ],
-      "duration_ms": 161881,
-      "name": "0 aos 100",
-      "url": "https://open.spotify.com/track/1cNNvILcp78k0vCrXKgreb"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "E Agora ?",
-        "url": "https://open.spotify.com/album/3Qf1Wsm8KIRpy7Jw2WmOtA"
-      },
-      "artists": [
-        {
-          "name": "Cari",
-          "url": "https://open.spotify.com/artist/5W3WfKsYcIFReQZ7Rm4cZV"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "E Agora ?",
-      "url": "https://open.spotify.com/track/2lbDXy8WuAbKg3jQLPyaJH"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Esta balada que te dou",
-        "url": "https://open.spotify.com/album/3QukCVNuX6DRAnoHWnKgFv"
-      },
-      "artists": [
-        {
-          "name": "\u00c1gata",
-          "url": "https://open.spotify.com/artist/4hjRolqjkmfAWhjkUPFJiI"
-        },
-        {
-          "name": "Miguel Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
-        }
-      ],
-      "duration_ms": 257837,
-      "name": "Esta balada que te dou",
-      "url": "https://open.spotify.com/track/6BnMhGEg9FNIlu09YrkX1n"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Caracol",
-        "url": "https://open.spotify.com/album/1DX0FocG7uPcYIrkpERGNg"
-      },
-      "artists": [
-        {
-          "name": "Jasmim",
-          "url": "https://open.spotify.com/artist/6mlXL4N89h0PDcPSQPCKbc"
-        }
-      ],
-      "duration_ms": 176402,
-      "name": "Caracol",
-      "url": "https://open.spotify.com/track/2TOLW6pFjPtBkzLPWJCkgd"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "pop/rock",
-        "url": "https://open.spotify.com/album/2Nurrryl4NAAOXdGecdnc4"
-      },
-      "artists": [
-        {
-          "name": "PIPA DE MA$$A",
-          "url": "https://open.spotify.com/artist/5sCKZggbMGwCxzQoc6juPf"
-        }
-      ],
-      "duration_ms": 174865,
-      "name": "pop/rock",
-      "url": "https://open.spotify.com/track/7fFsQnJxJhplTQOy6yc8dD"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Eu sou guerreira",
-        "url": "https://open.spotify.com/album/6SFZc7ZFszCzsUMBptaIbv"
-      },
-      "artists": [
-        {
-          "name": "Ruth Marlene",
-          "url": "https://open.spotify.com/artist/4zrHFaEhQ390GClQYFKX9m"
-        }
-      ],
-      "duration_ms": 213043,
-      "name": "Eu sou guerreira",
-      "url": "https://open.spotify.com/track/3Vc8KYkv0tcLx24P0mFmfl"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Deixa Ir",
-        "url": "https://open.spotify.com/album/23DgcPiShxuHQdG185SVb3"
-      },
-      "artists": [
-        {
-          "name": "Nayra Mirella",
-          "url": "https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1"
-        },
-        {
-          "name": "Karen Serena",
-          "url": "https://open.spotify.com/artist/2SjERTHmEHVCmjpFue0VBB"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Deixa Ir",
-      "url": "https://open.spotify.com/track/0qMrUlIyYpTVuFcjcklKer"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Verdade E Vida",
-        "url": "https://open.spotify.com/album/6ecakHq1Me9XbcFo4xOpJT"
-      },
-      "artists": [
-        {
-          "name": "\u00c9LL\u00c0H",
-          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Verdade E Vida",
-      "url": "https://open.spotify.com/track/4D7Y31l38c7w9fxfTBpYZT"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Sou Daquela Rua",
-        "url": "https://open.spotify.com/album/3UtXmviRFDOHF5Eiik0m9Y"
-      },
-      "artists": [
-        {
-          "name": "Maria Jo\u00e3o",
-          "url": "https://open.spotify.com/artist/39TZ1gFaBL6VCk8yQ6sGPy"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Sou Daquela Rua",
-      "url": "https://open.spotify.com/track/5AzTpNsV2Lja9CUC6q7d1y"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Serei Algu\u00e9m",
-        "url": "https://open.spotify.com/album/61WHRE53kG43xcTjRwYNRH"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e1udia Pascoal",
-          "url": "https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ"
-        },
-        {
-          "name": "Cl\u00e1udinhas",
-          "url": "https://open.spotify.com/artist/7Lnc28YAy6LZWDOuaPGywo"
-        }
-      ],
-      "duration_ms": 190540,
-      "name": "Serei Algu\u00e9m",
-      "url": "https://open.spotify.com/track/1o6BRR3sBSAwFXe0PX6bbD"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "N\u00e3o Quero Ser Chiclete",
-        "url": "https://open.spotify.com/album/44ZzEUOaOAhqY5YnAqXUlf"
-      },
-      "artists": [
-        {
-          "name": "Tanya",
-          "url": "https://open.spotify.com/artist/7qI3exZT75Xgr4uTGmEIaT"
-        }
-      ],
-      "duration_ms": 214392,
-      "name": "N\u00e3o Quero Ser Chiclete",
-      "url": "https://open.spotify.com/track/0A45YHOHjBUdGxUPOp4U0V"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Tem o Teu Nome",
-        "url": "https://open.spotify.com/album/5znat6RYcLP3yPEkQ0MLxe"
-      },
-      "artists": [
-        {
-          "name": "Carolina Cardetas",
-          "url": "https://open.spotify.com/artist/2b8cXmYwRjGxE2snPkSFRI"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Tem o Teu Nome",
-      "url": "https://open.spotify.com/track/7ro5MGsbFGJ5NKMAv8HH7S"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Dias de Chuva",
-        "url": "https://open.spotify.com/album/1S06zd5hrGe5ePMQXkqWzY"
-      },
-      "artists": [
-        {
-          "name": "Josy Feij\u00f3",
-          "url": "https://open.spotify.com/artist/6etUj9gUt2bSideMcGmrHf"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Dias de Chuva",
-      "url": "https://open.spotify.com/track/36RHIygu2nWfnNRqVCOblK"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Chora por Mim",
-        "url": "https://open.spotify.com/album/5vPgEuCnIpm6l19h5JIuLk"
-      },
-      "artists": [
-        {
-          "name": "Sara Megre",
-          "url": "https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd"
-        }
-      ],
-      "duration_ms": 160571,
-      "name": "Chora por Mim",
-      "url": "https://open.spotify.com/track/3BvhfmeTSPTEGBJBV8YYlj"
-    },
-    {
-      "added_at": "2026-10-07 23:00:24",
-      "album": {
-        "name": "Teki Manxi",
-        "url": "https://open.spotify.com/album/5dvv0BjEIwIQsMV1LJ1KY7"
-      },
-      "artists": [
-        {
-          "name": "Soraia Tavares",
-          "url": "https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX"
-        }
-      ],
-      "duration_ms": 179947,
-      "name": "Teki Manxi",
-      "url": "https://open.spotify.com/track/67SV6io2WSB0cDUq5QQaQE"
     }
   ],
   "unique_name": "EQUAL Portugal",

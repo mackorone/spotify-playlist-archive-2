@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: MADATORRICELLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,148 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,151 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [STIU CA TI\-E DOR](https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9) | [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn), [21SIIEMPRE](https://open.spotify.com/artist/5EgunYI2GFYRdYCIJc77ky), [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR) | [STIU CA TI\-E DOR](https://open.spotify.com/album/7pheGPrr4n6NfTPbb2sqij) | 3:34 |
 | 50 | [CUM ESTI TU](https://open.spotify.com/track/4P3HhqX7YTeenh0BywMsPR) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [CUM ESTI TU](https://open.spotify.com/album/30KRfz9Ga7IjTyYaotuSPD) | 2:45 |
 
-Snapshot ID: `AAAAALfe3GiLcEuGS3SKUJDLQ9sqlGJ1`
+Snapshot ID: `AAAAAHOWsGodMhi9JwfkT+DVMKkteQrq`

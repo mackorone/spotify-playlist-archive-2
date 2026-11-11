@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Philipayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,008 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,063 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 41 | [Twrk](https://open.spotify.com/track/0nPdR6zPzCRRBP0ukdkGhE) | [Abescar](https://open.spotify.com/artist/4JFeKwBBztZykDsadklAG3) | [Twrk](https://open.spotify.com/album/37YPZxhP727SSQkGt0r1WV) | 3:03 |
 | 42 | [L’ARGENT](https://open.spotify.com/track/1lbrQ8GuhynjZED2KDVYdI) | [ADB](https://open.spotify.com/artist/3rNdf6wK0vycXyi6Di7VOL), [GNTIK](https://open.spotify.com/artist/59AFRvLNNA4rLsQXUWIELR) | [L’ARGENT](https://open.spotify.com/album/4xB91cUo68K5ceekd14WmR) | 2:25 |
 | 43 | [ON BOIT OÙ ?](https://open.spotify.com/track/3uJTAuNtIWQ5QgZe1YWjRo) | [Le Niapo](https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ) | [ON BOIT OÙ ?](https://open.spotify.com/album/70Lrll8DYhC1gAPjDygT4a) | 2:29 |
-| 44 | [freestyle baddies 1: Jeep rose bonbon](https://open.spotify.com/track/5Jd0oYxwk9CMI9JqP45qfo) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [freestyle baddies 1: Jeep rose bonbon](https://open.spotify.com/album/39oG1zta6zE6rU4zNgLidM) | 1:45 |
-| 45 | [Alpha Oumar\(Intro\)](https://open.spotify.com/track/5ChcxliGjAuq8g2OJyhB8T) | [CTD Diamant Noir](https://open.spotify.com/artist/4DZdDL5fGiw2bKTBMEX8p9) | [Alpha Oumar\(Intro\)](https://open.spotify.com/album/51y0VNRlSYCY3S9fuBVEz9) | 2:50 |
-| 46 | [Daande Jamaa](https://open.spotify.com/track/2JFrZJfAHatl0RMM3WtIZG) | [Straiker](https://open.spotify.com/artist/4omH2riu3dPufwxEOitxfG) | [Daande Jamaa](https://open.spotify.com/album/56kpY7BUNvFezjbXemcn83) | 2:24 |
-| 47 | [KISHTA](https://open.spotify.com/track/6E6ULS4tWnXq85yp2FPZ8t) | [MARVIN'S](https://open.spotify.com/artist/0CKwShB6jHlyyjkLE9lGFd), [NOHA BEATS](https://open.spotify.com/artist/2tr5pvikdMtgRPuaW5nofm) | [KISHTA](https://open.spotify.com/album/2PhpiU88B0zlKm0yu3vnoI) | 2:57 |
-| 48 | [EN KINKONZ](https://open.spotify.com/track/33HaTeHq3KBS1P3JPUAcAT) | [La Diktatur](https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF), [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP) | [EN KINKONZ](https://open.spotify.com/album/76m7lcRV6XEDS1oshLvFCS) | 2:43 |
-| 49 | [DJAKOUTA](https://open.spotify.com/track/2AltaNAwyzcctgCMn8Vqth) | [Skizzo](https://open.spotify.com/artist/7LUDXjoc4vNLFzNSES0Kcm) | [DJAKOUTA](https://open.spotify.com/album/3JYhYoY6yk9pyxVNTGvNrF) | 3:08 |
-| 50 | [ZÔRÔPÔTÔ 2.0](https://open.spotify.com/track/4OurdIIY6G3mU4kMr7nH7O) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [ANGE MOR€L](https://open.spotify.com/artist/797o7wsbradDDilMW0YEX2) | [ZÔRÔPÔTÔ 2.0](https://open.spotify.com/album/5MF9Nakovh9cecACofwCyj) | 2:42 |
+| 44 | [Alpha Oumar\(Intro\)](https://open.spotify.com/track/5ChcxliGjAuq8g2OJyhB8T) | [CTD Diamant Noir](https://open.spotify.com/artist/4DZdDL5fGiw2bKTBMEX8p9) | [Alpha Oumar\(Intro\)](https://open.spotify.com/album/51y0VNRlSYCY3S9fuBVEz9) | 2:50 |
+| 45 | [Daande Jamaa](https://open.spotify.com/track/2JFrZJfAHatl0RMM3WtIZG) | [Straiker](https://open.spotify.com/artist/4omH2riu3dPufwxEOitxfG) | [Daande Jamaa](https://open.spotify.com/album/56kpY7BUNvFezjbXemcn83) | 2:24 |
+| 46 | [KISHTA](https://open.spotify.com/track/6E6ULS4tWnXq85yp2FPZ8t) | [MARVIN'S](https://open.spotify.com/artist/0CKwShB6jHlyyjkLE9lGFd), [NOHA BEATS](https://open.spotify.com/artist/2tr5pvikdMtgRPuaW5nofm) | [KISHTA](https://open.spotify.com/album/2PhpiU88B0zlKm0yu3vnoI) | 2:57 |
+| 47 | [EN KINKONZ](https://open.spotify.com/track/33HaTeHq3KBS1P3JPUAcAT) | [La Diktatur](https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF), [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP) | [EN KINKONZ](https://open.spotify.com/album/76m7lcRV6XEDS1oshLvFCS) | 2:43 |
+| 48 | [DJAKOUTA](https://open.spotify.com/track/2AltaNAwyzcctgCMn8Vqth) | [Skizzo](https://open.spotify.com/artist/7LUDXjoc4vNLFzNSES0Kcm) | [DJAKOUTA](https://open.spotify.com/album/3JYhYoY6yk9pyxVNTGvNrF) | 3:08 |
+| 49 | [ZÔRÔPÔTÔ 2.0](https://open.spotify.com/track/4OurdIIY6G3mU4kMr7nH7O) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [ANGE MOR€L](https://open.spotify.com/artist/797o7wsbradDDilMW0YEX2) | [ZÔRÔPÔTÔ 2.0](https://open.spotify.com/album/5MF9Nakovh9cecACofwCyj) | 2:42 |
 
-Snapshot ID: `AAAAACiRWwAZ4eb3Tg3EoFhf3WKW/9JP`
+Snapshot ID: `AAAAAGllOf86RGmMPUgvG5fhocvgeTAM`

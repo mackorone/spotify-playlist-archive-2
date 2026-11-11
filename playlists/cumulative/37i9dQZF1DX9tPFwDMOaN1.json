@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "S.W.I.S.H.",
+        "url": "https://open.spotify.com/album/0ulLmM5roN7ywJVZblQasC"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165948,
+      "name": "Bananas",
+      "url": "https://open.spotify.com/track/31Gndi8mnwk7l2iVp2B82c"
+    },
+    {
+      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
       },
@@ -1934,6 +1952,24 @@
       "duration_ms": 212901,
       "name": "BONA BONA",
       "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
+    },
+    {
+      "album": {
+        "name": "DREAM AFTER DREAM",
+        "url": "https://open.spotify.com/album/4ZOny2sfAeGeHixBa8UXcw"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/25aPAxdjuY65ndMA0Q4O8X"
     },
     {
       "album": {
@@ -7838,7 +7874,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 124896,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
@@ -15342,7 +15378,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 170560,
       "name": "TALK",
       "url": "https://open.spotify.com/track/7JcBMmZu2brnM7M9PZmwYL"

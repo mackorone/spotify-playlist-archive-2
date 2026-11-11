@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Dhurandhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,755 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,390 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [QEHER \(From "Dhamaal 4"\)](https://open.spotify.com/track/7myz4NUL4qKaUI01IlkDie) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [QEHER \(From "Dhamaal 4"\)](https://open.spotify.com/album/1nmcqijhSZQvN2L8AwCAtb) | 2:35 |
 | 75 | [Jhoome Jo Pathaan](https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 3:28 |
 
-Snapshot ID: `AAAAAJ5bSs7ad5w4Kt2KzjE3J4LTXQdo`
+Snapshot ID: `AAAAADdrg3MOj+H5FP5SLHZ1LBjgL9L/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Ivory \(IT\) & Auggië
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,852 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,953 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Ashiko](https://open.spotify.com/track/5qkLwiZ6bmert9ik4qJr7c) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Ashiko](https://open.spotify.com/album/6crGQmkmsekQKHc49lUn8d) | 4:00 |
 | 100 | [Sun My Sweet Sun \- Love Version](https://open.spotify.com/track/18tRRaLHF6Y0b1yb6rJNET) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Sun My Sweet Sun \(Love Version\)](https://open.spotify.com/album/5Y7gnEmaXsOH3mDUZCkyt0) | 5:31 |
 
-Snapshot ID: `AAAAAMrgSTT02xywPqLhVp7/Ql7b2q8e`
+Snapshot ID: `AAAAAGG932HyBD1O4fufY0zV86dz4kAz`

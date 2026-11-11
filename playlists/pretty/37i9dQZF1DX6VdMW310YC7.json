@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4013647,
+  "num_followers": 4013487,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDO5pamIf9IBwM+ODBC5rutcgFv",
+  "snapshot_id": "AAAAAJj9B9sHJxnIki617KlB5xs/LKGl",
   "tracks": [
     {
       "added_at": "2026-10-30 04:00:29",
@@ -419,18 +419,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+        "name": "Childish",
+        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
       "artists": [
         {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
+      "duration_ms": 254516,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1KCMF9fdF7sNE74R2V46af"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -451,22 +455,18 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Childish",
-        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
         }
       ],
-      "duration_ms": 254516,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1KCMF9fdF7sNE74R2V46af"
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -695,22 +695,18 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Centuries",
-        "url": "https://open.spotify.com/album/5a43tQK1iJegXaXKz3QdB6"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
       },
       "artists": [
         {
           "name": "Sultan + Shepard",
           "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Prinze George",
-          "url": "https://open.spotify.com/artist/3o6TKTQIu0lCYcNtSO3i1G"
         }
       ],
-      "duration_ms": 287880,
-      "name": "Centuries",
-      "url": "https://open.spotify.com/track/0nRku7luPk4xnS1SU3S0am"
+      "duration_ms": 316097,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -791,34 +787,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
+        "name": "Centuries",
+        "url": "https://open.spotify.com/album/5a43tQK1iJegXaXKz3QdB6"
       },
       "artists": [
         {
           "name": "Sultan + Shepard",
           "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
-      },
-      "artists": [
+        },
         {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+          "name": "Prinze George",
+          "url": "https://open.spotify.com/artist/3o6TKTQIu0lCYcNtSO3i1G"
         }
       ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+      "duration_ms": 287880,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/0nRku7luPk4xnS1SU3S0am"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -839,6 +823,22 @@
       "duration_ms": 231024,
       "name": "Change of Driver",
       "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Feel This Way",
-        "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
-      },
-      "artists": [
-        {
-          "name": "MOTSA",
-          "url": "https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP"
-        },
-        {
-          "name": "Jody Wisternoff",
-          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
-        },
-        {
-          "name": "James Grant",
-          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
-        }
-      ],
-      "duration_ms": 237931,
-      "name": "Feel This Way",
-      "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
@@ -1199,6 +1175,30 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
+      },
+      "artists": [
+        {
+          "name": "MOTSA",
+          "url": "https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP"
+        },
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "duration_ms": 237931,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "A Part of Us",
+        "url": "https://open.spotify.com/album/0NlBCUU1q2mhrbgIWcGbB1"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 311959,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6LQzoNQYyBW1snrXOo0JCD"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "I Cared For You",
         "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 270476,
       "name": "I Cared For You",
       "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "A Part of Us",
-        "url": "https://open.spotify.com/album/0NlBCUU1q2mhrbgIWcGbB1"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 311959,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/6LQzoNQYyBW1snrXOo0JCD"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "Hiding / Shallow Water",
+        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Claxy",
+          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
+        }
+      ],
+      "duration_ms": 232130,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Hiding / Shallow Water",
-        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
-      },
-      "artists": [
-        {
-          "name": "Steven Weston",
-          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
-        },
-        {
-          "name": "Claxy",
-          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
-        }
-      ],
-      "duration_ms": 232130,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Somewhere In Between",
-        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "All Is Right",
         "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 212903,
       "name": "Sewn",
       "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Sonia Ammar",
-          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL"
       },
@@ -1819,22 +1799,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Just Noise Pt. II",
-        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
       },
       "artists": [
         {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         },
         {
-          "name": "Ae:ther",
-          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+          "name": "Sonia Ammar",
+          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
         }
       ],
-      "duration_ms": 266189,
-      "name": "Pangea",
-      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
+      "duration_ms": 219923,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1855,6 +1835,26 @@
       "duration_ms": 251100,
       "name": "With You",
       "url": "https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Just Noise Pt. II",
+        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        },
+        {
+          "name": "Ae:ther",
+          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+        }
+      ],
+      "duration_ms": 266189,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
     },
     {
       "added_at": "2026-10-30 04:00:29",

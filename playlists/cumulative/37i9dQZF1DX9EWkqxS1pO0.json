@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Alt\u0131 \u00c7\u00fcr\u00fck",
+        "url": "https://open.spotify.com/album/7C9o6nWmyJDpAHqtM5YRP4"
+      },
+      "artists": [
+        {
+          "name": "D\u00dcNYADA B\u0130R YER",
+          "url": "https://open.spotify.com/artist/4W6ickpNp3C00jyvOTSy6R"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255516,
+      "name": "Alt\u0131 \u00c7\u00fcr\u00fck",
+      "url": "https://open.spotify.com/track/6PERhMUasBoesr7xgFpH3b"
+    },
+    {
+      "album": {
         "name": "Al\u0131\u015famad\u0131m Yoklu\u011funa",
         "url": "https://open.spotify.com/album/0ttwaSqJ4v4qVDUsHkyeQX"
       },
@@ -3087,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "0 KM",
+        "url": "https://open.spotify.com/album/78TcPKacTKqkER31SBEbEY"
+      },
+      "artists": [
+        {
+          "name": "ASLY",
+          "url": "https://open.spotify.com/artist/3HaMbD4rPkq9vnP77FOOKb"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ger\u00e7ekten",
+      "url": "https://open.spotify.com/track/6RR1l0wHJ5fgQKlD29Rdq1"
+    },
+    {
+      "album": {
         "name": "GE\u00c7ER D\u0130YE BEKLED\u0130M",
         "url": "https://open.spotify.com/album/0uEergbwCrhtiOioUa3FHv"
       },
@@ -3332,7 +3368,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 173382,
       "name": "G\u00fcn Batarken",
       "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"
@@ -5622,7 +5658,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 212538,
       "name": "Seni Unutamad\u0131m",
       "url": "https://open.spotify.com/track/2TSihn4foVahsS8Uau6876"
@@ -6524,6 +6560,24 @@
       "duration_ms": 178760,
       "name": "Tut Bi Matem",
       "url": "https://open.spotify.com/track/2Hvz5etcEwMKOwIWBkAuWs"
+    },
+    {
+      "album": {
+        "name": "Tuzak",
+        "url": "https://open.spotify.com/album/2oI7KegpLv1iWuwm0leddL"
+      },
+      "artists": [
+        {
+          "name": "KINDER",
+          "url": "https://open.spotify.com/artist/3QXCxT7diCTwLa7Lqy7Oik"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230387,
+      "name": "Tuzak",
+      "url": "https://open.spotify.com/track/4DtnCAHmLkAvZDaVE6Qx2q"
     },
     {
       "album": {
@@ -7680,7 +7734,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 182250,
       "name": "Yine Seni \u00d6zledim",
       "url": "https://open.spotify.com/track/4TeTaeB68MJFKE0SXSlsBj"

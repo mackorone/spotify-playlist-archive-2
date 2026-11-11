@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVvQSbOw+3jP6+sUvXbG/qtN0Bd",
+  "snapshot_id": "AAAAADO+HCjXygtsVE4jPgx13AWiXFAB",
   "tracks": [
     {
       "added_at": "2026-10-15 14:15:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "FLIGHT",
         "url": "https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 167106,
       "name": "FLIGHT",
       "url": "https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "nokdu ep vol.1",
-        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
-      },
-      "artists": [
-        {
-          "name": "nokdu",
-          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "A Night Like This",
-      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Playlist #You Are You",
         "url": "https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 209013,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/5PUXJEyoun8vgcfS0wrWzW"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
+      },
+      "artists": [
+        {
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -691,6 +691,22 @@
       "duration_ms": 177831,
       "name": "No more dancing in the moonlight",
       "url": "https://open.spotify.com/track/1325GX7fRoExaiZnSRDOiC"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
+      },
+      "artists": [
+        {
+          "name": "CHAERYEONG",
+          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -783,22 +799,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
-      },
-      "artists": [
-        {
-          "name": "CHAERYEONG",
-          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
-      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "The 3rd Mini Album 'VarioUS'",
         "url": "https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Day 2",
-        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 219240,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "\u2018The ReVe Festival\u2019 Day 2",
+        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Ladies Night",
+      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.03",
-        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "It's Beautiful",
-      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Onstage Digging Club Seoul Part.03",
+        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "It's Beautiful",
+      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 256493,
       "name": "Missing Call (Feat. SURAN)",
       "url": "https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "It`s Been A While (Maxim City Summer Life c.f)",
-      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "TALK",
         "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 203927,
       "name": "TALK",
       "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "It`s Been A While (Maxim City Summer Life c.f)",
+      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
     },
     {
       "added_at": "2026-10-15 14:15:17",

@@ -1,12 +1,12 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 9111,
+  "num_followers": 9159,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4vdnLricrTjeEwt+Kypj3RhrPG",
+  "snapshot_id": "AAAAAG3GuS8DtxCFY3OQ/rw30M1Re53J",
   "tracks": [
     {
       "added_at": "2026-11-06 05:01:25",
@@ -267,38 +267,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "A Dotted Line",
-        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 262786,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 131746,
-      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "A Clay Street Country Christmas",
         "url": "https://open.spotify.com/album/6pejhIzadTgu2BFkF7ncza"
       },
@@ -315,6 +283,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "A Dotted Line",
+        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 262786,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "More Than Christmas",
         "url": "https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 213693,
       "name": "More Than Christmas",
       "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 131746,
+      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "Every Day Will Be Like A Holiday",
+        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Every Day Will Be Like A Holiday",
+      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "SOCKS",
         "url": "https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Every Day Will Be Like A Holiday",
-        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
+        "name": "Merry Christmas Y'all",
+        "url": "https://open.spotify.com/album/2ytD9ryKkaaoV1QpEinoyh"
       },
       "artists": [
         {
-          "name": "The Band Loula",
-          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
         }
       ],
-      "duration_ms": 200266,
-      "name": "Every Day Will Be Like A Holiday",
-      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
+      "duration_ms": 191784,
+      "name": "Corpus Christi Christmas",
+      "url": "https://open.spotify.com/track/1eRecE0pftdJtIoBpcK3gD"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -431,22 +447,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Merry Christmas Y'all",
-        "url": "https://open.spotify.com/album/2ytD9ryKkaaoV1QpEinoyh"
-      },
-      "artists": [
-        {
-          "name": "Presley Haile",
-          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
-        }
-      ],
-      "duration_ms": 191784,
-      "name": "Corpus Christi Christmas",
-      "url": "https://open.spotify.com/track/1eRecE0pftdJtIoBpcK3gD"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "To: Kate - A Benefit for Kate's Sake",
         "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
       },
@@ -495,38 +479,6 @@
       "duration_ms": 225053,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Light of the Stable (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "The First Noel - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 137853,
-      "name": "Oh Holy Night",
-      "url": "https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -551,6 +503,54 @@
       "duration_ms": 191959,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Light of the Stable (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "The First Noel - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 137853,
+      "name": "Oh Holy Night",
+      "url": "https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk"
-      },
-      "artists": [
-        {
-          "name": "Todd Snider",
-          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Christmas Time's A-Comin'",
-        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
-      },
-      "artists": [
-        {
-          "name": "Jerry Garcia Acoustic Band",
-          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Christmas Time's A-Comin' - Live",
-      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "Let It Snow",
         "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
       },
@@ -671,18 +639,34 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk"
       },
       "artists": [
         {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+          "name": "Todd Snider",
+          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
         }
       ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
+      "duration_ms": 232840,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Christmas Time's A-Comin'",
+        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Christmas Time's A-Comin' - Live",
+      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -715,6 +699,22 @@
       "duration_ms": 194960,
       "name": "One Bright Star",
       "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2026-11-06 05:01:25",

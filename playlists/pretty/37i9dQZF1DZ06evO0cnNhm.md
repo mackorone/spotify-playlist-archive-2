@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 
 > This is Dario Marianelli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,103 likes - 33 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,104 likes - 32 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,6 +40,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 | 30 | [Farewell](https://open.spotify.com/track/2vlafA2ljFvjZmBkn4VYac) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 3:32 |
 | 31 | [Setting Off From Kathmandu](https://open.spotify.com/track/7xlkdd1ZV7q8eEhc46dE2X) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:16 |
 | 32 | [Ancestors](https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Kubo and the Two Strings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0) | 2:07 |
-| 33 | [Curtain](https://open.spotify.com/track/0slUosFqoMpI7ZAA8SafHB) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Anna Karenina \(Original Music From The Motion Picture\)](https://open.spotify.com/album/3Cfjb8PWFgaQsqzM2MFvB5) | 1:53 |
 
-Snapshot ID: `au+7gAAAAABVP/1sDIJvH0JLGmKlqN3R`
+Snapshot ID: `avENAAAAAAAYkqAU0tGaGNBXYnXg39Iq`

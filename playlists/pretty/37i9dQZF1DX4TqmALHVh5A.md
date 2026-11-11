@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: Zed Yun Pavarotti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,839 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,842 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Pop Song](https://open.spotify.com/track/7qBHFgVyYJl3bARSplq4Hl) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Pop Song](https://open.spotify.com/album/64sj6X7CIIqpN9w89vlkRX) | 3:27 |
 | 50 | [Ensemble](https://open.spotify.com/track/3LysS5jMJjCEpGuxQeP5X7) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Naïf](https://open.spotify.com/album/5q5Z6W7IIEp4EHp34nL4Qf) | 3:14 |
 
-Snapshot ID: `AAAAACUt5Kw4D835ezhn6htev2xTauMW`
+Snapshot ID: `AAAAADJd3CYcI2kgXOFPq9MJoJMd/Nv9`

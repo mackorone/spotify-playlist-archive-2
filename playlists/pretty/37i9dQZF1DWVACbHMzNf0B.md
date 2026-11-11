@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Valdo Rodriguez en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,921 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,906 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [Niña Mafia](https://open.spotify.com/track/1Hbh9u1DbUm2RpcTqy3ELJ) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [No Hay Ángeles Aquí](https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i) | 3:39 |
 | 75 | [FOTITOS POLARIZADAS](https://open.spotify.com/track/3P2tkO3FizR7pZa5KWTedf) | [Luno](https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [FOTITOS POLARIZADAS](https://open.spotify.com/album/3P6qlAgw1D7RliVQq8YkIN) | 2:58 |
 
-Snapshot ID: `AAAAAI6cUlGPcXOYDbzlvedN4+iuFAbr`
+Snapshot ID: `AAAAAMhoFpzWZtTXIxpUuDJiNAeNShU0`

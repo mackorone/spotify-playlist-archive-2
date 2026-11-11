@@ -1,12 +1,12 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118400,
+  "num_followers": 118402,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANP6NzkqD2EU2daOT5Gh5jzutUVe",
+  "snapshot_id": "AAAAAJrktGlSqkqPNjWqklZTUxfOhdRr",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:53",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-11-05 23:00:53",
       "album": {
+        "name": "Promiski\u00f8s (PM)",
+        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Promiski\u00f8s (PM)",
+      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
         "name": "Sommernatta",
         "url": "https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 157173,
       "name": "Sommernatta",
       "url": "https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
-        "name": "Promiski\u00f8s (PM)",
-        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Promiski\u00f8s (PM)",
-      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
     },
     {
       "added_at": "2026-11-05 23:00:53",
@@ -735,6 +735,22 @@
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
+        "name": "Banens beste p\u00e5 bar",
+        "url": "https://open.spotify.com/album/2uJchvbZlmKU8e51AUImfM"
+      },
+      "artists": [
+        {
+          "name": "Sebb Ottesen",
+          "url": "https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ"
+        }
+      ],
+      "duration_ms": 203254,
+      "name": "Banens beste p\u00e5 bar (Fast inventar)",
+      "url": "https://open.spotify.com/track/472VPrN6RadFuQhuYHC0zW"
     },
     {
       "added_at": "2026-11-05 23:00:53",
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-11-05 23:00:53",
       "album": {
-        "name": "Banens beste p\u00e5 bar",
-        "url": "https://open.spotify.com/album/2uJchvbZlmKU8e51AUImfM"
-      },
-      "artists": [
-        {
-          "name": "Sebb Ottesen",
-          "url": "https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ"
-        }
-      ],
-      "duration_ms": 203254,
-      "name": "Banens beste p\u00e5 bar (Fast inventar)",
-      "url": "https://open.spotify.com/track/472VPrN6RadFuQhuYHC0zW"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
         "name": "Sl\u00e5ss f\u00f6r dig",
         "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 141750,
       "name": "St\u00f8gg melodi",
       "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
     },
     {
       "added_at": "2026-11-05 23:00:53",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-11-05 23:00:53",
       "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
         "name": "Hjem med dej",
         "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
       },
@@ -1039,94 +1039,6 @@
       "duration_ms": 187832,
       "name": "Hjem med dej",
       "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
-        "name": "Rypejakt",
-        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        },
-        {
-          "name": "Tomgang",
-          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
-        }
-      ],
-      "duration_ms": 149651,
-      "name": "Rypejakt",
-      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
       "added_at": "2026-11-05 23:00:53",
@@ -1151,6 +1063,94 @@
     {
       "added_at": "2026-11-05 23:00:53",
       "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
+        "name": "Der Jeg H\u00f8rer Te (Bygda)",
+        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Der Jeg H\u00f8rer Te (Bygda)",
+      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
+        "name": "Rypejakt",
+        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "Tomgang",
+          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
+        }
+      ],
+      "duration_ms": 149651,
+      "name": "Rypejakt",
+      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-11-05 23:00:53",
       "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
-    },
-    {
-      "added_at": "2026-11-05 23:00:53",
-      "album": {
         "name": "Russisk rulett",
         "url": "https://open.spotify.com/album/59LboU3tFZyD8ABPRlNn9K"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 194624,
       "name": "Russisk rulett",
       "url": "https://open.spotify.com/track/3kXzU4aXWSoBMQar1Qgzjs"
+    },
+    {
+      "added_at": "2026-11-05 23:00:53",
+      "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2026-11-05 23:00:53",
@@ -1243,26 +1243,18 @@
     {
       "added_at": "2026-11-05 23:00:53",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+      "duration_ms": 170526,
+      "name": "N\u00e5 er det freda'n igjen",
+      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

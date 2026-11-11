@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,324 likes - 588 songs - 1 day 5 hr 11 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,323 likes - 589 songs - 1 day 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -596,5 +596,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 586 | [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 |
 | 587 | [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/track/16oMZrqeEEEEmsyTEjTqfe) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/album/5ZCN8F3DPxvplmfVJmpwuL) | 2:25 |
 | 588 | [Play Crack The Sky](https://open.spotify.com/track/1IzfZHQaAD3WRmy2E5uM60) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Play Crack The Sky](https://open.spotify.com/album/44vu7kx1XYz4gazJPzC8pZ) | 4:34 |
+| 589 | [Harpy Hare](https://open.spotify.com/track/6pWlv50Lthad8jyd6f1TlC) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/5YtN8x4Q8H7zEFroBn9yq0) | 3:00 |
 
-Snapshot ID: `AAACJJdxzhNT3l0Z/l+i5cCvn220PKjU`
+Snapshot ID: `AAACJ/qfaFntfkiBUH1KK1jSgne8bQqy`

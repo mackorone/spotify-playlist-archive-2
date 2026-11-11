@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,765 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,777 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 13 | [Give Me Just A Little More Time](https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj) | [Chairmen Of The Board](https://open.spotify.com/artist/69g2TelswPN1IiFDKvaoSL) | [Soul Agenda](https://open.spotify.com/album/3bsK8mvliXMvVPPiMgeIYq) | 2:40 |
 | 14 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 |
 | 15 | [Hold Back the Night](https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 3:44 |
-| 16 | [Sliced Tomatoes](https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB) | [Just Brothers](https://open.spotify.com/artist/5qTJU3YBzlGmOSrSHL4EVK) | [Sliced Tomatoes \- EP](https://open.spotify.com/album/0mzfKEd3lpMnI9Y3I0Os5m) | 2:22 |
-| 17 | [Love Won't Let Me Wait \- 45 Version](https://open.spotify.com/track/0hGlEv05CFThJmE2vmzNUu) | [Major Harris](https://open.spotify.com/artist/0mpVqJaKwg11LdSRrvI0PL) | [Love Won't Let Me Wait / After Loving You \[Digital 45\]](https://open.spotify.com/album/5MiR3vvUm7uWdXycjIryGb) | 3:47 |
+| 16 | [Love Won't Let Me Wait \- 45 Version](https://open.spotify.com/track/0hGlEv05CFThJmE2vmzNUu) | [Major Harris](https://open.spotify.com/artist/0mpVqJaKwg11LdSRrvI0PL) | [Love Won't Let Me Wait / After Loving You \[Digital 45\]](https://open.spotify.com/album/5MiR3vvUm7uWdXycjIryGb) | 3:47 |
+| 17 | [Sliced Tomatoes](https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB) | [Just Brothers](https://open.spotify.com/artist/5qTJU3YBzlGmOSrSHL4EVK) | [Sliced Tomatoes \- EP](https://open.spotify.com/album/0mzfKEd3lpMnI9Y3I0Os5m) | 2:22 |
 | 18 | [Who Do You Love](https://open.spotify.com/track/6kR2BCzArduYNuJdtezM8L) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:39 |
 | 19 | [There's A Ghost In My House](https://open.spotify.com/track/4T20N2FPwrROVhJBb9n7rD) | [R\. Dean Taylor](https://open.spotify.com/artist/4Yg38CnYMoN09sMLf6KDdW) | [The Essential Collection](https://open.spotify.com/album/0tYlV4snWLH4rWQkX1p8nq) | 2:13 |
 | 20 | [Seven Days Too Long \- Mono](https://open.spotify.com/track/1WfHZKUkTwKQ57ukwd21PA) | [Chuck Wood](https://open.spotify.com/artist/7ot74oYptdmYydjyDmcLzg) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:21 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 34 | [I Got A Feeling \- Single Version](https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo) | [Barbara Randolph](https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM) | [Big Hits & Hard To Find Classics](https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD) | 3:01 |
 | 35 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
 | 36 | [You're Ready Now](https://open.spotify.com/track/7lk6vvcetCT6RcTndNpKj8) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 2:18 |
-| 37 | [Right Track \- Single Version](https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:25 |
-| 38 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
+| 37 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
+| 38 | [Right Track \- Single Version](https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:25 |
 | 39 | [Time Will Pass You By](https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L) | [Tobi Legend](https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 3:05 |
 | 40 | [Moonlight Music and You](https://open.spotify.com/track/162C3OWfP2OKiE4CqcLQdy) | [Laura Greene](https://open.spotify.com/artist/1b0erhYz7WbxMOCbyQJYwb) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:30 |
 | 41 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 88 | [Just Say You're Wanted And Needed](https://open.spotify.com/track/6lYPe6tQFzIZ3P5TeOpiet) | [Gwen Owens](https://open.spotify.com/artist/4fUOCXYxfIUnhJ82T3Iw4N) | [The Stars Of Northern Soul Volume 3](https://open.spotify.com/album/3RkPb0R6HpKjIPuMm8tVuk) | 2:54 |
 | 89 | [Ain't That Terrible](https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT) | [Roy Redmond](https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY) | [Northern Soul 45's](https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9) | 2:32 |
 | 90 | [I Got The Fever](https://open.spotify.com/track/6MAV3IXWc2cRbgzhgQomUw) | [Prophets](https://open.spotify.com/artist/2eSddWmVzjlAKbK7EBrfRq) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:52 |
-| 91 | [You've Got Your Mind On Other Things](https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10) | [Beverly Ann](https://open.spotify.com/artist/0vR6zDg8i1J85fNUYV1fiw) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:17 |
-| 92 | [Love Is After Me](https://open.spotify.com/track/2Tt1yaGexvMmavbTEpuPDk) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [I'll Shed No Tears](https://open.spotify.com/album/1MLNYdex6LuKBWOfVDP6u5) | 2:26 |
+| 91 | [Love Is After Me](https://open.spotify.com/track/2Tt1yaGexvMmavbTEpuPDk) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [I'll Shed No Tears](https://open.spotify.com/album/1MLNYdex6LuKBWOfVDP6u5) | 2:26 |
+| 92 | [You've Got Your Mind On Other Things](https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10) | [Beverly Ann](https://open.spotify.com/artist/0vR6zDg8i1J85fNUYV1fiw) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:17 |
 | 93 | [Love Runs Out](https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW) | [Willie Hutch](https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD) | [Soul Satisfaction](https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe) | 2:39 |
 | 94 | [Change Your Ways](https://open.spotify.com/track/20hJJEwKs22FGHa41NwDO1) | [Willie Kendrick](https://open.spotify.com/artist/70Pp3qLS73T2JAaUAr7RQ4) | [The Northern Soul Story Vol.2: The Golden Torch](https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM) | 2:24 |
 | 95 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 99 | [This Heart of Mine](https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs) | [The Artistics](https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x) | [Northern Soul: Keep the Faith!](https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ) | 2:29 |
 | 100 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
 
-Snapshot ID: `AAAAALnZzcqXZKp0LmA/+eoa+SgaJOKX`
+Snapshot ID: `AAAAAL2NP2VPi784xroOMtTBAJBvlo9T`

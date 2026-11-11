@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 67314,
+  "num_followers": 67321,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+1V3J5h1fNgDkdDBpA0SjIWwzk",
+  "snapshot_id": "AAAAAFQsQK3v30N20ngCf4BTyDKdyCol",
   "tracks": [
     {
       "added_at": "2026-09-03 15:43:24",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
-        }
-      ],
-      "duration_ms": 99333,
-      "name": "Laguna Totora",
-      "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 197283,
       "name": "Enero",
       "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "duration_ms": 99333,
+      "name": "Laguna Totora",
+      "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Festejando los 30 A\u00f1os",
         "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 142320,
       "name": "Sargento Sapo",
       "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "El Jefe",
-        "url": "https://open.spotify.com/album/1TSHkknEf5oMyvK6ohBNhI"
-      },
-      "artists": [
-        {
-          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
-          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
-        }
-      ],
-      "duration_ms": 180175,
-      "name": "El Jefe",
-      "url": "https://open.spotify.com/track/3wRTfnN1YDgha1hbjyKYNP"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Taipero Poriahu",
         "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 189293,
       "name": "Taipero Poriahu",
       "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/1TSHkknEf5oMyvK6ohBNhI"
+      },
+      "artists": [
+        {
+          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
+          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
+        }
+      ],
+      "duration_ms": 180175,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/3wRTfnN1YDgha1hbjyKYNP"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Su Poes\u00eda y Su Voz, Vol. 2",
-        "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Jensen",
-          "url": "https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "De P\u00e1jaros y Campanas",
-      "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 175613,
       "name": "La Calandria",
       "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Su Poes\u00eda y Su Voz, Vol. 2",
+        "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Jensen",
+          "url": "https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "De P\u00e1jaros y Campanas",
+      "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "P\u00e1jaro Chog\u00fc\u00ed",
-        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Dominguez",
-          "url": "https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo"
-        },
-        {
-          "name": "Raul Barboza",
-          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "P\u00e1jaro Chog\u00fc\u00ed",
-      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "P\u00e1jaro Chog\u00fc\u00ed",
+        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Dominguez",
+          "url": "https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo"
+        },
+        {
+          "name": "Raul Barboza",
+          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "P\u00e1jaro Chog\u00fc\u00ed",
+      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Mill\u00e1n Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Chamame - Los 100 mejores temas - Vol 4",
         "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
       },
@@ -1164,13 +1148,13 @@
       },
       "artists": [
         {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+          "name": "Mario Mill\u00e1n Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
         }
       ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1180,13 +1164,13 @@
       },
       "artists": [
         {
-          "name": "Paquito Aranda",
-          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 170893,
-      "name": "A villa Guillermina",
-      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1203,6 +1187,22 @@
       "duration_ms": 145280,
       "name": "Pasion oculta",
       "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Paquito Aranda",
+          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "A villa Guillermina",
+      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 154893,
       "name": "Nostalgias Camperas",
       "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 148733,
       "name": "Temple guarani",
       "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Con Los Grandes",
-        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 129693,
-      "name": "La Flecha",
-      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 110706,
       "name": "Camino a las cuchillas",
       "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
     },
     {
       "added_at": "2026-09-03 15:43:24",

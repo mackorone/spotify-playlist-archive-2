@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-530 songs - 1 day 9 hr 4 min
+531 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [God Rest Ye Merry Gentleman](https://open.spotify.com/track/7rxlP9Xn9WXYBXNkLDnkHH) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [An Irish Christmas](https://open.spotify.com/album/7IYn0YPFDZILhmVL0nbaEC) | 4:01 | 2025-10-26 | 2026-08-27 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3pbOzSaFUF9BUfE8exEXKg) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/4Y7m2tcSdLbnw0KKolFZg3) | 3:29 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/09AWVPvdHm3nPt7xA1x1Xu) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 3:31 | 2021-12-24 | 2024-04-19 |
-| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2j1jV8rLudbE8IKTkktkYJ) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6GaNr7z0e8XX4erlH90KCm) | 3:25 | 2026-10-16 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2j1jV8rLudbE8IKTkktkYJ) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6GaNr7z0e8XX4erlH90KCm) | 3:25 | 2026-10-16 | 2026-11-11 |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/4apmJNWzpSQiHKZCBB6hmc) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [Unto Us](https://open.spotify.com/album/2Kx96zUdws3Vk4ikq4qcYE) | 3:25 | 2026-10-30 |  |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\) \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-24 |  |
 | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/track/0b6mSmQyQeZDdtnvjeMPvh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/album/3uulBIvr3d9zRVrSCoTcah) | 3:25 | 2023-12-15 | 2026-10-30 |
 | [God Rest Ye Merry Gentlemen \- 2022 Radio Mix](https://open.spotify.com/track/2BBA3WUtUNeFji6cBY6mxf) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [God Rest Ye Merry Gentlemen \(2022 Radio Mix\)](https://open.spotify.com/album/0SG7JLxAyAJOvLafGFvmEx) | 2:54 | 2024-08-01 | 2024-09-13 |

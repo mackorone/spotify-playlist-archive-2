@@ -27865,6 +27865,24 @@
     },
     {
       "album": {
+        "name": "My Body My Choice",
+        "url": "https://open.spotify.com/album/54qleD0Ys5ckEsVRwA5WT9"
+      },
+      "artists": [
+        {
+          "name": "Thee Soreheads",
+          "url": "https://open.spotify.com/artist/2ZUxOf0gGwYUCIYq0mYIi3"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145646,
+      "name": "My Body My Choice",
+      "url": "https://open.spotify.com/track/3tC3hjpl5EzPEgVmKpt3ui"
+    },
+    {
+      "album": {
         "name": "My Body Says",
         "url": "https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE"
       },
@@ -40866,7 +40884,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 196314,
       "name": "Take It",
       "url": "https://open.spotify.com/track/5jegQWKmBwdGwqJSIUDMkG"
@@ -44212,7 +44230,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 132680,
       "name": "Thumbs Up",
       "url": "https://open.spotify.com/track/2cESdWJKoIMVxZiH6jhFEX"
@@ -45408,7 +45426,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 161373,
       "name": "Underrated Heartache",
       "url": "https://open.spotify.com/track/5k7DUSF0r0XC45PJdyxdX5"

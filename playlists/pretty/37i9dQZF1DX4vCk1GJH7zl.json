@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra",
-  "num_followers": 157328,
+  "num_followers": 157330,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA2BUyn2EpQ1p5JnV3Mw63Ctz1Qs",
+  "snapshot_id": "AAAAANKK/toBcyPacQu0LXda1pNG2gZp",
   "tracks": [
     {
       "added_at": "2026-11-06 03:03:32",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-11-06 03:03:32",
       "album": {
+        "name": "Meu Defeito \u00c9 Amar Demais",
+        "url": "https://open.spotify.com/album/4dfqPrMPmzfKOjtsykWmEH"
+      },
+      "artists": [
+        {
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        }
+      ],
+      "duration_ms": 256098,
+      "name": "Como Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/4028iIAbxcMeW8PnVz208Z"
+    },
+    {
+      "added_at": "2026-11-06 03:03:32",
+      "album": {
         "name": "Vamos Correr Pro Mar",
         "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2026-11-06 03:03:32",
       "album": {
-        "name": "P\u00e1ssaro Livre",
-        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "P\u00e1ssaro Livre",
-      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
-    },
-    {
-      "added_at": "2026-11-06 03:03:32",
-      "album": {
         "name": "No Fundo Todo Mundo Quer Amor",
         "url": "https://open.spotify.com/album/7dTScgnL3EIqHMvVahb6tH"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 206489,
       "name": "No Fundo Todo Mundo Quer Amor",
       "url": "https://open.spotify.com/track/6BQhvkbSK4jVoZUB4Z60J2"
+    },
+    {
+      "added_at": "2026-11-06 03:03:32",
+      "album": {
+        "name": "P\u00e1ssaro Livre",
+        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "P\u00e1ssaro Livre",
+      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
     },
     {
       "added_at": "2026-11-06 03:03:32",
@@ -735,22 +751,6 @@
     {
       "added_at": "2026-11-06 03:03:32",
       "album": {
-        "name": "Ficou Saudade",
-        "url": "https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Won",
-          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
-        }
-      ],
-      "duration_ms": 173765,
-      "name": "Ficou Saudade",
-      "url": "https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7"
-    },
-    {
-      "added_at": "2026-11-06 03:03:32",
-      "album": {
         "name": "Acustico Dr. Sin 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-11-06 03:03:32",
       "album": {
-        "name": "Meu Defeito \u00c9 Amar Demais",
-        "url": "https://open.spotify.com/album/4dfqPrMPmzfKOjtsykWmEH"
+        "name": "Ficou Saudade",
+        "url": "https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv"
       },
       "artists": [
         {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
         }
       ],
-      "duration_ms": 256098,
-      "name": "Como Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/4028iIAbxcMeW8PnVz208Z"
+      "duration_ms": 173765,
+      "name": "Ficou Saudade",
+      "url": "https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7"
     },
     {
       "added_at": "2026-11-06 03:03:32",

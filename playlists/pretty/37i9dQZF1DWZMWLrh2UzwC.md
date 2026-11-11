@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from The Weeknd, Rex Orange County, XG, Ajai, Mawi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,430 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,415 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 95 | [I Am God](https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [I Am God](https://open.spotify.com/album/7qUhXBrMILFJCFziNaJPOP) | 3:03 |
 | 96 | [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 |
 
-Snapshot ID: `AAAAAExk23VuTGB13wA9HWxqXFiB4Kqd`
+Snapshot ID: `AAAAAIxV7foNqOQoIlFuQ++MM7YTya3K`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,619 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,624 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ขาหมู](https://open.spotify.com/track/3ZONf2dg0q1KvTIebUI0GG) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:21 |
-| 2 | [ฤดูที่ฉันเหงา](https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Vanilla](https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu) | 4:22 |
+| 1 | [ฤดูที่ฉันเหงา](https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Vanilla](https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu) | 4:22 |
+| 2 | [ขาหมู](https://open.spotify.com/track/3ZONf2dg0q1KvTIebUI0GG) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:21 |
 | 3 | [มันเป็นใคร \(Alright\)](https://open.spotify.com/track/4PXdOchDL7aUZghQobIlhX) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:39 |
 | 4 | [คนจริงใจ \(feat\. พงศ์ พัทลุง, ปู่จ๋าน ลองไมค์ & Lamyai Haitongkam\)](https://open.spotify.com/track/3PRRNMQUjnFbZhvtPd37F3) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [พงศ์ พัทลุง](https://open.spotify.com/artist/5qNjSZ0y0Z9qqP1DFC5fnc), [ปู่จ๋าน ลองไมค์](https://open.spotify.com/artist/23YWwPEvaO5HLqEMgiUXJa), [Lamyai Haitongkam](https://open.spotify.com/artist/2JERRcsJmtVhbc9uTH7h4t) | [Fate Ωmega](https://open.spotify.com/album/1vnKkFW0EK0ihTX5Z912ca) | 4:23 |
 | 5 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 49 | [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 |
 | 50 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
 
-Snapshot ID: `AAAAAI9WXR/Sxu7dNt5CqBSSlxzLnuL3`
+Snapshot ID: `AAAAAAmyRhfvqCMX9Ar0PAGrnqgFZZel`

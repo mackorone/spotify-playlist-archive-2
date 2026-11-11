@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 200000,
       "name": "Birthday Wish",
       "url": "https://open.spotify.com/track/4EpUJbdObAoylk1004aMG3"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Birthday Wish",
       "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 189986,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 189986,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
@@ -5728,7 +5728,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 211574,
       "name": "I\u2019m gonna TOESA",
       "url": "https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ"
@@ -5750,7 +5750,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 211574,
       "name": "I\u2019m gonna TOESA (feat. Kian84)",
       "url": "https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg"
@@ -6484,7 +6484,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/2iuhTbBB9ITEko3xeW7Jcz"
@@ -6520,7 +6520,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
@@ -9694,7 +9694,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 179000,
       "name": "Star Trace",
       "url": "https://open.spotify.com/track/1fI7jgWKJ41xELohFnVFp7"
@@ -9712,7 +9712,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Star Trace",
       "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
@@ -12427,6 +12427,24 @@
     },
     {
       "album": {
+        "name": "You're Under Arrest (Remixes)",
+        "url": "https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You're Under Arrest",
+      "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -12516,7 +12534,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 181911,
       "name": "You\u2019re Under Arrest",
       "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
@@ -16798,7 +16816,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 295940,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
@@ -16816,7 +16834,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 296000,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX"

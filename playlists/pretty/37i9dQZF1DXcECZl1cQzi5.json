@@ -1,12 +1,12 @@
 {
   "description": "Calming music accompanied by the waves of the ocean. Breathe with the ebb and flow of the sea. ",
-  "num_followers": 74103,
+  "num_followers": 74153,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADetYgNYyMW+eTzDcE7NQ9LgO6x/",
+  "snapshot_id": "AAAAACbxAZoJ35hWP5gP+OTTpkwpaI3W",
   "tracks": [
     {
       "added_at": "2026-10-05 15:45:52",
@@ -395,8 +395,8 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/79JYZGVV44vTeiP1VbZEob"
+        "name": "Lunar Light",
+        "url": "https://open.spotify.com/album/6R8vfuIg3yjiwI4wH9P2L9"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
         }
       ],
-      "duration_ms": 153164,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3vh3W77oJHFoR0gOSfWGxk"
+      "duration_ms": 152441,
+      "name": "Lunar Light",
+      "url": "https://open.spotify.com/track/0dmBrC4r1VWnGusD26usj1"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -459,38 +459,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Textural Ambience",
-        "url": "https://open.spotify.com/album/1t2BojfAohe91eDRz7uM7y"
-      },
-      "artists": [
-        {
-          "name": "Altered Source",
-          "url": "https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Coral Triangle",
-      "url": "https://open.spotify.com/track/07tjeMHO9Mex2K7CMmNsCZ"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
-        "name": "Lunar Light",
-        "url": "https://open.spotify.com/album/6R8vfuIg3yjiwI4wH9P2L9"
-      },
-      "artists": [
-        {
-          "name": "J. Cartwright",
-          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
-        }
-      ],
-      "duration_ms": 152441,
-      "name": "Lunar Light",
-      "url": "https://open.spotify.com/track/0dmBrC4r1VWnGusD26usj1"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Ebbs & Flows",
         "url": "https://open.spotify.com/album/6ZDRcURtL4TcxHb74e32Qe"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 150000,
       "name": "Ebbs & Flows",
       "url": "https://open.spotify.com/track/7smuc5FSIi34eM9ViLPiEl"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/79JYZGVV44vTeiP1VbZEob"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "duration_ms": 153164,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3vh3W77oJHFoR0gOSfWGxk"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Textural Ambience",
+        "url": "https://open.spotify.com/album/1t2BojfAohe91eDRz7uM7y"
+      },
+      "artists": [
+        {
+          "name": "Altered Source",
+          "url": "https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Coral Triangle",
+      "url": "https://open.spotify.com/track/07tjeMHO9Mex2K7CMmNsCZ"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Blue Dreams",
-        "url": "https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j"
+        "name": "A New Wave",
+        "url": "https://open.spotify.com/album/56mwvzRQCVTuIw8ZSDenMl"
       },
       "artists": [
         {
-          "name": "Peaceful Island",
-          "url": "https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh"
+          "name": "Circular Motions",
+          "url": "https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Blue Dreams",
-      "url": "https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum"
+      "duration_ms": 181176,
+      "name": "A New Wave",
+      "url": "https://open.spotify.com/track/6rVPuBfXzKQCfloRxatSXs"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -795,34 +795,18 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "A New Wave",
-        "url": "https://open.spotify.com/album/56mwvzRQCVTuIw8ZSDenMl"
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j"
       },
       "artists": [
         {
-          "name": "Circular Motions",
-          "url": "https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva"
+          "name": "Peaceful Island",
+          "url": "https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh"
         }
       ],
-      "duration_ms": 181176,
-      "name": "A New Wave",
-      "url": "https://open.spotify.com/track/6rVPuBfXzKQCfloRxatSXs"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
-        "name": "Cycles Of The Sea",
-        "url": "https://open.spotify.com/album/2TizULP5ELPZeKI3EQ5F6p"
-      },
-      "artists": [
-        {
-          "name": "Eoforwine",
-          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "Cycles Of The Sea",
-      "url": "https://open.spotify.com/track/2fdsFtJNZbKypYUbHPhpvg"
+      "duration_ms": 142000,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -839,6 +823,22 @@
       "duration_ms": 190374,
       "name": "Oceanic Breathing",
       "url": "https://open.spotify.com/track/4Dh5oYEfeVcDIApq68VnwV"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Cycles Of The Sea",
+        "url": "https://open.spotify.com/album/2TizULP5ELPZeKI3EQ5F6p"
+      },
+      "artists": [
+        {
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "Cycles Of The Sea",
+      "url": "https://open.spotify.com/track/2fdsFtJNZbKypYUbHPhpvg"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Pebble Waves",
-        "url": "https://open.spotify.com/album/72Tsnf6lEUiAs5rtsD2GQz"
-      },
-      "artists": [
-        {
-          "name": "Eoforwine",
-          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
-        }
-      ],
-      "duration_ms": 188430,
-      "name": "Pebble Waves",
-      "url": "https://open.spotify.com/track/2c3QOaSrNwMmdnI4qb4HBl"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Silent Waves",
         "url": "https://open.spotify.com/album/30vVxFBpztDxlkyd4DeacV"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 143661,
       "name": "Silent Waves",
       "url": "https://open.spotify.com/track/3UxluevQPkyXgUd119eNFp"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Pebble Waves",
+        "url": "https://open.spotify.com/album/72Tsnf6lEUiAs5rtsD2GQz"
+      },
+      "artists": [
+        {
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
+        }
+      ],
+      "duration_ms": 188430,
+      "name": "Pebble Waves",
+      "url": "https://open.spotify.com/track/2c3QOaSrNwMmdnI4qb4HBl"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Calming Seas",
-        "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
-      },
-      "artists": [
-        {
-          "name": "A Lonely Moon",
-          "url": "https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf"
-        }
-      ],
-      "duration_ms": 161750,
-      "name": "Deep Cove",
-      "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Sea Light",
         "url": "https://open.spotify.com/album/1ojVKkEI44MmP2BAR3NbBQ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 159375,
       "name": "Blue Horizon",
       "url": "https://open.spotify.com/track/1skgRtVJ9ckx7SQjWQyQsc"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Calming Seas",
+        "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
+      },
+      "artists": [
+        {
+          "name": "A Lonely Moon",
+          "url": "https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf"
+        }
+      ],
+      "duration_ms": 161750,
+      "name": "Deep Cove",
+      "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Ocean Pulse",
-        "url": "https://open.spotify.com/album/30z0BBhnTWKSd2vnJdzoF9"
-      },
-      "artists": [
-        {
-          "name": "Sorth",
-          "url": "https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Ocean Pulse",
-      "url": "https://open.spotify.com/track/3sP8Z46DJG21pRX4wyiWbA"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Waves of Freedom",
         "url": "https://open.spotify.com/album/0Id78tREmSLPhrkVnPRLz0"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
+        "name": "Ocean Pulse",
+        "url": "https://open.spotify.com/album/30z0BBhnTWKSd2vnJdzoF9"
+      },
+      "artists": [
+        {
+          "name": "Sorth",
+          "url": "https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Ocean Pulse",
+      "url": "https://open.spotify.com/track/3sP8Z46DJG21pRX4wyiWbA"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
         "name": "Silva",
         "url": "https://open.spotify.com/album/3nzDVi4KSiO2zJkRqJxDgj"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Devine Waves",
-        "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Devine Waves",
-      "url": "https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Lumino",
         "url": "https://open.spotify.com/album/5YlsKz9vxUCNUhtdYlLO3k"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 130612,
       "name": "Lumino",
       "url": "https://open.spotify.com/track/4a2GwfS0VGVv39t5rGlBh3"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Devine Waves",
+        "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Devine Waves",
+      "url": "https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Awavey",
-        "url": "https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS"
+        "name": "Sound Bathing: Deep Vibration",
+        "url": "https://open.spotify.com/album/1gT2bJcAT1fy3Cr8WPwMJW"
       },
       "artists": [
         {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+          "name": "SonicAid",
+          "url": "https://open.spotify.com/artist/51w9HbZBbacStieMIBfYTG"
         }
       ],
-      "duration_ms": 155747,
-      "name": "Awavey",
-      "url": "https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25"
+      "duration_ms": 195284,
+      "name": "Rhythmic Wave I",
+      "url": "https://open.spotify.com/track/6Wdsu9ND0uCfDPGjQV62Lk"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Sound Bathing: Deep Vibration",
-        "url": "https://open.spotify.com/album/1gT2bJcAT1fy3Cr8WPwMJW"
-      },
-      "artists": [
-        {
-          "name": "SonicAid",
-          "url": "https://open.spotify.com/artist/51w9HbZBbacStieMIBfYTG"
-        }
-      ],
-      "duration_ms": 195284,
-      "name": "Rhythmic Wave I",
-      "url": "https://open.spotify.com/track/6Wdsu9ND0uCfDPGjQV62Lk"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Gently Rising",
         "url": "https://open.spotify.com/album/5iFfvWhsBoA1fggxtFZqsx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 173166,
       "name": "Gently Rising",
       "url": "https://open.spotify.com/track/4vd9CyTzJ2kFkqYUSgycTT"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Awavey",
+        "url": "https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 155747,
+      "name": "Awavey",
+      "url": "https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
+      },
+      "artists": [
+        {
+          "name": "Clouds Come Down",
+          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
+        }
+      ],
+      "duration_ms": 231102,
+      "name": "Silent Retreat (Ocean View)",
+      "url": "https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
         "name": "Atomos Atmos",
         "url": "https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 137666,
       "name": "Pra Ae",
       "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
-      },
-      "artists": [
-        {
-          "name": "Clouds Come Down",
-          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
-        }
-      ],
-      "duration_ms": 231102,
-      "name": "Silent Retreat (Ocean View)",
-      "url": "https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Navigating",
-        "url": "https://open.spotify.com/album/2nvjNDlTrsBNqTPoDYQ1gH"
-      },
-      "artists": [
-        {
-          "name": "Edmund\u2019s Oasis",
-          "url": "https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Navigating",
-      "url": "https://open.spotify.com/track/5MMDs7DlsflXVLhRcK95Zb"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Sensual Ocean",
         "url": "https://open.spotify.com/album/062bVbe4HIKx2JoaFd2YLU"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 186666,
       "name": "Sensual Ocean",
       "url": "https://open.spotify.com/track/3w1O6FSaSrc7UnobR68H7K"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Navigating",
+        "url": "https://open.spotify.com/album/2nvjNDlTrsBNqTPoDYQ1gH"
+      },
+      "artists": [
+        {
+          "name": "Edmund\u2019s Oasis",
+          "url": "https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Navigating",
+      "url": "https://open.spotify.com/track/5MMDs7DlsflXVLhRcK95Zb"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Calming Waves",
-        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
-      },
-      "artists": [
-        {
-          "name": "Castillo Indigo",
-          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
-        }
-      ],
-      "duration_ms": 157997,
-      "name": "Calming Waves",
-      "url": "https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf"
-    },
-    {
-      "added_at": "2026-10-05 15:45:52",
-      "album": {
         "name": "Ocean Dreaming",
         "url": "https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 171807,
       "name": "Ocean Dreaming",
       "url": "https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6"
+    },
+    {
+      "added_at": "2026-10-05 15:45:52",
+      "album": {
+        "name": "Calming Waves",
+        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
+      },
+      "artists": [
+        {
+          "name": "Castillo Indigo",
+          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
+        }
+      ],
+      "duration_ms": 157997,
+      "name": "Calming Waves",
+      "url": "https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf"
     },
     {
       "added_at": "2026-10-05 15:45:52",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-10-05 15:45:52",
       "album": {
-        "name": "Deep Surrender",
-        "url": "https://open.spotify.com/album/4GjxOSn5T0bqCucFm59YJH"
+        "name": "Ocean Swell",
+        "url": "https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT"
       },
       "artists": [
         {
-          "name": "Nebuu",
-          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
         }
       ],
-      "duration_ms": 152875,
-      "name": "Deep Surrender",
-      "url": "https://open.spotify.com/track/7f6USZOojzum21fDfZGESr"
+      "duration_ms": 175384,
+      "name": "Ocean Swell",
+      "url": "https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn"
     }
   ],
   "unique_name": "Serene Ocean Music",

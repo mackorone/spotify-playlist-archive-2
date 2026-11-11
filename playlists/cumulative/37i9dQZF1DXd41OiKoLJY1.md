@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Lorenzo Jan\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Saint Cooper\. Artwork: Isu Kim.
 
-4,172 songs - 10 day 3 hr 40 min
+4,173 songs - 10 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,7 +941,7 @@
 | [Do You Still Think of Me](https://open.spotify.com/track/2Vy6ot96SB0axDZEYC0PPZ) | [Luis the Intern](https://open.spotify.com/artist/7l0lYgzuxbl8T4D5luZLrV) | [Songs for a Bird](https://open.spotify.com/album/2kWkfaFfj7v7i3BXX4R3Ah) | 3:17 | 2025-10-16 | 2025-12-04 |
 | [Doble Cara](https://open.spotify.com/track/5X7WnlV9JB4EMae8gSRiqr) | [Alpha Phia](https://open.spotify.com/artist/3bkrGwgkizjF6f5XnBY5PX) | [Doble Cara](https://open.spotify.com/album/4aRgXrC43XT4oy7gqoFLKn) | 2:58 | 2022-04-14 | 2022-04-22 |
 | [Doesn't Matter](https://open.spotify.com/track/75HTcPxKutwsIGhJ0nESZT) | [The After](https://open.spotify.com/artist/4xFyT4MrIrMdq7Cd6mpn62) | [Doesn't Matter](https://open.spotify.com/album/7B2xfveCC7pwE94xpxqWar) | 4:17 | 2022-02-03 | 2022-02-11 |
-| [DOET](https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI) | [Xaint](https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c) | [DOET](https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO) | 3:15 | 2026-06-10 |  |
+| [DOET](https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI) | [Xaint](https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c) | [DOET](https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO) | 3:15 | 2026-06-10 | 2026-11-11 |
 | [Dogs In The Summer](https://open.spotify.com/track/0KW9PyyR0mkMKtEOEWJvSU) | [The One Pesos](https://open.spotify.com/artist/120AkSqHkiSNkanAkWEMRk) | [Dogs In The Summer](https://open.spotify.com/album/3TYz9iIdmFs9hw9BOOsCcX) | 3:34 | 2023-08-24 | 2023-09-15 |
 | [Doing This Right](https://open.spotify.com/track/3qX4Yn4fPJjLdTgUa9n8mH) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Doing This Right](https://open.spotify.com/album/7MlxSxRQW6XhfryHmC9hpo) | 2:06 | 2024-02-22 | 2024-03-22 |
 | [Doit Gurl](https://open.spotify.com/track/7MvSKbpagO06xermSZX50V) | [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [Doit Gurl](https://open.spotify.com/album/3bHmrswekjx4fGzdqsk851) | 3:01 | 2024-02-08 | 2024-03-01 |
@@ -2486,6 +2486,7 @@
 | [Nag\-iisa](https://open.spotify.com/track/75KHtfrRvusfGxzTmMxCVo) | [LeMon Traxx](https://open.spotify.com/artist/0CKv1MqvZqzPCh14gGN4iT), [Maro Ignacio](https://open.spotify.com/artist/6jE4xHJbmYMz6uqY8b15xk) | [Nag\-iisa](https://open.spotify.com/album/5Ssoljp7Di7oOlN9NOQcBJ) | 4:38 | 2024-01-18 | 2024-02-23 |
 | [Nagbabalik](https://open.spotify.com/track/3mZu6TIa0GAJbr0ZqTYVMi) | [Random Mischief](https://open.spotify.com/artist/16feusdy8A0NxHkXKsANuc) | [Nagbabalik](https://open.spotify.com/album/4qPYBxTr99qKMTMJzWeWs8) | 3:53 | 2022-09-08 | 2022-11-25 |
 | [Nagkakahiyaan](https://open.spotify.com/track/16YRDsB6cApauQJyPfZxTT) | [Lee Victor](https://open.spotify.com/artist/4k1LS1AGJjhl2ngUNex7JY) | [Nagkakahiyaan](https://open.spotify.com/album/2IahiIlpDpMn9L9k1owKiE) | 3:36 | 2026-01-22 | 2026-03-13 |
+| [Nahihilo](https://open.spotify.com/track/7kQ9mfE8KDWL0di14D1FdF) | [Saint Cooper](https://open.spotify.com/artist/4HelBJRa22uXkNaikINVHG) | [Nahihilo](https://open.spotify.com/album/7w2wtl8sja3zNxcITwX28T) | 3:32 | 2026-11-11 |  |
 | [Nahihiya Ako](https://open.spotify.com/track/7tZVM15u8pMfG24M985p0i) | [Gemtag](https://open.spotify.com/artist/2nVZuoPTppNQgNHaLWdNjb) | [Nahihiya Ako](https://open.spotify.com/album/6QfApEKa0KHeenDfZR9WiM) | 3:52 | 2025-05-22 | 2025-06-27 |
 | [nahihiya, umaatras](https://open.spotify.com/track/0QQ7svDYFgn4RLtL0YcWbk) | [Ruther](https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9) | [nahihiya, umaatras](https://open.spotify.com/album/17UZIIwGREcndutYeSQC4l) | 3:17 | 2026-02-12 | 2026-05-07 |
 | [Nahulog](https://open.spotify.com/track/4ibkuWFcpxHNvVJ7dxDw8f) | [Segundo](https://open.spotify.com/artist/75NQ8Rq6oIdZ5Sg0JcFPu3) | [Nahulog](https://open.spotify.com/album/0FbpTWSQUxedKhrRUJq6gs) | 4:20 | 2024-10-17 | 2025-01-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Corduroy County
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,845 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,857 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [closure](https://open.spotify.com/track/5efpdNo3JIAV4mnlEzQTFF) | [nae](https://open.spotify.com/artist/5mz7JMAZx7XZg8UGnbs2x3) | [closure](https://open.spotify.com/album/0tBb5esOIO8nQ0j6qGNyn3) | 3:43 |
 | 50 | [Lügen](https://open.spotify.com/track/5bzleNHcpxIxtKK17pqWaS) | [Luca Malina](https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ) | [Lügen](https://open.spotify.com/album/65iPQCJKCwSxg8Q4yqrDJJ) | 3:28 |
 
-Snapshot ID: `AAAAAD89P4l+9nhFYxa8zCEe6emAP+L3`
+Snapshot ID: `AAAAAMlLmygTg3E8y5ofXgsb45rD6QSr`

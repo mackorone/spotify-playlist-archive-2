@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de Pepe Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,919 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,914 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 21 | [Wow](https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW) | [Low Clika](https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV) | [El Primer Album de Low Clika](https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa) | 2:29 |
 | 22 | [t escucho al pensar](https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:18 |
 | 23 | [3some](https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [3some](https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K) | 2:42 |
-| 24 | [Me acuerdo](https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ) | [Synthxsis](https://open.spotify.com/artist/0bz4yo7STKjcaQ3qf8MQPB), [Arox](https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn) | [Me acuerdo](https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS) | 3:47 |
-| 25 | [se subio alatorre](https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy) | [se subio alatorre](https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt) | 2:13 |
+| 24 | [se subio alatorre](https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy) | [se subio alatorre](https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt) | 2:13 |
+| 25 | [Me acuerdo](https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ) | [Synthxsis](https://open.spotify.com/artist/0bz4yo7STKjcaQ3qf8MQPB), [Arox](https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn) | [Me acuerdo](https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS) | 3:47 |
 | 26 | [SOLA](https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [Moodjaas](https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3) | [PEKORITAS VOL.1](https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A) | 2:27 |
 | 27 | [le hablo a la luna de ti](https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 2:46 |
 | 28 | [DRAMATIKA!](https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [DRAMATIKA!](https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg) | 1:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 74 | [buttermilk 2](https://open.spotify.com/track/2yT6DwSVxB3WgyIUmDrnDZ) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [T.V ADDICT \(nitro\)](https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ) | 3:30 |
 | 75 | [CADENAS](https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA](https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f) | 3:33 |
 
-Snapshot ID: `AAAAAC/P/8ET3qhua21m3aZFww2dzWN0`
+Snapshot ID: `AAAAAGmGjxyQb2+TImulNpcMB+iqeArA`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [40Hz Sound Of Nature](https://open.spotify.com/track/3nwx8hPz31dVTuNMlybFzn) | [Alex Zenum](https://open.spotify.com/artist/1R7IPqmjjDOWrp2vH7xspV) | [40Hz Sound Of Nature](https://open.spotify.com/album/1MgH6LgiOlhtYVPygkFr0F) | 2:56 | 2026-04-03 |  |
+| [40Hz Sound Of Nature](https://open.spotify.com/track/3nwx8hPz31dVTuNMlybFzn) | [Alex Zenum](https://open.spotify.com/artist/1R7IPqmjjDOWrp2vH7xspV) | [40Hz Sound Of Nature](https://open.spotify.com/album/1MgH6LgiOlhtYVPygkFr0F) | 2:56 | 2026-04-03 | 2026-11-11 |
 | [528 Hz Energy Flow](https://open.spotify.com/track/4Mu9YDxpVfpaBw6np0B3hZ) | [Tranqeel](https://open.spotify.com/artist/4IjrnwZWOZypFplgP2v8Js) | [528 Hz The Healing Collection Vol.1 \- One With Nature](https://open.spotify.com/album/5IWVrQTrYXMn2zfDZjpe7C) | 2:17 | 2026-06-26 | 2026-09-07 |
 | [A Gentle Reminder](https://open.spotify.com/track/1we0KY2eDEKo2ktFl1m3iu) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Garden of Night](https://open.spotify.com/album/6GpMsqjvq3tXazrw9UNOJg) | 2:54 | 2023-04-28 | 2024-06-04 |
 | [A Lovely Morning](https://open.spotify.com/track/5Rch63Aa78BPZj0oCNSxLL) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [A Lovely Morning](https://open.spotify.com/album/0HjC9SYv4MqU1yKjeTUeik) | 3:21 | 2026-06-12 |  |
@@ -313,7 +313,7 @@
 | [Moulding](https://open.spotify.com/track/4VdkE87ZahjkBxDxzlHelB) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Moulding](https://open.spotify.com/album/0o3kTphCqfHGDhrKTHfcdw) | 2:20 | 2026-02-23 | 2026-04-04 |
 | [My Sanctuary](https://open.spotify.com/track/3MiOoOWcIVfxT4DtiVx7RW) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [My Sanctuary](https://open.spotify.com/album/6LD9SZaxij45q5VylWfDpM) | 3:31 | 2023-04-28 | 2024-06-04 |
 | [My Small River](https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:59 | 2023-06-09 | 2025-10-16 |
-| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2026-04-03 | 2026-09-23 |
+| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2026-04-03 |  |
 | [Namah \(Nature\)](https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Namah](https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU) | 3:19 | 2023-04-28 | 2025-12-18 |
 | [Nattskärra](https://open.spotify.com/track/066Uh3GE4k6K18PIooSScs) | [Nordan](https://open.spotify.com/artist/3TYnzUsJ9UUWSwmphRiqct) | [Nattskärra](https://open.spotify.com/album/1Y6yXs3DjMm3BkGfoZaNZf) | 2:29 | 2026-08-19 |  |
 | [Natura Deambulatio](https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Natura Deambulatio](https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2) | 3:30 | 2024-04-01 | 2026-02-24 |

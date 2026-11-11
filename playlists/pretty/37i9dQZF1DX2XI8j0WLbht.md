@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Renee Mooi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,735 likes - 85 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,732 likes - 85 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 84 | [Dame un besito](https://open.spotify.com/track/0aAuTTkAXh4n7Nux7GBetm) | [Querido Erick](https://open.spotify.com/artist/5LHD6YYVDxYixAaP7V5Q15) | [Caminante](https://open.spotify.com/album/4IO4wUaIK4cLXWdFtA204W) | 3:11 |
 | 85 | [Dolores](https://open.spotify.com/track/4BEH5g6OVUG1sDToICk03y) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Dolores y compañía](https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx) | 3:17 |
 
-Snapshot ID: `AAAAAJFEngtmUYpvQ75kOPEYm8oOZvUs`
+Snapshot ID: `AAAAANQ4gEQ8Y9cYx3Dy1AWCLPTh64wS`

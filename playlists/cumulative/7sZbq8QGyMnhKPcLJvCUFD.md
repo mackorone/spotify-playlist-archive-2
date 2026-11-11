@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-925 songs - 1 day 22 hr 1 min
+926 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [i can hear you](https://open.spotify.com/track/27FHQw5a7N5pcG4Q85yOxo) | [LLow](https://open.spotify.com/artist/4zwj4Z93k8LjJMwaCw5EDh) | [i can hear you](https://open.spotify.com/album/4LmK2GVqKRicEv7qaDnmki) | 2:26 | 2026-10-27 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/3rkViZW8u35YjiKR3NV3Pb) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [I Don't Wanna Know](https://open.spotify.com/album/0mUbrbUetoIgyeW43jpihp) | 2:45 | 2023-06-27 | 2023-08-10 |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-04-28 |
+| [i just like you](https://open.spotify.com/track/2dBdfUshMhtAkNJXRjQnq0) | [1aevne](https://open.spotify.com/artist/0Uz9t0hQphqsXetOIlfoLA), [baby.murcielaga](https://open.spotify.com/artist/4vzyM9YHoYzLSyQRd8Imbq) | [i just like you](https://open.spotify.com/album/0ADC4czU9DeLdHRdPJ19zE) | 2:25 | 2026-11-10 |  |
 | [I Like It With You](https://open.spotify.com/track/5P8vqkiF7Wek3iPOVJmqr0) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [I Like It With You](https://open.spotify.com/album/6Zgev7ySrbUwKAqL10ofNV) | 2:55 | 2024-01-12 | 2024-07-19 |
 | [I Like It With You](https://open.spotify.com/track/6rXoFj9Kc3B77t0h3asR5d) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [14/02](https://open.spotify.com/album/49L9LPfiRFp334a9If9igo) | 3:55 | 2023-12-13 | 2024-02-24 |
 | [I Need An Angel](https://open.spotify.com/track/7ccJWOfAs6R4XlaVzOUv5o) | [HESTER](https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG) | [I Need An Angel](https://open.spotify.com/album/6uS4F7HdLV0nGf91se9kdt) | 3:49 | 2026-10-16 |  |

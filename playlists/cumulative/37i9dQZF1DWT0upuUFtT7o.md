@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks from independent artists & labels\. Cover: RIP Magic
+> The best new indie tracks from independent artists & labels\. Cover: Eilish Constance
 
-4,042 songs - 9 day 8 hr 8 min
+4,048 songs - 9 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1652,6 +1652,7 @@
 | [Hysterical](https://open.spotify.com/track/7sm3rjniGkoRTKzLlIakj6) | [Pet Owner](https://open.spotify.com/artist/2MAWOCGirMzh0HfAuhDESM) | [Hysterical](https://open.spotify.com/album/0ZF5rf7yA51sHwW4OhenYB) | 3:31 | 2022-06-08 | 2022-06-30 |
 | [I <3 You](https://open.spotify.com/track/658hxdysZypt05ifU1ox26) | [Love Egg](https://open.spotify.com/artist/5QNhVWZXwIZEHUQWbLG2yr) | [I <3 You](https://open.spotify.com/album/1TnELmd9snfmrRmxse8NX0) | 2:02 | 2026-06-24 |  |
 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 | 2026-10-21 |  |
+| [I Am God](https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [I Am God](https://open.spotify.com/album/7qUhXBrMILFJCFziNaJPOP) | 3:03 | 2026-11-11 |  |
 | [I Am in an Emotional Coma](https://open.spotify.com/track/0MKINi6vsinKPehE6JTh8K) | [Halo Kitsch](https://open.spotify.com/artist/4kjYrogjc9CwlkeA6Sy9mH) | [I Am in an Emotional Coma](https://open.spotify.com/album/1B1WYcpOGClmM6WMjrwyTw) | 3:01 | 2021-12-01 | 2022-01-13 |
 | [I am the Dancer](https://open.spotify.com/track/0WjqLck2q5ZesyxfApXCwg) | [Clinic Stars](https://open.spotify.com/artist/4RUvTFpJ6IZiKQYtQyOnXP) | [Only Hinting](https://open.spotify.com/album/0TxWLDT1r8ET4Olwuu1dib) | 6:24 | 2024-09-25 | 2024-12-05 |
 | [I Am Your Daughter](https://open.spotify.com/track/6s3DBMoTmoKxZU4kXD5gyq) | [Florence Rose](https://open.spotify.com/artist/63ZyqesWEYQfpkL12NFwre) | [I Am Your Daughter](https://open.spotify.com/album/5xBo2DR5cCyyZQs5TvwsVe) | 3:59 | 2023-10-11 | 2023-11-30 |
@@ -1676,7 +1677,7 @@
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-30 | 2025-06-12 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 | 2024-01-17 | 2024-02-29 |
 | [I Feel...](https://open.spotify.com/track/1RHVadqESon8w2Yv7QSsjH) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [No Paradise](https://open.spotify.com/album/33piTxvzBKkRs6T94MGLmU) | 2:24 | 2024-05-08 | 2024-06-20 |
-| [I Get Scared](https://open.spotify.com/track/56uhIhwJVbjHGQxQGyXf4W) | [Brilliant Gun](https://open.spotify.com/artist/4IiBh9OlsupE192ZUJNrBw) | [I Get Scared](https://open.spotify.com/album/0PTnB08T0beVbtKnLgEVOw) | 2:25 | 2026-09-23 |  |
+| [I Get Scared](https://open.spotify.com/track/56uhIhwJVbjHGQxQGyXf4W) | [Brilliant Gun](https://open.spotify.com/artist/4IiBh9OlsupE192ZUJNrBw) | [I Get Scared](https://open.spotify.com/album/0PTnB08T0beVbtKnLgEVOw) | 2:25 | 2026-09-23 | 2026-11-11 |
 | [I Get the Feeling](https://open.spotify.com/track/1Aw7nkLyytqAgmSHeRIXLe) | [True Blue](https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW) | [I Get the Feeling](https://open.spotify.com/album/1rvTpaZxYWOL5iZqEnJ167) | 2:12 | 2024-11-06 | 2024-12-05 |
 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 | 2026-02-11 | 2026-05-28 |
 | [I Got It](https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:27 | 2022-11-30 | 2023-01-12 |
@@ -2032,6 +2033,7 @@
 | [LIE LIE LIE](https://open.spotify.com/track/2O0S7IG7IbtWivWaBacm9G) | [sad brad](https://open.spotify.com/artist/73ejSZ5vfEzjfVZUkQev9R) | [LIE LIE LIE](https://open.spotify.com/album/3mgeTtEGde5lIuN04HetSd) | 3:13 | 2022-04-06 | 2022-04-27 |
 | [Lie to Myself](https://open.spotify.com/track/2XcnBCvuaM5KGHTKTGe6bI) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Lie to Myself](https://open.spotify.com/album/4eXaZaeSGni30Rz3jlrJYu) | 4:27 | 2023-05-10 | 2023-06-22 |
 | [Life's a Trip](https://open.spotify.com/track/3MkpsZgJjBkED6kgf5xGyC) | [Nic Howell](https://open.spotify.com/artist/7BbIblHwCDZXHdzAxA7f1v) | [Life's a Trip](https://open.spotify.com/album/3j51Q80nSbBqhi0U5Gcnvc) | 2:11 | 2022-05-19 | 2022-06-09 |
+| [Lifer](https://open.spotify.com/track/6pKOiHEMUgqNKl4qqspjJF) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Lifer](https://open.spotify.com/album/3a7ggPhwRnYn73uCJ0qQ44) | 2:42 | 2026-11-11 |  |
 | [lifetime warranty](https://open.spotify.com/track/0LKUF6UNgvHLtN6HNy80am) | [charms](https://open.spotify.com/artist/6utUCS5N4haWt5uZ7CxQRB) | [lifetime warranty](https://open.spotify.com/album/3MzcaJ4tjK0iSai1buQpXm) | 3:32 | 2024-10-16 | 2024-12-05 |
 | [LIGHT AS A FEATHER](https://open.spotify.com/track/3dvGhcmmmemfT21GujLY6b) | [OTNES](https://open.spotify.com/artist/7eN4CdgkhmPUNsZSH3bnCC) | [LIGHT AS A FEATHER](https://open.spotify.com/album/47YmZ7ZgEuN7L6EkEDSW92) | 3:44 | 2023-03-15 | 2023-04-06 |
 | [Light of Becoming](https://open.spotify.com/track/7dQvpOuL99tcQXw4sDj8sX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Light of Becoming](https://open.spotify.com/album/58TyJvSsMbRZZttet57iPG) | 3:41 | 2023-02-08 | 2023-03-09 |
@@ -2171,6 +2173,7 @@
 | [Lying](https://open.spotify.com/track/0TjBfsd2yWRTWLcLjRJncz) | [Jia\*](https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy) | [Yes, No Question](https://open.spotify.com/album/50IJsoyMo22R78EN1jMcPh) | 2:06 | 2024-08-07 | 2024-09-12 |
 | [Lying in the Sun](https://open.spotify.com/track/205bRwxiJ3Rj4P7XBU5vPA) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Lying in the Sun](https://open.spotify.com/album/3w5XCQLXn9CWdXKqTzp1JT) | 3:12 | 2024-11-06 | 2024-12-05 |
 | [Lying in the Sun](https://open.spotify.com/track/6p9UiRaE5ePt9WmwJceN3s) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Losing Limits](https://open.spotify.com/album/6maSNGCaZKGJ9RLzNMqduQ) | 3:12 | 2025-03-26 | 2025-05-22 |
+| [lyre](https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [lyre](https://open.spotify.com/album/5Nqa0C4Z2vvZz6bZb2pKoC) | 2:43 | 2026-11-11 |  |
 | [Mad feat\. Kristoffer Eikrem](https://open.spotify.com/track/510mdnW2GCltJ6vVvLcnoI) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Mad feat\. Kristoffer Eikrem](https://open.spotify.com/album/1DlQPIMG49XhhKBCKw2IHV) | 2:51 | 2025-01-29 | 2025-03-13 |
 | [Mad Sometimes](https://open.spotify.com/track/7IeP5L4aCBzHnij1JnbZgO) | [Nan Macmillan](https://open.spotify.com/artist/1hTA80tEFbiMYENIK28q57) | [Mad Sometimes](https://open.spotify.com/album/5dguIpLSFcA7I1IAavh91K) | 3:29 | 2024-03-06 | 2024-04-04 |
 | [Made You Up](https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Made You Up](https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0) | 2:46 | 2024-06-05 | 2024-07-04 |
@@ -3643,6 +3646,7 @@
 | [Touch Me](https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM) | [DivineDevine](https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ), [Shai Nowell](https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5), [2oo7](https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu) | [Riot Of The Kelly Green Love](https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr) | 2:40 | 2023-10-05 | 2023-11-30 |
 | [Touring in January](https://open.spotify.com/track/0KtIEZgs6wl4Oa6smhTTAI) | [String Machine](https://open.spotify.com/artist/0YxHMJ1H95yl1lu1P0oNQj) | [Touring in January](https://open.spotify.com/album/26rhbSIcEoUY3wZHCO51j3) | 3:14 | 2022-01-19 | 2022-02-10 |
 | [Traces Of Blue](https://open.spotify.com/track/50sfk0qPotJei0sFDCzbzA) | [American Road In New Jersey](https://open.spotify.com/artist/3klEuYX9zLbx9N3acT774Y) | [American Road In New Jersey](https://open.spotify.com/album/5QJpKz8endSwMmGRS6uXc2) | 4:48 | 2026-01-28 | 2026-04-02 |
+| [Track 1](https://open.spotify.com/track/4hdCsdiCLesBNZygxCzOUq) | [Veronica Everheart](https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL) | [Lighter in the Morning \(3/2\)](https://open.spotify.com/album/7orKgFCGLUGdRvVIEDJzvV) | 0:00 | 2026-11-11 |  |
 | [Tracksuit](https://open.spotify.com/track/5uYIouXXqHxc8G8fVavWq2) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Tracksuit](https://open.spotify.com/album/65wgsL4qA1L6VV7lvQhDQP) | 2:38 | 2026-06-10 | 2026-09-10 |
 | [Trader Joe's](https://open.spotify.com/track/0ICHBJ0c7fVPtfiqmr6Fsb) | [Hot Moms Club](https://open.spotify.com/artist/44U6qVof1S72cplspDbWrj) | [Trader Joe's](https://open.spotify.com/album/0efRHJNONrPfMRQIgHluND) | 3:02 | 2023-10-25 | 2023-11-30 |
 | [Trader Joe's](https://open.spotify.com/track/2BwKe3zhLFkWYqY2DDB1Yo) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Trader Joe's](https://open.spotify.com/album/5sSf26h9dzlgnSkAnTLv3a) | 2:57 | 2022-06-29 | 2022-08-04 |
@@ -4004,6 +4008,7 @@
 | [You Always Do](https://open.spotify.com/track/0TYcPsVJuuNcuMp6h5n724) | [Pagu](https://open.spotify.com/artist/45Sm14wuHML2LpcFwMeK5e), [Chloe Moser](https://open.spotify.com/artist/1i5V4hMYdbDEymfiHGPY3m) | [You Always Do](https://open.spotify.com/album/755k2CLMuEqtXYJQiG9r1w) | 3:32 | 2023-08-23 | 2023-09-14 |
 | [You and Your Mother](https://open.spotify.com/track/4GNMCkWYkSYZxGNU1ZS4Jf) | [Lightheaded](https://open.spotify.com/artist/7oTLtwUXWjKQqJhHTDT3lF) | [Combustible Gems](https://open.spotify.com/album/44462odwE01esAUWaV6EUO) | 2:52 | 2024-05-22 | 2024-07-04 |
 | [You Are Mine](https://open.spotify.com/track/4q0GbZQcqLk2NP5ADAIlWI) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [Suburbia Summer](https://open.spotify.com/album/7FywluOFqxjEHEvXLjXkyq) | 1:27 | 2024-06-26 | 2024-07-18 |
+| [You Are Mistaken](https://open.spotify.com/track/5FO51sTJlUfUmx5BTT4uG2) | [Loch Raven](https://open.spotify.com/artist/71SCoEHvwvLluq5KSyl5ia) | [You Are Mistaken](https://open.spotify.com/album/7sZdxP9xS6qCM56DvNu6Go) | 4:10 | 2026-11-11 |  |
 | [you can try](https://open.spotify.com/track/6Xc6n8XpS7FX4DFcUiJs2C) | [Darling Darlene](https://open.spotify.com/artist/7eVZP15eSwEOMxFY7rnDYg) | [you can try](https://open.spotify.com/album/0sSXomqAp2nNMJHosDOijX) | 3:12 | 2025-03-26 | 2025-05-22 |
 | [You Could Be My Home](https://open.spotify.com/track/1OGttz2y1tq6bzKfcnk8Ez) | [Dejima](https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji) | [You Could Be My Home](https://open.spotify.com/album/49PC9m4I8zF04shVOW7H0N) | 3:14 | 2023-08-23 | 2023-10-05 |
 | [You Could Hate Me](https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [You Could Hate Me](https://open.spotify.com/album/5ZnQ85vY3jHGuG1H39JMyd) | 4:11 | 2024-07-17 | 2025-01-16 |
@@ -4038,6 +4043,7 @@
 | [Your Eyes](https://open.spotify.com/track/5wJBsjJ1vy7MdNEdBIxhYO) | [White Fence](https://open.spotify.com/artist/5gH9MJvoI7pN9bohESzYaA) | [Your Eyes](https://open.spotify.com/album/69MKyZkRZIYsAu0kACZfkc) | 3:48 | 2026-02-11 | 2026-04-23 |
 | [Your Game](https://open.spotify.com/track/1EbSmXUkIyT796tLyiqCDV) | [Camille Schmidt](https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1) | [Your Game](https://open.spotify.com/album/6K0ZODd2S1UKSjKGUfufCw) | 3:27 | 2024-07-03 | 2024-08-01 |
 | [Your Girl](https://open.spotify.com/track/3GGhYyzIM0iSUtUXnjbbrh) | [Joni](https://open.spotify.com/artist/1K9ioYi2XAVkS3Ky53IELe) | [Your Girl](https://open.spotify.com/album/5bJb6NR23SvQtK5FxuyQpG) | 3:16 | 2023-10-25 | 2023-11-30 |
+| [Your Love](https://open.spotify.com/track/1fNKvkFoz5O2XggQCRR57G) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Most Likely](https://open.spotify.com/album/1OQizYD8KIkRSmD1U3m9Vg) | 3:11 | 2026-11-11 |  |
 | [Your Mother's Name](https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U) | 3:51 | 2023-06-14 | 2023-07-12 |
 | [Your Number](https://open.spotify.com/track/2zIVLl0KUcnncD3jbQToqN) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Take Flight](https://open.spotify.com/album/6ZmogDIAFRNuuNjxo84sru) | 3:55 | 2024-09-04 | 2024-10-10 |
 | [yours](https://open.spotify.com/track/4j6RYwJbMednbstihgPC06) | [Lilliana Villines](https://open.spotify.com/artist/7mwH4AsIARONjitvPlyxYL) | [yours](https://open.spotify.com/album/54KPFMRiZhWtMi5xTHMUJx) | 4:05 | 2023-10-18 | 2023-11-30 |

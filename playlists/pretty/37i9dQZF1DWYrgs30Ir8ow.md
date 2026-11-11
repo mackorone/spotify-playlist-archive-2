@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Armin van Buuren & Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,307 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,303 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Een Droom](https://open.spotify.com/track/0GO9dV7Tk8uV5n5khaH7VA) | [Sam Kroon](https://open.spotify.com/artist/1lrVA6fP51uti7k1xe6z5y) | [Een Droom](https://open.spotify.com/album/57BzAxJUFw1jx8V6lFIeFB) | 2:21 |
 | 40 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
 
-Snapshot ID: `AAAAAAL2BaGdFAiBHGcFCdzQpJqnrQv3`
+Snapshot ID: `AAAAAO8VMgG57VrmUlIXpOp2GXy/bJwx`

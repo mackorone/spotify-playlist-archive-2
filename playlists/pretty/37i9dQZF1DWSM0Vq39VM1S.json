@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388367,
+  "num_followers": 388363,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADuDPgDvqzVR9Zl+UVEnn1DnLSR/",
+  "snapshot_id": "AAAAANn9AW5O273NcwgPQKOvqEBuVAaM",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:20",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262335,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -187,18 +203,18 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 262335,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -215,22 +231,6 @@
       "duration_ms": 209000,
       "name": "Ride It Out",
       "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 316301,
-      "name": "There's A Rhythmn",
-      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 189905,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
         "name": "Sit Back Baby",
         "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Unforgivable Things",
-        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 155017,
-      "name": "Unforgivable Things",
-      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -411,6 +395,22 @@
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
         "name": "La femme aux yeux de sel",
         "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 232813,
       "name": "Drink the Ocean (feat. Oracle Sisters)",
       "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 191244,
-      "name": "Walk The Way",
-      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
         "name": "Stranger - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+      "duration_ms": 191244,
+      "name": "Walk The Way",
+      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -755,6 +739,22 @@
       "duration_ms": 285026,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6F67iZ1PGel8iMkLipvTIY"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-11-05 23:00:20",

@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 144666,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
@@ -8362,7 +8362,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 154176,
       "name": "De\u00e1k Ferenc",
       "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
@@ -17302,7 +17302,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 134885,
       "name": "J\u00d3ZANOK",
       "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
@@ -22360,7 +22360,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 163375,
       "name": "MOKKA",
       "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
@@ -26528,7 +26528,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 171500,
       "name": "pog\u00e1nyindul\u00f3",
       "url": "https://open.spotify.com/track/3Q286fX6kXedPdyTsY2gNA"
@@ -33049,6 +33049,28 @@
     },
     {
       "album": {
+        "name": "S\u00cdROK:S\u00cdRSZ",
+        "url": "https://open.spotify.com/album/7y1M2tn8U0y4kvDtXXwkVQ"
+      },
+      "artists": [
+        {
+          "name": "Co Lee",
+          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
+        },
+        {
+          "name": "Blaize",
+          "url": "https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215554,
+      "name": "S\u00cdROK:S\u00cdRSZ",
+      "url": "https://open.spotify.com/track/3MsHDheGyi9m4ir5o9nx71"
+    },
+    {
+      "album": {
         "name": "S\u00cdRT\u00c1NC",
         "url": "https://open.spotify.com/album/2Yweo5AlLbmz7w46TYUz7L"
       },
@@ -33078,7 +33100,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -36954,7 +36976,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 189714,
       "name": "VID\u00c9KI CSAJSZI",
       "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"

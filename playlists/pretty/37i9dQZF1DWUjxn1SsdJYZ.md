@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Rops1
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,934 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,929 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 98 | [HANDOUT](https://open.spotify.com/track/3v4GDXibV0EcyViPek8I1d) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz), [Jamahl Yami](https://open.spotify.com/artist/3Itv2bIVJFOjkW4UtMfclN) | [HANDOUT](https://open.spotify.com/album/2TBTrjzQYJGtFCH12Gc6Pe) | 4:16 |
 | 99 | [Sun In My Eyes](https://open.spotify.com/track/01d2YJG6A7w0NsgcxYi9tT) | [Celly](https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Sun In My Eyes](https://open.spotify.com/album/333u5Na3LSYnxUhA7IWc1r) | 2:23 |
 
-Snapshot ID: `AAAAAI46NXf8As+HmZ9dGl9YscbyBhEK`
+Snapshot ID: `AAAAACTu0PGM6jNMPI1X5s0dN8Nzc868`

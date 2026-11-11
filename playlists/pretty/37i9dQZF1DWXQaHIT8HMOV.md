@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,495 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,512 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 64 | [Ndi Omu](https://open.spotify.com/track/6UgcbxONqCTponZo7ko0Ch) | [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE) | [Ndi Omu](https://open.spotify.com/album/60ZlE7CFnEko98CfhCAF5X) | 2:55 |
 | 65 | [Gundi II](https://open.spotify.com/track/4WElF8GBQ6W5uqVyI9FzWw) | [MIMI KAMPALA](https://open.spotify.com/artist/3wLP8my7yp4jjC4wKvg5kX), [KAPEKE](https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2) | [Gundi II](https://open.spotify.com/album/2Re4euq9Jhniua0vnf4Sh4) | 2:57 |
 
-Snapshot ID: `AAAAAJamPAACrR2iZHmr6G/hUzz1D19h`
+Snapshot ID: `AAAAADXrfvJwYArjOHAJWCCe9z7iCPbV`

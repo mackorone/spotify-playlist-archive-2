@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 236660,
       "name": "De Ellas",
       "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
@@ -1712,6 +1712,24 @@
       "duration_ms": 153890,
       "name": "Lo Dijo El Cura",
       "url": "https://open.spotify.com/track/03oeodoZGEdjRNNmwOdDLp"
+    },
+    {
+      "album": {
+        "name": "Mis Baladas Favoritas",
+        "url": "https://open.spotify.com/album/6dt7eoWtYAHKZ13AytqZ4a"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/3t7100p4lNnfq82ScOE3v3"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Bite My Tongue",
+  "description": "The best new music by independent artists and labels. Cover: mikii",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -15667,6 +15667,24 @@
     },
     {
       "album": {
+        "name": "coolstyle on the beat",
+        "url": "https://open.spotify.com/album/5QdjeJA73OhGLCbcwo64uP"
+      },
+      "artists": [
+        {
+          "name": "dedede",
+          "url": "https://open.spotify.com/artist/1JtWVpES2i03rdjMwJS4RR"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "coolstyle on the beat",
+      "url": "https://open.spotify.com/track/3Po89dNTHIEZaT2zau52F6"
+    },
+    {
+      "album": {
         "name": "Coordinate",
         "url": "https://open.spotify.com/album/3DPaDnyWkKn5HDAkFHor8t"
       },
@@ -30923,6 +30941,28 @@
     },
     {
       "album": {
+        "name": "goodmorning",
+        "url": "https://open.spotify.com/album/4PEmImXaXwLO3O1jPuPZd9"
+      },
+      "artists": [
+        {
+          "name": "Isaac Puerile",
+          "url": "https://open.spotify.com/artist/0aH9E0OKr6OeB4x4azs6X4"
+        },
+        {
+          "name": "Annabelle Scobie",
+          "url": "https://open.spotify.com/artist/1bEfTTRDDm56t9xRxuEoiF"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153276,
+      "name": "goodmorning",
+      "url": "https://open.spotify.com/track/1tNhzu7jWWnhLMdyeX403P"
+    },
+    {
+      "album": {
         "name": "Soulsleep",
         "url": "https://open.spotify.com/album/6IDZV7RbQtbaFAfOPL7PMR"
       },
@@ -35619,6 +35659,24 @@
     },
     {
       "album": {
+        "name": "i ached (start again)",
+        "url": "https://open.spotify.com/album/3mPYjrnuREsM4wV9nJikCR"
+      },
+      "artists": [
+        {
+          "name": "mikii",
+          "url": "https://open.spotify.com/artist/057EozaDJTxhkT1TOYrOww"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182108,
+      "name": "i ached (start again)",
+      "url": "https://open.spotify.com/track/0bvC6lz9ABMD7xJYy0N7nI"
+    },
+    {
+      "album": {
         "name": "i always end up leaving.",
         "url": "https://open.spotify.com/album/7x4BQ0AQcuN92NGnz6EZih"
       },
@@ -36474,7 +36532,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 232338,
       "name": "I Love You Too Eagerly",
       "url": "https://open.spotify.com/track/6OyJ57G2Eytka4gfkNmdSn"
@@ -38218,7 +38276,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 149793,
       "name": "if love is a drug then u are the dancefloor",
       "url": "https://open.spotify.com/track/5QJH4W4Z5yLL0wlcJRMSoW"
@@ -41545,6 +41603,24 @@
     },
     {
       "album": {
+        "name": "Kicker",
+        "url": "https://open.spotify.com/album/0zLyjppXUBRDtrbSfCdiq0"
+      },
+      "artists": [
+        {
+          "name": "Becca Caffyn",
+          "url": "https://open.spotify.com/artist/5h124IljqgwVrTkMqYzOYX"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Kicker",
+      "url": "https://open.spotify.com/track/10qe6WA5Jlzjj1oQmOg5xk"
+    },
+    {
+      "album": {
         "name": "Kicking Down the Doors",
         "url": "https://open.spotify.com/album/1OTYIh2b2yzioKuywf5Lxq"
       },
@@ -44738,7 +44814,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 221782,
       "name": "lite blu",
       "url": "https://open.spotify.com/track/1QwqczBg3n7CmXqns1iCyx"
@@ -49590,6 +49666,24 @@
       "duration_ms": 157714,
       "name": "Money Palava (Problem)",
       "url": "https://open.spotify.com/track/42ogGdD5Empt7lcwqf5KiE"
+    },
+    {
+      "album": {
+        "name": "See What We Got / Money Talks",
+        "url": "https://open.spotify.com/album/1szi6ypcbfszPG5elJiZhZ"
+      },
+      "artists": [
+        {
+          "name": "AROHA",
+          "url": "https://open.spotify.com/artist/64wDMxrfNSdTPeu0NM54fc"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195256,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/5W5FsWdbofaBVooG5YE2G4"
     },
     {
       "album": {
@@ -62224,7 +62318,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 166209,
       "name": "Refine Me",
       "url": "https://open.spotify.com/track/2fAPIhEtDhACQfvUwrReep"
@@ -62456,7 +62550,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 100853,
       "name": "Rent/Revolt",
       "url": "https://open.spotify.com/track/1HcDy92WnsINdm06arQ0xl"

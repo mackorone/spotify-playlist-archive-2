@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : \(D\)Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,075 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,020 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [meilleur](https://open.spotify.com/track/7bK6Ss2JFy1dETsTRdwbli) | [saphyra](https://open.spotify.com/artist/52WgSfyDVgbox3BKFP3CWy) | [pour moi / meilleur](https://open.spotify.com/album/2c8AaDWCa7vMPBR54h0VXx) | 2:51 |
 | 50 | [Still](https://open.spotify.com/track/3SNfx5nI6nkQPxKDZlGj6M) | [Damilo](https://open.spotify.com/artist/2n4cNbb3EAErCJP7ZGsNuR), [Lipkaa](https://open.spotify.com/artist/41ikuwjvJkGr7HsBC2zGoT) | [Still](https://open.spotify.com/album/0w0q3yWRVo4anuwWM9u4y4) | 2:25 |
 
-Snapshot ID: `AAAAAPPC0P1U3b0ED5MZagHVqcL/oTik`
+Snapshot ID: `AAAAAGPFxABJ1A+7Z7X1zqZdyIlSCx8D`

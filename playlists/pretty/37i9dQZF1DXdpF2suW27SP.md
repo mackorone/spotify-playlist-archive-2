@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,441 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,465 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 9 | [À Janela](https://open.spotify.com/track/0xSMmvj8aQl9twNz7RQoEt) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [À Janela](https://open.spotify.com/album/1axhHB2sKWodQFnJHEnidG) | 2:55 |
 | 10 | [Icey](https://open.spotify.com/track/3Sn6Wib3xaSfPejHjgXVe7) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Icey](https://open.spotify.com/album/2JGhudNYALbOQ3oKNNTB8M) | 2:48 |
 | 11 | [Real](https://open.spotify.com/track/3WKpREE7SdGvn6oT1W076C) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Real](https://open.spotify.com/album/3LcLs0Q8zzqDD1yJzeceET) | 2:34 |
-| 12 | [É Verdade](https://open.spotify.com/track/192Tpc8jyka8lhukETX50O) | [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn) | [Invictus](https://open.spotify.com/album/5f6eyVG21grEq6FyNKXMO1) | 4:10 |
+| 12 | [É Verdade](https://open.spotify.com/track/192Tpc8jyka8lhukETX50O) | [Kelson Most Wanted](https://open.spotify.com/artist/2kEiVxxmG9nA1CvSb8nqQ1) | [Invictus](https://open.spotify.com/album/5f6eyVG21grEq6FyNKXMO1) | 4:10 |
 | 13 | [Amazónia](https://open.spotify.com/track/7yeAc1eiLyJaZ1QvX2ApyJ) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Opressionismo](https://open.spotify.com/album/0fERphbYeqR6hYAeTzyfuo) | 2:31 |
 | 14 | [Party](https://open.spotify.com/track/4P4Or7sobvSweZsTIGolt7) | [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Orato](https://open.spotify.com/artist/7xFEPysMgkcm5nVrIthJsQ) | [Party](https://open.spotify.com/album/0IzTvHL8cjNLfUNnYZaeT7) | 2:31 |
 | 15 | [Main Character Energy](https://open.spotify.com/track/2F9jpjyAeKI8r3hVvwpfGL) | [Mariela](https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY) | [Estado Limite](https://open.spotify.com/album/7571tPKsYcsvxILiUZqLtn) | 2:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [SOZINHO](https://open.spotify.com/track/4WqePRcR6a4MzUpg9k4vph) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SOZINHO](https://open.spotify.com/album/54lkuV8McOqnmPbUZR7MYF) | 3:13 |
 | 70 | [3 ou 4](https://open.spotify.com/track/23YkOAOVxr2fZqL2oQv52G) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [3 ou 4](https://open.spotify.com/album/0vJZv1jC0fpRX9jSAN7aWn) | 2:19 |
 
-Snapshot ID: `AAAAAPi7yrHYxq/aBAsqfzXBlwbQ1a8k`
+Snapshot ID: `AAAAAKiSGoQW0BtpUuBQfcxHBOYmut2l`

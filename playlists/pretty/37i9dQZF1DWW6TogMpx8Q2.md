@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Faye Wong 王菲
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,513 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,512 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 99 | [用背脊唱情歌](https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [用背脊唱情歌](https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8) | 3:30 |
 | 100 | [我所看見的未來](https://open.spotify.com/track/7H4kKWF9aM6qm3puVzcwy6) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [我所看見的未來](https://open.spotify.com/album/5KyjhnUaXk2qzoFUqT0niK) | 4:07 |
 
-Snapshot ID: `AAAAAK5KEQ6MKYW+L1AG9bFDxdOyTz6z`
+Snapshot ID: `AAAAAMQZ9x+MiWBXyFsPgiCT6cJOTnN1`

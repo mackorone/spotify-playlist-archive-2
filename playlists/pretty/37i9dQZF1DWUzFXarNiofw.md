@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,401 likes - 279 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,348 likes - 279 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 278 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 279 | [Because Of You](https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [Fade To BLUE](https://open.spotify.com/album/3eIxifbzVKzLqJRdNAbTrJ) | 2:18 |
 
-Snapshot ID: `AAAAAMF31f5bone7d/EqhK/toG6N2wiS`
+Snapshot ID: `AAAAAOV5fPADrPEnh9h6V85QysYTUuz8`

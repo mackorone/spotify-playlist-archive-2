@@ -4,7 +4,7 @@
 
 > Pinguini Tattici Nucleari in cover 👜  + le migliori nuove uscite 🇮🇹 e 🌎!
 
-4,004 songs - 8 day 15 hr 14 min
+4,005 songs - 8 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3304,6 +3304,7 @@
 | [Stay With Me](https://open.spotify.com/track/5Lu0RsvwyI37fzUAjIb6RL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Stay With Me](https://open.spotify.com/album/5w4Va9YoVAS3MCAiyMbfkR) | 3:47 | 2026-02-26 | 2026-03-27 |
 | [Stella stellina](https://open.spotify.com/track/2wNoBWBMt1bpoAzPX2lAi0) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Stella stellina](https://open.spotify.com/album/0wVfHOSUm3hEgjPL3VtnvS) | 3:18 | 2026-02-25 | 2026-03-20 |
 | [STELLE](https://open.spotify.com/track/6A4xLWcVQdGGSGkY0XqZ6U) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:26 | 2026-01-15 | 2026-02-13 |
+| [Stelle&Galassie](https://open.spotify.com/track/6VDRCGGxETYuD0cPB5YIJh) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Stelle&Galassie](https://open.spotify.com/album/6cnxRaNlSLozN8uGgcYutv) | 3:14 | 2026-11-10 |  |
 | [Stem the Flow](https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Stem the Flow](https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE) | 4:03 | 2026-05-07 | 2026-05-29 |
 | [Stessa Direzione](https://open.spotify.com/track/2q6syHPJxAA2tK8MKIPyMg) | [Paola Iezzi](https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv) | [Stessa Direzione](https://open.spotify.com/album/1ULcSSlN8W6n5ZEAOEMaHR) | 3:11 | 2026-04-09 | 2026-05-08 |
 | [STESSO RUMORE](https://open.spotify.com/track/53c18kDV41gxcLBweIk0Sv) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [STESSO RUMORE](https://open.spotify.com/album/5VOgvNt2tm0fsJYglya0lE) | 2:07 | 2025-09-25 | 2025-10-17 |

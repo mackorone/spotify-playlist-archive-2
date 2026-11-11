@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,744 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,848 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 65 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
 | 66 | [FIRESTARTER](https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [FIRESTARTER](https://open.spotify.com/album/1yz28fnKHjF4Yr06M6oCep) | 3:07 |
 
-Snapshot ID: `AAAAAIkKnBA99rKt55lPsW52MvbuJ3QN`
+Snapshot ID: `AAAAAKcBJS5/xJPzta+KU8zchw/Kw8wR`

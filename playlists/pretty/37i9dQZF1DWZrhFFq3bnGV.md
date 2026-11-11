@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara, Ave
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,321 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,317 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 99 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 |
 | 100 | [Would You Be Mine?](https://open.spotify.com/track/4nXyj91XfduRt8IXp6xQ6M) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp), [Keita Ogawa](https://open.spotify.com/artist/4JCRE56zJVJMC4vPuSAXdg) | [Would You Be Mine?](https://open.spotify.com/album/6sfAdQBtM7R1MYfVhPtp7g) | 3:47 |
 
-Snapshot ID: `AAAAAHK0H86egH1U6aPlMi+YpanK2JAB`
+Snapshot ID: `AAAAAJYDrZ/8OywZzFEZR0BqVok21Ihg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,733 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,718 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Inopnevma Ftino](https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Agapo Simeni](https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E) | 3:31 |
 | 50 | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT) | 2:45 |
 
-Snapshot ID: `AAAAAAqqGAEOXxMbRtFZiTyyXR71IAy8`
+Snapshot ID: `AAAAAN9EoAQsnVGtgtLRZa4uJVNRd5i8`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALPqU56bhqV0pFIGxPIGe4bb0eyW",
+  "snapshot_id": "AAAAAD7H/sWtbV63Y8evxA9IfU641Hpr",
   "tracks": [
     {
       "added_at": "2026-11-06 00:00:44",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
+        "name": "DEPENDS",
+        "url": "https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 185229,
+      "name": "DEPENDS",
+      "url": "https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
         "name": "FRESH",
         "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 205741,
       "name": "Rose",
       "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "DEPENDS",
-        "url": "https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 185229,
-      "name": "DEPENDS",
-      "url": "https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "Britney (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 271253,
-      "name": "My Big Secret",
-      "url": "https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
         "name": "FINAL GIRL",
         "url": "https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 225928,
       "name": "breaks open",
       "url": "https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "Britney (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 271253,
+      "name": "My Big Secret",
+      "url": "https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "Aldehydes and Ketones / Sky Burial",
-        "url": "https://open.spotify.com/album/4qFYTbgkL159dUVl5oxgZT"
-      },
-      "artists": [
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "Sky Burial",
-      "url": "https://open.spotify.com/track/74lMprSEbZ1swwCOiTGUGm"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 200000,
       "name": "Rising Up",
       "url": "https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "Aldehydes and Ketones / Sky Burial",
+        "url": "https://open.spotify.com/album/4qFYTbgkL159dUVl5oxgZT"
+      },
+      "artists": [
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "Sky Burial",
+      "url": "https://open.spotify.com/track/74lMprSEbZ1swwCOiTGUGm"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/7HYcKh7LOMwYQmFSsxma1Z"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 163282,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/2vaDXEwnLHbnNtmf0o9NhS"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
         "name": "I Thought We Were the Same",
         "url": "https://open.spotify.com/album/0hKPCLMN5IS0x6WnvaE9fw"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 157297,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/1RmBkMzT0VUNI5Fi97Yrob"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/7HYcKh7LOMwYQmFSsxma1Z"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 163282,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/2vaDXEwnLHbnNtmf0o9NhS"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1jYPzM2CSlHcKuf5OOGqbG"
-      },
-      "artists": [
-        {
-          "name": "Shout Out Louds",
-          "url": "https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl"
-        }
-      ],
-      "duration_ms": 246241,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0RWObFtXnP27I1XHL7pc2a"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/0YPD2aXaaMnSX2iFxN57GX"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 155663,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/36NNqAJmcT6aFS0RZPKA1u"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1jYPzM2CSlHcKuf5OOGqbG"
+      },
+      "artists": [
+        {
+          "name": "Shout Out Louds",
+          "url": "https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl"
+        }
+      ],
+      "duration_ms": 246241,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0RWObFtXnP27I1XHL7pc2a"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "I like to be disappointed by you",
-        "url": "https://open.spotify.com/album/1pIlsWA83vCXotxgLCv9d7"
-      },
-      "artists": [
-        {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
-        }
-      ],
-      "duration_ms": 155135,
-      "name": "I like to be disappointed by you",
-      "url": "https://open.spotify.com/track/76E1JjXTpcpEfkBNpPpITW"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
         "name": "Kendra",
         "url": "https://open.spotify.com/album/6hSoZAQyRGa3KgthSLJFIV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 142053,
       "name": "Town Mouse",
       "url": "https://open.spotify.com/track/0EZEpYbfFuttJuXqQIRqv2"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "I like to be disappointed by you",
+        "url": "https://open.spotify.com/album/1pIlsWA83vCXotxgLCv9d7"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "duration_ms": 155135,
+      "name": "I like to be disappointed by you",
+      "url": "https://open.spotify.com/track/76E1JjXTpcpEfkBNpPpITW"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -951,38 +951,6 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "OT, Wouldn\u2019t Be Right",
-        "url": "https://open.spotify.com/album/3tghdPZ5zd8Ve6lLHfwDvJ"
-      },
-      "artists": [
-        {
-          "name": "Slackin Beats",
-          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
-        }
-      ],
-      "duration_ms": 155593,
-      "name": "OT, Wouldn\u2019t Be Right",
-      "url": "https://open.spotify.com/track/7ixaYVV4UsuJKzH0ERAi91"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "Exist",
-        "url": "https://open.spotify.com/album/1z3edTAekmI1IXN1GZ41rc"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        }
-      ],
-      "duration_ms": 188564,
-      "name": "Exist",
-      "url": "https://open.spotify.com/track/0HfuKr8Uv7Zvvp6JMuFkVG"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
         "name": "Wanna Know",
         "url": "https://open.spotify.com/album/0gTBOsYCB3OMHNJxALBUXh"
       },
@@ -999,6 +967,54 @@
       "duration_ms": 174250,
       "name": "Wanna Know",
       "url": "https://open.spotify.com/track/1tGxrIMWFX6SMJANSP8poA"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "OT, Wouldn\u2019t Be Right",
+        "url": "https://open.spotify.com/album/3tghdPZ5zd8Ve6lLHfwDvJ"
+      },
+      "artists": [
+        {
+          "name": "Slackin Beats",
+          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
+        }
+      ],
+      "duration_ms": 155593,
+      "name": "OT, Wouldn\u2019t Be Right",
+      "url": "https://open.spotify.com/track/7ixaYVV4UsuJKzH0ERAi91"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "Everything once",
+        "url": "https://open.spotify.com/album/77j6aJcuxgdxohiV1b2gDU"
+      },
+      "artists": [
+        {
+          "name": "Tigeroak",
+          "url": "https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0"
+        }
+      ],
+      "duration_ms": 186155,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/3HYStRor1g78cGa98YqMVK"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "Exist",
+        "url": "https://open.spotify.com/album/1z3edTAekmI1IXN1GZ41rc"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        }
+      ],
+      "duration_ms": 188564,
+      "name": "Exist",
+      "url": "https://open.spotify.com/track/0HfuKr8Uv7Zvvp6JMuFkVG"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -1035,38 +1051,6 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "Everything once",
-        "url": "https://open.spotify.com/album/77j6aJcuxgdxohiV1b2gDU"
-      },
-      "artists": [
-        {
-          "name": "Tigeroak",
-          "url": "https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0"
-        }
-      ],
-      "duration_ms": 186155,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/3HYStRor1g78cGa98YqMVK"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "momma",
-        "url": "https://open.spotify.com/album/5ZP4gAFUUBc2Xn8UrlwfF2"
-      },
-      "artists": [
-        {
-          "name": "MASAKA",
-          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
-        }
-      ],
-      "duration_ms": 154115,
-      "name": "momma",
-      "url": "https://open.spotify.com/track/3cB4a7ZneTEFrV2ae3RtsO"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/6P14GwIxPGbokzAfkYzTWx"
       },
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "Elvish",
-        "url": "https://open.spotify.com/album/1A2uWBHdMvYc5zPXgA5ahj"
+        "name": "Final Draft",
+        "url": "https://open.spotify.com/album/3J2IJOr9vQVdhLfFM0uArM"
       },
       "artists": [
         {
-          "name": "Stephanie Gilbert",
-          "url": "https://open.spotify.com/artist/7s2F8U3eodhEj30m3ghK38"
+          "name": "Vendela Brask",
+          "url": "https://open.spotify.com/artist/5dH5hwyrxbsGHCb57RenBs"
         }
       ],
-      "duration_ms": 151413,
-      "name": "Royal Blue",
-      "url": "https://open.spotify.com/track/7eaXuBTPKvrUdeUSKrsXEy"
+      "duration_ms": 174418,
+      "name": "These are the Things",
+      "url": "https://open.spotify.com/track/6uUTso9pC7tvOejsE5ESrz"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "momma",
+        "url": "https://open.spotify.com/album/5ZP4gAFUUBc2Xn8UrlwfF2"
+      },
+      "artists": [
+        {
+          "name": "MASAKA",
+          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
+        }
+      ],
+      "duration_ms": 154115,
+      "name": "momma",
+      "url": "https://open.spotify.com/track/3cB4a7ZneTEFrV2ae3RtsO"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -1135,50 +1135,18 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "GOOD KID.",
-        "url": "https://open.spotify.com/album/6mh2skvVaBLy4QYFckZvk7"
+        "name": "Elvish",
+        "url": "https://open.spotify.com/album/1A2uWBHdMvYc5zPXgA5ahj"
       },
       "artists": [
         {
-          "name": "KURT.",
-          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+          "name": "Stephanie Gilbert",
+          "url": "https://open.spotify.com/artist/7s2F8U3eodhEj30m3ghK38"
         }
       ],
-      "duration_ms": 221021,
-      "name": "GOOD KID.",
-      "url": "https://open.spotify.com/track/5Rk5KhCnpwntLTILwbaAPf"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "Dimmed",
-        "url": "https://open.spotify.com/album/7csnC2ndNagMLAoQGMTJps"
-      },
-      "artists": [
-        {
-          "name": "Klara Zangerl",
-          "url": "https://open.spotify.com/artist/3821UxzQ6O57K5396mmoce"
-        }
-      ],
-      "duration_ms": 191711,
-      "name": "Dimmed",
-      "url": "https://open.spotify.com/track/0hySLRZwWdIZtf3vq9rA7p"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "Final Draft",
-        "url": "https://open.spotify.com/album/3J2IJOr9vQVdhLfFM0uArM"
-      },
-      "artists": [
-        {
-          "name": "Vendela Brask",
-          "url": "https://open.spotify.com/artist/5dH5hwyrxbsGHCb57RenBs"
-        }
-      ],
-      "duration_ms": 174418,
-      "name": "These are the Things",
-      "url": "https://open.spotify.com/track/6uUTso9pC7tvOejsE5ESrz"
+      "duration_ms": 151413,
+      "name": "Royal Blue",
+      "url": "https://open.spotify.com/track/7eaXuBTPKvrUdeUSKrsXEy"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -1219,6 +1187,38 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
+        "name": "GOOD KID.",
+        "url": "https://open.spotify.com/album/6mh2skvVaBLy4QYFckZvk7"
+      },
+      "artists": [
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "duration_ms": 221021,
+      "name": "GOOD KID.",
+      "url": "https://open.spotify.com/track/5Rk5KhCnpwntLTILwbaAPf"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "Dimmed",
+        "url": "https://open.spotify.com/album/7csnC2ndNagMLAoQGMTJps"
+      },
+      "artists": [
+        {
+          "name": "Klara Zangerl",
+          "url": "https://open.spotify.com/artist/3821UxzQ6O57K5396mmoce"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "Dimmed",
+      "url": "https://open.spotify.com/track/0hySLRZwWdIZtf3vq9rA7p"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
         "name": "Kilowatt / Respektrum",
         "url": "https://open.spotify.com/album/05jUxKq2N1DIu7Si1pwMNA"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 310375,
       "name": "Kilowatt",
       "url": "https://open.spotify.com/track/5a6nX0L9raFnoGjAeH02dh"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "somehow it's going somewhere",
+        "url": "https://open.spotify.com/album/48e8OkqF8ocS3xMbK01pz5"
+      },
+      "artists": [
+        {
+          "name": "NIQI",
+          "url": "https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR"
+        }
+      ],
+      "duration_ms": 203886,
+      "name": "DRIVER'S SEAT",
+      "url": "https://open.spotify.com/track/7Jm4U5IS8xtZLs5EWVEOh1"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -1267,6 +1283,22 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
+        "name": "When I Call",
+        "url": "https://open.spotify.com/album/7ya4iexcb9iv11Sr7QJETW"
+      },
+      "artists": [
+        {
+          "name": "Trolle Siebenhaar",
+          "url": "https://open.spotify.com/artist/08Dy6nbbKqKbN5J7hRODRh"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "When I Call",
+      "url": "https://open.spotify.com/track/5BFjVyfbMV52PwrSsLvaVz"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
         "name": "my brain is a heatwave",
         "url": "https://open.spotify.com/album/2URHIbA6FaMY7C3r7rxp7B"
       },
@@ -1283,22 +1315,6 @@
       "duration_ms": 217608,
       "name": "my brain is a heatwave",
       "url": "https://open.spotify.com/track/5yeivWV4zHgfYrmn2JH3Xp"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "When I Call",
-        "url": "https://open.spotify.com/album/7ya4iexcb9iv11Sr7QJETW"
-      },
-      "artists": [
-        {
-          "name": "Trolle Siebenhaar",
-          "url": "https://open.spotify.com/artist/08Dy6nbbKqKbN5J7hRODRh"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "When I Call",
-      "url": "https://open.spotify.com/track/5BFjVyfbMV52PwrSsLvaVz"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -1331,22 +1347,6 @@
       "duration_ms": 203500,
       "name": "Your Pretty Face is Basic",
       "url": "https://open.spotify.com/track/60ZlQpK5bGKNhrsUByQC7I"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
-        "name": "somehow it's going somewhere",
-        "url": "https://open.spotify.com/album/48e8OkqF8ocS3xMbK01pz5"
-      },
-      "artists": [
-        {
-          "name": "NIQI",
-          "url": "https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR"
-        }
-      ],
-      "duration_ms": 203886,
-      "name": "DRIVER'S SEAT",
-      "url": "https://open.spotify.com/track/7Jm4U5IS8xtZLs5EWVEOh1"
     },
     {
       "added_at": "2026-11-06 00:00:44",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-11-06 00:00:44",
       "album": {
-        "name": "PINK STATIC",
-        "url": "https://open.spotify.com/album/5QZn5uP4NAkurm6QQJv2ym"
-      },
-      "artists": [
-        {
-          "name": "Sigga \u00d3zk",
-          "url": "https://open.spotify.com/artist/73J7dlqdZeEGsO1yEU1c47"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "SO HIGH",
-      "url": "https://open.spotify.com/track/7yOMVxVaWGG55SbrKAfzLH"
-    },
-    {
-      "added_at": "2026-11-06 00:00:44",
-      "album": {
         "name": "Baldperv",
         "url": "https://open.spotify.com/album/5u9pcZzeqVFm4I9XVEZuPo"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 210597,
       "name": "Baldperv",
       "url": "https://open.spotify.com/track/4Pe91usk5CSkxE4Y8DaORD"
+    },
+    {
+      "added_at": "2026-11-06 00:00:44",
+      "album": {
+        "name": "PINK STATIC",
+        "url": "https://open.spotify.com/album/5QZn5uP4NAkurm6QQJv2ym"
+      },
+      "artists": [
+        {
+          "name": "Sigga \u00d3zk",
+          "url": "https://open.spotify.com/artist/73J7dlqdZeEGsO1yEU1c47"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "SO HIGH",
+      "url": "https://open.spotify.com/track/7yOMVxVaWGG55SbrKAfzLH"
     },
     {
       "added_at": "2026-11-06 00:00:44",

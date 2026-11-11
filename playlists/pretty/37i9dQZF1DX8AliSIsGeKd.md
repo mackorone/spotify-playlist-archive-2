@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Kellerkind
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,663 likes - 90 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,752 likes - 90 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Running](https://open.spotify.com/track/4prim7lj2pcicW7S14eis2) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Etri](https://open.spotify.com/artist/3zvc2yHnIATFprrfOaVDdk) | [Running](https://open.spotify.com/album/0cmbjli680XVIvwzFOJApd) | 3:49 |
 | 90 | [In The Night](https://open.spotify.com/track/6aIn0QNRGbsMm2yJOm0bsO) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Standing Wave](https://open.spotify.com/album/6f8uzwz1BCkmj0Mq6QygSC) | 3:06 |
 
-Snapshot ID: `AAAAAJQaAmiEQ3VY4YbfCcpA+LrULOFw`
+Snapshot ID: `AAAAAGamPX/1rTWAN7IlEV8Ck7hojkmS`

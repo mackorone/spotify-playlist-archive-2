@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Mack Geiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,454 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,346,517 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Girl From Louisiana](https://open.spotify.com/track/7en28TQnEezIO4i2AvMPfD) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Girl From Louisiana](https://open.spotify.com/album/7lItcVz3HyWaqculveT7So) | 3:11 |
 | 100 | [Maybe Next Time, Honey!](https://open.spotify.com/track/46ojkgacHjlBi949LUkEgh) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Maybe Next Time, Honey!](https://open.spotify.com/album/29bkuZtUu6O0QcOWXfE0vq) | 3:26 |
 
-Snapshot ID: `AAAAAOv6nuV9Aaap17RR2HRyx5FlLG/9`
+Snapshot ID: `AAAAAKa4aH8th0pLLd3eecZfVhFjfkQp`

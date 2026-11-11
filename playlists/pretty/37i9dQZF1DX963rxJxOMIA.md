@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante como Blessd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,047 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,063 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 9 | [GAMINA](https://open.spotify.com/track/5E6Mn8HCO1izFhRm2PFxNq) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 2:26 |
 | 10 | [SE PUSO FEO](https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 3:28 |
 | 11 | [Mano al piso remix](https://open.spotify.com/track/4CibTBydFDLzQKyg6Vtr23) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Mano al piso remix](https://open.spotify.com/album/7HlnR44j7zO6jhDjAzMWIp) | 3:04 |
-| 12 | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ) | 3:22 |
+| 12 | [Pico Y Chao \- W Sound 08](https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ) | 3:22 |
 | 13 | [CAPCANA COCOA](https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [CAPCANA COCOA](https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4) | 4:04 |
 | 14 | [PODERES](https://open.spotify.com/track/1rXEeC08o0ZLfV5md9RHhN) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 3:33 |
 | 15 | [Lento](https://open.spotify.com/track/7rg67FsjKopV6WXvJYF8uM) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I), [1cewayz](https://open.spotify.com/artist/074nZ9lE8oOR6Amfoyacyp) | [Lento](https://open.spotify.com/album/3XsikNMTSZMajYvNj8JS7U) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 49 | [Desde Antes](https://open.spotify.com/track/5Ulsi8075EHzP2chQqbv86) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Desde Antes](https://open.spotify.com/album/2M8U9CPDLmJwTEoMEXWDZl) | 3:11 |
 | 50 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 
-Snapshot ID: `AAAAAF6Pv8Ml9sTMdDrVWea1AF0nAaPa`
+Snapshot ID: `AAAAAGaM4ydiltvEX7qFFoyvaogig65L`

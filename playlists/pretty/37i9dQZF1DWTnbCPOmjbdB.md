@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Margaret
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,450 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,463 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [dobry chłopak](https://open.spotify.com/track/27izWZ4NAjc8GxRrABc7QG) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO) | [dobry chłopak](https://open.spotify.com/album/0w7PCOVD8VgLKjlmqpT1O4) | 2:29 |
 | 60 | [SZTUCZNE USTA](https://open.spotify.com/track/3TaKlH1BbZ6swEF5GECVo9) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [SZTUCZNE USTA](https://open.spotify.com/album/3zkB0tbxkIG2av3bIDfssa) | 3:20 |
 
-Snapshot ID: `AAAAAL+pvXjWuMGSkkD6wpxDUhLYodAu`
+Snapshot ID: `AAAAAAdYiEkPhB6VyLTIbtjQ4JVl+Jpb`

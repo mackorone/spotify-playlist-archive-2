@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 10 | [Mar Alto](https://open.spotify.com/track/3h6WcBskgWW23zaCVH8dlJ) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Mar Alto](https://open.spotify.com/album/5jvAZpAc4rvttxdg5VjbQd) | 3:34 |
 | 11 | [Estás Com Quem?](https://open.spotify.com/track/4aXxiSClwJLhIalFM3zeZM) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Estás Com Quem?](https://open.spotify.com/album/3hqiTeFRz5uI6AZdRbQExe) | 2:59 |
 | 12 | [Até Quando](https://open.spotify.com/track/5m4yudvbVhkdzkKV9kuExy) | [GNTK](https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0) | [Até Quando](https://open.spotify.com/album/2w9i9g4EzNutaoOodrzQbU) | 3:20 |
-| 13 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
+| 13 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
 | 14 | [Lei do Retorno](https://open.spotify.com/track/4FCoecP6PECXmIt2b2zVHr) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Lei do Retorno](https://open.spotify.com/album/6oKy4TpygzC3aPOCUVX3Ru) | 2:59 |
 | 15 | [Rapariga \(feat\. Amália Rodrigues\)](https://open.spotify.com/track/12FmYEHJy6B13Mg1THQoAG) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Lusa: ato II](https://open.spotify.com/album/7kDPFNG3yYCLjhIElwAWJh) | 2:50 |
 | 16 | [Duas Vidas](https://open.spotify.com/track/5xdM4ZK9G333MOch7obCba) | [Descendentes](https://open.spotify.com/artist/5DpVZE4NH0yveH86S2gcjh) | [Viagem Sem Regresso](https://open.spotify.com/album/65EksX40X95LoOfz2b9G1a) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 74 | [Luz Acesa](https://open.spotify.com/track/7GElIJqRUf48bkl9FsECcW) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Luz Acesa](https://open.spotify.com/album/0xZdpfUlVm9dsuKzBbQGhL) | 2:37 |
 | 75 | [Olha Nós \(feat\. Djodje\)](https://open.spotify.com/track/4rwoaePPllbblEy0NkdJjN) | [April Ivy](https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Olha Nós \(feat\. Djodje\)](https://open.spotify.com/album/2O3dakOBMqzBaLt7GRFCBt) | 3:15 |
 
-Snapshot ID: `AAAAAEZgc0As5uU5/N1PyG9lUrsPKaGv`
+Snapshot ID: `AAAAAFC6WstF8X/UaJYs5LdJVHetqtpt`

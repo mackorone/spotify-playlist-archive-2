@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT this week is all about 90s college radio\. Cover: Hootie & The Blowfish
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256,237 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256,107 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [What It's Like](https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings the Blues](https://open.spotify.com/album/4ebpJ41hnGAIBZ8Cwua250) | 5:03 |
 | 50 | [Take a Picture](https://open.spotify.com/track/2c5wml8wsBnPfNSbCZ574T) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/5G6pS4ES22Np0hehqJYIct) | 5:59 |
 
-Snapshot ID: `AAAAAG2Neqb/LTN2m95GbDnG7XmMFSSG`
+Snapshot ID: `AAAAADMHOESFXCxiqFZpsMcynilnS6hr`

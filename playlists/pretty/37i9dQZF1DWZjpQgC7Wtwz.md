@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,700 likes - 77 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,731 likes - 77 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 76 | [Pistie Tu Recuerdo](https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [DEL Records Presenta: Por Causa DEL Amor](https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9) | 3:09 |
 | 77 | [Gente de Rancho](https://open.spotify.com/track/275hTOOo0FTvaxNcaJ1ooj) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT), [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Banda los Costeños](https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn), [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R), [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Gente de Rancho](https://open.spotify.com/album/6O6f5rlYHcfueiILwsfBVB) | 2:40 |
 
-Snapshot ID: `AAAAAP9gVJWbtic8MeMeSk6g8DiWBr0N`
+Snapshot ID: `AAAAAH48poujUYy9WIaHOrPjGTV+dZsn`

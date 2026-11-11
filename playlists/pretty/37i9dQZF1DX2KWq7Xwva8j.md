@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Alcalá Norte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,193 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,198 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 11 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 |
 | 12 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
 | 13 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
-| 14 | [Solo Ama](https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Solo Ama](https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh) | 3:30 |
+| 14 | [Tu no estás sola](https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB), [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn) | [Tu no estás sola](https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp) | 3:28 |
 | 15 | [TOTO DE LOCA](https://open.spotify.com/track/1BHscyZF6ZHx534gxTsjPe) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [Neofita](https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp) | 3:00 |
 | 16 | [Me Vas A Matar](https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 3:08 |
 | 17 | [Mi loco cowboy](https://open.spotify.com/track/5XiFK0lqhOUlGPXFyfrIbc) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Mi loco cowboy](https://open.spotify.com/album/55FFc3Qs71UsBrKSaA5PQj) | 3:08 |
 | 18 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
-| 19 | [Tu no estás sola](https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB), [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn) | [Tu no estás sola](https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp) | 3:28 |
+| 19 | [Solo Ama](https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Solo Ama](https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh) | 3:30 |
 | 20 | [DEMONIAS MUÑECAS](https://open.spotify.com/track/1F22SGMpR8KQMijk1ihj4r) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [DEMONIAS MUÑECAS](https://open.spotify.com/album/6hTlEVdpr7QRWBICFZR88z) | 2:48 |
 | 21 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 |
 | 22 | [Placer de vivir](https://open.spotify.com/track/148LN4dJOFg4Y6G2Ezqnpu) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Placer de vivir](https://open.spotify.com/album/2GjY9NfZdA8glT6Mzd26C3) | 3:09 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 44 | [Sea como Sea](https://open.spotify.com/track/0P4VuDVzqrZMXGpgl8T20C) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Sea como Sea](https://open.spotify.com/album/4XxPjsotbbdjY4T4iDG5pP) | 2:43 |
 | 45 | [CONEJITA PLAYBOY](https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:18 |
 
-Snapshot ID: `AAAAAMRa7y/F9cy/h4iJt4JTe0hkvoAI`
+Snapshot ID: `AAAAABq3NM96oucXRZl4BIEvfyaswyYD`

@@ -4,7 +4,7 @@
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Rex Orange County
 
-11,068 songs - 26 day 20 hr 50 min
+11,069 songs - 26 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2842,6 +2842,7 @@
 | [Ecstatic Baby](https://open.spotify.com/track/3DMjroRFEZfDchxfI3jCid) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Ecstatic Baby](https://open.spotify.com/album/58mNhFfQo2GnUxAG6Tw8dY) | 2:54 | 2019-05-26\* | 2019-06-15 |
 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-14 | 2026-01-15 |
 | [Edge of the Edge](https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Edge of the Edge](https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc) | 4:48 | 2022-08-05 | 2022-09-24 |
+| [Edge of the World](https://open.spotify.com/track/4AoImzpO7KR5WPG1sKKoXF) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Edge of the World](https://open.spotify.com/album/0hvPBpoZaslvJG92YZRO8H) | 2:51 | 2026-11-06 |  |
 | [Edith](https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 3:24 | 2023-11-10 | 2024-01-05 |
 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 | 2024-01-12 | 2024-02-17 |
 | [Eggshells](https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Eggshells](https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN) | 2:31 | 2022-09-16 | 2022-11-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,179,873 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,179,414 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [He's Not Me](https://open.spotify.com/track/5uNQin7lRGJmqiIYA2YTT4) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [He's Not Me](https://open.spotify.com/album/16vD8UhksZLKL2yRX5y9vV) | 3:06 |
 | 50 | [That's Why I Love You \(feat\. Bruno Mars\)](https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 4:38 |
 
-Snapshot ID: `AAAAAOl16y38TpUVCdIUmgaQsp69uZCN`
+Snapshot ID: `AAAAANDf2WCRKiKkSwDW4LmTIgiyl35x`

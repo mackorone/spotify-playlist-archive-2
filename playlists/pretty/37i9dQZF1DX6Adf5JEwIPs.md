@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Juanchito, Gerardo Coronel 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,640 likes - 57 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,624 likes - 57 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 56 | [Mi Promesa](https://open.spotify.com/track/4v3bsHnwCVvp4h6gEGW1PL) | [Luna Roja](https://open.spotify.com/artist/4mPd1yxqjLNEZDVKGuVL0q) | [Mi Promesa](https://open.spotify.com/album/7GwLU22Xc04OiTJA5QjyEk) | 4:12 |
 | 57 | [Siboney](https://open.spotify.com/track/6x5VydRpA8pKo0jeCloGPo) | [Banda Santa Cecilia](https://open.spotify.com/artist/054O0U0fn62fNcGSoptE4N) | [Danzón Nereidas](https://open.spotify.com/album/3sQBfFuMPaBaqrPiKtOpf6) | 3:56 |
 
-Snapshot ID: `AAAAAJsEBs2k/jO7eiB5AegDJRBDkIHs`
+Snapshot ID: `AAAAAAvskvwpYfwlZE7Af7F44/Uh/1zQ`

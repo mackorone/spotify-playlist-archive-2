@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,788 likes - 66 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,786 likes - 66 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 65 | [Tatlong Hiling](https://open.spotify.com/track/1q0l294XTsmggN3RqXAzwc) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Tatlong Hiling](https://open.spotify.com/album/1w4BO15BOKWYPZdGtVTADV) | 3:26 |
 | 66 | [MAN IN THE MERROR](https://open.spotify.com/track/1cvCRZIRrLWS4kFhcTnGRt) | [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [BACKSHOTS](https://open.spotify.com/album/07C49ixINtIqUa1VZpVGxT) | 2:52 |
 
-Snapshot ID: `AAAAAFU6hJ+s1wIkD2kRof+BldpZhzLP`
+Snapshot ID: `AAAAADEofPdn6JM2l2MyrQwIPiwVLv4k`

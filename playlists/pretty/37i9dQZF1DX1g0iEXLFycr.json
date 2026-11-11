@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1064698,
+  "num_followers": 1064621,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWpKjHfbMZjtdkieYaHvTL2MpFX",
+  "snapshot_id": "AAAAAE91R5eKgdVwCl1iCPjnoWtW4yfk",
   "tracks": [
     {
       "added_at": "2024-03-22 16:40:22",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/5JkTN6THtYH6bpOoHjOysc"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 209586,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/5JkTN6THtYH6bpOoHjOysc"
     },
     {
       "added_at": "2024-03-22 16:40:22",

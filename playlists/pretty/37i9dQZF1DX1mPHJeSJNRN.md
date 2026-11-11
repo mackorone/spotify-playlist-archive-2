@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,270 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,268 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 30 | [I'm In The Mood For Love \- Take 3 / Alternate Take](https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:34 |
 | 31 | [There'll Be Another Spring](https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:40 |
 | 32 | [April Come She Will](https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 3:14 |
-| 33 | [Here I'll Stay](https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:00 |
-| 34 | [When the Sun Comes Out](https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 4:07 |
+| 33 | [When the Sun Comes Out](https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 4:07 |
+| 34 | [Here I'll Stay](https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:00 |
 | 35 | [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 |
 | 36 | [Just A Little Lovin'](https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Feelin' Good](https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e) | 3:10 |
 | 37 | [I Will Wait for You](https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:22 |
-| 38 | [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 |
-| 39 | [April In Paris](https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 3:23 |
+| 38 | [April In Paris](https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 3:23 |
+| 39 | [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 |
 | 40 | [Holland](https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 8:46 |
 | 41 | [Won't You Be My Neighbor](https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [A Lot of Livin' to Do](https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk) | 3:45 |
 | 42 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 50 | [Melancholy March](https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Calendar Girl](https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE) | 2:21 |
 | 51 | [Bye Bye Blackbird](https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 5:10 |
 | 52 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 |
-| 53 | [I’ve Got A Crush On You](https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 2:54 |
-| 54 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
+| 53 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
+| 54 | [I’ve Got A Crush On You](https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 2:54 |
 | 55 | [All The Way](https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd) | 3:32 |
 | 56 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 |
 | 57 | [Something 'bout the Rain](https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [The 59th Street Bridge Song \(Feelin' Groovy\)](https://open.spotify.com/track/1KjpCLFe5RvCX9QIrN7h4r) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 5:09 |
 | 100 | [Here's That Rainy Day \- Live At The Blue Note, New York City, NY / March 16\-18, 1990](https://open.spotify.com/track/1GLfRF7PctZpN4eIxYM9lt) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8) | [Encore At The Blue Note](https://open.spotify.com/album/6NZlK7f3vVeAqrMduHam7p) | 9:00 |
 
-Snapshot ID: `AAAAAD43VDfWG3qTMh0wPt7ubd5cGLhB`
+Snapshot ID: `AAAAAMfNx0lBQ0xbRWXVAbOqJenvLgnP`

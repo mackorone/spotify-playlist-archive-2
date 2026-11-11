@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Cruel Santino, Skepta, Joeboy, L.A.X, Didi B, Lil Baby, Bruno Mars and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,394 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,459 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 59 | [My Typa Girl](https://open.spotify.com/track/2XUd4EhQoX8OcK3gqTK7Cm) | [Lucky Yay!](https://open.spotify.com/artist/6w8J7nOxlFpIl2dK2czCAT) | [I'm Lucky Yay!](https://open.spotify.com/album/4q4LNQPeCFm7S6cjLXSh2o) | 2:21 |
 | 60 | [Grain of Salt](https://open.spotify.com/track/2vPqCuX4GFFAJiGj9JQMG0) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Grain of Salt](https://open.spotify.com/album/2lMtd3JFKranwOBgwHVGcv) | 2:42 |
 
-Snapshot ID: `AAAAAMPgb/podA/FT9t5U+nOmC16RBIr`
+Snapshot ID: `AAAAAIU6m7EOwn0x2COreAcHqVLzqznF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. brakence on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,913 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,906 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 49 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 |
 | 50 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 
-Snapshot ID: `AAAAAJ0WmX974U+y0aIn9dTh/4UXzhaL`
+Snapshot ID: `AAAAACpBhzOaUkhAcizm29F4uZ8qDdHS`

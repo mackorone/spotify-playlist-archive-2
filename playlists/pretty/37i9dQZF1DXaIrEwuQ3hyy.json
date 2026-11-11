@@ -1,12 +1,12 @@
 {
   "description": "lass mal den herbst romantisieren",
-  "num_followers": 1109674,
+  "num_followers": 1109728,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEY7xzoJKV/FqaaxpfXkTMMiF0tF",
+  "snapshot_id": "AAAAAA96X5M8mCcDG3kJXAhG1Z38/pg5",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:47",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "Greetings From Bleak St.",
-        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
-      },
-      "artists": [
-        {
-          "name": "Josie Edwards",
-          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
-        }
-      ],
-      "duration_ms": 226041,
-      "name": "Chemical Light",
-      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "Take Me There",
         "url": "https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 202626,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "Greetings From Bleak St.",
+        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "duration_ms": 226041,
+      "name": "Chemical Light",
+      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "PANGEA",
-        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 145099,
-      "name": "PANGEA",
-      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "PANGEA",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 145099,
+      "name": "PANGEA",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "Summer Clothes",
-        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "Summer Clothes",
-      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "M\u00e4rchenwald",
         "url": "https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 183012,
       "name": "M\u00e4rchenwald",
       "url": "https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
         "name": "Natural Law",
         "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 147346,
       "name": "Natural Law (ft. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
-        "name": "Karaoke Bar",
-        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 204467,
-      "name": "Karaoke Bar",
-      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -991,30 +991,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "Tall Pines",
-        "url": "https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX"
-      },
-      "artists": [
-        {
-          "name": "Ed Prosek",
-          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
-        },
-        {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "Driftwood Choir",
-          "url": "https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF"
-        }
-      ],
-      "duration_ms": 194210,
-      "name": "Tall Pines",
-      "url": "https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "Ride It Out",
         "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
       },
@@ -1047,18 +1023,26 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+        "name": "Tall Pines",
+        "url": "https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "Ed Prosek",
+          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
+        },
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "Driftwood Choir",
+          "url": "https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+      "duration_ms": 194210,
+      "name": "Tall Pines",
+      "url": "https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1075,6 +1059,22 @@
       "duration_ms": 262198,
       "name": "Rehab - Spotify Singles",
       "url": "https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "light up",
-        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "light up",
-      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 206808,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "light up",
+        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "light up",
+      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "LIFE IS WEIRD SOMETIMES",
-        "url": "https://open.spotify.com/album/46zget8f2833wlpXGK74vN"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "WAVES",
-      "url": "https://open.spotify.com/track/1Ew3ZHUTSRNf1W3LW8gkB9"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "Iman",
         "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 161787,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "LIFE IS WEIRD SOMETIMES",
+        "url": "https://open.spotify.com/album/46zget8f2833wlpXGK74vN"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "WAVES",
+      "url": "https://open.spotify.com/track/1Ew3ZHUTSRNf1W3LW8gkB9"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "everything in between",
-        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 213450,
-      "name": "seven days a week",
-      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "I Was Stone",
         "url": "https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
+        "name": "everything in between",
+        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 213450,
+      "name": "seven days a week",
+      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
         "name": "WORRY.",
         "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
@@ -1643,6 +1643,22 @@
       "duration_ms": 243282,
       "name": "WORRY.",
       "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "Damn the Wild Air, Pt. 01",
+        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1679,22 +1695,6 @@
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
-        "name": "Damn the Wild Air, Pt. 01",
-        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
     }
   ],
   "unique_name": "Herbst Chillout",

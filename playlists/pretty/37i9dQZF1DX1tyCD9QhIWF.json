@@ -1,12 +1,12 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2278832,
+  "num_followers": 2278773,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANRmpr8t6lWyaKTeKZjpvW+y0Fsh",
+  "snapshot_id": "AAAAAAqQl3o8kqJjpzNMY8RRFJB0WLw8",
   "tracks": [
     {
       "added_at": "2024-04-18 19:20:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 142737,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
         "name": "I Like The Way You Die",
         "url": "https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 188026,
       "name": "I Like The Way You Die",
       "url": "https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 142737,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
         "name": "So Sweet I Could Die",
         "url": "https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 142328,
       "name": "So Sweet I Could Die",
       "url": "https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
     },
     {
       "added_at": "2024-04-18 19:20:27",

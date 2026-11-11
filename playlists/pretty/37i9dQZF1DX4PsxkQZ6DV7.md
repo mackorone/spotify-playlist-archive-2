@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PsxkQZ6DV7.md) - [plain]
 
 > Music from "CHiiKAWA THE MOVIE: THE SECRET OF THE MERMAID ISLAND" 「映画ちいかわ 人魚の島のひみつ」とシリーズの楽曲を1つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 56 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 56 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PsxkQZ6DV7.md) - [plain]
 | 55 | [決戦前夜](https://open.spotify.com/track/1TwAEmCm7rMayJe6ceTCIv) | [上水樽 力](https://open.spotify.com/artist/5r8i3GXPIYkaDeja0VQcfy), [トクマルシューゴ](https://open.spotify.com/artist/5RlVG4o01rX3mnfSyApsZQ) | [『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part2](https://open.spotify.com/album/41DhlAnaNDkSCnzn8nRTbF) | 0:20 |
 | 56 | [ファイナル・カレーバトルⅡ](https://open.spotify.com/track/3DIzdyiZC0JKloR02WnOnr) | [上水樽 力](https://open.spotify.com/artist/5r8i3GXPIYkaDeja0VQcfy) | [『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part2](https://open.spotify.com/album/41DhlAnaNDkSCnzn8nRTbF) | 0:24 |
 
-Snapshot ID: `AAAAAHHIyl2gq1DMK/D+hgloNCdrlZ3b`
+Snapshot ID: `AAAAAPFL9OmtNywGAycb0CctARR1OK+4`

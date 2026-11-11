@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: frau\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,520 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,541 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [oh, lover](https://open.spotify.com/track/7uqtB0u3EtELNUkLXsq7oZ) | [Blue](https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja) | [oh, lover](https://open.spotify.com/album/25KD39kHJsWvPhQVGI7Qc9) | 2:52 |
 | 75 | [CANDYNECKLACE](https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [ANGELFOODCAKE](https://open.spotify.com/album/2X1juJXzvB8YVuioMOH848) | 3:33 |
 
-Snapshot ID: `AAAAAPVOhHc0sPT6Gwq63zrCUsMtKZFX`
+Snapshot ID: `AAAAAPavoSNCseW0nIwov3JPPbXdaSMO`

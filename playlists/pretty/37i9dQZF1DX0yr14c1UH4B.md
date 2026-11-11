@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🎧 Cover: Dermot Henry
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,120 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,103 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
 | 100 | [Sounds Like An Ending](https://open.spotify.com/track/1SXoMnQgRKFxN52Oj29BUA) | [jjuno](https://open.spotify.com/artist/6G4JfBtIPqP0VSTpNuVKej) | [Sounds Like An Ending](https://open.spotify.com/album/3jOL1kXdr6sRXkqb8NQB9x) | 3:02 |
 
-Snapshot ID: `AAAAAFY8jkQY1UpnaKbcfunUn+31Wldm`
+Snapshot ID: `AAAAAObwEZ0uVIEIM5gQb1glTuBg5PYL`

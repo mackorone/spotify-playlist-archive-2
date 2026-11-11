@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247423,
+  "num_followers": 247420,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ3t1eEi+cbxOwXIk2tO3hcHvqDO",
+  "snapshot_id": "AAAAANBbGUjfXEt8p+7fSF38//hwUPMk",
   "tracks": [
     {
       "added_at": "2026-11-09 18:48:23",
@@ -759,6 +759,42 @@
     {
       "added_at": "2026-11-09 18:48:23",
       "album": {
+        "name": "para sempre atormentadas y remixadas",
+        "url": "https://open.spotify.com/album/1LpJb5KdbTDUQLkJp6YW20"
+      },
+      "artists": [
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Malharo",
+          "url": "https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG"
+        },
+        {
+          "name": "Jonas kaik",
+          "url": "https://open.spotify.com/artist/4arZfUmA1DbiqMYab9wLB8"
+        },
+        {
+          "name": "ZUMBICORE",
+          "url": "https://open.spotify.com/artist/7mJo0mAHZ97aIjoHfeJeXN"
+        },
+        {
+          "name": "Kalef Castro",
+          "url": "https://open.spotify.com/artist/65UPl7SfgEtJRmkfHUsjbn"
+        },
+        {
+          "name": "Dornelles",
+          "url": "https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV"
+        }
+      ],
+      "duration_ms": 341600,
+      "name": "SENSA\u00c7\u00d5ES DE... (REVAMP)",
+      "url": "https://open.spotify.com/track/4WlQZKwp9IMBpb6UcYwHTB"
+    },
+    {
+      "added_at": "2026-11-09 18:48:23",
+      "album": {
         "name": "Tamborim",
         "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
       },
@@ -799,42 +835,6 @@
     {
       "added_at": "2026-11-09 18:48:23",
       "album": {
-        "name": "para sempre atormentadas y remixadas",
-        "url": "https://open.spotify.com/album/1LpJb5KdbTDUQLkJp6YW20"
-      },
-      "artists": [
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Malharo",
-          "url": "https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG"
-        },
-        {
-          "name": "Jonas kaik",
-          "url": "https://open.spotify.com/artist/4arZfUmA1DbiqMYab9wLB8"
-        },
-        {
-          "name": "ZUMBICORE",
-          "url": "https://open.spotify.com/artist/7mJo0mAHZ97aIjoHfeJeXN"
-        },
-        {
-          "name": "Kalef Castro",
-          "url": "https://open.spotify.com/artist/65UPl7SfgEtJRmkfHUsjbn"
-        },
-        {
-          "name": "Dornelles",
-          "url": "https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV"
-        }
-      ],
-      "duration_ms": 341600,
-      "name": "SENSA\u00c7\u00d5ES DE... (REVAMP)",
-      "url": "https://open.spotify.com/track/4WlQZKwp9IMBpb6UcYwHTB"
-    },
-    {
-      "added_at": "2026-11-09 18:48:23",
-      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -859,6 +859,34 @@
       "duration_ms": 140454,
       "name": "ME ALIMENTA",
       "url": "https://open.spotify.com/track/4LPHHIENj6SYHDC92WnbrK"
+    },
+    {
+      "added_at": "2026-11-09 18:48:23",
+      "album": {
+        "name": "ALIBABA",
+        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
+      },
+      "artists": [
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        }
+      ],
+      "duration_ms": 160203,
+      "name": "ALIBABA",
+      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
     },
     {
       "added_at": "2026-11-09 18:48:23",
@@ -943,34 +971,6 @@
       "duration_ms": 106483,
       "name": "Despertador",
       "url": "https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2"
-    },
-    {
-      "added_at": "2026-11-09 18:48:23",
-      "album": {
-        "name": "ALIBABA",
-        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
-      },
-      "artists": [
-        {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
-        }
-      ],
-      "duration_ms": 160203,
-      "name": "ALIBABA",
-      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
     },
     {
       "added_at": "2026-11-09 18:48:23",
@@ -1099,6 +1099,34 @@
     {
       "added_at": "2026-11-09 18:48:23",
       "album": {
+        "name": "O CH\u00c1 (SABOR DANCEHALL)",
+        "url": "https://open.spotify.com/album/0eZomnECQIgYwReD3RI0dd"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        },
+        {
+          "name": "Morello",
+          "url": "https://open.spotify.com/artist/3jN7rWlaFiav4uc7e1BmYR"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "O CH\u00c1 (SABOR DANCEHALL)",
+      "url": "https://open.spotify.com/track/2mt9kakvo6mV8iqwZStoRd"
+    },
+    {
+      "added_at": "2026-11-09 18:48:23",
+      "album": {
         "name": "Gambiarra Chic, Pt. 1",
         "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
       },
@@ -1139,34 +1167,6 @@
       "duration_ms": 178285,
       "name": "Alfazema e Sal Grosso",
       "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-11-09 18:48:23",
-      "album": {
-        "name": "O CH\u00c1 (SABOR DANCEHALL)",
-        "url": "https://open.spotify.com/album/0eZomnECQIgYwReD3RI0dd"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Dada Yute",
-          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        },
-        {
-          "name": "Morello",
-          "url": "https://open.spotify.com/artist/3jN7rWlaFiav4uc7e1BmYR"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "O CH\u00c1 (SABOR DANCEHALL)",
-      "url": "https://open.spotify.com/track/2mt9kakvo6mV8iqwZStoRd"
     },
     {
       "added_at": "2026-11-09 18:48:23",

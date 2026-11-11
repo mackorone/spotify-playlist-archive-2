@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 
 > This is Sick Of It All\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,217 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,216 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 | 49 | [The Snake \(Break Free\)](https://open.spotify.com/track/6kRNaX6HOrnGgK5PwHlZDy) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 1:57 |
 | 50 | [Shut Me Out](https://open.spotify.com/track/4dksuobarzFXwunwiyriAT) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Just Look Around](https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74) | 2:12 |
 
-Snapshot ID: `au+7gAAAAADUUBqWloc5W8cG+NyCJfqH`
+Snapshot ID: `avENAAAAAAC3ytMeJFlsqj4cM1ESXHiZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Temper City au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,596 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,576 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [No Need to Try Harder](https://open.spotify.com/track/0RenWTBX0tieWwqMRAJPLu) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Trouble Coming](https://open.spotify.com/album/2tg07WW31qXoJHOH8Ki1Jc) | 3:08 |
 | 50 | [Nothin'](https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Nothin'](https://open.spotify.com/album/6BieAhfPQAUAISRIaNP5ER) | 4:23 |
 
-Snapshot ID: `AAAAAPNOhZk5VQiNQalFw9wLELD0ZDex`
+Snapshot ID: `AAAAAOtnSRh02+lCA6qzgS40v3Qfad45`

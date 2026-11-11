@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,439 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,449 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [Pillow Fight](https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Pillow Fight / I’d Rather Be Alone](https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv) | 2:21 |
 | 100 | [Out Of Time with Tomoko Aran](https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [Out Of Time with Tomoko Aran](https://open.spotify.com/album/0Tc7ROEvsDP3iqzU8GRC5E) | 2:51 |
 
-Snapshot ID: `AAAAAIg48PFHnkUWWysR7nj9dmPaPNKe`
+Snapshot ID: `AAAAAGxk0XNSE67C4TFqHO44d4emDdr6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Dove Cameron on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,461 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,456 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [smf](https://open.spotify.com/track/4puf4S5FOtHR4YRLCEIdOD) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [smf](https://open.spotify.com/album/270FPAyktre5aNsnX0tZQd) | 2:16 |
 | 50 | [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 |
 
-Snapshot ID: `AAAAABTHDuuxpEMJaa0jTGyQtR1IZaod`
+Snapshot ID: `AAAAAFpsV2XXsSrw+wZ7CdD0r+ESl9WX`

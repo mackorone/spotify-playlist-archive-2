@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Armin van Buuren & Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,674 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,654 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [U Got 2 Know](https://open.spotify.com/track/5mZDiIV5z3mmYnIvXGENFX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Wippenberg](https://open.spotify.com/artist/0Orz1QOZQrwampy0S742oK) | [U Got 2 Know](https://open.spotify.com/album/7t8YmvmfTEq68vRFGPijxe) | 2:22 |
 | 60 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |
 
-Snapshot ID: `AAAAAOvXMBjwASTeR0SwqjPH7mC0C5sO`
+Snapshot ID: `AAAAADmHI2wSRbdVdVNzjjr8y3rpFBg4`

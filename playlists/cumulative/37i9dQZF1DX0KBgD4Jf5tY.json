@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3tgCaL6JQGlCnLmNyjs84B\">Gaia Morelli</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:6X4GKXwvYRDPVzIKYdCpil\">Elisa Benetti</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -4411,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "Bar Cajoli",
+        "url": "https://open.spotify.com/album/3elrc5r85SaXETDWDVoGd8"
+      },
+      "artists": [
+        {
+          "name": "Pau Amma",
+          "url": "https://open.spotify.com/artist/43P8w5JaFlfW2uQkkPYL7Q"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225706,
+      "name": "Bar Cajoli",
+      "url": "https://open.spotify.com/track/6CL6jyyvHxW7mre9adfgtC"
+    },
+    {
+      "album": {
         "name": "Barman",
         "url": "https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez"
       },
@@ -6296,7 +6314,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 210128,
       "name": "CANTILENA",
       "url": "https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b"
@@ -9472,6 +9490,24 @@
       "duration_ms": 172881,
       "name": "culto",
       "url": "https://open.spotify.com/track/5hzuGyUEY36VVs2Lslpvu5"
+    },
+    {
+      "album": {
+        "name": "CUORE AUTOMA",
+        "url": "https://open.spotify.com/album/4xinG2c1Rns3dUSZvkxsDw"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/17QBHdgLxgft4GXWLznQv4"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "CUORE AUTOMA",
+      "url": "https://open.spotify.com/track/4fqyBJXBc4hjnsLZr5B5Oy"
     },
     {
       "album": {
@@ -28885,6 +28921,24 @@
     },
     {
       "album": {
+        "name": "Pane ed audacia",
+        "url": "https://open.spotify.com/album/1sBeLZCys6fVYWAKi51gnm"
+      },
+      "artists": [
+        {
+          "name": "Elisa Benetti",
+          "url": "https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118605,
+      "name": "Pane ed audacia",
+      "url": "https://open.spotify.com/track/4prfcqk8hssfShMz4dUt1u"
+    },
+    {
+      "album": {
         "name": "Panico",
         "url": "https://open.spotify.com/album/3QZAYAhNCv9qFNk8UwmYVD"
       },
@@ -41654,7 +41708,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 191007,
       "name": "Valentine's",
       "url": "https://open.spotify.com/track/3igolrukTRdK8or0pvm8pN"

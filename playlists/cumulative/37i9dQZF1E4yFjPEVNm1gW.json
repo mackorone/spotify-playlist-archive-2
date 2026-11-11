@@ -518,7 +518,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "Baked Up (Ur Mom)",
       "url": "https://open.spotify.com/track/6QBdg2rafLrbHLPPAabKDn"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 132864,
       "name": "Booted",
       "url": "https://open.spotify.com/track/3jjXKXUrueFZIl0Vz729DG"
@@ -5045,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "REST",
+        "url": "https://open.spotify.com/album/3YKGounU4dfyFonglKYYJa"
+      },
+      "artists": [
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126735,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/4BImskzTxVoHmruNNGVekd"
+    },
+    {
+      "album": {
         "name": "Industry",
         "url": "https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4"
       },
@@ -5462,7 +5480,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 183671,
       "name": "Simple!",
       "url": "https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1"

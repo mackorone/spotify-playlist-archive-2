@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: BOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,131 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,116 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Te Arrepentiste](https://open.spotify.com/track/5UzLrVHOCQjBQN75pA5wEu) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Te Arrepentiste](https://open.spotify.com/album/6eR0hd0liviKVTLwUH5hei) | 1:57 |
 | 100 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
 
-Snapshot ID: `AAAAABMwhgbMPOFxRDNa8BQLxiDD+oXJ`
+Snapshot ID: `AAAAALIU8+UPByaD6IWoPbcgSRzEAFBm`

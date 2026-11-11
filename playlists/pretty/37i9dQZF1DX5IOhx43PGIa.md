@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. <br/>Cover: Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,950 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,951 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [I SEE STARS](https://open.spotify.com/track/2MFWjDpYscQjEGa2wbq7F3) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [I SEE STARS](https://open.spotify.com/album/2SCOXLRicTMygItg8Ov5JP) | 2:48 |
 | 100 | [An Unfinished Love Song](https://open.spotify.com/track/0r1JWi0OLye16Qkxx67pmB) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [The Veil Has Spoken](https://open.spotify.com/album/0uCz0AF1WRNSfa2cTXOYa4) | 2:17 |
 
-Snapshot ID: `AAAAADoY7i9hIth3QoHcASU5nu+aNPC5`
+Snapshot ID: `AAAAADYOxzSJ2/tDzdKf3sa7s3a9Wqxc`

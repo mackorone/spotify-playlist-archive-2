@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udc39\uae40\ud584\ucc0c\uc640 \ud568\uaed8 \uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.)",
-  "num_followers": 26608,
+  "num_followers": 26610,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdq2Zdus5dZTtSm8uxyZrKoCQNQ",
+  "snapshot_id": "AAAAAKyAEJmF0JqBLBKW/KLRlpgfrxZ1",
   "tracks": [
     {
       "added_at": "2026-10-31 05:05:53",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "A Lovers\u2019 Waltz",
-        "url": "https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5"
-      },
-      "artists": [
-        {
-          "name": "Minna Seo",
-          "url": "https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "A Lovers\u2019 Waltz",
-      "url": "https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
         "name": "Ashen Song",
         "url": "https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 217268,
       "name": "Ashen Song",
       "url": "https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
+        "name": "A Lovers\u2019 Waltz",
+        "url": "https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5"
+      },
+      "artists": [
+        {
+          "name": "Minna Seo",
+          "url": "https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "A Lovers\u2019 Waltz",
+      "url": "https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj"
     },
     {
       "added_at": "2026-10-31 05:05:53",
@@ -415,38 +415,6 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
-        "name": "Dear, Barcelona",
-        "url": "https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Dear, Barcelona",
-      "url": "https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
         "name": "Ordinary Ever After",
         "url": "https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ"
       },
@@ -467,18 +435,34 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "Love, Take Two, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4"
+        "name": "Dear, Barcelona",
+        "url": "https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e"
       },
       "artists": [
         {
-          "name": "CHOI JUNG EUN",
-          "url": "https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr"
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S"
+      "duration_ms": 223000,
+      "name": "Dear, Barcelona",
+      "url": "https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
     },
     {
       "added_at": "2026-10-31 05:05:53",
@@ -495,6 +479,22 @@
       "duration_ms": 160000,
       "name": "Beautiful Days",
       "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
+        "name": "Love, Take Two, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4"
+      },
+      "artists": [
+        {
+          "name": "CHOI JUNG EUN",
+          "url": "https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S"
     },
     {
       "added_at": "2026-10-31 05:05:53",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
+        "name": "The Reason - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
+      },
+      "artists": [
+        {
+          "name": "Yim Siwan",
+          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Dear My Love",
+      "url": "https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 221800,
       "name": "While You're Sleeping, I Am",
       "url": "https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
-        "name": "The Reason - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
-      },
-      "artists": [
-        {
-          "name": "Yim Siwan",
-          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Dear My Love",
-      "url": "https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L"
     },
     {
       "added_at": "2026-10-31 05:05:53",

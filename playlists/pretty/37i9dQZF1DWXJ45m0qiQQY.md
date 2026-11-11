@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 
 > chilling beats for haunted vibes 👻
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,999 likes - 95 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,006 likes - 95 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 94 | [Pumpkin King](https://open.spotify.com/track/0D5KbGaEqpGfeTAhBma69a) | [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [Pumpkin King](https://open.spotify.com/album/0hirMqXXZXNfzv0mrww4Lx) | 1:45 |
 | 95 | [elm street](https://open.spotify.com/track/2pWAf8ktMyKob5FU7uqvj1) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [elm street](https://open.spotify.com/album/1X7aEIyyJHzYxBBrlIdOVq) | 1:46 |
 
-Snapshot ID: `AAAAAFvYF80Wn2V3edDMe5q82C2Bu84O`
+Snapshot ID: `AAAAAHAicZc0+GKQ5vcEx1j5ECGMKgbR`

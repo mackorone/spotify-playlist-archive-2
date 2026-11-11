@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 418026,
+  "num_followers": 417951,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPUwzxNeCZrBKZtWbOcpNbhQNJi",
+  "snapshot_id": "AAAAAFC0iFSc1HmGKLe9xX+X95d+fe5G",
   "tracks": [
     {
       "added_at": "2026-01-16 03:03:24",
@@ -323,18 +323,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Singular",
-        "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
+        "name": "Ao Vivo Em Macei\u00f3",
+        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
       },
       "artists": [
         {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 230943,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
+      "duration_ms": 279810,
+      "name": "O Que Houve? - Ao Vivo",
+      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Ao Vivo Em Macei\u00f3",
-        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
+        "name": "Singular",
+        "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
       },
       "artists": [
         {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 279810,
-      "name": "O Que Houve? - Ao Vivo",
-      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
+      "duration_ms": 230943,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Alguns Defeitos",
+        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
         "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 144071,
       "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Alguns Defeitos",
-        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "Alguns Defeitos",
-      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
     },
     {
       "added_at": "2026-01-16 03:03:24",

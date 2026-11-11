@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Skepta, Slayyyter, Sam Fender, Rex Orange County and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,526 likes - 98 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,426 likes - 98 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 97 | [softly](https://open.spotify.com/track/2cKoVrjycC9LiUKtPncoQd) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [hellookaygoodbye](https://open.spotify.com/album/0hKNrBn9kMILFGWz6btIWG) | 2:00 |
 | 98 | [All my friends](https://open.spotify.com/track/6VhyWjEmasSiqhUkL4NTaB) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [All my friends](https://open.spotify.com/album/1YX5QpAqwDVVCjK3NbrgR8) | 3:51 |
 
-Snapshot ID: `AAAAAPzpeJaVRlHW+MMXe6YWomQUQ2Cv`
+Snapshot ID: `AAAAAJ7fw254Z82YZY4K9dzNQHJcEuGe`

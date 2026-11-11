@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. ",
-  "num_followers": 2107338,
+  "num_followers": 2107482,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJoiKqpvqZnCodq6z6id420oLO5Q",
+  "snapshot_id": "AAAAAL7kaw3WiNBkQKJ5is3PxZOy+iix",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
         }
       ],
-      "duration_ms": 179160,
-      "name": "Army Dreamers - 2018 Remaster",
-      "url": "https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR"
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
       "artists": [
         {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+      "duration_ms": 179160,
+      "name": "Army Dreamers - 2018 Remaster",
+      "url": "https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR"
     },
     {
       "added_at": "2024-03-18 22:21:44",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
     },
     {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
-        "name": "Throw The Warped Wheel Out",
-        "url": "https://open.spotify.com/album/04HMu1DvCSfkS5vqctgjUp"
-      },
-      "artists": [
-        {
-          "name": "Fiction Factory",
-          "url": "https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "(Feels Like) Heaven",
-      "url": "https://open.spotify.com/track/41Laec0pItedzpw2D8HWYp"
-    },
-    {
       "added_at": "2022-11-17 20:08:09",
       "album": {
         "name": "The Stone Roses",
@@ -499,6 +483,22 @@
       "duration_ms": 278826,
       "name": "Waterfall - Remastered 2009",
       "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
+        "name": "Throw The Warped Wheel Out",
+        "url": "https://open.spotify.com/album/04HMu1DvCSfkS5vqctgjUp"
+      },
+      "artists": [
+        {
+          "name": "Fiction Factory",
+          "url": "https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "(Feels Like) Heaven",
+      "url": "https://open.spotify.com/track/41Laec0pItedzpw2D8HWYp"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-18 22:21:44",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "The Chauffeur - 2009 Remaster",
-      "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
-    },
-    {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 238106,
       "name": "Pretty In Pink",
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "The Chauffeur - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
     },
     {
       "added_at": "2022-11-17 20:08:09",

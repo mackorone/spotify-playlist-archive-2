@@ -1,12 +1,12 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: mokina, Gabrielle Olivo",
-  "num_followers": 70827,
+  "num_followers": 70825,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAp9RV9vNbZB0xxewaZRBl2/qPU8",
+  "snapshot_id": "AAAAALjCiLrb6vk/OkuOMkw/vjRcLU4d",
   "tracks": [
     {
       "added_at": "2026-11-06 16:04:20",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-11-06 16:04:20",
       "album": {
+        "name": "Voz de mi vida",
+        "url": "https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt"
+      },
+      "artists": [
+        {
+          "name": "Luan Larobina",
+          "url": "https://open.spotify.com/artist/37q74NMKjVZ4fwH0OZhk6h"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "Voz de mi vida",
+      "url": "https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk"
+    },
+    {
+      "added_at": "2026-11-06 16:04:20",
+      "album": {
         "name": "J'y crois encore",
         "url": "https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 161724,
       "name": "J'y crois encore",
       "url": "https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ"
-    },
-    {
-      "added_at": "2026-11-06 16:04:20",
-      "album": {
-        "name": "Voz de mi vida",
-        "url": "https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt"
-      },
-      "artists": [
-        {
-          "name": "Luan Larobina",
-          "url": "https://open.spotify.com/artist/37q74NMKjVZ4fwH0OZhk6h"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "Voz de mi vida",
-      "url": "https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk"
     },
     {
       "added_at": "2026-11-06 16:04:20",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-11-06 16:04:20",
       "album": {
+        "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
+        "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Bisaillon",
+          "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "reel talk",
+      "url": "https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am"
+    },
+    {
+      "added_at": "2026-11-06 16:04:20",
+      "album": {
         "name": "On n'a pas chang\u00e9",
         "url": "https://open.spotify.com/album/0QKWsKwco2RCn7nnZ1yINo"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 176346,
       "name": "On n'a pas chang\u00e9",
       "url": "https://open.spotify.com/track/38USzMzQnz8nlM4VQq5Koh"
-    },
-    {
-      "added_at": "2026-11-06 16:04:20",
-      "album": {
-        "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
-        "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
-      },
-      "artists": [
-        {
-          "name": "Alphonse Bisaillon",
-          "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "reel talk",
-      "url": "https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am"
     },
     {
       "added_at": "2026-11-06 16:04:20",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-11-06 16:04:20",
       "album": {
-        "name": "\u00c0 chaque ann\u00e9e",
-        "url": "https://open.spotify.com/album/5hPfxNHm2cpNovQFigeKuB"
-      },
-      "artists": [
-        {
-          "name": "Olivier Couture",
-          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        }
-      ],
-      "duration_ms": 121194,
-      "name": "\u00c0 chaque ann\u00e9e (feat. Gabriel Fredette)",
-      "url": "https://open.spotify.com/track/1yjfABm3BYD94VXZSZxTRp"
-    },
-    {
-      "added_at": "2026-11-06 16:04:20",
-      "album": {
         "name": "Reflexiones",
         "url": "https://open.spotify.com/album/2oxeurp6jOwxCXGlNhTmeA"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 128634,
       "name": "BURN LIKE FYA",
       "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
+    },
+    {
+      "added_at": "2026-11-06 16:04:20",
+      "album": {
+        "name": "\u00c0 chaque ann\u00e9e",
+        "url": "https://open.spotify.com/album/5hPfxNHm2cpNovQFigeKuB"
+      },
+      "artists": [
+        {
+          "name": "Olivier Couture",
+          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "duration_ms": 121194,
+      "name": "\u00c0 chaque ann\u00e9e (feat. Gabriel Fredette)",
+      "url": "https://open.spotify.com/track/1yjfABm3BYD94VXZSZxTRp"
     },
     {
       "added_at": "2026-11-06 16:04:20",

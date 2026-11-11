@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,657 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,652 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 59 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/4kZhu8InVMWucU2cPe6qox) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 |
 | 60 | [AVOID ME 2](https://open.spotify.com/track/7IO5xKQcN4X1XTkvsNccqD) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME 2](https://open.spotify.com/album/1NvhQk0D0encAyEKZFETkx) | 1:45 |
 | 61 | [Bring Me the Wolves](https://open.spotify.com/track/7yck8dYP4dyvc13NlJw1Aw) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [Jingle JIN VOL\. II](https://open.spotify.com/album/2x3ICVits7igxOFuhfWYmg) | 2:34 |
-| 62 | [akatsuki.exe \- Remix](https://open.spotify.com/track/27Y5mRGHTn6klxTy5b1QYN) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [akatsuki.exe \(Remix\)](https://open.spotify.com/album/0tvJRRoODCo8LzaxMd5kBU) | 4:24 |
+| 62 | [AKATSUKI.EXE \- Remix](https://open.spotify.com/track/27Y5mRGHTn6klxTy5b1QYN) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [AKATSUKI.EXE \(Remix\)](https://open.spotify.com/album/0tvJRRoODCo8LzaxMd5kBU) | 4:24 |
 | 63 | [Yōkai](https://open.spotify.com/track/6Jwm14S4MrY7UrQTee0crG) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Yōkai](https://open.spotify.com/album/4XaJxO78V0VBnmK56KNm0J) | 3:46 |
 | 64 | [WAKE UP AND DIE](https://open.spotify.com/track/1CSvIcL62D8c0QeiYAlTsN) | [NERGRISEN](https://open.spotify.com/artist/2xV1MUT3marCrYRA6Vuywh) | [WAKE UP AND DIE](https://open.spotify.com/album/0osuqh7bP6jKI2ssK8uEIn) | 1:35 |
 | 65 | [The Abyss \(feat\. Ryo Kinoshita\)](https://open.spotify.com/track/3rKp6OHE3anWeC6zSaT205) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Oceans](https://open.spotify.com/album/066RpUMirkDRbBWvcyB3QT) | 3:22 |

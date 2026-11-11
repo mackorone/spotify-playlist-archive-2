@@ -2,7 +2,7 @@
 
 ### [RADAR Argentina](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 
-> Artistas para descubrir 📸 Maia Reficco
+> Artistas para descubrir 📸 Trouve Feraud
 
 366 songs - 18 hr 52 min
 

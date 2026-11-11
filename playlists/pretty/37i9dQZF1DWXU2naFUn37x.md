@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Nabi e LILCR in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,351 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,299 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
 | 50 | [Blatte](https://open.spotify.com/track/2rO2UamSwPb7hgfkHxVIOR) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Blatte](https://open.spotify.com/album/6qnVG5gaUiYY0qaxvXFQ8W) | 2:31 |
 
-Snapshot ID: `AAAAAKD3tpxCV6Z/HSgdua1sJSKRhWgG`
+Snapshot ID: `AAAAANmjnRx2E5dytZEfgfrZ8jXqjU8i`

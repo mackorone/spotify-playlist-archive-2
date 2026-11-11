@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 546721,
+  "num_followers": 546807,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH53ZQIr89qBrYXDgy4e4pGVJ9ho",
+  "snapshot_id": "AAAAANbCqi0MQM2E+MhL9mNSQmqBDq9o",
   "tracks": [
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
-      },
-      "artists": [
-        {
-          "name": "Elissa Mielke",
-          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
-        }
-      ],
-      "duration_ms": 282949,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Loved By You",
         "url": "https://open.spotify.com/album/7MhufBtdJednkSpwropIDs"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
+      },
+      "artists": [
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "duration_ms": 282949,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 229653,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "just us",
-        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 190163,
-      "name": "just us",
-      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "just us",
+        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 190163,
+      "name": "just us",
+      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "caroline",
         "url": "https://open.spotify.com/album/5fPUD2TBb1DugPHDj7ylgF"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "You're Already There",
         "url": "https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 153900,
       "name": "You're Already There",
       "url": "https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Blind and Brave",
+        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Let No Grief",
+      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Blind and Brave",
-        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Let No Grief",
-      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "strip mall",
         "url": "https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp"
       },
@@ -1483,38 +1483,6 @@
       "duration_ms": 153720,
       "name": "strip mall",
       "url": "https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1535,6 +1503,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
       "artists": [
         {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
+      "duration_ms": 153850,
+      "name": "Buffalo Replaced - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1579,6 +1563,22 @@
       "duration_ms": 241973,
       "name": "Same Old Eyes",
       "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
       },
       "artists": [
         {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
+      "duration_ms": 215869,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
       },
       "artists": [
         {
-          "name": "Britti",
-          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
         }
       ],
-      "duration_ms": 215869,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "How Did It Seem To You?",
-        "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
       },
       "artists": [
         {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
+      "duration_ms": 235593,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
     }
   ],
   "unique_name": "Soft & Slow",

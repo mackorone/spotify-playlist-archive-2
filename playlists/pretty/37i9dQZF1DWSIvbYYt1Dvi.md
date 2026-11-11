@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > denovodenovodenovo  🗣️// Sant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,056 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,899 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Vença](https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 4:17 |
 | 50 | [Faço Acontecer](https://open.spotify.com/track/37ApccN7IgSrnuDYMbRNHU) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [Faço Acontecer](https://open.spotify.com/album/1JoDY5x7dmUiQZQhFEMl7M) | 2:36 |
 
-Snapshot ID: `AAAAAJVfaOISGSIphv4sMbJ5S8ka0bXR`
+Snapshot ID: `AAAAAGX7daR1PmwqCHHU0pRHh17DXjNX`

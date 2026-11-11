@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,703 likes - 90 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,631 likes - 90 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [pink](https://open.spotify.com/track/2Vd5BdcrLQ9VGpoE5Ovmi7) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [pink](https://open.spotify.com/album/1OoPoq8o9oQMBeane1YIRp) | 2:29 |
 | 90 | [Gutmensch](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 2:24 |
 
-Snapshot ID: `AAAAAL6aIK1ZobwAMHY/qdbiVQ8XhRTz`
+Snapshot ID: `AAAAAGIdsE3VAH4iJe0EGRvqh3MHkd9W`

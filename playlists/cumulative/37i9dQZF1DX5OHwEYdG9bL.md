@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: Mark Lee\) \(Enjoy a playlist of songs that support music video features!\)
 
-294 songs - 15 hr 58 min
+295 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [BAD](https://open.spotify.com/track/3SVX3EEHoia0DQLMTqBl4A) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD](https://open.spotify.com/album/0PtWbP7Km50SmLKTKwToEi) | 3:45 | 2026-06-30 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/2NXIhvX7tEhHjRXi7zhhs0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/1nOX4L5b6lCKfexhZU8ZND) | 2:46 | 2025-07-15 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/3c8XJaxue3pvT2bq0W6cna) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/7sidGuLHbrH2Vug76JRo26) | 2:46 | 2025-07-15 |  |
+| [Bananas](https://open.spotify.com/track/31Gndi8mnwk7l2iVp2B82c) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [S.W.I.S.H.](https://open.spotify.com/album/0ulLmM5roN7ywJVZblQasC) | 2:45 | 2026-11-10 |  |
 | [Bansanka](https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [J\-POP REMAKE Vol.1](https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu) | 3:39 | 2026-07-09 |  |
 | [BBUU!](https://open.spotify.com/track/2eRPvAVimwqU0LTIBPNlut) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [BBUU!](https://open.spotify.com/album/40NtdpmgyeLNRR6SGksIIb) | 2:58 | 2025-12-03 |  |
 | [Beat It Up](https://open.spotify.com/track/6UbIw69jzYJabksNHobINQ) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/1WjJDIxuJC7aTAXSNdGe9K) | 3:28 | 2025-12-03 |  |

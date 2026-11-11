@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,327 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,318 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [Say Yeah](https://open.spotify.com/track/33ByCdR2CMznkCHXp2zsJi) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Say Yeah](https://open.spotify.com/album/7y4NQUMgDS2GdToFChFkjq) | 4:48 |
 | 80 | [in vino veritas!](https://open.spotify.com/track/1ZUptgW52c61JXpRW6ivmN) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [in vino veritas!](https://open.spotify.com/album/2VIdb7sLoqXNwosA7mJruQ) | 2:27 |
 
-Snapshot ID: `AAAAAP4vS5NDZX5xuvyQH5qp+lz7wmBi`
+Snapshot ID: `AAAAAE8M6rAqK25zvAo/5gmDmjkG0dau`

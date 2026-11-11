@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça BUDAH e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">BUDAH</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,197 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,190 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 9 | [O que a Julia vai ser?](https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:36 |
 | 10 | [BH](https://open.spotify.com/track/5Kmc7UYkX9huP00mmrUI8c) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [assumo os riscos](https://open.spotify.com/album/6LuhPSCEVkeFXgT1GJocC5) | 2:37 |
 | 11 | [Gin Com Suco De Laranja](https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:42 |
-| 12 | [Taiobeiras \(folha grande\)](https://open.spotify.com/track/2oAU8wm9DjY0hAXD2gH2lY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Taiobeiras \(folha grande\)](https://open.spotify.com/album/4CQt7a2x2cDrZEuygB2IHC) | 3:31 |
-| 13 | [você vai gostar](https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [você vai gostar](https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls) | 3:24 |
+| 12 | [você vai gostar](https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [você vai gostar](https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls) | 3:24 |
+| 13 | [Taiobeiras \(folha grande\)](https://open.spotify.com/track/2oAU8wm9DjY0hAXD2gH2lY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Taiobeiras \(folha grande\)](https://open.spotify.com/album/4CQt7a2x2cDrZEuygB2IHC) | 3:31 |
 | 14 | [JA FAZEM HORAS](https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [Dukke Beats](https://open.spotify.com/artist/3KNAaZbqoQXjS4omCogmjr) | [SEM ESTRESSE](https://open.spotify.com/album/3C7I3CVyHFbTtpFdIcxMpl) | 2:10 |
 | 15 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
 | 16 | [MELHOR NOTÍCIA](https://open.spotify.com/track/4DqQqIMiD3YqnUwR13xLmA) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MELHOR NOTÍCIA](https://open.spotify.com/album/0sYPdRHJeo4UYbcoRQMmYK) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Olha na Minha Cara](https://open.spotify.com/track/6ICyicVvXIS8Xx9MrqaurO) | [RIRI](https://open.spotify.com/artist/3rxmvehXBhivLmpy0wBUgS), [SlimeCunha](https://open.spotify.com/artist/6aFo1ie5TeHMbcuffLkw7a) | [Olha na Minha Cara](https://open.spotify.com/album/7jWZs0xpCH0LJEkGUU8J8A) | 2:35 |
 | 50 | [Bonde do esculacho](https://open.spotify.com/track/7cTN37m9Lhl1p6QAH5d0V6) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [Bonde do esculacho](https://open.spotify.com/album/1gHE3XGsJxsqHFdUZKk6xZ) | 2:08 |
 
-Snapshot ID: `AAAAANFSUj+rhx5ETtlCK/yjWX87XjHY`
+Snapshot ID: `AAAAAHlpcK4NehxCYGmR7hjZMq0kELoL`

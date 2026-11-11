@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Alcalá Norte.
 
-856 songs - 2 day 6 hr 24 min
+857 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Lo mejor de mí](https://open.spotify.com/track/0jvZb9YCtPrAk4AsKouvGm) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Lo mejor de mí](https://open.spotify.com/album/05QC4Jnu9NwhesWYlvtamJ) | 4:30 | 2026-03-20 | 2026-04-17 |
 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 | 2022-08-25 | 2022-10-28 |
 | [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 | 2022-09-01 | 2022-09-30 |
+| [Loba](https://open.spotify.com/track/2z6IkKOVT8iCfrJDKHxckB) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Loba](https://open.spotify.com/album/6UQz9dVDv2jt6qWkmYdyvI) | 17:49 | 2026-11-05 |  |
 | [Lobo hombre en París \- Versión EP](https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Lobo hombre en París](https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5) | 4:09 | 2024-08-12 |  |
 | [Loco](https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Loco](https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9) | 3:29 | 2023-10-26 | 2023-12-01 |
 | [Loco Loco Loco](https://open.spotify.com/track/4S4WcLXai3QeZW1cDmpgzu) | [Iguana Tango](https://open.spotify.com/artist/5P4gTu22GQje4EDwps9cht) | [Loco Loco Loco](https://open.spotify.com/album/6nA3Hr5Dip082fdm4KWGoe) | 3:45 | 2023-07-27 | 2023-08-04 |
@@ -635,7 +636,7 @@
 | [Perros Románticos](https://open.spotify.com/track/6K0OujXjXCdkBNUp181kkh) | [Carlos Vudú](https://open.spotify.com/artist/7HmCc2l8NOT3VjhjKGj8dQ) | [Perros Románticos](https://open.spotify.com/album/095kVg9ctC3jlnEmIExWov) | 3:57 | 2022-05-26 | 2022-06-10 |
 | [Peter Pan](https://open.spotify.com/track/5uWhDDdBiy7YmvCybN5VOk) | [Txema Benítez](https://open.spotify.com/artist/5lWIf1sb0LkPI8HEKcEKrF) | [Peter Pan](https://open.spotify.com/album/3sUwEtW9lNC68ds6SH0ivL) | 5:38 | 2024-07-19 | 2024-08-02 |
 | [Phoenix](https://open.spotify.com/track/3eR7jZcJgRdhALPS72y3qj) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3), [Catalina Jiménez](https://open.spotify.com/artist/3JtQKVwGvKK9KxPiiiR5XD) | [Phoenix](https://open.spotify.com/album/4aR4eaQM6L4DrsXMxbJS4Y) | 3:01 | 2025-02-13 | 2025-02-21 |
-| [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 | 2022-05-26 |  |
+| [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 | 2022-05-26 | 2026-11-11 |
 | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj), [Juancho Sidecars](https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH) | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I) | 3:43 | 2022-10-27 | 2022-11-18 |
 | [Polución](https://open.spotify.com/track/7H2R1GP0PbxYrapd0O2s87) | [KING SAPO](https://open.spotify.com/artist/1bwttHGw3BRWOfqtGZNdGo) | [Polución](https://open.spotify.com/album/1PA0wsmIjln234kRxtft6Y) | 4:47 | 2025-01-23 | 2025-02-01 |
 | [Polvo en el viento](https://open.spotify.com/track/3eYLwbFkc842p6aoIOZfoa) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [Polvo en el viento](https://open.spotify.com/album/1EVmw8PTdYWkqtcEHGJxJy) | 2:53 | 2024-10-10 | 2024-10-18 |

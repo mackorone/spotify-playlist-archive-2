@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,703 songs - 15 day 15 hr 16 min
+6,704 songs - 15 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,7 +597,7 @@
 | [Behind the Wall](https://open.spotify.com/track/3XyUX7g16iXyizQEqXFPJN) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Behind the Wall](https://open.spotify.com/album/7hwx298EDOfwpgzVpb1Hg4) | 3:13 | 2020-05-30 | 2020-06-10 |
 | [Beleza](https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Beleza](https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p) | 2:44 | 2020-11-27 | 2020-12-12 |
 | [Believe](https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 2:56 | 2019-09-29\* | 2021-11-19 |
-| [Believe It](https://open.spotify.com/track/4ekgIZMZLd6vnRXyeNwgXR) | [D Mills](https://open.spotify.com/artist/4j15TlEXsoU1f2RHaejASa) | [Back To Our Regularly Scheduled Programming](https://open.spotify.com/album/65D5qDMxfTJVFBcUqxRiPg) | 3:19 | 2026-10-10 |  |
+| [Believe It](https://open.spotify.com/track/4ekgIZMZLd6vnRXyeNwgXR) | [D Mills](https://open.spotify.com/artist/4j15TlEXsoU1f2RHaejASa) | [Back To Our Regularly Scheduled Programming](https://open.spotify.com/album/65D5qDMxfTJVFBcUqxRiPg) | 3:19 | 2026-10-10 | 2026-11-11 |
 | [Believing](https://open.spotify.com/track/4age5IROGqo0wCxWe78aOu) | [Mouth Water](https://open.spotify.com/artist/547EWMRMsHvxWdvz3zSxxq) | [Believing](https://open.spotify.com/album/5BDBOJKJsKdTKHdmkozY34) | 3:43 | 2019-11-12 | 2019-12-04 |
 | [Bella](https://open.spotify.com/track/2OhVBqqNeeXUALVYPVakCr) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Far from Home](https://open.spotify.com/album/4bPsclPHYOXfY9CntbIvId) | 2:52 | 2021-07-02 | 2021-07-18 |
 | [Bella Hadid \(Come to Madrid\)](https://open.spotify.com/track/721Eo2ZnPI4psc1gTM2Zec) | [Arsenium](https://open.spotify.com/artist/6JZgZ5UWuEx5ZMkSWLoY1B), [TYMMA](https://open.spotify.com/artist/7Dx4fr9NzN8VDWleWWTz7m) | [Bella Hadid \(Come to Madrid\)](https://open.spotify.com/album/5nbdUq57ckrXVRTdCyd5Kj) | 2:05 | 2023-06-30 | 2023-07-22 |
@@ -6490,6 +6490,7 @@
 | [why do i ask for flowers?](https://open.spotify.com/track/1DFtnsF1eOF1atMkhVBswE) | [Lizzy Donzis](https://open.spotify.com/artist/4wnOUKXbPUzKexcafAVvw6) | [Obsessed](https://open.spotify.com/album/1jQl6S99BJ3DhTcYCXXVi0) | 3:09 | 2025-05-13 | 2025-05-25 |
 | [Why Do You Hurt Me?](https://open.spotify.com/track/0IT6p148h4AsqG6QVOesas) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Why Do You Hurt Me?](https://open.spotify.com/album/0SQaWCUvFlICApyRRYTwzG) | 3:38 | 2026-04-11 | 2026-05-21 |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2024-08-12 |  |
+| [Why don't you love me?](https://open.spotify.com/track/7j9gBMcOf7BZAPqMhuX7JC) | [Say hii](https://open.spotify.com/artist/2j7Azdf23ill53aTpGMDVY) | [Say hii](https://open.spotify.com/album/6WEh5mDh8nf8e9Py8o5icm) | 3:09 | 2026-11-10 |  |
 | [Why Try](https://open.spotify.com/track/4pWmqre0qCQ6K2eS0L0yfQ) | [Ashleyy Christina](https://open.spotify.com/artist/0Sd7AmhEpAQbTzRHyes29l) | [Why Try](https://open.spotify.com/album/35LIc23QOgxNroTasbj45p) | 2:37 | 2024-08-07 | 2024-08-19 |
 | [Why Wait](https://open.spotify.com/track/4pdzDOdu7f2DyVOztk5b4b) | [Man.You?](https://open.spotify.com/artist/26yxMLQtqaJ2DIHY7Gn929), [Rasneek](https://open.spotify.com/artist/1sN37BHcFAxk5O7r7vLqo4) | [Why Wait](https://open.spotify.com/album/59gQbC6zsACvkdl76SneoZ) | 2:07 | 2024-09-03 | 2024-09-12 |
 | [why you here](https://open.spotify.com/track/02r6uMK33I50YHaxdIObZE) | [Caylea](https://open.spotify.com/artist/7rFRcnh52T0pnVJ4e4JMWT) | [why you here](https://open.spotify.com/album/4bJNqpkJDUCzEyHKGkUj3k) | 3:39 | 2025-03-30 | 2025-04-19 |
@@ -6602,7 +6603,7 @@
 | [Yes, hello?](https://open.spotify.com/track/6P7izoKWNKLDg8K9ZpMWrs) | [Avi Ares](https://open.spotify.com/artist/1XGnWyeasFqaUVkpTJoQOR) | [Yes, hello?](https://open.spotify.com/album/3fOniWEZIXqivXoORe5Oy0) | 4:10 | 2025-04-30 | 2025-05-12 |
 | [Yesterday](https://open.spotify.com/track/6sT0ChSYBtJuUDI4qHBGx6) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Yesterday](https://open.spotify.com/album/67Xto05h5XsZCMCPlucARK) | 2:07 | 2021-10-09 | 2021-10-23 |
 | [Yesterday Go Away](https://open.spotify.com/track/3uzk7B4bxkREIJdifoaJz7) | [EZIA](https://open.spotify.com/artist/0NlGvbM8SmFXmaBb6pu1qg) | [Yesterday Go Away](https://open.spotify.com/album/0w281eyXrb2PqiZ1zw5tsm) | 3:39 | 2021-09-18 | 2021-10-04 |
-| [Yo Nací Flor](https://open.spotify.com/track/6jcaJFymqncEGJs033SXrM) | [Yovanna Ventura](https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L) | [Unzipped](https://open.spotify.com/album/6gaOVvEuhwwS1vPustVqzt) | 3:13 | 2026-10-11 |  |
+| [Yo Nací Flor](https://open.spotify.com/track/6jcaJFymqncEGJs033SXrM) | [Yovanna Ventura](https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L) | [Unzipped](https://open.spotify.com/album/6gaOVvEuhwwS1vPustVqzt) | 3:13 | 2026-10-11 | 2026-11-11 |
 | [YO PAMI TE QUIERO](https://open.spotify.com/track/42PTkqNb9VBHBKMr76KCAr) | [ADIEL](https://open.spotify.com/artist/7kIY0YemfqOMRAmcn0zRvr) | [YO PAMI TE QUIERO](https://open.spotify.com/album/5wjpIh1KEF5bp9BZtfxLdO) | 1:46 | 2025-12-14 | 2025-12-26 |
 | [Yo\-yo](https://open.spotify.com/track/7CpeVkCFSTX2MYLMhCXAf6) | [Matt Bippart](https://open.spotify.com/artist/6BZYylxLk92Vx37lUXKaBS) | [Yo\-yo](https://open.spotify.com/album/0H9etKaOQrMtLnB0qU4Ywh) | 2:37 | 2023-02-26 | 2023-03-20 |
 | [you](https://open.spotify.com/track/67UKQlayHF4L4ACUOj24Pr) | [Alma Owren](https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE) | [you](https://open.spotify.com/album/2PRGWFu3khYvrnZYgZz4Q2) | 3:35 | 2025-02-14 | 2025-03-08 |

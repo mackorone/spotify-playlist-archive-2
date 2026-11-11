@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Osad, Hà An Huy
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,535 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,538 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 29 | [Mười Năm \(Lộn Xộn 3\)](https://open.spotify.com/track/4FT18tLTmf3QNBzG5r6OTj) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Ngọc Linh](https://open.spotify.com/artist/14RscV8jZp2WBjJMr3SNK9) | [Mười Năm \(Lộn Xộn 3\)](https://open.spotify.com/album/4ccoyWvcBZNYb7MktE2JJF) | 4:17 |
 | 30 | [ĐÊM](https://open.spotify.com/track/193Nh6cXEZHQehqZ5yFHli) | [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh), [16 BRT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Rehtona](https://open.spotify.com/artist/6yZuJmKsA5bGl5z1UKsnyq) | [ĐÊM](https://open.spotify.com/album/4VR8fO5Ct0H5WZUUko53DL) | 3:38 |
 
-Snapshot ID: `AAAAANSQHoEf0JsWXYD+uqlWq6PmO9R2`
+Snapshot ID: `AAAAACJLsnCVsI8sbHCqhbnM3uh4TGNE`

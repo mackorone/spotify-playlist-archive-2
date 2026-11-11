@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1267651,
+  "num_followers": 1267710,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIvsij0p+/rHObQP48AaRRhNG5e8",
+  "snapshot_id": "AAAAAPv5OtIHXzq8othVpM9MVCylD1DR",
   "tracks": [
     {
       "added_at": "2024-07-12 17:17:21",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "S.F. Sorrow",
-        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Private Sorrow",
-      "url": "https://open.spotify.com/track/6xTQTYLIbzC0TLoSe2H4ve"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "The United States Of America",
         "url": "https://open.spotify.com/album/328gsq5mObioXj2TcD8AED"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 198640,
       "name": "Cloud Song",
       "url": "https://open.spotify.com/track/1YS9U07NrsMki30xuv2eDY"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "S.F. Sorrow",
+        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Private Sorrow",
+      "url": "https://open.spotify.com/track/6xTQTYLIbzC0TLoSe2H4ve"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Nights In White Satin Hit Pac",
+        "url": "https://open.spotify.com/album/2cYCHa8cPrvU2Vrw4xahof"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "duration_ms": 264133,
+      "name": "Nights In White Satin - Single Edit",
+      "url": "https://open.spotify.com/track/6clw4A52XQ9tLBPHBM8SYG"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "The Best Of Ten Years After",
         "url": "https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 312253,
       "name": "Venus In Furs",
       "url": "https://open.spotify.com/track/3x5IM9VEpsFLhkzy9YT2F0"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Hellbound Train",
-        "url": "https://open.spotify.com/album/1uZzRZxny6YQYZUiHlZq7G"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 550506,
-      "name": "Hellbound Train",
-      "url": "https://open.spotify.com/track/1neZ7P3jQDh57Th29fITqs"
     }
   ],
   "unique_name": "Psychedelic Rock",

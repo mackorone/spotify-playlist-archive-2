@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1?si=teptHy8pSemQTbej9bvEiA">Claud</a>
 
-[Secretly Society](https://open.spotify.com/user/secretlygroup) - 17,079 likes - 62 songs - 3 hr 43 min
+[Secretly Society](https://open.spotify.com/user/secretlygroup) - 17,077 likes - 62 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

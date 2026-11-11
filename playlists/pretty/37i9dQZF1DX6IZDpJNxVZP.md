@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,928 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,933 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All I Want for Christmas Is U](https://open.spotify.com/track/3b9oVdgiLNMZakSii8H4au) | [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [All I Want for Christmas Is U](https://open.spotify.com/album/4yyYire4GuDCT0MV5raU0U) | 2:56 |
 | 2 | [Christmas Party](https://open.spotify.com/track/1Hs9CA2nO7nwvfA82Djei3) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Christmas Party](https://open.spotify.com/album/6dBhoE7gpSrScq5WeHSuST) | 2:23 |
-| 3 | [Holiday Sweater](https://open.spotify.com/track/6bhhgaXCqpLM7biaVWQE55) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Christmas Sweater](https://open.spotify.com/album/2RoBnhEsQCMemhQ82raz8f) | 2:25 |
+| 3 | [Christmas Sweater](https://open.spotify.com/track/6bhhgaXCqpLM7biaVWQE55) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Christmas Sweater](https://open.spotify.com/album/2RoBnhEsQCMemhQ82raz8f) | 2:25 |
 | 4 | [Silly Santa](https://open.spotify.com/track/2KnKZzgz9mqorDGlDvPOlH) | [Teacher Peter](https://open.spotify.com/artist/4qK4Sehk0WdkDGP80zo4xY) | [Teacher Peter's Christmas Party](https://open.spotify.com/album/7cdmxc8UrFm2ZlLdE3icSk) | 2:25 |
 | 5 | [Let's Build A Snowman](https://open.spotify.com/track/3nyJadcuKdfKcXpAgF2Bry) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Let's Build A Snowman](https://open.spotify.com/album/40fQklD8oRppY33jQLNjnS) | 1:57 |
 | 6 | [Ho\-Ho\-Home for Christmas](https://open.spotify.com/track/20dc3QEtGxxmrTIeI21I9k) | [Mickey Mouse Clubhouse+ \- Cast](https://open.spotify.com/artist/2tUJ9RmG3zSwctpikuzuzq), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Mickey's Home Alone](https://open.spotify.com/album/2gvP77twMWRk4vmpIauwog) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 99 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [The Fixies](https://open.spotify.com/artist/1GmIrV9vwP3OqwrvUI64nm) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
 | 100 | [Winter Wonderland](https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Best Christmas Songs for Children](https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL) | 2:55 |
 
-Snapshot ID: `AAAAAJrSTDJ219xbj4WXhXY/VF3SWqo3`
+Snapshot ID: `AAAAACvbTXmo1duYL6TpbVT5nMGNTUSl`

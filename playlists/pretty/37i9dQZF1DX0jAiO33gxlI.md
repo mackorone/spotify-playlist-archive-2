@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,136 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,119 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Donas do Plaque](https://open.spotify.com/track/0mdytA1LWltYL5LPzE3ltU) | [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk) | [Donas do Plaque](https://open.spotify.com/album/42Ni9CX6XB5OuteqOIjG6L) | 4:02 |
 | 74 | [introdução](https://open.spotify.com/track/1XcqHWpI9uOvLpXyVpwMO5) | [VirginGod](https://open.spotify.com/artist/2WsyJKnl3oBtl3uorFlKp9) | [mesma alma](https://open.spotify.com/album/1piqUYSLm6n1CKDWrmKZNb) | 2:02 |
 
-Snapshot ID: `AAAAAJhLygK0POpPHrL79WkXk2XzUUBX`
+Snapshot ID: `AAAAALKy7bvb6oqtSUWnN2iuindagrxi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,606,773 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,723 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 60 | [Badman](https://open.spotify.com/track/5UD3L6qlMeflQx4pf4Vajl) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 3:14 |
 | 61 | [The Comet](https://open.spotify.com/track/1cme0rvW9bwxC3vwQw5w2t) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [The Comet](https://open.spotify.com/album/5br8Bbw2dCM1gztksloX95) | 2:51 |
 | 62 | [Scream \(Extended Version\)](https://open.spotify.com/track/0C37ach6Df7pr0NdW1H5TS) | [Jah Vinci](https://open.spotify.com/artist/0mkixmQkcUeE6egKHW4ojh), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Scream](https://open.spotify.com/album/2DtpXVctB4BpEJ1OUrrL8h) | 3:53 |
-| 63 | [Gwehh](https://open.spotify.com/track/074C7GyF5fdmHBtOiXt4QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gwehh](https://open.spotify.com/album/6JNHNOgmC9Wz3lw1C2x5t9) | 2:19 |
+| 63 | [Gwehh](https://open.spotify.com/track/074C7GyF5fdmHBtOiXt4QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Droptop](https://open.spotify.com/artist/0etiX7h9nCI1CmTPD8Sh0C) | [Gwehh](https://open.spotify.com/album/6JNHNOgmC9Wz3lw1C2x5t9) | 2:19 |
 | 64 | [90s](https://open.spotify.com/track/4CmAasAiVnxo3WGy0PNxHA) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [90S](https://open.spotify.com/album/1lqzpBgNsPrfQLnSxcFo2Y) | 3:29 |
 | 65 | [Self Love](https://open.spotify.com/track/0BrJVmux8LCDIigjeWBJxs) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Self Love](https://open.spotify.com/album/7DfzInZUblFa3YLowYZ8i0) | 2:40 |
 | 66 | [GANGSTA](https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [MUSE](https://open.spotify.com/album/2ZpWc0l8um4MjOYt7eKx3D) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 79 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
 | 80 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
 
-Snapshot ID: `AAAAAErOXYlrDwjLYLRFf6nPi00hir+E`
+Snapshot ID: `AAAAAAdAQYXkjNMSD6LGaL7xzqLtZtzU`

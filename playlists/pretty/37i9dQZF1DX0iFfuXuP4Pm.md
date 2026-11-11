@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Wilbert Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,025,676 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,025,482 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Shuloks](https://open.spotify.com/track/1m4zRUexgXzzpI9Sb94bgz) | [RAPROJECT SIX](https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59) | [Shuloks](https://open.spotify.com/album/70FbVi8zPEnqd19ZBnyq2s) | 2:58 |
 | 50 | [Bahagya](https://open.spotify.com/track/526rzqbY2yTDMcnkF60iwC) | [Mariah Deborah](https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv) | [Bahagya](https://open.spotify.com/album/4xHpN7YcAzmbmHZnUJlERm) | 4:05 |
 
-Snapshot ID: `AAAAAFpECdT5N+M36gcu67Zlz70qArJu`
+Snapshot ID: `AAAAAB0zLLkTXKpZvGx9amkJJydyxk/g`

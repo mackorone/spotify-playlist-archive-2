@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,765 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,769 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 54 | [Manteau chagrin](https://open.spotify.com/track/68mZo8JZRnbvSLopeLHElu) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [MAISON](https://open.spotify.com/album/5j63ceC6p3VDR86pjCLdbL) | 4:13 |
 | 55 | [Mentalité](https://open.spotify.com/track/0aWrQZEWiePgmbR0fs6PTP) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [Après L'Éclipse](https://open.spotify.com/album/1MNXPDvHtcoIaTZ1GFbG58) | 2:59 |
 | 56 | [ANTI](https://open.spotify.com/track/7lrtKjLq5Pc3D8NiuIUcxq) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [L'Enfant Sacré De Belle Vue, Pt 2](https://open.spotify.com/album/13q22EbATaZB1KFVCPYEh7) | 3:58 |
-| 57 | [C'est la vie](https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [C'est la vie](https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93) | 2:36 |
+| 57 | [C'est la vie \- Music Monday](https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [C'est la vie \- Music Monday](https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93) | 2:36 |
 | 58 | [Le départ](https://open.spotify.com/track/1aPmnLaOqUckJH55npV3ZC) | [Blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Te souviens\-tu ?](https://open.spotify.com/album/4LfcPStkgGYBfHrHWugvpd) | 3:07 |
 | 59 | [jamais danser!](https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [jamais danser!](https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv) | 3:15 |
 | 60 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 75 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 76 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 |
 
-Snapshot ID: `AAAAAPGEQeiQdkKhdiokzPE5r8ihH31O`
+Snapshot ID: `AAAAAKggV/hBy8nHOYl8JozfJ9urQNW/`

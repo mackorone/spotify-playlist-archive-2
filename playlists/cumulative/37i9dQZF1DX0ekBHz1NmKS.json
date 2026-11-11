@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 124184,
       "name": "Bara idioter",
       "url": "https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf"
@@ -14812,7 +14812,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 193386,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/27NCPgfAJ3i4epMbWcMfd1"
@@ -16074,6 +16074,24 @@
       "duration_ms": 183764,
       "name": "Heaven med dig",
       "url": "https://open.spotify.com/track/787m7kcyC5KB6IQ87jkwbX"
+    },
+    {
+      "album": {
+        "name": "My Sadness Needs Your Full Attention (Part 1)",
+        "url": "https://open.spotify.com/album/2kNqAUut2X0XLNHOOhlP04"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204990,
+      "name": "Heavy Hearts Club",
+      "url": "https://open.spotify.com/track/3KLacVEtzdMB3ttyGP7a0I"
     },
     {
       "album": {
@@ -20750,7 +20768,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 217234,
       "name": "Jag ska bli b\u00e4ttre",
       "url": "https://open.spotify.com/track/7sn5WsOd28mPDfGwKo0v6v"

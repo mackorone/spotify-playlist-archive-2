@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,161 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,314 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [God Abeg](https://open.spotify.com/track/7kzGpRbR0uwQrvqBs8Xskw) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [God Abeg](https://open.spotify.com/album/2V1mG4syocQGXnH2EFHMPN) | 3:10 |
 | 50 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 3:45 |
 
-Snapshot ID: `AAAAAGNf1tGy28/gVim9wztCjf+BJlM6`
+Snapshot ID: `AAAAACtjTVMSNL4gcv1viogeXFgIJ6YN`

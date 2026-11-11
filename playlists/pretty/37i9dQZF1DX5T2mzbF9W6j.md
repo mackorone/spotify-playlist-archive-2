@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,037 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,035 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 15 | [Tańczę](https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Tańczę](https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S) | 3:14 |
 | 16 | [MANGO](https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [MANGO](https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui) | 3:16 |
 | 17 | [Bez końca](https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Bez końca](https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e) | 2:35 |
-| 18 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
-| 19 | [Primabalerina](https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Primabalerina](https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d) | 3:07 |
+| 18 | [Primabalerina](https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Primabalerina](https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d) | 3:07 |
+| 19 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 | 20 | [Czy będziemy się pamiętać?](https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Czy będziemy się pamiętać?](https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR) | 2:50 |
 | 21 | [AIOLI](https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ) | [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [AIOLI](https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW) | 2:31 |
 | 22 | [LUBIMY](https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [LUBIMY](https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 59 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
 | 60 | [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 |
 
-Snapshot ID: `AAAAAFpRuT7ulCA3XBzHk/ClL/becyeN`
+Snapshot ID: `AAAAAJR2nvqStxFzoCvXnbsYg7ng6izA`

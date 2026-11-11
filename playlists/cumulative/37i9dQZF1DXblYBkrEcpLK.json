@@ -2947,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Get Wild",
+        "url": "https://open.spotify.com/album/2FYk7h3EY9C0lNJcA5QgUf"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Moriguchi",
+          "url": "https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270967,
+      "name": "Get Wild",
+      "url": "https://open.spotify.com/track/7qSBGM2Z14thDUgGXdbyLW"
+    },
+    {
+      "album": {
         "name": "give it back",
         "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
       },
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 198000,
       "name": "HIDE AND SEEK",
       "url": "https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG"
@@ -6496,7 +6514,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 237145,
       "name": "Reweave",
       "url": "https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi"
@@ -6914,6 +6932,24 @@
       "duration_ms": 181594,
       "name": "Shogeki",
       "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
+    },
+    {
+      "album": {
+        "name": "Shoot Shoot Shoot",
+        "url": "https://open.spotify.com/album/3rsVT07lHEG8SyQkdj62ea"
+      },
+      "artists": [
+        {
+          "name": "METALVERSE",
+          "url": "https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166853,
+      "name": "Shoot Shoot Shoot",
+      "url": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ"
     },
     {
       "album": {
@@ -7552,6 +7588,24 @@
       "duration_ms": 222439,
       "name": "Sugao no Pixel",
       "url": "https://open.spotify.com/track/4XDHoSJGD6pM6AkWXhgZI1"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221583,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf"
     },
     {
       "album": {
@@ -10274,7 +10328,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 216026,
       "name": "\u3074",
       "url": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH"
@@ -10292,7 +10346,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 255615,
       "name": "\u3078\u3073",
       "url": "https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz"
@@ -11548,6 +11602,24 @@
       "duration_ms": 215399,
       "name": "\u30b7\u30e5\u30fc\u30af\u30ea\u30fc\u30e0\u30fb\u30d5\u30a1\u30f3\u30af",
       "url": "https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30f3\u30ab",
+        "url": "https://open.spotify.com/album/1Lbz370TR61xZSisbc7i9S"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199726,
+      "name": "\u30b7\u30f3\u30ab",
+      "url": "https://open.spotify.com/track/12UmOQlYTGVkKz8QqRmr5s"
     },
     {
       "album": {
@@ -15228,7 +15300,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 253441,
       "name": "\u661f\u964d\u308b\u6d77",
       "url": "https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0"
@@ -16971,6 +17043,24 @@
     },
     {
       "album": {
+        "name": "\u900f\u660e\u3060\u3063\u305f\u4e16\u754c",
+        "url": "https://open.spotify.com/album/3F9eCmmAJiNtRRptvUfalt"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "\u900f\u660e\u3060\u3063\u305f\u4e16\u754c",
+      "url": "https://open.spotify.com/track/1UPHVPKiQ8tb66UHgYSSpa"
+    },
+    {
+      "album": {
         "name": "\u900f\u660e\u30b7\u30f3\u30ac\u30fc",
         "url": "https://open.spotify.com/album/73yWqC1fwnccaD2Xw2Wen7"
       },
@@ -17169,6 +17259,24 @@
     },
     {
       "album": {
+        "name": "\u96c6\u5408\u8ad6",
+        "url": "https://open.spotify.com/album/6cUT5JkBelMMEyirLr93Cw"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6a4b\u674e\u4f9d",
+          "url": "https://open.spotify.com/artist/12iQR4yHrznblXyarjpvoh"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "\u96c6\u5408\u8ad6",
+      "url": "https://open.spotify.com/track/6tuIsHQctXDnBNqv6Dw4dO"
+    },
+    {
+      "album": {
         "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
         "url": "https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh"
       },
@@ -17198,7 +17306,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 238253,
       "name": "\u96f6-zero-",
       "url": "https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u"

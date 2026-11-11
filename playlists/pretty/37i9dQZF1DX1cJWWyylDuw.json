@@ -1,12 +1,12 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Bring Me The Horizon",
-  "num_followers": 315440,
+  "num_followers": 315567,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGF0R+n9xMmjA/HeIGsebUvqS5Z",
+  "snapshot_id": "AAAAAEWUZE38J5tCG3DHVx6isU4lPw7E",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:53",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "It Comes For You",
+        "url": "https://open.spotify.com/album/50teRCEaNpo7gWCnQ74yVU"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 234902,
+      "name": "It Comes For You",
+      "url": "https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Been There, Mutilated That",
         "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 173990,
       "name": "Carry The Weight",
       "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "It Comes For You",
-        "url": "https://open.spotify.com/album/50teRCEaNpo7gWCnQ74yVU"
-      },
-      "artists": [
-        {
-          "name": "Fit For An Autopsy",
-          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
-        }
-      ],
-      "duration_ms": 234902,
-      "name": "It Comes For You",
-      "url": "https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Kushizashi",
-        "url": "https://open.spotify.com/album/6unRriepGMVFl77wDxaI1Z"
-      },
-      "artists": [
-        {
-          "name": "Knosis",
-          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
-        }
-      ],
-      "duration_ms": 138204,
-      "name": "Kushizashi",
-      "url": "https://open.spotify.com/track/5Ga0J2z4jVWFWWkpoqFHNP"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Set the World on Fire",
         "url": "https://open.spotify.com/album/3EWHosgZgHFx7SI2iTI2ZW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 169848,
       "name": "Set the World on Fire",
       "url": "https://open.spotify.com/track/6UzntVyCu5wfJkjb5ddczQ"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Kushizashi",
+        "url": "https://open.spotify.com/album/6unRriepGMVFl77wDxaI1Z"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "duration_ms": 138204,
+      "name": "Kushizashi",
+      "url": "https://open.spotify.com/track/5Ga0J2z4jVWFWWkpoqFHNP"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "ALL WE MADE",
-        "url": "https://open.spotify.com/album/7j7F5kAN1RkqaN9vK1bXMC"
-      },
-      "artists": [
-        {
-          "name": "Monument Of A Memory",
-          "url": "https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "ALL WE MADE",
-      "url": "https://open.spotify.com/track/4yFwYsGJUwWZzsd3yuWPyZ"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Bunny Suit",
         "url": "https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 273333,
       "name": "Bunny Suit",
       "url": "https://open.spotify.com/track/4LubEIUvempGGLt6kaExjk"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "ALL WE MADE",
+        "url": "https://open.spotify.com/album/7j7F5kAN1RkqaN9vK1bXMC"
+      },
+      "artists": [
+        {
+          "name": "Monument Of A Memory",
+          "url": "https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "ALL WE MADE",
+      "url": "https://open.spotify.com/track/4yFwYsGJUwWZzsd3yuWPyZ"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Drop Dead Gorgeous",
-        "url": "https://open.spotify.com/album/3g0e9UejRcmvoM2ADd4qeE"
-      },
-      "artists": [
-        {
-          "name": "Mauled",
-          "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "TheLastThingYouSee",
-      "url": "https://open.spotify.com/track/43VDdSuslycwdg8XEGWFql"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/5eLijWKg89vlalIFzQQOyY"
       },
@@ -2027,18 +2011,34 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Invertebrate",
-        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
+        "name": "Drop Dead Gorgeous",
+        "url": "https://open.spotify.com/album/3g0e9UejRcmvoM2ADd4qeE"
       },
       "artists": [
         {
-          "name": "Our Common Collapse",
-          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
+          "name": "Mauled",
+          "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2"
         }
       ],
-      "duration_ms": 181052,
-      "name": "Invertebrate",
-      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
+      "duration_ms": 188906,
+      "name": "TheLastThingYouSee",
+      "url": "https://open.spotify.com/track/43VDdSuslycwdg8XEGWFql"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/18qPqwKIWroJmNkHsxo2bn"
+      },
+      "artists": [
+        {
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+        }
+      ],
+      "duration_ms": 208935,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2059,22 +2059,6 @@
       "duration_ms": 225882,
       "name": "Make It to Heaven (feat. Signs of the Swarm)",
       "url": "https://open.spotify.com/track/6XsYxUlmR9onLDzgAeUueE"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/18qPqwKIWroJmNkHsxo2bn"
-      },
-      "artists": [
-        {
-          "name": "Saltwound",
-          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
-        }
-      ],
-      "duration_ms": 208935,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2111,6 +2095,22 @@
       "duration_ms": 254693,
       "name": "Theriac",
       "url": "https://open.spotify.com/track/6PnKPI4Xd0RgMJ9oAMR2y5"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Invertebrate",
+        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
+      },
+      "artists": [
+        {
+          "name": "Our Common Collapse",
+          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Invertebrate",
+      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Eradication Protocol",
-        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
-      },
-      "artists": [
-        {
-          "name": "I Am Mook",
-          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
-        }
-      ],
-      "duration_ms": 159191,
-      "name": "Teufel",
-      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Portrait of God",
         "url": "https://open.spotify.com/album/6sQXYY4UOfTmfCo5MbD0Jp"
       },
@@ -2419,6 +2403,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Eradication Protocol",
+        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
+      },
+      "artists": [
+        {
+          "name": "I Am Mook",
+          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
+        }
+      ],
+      "duration_ms": 159191,
+      "name": "Teufel",
+      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Kiss The Dice",
         "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
       },
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Sworn To Repay",
-        "url": "https://open.spotify.com/album/74ZJH8kdxayr72jwpcAluo"
-      },
-      "artists": [
-        {
-          "name": "Acranius",
-          "url": "https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Sworn To Repay",
-      "url": "https://open.spotify.com/track/7eotZ4yZxAh6ktFjowQnXA"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "death//rebirth.",
         "url": "https://open.spotify.com/album/6SzLntIEIxuUU8EqnWylKF"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 166813,
       "name": "death//rebirth.",
       "url": "https://open.spotify.com/track/3jlAKXnB5hOe69VQYsEMAW"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Sworn To Repay",
+        "url": "https://open.spotify.com/album/74ZJH8kdxayr72jwpcAluo"
+      },
+      "artists": [
+        {
+          "name": "Acranius",
+          "url": "https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Sworn To Repay",
+      "url": "https://open.spotify.com/track/7eotZ4yZxAh6ktFjowQnXA"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "TOMB OF THE TORMENTOR",
-        "url": "https://open.spotify.com/album/34APkPckxMDZnJOL5TO2Nx"
-      },
-      "artists": [
-        {
-          "name": "Hate Within",
-          "url": "https://open.spotify.com/artist/27sOHU1c3NaMHTtN5vEVMv"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "TOMB OF THE TORMENTOR",
-      "url": "https://open.spotify.com/track/59PZ0aXCk6Chs3E3VSYtlL"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Troll Named Scrot",
         "url": "https://open.spotify.com/album/7viyRERARKCHp8v90EWVG2"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 228040,
       "name": "Troll Named Scrot",
       "url": "https://open.spotify.com/track/4vpBQ8xfXzTgm1SruowHc5"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "TOMB OF THE TORMENTOR",
+        "url": "https://open.spotify.com/album/34APkPckxMDZnJOL5TO2Nx"
+      },
+      "artists": [
+        {
+          "name": "Hate Within",
+          "url": "https://open.spotify.com/artist/27sOHU1c3NaMHTtN5vEVMv"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "TOMB OF THE TORMENTOR",
+      "url": "https://open.spotify.com/track/59PZ0aXCk6Chs3E3VSYtlL"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Forsaken Soul",
-        "url": "https://open.spotify.com/album/68fVWXiPPEZiqEbIoNVd6Z"
-      },
-      "artists": [
-        {
-          "name": "Ov Ruin",
-          "url": "https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Forsaken Soul",
-      "url": "https://open.spotify.com/track/3CukSTqDXEbkf6TNpyvPkO"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "In Gloom II: True Violence and All the Terror That Comes With It",
         "url": "https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X"
       },
@@ -2615,18 +2599,34 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "NOT WORTHY OF HUMAN COMPASSION",
-        "url": "https://open.spotify.com/album/16C9JhrUDB19XJVVcyj2dy"
+        "name": "Forsaken Soul",
+        "url": "https://open.spotify.com/album/68fVWXiPPEZiqEbIoNVd6Z"
       },
       "artists": [
         {
-          "name": "SCALP",
-          "url": "https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv"
+          "name": "Ov Ruin",
+          "url": "https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm"
         }
       ],
-      "duration_ms": 125776,
-      "name": "SHACKLEROT",
-      "url": "https://open.spotify.com/track/4fckK2M2zO9JveWT2iYgMK"
+      "duration_ms": 288000,
+      "name": "Forsaken Soul",
+      "url": "https://open.spotify.com/track/3CukSTqDXEbkf6TNpyvPkO"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Spawn of Decay",
+        "url": "https://open.spotify.com/album/6LsqLflc8xUk2YvyYHOvUa"
+      },
+      "artists": [
+        {
+          "name": "The Archaic Epidemic",
+          "url": "https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "Spawn of Decay",
+      "url": "https://open.spotify.com/track/1tqJHuTMqMV1IDaOcTjtEM"
     }
   ],
   "unique_name": "Deathcore",

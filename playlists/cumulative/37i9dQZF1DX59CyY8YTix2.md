@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 35.7
 
-2,116 songs - 5 day 10 hr 57 min
+2,117 songs - 5 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [Plastic L](https://open.spotify.com/track/6wxxnPasBQyqQZzYmfG4jj) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [PLASTIC POP](https://open.spotify.com/album/461TGoCjAQ5tlk59t3Duzw) | 4:22 | 2023-06-13 | 2023-06-21 |
 | [PLAY](https://open.spotify.com/track/1f4iyIH0FXg1oku5JJkC0N) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [JUST](https://open.spotify.com/album/5d8WCGbijeDvWADfZBMvNZ) | 3:59 | 2026-01-13 | 2026-01-21 |
 | [PLAYER](https://open.spotify.com/track/3vE2BACJCQZ0Ojxyn50Dss) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [PLAYER](https://open.spotify.com/album/6KECSuZPPkN1hyc8MglWXV) | 4:23 | 2022-06-16 | 2022-07-24 |
-| [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 | 2025-02-18 |  |
+| [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 | 2025-02-18 | 2026-11-11 |
 | [please me](https://open.spotify.com/track/4seMzygIwDyogVzvaLPZZb) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:49 | 2024-06-12 | 2024-07-10 |
 | [please me](https://open.spotify.com/track/5FPb5zk04kdYGAXR43gq2o) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [please me](https://open.spotify.com/album/38ecJqSh6YwmoUf6MavE0z) | 2:49 | 2024-04-02 | 2024-04-10 |
 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-02-27 | 2024-04-19 |
@@ -2058,6 +2058,7 @@
 | [逆光](https://open.spotify.com/track/25mnoIexUeJvsnVhddok1n) | [街鳴り](https://open.spotify.com/artist/0qIqzp7j9lHWO8EIUN0Nvp) | [逆光](https://open.spotify.com/album/0v1mLICPpVhArHCzVV4zL7) | 3:35 | 2022-07-05 | 2022-07-07 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-12-14 |
 | [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 | 2026-04-07 |  |
+| [透明だった世界](https://open.spotify.com/track/1UPHVPKiQ8tb66UHgYSSpa) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [透明だった世界](https://open.spotify.com/album/3F9eCmmAJiNtRRptvUfalt) | 3:32 | 2026-11-03 |  |
 | [途切れないで](https://open.spotify.com/track/3y9FdEmi3G3jxKGQKW5k8T) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [TVアニメ「なぜ僕の世界を誰も覚えていないのか？」エンディングテーマ「途切れないで」](https://open.spotify.com/album/4KpM2yvCkvBxCOatJ4btB5) | 3:51 | 2024-07-30 | 2024-10-10 |
 | [週末のユートピア](https://open.spotify.com/track/73vl2RL9IjiwuZP5yLHNy6) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [週末のユートピア](https://open.spotify.com/album/0CzmcbKAeVkEaLRmwwm4v1) | 4:11 | 2022-06-02 | 2022-07-20 |
 | [遅刻](https://open.spotify.com/track/2EhMtQkvL0MFmylVUXRklU) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [遅刻](https://open.spotify.com/album/3QajBUxnmnGNRC5iQMUck7) | 4:12 | 2022-10-12 | 2022-10-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from LeeMcKrazy, Skepta, Shimza & Ayra Starr, Buzzi Lee, Mr JazziQ, Slayyyter and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,113 likes - 84 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,191 likes - 84 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 83 | [Project 41](https://open.spotify.com/track/7eZX8l4VQIPCx3cuwM1Wab) | [Sef Kombo](https://open.spotify.com/artist/56XJ3AzNbn80hG19T3HqrN) | [Night Transmission](https://open.spotify.com/album/3rB31EdNNkSXDHrwD2OPJg) | 4:37 |
 | 84 | [MONEY \(feat\. Trailer Young\)](https://open.spotify.com/track/7hloGI1XUAG8sfqBawINsh) | [VegasXCesar](https://open.spotify.com/artist/2WWAFBZmTE2YEyVe7lpek4), [Trailer Young](https://open.spotify.com/artist/1nwdKH03XoQKKz52xoH1uh) | [MONEY \(feat\. Trailer Young\)](https://open.spotify.com/album/0w5gaEQ6PI6J9guNM7TYOJ) | 3:20 |
 
-Snapshot ID: `AAAAAFyPEu0S76oLXL75H/fuPtPogdeV`
+Snapshot ID: `AAAAAEQobIhSzrm7mQxKotyP+mKP3X2E`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Wamen \(du titre \#1 au \#15\)\. Les titres \#16 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,260 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,180 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 24 | [mode avion](https://open.spotify.com/track/2lB2ZierONlZoEKGzxNLsp) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [mode avion](https://open.spotify.com/album/3o5Faji46zt8hquDqtlsKs) | 2:50 |
 | 25 | [l’épicier](https://open.spotify.com/track/1b8HMVhixwFZQJ08QKY7A6) | [Jeanne Bringtown](https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo) | [l’épicier](https://open.spotify.com/album/0lsPXkUcscY5Lc6I50X061) | 3:00 |
 | 26 | [Ruelle sombre](https://open.spotify.com/track/6AsAFDgh2TWMFfWsSMF6Pl) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Effets Secondaires](https://open.spotify.com/album/1CDHmmmDBx7IKFLq1mm6LT) | 3:38 |
-| 27 | [toujours connu](https://open.spotify.com/track/1SqhqRCUIm3vmfrXAna25e) | [emma bergmann](https://open.spotify.com/artist/3gVhN8wuf94KtCRlmmkK2F) | [toujours connu](https://open.spotify.com/album/4OiYyLIa6kl487VuBxGKCr) | 4:11 |
+| 27 | [toujours connu](https://open.spotify.com/track/1SqhqRCUIm3vmfrXAna25e) | [emma bergmann](https://open.spotify.com/artist/2dmdvVHPy964lZTi153Q7A) | [toujours connu](https://open.spotify.com/album/4OiYyLIa6kl487VuBxGKCr) | 4:11 |
 | 28 | [Essence](https://open.spotify.com/track/2Md7pizPY9jtrXp1AMmWZe) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Essence](https://open.spotify.com/album/3jLpZIcBlCRU0addEAxnTG) | 2:57 |
 | 29 | [Lucifer](https://open.spotify.com/track/5QiwoucgVaNadWHnd8mljx) | [Laura Ferré](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Lucifer](https://open.spotify.com/album/5HlYojvlbKOTRxl5rhfGII) | 2:43 |
 | 30 | [le rosier](https://open.spotify.com/track/4zutBJDMXFHhE2sslvnLZU) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [la maison s'effondre](https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP) | 3:33 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 40 | [Hot](https://open.spotify.com/track/01Gccj2VR5W5eZMg9h8Bmi) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Hot](https://open.spotify.com/album/5FNjUU3YrOLgc09fqV9Dq7) | 2:44 |
 | 41 | [Jeune Demoiselle](https://open.spotify.com/track/4uie9TydlbuQRptziBOzss) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Jeune Demoiselle](https://open.spotify.com/album/2AWZKCVDQGrAIiLNuBd9CG) | 2:27 |
 
-Snapshot ID: `AAAAAKPI3uentb2ZVBpL+7lBhX7G6RQP`
+Snapshot ID: `AAAAAD9cmSQnKxYeTgc4Q4lcCLCul89Y`

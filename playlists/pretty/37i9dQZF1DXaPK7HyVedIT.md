@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Mochakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165,830 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165,653 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Rhythm in My Veins](https://open.spotify.com/track/6da9V1BxCuEqD0ZDfax2cR) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Aline Rocha](https://open.spotify.com/artist/23hlYNjktCHEfyavJaK3Ug) | [Rhythm in My Veins](https://open.spotify.com/album/7ywLCVzRUj4Y42VsavfXza) | 2:17 |
 | 80 | [LA TO IBIZA](https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [LA TO IBIZA](https://open.spotify.com/album/1BixBJebSVzMxeiC4JyBMT) | 3:46 |
 
-Snapshot ID: `AAAAAADL59NmuP2mWfJxrO1fKCrfA5vQ`
+Snapshot ID: `AAAAAI+oU7gu3q7E1YX4+vt4Js1IFE2c`

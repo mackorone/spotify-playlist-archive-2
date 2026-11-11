@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo mejor del Trap, Rap, R&B, Afrobeats y Reggaeton Cristiano\. Foto: Alex Zurdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,870 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,883 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 79 | [mi DIOS](https://open.spotify.com/track/6svI9jr6WIF6mgFlRmVhWW) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [mi DIOS](https://open.spotify.com/album/1N1YJ4gJcu94N3yEpwsD45) | 2:51 |
 | 80 | [Dile en Merengue](https://open.spotify.com/track/5eAYCnFYt5UTG30875EaCt) | [Giovani](https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG) | [Sazón Over Everything \(S.O.E\) Vol\. 1](https://open.spotify.com/album/7L1GyCQtf6cYdR5GHeCBcO) | 1:02 |
 
-Snapshot ID: `AAAAAPYaYgRINKCeTQ+TQpXw5ievxiNv`
+Snapshot ID: `AAAAABnpFgNB6ous1ypzljRnBpxrMmq+`

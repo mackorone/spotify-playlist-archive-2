@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Arushi Bhargava
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,652 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,747 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Romeo.](https://open.spotify.com/track/0BGkzaDbOlO8l0PosWFyyt) | [som.](https://open.spotify.com/artist/4SfYrm8nXbR7IOK04PWwU6) | [Romeo.](https://open.spotify.com/album/3FILmWCBKJpKZ2oqmspw8r) | 5:36 |
 | 50 | [Jaaniya](https://open.spotify.com/track/2bI8N1JQehlzuXBPrBykN0) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Shen B](https://open.spotify.com/artist/45WLnoWpUTEAQQsdgswIZZ) | [Jaaniya](https://open.spotify.com/album/583lHoY81PCHU6Ma83WZ8k) | 2:57 |
 
-Snapshot ID: `AAAAAGdq7BdTq4At4CVg65g2cwORGzl5`
+Snapshot ID: `AAAAAPVNU5CUs9GHwOqfObwKG6454GEk`

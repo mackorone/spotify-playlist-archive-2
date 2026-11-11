@@ -1,12 +1,12 @@
 {
   "description": "Inspired by the islands and into the mainstream. Cover: Destin Conrad",
-  "num_followers": 643887,
+  "num_followers": 643861,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFwmYJxztrhVAtBmdp0xwto65MDC",
+  "snapshot_id": "AAAAAFBkCTNYXS1BClW/SGtyOxsYGtkC",
   "tracks": [
     {
       "added_at": "2026-07-02 23:00:30",
@@ -426,6 +426,10 @@
         {
           "name": "Skeng",
           "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Droptop",
+          "url": "https://open.spotify.com/artist/0etiX7h9nCI1CmTPD8Sh0C"
         }
       ],
       "duration_ms": 148636,
@@ -686,6 +690,10 @@
         {
           "name": "Skeng",
           "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Droptop",
+          "url": "https://open.spotify.com/artist/0etiX7h9nCI1CmTPD8Sh0C"
         }
       ],
       "duration_ms": 134452,

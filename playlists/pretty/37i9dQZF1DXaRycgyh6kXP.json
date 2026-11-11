@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 298207,
+  "num_followers": 298252,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEICEq1i3zv3QIJFCJOiPHoHuKxM",
+  "snapshot_id": "AAAAAGjzej85C50SXdfUxW9AMWQV+elX",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:06",
@@ -599,34 +599,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
-        "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
-        },
-        {
-          "name": "Jessy Lanza",
-          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
-        },
-        {
-          "name": "Prentiss",
-          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
-      "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
       },
@@ -659,6 +631,34 @@
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+        "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        {
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+      "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Reality Testing",
+        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
+      },
+      "artists": [
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        }
+      ],
+      "duration_ms": 289082,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Reality Testing",
-        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
-      },
-      "artists": [
-        {
-          "name": "Lone",
-          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
-        }
-      ],
-      "duration_ms": 289082,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
     },
     {
       "added_at": "2026-06-12 04:01:06",

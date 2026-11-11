@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188710,
+  "num_followers": 188719,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPz/U+lnqn2OHYcheGtpDuY0qZlp",
+  "snapshot_id": "AAAAAEyLLla14+bpiBvCtc4FGSorq0sH",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:14",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Make believe",
-        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Make believe",
-      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Real!",
         "url": "https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 178581,
       "name": "Real!",
       "url": "https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Make believe",
+        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Make believe",
+      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "One song away from crying",
-        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "One song away from crying",
-      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 166080,
       "name": "Where To Start",
       "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "No Thank You, I Love You, Goodbye",
-        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 179042,
-      "name": "No Thank You, I Love You, Goodbye",
-      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "No Thank You, I Love You, Goodbye",
+        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 179042,
+      "name": "No Thank You, I Love You, Goodbye",
+      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "Everything in Between",
+        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "duration_ms": 213642,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Junk",
         "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
-        "name": "Everything in Between",
-        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
-      },
-      "artists": [
-        {
-          "name": "Munan",
-          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
-        }
-      ],
-      "duration_ms": 213642,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Angus & Julia Stone",
-        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "I try my best",
         "url": "https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+        "name": "Angus & Julia Stone",
+        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
       },
       "artists": [
         {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1287,6 +1271,22 @@
       "duration_ms": 253466,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "When the Magic Comes",
-        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 210168,
-      "name": "When the Magic Comes",
-      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2nBJ4KPNSVr6FYLdExRoAA"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 195360,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4MqnoDLDaYFZL9JxtCKiJT"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "When the Magic Comes",
+        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 210168,
+      "name": "When the Magic Comes",
+      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "Beast of the Night",
+        "url": "https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Beast of the Night",
+      "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Flamingo Serenades / Flamingo Favorites",
         "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Beast of the Night",
-        "url": "https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "Beast of the Night",
-      "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Goanna",
         "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 169160,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Rapids of Love",
-        "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
+        "name": "Plume",
+        "url": "https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7"
       },
       "artists": [
         {
-          "name": "Courrier Sud",
-          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
+          "name": "Simon M\u00e9ny",
+          "url": "https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ"
         }
       ],
-      "duration_ms": 165554,
-      "name": "Rapids of Love",
-      "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
+      "duration_ms": 197020,
+      "name": "Plume",
+      "url": "https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Plume",
-        "url": "https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7"
+        "name": "Rapids of Love",
+        "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
       },
       "artists": [
         {
-          "name": "Simon M\u00e9ny",
-          "url": "https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ"
+          "name": "Courrier Sud",
+          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
         }
       ],
-      "duration_ms": 197020,
-      "name": "Plume",
-      "url": "https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY"
+      "duration_ms": 165554,
+      "name": "Rapids of Love",
+      "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
     },
     {
       "added_at": "2026-11-05 23:00:14",

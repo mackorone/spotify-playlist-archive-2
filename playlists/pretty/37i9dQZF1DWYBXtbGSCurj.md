@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: kouth
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,778 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,747 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 17 | [Mundo Fashion](https://open.spotify.com/track/52EfPNdYLQDbv2OHOuoUue) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Mundo Fashion](https://open.spotify.com/album/0h2u1ikVqnFckItpMMVl58) | 4:01 |
 | 18 | [BAT\-MAN](https://open.spotify.com/track/66YMp0JXWraQyNrudxSoVh) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [BAT\-MAN](https://open.spotify.com/album/4WVPf6LghyYxyUFgVI4Uh9) | 2:19 |
 | 19 | [Cachorra No Cio](https://open.spotify.com/track/0OgHGwS5LyeorUsG4SbwJE) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [LV Twil](https://open.spotify.com/artist/5Qg2naVOcBvRJTEG7fhVz1) | [Cachorra No Cio](https://open.spotify.com/album/5XncFBEsIrVylLyfNYVysp) | 2:19 |
-| 20 | [Louvre](https://open.spotify.com/track/00hGeWd9fZuubbPE7rH4b3) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs) | [Louvre](https://open.spotify.com/album/3fXXicH2LTWxvsNvaGkyQE) | 5:24 |
+| 20 | [Louvre](https://open.spotify.com/track/00hGeWd9fZuubbPE7rH4b3) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs) | [Louvre](https://open.spotify.com/album/3fXXicH2LTWxvsNvaGkyQE) | 1:30 |
 | 21 | [HIGH](https://open.spotify.com/track/5SsPjzHJDf2Exy0qxQSK83) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [HIGH](https://open.spotify.com/album/4aWPYaCSNHzs0gmUaSEQgL) | 2:11 |
 | 22 | [Tão Só](https://open.spotify.com/track/2S0YZXFoxKmMOFGaPj9Yjg) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [VTnoBeat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [Tão Só](https://open.spotify.com/album/3PsAehfXoKcVvkHt6WuaKk) | 2:54 |
 | 23 | [OURO ROSE](https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [NUNK MAIS QUEBRADO](https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv) | 1:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [não te culpo](https://open.spotify.com/track/2RLEqLhrgIlED0pqS2Glsn) | [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [não te culpo](https://open.spotify.com/album/03RXDu0SBKf0Ojc8yFiMFd) | 2:01 |
 | 75 | [Resumo](https://open.spotify.com/track/60VIiC7hY10xz8QT3NSQek) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [BG\_Rj](https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa) | [Resumo](https://open.spotify.com/album/3lzIJ9gBamGfS2iEQw63Mg) | 2:22 |
 
-Snapshot ID: `AAAAAKXJUdBwPkG2mRwlJXAsTx5/Co0b`
+Snapshot ID: `AAAAAGDu2FT4bc1x4GC7IU2no3ib0gQ7`

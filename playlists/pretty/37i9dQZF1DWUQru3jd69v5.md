@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > LILCR in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,377 likes - 65 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,369 likes - 65 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 64 | [LATINO \(feat\. JeFlako\)](https://open.spotify.com/track/2v4KdCMLLNXiu74Wj3D0iX) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7), [JeFlako](https://open.spotify.com/artist/0NhX00coFrax6WepHWrbt9) | [LATINO \(feat\. JeFlako\)](https://open.spotify.com/album/7HN8uZXGUXebMFIsCyXlbC) | 2:46 |
 | 65 | [Cash Mula](https://open.spotify.com/track/0c7un26z1rDinZu5BERE2O) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [Cash Mula](https://open.spotify.com/album/6LvMJriKDqPUTNy0EsmtGC) | 1:50 |
 
-Snapshot ID: `AAAAAALQzExIBbVFY4ZPjP8bvwCdp5sB`
+Snapshot ID: `AAAAAFcBe+FeDwvXkTgF02sC5SxCaAv3`

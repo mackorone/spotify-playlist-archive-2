@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🔊 Tech house operators, featuring Bruno Furlan
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,014 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,082 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 99 | [TCFS](https://open.spotify.com/track/4V3SzxQdZxMgxj2Db6OHoT) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [TCFS](https://open.spotify.com/album/0292ICJLqncZerKgvuT7cw) | 3:16 |
 | 100 | [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 |
 
-Snapshot ID: `AAAAAOcyZmjrDjPNCQyJhEPCKDHjWF86`
+Snapshot ID: `AAAAAPoUd42OKDdoE2A1WebhrEuSn7QM`

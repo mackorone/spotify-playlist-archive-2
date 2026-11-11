@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,580 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,629 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [DIMMAN](https://open.spotify.com/track/6zimjp4dfG2jZbw2mg6DBp) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [DIMMAN](https://open.spotify.com/album/19L3RzsmJoq1XrsmVBo0Zl) | 2:00 |
 | 100 | [Mademoiselle](https://open.spotify.com/track/0oZSUWZPd5EXeCE0ATO1k0) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Mademoiselle](https://open.spotify.com/album/0Ewz2TsfYNkbm9XtlaPNDq) | 2:27 |
 
-Snapshot ID: `AAAAAJ6H0p1zif7TsefpBLeKXDcmQJOz`
+Snapshot ID: `AAAAAM0HPhPvoz08mYdXRDptqzcVeYHk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 🌀 featuring Andruss & Juos
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,368 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,375 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 99 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
 | 100 | [Morenita](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Paradise Inc.](https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka) | [Morenita](https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr) | 2:58 |
 
-Snapshot ID: `AAAAAN6Y6EDxF6M4MXRA/6Uoa5PAI1u8`
+Snapshot ID: `AAAAAB0+0WDs/Sie5Z6UXTbWoSY0Wvg9`

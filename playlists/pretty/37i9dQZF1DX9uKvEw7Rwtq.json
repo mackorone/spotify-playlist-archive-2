@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 129166,
+  "num_followers": 129189,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM8ORLfwdQTe0avJjpURZ8AkhsQ6",
+  "snapshot_id": "AAAAAPfz6HQu1CJuSeoRf8/I/4zhrN6/",
   "tracks": [
     {
       "added_at": "2026-10-05 15:36:40",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Old Joy",
-        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 101337,
-      "name": "Path to Springs",
-      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 311555,
       "name": "What the Heart Craves For",
       "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Old Joy",
+        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 101337,
+      "name": "Path to Springs",
+      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
-      },
-      "artists": [
-        {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
-        }
-      ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "The Skyline EP",
         "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 270962,
       "name": "Skyline Drive",
       "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "I Dreamt Our Whole City Burned",
-        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 284076,
-      "name": "I Dreamt Our Whole City Burned",
-      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "The Last Mile",
         "url": "https://open.spotify.com/album/0GhDClgSYa2wGGhDb2bkSF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 150129,
       "name": "The Last Mile",
       "url": "https://open.spotify.com/track/2yelkinCXd64Uoy70jnwQT"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "I Dreamt Our Whole City Burned",
+        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 284076,
+      "name": "I Dreamt Our Whole City Burned",
+      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Chronos",
         "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "soft silence",
-        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
       "artists": [
         {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
         }
       ],
-      "duration_ms": 80937,
-      "name": "soft silence",
-      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1343,6 +1327,22 @@
       "duration_ms": 199813,
       "name": "Peterson",
       "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "soft silence",
+        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "duration_ms": 80937,
+      "name": "soft silence",
+      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Water Temple",
-        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
-      },
-      "artists": [
-        {
-          "name": "Lords of Lounge",
-          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Water Temple",
-      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Acknowledge Kindness",
-        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
-      },
-      "artists": [
-        {
-          "name": "The Reds, Pinks and Purples",
-          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
-        }
-      ],
-      "duration_ms": 178428,
-      "name": "Blue Heron Lake",
-      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Pajama Avenue",
         "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
       },
@@ -1483,6 +1451,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
+      },
+      "artists": [
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Hy-Brasil",
         "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 235213,
       "name": "Abell 1835",
       "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Acknowledge Kindness",
+        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "duration_ms": 178428,
+      "name": "Blue Heron Lake",
+      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1583,18 +1583,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+        "name": "In a Sad Red Dusk, We Were Finally Leaving",
+        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
       "artists": [
         {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "deer meadow",
+          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
         }
       ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+      "duration_ms": 318240,
+      "name": "Secret Colours",
+      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1615,22 +1619,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "In a Sad Red Dusk, We Were Finally Leaving",
-        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
       },
       "artists": [
         {
-          "name": "Carlos Ferreira",
-          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
-        },
-        {
-          "name": "deer meadow",
-          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
         }
       ],
-      "duration_ms": 318240,
-      "name": "Secret Colours",
-      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
       },
       "artists": [
         {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
     }
   ],
   "unique_name": "Ambient Post-Rock",

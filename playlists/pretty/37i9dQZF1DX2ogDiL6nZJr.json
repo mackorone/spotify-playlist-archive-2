@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 860869,
+  "num_followers": 860876,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL4xHkjcDkMxRa0885UBW1f4UI5a",
+  "snapshot_id": "AAAAAFuQqPgmXZyxkwCDg5NLBI9J3Rfu",
   "tracks": [
     {
       "added_at": "2026-10-07 16:45:45",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
-        "name": "she goes",
-        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "she goes",
-      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
         "name": "Library",
         "url": "https://open.spotify.com/album/1op64nsgz3qLbsQEzwCcuE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 195480,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/2cDHWddXHOEuKgM5I3Ekjs"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
+        "name": "she goes",
+        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "she goes",
+      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
     },
     {
       "added_at": "2026-10-07 16:45:45",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
+        "name": "My Guitar is too Loud",
+        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "My Guitar is too Loud",
+      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 184692,
       "name": "Unpack Your Bags - Radio Edit",
       "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
-        "name": "My Guitar is too Loud",
-        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "My Guitar is too Loud",
-      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
     },
     {
       "added_at": "2026-10-07 16:45:45",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
-        "name": "postcard from Berlin",
-        "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        },
-        {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
-        }
-      ],
-      "duration_ms": 194092,
-      "name": "grapejuice",
-      "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
+        "name": "postcard from Berlin",
+        "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 194092,
+      "name": "grapejuice",
+      "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
     },
     {
       "added_at": "2026-10-07 16:45:45",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
-        "name": "Roccastrada",
-        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Roccastrada",
-      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
         "name": "Arms of Who",
         "url": "https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 247226,
       "name": "Arms Of Who",
       "url": "https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
+        "name": "Roccastrada",
+        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Roccastrada",
+      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
     },
     {
       "added_at": "2026-10-07 16:45:45",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
         "name": "Fake Plastic Trees",
         "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 260000,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     },
     {
       "added_at": "2026-10-07 16:45:45",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 203534,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
         "name": "Somewhere in Chicago",
         "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 185901,
       "name": "Somewhere in Chicago",
       "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 203534,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw"
     },
     {
       "added_at": "2026-10-07 16:45:45",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
-        "name": "Find A Home Out There",
-        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Find A Home Out There",
-      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
         "name": "Choirs to Heaven",
         "url": "https://open.spotify.com/album/1hd5c47zvKt66gm1zo60Z9"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 119212,
       "name": "You Might",
       "url": "https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
+        "name": "Find A Home Out There",
+        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Find A Home Out There",
+      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
     },
     {
       "added_at": "2026-10-07 16:45:45",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-07 16:45:45",
       "album": {
-        "name": "HI-LO",
-        "url": "https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA"
-      },
-      "artists": [
-        {
-          "name": "Ro Bergman",
-          "url": "https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "Hi Lo",
-      "url": "https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv"
-    },
-    {
-      "added_at": "2026-10-07 16:45:45",
-      "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 213981,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q"
+    },
+    {
+      "added_at": "2026-10-07 16:45:45",
+      "album": {
+        "name": "HI-LO",
+        "url": "https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA"
+      },
+      "artists": [
+        {
+          "name": "Ro Bergman",
+          "url": "https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "Hi Lo",
+      "url": "https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv"
     },
     {
       "added_at": "2026-10-07 16:45:45",

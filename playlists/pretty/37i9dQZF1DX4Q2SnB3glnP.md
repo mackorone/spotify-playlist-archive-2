@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,014 likes - 275 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,064 likes - 275 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 274 | [Sleepwalk Garden](https://open.spotify.com/track/46DzQbU1rECkS5ivK9aVqk) | [Aurora Soundscapes](https://open.spotify.com/artist/4zYuwmJ9PVEoVz0TcFYaxS) | [Sleepwalk Garden](https://open.spotify.com/album/5KmWFoRxIW0JuRVmDqqH26) | 2:44 |
 | 275 | [Ghost Concept](https://open.spotify.com/track/4597QKyHJAp4rIMPhxYP5s) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Ghost Concept](https://open.spotify.com/album/4D5FyV6DwLPD8dqV83SnDu) | 2:26 |
 
-Snapshot ID: `AAAAACMOPrP5ScvT57R2exXX+o1jHcjO`
+Snapshot ID: `AAAAAFMVfyE191fdy2V/yUWEFDATVAfM`

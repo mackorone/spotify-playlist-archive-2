@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Diara.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Grumpys.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -8840,6 +8840,24 @@
       "duration_ms": 176036,
       "name": "Alguna Movida",
       "url": "https://open.spotify.com/track/0UTrMI3xe5VqnSsqi5wgzs"
+    },
+    {
+      "album": {
+        "name": "Alguna Vez",
+        "url": "https://open.spotify.com/album/0jWYTVM8ayK1ksCcPEEvpO"
+      },
+      "artists": [
+        {
+          "name": "Gazella",
+          "url": "https://open.spotify.com/artist/1wmWQx4d3FD5M1FjIrk3wH"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200239,
+      "name": "Alguna Vez",
+      "url": "https://open.spotify.com/track/1gaqPwcTlW85mDwMMz5JYN"
     },
     {
       "album": {
@@ -21597,6 +21615,24 @@
     },
     {
       "album": {
+        "name": "Era m\u00e1s barato llorar",
+        "url": "https://open.spotify.com/album/7vQETHlYHamxeBxyfqGDeX"
+      },
+      "artists": [
+        {
+          "name": "Marina Dom\u00ednguez",
+          "url": "https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139857,
+      "name": "Cada vez mejor",
+      "url": "https://open.spotify.com/track/5kJOBbDS0mlcoLnDJb34NT"
+    },
+    {
+      "album": {
         "name": "Cada Vez M\u00e1s Lejos",
         "url": "https://open.spotify.com/album/7KfGbGYwnNU5EgcqVSvyE0"
       },
@@ -23850,6 +23886,24 @@
       "duration_ms": 180770,
       "name": "Cap\u00edtulo 4",
       "url": "https://open.spotify.com/track/2TpO8eUXiGE4WxsmLGlVdy"
+    },
+    {
+      "album": {
+        "name": "Car Crasha Sorotiko Bidien",
+        "url": "https://open.spotify.com/album/3WY6k8MssuL71JYOqJEot9"
+      },
+      "artists": [
+        {
+          "name": "EZEZEZ",
+          "url": "https://open.spotify.com/artist/2C8yeU7Y8UkgUHr2maUwBF"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Car Crasha Sorotiko Bidien",
+      "url": "https://open.spotify.com/track/0kH9o1cax1nz7TOqOnuPrV"
     },
     {
       "album": {
@@ -36959,6 +37013,24 @@
     },
     {
       "album": {
+        "name": "H\u00e1blame de ella",
+        "url": "https://open.spotify.com/album/2XMHPaGC1WQ7meXjhc1LXU"
+      },
+      "artists": [
+        {
+          "name": "Anouck The Band",
+          "url": "https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190861,
+      "name": "Debajo de ti",
+      "url": "https://open.spotify.com/track/3jCCox5TIRnEi3VfJSxS1Q"
+    },
+    {
+      "album": {
         "name": "Emocional",
         "url": "https://open.spotify.com/album/2YS1xC6y2D2gxl4qk0F3ha"
       },
@@ -43484,7 +43556,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 200333,
       "name": "D\u00edas malos",
       "url": "https://open.spotify.com/track/4cvFakKw562yH7k1mjUqHE"
@@ -56414,6 +56486,24 @@
       "duration_ms": 133666,
       "name": "Fashion Killa",
       "url": "https://open.spotify.com/track/5oeVqQPz8VmPYEBRg3y5iJ"
+    },
+    {
+      "album": {
+        "name": "Fashion Victim",
+        "url": "https://open.spotify.com/album/11mTVlEB4gJH7DGg2TWXqd"
+      },
+      "artists": [
+        {
+          "name": "Infanta",
+          "url": "https://open.spotify.com/artist/44NyITL7drZYoCifvi3GaZ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "Fashion Victim",
+      "url": "https://open.spotify.com/track/1SSsdOgBXWGd5T30SPIq2m"
     },
     {
       "album": {
@@ -73598,7 +73688,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 212640,
       "name": "La inocencia",
       "url": "https://open.spotify.com/track/2lQ2PJWBTgzgcbG4Ct518l"
@@ -82508,7 +82598,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 203036,
       "name": "Los puntos de inflexi\u00f3n",
       "url": "https://open.spotify.com/track/66tcnSU8AxmwsoLbFj0eSy"
@@ -89264,7 +89354,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 161442,
       "name": "ME GU\u00cdA",
       "url": "https://open.spotify.com/track/4zYTOVJT16nP1kbU6qfTq0"
@@ -110127,6 +110217,24 @@
     },
     {
       "album": {
+        "name": "\u00bfQuieres Hacer el Favor de Callarte, por Favor?",
+        "url": "https://open.spotify.com/album/285qc3ME8sO2ay2M4BHfAA"
+      },
+      "artists": [
+        {
+          "name": "Palomo Palomo",
+          "url": "https://open.spotify.com/artist/7sykcYoXnDBkvqoE0KGr6Z"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216727,
+      "name": "Olivia, Espero Que Est\u00e9s Bien",
+      "url": "https://open.spotify.com/track/6hBw7BEQPDZuIjhFFZR1tn"
+    },
+    {
+      "album": {
         "name": "OLVIDAO",
         "url": "https://open.spotify.com/album/4ZKJggi9hyyqOJxr8UsbZc"
       },
@@ -126116,7 +126224,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 202214,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/6eKf2CBWRUsxtUP2P0rwsN"
@@ -135726,7 +135834,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 169333,
       "name": "sirenasssssss",
       "url": "https://open.spotify.com/track/0gLpwZBwu19nAgbbIEfLiQ"
@@ -139118,7 +139226,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 166094,
       "name": "Submarino",
       "url": "https://open.spotify.com/track/4vvQrIi4ldNlLAOI4RsHiB"
@@ -150347,6 +150455,24 @@
     },
     {
       "album": {
+        "name": "Tu Yo del 96",
+        "url": "https://open.spotify.com/album/6ABm7uP21ygX7JrEvJq3SX"
+      },
+      "artists": [
+        {
+          "name": "Banin",
+          "url": "https://open.spotify.com/artist/2rd2VHtSySldvMzIjxPd9c"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Tu Yo del 96",
+      "url": "https://open.spotify.com/track/3HRWg768kolNUJ4XGRENQ8"
+    },
+    {
+      "album": {
         "name": "MAL",
         "url": "https://open.spotify.com/album/4ZWPZ3e1mTHfKmEQRtaHKf"
       },
@@ -159859,6 +159985,24 @@
     },
     {
       "album": {
+        "name": "Xxula",
+        "url": "https://open.spotify.com/album/3eywbwXI1jgNDKznnKeFH2"
+      },
+      "artists": [
+        {
+          "name": "KINKY LOVER",
+          "url": "https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211307,
+      "name": "Xxula",
+      "url": "https://open.spotify.com/track/4EtKTsndAoHJ2ZbhHS1CoJ"
+    },
+    {
+      "album": {
         "name": "y d nuevo",
         "url": "https://open.spotify.com/album/2xl2jy4NvXnLf0F24krg9G"
       },
@@ -162166,7 +162310,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 126000,
       "name": "Zaunk",
       "url": "https://open.spotify.com/track/6rkHcbEZ5I90cdyJGNX4rW"

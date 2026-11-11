@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,809 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,824 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 99 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
 | 100 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `AAAAAB/egALzLXxYxs6VDn658xBjGt9Q`
+Snapshot ID: `AAAAAApo73GWm9CLfwsO8kB5P+B2cYUd`

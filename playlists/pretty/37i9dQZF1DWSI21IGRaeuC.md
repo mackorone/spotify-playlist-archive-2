@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,183 likes - 125 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,243 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 124 | [I Never Knew \- Shiba San Remix](https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa), [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [I Never Knew \(Shiba San Remix\)](https://open.spotify.com/album/1eVixJvu9p4VrdjT5lmhdp) | 2:38 |
 | 125 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 
-Snapshot ID: `AAAAAALabm1ZB/tEwdRdTmRUxvyhqM+M`
+Snapshot ID: `AAAAAJT/DzQD2m/2TwWojVAPqJUhRqe1`

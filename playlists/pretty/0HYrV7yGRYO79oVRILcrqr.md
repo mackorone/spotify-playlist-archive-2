@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,965 likes - 216 songs - 13 hr 40 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,971 likes - 218 songs - 13 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,5 +224,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 214 | [NIGHTMARE](https://open.spotify.com/track/3lU8vaVFRz6CjNy1CGzJXx) | [STONE FIRE](https://open.spotify.com/artist/7FRYaiZbZAYFB7Ean4iCMr) | [FEELING THE HEAT](https://open.spotify.com/album/10s5qfjDIh5fzX4figypiW) | 4:49 |
 | 215 | [I'm on my way to die](https://open.spotify.com/track/1YC7hElGxuzwleWHU3HWdz) | [The Graveyard Ensemble](https://open.spotify.com/artist/5vp7fsuWOa2FJGohZcw8Ak) | [I'm on my way to die](https://open.spotify.com/album/1MyZi6xDYMjdraCRGELPI8) | 3:44 |
 | 216 | [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 |
+| 217 | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 |
+| 218 | [Serotonin Symphony \- Demo](https://open.spotify.com/track/6ngF6ZoTiajb8h1WUDL5nk) | [Manic Party](https://open.spotify.com/artist/0utxly3d4Z0YfD2GJDu788) | [Serotonin Symphony \(Demo\)](https://open.spotify.com/album/6fvQtusdTVzpf24aObsEY5) | 3:43 |
 
-Snapshot ID: `AAANBT+jTEX2NdZabw8cLNMXhRpgrZMh`
+Snapshot ID: `AAANB2mUJv0qYPqbc23YKzc021MoGDES`

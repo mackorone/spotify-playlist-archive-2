@@ -4,12 +4,13 @@
 
 > L’alternatif québécois à plein volume\. Photo: Laura Niquay
 
-733 songs - 1 day 17 hr 34 min
+735 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:19 | 2026-01-23 | 2026-05-02 |
 | [..\. And The Next Day](https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n) | [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [BASS WOMB ROOM: My ‘90s 4\-Track Demos x Field Recordings](https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p) | 3:41 | 2026-09-04 |  |
+| [// S1NN1NG //](https://open.spotify.com/track/40BKIUb8Cxbj1w5vOwOosI) | [12345](https://open.spotify.com/artist/748HKRf7letzmj9BYq18n2), [Maldito](https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG), [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [// S1NN1NG //](https://open.spotify.com/album/471bjyIl2MncTwzZlVCIRa) | 3:27 | 2026-11-06 |  |
 | [1 000 000 de problèmes](https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [1 000 000 de problèmes](https://open.spotify.com/album/1VbX4htOwGdywxsxLaeWwE) | 2:16 | 2026-08-28 |  |
 | [1 MILLION DE GENS](https://open.spotify.com/track/7uFuWGa55gb5o45QxFRLFM) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [1 MILLION DE GENS](https://open.spotify.com/album/6weMvgoIpZXKUdBpok02yf) | 3:30 | 2026-10-09 |  |
 | [1999](https://open.spotify.com/track/6hGURJGNAOihpgqQYeBO7z) | [Summerled](https://open.spotify.com/artist/6zeA4Y8yrI50OYMm1kMBzq) | [1999](https://open.spotify.com/album/6hi1Bsxvs5hIX1aZh7UV50) | 2:37 | 2026-04-10 | 2026-05-23 |
@@ -135,7 +136,7 @@
 | [Ciao bye bonsoir!](https://open.spotify.com/track/5nrFeomM9BET3f0UBu85WM) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Ciao bye bonsoir!](https://open.spotify.com/album/0r8IYVgDP5ay1TO97VJz6q) | 2:50 | 2026-03-13 | 2026-07-04 |
 | [City on Fire](https://open.spotify.com/track/5EUhwzzD2x9ayNjemKDGIZ) | [Alex Henry Foster](https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY) | [City on Fire](https://open.spotify.com/album/0NNjTOteddCd0GAIHq4HgE) | 6:07 | 2025-12-05 | 2026-03-21 |
 | [CLAPS \(SOURIEZ\)](https://open.spotify.com/track/3TaxIiNsCMrkTAYPhTMpdE) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [CLAPS \(SOURIEZ\)](https://open.spotify.com/album/020tKeZtTPTW4PqpYk74HL) | 3:49 | 2025-10-17 | 2025-12-13 |
-| [Claudia](https://open.spotify.com/track/7AMbEu0blbjmtpyPEnbkgE) | [Encore Malade](https://open.spotify.com/artist/6GLrqvjwNFZD25AmaV2XD0) | [Claudia](https://open.spotify.com/album/3xfS34oDQeqgE61cq2e5jI) | 2:12 | 2026-09-25 |  |
+| [Claudia](https://open.spotify.com/track/7AMbEu0blbjmtpyPEnbkgE) | [Encore Malade](https://open.spotify.com/artist/6GLrqvjwNFZD25AmaV2XD0) | [Claudia](https://open.spotify.com/album/3xfS34oDQeqgE61cq2e5jI) | 2:12 | 2026-09-25 | 2026-11-11 |
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2023-02-10 | 2023-09-07 |
 | [Coin coin](https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Tempête](https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT) | 3:29 | 2023-09-29 | 2024-04-19 |
 | [Coin coin](https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/3XSN53ondDCSSLeIXXvNrK) | 3:29 | 2023-09-08 | 2023-10-03 |
@@ -145,6 +146,7 @@
 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 | 2023-02-10 | 2024-04-19 |
 | [Comfort, Edge](https://open.spotify.com/track/473eMxGj5oXP0XQAwMVvXJ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc) | 3:43 | 2024-04-19 | 2025-02-05 |
 | [Comin' in Hot](https://open.spotify.com/track/5Z6Dn2ZJe4w6HTYHTDZAiI) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Pleasure Doin' Business](https://open.spotify.com/album/1ULeyGobdvvfiNXBwX00Uz) | 2:48 | 2025-10-31 | 2025-12-13 |
+| [Coming After Me](https://open.spotify.com/track/7viap7qTgzOQMiV7vmNMCL) | [Starcrusher](https://open.spotify.com/artist/7oBx2L5mOGWX6mAqXgc6lJ) | [Coming After Me](https://open.spotify.com/album/6Ry0vGwEoh4yK8axw0HeRn) | 3:59 | 2026-11-06 |  |
 | [Comme tu le souhaites \(Ding Dong\)](https://open.spotify.com/track/0jv4Qiw0H1OXb1FQ1Epirs) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Comme tu le souhaites \(Ding Dong\)](https://open.spotify.com/album/7Fv4qj6cYO540OuEb8z9Ac) | 5:53 | 2024-04-19 | 2024-06-08 |
 | [Comme un refrain](https://open.spotify.com/track/2MkA4ZOZC3xrUVj3jiVQkX) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Soleil mâché](https://open.spotify.com/album/05E8nV4jttlse9c9COMaCR) | 4:00 | 2026-01-16 | 2026-05-02 |
 | [Comment se perdre](https://open.spotify.com/track/0SPxnX6Zb5C8v85JgVoxbi) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Journée ordinaire / Comment se perdre](https://open.spotify.com/album/0mt908UFb2yiqgYyC5aG2t) | 4:16 | 2025-10-31 | 2026-03-14 |
@@ -481,7 +483,7 @@
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 | 2025-10-11 |
 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 | 2023-02-24 | 2025-09-26 |
 | [On ne prête qu'aux riches](https://open.spotify.com/track/1ndwpvp9LyBYpWWxHkNH8Z) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [On ne prête qu'aux riches](https://open.spotify.com/album/1NJ6cCWRdxsaaBgVKTe034) | 3:08 | 2024-11-08 | 2025-11-15 |
-| [On s'en fout](https://open.spotify.com/track/2eXCndL43pMclj3Q2SzVmV) | [PRINCESSES](https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA) | [On s'en fout](https://open.spotify.com/album/614Ohtsx9VloGd5gteGZ3F) | 3:15 | 2026-10-09 |  |
+| [On s'en fout](https://open.spotify.com/track/2eXCndL43pMclj3Q2SzVmV) | [PRINCESSES](https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA) | [On s'en fout](https://open.spotify.com/album/614Ohtsx9VloGd5gteGZ3F) | 3:15 | 2026-10-09 | 2026-11-11 |
 | [on your shoulders](https://open.spotify.com/track/02Pqy45XxE5MK2vX5uUFGq) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [angels on my mind](https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3) | 3:10 | 2026-10-16 |  |
 | [Oolong tea](https://open.spotify.com/track/6PxaQxyfet4qf89FkeWqZg) | [igorah](https://open.spotify.com/artist/5QPcjuaLqvZl4g3qYqJJgl), [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Oolong tea](https://open.spotify.com/album/49HeQRAlR4a5f6JmMXcYab) | 1:50 | 2026-05-22 | 2026-06-27 |
 | [Oublié](https://open.spotify.com/track/4HlHPrHHWerDTKllHbQbRP) | [Conflit Majeur](https://open.spotify.com/artist/0xLL3mof0eOcEIdVoPgqEg) | [Désinvolte](https://open.spotify.com/album/1bl9IOFxgpvEZv6hiIbCR5) | 2:22 | 2025-10-31 | 2025-11-15 |

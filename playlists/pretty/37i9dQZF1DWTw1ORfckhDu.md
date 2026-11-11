@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,150 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,136 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 98 | [Kyynel](https://open.spotify.com/track/4rbAqwCRlRdYViDrtN9ciT) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Kyynel](https://open.spotify.com/album/2L6UeAg7yY35n2fHktQzEC) | 2:40 |
 | 99 | [TÄNÄÄ](https://open.spotify.com/track/4g9YOdkSfnxAevpVkworIy) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [TÄNÄÄ](https://open.spotify.com/album/2Ft0kaIxeIfxUJp54f3NbS) | 3:18 |
 
-Snapshot ID: `AAAAAJDrD1V4sR/B2zpyA/ORP0HTxa4Y`
+Snapshot ID: `AAAAAMcykvO8uT1BaCGPRb6bUNraLjWf`

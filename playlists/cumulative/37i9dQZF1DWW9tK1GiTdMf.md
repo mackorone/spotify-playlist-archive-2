@@ -4,7 +4,7 @@
 
 > musica per un autunno non proprio felice \(gianmaria in cover\)
 
-1,801 songs - 3 day 10 hr 48 min
+1,802 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1078,7 +1078,7 @@
 | [Non mi ascolti mai](https://open.spotify.com/track/6Uw0hRK0yxIbxZYuAQV3P7) | [Def](https://open.spotify.com/artist/0KxwYP84fvKoG9dVGvAmRM) | [Non mi ascolti mai](https://open.spotify.com/album/2569EXNXS3CdAVoALdmibw) | 2:46 | 2023-10-26 | 2023-11-17 |
 | [non mi BASTA](https://open.spotify.com/track/0HvbJLT8li56TnvC1zYwit) | [Aspettativa](https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk) | [non mi BASTA](https://open.spotify.com/album/6VlqwSVCdMW2Q1tA5hEG6d) | 2:53 | 2022-07-07 | 2022-07-28 |
 | [Non mi fa più effetto](https://open.spotify.com/track/6pThYLxwNWJqHwxDLaBoWw) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [Non mi fa più effetto](https://open.spotify.com/album/76CYB1ZDOUawBhqQxlatiZ) | 3:04 | 2022-06-23 | 2022-07-15 |
-| [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry) | 3:36 | 2025-12-10 |  |
+| [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry) | 3:36 | 2025-12-10 | 2026-11-11 |
 | [non mi va](https://open.spotify.com/track/3et88aHFd0OwIR3vfzvGaB) | [Dreno](https://open.spotify.com/artist/2fUb7chMl4K5DQ3NwX2GgW) | [non mi va](https://open.spotify.com/album/0oWBWQu75EwhxAnyN7AQoC) | 2:48 | 2023-02-23 | 2023-05-12 |
 | [non mi va](https://open.spotify.com/track/0lcLLCzRlTJclhmBGcUfqs) | [OTTOBRE](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [non mi va](https://open.spotify.com/album/6BeXh8dMnAzviM9ySpRaHi) | 2:58 | 2026-09-10 | 2026-10-16 |
 | [NON MI VA](https://open.spotify.com/track/3RD9HtzEbgmH86nIfr2SXp) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [NON MI VA](https://open.spotify.com/album/0VNsYTn8YMlxYPbwI3iobz) | 2:07 | 2025-01-23 | 2025-03-07 |
@@ -1522,6 +1522,7 @@
 | [start again](https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy) | 2:51 | 2023-04-20 | 2023-07-07 |
 | [staserasole](https://open.spotify.com/track/1O4e3OQFgDlLQ2jCtdBuYX) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [staserasole](https://open.spotify.com/album/1b8YP0zvpXXX9MnYLwDm4S) | 2:54 | 2024-10-17 | 2024-11-29 |
 | [stavo a pezzi](https://open.spotify.com/track/6RyGkmeveyU9oY0oMHtWLT) | [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC), [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm) | [stavo a pezzi](https://open.spotify.com/album/1cbVNjE8XIWI2bsSpVv9CN) | 2:48 | 2023-10-19 | 2024-01-12 |
+| [Stelle&Galassie](https://open.spotify.com/track/6VDRCGGxETYuD0cPB5YIJh) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Stelle&Galassie](https://open.spotify.com/album/6cnxRaNlSLozN8uGgcYutv) | 3:14 | 2026-11-10 |  |
 | [STESSO RUMORE](https://open.spotify.com/track/53c18kDV41gxcLBweIk0Sv) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [STESSO RUMORE](https://open.spotify.com/album/5VOgvNt2tm0fsJYglya0lE) | 2:07 | 2025-09-25 | 2026-08-07 |
 | [STO BENE](https://open.spotify.com/track/2b1WwHTabFdY4Lc2GsLTde) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [STO BENE](https://open.spotify.com/album/2knYkaDaN1MYrlu6iOiVUE) | 2:07 | 2025-07-24 | 2025-08-22 |
 | [STO BENE TRANQUILLA](https://open.spotify.com/track/49VOqk9AV0z0ioO5iwOMkI) | [Wenzo](https://open.spotify.com/artist/3nZjHRpNZSd3UoqJ7ELysU), [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [STO BENE TRANQUILLA](https://open.spotify.com/album/1yhGrswPx26a2rh1kEGvvS) | 3:14 | 2025-03-13 | 2025-05-23 |

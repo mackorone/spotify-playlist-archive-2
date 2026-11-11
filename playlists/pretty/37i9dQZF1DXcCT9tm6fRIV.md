@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,438 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,442 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 38 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 39 | [Fugata](https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2) | [Quinteto Astor Piazzolla](https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8) | [Fugata](https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy) | 2:41 |
 | 40 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
-| 41 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
-| 42 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
+| 41 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
+| 42 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
 | 43 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
 | 44 | [Flor de lino \- Live](https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc) | [Horacio Molina](https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs) | [A Pedido](https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9) | 3:31 |
 | 45 | [Pesar](https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Pity](https://open.spotify.com/artist/6HD4DyMa0dpNb1TPCWFg2g) | [Pesar](https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky) | 4:27 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 47 | [Si Sos Brujo](https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX) | [Alfredo Gobbi](https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7) | [Si Sos Brujo](https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh) | 3:29 |
 | 48 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
 | 49 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 |
-| 50 | [El Corazón al Sur](https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Ramón Maschio](https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh) | [Canciones del Sur](https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy) | 3:25 |
-| 51 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 |
+| 50 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 |
+| 51 | [El Corazón al Sur](https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Ramón Maschio](https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh) | [Canciones del Sur](https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy) | 3:25 |
 | 52 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |
 | 53 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
 | 54 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 79 | [Quedemonos Aqui \- En Vivo](https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 3:56 |
 | 80 | [Tangos \(Arr\. Vidal\): Decaríssimo](https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Lluís Vidal](https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH), [Orquestra De Cambra Teatre Lliure](https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr), [Josep Pons](https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV) | [Piazzolla: Bandonéon Concerto; Tangos](https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN) | 2:43 |
 
-Snapshot ID: `AAAAADBxLxSAr6c3K5K0z2QE60DSGcjd`
+Snapshot ID: `AAAAACJU78Wtu+sMcYMGpNA9LIJS4bUV`

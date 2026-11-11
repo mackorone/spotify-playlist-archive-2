@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,689 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,779 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 98 | [aimee lou wood freestyle](https://open.spotify.com/track/58yUKDNZNeq2RpGvEfZZIX) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [aimee lou wood freestyle](https://open.spotify.com/album/4xCr9omMNO0OPk9w2n2g3C) | 2:39 |
 | 99 | [Cat Piss Junkie \- The Healing Power of Horses Both Have Flu Remix](https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG), [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR) | 4:00 |
 
-Snapshot ID: `AAAAABOpmKxxYidF9m6RXZemXKuP+q1+`
+Snapshot ID: `AAAAABqVvAnKs6oO8Rib8Axy4SnNnogo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,321 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,164 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 49 | [Mister Cool](https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe) | [Snook](https://open.spotify.com/artist/79tTZzeIjEwOE6JMHG5eBS) | [Vi vet inte vart vi ska men vi ska komma dit](https://open.spotify.com/album/3lRmZBFANx5bmzUO3o5ThT) | 3:07 |
 | 50 | [Feeling Myself \- Roc Boyz Remix](https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Feeling Myself \(Roc Boyz Remix\)](https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK) | 3:02 |
 
-Snapshot ID: `AAAAAHaShW/GfcS7pOGU+IAlm0lZOtDU`
+Snapshot ID: `AAAAABQ9nPJLLOcTB2gahe7JwOti6Wnt`

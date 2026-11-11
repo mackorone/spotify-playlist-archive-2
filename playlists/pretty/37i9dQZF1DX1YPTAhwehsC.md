@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,828 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,803 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Pain](https://open.spotify.com/track/2H81TA0vQexPYaFXRAGqjt) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [iight bet!](https://open.spotify.com/album/7eeKZCUXa6fxPOCGaCPqfY) | 2:23 |
 | 100 | [Paul](https://open.spotify.com/track/4d0Iik325hU4ci3c5Lh3he) | [Nahree](https://open.spotify.com/artist/3ykDsdvm7KEfk05HH9t0ax) | [SAVE!](https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE) | 2:22 |
 
-Snapshot ID: `AAAAANexTwUN86s+6HyGuuKlACKLgC+V`
+Snapshot ID: `AAAAANIRQh3KkbnEJnQvMWidktS9Agff`

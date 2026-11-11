@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,493 likes - 120 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,597 likes - 120 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 119 | [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 |
 | 120 | [Paseo](https://open.spotify.com/track/3z34o6Tz0nEHd6rPjIcyTN) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Paseo](https://open.spotify.com/album/11v1XsFDWHyGfF8FKizm6P) | 2:22 |
 
-Snapshot ID: `AAAAAP2zrjNtAoWJhY1WH3NIB/67qITk`
+Snapshot ID: `AAAAAHa/hnwG6AV0zzI6lA5H+Dgy+/1d`

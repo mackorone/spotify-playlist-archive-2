@@ -1,12 +1,12 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1136779,
+  "num_followers": 1136800,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFznLasi2nzDKVZxNWp91CSGaUMp",
+  "snapshot_id": "AAAAAOCN1kzuXyVKPQKMIo4Iu7ObgiyV",
   "tracks": [
     {
       "added_at": "2026-11-06 04:01:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "counting the days until we meet again",
-        "url": "https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa"
-      },
-      "artists": [
-        {
-          "name": "sad notes",
-          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
-        }
-      ],
-      "duration_ms": 158125,
-      "name": "counting the days until we meet again",
-      "url": "https://open.spotify.com/track/7jcEaXD19od05Y4aqgffgW"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "foam",
         "url": "https://open.spotify.com/album/3O7iHjbCvoe1Oc2kzjvTxE"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 138305,
       "name": "foam",
       "url": "https://open.spotify.com/track/11j0qQhHzDxOiItPenCc7e"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "counting the days until we meet again",
+        "url": "https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "duration_ms": 158125,
+      "name": "counting the days until we meet again",
+      "url": "https://open.spotify.com/track/7jcEaXD19od05Y4aqgffgW"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "in a haze",
-        "url": "https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK"
-      },
-      "artists": [
-        {
-          "name": "Kaptain Kola",
-          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
-        }
-      ],
-      "duration_ms": 116923,
-      "name": "in a haze",
-      "url": "https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "Orient Silence",
         "url": "https://open.spotify.com/album/1iilQYtP4gjELnCX4lMSa4"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 149125,
       "name": "Orient Silence",
       "url": "https://open.spotify.com/track/0V8gliTnW5GCFHF8wj2pnG"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "in a haze",
+        "url": "https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "duration_ms": 116923,
+      "name": "in a haze",
+      "url": "https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "Clouds Over Home",
-        "url": "https://open.spotify.com/album/4isnPZhAmXE0TAE7lmkMsP"
-      },
-      "artists": [
-        {
-          "name": "Slow Koi",
-          "url": "https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Clouds Over Home",
-      "url": "https://open.spotify.com/track/08mhnIcSfaTzgW1tdUKT3i"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "cicada",
         "url": "https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 127619,
       "name": "cicada",
       "url": "https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "Clouds Over Home",
+        "url": "https://open.spotify.com/album/4isnPZhAmXE0TAE7lmkMsP"
+      },
+      "artists": [
+        {
+          "name": "Slow Koi",
+          "url": "https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Clouds Over Home",
+      "url": "https://open.spotify.com/track/08mhnIcSfaTzgW1tdUKT3i"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/3YFmBD6BgEu2BQbxmDW0ya"
-      },
-      "artists": [
-        {
-          "name": "nate2timez",
-          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/3DnFuL77hB7zIe1PTviSCi"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/1NxYLj6RTZnHkQKV5fWyqP"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 178285,
       "name": "Tides",
       "url": "https://open.spotify.com/track/0xrkPuae5lIueefzWzo54Q"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/3YFmBD6BgEu2BQbxmDW0ya"
+      },
+      "artists": [
+        {
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3DnFuL77hB7zIe1PTviSCi"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "moonlit",
-        "url": "https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ"
-      },
-      "artists": [
-        {
-          "name": "bear\u00e9",
-          "url": "https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK"
-        }
-      ],
-      "duration_ms": 162104,
-      "name": "moonlit",
-      "url": "https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "Glad We've Met",
         "url": "https://open.spotify.com/album/0xYuImPPRajMMcjoWyjANO"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 130641,
       "name": "Glad We've Met",
       "url": "https://open.spotify.com/track/4fRSjmfc0UAykqmQr3frxM"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "moonlit",
+        "url": "https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ"
+      },
+      "artists": [
+        {
+          "name": "bear\u00e9",
+          "url": "https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK"
+        }
+      ],
+      "duration_ms": 162104,
+      "name": "moonlit",
+      "url": "https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
+        "name": "home again",
+        "url": "https://open.spotify.com/album/70mRj4datJu3d97V1bTw08"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "home again",
+      "url": "https://open.spotify.com/track/2GOTt1wvwYknehTzhzLC7K"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
         "name": "rainy nights",
         "url": "https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 132423,
       "name": "rainy nights",
       "url": "https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
-        "name": "home again",
-        "url": "https://open.spotify.com/album/70mRj4datJu3d97V1bTw08"
-      },
-      "artists": [
-        {
-          "name": "Goson",
-          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "home again",
-      "url": "https://open.spotify.com/track/2GOTt1wvwYknehTzhzLC7K"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "bubble push",
-        "url": "https://open.spotify.com/album/4VYVzBgByeQ3ZVXNZH00t8"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "bubble push",
-      "url": "https://open.spotify.com/track/4Czm8OnKq6sZ2RFpbgVjai"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0FN9V7NN1ZaISpzpF6q4tt"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 152000,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/74AjCSzPxnAINpSG9I4gZW"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "bubble push",
+        "url": "https://open.spotify.com/album/4VYVzBgByeQ3ZVXNZH00t8"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "bubble push",
+      "url": "https://open.spotify.com/track/4Czm8OnKq6sZ2RFpbgVjai"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1635,6 +1635,22 @@
       "duration_ms": 190054,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "Leisure",
+        "url": "https://open.spotify.com/album/5IGJvZ3AtSGHr1V0xm1CmM"
+      },
+      "artists": [
+        {
+          "name": "Audio Sculptor",
+          "url": "https://open.spotify.com/artist/1BDPkykZVsiQP2OLhJvAr9"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Leisure",
+      "url": "https://open.spotify.com/track/3w8vtM36ItYcMiOrSmgYZx"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1675,26 +1691,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "awakening",
-        "url": "https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb"
-      },
-      "artists": [
-        {
-          "name": "hotpotatoes",
-          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
-        },
-        {
-          "name": "Toti Cisneros",
-          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
-        }
-      ],
-      "duration_ms": 124838,
-      "name": "awakening",
-      "url": "https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "Under The Waters",
         "url": "https://open.spotify.com/album/4hMemXMbZJAvKsTjtP3aZN"
       },
@@ -1711,18 +1707,22 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "Leisure",
-        "url": "https://open.spotify.com/album/5IGJvZ3AtSGHr1V0xm1CmM"
+        "name": "awakening",
+        "url": "https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb"
       },
       "artists": [
         {
-          "name": "Audio Sculptor",
-          "url": "https://open.spotify.com/artist/1BDPkykZVsiQP2OLhJvAr9"
+          "name": "hotpotatoes",
+          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Leisure",
-      "url": "https://open.spotify.com/track/3w8vtM36ItYcMiOrSmgYZx"
+      "duration_ms": 124838,
+      "name": "awakening",
+      "url": "https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "Pisa",
-        "url": "https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj"
-      },
-      "artists": [
-        {
-          "name": "Tuva Sersh",
-          "url": "https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Pisa",
-      "url": "https://open.spotify.com/track/46atmNl6nPzZuj6qAzBgpi"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "ripple",
         "url": "https://open.spotify.com/album/2aDD0xJyadV6hisCeSiAhP"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 136500,
       "name": "ripple",
       "url": "https://open.spotify.com/track/5P74LLSSglF3gIt2tcFSVn"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "Pisa",
+        "url": "https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj"
+      },
+      "artists": [
+        {
+          "name": "Tuva Sersh",
+          "url": "https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Pisa",
+      "url": "https://open.spotify.com/track/46atmNl6nPzZuj6qAzBgpi"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "After Glow",
-        "url": "https://open.spotify.com/album/23Q2Ne4BuHUkceLFKdk0Wn"
-      },
-      "artists": [
-        {
-          "name": "goosetaf",
-          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
-        },
-        {
-          "name": "bouji bud",
-          "url": "https://open.spotify.com/artist/4sKoAY8ajcXn6EI1ioDLXW"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "After Glow",
-      "url": "https://open.spotify.com/track/0dxvB5tCP5fQp9WuZFzQI9"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "eclipse",
         "url": "https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm"
       },
@@ -1967,6 +1947,26 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
+        "name": "After Glow",
+        "url": "https://open.spotify.com/album/23Q2Ne4BuHUkceLFKdk0Wn"
+      },
+      "artists": [
+        {
+          "name": "goosetaf",
+          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+        },
+        {
+          "name": "bouji bud",
+          "url": "https://open.spotify.com/artist/4sKoAY8ajcXn6EI1ioDLXW"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "After Glow",
+      "url": "https://open.spotify.com/track/0dxvB5tCP5fQp9WuZFzQI9"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D"
       },
@@ -1995,22 +1995,6 @@
       "duration_ms": 138082,
       "name": "Staring Out The Window",
       "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
-        "name": "puffer",
-        "url": "https://open.spotify.com/album/4gEl6azjyCP974ryvpGsXk"
-      },
-      "artists": [
-        {
-          "name": "Gro",
-          "url": "https://open.spotify.com/artist/3J9dqkHC9cq5gOwEUP86wJ"
-        }
-      ],
-      "duration_ms": 127894,
-      "name": "puffer",
-      "url": "https://open.spotify.com/track/2rtudDsdr1FJrTkis1ENyD"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -2047,6 +2031,22 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
+        "name": "puffer",
+        "url": "https://open.spotify.com/album/4gEl6azjyCP974ryvpGsXk"
+      },
+      "artists": [
+        {
+          "name": "Gro",
+          "url": "https://open.spotify.com/artist/3J9dqkHC9cq5gOwEUP86wJ"
+        }
+      ],
+      "duration_ms": 127894,
+      "name": "puffer",
+      "url": "https://open.spotify.com/track/2rtudDsdr1FJrTkis1ENyD"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
         "name": "Melon Madness",
         "url": "https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu"
       },
@@ -2059,6 +2059,22 @@
       "duration_ms": 138888,
       "name": "Melon Madness",
       "url": "https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs"
+    },
+    {
+      "added_at": "2026-11-06 04:01:03",
+      "album": {
+        "name": "Tatami Haze",
+        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+      },
+      "artists": [
+        {
+          "name": "Cloudroom",
+          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+        }
+      ],
+      "duration_ms": 124153,
+      "name": "Tatami Haze",
+      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
     },
     {
       "added_at": "2026-11-06 04:01:03",
@@ -2079,22 +2095,6 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "Calm Euphoria",
-        "url": "https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF"
-      },
-      "artists": [
-        {
-          "name": "Alunni",
-          "url": "https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz"
-        }
-      ],
-      "duration_ms": 144067,
-      "name": "Calm Euphoria",
-      "url": "https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k"
-    },
-    {
-      "added_at": "2026-11-06 04:01:03",
-      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/0GbIQxI93XKfjLjIlPXwnY"
       },
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2026-11-06 04:01:03",
       "album": {
-        "name": "Tatami Haze",
-        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+        "name": "Calm Euphoria",
+        "url": "https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF"
       },
       "artists": [
         {
-          "name": "Cloudroom",
-          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+          "name": "Alunni",
+          "url": "https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz"
         }
       ],
-      "duration_ms": 124153,
-      "name": "Tatami Haze",
-      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
+      "duration_ms": 144067,
+      "name": "Calm Euphoria",
+      "url": "https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k"
     },
     {
       "added_at": "2026-11-06 04:01:03",

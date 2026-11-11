@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2950,
+  "num_followers": 2962,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFiB9SnDZvX4C//IPR+TVF6QRZY1",
+  "snapshot_id": "AAAAALreAQ07II/Jg3T3GtaFv60kOu7L",
   "tracks": [
     {
       "added_at": "2026-11-01 04:01:35",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "SOFTER",
-        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 133359,
-      "name": "SOVEREIGN LAND",
-      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "For Seasons: Love in a Time of War",
         "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 267250,
       "name": "Four Seasons",
       "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "SOFTER",
+        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Le X du Y",
-        "url": "https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "L'affaire c'est que",
-      "url": "https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Tu choisis comment tu aimes",
         "url": "https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 247720,
       "name": "Tu choisis comment tu aimes",
       "url": "https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Le X du Y",
+        "url": "https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "L'affaire c'est que",
+      "url": "https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Light and Matter",
-        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
-      },
-      "artists": [
-        {
-          "name": "Caroline Marie Brooks",
-          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
-        }
-      ],
-      "duration_ms": 174045,
-      "name": "Make it Happen",
-      "url": "https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Southern Ontario Gothic",
         "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 187384,
       "name": "White Claw Addict",
       "url": "https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Light and Matter",
+        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
+      },
+      "artists": [
+        {
+          "name": "Caroline Marie Brooks",
+          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "Make it Happen",
+      "url": "https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP"
     },
     {
       "added_at": "2026-11-01 04:01:35",

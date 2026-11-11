@@ -1,12 +1,12 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 584597,
+  "num_followers": 584689,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRBwhvKX0AXcafbxMk9Tt1xGTqq",
+  "snapshot_id": "AAAAAAMxBMneeng55ca8srzXCjvAZS1c",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:13",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "The Concrete Confessional",
-        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Looking Down the Barrel of Today",
-      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Unto the Locust (Special Edition)",
         "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 456320,
       "name": "Locust",
       "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "The Concrete Confessional",
+        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Looking Down the Barrel of Today",
+      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Dead Inside Of Me",
-        "url": "https://open.spotify.com/album/3wXT1Tf8fCwKnQGiYNlUlm"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 241453,
-      "name": "Dead Inside Of Me",
-      "url": "https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 272665,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Dead Inside Of Me",
+        "url": "https://open.spotify.com/album/3wXT1Tf8fCwKnQGiYNlUlm"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 241453,
+      "name": "Dead Inside Of Me",
+      "url": "https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "critic",
-        "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 146058,
-      "name": "critic",
-      "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Exhibition Of Prowess",
         "url": "https://open.spotify.com/album/3UqEHbnms5ixC6YPuPZTfi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 238053,
       "name": "Theory of Mind",
       "url": "https://open.spotify.com/track/0XMS3gFsLsCRnTxsHX9Bv3"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "critic",
+        "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 146058,
+      "name": "critic",
+      "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "rehearsed",
-        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 110346,
-      "name": "rehearsed",
-      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "rehearsed",
+        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 110346,
+      "name": "rehearsed",
+      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "split",
-        "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "split",
-      "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "VII: Sturm und Drang",
         "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
+        "name": "split",
+        "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "split",
+      "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 237933,
       "name": "Incense & Iron",
       "url": "https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 299106,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
+      "duration_ms": 396736,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1287,22 +1303,6 @@
       "duration_ms": 297619,
       "name": "Snakes for Dinner",
       "url": "https://open.spotify.com/track/3FEEsBpTwblEPqoraW8N4p"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 396736,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/33GWdWCPIm84t9DYJefufO"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 341000,
       "name": "Iron",
       "url": "https://open.spotify.com/track/3iSgRJUrMKHLglnrQrQ6kO"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/33GWdWCPIm84t9DYJefufO"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Nuclear God",
-        "url": "https://open.spotify.com/album/7bn7r3oX9Suu3KtKsUhXJH"
-      },
-      "artists": [
-        {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
-        }
-      ],
-      "duration_ms": 308375,
-      "name": "Nuclear God",
-      "url": "https://open.spotify.com/track/478SPzkDZBYwvrq9N3N9Xj"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "IF IT DOESN'T HURT",
         "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 179225,
       "name": "IF IT DOESN'T HURT",
       "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Nuclear God",
+        "url": "https://open.spotify.com/album/7bn7r3oX9Suu3KtKsUhXJH"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 308375,
+      "name": "Nuclear God",
+      "url": "https://open.spotify.com/track/478SPzkDZBYwvrq9N3N9Xj"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/57kMq4QecevJKf8DOH8Gzp"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Proving Grounds",
-      "url": "https://open.spotify.com/track/6wrJh8NPZxO9v68Hwr36Zg"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
         "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 217847,
       "name": "Burn MF",
       "url": "https://open.spotify.com/track/1wF63HajppiUOdcAbp7YHh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/57kMq4QecevJKf8DOH8Gzp"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Proving Grounds",
+      "url": "https://open.spotify.com/track/6wrJh8NPZxO9v68Hwr36Zg"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Kill Count Increase",
-        "url": "https://open.spotify.com/album/4lsum4LQdOPJ8r29s3eqAW"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "Kill Count Increase",
-      "url": "https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Ghost Of Me",
         "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 231426,
       "name": "Ghost Of Me",
       "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Kill Count Increase",
+        "url": "https://open.spotify.com/album/4lsum4LQdOPJ8r29s3eqAW"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "Kill Count Increase",
+      "url": "https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Blood Pact",
-        "url": "https://open.spotify.com/album/41HtOA4cWgCaIj4BWgb3zU"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Blood Pact",
-      "url": "https://open.spotify.com/track/5aS14v4x5nkDvks91OhuoI"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "MEGATONS",
         "url": "https://open.spotify.com/album/6eweLuC9bnuSoFk1hlu1C2"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 116146,
       "name": "THE GNARLYCORE CLASS",
       "url": "https://open.spotify.com/track/7aAOKVniZGcnmfNyLanCdv"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Blood Oath",
+        "url": "https://open.spotify.com/album/7rJ0TEl4npNhzTC8GHaZBV"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Blood Oath - Edit",
+      "url": "https://open.spotify.com/track/1xEX1oeaTTGcAqeV2TZ3Vx"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Blood Oath",
-        "url": "https://open.spotify.com/album/7rJ0TEl4npNhzTC8GHaZBV"
+        "name": "Blood Pact",
+        "url": "https://open.spotify.com/album/41HtOA4cWgCaIj4BWgb3zU"
       },
       "artists": [
         {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 254346,
-      "name": "Blood Oath - Edit",
-      "url": "https://open.spotify.com/track/1xEX1oeaTTGcAqeV2TZ3Vx"
+      "duration_ms": 172066,
+      "name": "Blood Pact",
+      "url": "https://open.spotify.com/track/5aS14v4x5nkDvks91OhuoI"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 166711,
-      "name": "Kickboxer",
-      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 166711,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
     },
     {
       "added_at": "2026-09-25 04:03:13",

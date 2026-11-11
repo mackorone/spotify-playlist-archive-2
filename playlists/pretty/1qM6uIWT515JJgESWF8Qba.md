@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 624 likes - 74 songs - 4 hr 38 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 629 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 72 | [Clementine](https://open.spotify.com/track/2JzVE0Wyy7pvhjIq1StV4l) | [Every Living Beast](https://open.spotify.com/artist/2J3ATpiJf8oNmJLnVBmj1Z) | [Clementine](https://open.spotify.com/album/2TFnTOk9Aqk3QXz5XukWgt) | 2:55 |
 | 73 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 |
 | 74 | [Read my Rights](https://open.spotify.com/track/0XGD6SwvkNiWJFr210ZikL) | [The Garbage Gang](https://open.spotify.com/artist/1iSFR5LUg4HcCTtOKiaX0s) | [Read my Rights](https://open.spotify.com/album/0Q0aTQdsJelK56hZ731jry) | 3:02 |
+| 75 | [Immortalized](https://open.spotify.com/track/4kk2VWSqNOb6vL7N0id4tn) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [Good for Nothing](https://open.spotify.com/album/1G7PsPs1tq25rNBTAPBSjr) | 3:18 |
 
-Snapshot ID: `AAACYgra7tX2Yr1YW4VHr/3TKCBCpSDP`
+Snapshot ID: `AAACYyqknP+pODHEqwBQPjgn2ElXQqHL`

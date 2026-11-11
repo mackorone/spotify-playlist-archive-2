@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Mel Raeburn
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,621 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,627 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 79 | [GirlMagnet](https://open.spotify.com/track/4v7XP5LpUPNW6Y81ndn4DJ) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [GirlMagnet](https://open.spotify.com/album/3VhOfi3Bg6CMLuSc835Izk) | 2:23 |
 | 80 | [Magnetic Love](https://open.spotify.com/track/5hUjEpJe5MgbNTCO1Fucj6) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Magnetic Love](https://open.spotify.com/album/0mNm0C5wZnujTY8orr6RmI) | 3:43 |
 
-Snapshot ID: `AAAAAADWYTU9QBrzzkwUEfCQW0T7sWA+`
+Snapshot ID: `AAAAAI0Bh9x7vhMB7M8CmY7lRqVk8odp`

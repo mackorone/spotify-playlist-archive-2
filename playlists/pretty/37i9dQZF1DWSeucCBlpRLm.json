@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 101131,
+  "num_followers": 101476,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACyj6ByPxtC87QUwe+oiFNjB598V",
+  "snapshot_id": "AAAAAMjD5hJq1/ZdrWdXclBgLHprHcAR",
   "tracks": [
     {
       "added_at": "2026-10-23 09:38:03",
@@ -527,6 +527,30 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Namaste England (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Proper Patola",
+      "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Dilbar (From \"Satyameva Jayate\")",
         "url": "https://open.spotify.com/album/27u2VWTy7ZtiL9ExdzRoXS"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 184432,
       "name": "Dilbar (From \"Satyameva Jayate\")",
       "url": "https://open.spotify.com/track/4tjLYTXFqZhkUDga4bQ0yl"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Namaste England (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Proper Patola",
-      "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Mimi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 200218,
-      "name": "Param Sundari",
-      "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 226696,
       "name": "Dil Chori",
       "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Mimi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 200218,
+      "name": "Param Sundari",
+      "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "International Villager",
+        "url": "https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Angreji Beat",
+      "url": "https://open.spotify.com/track/4psVrPZy07uZTLwc3Mqz4V"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Psycho Saiyaan (From \"Saaho\")",
         "url": "https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 166461,
       "name": "Psycho Saiyaan (From \"Saaho\")",
       "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "International Villager",
-        "url": "https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Gippy Grewal",
-          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Angreji Beat",
-      "url": "https://open.spotify.com/track/4psVrPZy07uZTLwc3Mqz4V"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Yaariyan",
+        "url": "https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Sunny Sunny",
+      "url": "https://open.spotify.com/track/6GwjeSBaJ7C8yZXklaXXY1"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Loveyatri - A Journey Of Love",
         "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 249741,
       "name": "Chogada",
       "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Yaariyan",
-        "url": "https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Sunny Sunny",
-      "url": "https://open.spotify.com/track/6GwjeSBaJ7C8yZXklaXXY1"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1683,30 +1683,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
-      },
-      "artists": [
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1743,6 +1719,30 @@
       "duration_ms": 203881,
       "name": "Chhote Chhote Peg",
       "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Mitron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+      },
+      "artists": [
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Kamariya",
+      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
     },
     {
       "added_at": "2026-10-23 09:38:03",

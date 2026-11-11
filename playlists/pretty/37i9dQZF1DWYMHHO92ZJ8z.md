@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,187 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,205 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 49 | [Dance Baby](https://open.spotify.com/track/605GkjW7WFEB6una1Uciar) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Dance Baby](https://open.spotify.com/album/6qWx2Uq17g7PlhuQCw7KHA) | 3:42 |
 | 50 | [Champagne](https://open.spotify.com/track/2nqhiriTL3fRXzc8O3sCWc) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [MASSALA](https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Lakay \(Home\)](https://open.spotify.com/album/439ClApLEIIK9xTm32aS0d) | 2:59 |
 
-Snapshot ID: `AAAAALMP4CGE9T+rIVF3l+tHOvqbIpb3`
+Snapshot ID: `AAAAAG5uCpbA3WCD3Pa07YsGEcw/gfQt`

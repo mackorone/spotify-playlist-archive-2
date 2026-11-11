@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 10 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 10 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 | 9 | [BORN TO WIN KA BA… O TOXIC NA?](https://open.spotify.com/episode/0HajGnToMjfzYGxKAck0wq) | [TRGGRD!](https://open.spotify.com/show/68xpDC1URcU61dxl3eByZU) | [TRGGRD!](https://open.spotify.com/album/68xpDC1URcU61dxl3eByZU) | 31:49 |
 | 10 | [Curious Kids \| S3 EP13 \| KadaKwento Podcast](https://open.spotify.com/episode/66oWMiVBepyG5C3ageJGqn) | [KadaKwento Podcast ](https://open.spotify.com/show/3PdMbgohpIr4gP4tjZRo6u) | [KadaKwento Podcast ](https://open.spotify.com/album/3PdMbgohpIr4gP4tjZRo6u) | 1:23:28 |
 
-Snapshot ID: `AAAAAAKukWjSHlCLW60OMIrO6PkB4m20`
+Snapshot ID: `AAAAAHBjtbmun0rD67EjzIKMG33PoP3q`

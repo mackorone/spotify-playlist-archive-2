@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,485 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,502 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 14 | [Seja Para Mim \- Ao Vivo Em São Paulo](https://open.spotify.com/track/5RuScevud12uKYhhJkYTJ7) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 3:05 |
 | 15 | [Pensamento \(Acústico\)](https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 2:52 |
 | 16 | [Eu Tive um Sonho \- Ao Vivo](https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Planta e Raiz 2022, Show Completo \(Ao Vivo\)](https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5) | 3:41 |
-| 17 | [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 |
-| 18 | [Reggae do Manero \- Ao Vivo \| Acústico](https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 5:25 |
+| 17 | [Reggae do Manero \- Ao Vivo \| Acústico](https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 5:25 |
+| 18 | [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 |
 | 19 | [Uma Brasileira \- Ao Vivo](https://open.spotify.com/track/7uHsVx7EDLLSuERDVBGcXC) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Uma Brasileira \(Ao Vivo\)](https://open.spotify.com/album/3siyY9J8CgcVlVOkYXgWf6) | 4:10 |
 | 20 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 |
 | 21 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Vá Viver \- Acústico / Ao Vivo](https://open.spotify.com/track/6TuiSfDGYyVZ7C5fxKOszw) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:25 |
 
-Snapshot ID: `AAAAAGQSyZQJKLl/TaC/ABb2XfuTeItN`
+Snapshot ID: `AAAAAEFInwlF3OIaAsjfeLp9gToyguGq`

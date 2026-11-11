@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,692 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,665 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 69 | [Something Good](https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Something Good](https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu) | 3:00 |
 | 70 | [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 |
 
-Snapshot ID: `AAAAAITpKfOnVr/a6FhHSuiW67yYJrU8`
+Snapshot ID: `AAAAAOuKsSdVREjP6cAP8wPEjtyPtPYl`

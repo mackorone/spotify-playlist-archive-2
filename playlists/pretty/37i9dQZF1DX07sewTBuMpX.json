@@ -1,12 +1,12 @@
 {
   "description": "De beste tunes op repeat. Cover: Idaly, Ronnie Flex & Frenna",
-  "num_followers": 141983,
+  "num_followers": 141978,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACm98hV4lC4fN3fhbg6GfK/fmFgh",
+  "snapshot_id": "AAAAAAIFtMcEUPq73WkJnNr4G/iTTZ9J",
   "tracks": [
     {
       "added_at": "2026-11-06 11:00:25",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/1JygDI95oCjVbs3Y3vZQwP"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
-        },
-        {
-          "name": "Thierry Ganz",
-          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
-        }
-      ],
-      "duration_ms": 206988,
-      "name": "Know Your Name",
-      "url": "https://open.spotify.com/track/43gYU2gBjJRRJm2ncFDz6L"
-    },
-    {
-      "added_at": "2026-11-06 11:00:25",
-      "album": {
         "name": "Don Julio Daddy",
         "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 176518,
       "name": "Don Julio Daddy",
       "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
+    },
+    {
+      "added_at": "2026-11-06 11:00:25",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1JygDI95oCjVbs3Y3vZQwP"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "duration_ms": 206988,
+      "name": "Know Your Name",
+      "url": "https://open.spotify.com/track/43gYU2gBjJRRJm2ncFDz6L"
     },
     {
       "added_at": "2026-11-06 11:00:25",

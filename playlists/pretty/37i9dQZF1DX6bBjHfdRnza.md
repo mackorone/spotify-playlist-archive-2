@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring Emily Nash\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,908 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,926 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 69 | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Mixmasters](https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9) | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc) | 2:55 |
 | 70 | [Close 2 U](https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Close 2 U](https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s) | 2:09 |
 
-Snapshot ID: `AAAAAMz2KhfI0ce8mBpOpsq+VYiBz7/o`
+Snapshot ID: `AAAAAHbaa2BRhSL93xDGaHa70VWo3mPR`

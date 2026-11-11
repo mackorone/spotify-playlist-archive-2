@@ -2,7 +2,7 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Anubha Bajaj
+> Most exciting artists from the Indian Indie scene\. Cover: Niyam
 
 473 songs - 1 day 2 hr 15 min
 

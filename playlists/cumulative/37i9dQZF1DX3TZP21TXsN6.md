@@ -4,7 +4,7 @@
 
 > DIM, A3 & Kingsize, GRGY, Rocher en meer..
 
-831 songs - 1 day 11 hr 31 min
+832 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [BANANEN KROM](https://open.spotify.com/track/01vra1aM91nhphOvzyPcOS) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [DE HOOP VAN G](https://open.spotify.com/album/4Vul4kwjME4Dta9AldIVjG) | 1:59 | 2026-04-02 | 2026-05-22 |
 | [Bandlab](https://open.spotify.com/track/1k9S6herwnrbkzp9FJKPdm) | [Xeno](https://open.spotify.com/artist/6QNmkf3USZGhsn81cZCKre) | [Bandlab](https://open.spotify.com/album/17yXWMHRgk6Nd62afJFEqq) | 2:04 | 2026-10-01 |  |
 | [BANDO](https://open.spotify.com/track/4e535p2OAB9JupZhUDsWl0) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [BILLO](https://open.spotify.com/album/4sdh8e9bt2FyBuqzLPapnL) | 2:41 | 2025-09-25 | 2025-11-07 |
+| [BANDZ WILL MAKE HER DANCE](https://open.spotify.com/track/3eZcZEkUBWmPJexuA0lyaW) | [2LLOOSE](https://open.spotify.com/artist/0Vubhkx1iwaetTI7K9x36W), [Thirty4.](https://open.spotify.com/artist/2psvaasrIp6HmHAeOTMcuo) | [BANDZ WILL MAKE HER DANCE](https://open.spotify.com/album/7HB63LtdEj3TIYfq7NLsQh) | 3:22 | 2026-11-10 |  |
 | [Bankoe Cent](https://open.spotify.com/track/7saZmAK5jwChVyfzSAi1xl) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [Lu Driezes](https://open.spotify.com/artist/7v6Z5dpEMnus0xgiGX86Wz) | [Bankoe Cent](https://open.spotify.com/album/2LA0OCymRDFesgFKuu1izU) | 2:57 | 2026-07-16 | 2026-09-25 |
 | [BBR \(Bad Boy Riddim\)](https://open.spotify.com/track/6tqKNC7anEV0JGD6B9POtA) | [Joella T](https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW) | [BBR \(Bad Boy Riddim\)](https://open.spotify.com/album/7IoCfWEBtXXktD0Rbausdf) | 2:12 | 2026-07-30 | 2026-09-18 |
 | [BCN \- Freestyle](https://open.spotify.com/track/6Q03YMswqXMKncsOKfhOAa) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [BCN \(Freestyle\)](https://open.spotify.com/album/2FEbtYikblQewkehPh5v5d) | 1:40 | 2025-07-17 | 2025-08-15 |

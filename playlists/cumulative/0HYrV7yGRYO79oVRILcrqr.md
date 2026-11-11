@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-872 songs - 2 day 6 hr 20 min
+874 songs - 2 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-09 | 2026-06-25 |
 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [Far away in another time](https://open.spotify.com/track/7eUZTaIlGgBYQhpdPiiggy) | [the unknown artist](https://open.spotify.com/artist/3vmtXEWcazX7rZ6pj84lNs) | [Far away in another time](https://open.spotify.com/album/7dPYSzzRbIAwTuQNZRZZbk) | 2:54 | 2026-03-14 | 2026-07-12 |
+| [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 | 2026-11-10 |  |
 | [Farmarock](https://open.spotify.com/track/3GbzPD6uyOqS8cP4GiqdjV) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc) | [Farmarock](https://open.spotify.com/album/5amwfzHfVIE8MgFKR0wW77) | 4:38 | 2026-09-06 | 2026-09-20 |
 | [Fastlane](https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Fastlane](https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH) | 3:18 | 2026-09-04 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 | 2026-07-12 |
@@ -655,6 +656,7 @@
 | [Selva Oscura](https://open.spotify.com/track/76vzLTBnrWijI7kB0tqcdK) | [Delirio](https://open.spotify.com/artist/3Fpq6dElb8GooXoecLKM7G) | [Selva Oscura](https://open.spotify.com/album/0tx5Mr8vi0N8XN5hK7LQjr) | 4:35 | 2025-10-14 | 2025-11-28 |
 | [Send Your Best](https://open.spotify.com/track/559fbHuOhwUqVq3pkJcY2e) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [Send Your Best](https://open.spotify.com/album/6zSAbp740eRa8IU5oMxC80) | 3:51 | 2026-10-14 |  |
 | [Senti](https://open.spotify.com/track/5dVSklQulJHOWD4NIbXMO9) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY), [Cesar Huesca](https://open.spotify.com/artist/21nAHY9slnhfM52jJ7XKBa), [Ricardo Oso Cortez](https://open.spotify.com/artist/3fenvl60yRFmYvlNYomhGc), [Sinuhé Borre Castro](https://open.spotify.com/artist/26U7J9tJDGQazyPAVzDFN9) | [Senti](https://open.spotify.com/album/6t5N6v1dcDbQbdD5t1Olwx) | 4:39 | 2026-07-07 | 2026-08-01 |
+| [Serotonin Symphony \- Demo](https://open.spotify.com/track/6ngF6ZoTiajb8h1WUDL5nk) | [Manic Party](https://open.spotify.com/artist/0utxly3d4Z0YfD2GJDu788) | [Serotonin Symphony \(Demo\)](https://open.spotify.com/album/6fvQtusdTVzpf24aObsEY5) | 3:43 | 2026-11-10 |  |
 | [Set Me Free](https://open.spotify.com/track/26lciObPBO9nBveB0LB38Z) | [Violet](https://open.spotify.com/artist/0JrT9TUELhXT5mqUnOC80l) | [Set Me Free](https://open.spotify.com/album/3dcEkwxdvmpIDg4bOh6Ph5) | 4:10 | 2026-01-13 | 2026-03-18 |
 | [Seu Amor, Meu Paraíso](https://open.spotify.com/track/6kMQPeh5LOHJCHXysXk0zv) | [Breno Villares](https://open.spotify.com/artist/2wd82MEjOwoSa4FZkF8fdr) | [Seu Amor, Meu Paraíso](https://open.spotify.com/album/7KUk4FX7KjN3XxaQiHaYPC) | 4:30 | 2026-05-01 | 2026-05-26 |
 | [SEVEN](https://open.spotify.com/track/1dBPODOrEYRX1S6jPklG27) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [SEVENTH SENSE](https://open.spotify.com/album/7H8md1CludPWkATxORF7Sz) | 4:01 | 2026-07-19 |  |

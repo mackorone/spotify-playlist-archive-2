@@ -4165,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Ghazali (Part I)",
+        "url": "https://open.spotify.com/album/48t5uBGJucx2rRiS7HKWR6"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215357,
+      "name": "Layali",
+      "url": "https://open.spotify.com/track/7oqjCeb21Ju6DJtys5PEPg"
+    },
+    {
+      "album": {
         "name": "Lberra7",
         "url": "https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq"
       },

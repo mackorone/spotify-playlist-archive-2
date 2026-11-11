@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,293 likes - 374 songs - 23 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,269 likes - 374 songs - 23 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 68 | [Flashback](https://open.spotify.com/track/2E51oQirO6Wo81xSpbJQHj) | [Cat's Eyes](https://open.spotify.com/artist/2UGnpZqput3u3nM8xlFtRI), [Xue Sujuan](https://open.spotify.com/artist/4SKxSW9BXkolCS33My8ks8) | [A Dream in Red Mansions](https://open.spotify.com/album/2XJeRI1pHSgorTx8BMNgYF) | 3:31 |
 | 69 | [Dyin' to Be Dancin' \- Radio Edit](https://open.spotify.com/track/0u6OWI6lyBR7yEam22yz1C) | [Empress](https://open.spotify.com/artist/27AaPr7ZZQK7ONBgeESbB1) | [Dyin' to Be Dancin'](https://open.spotify.com/album/54IFhVdCyxqMkIjvXNYivr) | 3:56 |
 | 70 | [End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:12 |
-| 71 | [The Web](https://open.spotify.com/track/2iwXPVRd7Ku1QcPILDYf7V) | [Ironsides](https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U) | [Changing Light](https://open.spotify.com/album/7eII7QAOqIVEYVJPJgMMeN) | 5:39 |
+| 71 | [The Web](https://open.spotify.com/track/2iwXPVRd7Ku1QcPILDYf7V) | [The Ironsides](https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U) | [Changing Light](https://open.spotify.com/album/7eII7QAOqIVEYVJPJgMMeN) | 5:39 |
 | 72 | [Deadly Valentine \(Soulwax Remix\)](https://open.spotify.com/track/57KDDGijeqbwsiBOhdo4PT) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Deadly Valentine \(Soulwax Remix\)](https://open.spotify.com/album/6S0gbgt6cQ5P5ThuvLnpLv) | 7:55 |
 | 73 | [Going Back To Where I Belong](https://open.spotify.com/track/6UQK0VtVqDLj1Z5QMhA3sP) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 2:28 |
 | 74 | [WILLING](https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [WILLING](https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE) | 3:03 |
@@ -383,4 +383,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 373 | [Never Gonna Let You Go](https://open.spotify.com/track/6XMyKqEUjoPFDClvRJyO6x) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/3QUi5Qd9OpGCWoAFeuf5vM) | 2:31 |
 | 374 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `AAAAAOYu1fqNhsYWnMhZTB3PgH4ZWmBj`
+Snapshot ID: `AAAAAGcu+fCt9JA1NNFzogsyUHt74HZ8`

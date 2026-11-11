@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > BLUE GIANT MOMENTUMとSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,140 likes - 30 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,150 likes - 30 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Tea For Two](https://open.spotify.com/track/6PX6OlGuCdeFTcMTGfXb1M) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day At Mister Kelly's](https://open.spotify.com/album/0oqzEMvjxGq6KQzGXY30vE) | 3:56 |
 | 30 | [How High The Moon \- Live At Deutschlandhalle, Berlin, 1960](https://open.spotify.com/track/16zP5hp0bmWY4o2t1lHEqD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Paul Smith Quartet](https://open.spotify.com/artist/10hbAHHJmvhFi8UOcYoiC3) | [Mack The Knife: Ella In Berlin \(Live\)](https://open.spotify.com/album/1wQ8jRyqbHquuUBv0oPi20) | 8:09 |
 
-Snapshot ID: `AAAAAIxLtoiExAtcpW2+4mu6WrM1rz9w`
+Snapshot ID: `AAAAAMp6JQvOUJ+VNbot/MkSktREW3tq`

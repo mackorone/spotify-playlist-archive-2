@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACg1WURh5L+W4af2unKYu0tKmsTD",
+  "snapshot_id": "AAAAAJYvJhzcU91lT2ljnEJOVBIlIS2r",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:00",
@@ -75,6 +75,26 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
+        "name": "Next Time, Believe Me",
+        "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 123472,
+      "name": "Next Time, Believe Me",
+      "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
         "name": "CINTURA BRAZZILEAM (MIX)",
         "url": "https://open.spotify.com/album/1qeXw8umuZ6tmPTZM8p0Nm"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 80000,
       "name": "CINTURA BRAZZILEAM (MIX)",
       "url": "https://open.spotify.com/track/2qQOYOzWcoXrybcicr3zFh"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "Next Time, Believe Me",
-        "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 123472,
-      "name": "Next Time, Believe Me",
-      "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -259,6 +259,30 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Our Love Is Alive (feat. Suzanne Ciani & Barry Can't Swim)",
+      "url": "https://open.spotify.com/track/6WBaphmlacrNz0dE5p76ld"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
         "name": "The Devil's Tax Return: Volume 1",
         "url": "https://open.spotify.com/album/3rgOMpJ4GTgsHY1tyuof2r"
       },
@@ -271,26 +295,6 @@
       "duration_ms": 170823,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/4ciUq01EUYEvojb2LMQ9EG"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "No Bad Memories",
-        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 131920,
-      "name": "Vida (feat. Erick the Architect)",
-      "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -347,26 +351,6 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
-        "name": "Verve Remixed // Nina Simone",
-        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 242029,
-      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
-      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
         "name": "Dooley Wap",
         "url": "https://open.spotify.com/album/0N7M20RMx526EAJ9VZ9dqZ"
       },
@@ -383,6 +367,26 @@
       "duration_ms": 223566,
       "name": "Dooley Wap",
       "url": "https://open.spotify.com/track/5Mav4sj55v2tLwx0iL1Som"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
+        "name": "Verve Remixed // Nina Simone",
+        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 242029,
+      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
+      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -431,6 +435,22 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
+        "name": "Steady Flame",
+        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 181677,
+      "name": "Steady Flame",
+      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
         "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
       },
@@ -459,22 +479,6 @@
       "duration_ms": 205845,
       "name": "petal - angry live version",
       "url": "https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "Steady Flame",
-        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 181677,
-      "name": "Steady Flame",
-      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
     },
     {
       "added_at": "2026-11-06 05:00:00",

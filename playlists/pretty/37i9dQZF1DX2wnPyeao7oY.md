@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Tron Austin
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,789 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,853 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [forever mine](https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd) | [5hy](https://open.spotify.com/artist/2TcMB2b7duIzDoXnAr4iTr) | [forever mine](https://open.spotify.com/album/40rxqlR7YFMpixheeA7UCX) | 2:46 |
 | 50 | [STFA](https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [death fetish](https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9) | 3:39 |
 
-Snapshot ID: `AAAAALcuWEu6s9fO1QJOaSmA0VHOP/TC`
+Snapshot ID: `AAAAAHlUQhLCsQt0eu3DC/1ANndlixRJ`

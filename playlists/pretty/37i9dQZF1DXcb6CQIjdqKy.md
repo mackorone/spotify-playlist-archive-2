@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,668,783 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,668,834 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Bibles Again](https://open.spotify.com/track/3BpGShSSLe8vIxtQvuWILQ) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Bibles Again](https://open.spotify.com/album/3kx3JtanfbamWIGtqIFOwn) | 3:18 |
 | 100 | [That's What The Cross Is For](https://open.spotify.com/track/6B6CR3obi1KjlmPwftNcJV) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [That's What The Cross Is For](https://open.spotify.com/album/4yXdPpcc4IYJLEh8ChNxum) | 3:46 |
 
-Snapshot ID: `AAAAANYDlBKCPIKVvDzEc6Fg89rqdOCo`
+Snapshot ID: `AAAAAMUfoDiLnO/NEVWY1Fq2Nj/sfFCi`

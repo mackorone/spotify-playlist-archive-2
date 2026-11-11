@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 493538,
+  "num_followers": 493552,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKr3ONL/uAhblUZxxD5mpn3YMuAP",
+  "snapshot_id": "AAAAALIDQ5CMb3W2pcr9BezplRJCoFCt",
   "tracks": [
     {
       "added_at": "2026-11-06 06:01:09",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Dulces Mentiras",
-        "url": "https://open.spotify.com/album/7jRUAaBU9KoMPQ0qnIoIBG"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "Nelly Burguette",
-          "url": "https://open.spotify.com/artist/3VkoLSdf5ug53oZQwVYbBg"
-        }
-      ],
-      "duration_ms": 206790,
-      "name": "Dulces Mentiras",
-      "url": "https://open.spotify.com/track/1p1Qi5hQvKO6x3acZmO0JP"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Dulces Mentiras",
+        "url": "https://open.spotify.com/album/7jRUAaBU9KoMPQ0qnIoIBG"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Nelly Burguette",
+          "url": "https://open.spotify.com/artist/3VkoLSdf5ug53oZQwVYbBg"
+        }
+      ],
+      "duration_ms": 206790,
+      "name": "Dulces Mentiras",
+      "url": "https://open.spotify.com/track/1p1Qi5hQvKO6x3acZmO0JP"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
-      },
-      "artists": [
-        {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
+      },
+      "artists": [
+        {
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "No Te Apartes de M\u00ed",
-        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
-      },
-      "artists": [
-        {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        },
-        {
-          "name": "Percance",
-          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
-        }
-      ],
-      "duration_ms": 197659,
-      "name": "No Te Apartes de M\u00ed",
-      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Me enamor\u00e9",
         "url": "https://open.spotify.com/album/204ETzAtCnvJcsuMDN1bd3"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 168920,
       "name": "Me enamor\u00e9",
       "url": "https://open.spotify.com/track/0TNUbpsxCcCwf6n87XugNh"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "No Te Apartes de M\u00ed",
+        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Percance",
+          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
+        }
+      ],
+      "duration_ms": 197659,
+      "name": "No Te Apartes de M\u00ed",
+      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/3X48oyGndz1LUh9Usk0okO"
-      },
-      "artists": [
-        {
-          "name": "EXILIOS",
-          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
-        }
-      ],
-      "duration_ms": 212627,
-      "name": "El Concierto",
-      "url": "https://open.spotify.com/track/5yyzzNNnJCTH8LpjHllzFA"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Que Empiece Ya!",
         "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/3X48oyGndz1LUh9Usk0okO"
+      },
+      "artists": [
+        {
+          "name": "EXILIOS",
+          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
+        }
+      ],
+      "duration_ms": 212627,
+      "name": "El Concierto",
+      "url": "https://open.spotify.com/track/5yyzzNNnJCTH8LpjHllzFA"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "Voy a curarme de ti",
         "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 253285,
       "name": "Voy a curarme de ti",
       "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
-      },
-      "artists": [
-        {
-          "name": "Matamoska!",
-          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1599,6 +1583,22 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
+      },
+      "artists": [
+        {
+          "name": "Matamoska!",
+          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "No Doy Mi Alma",
-        "url": "https://open.spotify.com/album/4BuLndHzup4SXgcdgHmfb6"
+        "name": "Quiero Bailar Ska!!!",
+        "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD"
         }
       ],
-      "duration_ms": 227729,
-      "name": "No Doy Mi Alma",
-      "url": "https://open.spotify.com/track/2uXmcfX65KAZ52UAHNCOOE"
+      "duration_ms": 199500,
+      "name": "Quiero Bailar Ska!!!",
+      "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Quiero Bailar Ska!!!",
-        "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
+        "name": "No Doy Mi Alma",
+        "url": "https://open.spotify.com/album/4BuLndHzup4SXgcdgHmfb6"
       },
       "artists": [
         {
-          "name": "Boxer",
-          "url": "https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Quiero Bailar Ska!!!",
-      "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
+      "duration_ms": 227729,
+      "name": "No Doy Mi Alma",
+      "url": "https://open.spotify.com/track/2uXmcfX65KAZ52UAHNCOOE"
     }
   ],
   "unique_name": "Ska Latino ",

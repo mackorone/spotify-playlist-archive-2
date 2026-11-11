@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tove Styrke, Newkid och Nuqi med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,917 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,898 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 101 | [Nån som oss?](https://open.spotify.com/track/5hA3rZvXjbD95G5zJQj6xH) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl) | [Nån som oss?](https://open.spotify.com/album/2jIY1VPYbE77dT8RxCq0IY) | 2:09 |
 | 102 | [Laissez\-Moi](https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv) | [Emma Kok](https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL) | [Laissez\-Moi](https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah) | 3:05 |
 
-Snapshot ID: `AAAAAMKE4zpQOEv9A/BGGrSB+7XRiZDZ`
+Snapshot ID: `AAAAANcly8AJlH1Qk9GT+bMzVWnfBQcT`

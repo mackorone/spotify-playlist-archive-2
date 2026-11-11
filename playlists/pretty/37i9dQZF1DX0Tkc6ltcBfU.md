@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,337 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,288 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [Knuckle](https://open.spotify.com/track/39joTOIiLjgzDAp3r5racP) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Knuckle](https://open.spotify.com/album/26bKk2o2uqOCAJqUxssE5o) | 2:20 |
 | 100 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
 
-Snapshot ID: `AAAAAMOcNsR0zw7CMu4KrDvYaqNykZYQ`
+Snapshot ID: `AAAAAH3mXaHVs5l2GXZPeVML+/MHU3Gg`

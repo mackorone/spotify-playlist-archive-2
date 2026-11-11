@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,543,560 likes - 240 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,543,780 likes - 240 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 239 | [Free Refills](https://open.spotify.com/track/2sYW3QRltmeHiZRVhCsNJQ) | [Cafe Juno](https://open.spotify.com/artist/4YNKtLMm2rIchOD9vhevJc) | [Free Refills](https://open.spotify.com/album/7eXyltg9Gdm50FBvMCwFiw) | 2:32 |
 | 240 | [In a different light](https://open.spotify.com/track/2hc7WvRjUjAesaK8Yo5x2t) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [In a different light](https://open.spotify.com/album/5EnO4yqsKvpFsqZbielPTQ) | 2:27 |
 
-Snapshot ID: `AAAAAK8xxjBYLXotiGOKSGjfaKQGE/Gr`
+Snapshot ID: `AAAAAJQOnVa/cX4AzsCLDl0ki4BRIikX`

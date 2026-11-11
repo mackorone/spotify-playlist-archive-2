@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 230926,
+  "num_followers": 230913,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqljv9m+gthfHu7yamhBTmaAf6f",
+  "snapshot_id": "AAAAAOqDbEa9Z4U6Ou6/Nvj7rJBbhX6a",
   "tracks": [
     {
       "added_at": "2024-02-27 20:15:05",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Hopes and Fears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Hopes and Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
     },
     {
       "added_at": "2024-02-27 20:15:05",

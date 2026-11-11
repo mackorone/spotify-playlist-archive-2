@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Hassan Sheikh
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,306 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,319 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 99 | [Beqadra](https://open.spotify.com/track/5PpFZLUrsUpdzXehSqJxLs) | [Azhar Ali](https://open.spotify.com/artist/10wfQ2iksyP08eyX6oCCwh), [Sami Amiri](https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP) | [Beqadra](https://open.spotify.com/album/5QIgcjGON1R9jHgdxkDoyA) | 3:07 |
 | 100 | [The In between](https://open.spotify.com/track/7tTM4TuyM08R8d0yFFcDHJ) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [The In between](https://open.spotify.com/album/6sUVtU8aWp1UUiPLMaDnbs) | 2:42 |
 
-Snapshot ID: `AAAAAKMgSEfgm5PjK+JNPpY4Nj7Pnf9b`
+Snapshot ID: `AAAAAJrFBOG3iftptlBseh4tJ9V+VrcZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Sakis Rouvas
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,576 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,579 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Efkola Kleo Teleftea](https://open.spotify.com/track/7eXeRGuctQtavsqRrE7F69) | [Christos Dantis](https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc) | [Efkola Kleo Teleftea](https://open.spotify.com/album/61vKal4bgQQfkBxTvLHxff) | 3:45 |
 | 50 | [JALLA \- Anastasia Remix](https://open.spotify.com/track/5xN4Opih4KEMTJlww6yDMM) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW), [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [JALLA \(Anastasia Remix\)](https://open.spotify.com/album/531LCZEK6sLeGRr68QBgKy) | 2:05 |
 
-Snapshot ID: `AAAAAOpbgIM33WTwb93dJJSZnPQst4jU`
+Snapshot ID: `AAAAAPRlkiikv5jDE6y3TdTWq5WhcCfJ`

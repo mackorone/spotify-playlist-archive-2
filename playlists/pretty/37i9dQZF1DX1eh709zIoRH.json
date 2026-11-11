@@ -1,12 +1,12 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 296277,
+  "num_followers": 296267,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABXrPqyxbc8HI99NJOWWlOA1vtjM",
+  "snapshot_id": "AAAAALwFlzg7YKp2z31lSrxX/wWia+Wg",
   "tracks": [
     {
       "added_at": "2025-11-14 00:00:23",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "Malicious Intentions",
+        "url": "https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "duration_ms": 148189,
+      "name": "Malicious Intentions",
+      "url": "https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "Malicious Intentions",
-        "url": "https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht"
-      },
-      "artists": [
-        {
-          "name": "Pozer",
-          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
-        }
-      ],
-      "duration_ms": 148189,
-      "name": "Malicious Intentions",
-      "url": "https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "Kitchen Stove",
+        "url": "https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "duration_ms": 163383,
+      "name": "Kitchen Stove",
+      "url": "https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "Favourite Girl",
         "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "Kitchen Stove",
-        "url": "https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o"
-      },
-      "artists": [
-        {
-          "name": "Pozer",
-          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
-        }
-      ],
-      "duration_ms": 163383,
-      "name": "Kitchen Stove",
-      "url": "https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1387,30 +1387,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        }
-      ],
-      "duration_ms": 120513,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk"
       },
@@ -1435,6 +1411,30 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "duration_ms": 120513,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN"
+        "name": "Distro Kid",
+        "url": "https://open.spotify.com/album/2iJTbYfBiOhhatNhoPKuST"
       },
       "artists": [
         {
           "name": "Kidwild",
           "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
         }
       ],
-      "duration_ms": 100273,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7"
+      "duration_ms": 155200,
+      "name": "Redemption (feat. Nemzzz)",
+      "url": "https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1491,6 +1495,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "duration_ms": 151208,
+      "name": "Heaven or Hell",
+      "url": "https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "We Won",
         "url": "https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7"
       },
@@ -1507,22 +1527,6 @@
       "duration_ms": 166314,
       "name": "We Won",
       "url": "https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "Heaven or Hell",
-        "url": "https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        }
-      ],
-      "duration_ms": 151208,
-      "name": "Heaven or Hell",
-      "url": "https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr"
     }
   ],
   "unique_name": "Certi",

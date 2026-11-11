@@ -1,12 +1,12 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 279680,
+  "num_followers": 279800,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/pxb8NvYT7eZVJWKoqX61QzgmB",
+  "snapshot_id": "AAAAAH5z8u/OPhqbY6DEGIvLk7Eof19h",
   "tracks": [
     {
       "added_at": "2026-07-29 17:48:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "Gonna Be Alright",
+        "url": "https://open.spotify.com/album/20K7rSCSVzGYAD5CfakY18"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 230377,
+      "name": "Gonna Be Alright",
+      "url": "https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 197706,
       "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "Gonna Be Alright",
-        "url": "https://open.spotify.com/album/20K7rSCSVzGYAD5CfakY18"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 230377,
-      "name": "Gonna Be Alright",
-      "url": "https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "There Goes That Man",
-        "url": "https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C"
-      },
-      "artists": [
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        }
-      ],
-      "duration_ms": 260406,
-      "name": "There Goes That Man",
-      "url": "https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/0oBPRWV1lYq0Z4vnpQt6se"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 213924,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/53eAz1xAe54QMFBr1zjein"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "There Goes That Man",
+        "url": "https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "duration_ms": 260406,
+      "name": "There Goes That Man",
+      "url": "https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Heaven On My Mind",
         "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 203450,
       "name": "Heaven On My Mind",
       "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Where Would I Be",
         "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 192445,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/3IsymeG164xqab7pmeblhi"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Do It All Alone",
-        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 172738,
-      "name": "Do It All Alone",
-      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Poetic",
         "url": "https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 228677,
       "name": "Poetic",
       "url": "https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Do It All Alone",
+        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 172738,
+      "name": "Do It All Alone",
+      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "a light in me",
-        "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 191547,
-      "name": "a light in me",
-      "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "trustfall",
         "url": "https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 197821,
       "name": "i still have you",
       "url": "https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "a light in me",
+        "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 191547,
+      "name": "a light in me",
+      "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "I'm Here For You",
-        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
+        "name": "Brighter Days (New Day Edition)",
+        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 209951,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
+      "duration_ms": 185874,
+      "name": "Brighter Days - New Day Edition",
+      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Brighter Days (New Day Edition)",
-        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Brighter Days - New Day Edition",
-      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Already On The Way",
         "url": "https://open.spotify.com/album/5XEkfQjUdUlyleyG4uc0yo"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 252501,
       "name": "Already On The Way",
       "url": "https://open.spotify.com/track/5BiB8P7GtRhU5qXhfUVraS"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "I'm Here For You",
+        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 209951,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "grand prix!",
-        "url": "https://open.spotify.com/album/5520zwKEHMsKQE08B2Vhhe"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 107065,
-      "name": "grand prix!",
-      "url": "https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 167065,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "grand prix!",
+        "url": "https://open.spotify.com/album/5520zwKEHMsKQE08B2Vhhe"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 107065,
+      "name": "grand prix!",
+      "url": "https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q"
-      },
-      "artists": [
-        {
-          "name": "Van Buren",
-          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Why Do You Love Me?",
         "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 248820,
       "name": "Why Do You Love Me?",
       "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "NO SKIPS / GOOD OLD DAYS",
-        "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
-      },
-      "artists": [
-        {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
-        }
-      ],
-      "duration_ms": 190350,
-      "name": "NO SKIPS",
-      "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "getting somewhere",
         "url": "https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 252000,
       "name": "getting somewhere",
       "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "NO SKIPS / GOOD OLD DAYS",
+        "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "duration_ms": 190350,
+      "name": "NO SKIPS",
+      "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
     },
     {
       "added_at": "2026-07-29 17:48:00",

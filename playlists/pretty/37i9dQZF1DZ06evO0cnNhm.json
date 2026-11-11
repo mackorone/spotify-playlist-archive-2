@@ -1,12 +1,12 @@
 {
   "description": "This is Dario Marianelli. The essential tracks, all in one playlist.",
-  "num_followers": 5103,
+  "num_followers": 5104,
   "original_name": "This Is Dario Marianelli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAABVP/1sDIJvH0JLGmKlqN3R",
+  "snapshot_id": "avENAAAAAAAYkqAU0tGaGNBXYnXg39Iq",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
       "duration_ms": 127866,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anna Karenina (Original Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3Cfjb8PWFgaQsqzM2MFvB5"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 113893,
-      "name": "Curtain",
-      "url": "https://open.spotify.com/track/0slUosFqoMpI7ZAA8SafHB"
     }
   ],
   "unique_name": "This Is Dario Marianelli",

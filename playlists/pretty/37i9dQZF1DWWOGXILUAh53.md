@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,148 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,242 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Push it \(cardiac\)](https://open.spotify.com/track/7rvmTYVaJYbj2RNXnAeJRh) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Push it \(cardiac\)](https://open.spotify.com/album/47JSXSvhUnVxjbkQxnpeba) | 2:50 |
 | 100 | [Magic](https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o) | [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Magic](https://open.spotify.com/album/63FJCARS25Km4QVmsmD6P4) | 3:12 |
 
-Snapshot ID: `AAAAAJrbJOTzpG1UNTxye9uHwwdJShZF`
+Snapshot ID: `AAAAAP6oZuFYWzNfTDEOBqErUrJcKVyJ`

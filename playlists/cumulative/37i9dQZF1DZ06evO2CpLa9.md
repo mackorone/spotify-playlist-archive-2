@@ -4,7 +4,7 @@
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 39 min
+129 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [El Catrín \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 3:49 | 2023-11-10 |  |
 | [El Ángel Que Te Cuida](https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Ángel Que Te Cuida](https://open.spotify.com/album/6ECJOBHCepwHMuziMDq202) | 2:45 | 2023-12-16 | 2024-03-28 |
 | [ESCÁPATE](https://open.spotify.com/track/3GZOE8uZZXXdo0uK56NTSG) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt) | 3:00 | 2025-11-19 | 2025-12-29 |
-| [ESCÁPATE](https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B) | 3:00 | 2025-12-31 |  |
+| [ESCÁPATE](https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B) | 3:00 | 2025-12-31 | 2026-11-11 |
 | [Está Caliente](https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:47 | 2023-11-10 |  |
 | [Familia](https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 | 2024-03-11 | 2024-07-13 |
 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 | 2026-04-11 | 2026-04-26 |
@@ -79,6 +79,7 @@
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2023-11-10 |  |
 | [Mar y Tierra](https://open.spotify.com/track/5NOZMr9d0V5nN42BiRtL2p) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:07 | 2025-05-10 | 2026-08-29 |
 | [Me Iré Con Ella](https://open.spotify.com/track/6oDuPGoGyXacliKYM7Tq4L) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:30 | 2023-11-10 |  |
+| [Me Regalo Contigo](https://open.spotify.com/track/7Dx9WCN73yKjXsVaK94ldT) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Me Regalo Contigo](https://open.spotify.com/album/4kdr71mYm6KS8Wxt5TRLPh) | 4:04 | 2026-11-11 |  |
 | [Melo como too](https://open.spotify.com/track/69RPpZhHjzksdWiaDxh48v) | [Asmed](https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Melo como too](https://open.spotify.com/album/3XwsXoM3bZIuswE4hugBnx) | 2:52 | 2026-07-20 | 2026-09-06 |
 | [Meriyey](https://open.spotify.com/track/0O4RpsFBuW9aQ2zStkFGqO) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Silar Kilos De Estilo](https://open.spotify.com/artist/0EuMnBFVFmyIFFgpiwbvj6) | [Meriyey](https://open.spotify.com/album/5tEGwrqWM7ATwMgqXIoyYb) | 4:20 | 2026-02-07 | 2026-04-10 |
 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 | 2023-11-10 |  |

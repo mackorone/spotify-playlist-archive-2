@@ -5981,6 +5981,28 @@
     },
     {
       "album": {
+        "name": "Snake Of Diamonds",
+        "url": "https://open.spotify.com/album/6F4JeK8Q6gHQbKpocWIHvQ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wolf",
+          "url": "https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7"
+        },
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Galilee",
+      "url": "https://open.spotify.com/track/7F1RRopyZNTGh5pP0IpdLE"
+    },
+    {
+      "album": {
         "name": "Game For Guessing (feat. Robert Ellis)",
         "url": "https://open.spotify.com/album/2QmCRzZ6vaOZS2lnuH2KWx"
       },

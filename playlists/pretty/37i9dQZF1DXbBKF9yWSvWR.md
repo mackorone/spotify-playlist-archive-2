@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Dressed Like Boys \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,945 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,944 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 101 | [The Start](https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7DLnvFVKBQog7Iu0fZgrvc) | 3:16 |
 | 102 | [Right Mind](https://open.spotify.com/track/3m5rg0HBWw6sMFpb3VMwRq) | [Patches](https://open.spotify.com/artist/6doDaUbbcBJCFyLEvJPmlh) | [Right Mind](https://open.spotify.com/album/0w6PDBZFkQ24HSjOERIbsJ) | 2:54 |
 
-Snapshot ID: `AAAAAKq9LM8PM30JbhJsfC+GIaX0MfOl`
+Snapshot ID: `AAAAAHXOQTDOloyrirJXD75bLi7zNjWv`

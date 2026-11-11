@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Lennon Stella and Canadian women at full volume!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,992 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,002 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Hiver](https://open.spotify.com/track/38wdTMPW5EHdEhgUOI33ki) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Hiver](https://open.spotify.com/album/4BdHB7Z49YDKF5jWTFfZYD) | 2:20 |
 | 40 | [Visions](https://open.spotify.com/track/4iMEZjaZd6QrBXbGXwK0z4) | [Lowkita](https://open.spotify.com/artist/5a6ihpmD1tWEkLsql9vDxC) | [Why\(te\) Tee](https://open.spotify.com/album/0w2pDF54RFwGjcL6joWXQF) | 2:36 |
 
-Snapshot ID: `AAAAAENtUj06WSWNZ2pfc6SXTiF3YAmX`
+Snapshot ID: `AAAAAEVDlalUpE5F9tBB7c6pyrcTa0Vp`

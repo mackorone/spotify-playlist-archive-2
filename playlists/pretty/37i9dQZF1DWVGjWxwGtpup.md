@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Manuel Turizo x J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,498 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,503 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [NO TE SORPRENDAS](https://open.spotify.com/track/6k509TjWi3LWWjjchbxBXM) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [NO TE SORPRENDAS](https://open.spotify.com/album/5MI7vJNdtIoDFS52V5zEK2) | 2:43 |
 | 50 | [Mi Yo De Antes](https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mi Yo De Antes](https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno) | 3:04 |
 
-Snapshot ID: `AAAAAAylRhiJVorlnbvYGD0AdicI1e3n`
+Snapshot ID: `AAAAAA7RYIWPVzPqIQM9471G1d0NZDRw`

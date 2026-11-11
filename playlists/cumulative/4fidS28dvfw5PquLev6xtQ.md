@@ -2,7 +2,7 @@
 
 ### [RYM Top 100 Songs of All Time](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> Sigma sigma Sigma sigma Sigma sigma Sigma sigma Sigma sigma Sigma sigma Sigma sigma Sigma sigma Sigma sigma
+> keep it on the DL song plist ppl..\. you&\#x27;re the best! 🥰
 
 113 songs - 15 hr 42 min
 
@@ -77,7 +77,7 @@
 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2025-08-06 |  |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2025-08-06 |  |
 | [Roundabout \- 2024 Remaster](https://open.spotify.com/track/466C6kwoJHLUJ8VHG98hCY) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Super Deluxe\)](https://open.spotify.com/album/78tN6vBPHHyNk4sZYnS5X4) | 8:36 | 2025-08-06 |  |
-| [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2025-08-06 | 2026-07-01 |
+| [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2025-08-06 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/3srCbzeE3z0LupnOpdwh4h) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/1ww8GdNvrF0dgJbrnVZmAr) | 5:00 | 2025-08-06 |  |
 | [Shine On You Crazy Diamond, Pts\. 1\-5 \- 2011 Remaster](https://open.spotify.com/track/32dnKMni3I3gwUbWp4mi45) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here \(Remastered Version\)](https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc) | 13:30 | 2025-08-06 |  |
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2025-08-06 |  |
@@ -86,7 +86,7 @@
 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 | 2025-08-06 |  |
 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 | 2025-08-06 |  |
 | [Sleep](https://open.spotify.com/track/05JqOBN6XW4eFUVQlgR0I3) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Lift Your Skinny Fists Like Antennas to Heaven](https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq) | 23:17 | 2025-08-06 |  |
-| [Song for Laurie Bird](https://open.spotify.com/track/4DHPraNj9TkCF6Uspge30B) | [Laurie Bird](https://open.spotify.com/artist/3SgYitu8D76EYJuHwouHIQ) | [Laurie Bird](https://open.spotify.com/album/5h9tWZbL4nkA5ZB5OOyqm0) | 46:09 | 2026-07-22 |  |
+| [Song for Laurie Bird](https://open.spotify.com/track/4DHPraNj9TkCF6Uspge30B) | [Laurie Bird](https://open.spotify.com/artist/3SgYitu8D76EYJuHwouHIQ) | [Laurie Bird](https://open.spotify.com/album/5h9tWZbL4nkA5ZB5OOyqm0) | 46:09 | 2026-07-22 | 2026-11-11 |
 | [Song for Laurie Bird](https://open.spotify.com/track/03pbGEzpw7kxp84R3DR2U1) | [Natural Snow Buildings](https://open.spotify.com/artist/6Y6w2HnL3GM49hOa74QhOO) | [Laurie Bird](https://open.spotify.com/album/1ILPGqTDLIrSadZSiCzKpE) | 46:09 | 2026-06-09 | 2026-06-27 |
 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2025-08-06 | 2026-06-10 |
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 | 2025-08-06 |  |

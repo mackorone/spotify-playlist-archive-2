@@ -6,7 +6,7 @@
     "name": "briannabalen",
     "url": "https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6"
   },
-  "snapshot_id": "AAADviOMFM3EMuPsgGUN8vxHtSe7PY8K",
+  "snapshot_id": "AAADv9IXy3fwpSeHQtW6/qJuieq+h9nQ",
   "tracks": [
     {
       "added_at": "2021-10-01 04:28:43",
@@ -6667,6 +6667,26 @@
       "duration_ms": 379533,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
+    },
+    {
+      "added_at": "2026-11-11 01:16:45",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     }
   ],
   "unique_name": "drive.",

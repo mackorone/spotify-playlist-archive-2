@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > Tracks voor de juiste vibe\. Cover: Lavils
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,186 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,178 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 22 | [2am in toronto](https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 3:04 |
 | 23 | [TOO SOON \(feat\. Babyface\)](https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Sweet Action II](https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4) | 2:21 |
 | 24 | [Love Like Her \- Gypshan's Version](https://open.spotify.com/track/2ozfnyblKLTdmee4e11qZw) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Like Her \(Gypshan's Version\)](https://open.spotify.com/album/42QqN4NdMuUmz5mhRoK2CF) | 2:30 |
-| 25 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
+| 25 | [Colado Na Bo](https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Colado Na Bo](https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd) | 2:49 |
 | 26 | [\#31\#](https://open.spotify.com/track/71eQ2ZLjSjLdaqYOfyTEo4) | [Sara Ciara](https://open.spotify.com/artist/1k8p1XNKtvxEU232Uv0S46) | [\#31\#](https://open.spotify.com/album/3XGjIdCcsX56o3LjzG3Qzk) | 2:52 |
 | 27 | [CC](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 2:00 |
 | 28 | [See You In My Dreams \(feat\. SZA\)](https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 69 | [30 Degrees](https://open.spotify.com/track/4W04kKSZ6xD6UBqD7J8Ofq) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [30 Degrees](https://open.spotify.com/album/6dOlNft80DxcEvIjCC3pxY) | 2:46 |
 | 70 | [Nu Ben Ik Bij Jou](https://open.spotify.com/track/2FKOgObl88zCM3poyguj78) | [Mpes](https://open.spotify.com/artist/1OR4lRZJgv9KJCIbRV9qOT) | [Nu Ben Ik Bij Jou](https://open.spotify.com/album/1XsLORN3lIxiSUWPoX4zIX) | 2:53 |
 
-Snapshot ID: `AAAAAA4NEE44dXT4XhS9QA1AW/tWLpJY`
+Snapshot ID: `AAAAAATskyY3/hdZJ94DKoOMqgBeCpnn`

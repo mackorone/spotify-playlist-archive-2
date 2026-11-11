@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,285 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,287 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 104 | [7ebra](https://open.spotify.com/track/1k9f1Pe3ZLI0Y0NSnOZkZU) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [7ebra](https://open.spotify.com/album/3VNKeo1h9Bpk1BgGx2tsNJ) | 2:50 |
 | 105 | [A Scent](https://open.spotify.com/track/4wuFbKAAfBfpUTuqFC2d8F) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [A Scent](https://open.spotify.com/album/0FR3YdkK23ujPE7aepjJbM) | 2:59 |
 
-Snapshot ID: `AAAAAOtT7ocald4/OkPgD3uLP0VgLm2B`
+Snapshot ID: `AAAAABdgq9I2qt8pDy8455ub9lvJPp8C`

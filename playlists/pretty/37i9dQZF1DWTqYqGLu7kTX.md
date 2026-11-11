@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,562 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,648 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [Ghostface Killah](https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Ghostface Killah](https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut) | 2:17 |
 | 75 | [Ace](https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:45 |
 
-Snapshot ID: `AAAAAGcqV8xHEjgxqmD2k2RmjfnA7uRJ`
+Snapshot ID: `AAAAAPmQZoT2ArOpSwuR1QuzlFGdZIb9`

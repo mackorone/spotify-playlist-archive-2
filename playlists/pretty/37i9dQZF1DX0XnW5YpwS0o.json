@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 130962,
+  "num_followers": 130980,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJfbP0cYbCoQw4YdTYcZ8/89RWRV",
+  "snapshot_id": "AAAAAEm+XHqvLgELT+YEERnZRaJMz0U3",
   "tracks": [
     {
       "added_at": "2026-01-20 18:32:57",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 281011,
-      "name": "Decks Dark",
-      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Everything You've Come To Expect (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
       },
       "artists": [
         {
-          "name": "The Last Shadow Puppets",
-          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 245727,
-      "name": "Miracle Aligner",
-      "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
+      "duration_ms": 281011,
+      "name": "Decks Dark",
+      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -543,6 +527,22 @@
       "duration_ms": 206493,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Everything You've Come To Expect (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        }
+      ],
+      "duration_ms": 245727,
+      "name": "Miracle Aligner",
+      "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
@@ -1439,34 +1455,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "wannabewithu",
-        "url": "https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW"
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 456000,
-      "name": "Lover Is a Day",
-      "url": "https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Your Best American Girl",
-      "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
+      "duration_ms": 167864,
+      "name": "Not Allowed",
+      "url": "https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Who Really Cares",
-        "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
+        "name": "wannabewithu",
+        "url": "https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW"
       },
       "artists": [
         {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 167864,
-      "name": "Not Allowed",
-      "url": "https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a"
+      "duration_ms": 456000,
+      "name": "Lover Is a Day",
+      "url": "https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9"
     },
     {
       "added_at": "2026-01-20 18:32:57",

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-701 songs - 1 day 19 hr 10 min
+706 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 | 2026-08-03 |  |
 | [Bella](https://open.spotify.com/track/1ASPU1mX9IhqhiwcCN3WHb) | [Andacia](https://open.spotify.com/artist/6V8nJSc2EDQYdwfKzNA9pd) | [Bella](https://open.spotify.com/album/66UowctBk5iPa9KdvyxeZO) | 3:21 | 2026-01-12 | 2026-02-23 |
 | [Below](https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Below](https://open.spotify.com/album/3PazqcjJO7Kyz3BUJMXxuL) | 3:06 | 2026-05-14 | 2026-06-13 |
+| [Better Days](https://open.spotify.com/track/30yQMSGdC4fzvPWUHPaGKT) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:32 | 2026-11-10 |  |
 | [Better Than I](https://open.spotify.com/track/2UQHkffxecaIu9irBNoqPD) | [MILK Band](https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9) | [Better Than I](https://open.spotify.com/album/75MGG0n4U8VMzlEZ1RqZc3) | 3:48 | 2026-03-14 | 2026-04-20 |
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 | 2026-01-21 |
 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-09-02 | 2026-10-11 |
@@ -93,6 +94,7 @@
 | [Black Fruit No\. 2](https://open.spotify.com/track/3XZWRUFdjhhVIQviLZvPe7) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Black Fruit No\. 2](https://open.spotify.com/album/0lLLS72NE9M0msnI5PcfUS) | 3:57 | 2026-07-20 | 2026-08-25 |
 | [Black River](https://open.spotify.com/track/1hLyYuATe5bQT3ewKkx8U7) | [The Striders](https://open.spotify.com/artist/4uKcXXOfxVESSegXxJA6YA) | [Black River](https://open.spotify.com/album/4g5xvsC4cPWFqzBgJqu1ZF) | 5:06 | 2026-01-29 | 2026-02-23 |
 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 | 2025-12-01 | 2025-12-28 |
+| [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 | 2026-11-10 |  |
 | [Bleed For Me](https://open.spotify.com/track/2jDWGSL0HFnqpCJPgL0ySt) | [Fortium](https://open.spotify.com/artist/3QMdvX2IxPYLNQJ83aQVxG) | [Volume 35](https://open.spotify.com/album/0saPmuG7za9RzHACDlwaJR) | 4:26 | 2026-02-20 | 2026-03-22 |
 | [Blistered Eyeballs](https://open.spotify.com/track/2xQZoq4VwQ7liQewD36JuT) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:10 | 2025-11-09 | 2025-12-12 |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2026-01-07 | 2026-02-02 |
@@ -115,6 +117,7 @@
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2025-12-13 | 2026-01-05 |
 | [Bullet](https://open.spotify.com/track/2C7E2SbFqS2GbExpD2hopJ) | [Lowland Revelry](https://open.spotify.com/artist/0nzPea6VeRN1WvaNAGdqF9) | [REV\-L\-REE](https://open.spotify.com/album/505KlJdJOgnwFvqcRlhYPc) | 5:06 | 2025-10-31 | 2025-11-22 |
 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 | 2026-10-22 |  |
+| [Burn](https://open.spotify.com/track/1jpRRl1Z8zO4iFQQZuFQbG) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Burn](https://open.spotify.com/album/7GEH5gCu29zli4Vlcc0byl) | 3:48 | 2026-11-11 |  |
 | [Burning both ends](https://open.spotify.com/track/7GUvC4o0t1aXFUZgAJXILD) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Burning both ends](https://open.spotify.com/album/0kHw2k5Cs1PZZXqqeFypBg) | 3:00 | 2026-03-28 | 2026-04-20 |
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-04-15 | 2026-06-13 |
 | [Butterfly](https://open.spotify.com/track/16O07dMipBszv1IXqPO3Bl) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [Butterfly](https://open.spotify.com/album/6fAmumUIB9Xcne6enUXwCD) | 4:31 | 2026-10-26 |  |
@@ -547,6 +550,7 @@
 | [SOUP](https://open.spotify.com/track/61Kf8AcZVzt4DKcmCSL67F) | [Felix Rice](https://open.spotify.com/artist/7nhM2WgCUKLEgvLS520BaQ) | [SOUP](https://open.spotify.com/album/4ZEjgFMkrNjQD3pzTiPyVx) | 2:33 | 2025-12-20 | 2026-01-21 |
 | [Spinning](https://open.spotify.com/track/5Q7LRkw84x7diqZ1ZHHTfd) | [Hard To Miss](https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR) | [Spinning](https://open.spotify.com/album/3aeYcTvgmX1OvUAosl6vcE) | 3:48 | 2026-03-19 |  |
 | [Standing on the Edge](https://open.spotify.com/track/4BCMHUgmnmD4v42FiocYr8) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Standing on the Edge](https://open.spotify.com/album/2MzZEWMpDN2gXyGoKFbMcc) | 2:38 | 2026-03-18 |  |
+| [Starting Over](https://open.spotify.com/track/6KfqvtL8mS8qG1c6oQMK7J) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Last Sunsets](https://open.spotify.com/album/2TsKcXE3zKbwILorKocQkR) | 3:56 | 2026-11-10 |  |
 | [State of The Nation](https://open.spotify.com/track/2org02VczoJhxBLsQdtw4r) | [ARTIC BABA](https://open.spotify.com/artist/7DXL7EaMxzmogl4Zs0Dvud) | [State of The Nation](https://open.spotify.com/album/6N5sLENdhAFPa13jLPH8zh) | 3:17 | 2026-02-15 | 2026-03-22 |
 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 | 2026-04-30 | 2026-05-26 |
 | [Stay Back](https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Stay Back](https://open.spotify.com/album/0RCSlDlgi70bepX0U1JlzJ) | 2:25 | 2026-03-27 | 2026-04-20 |
@@ -661,6 +665,7 @@
 | [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 | 2026-05-26 | 2026-08-08 |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-10-28 | 2025-11-22 |
 | [Vows](https://open.spotify.com/track/2Q1EJXTm4pMbAsQLZmNwlO) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [Vows](https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h) | 3:15 | 2026-02-19 | 2026-03-22 |
+| [Wallet Chain](https://open.spotify.com/track/6cX18mwaiDPccmmSCM7Ky7) | [Barnshed](https://open.spotify.com/artist/25NiXzEzQZXv5AXSUJ0QbP) | [Prison Baby](https://open.spotify.com/album/0dcG7zNlavpwpgPcdDWTAx) | 2:36 | 2026-11-10 |  |
 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-01-22 | 2026-02-18 |
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-12-03 | 2025-12-28 |
 | [Wasn't Born To Follow](https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [Wasn't Born To Follow](https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa) | 3:21 | 2025-10-20 | 2026-04-20 |

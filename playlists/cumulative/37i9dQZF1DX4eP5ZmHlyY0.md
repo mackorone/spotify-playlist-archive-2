@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TWS
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
 
-1,174 songs - 2 day 15 hr 14 min
+1,177 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bad Influence \(Prod\. by Pharrell Williams\)](https://open.spotify.com/track/6uJlw4VHZulMvz6s3J2bO2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:47 | 2025-06-12 | 2025-08-25 |
 | [BAM\-BOO](https://open.spotify.com/track/4rRUH7C2JRGOJf8u3aIDJt) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO](https://open.spotify.com/album/0j6prwqcnjEWs7w9WRAT8d) | 2:34 | 2024-11-12 | 2025-01-13 |
 | [BANANA](https://open.spotify.com/track/0TX8pkIb7yJrMAx5hMacxh) | [KEIGO](https://open.spotify.com/artist/2R3B9TCBBnvAEoCu5KpecB) | [BANANA](https://open.spotify.com/album/5rM3gYVTRkvg4MdSNFu5Hx) | 3:29 | 2025-05-06 | 2025-08-01 |
+| [Bananas](https://open.spotify.com/track/3pSMRG8QhKamtZjdHYe84G) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [S.W.I.S.H.](https://open.spotify.com/album/5eKFOQWdmVyj2z4KsKKGnK) | 2:45 | 2026-11-11 |  |
 | [BANG OUT](https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk) | [RAG POUND](https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP) | [BANG OUT](https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X) | 3:36 | 2024-02-01 | 2024-02-07 |
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-06-05 |
 | [BANG!!](https://open.spotify.com/track/5wHQmGFml0oDSqv7Q4nixp) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BANG!!](https://open.spotify.com/album/5vkSBmbkFqg9ByvMe0o4Zu) | 3:24 | 2026-05-04 | 2026-05-25 |
@@ -288,7 +289,7 @@
 | [Electric Heart](https://open.spotify.com/track/1raMkA3XySjfh18K7COTNV) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [Electric Heart : Born to Glow](https://open.spotify.com/album/4N5R5cNDClPItdzoOjSVDe) | 3:07 | 2025-08-19 | 2025-11-06 |
 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 | 2025-05-19 | 2025-08-18 |
 | [EMBER](https://open.spotify.com/track/4h2V11d3WGC0388eBkm6tC) | [YUTA](https://open.spotify.com/artist/4WndMgZGitK4uQdKcmVHua) | [PERSONA](https://open.spotify.com/album/0PqzdmRYw6MfmrUtmlrDv1) | 3:36 | 2025-10-24 | 2025-11-06 |
-| [EMP](https://open.spotify.com/track/19ZIMpiDTdEy8EUUOvEHxS) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W) | [EMP Mixtape Vol.1: We the Extra](https://open.spotify.com/album/0BKSqaWSoP9rEPQZTE1gxA) | 3:22 | 2026-09-22 |  |
+| [EMP](https://open.spotify.com/track/19ZIMpiDTdEy8EUUOvEHxS) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W) | [EMP Mixtape Vol.1: We the Extra](https://open.spotify.com/album/0BKSqaWSoP9rEPQZTE1gxA) | 3:22 | 2026-09-22 | 2026-11-11 |
 | [encore](https://open.spotify.com/track/6PtdknJWWbQMz2WbfEZYFK) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [encore](https://open.spotify.com/album/5jKqkpuXAITg8wLB57P34I) | 4:06 | 2025-05-27 | 2025-06-18 |
 | [Endless Ending](https://open.spotify.com/track/6wiUeyw6rmng1HTjjyPyrQ) | [BEAST \(HIGHLIGHT\)](https://open.spotify.com/artist/2jR5OEkMem5Ntarz6fAZ48) | [Endless Ending](https://open.spotify.com/album/2LzOVYi9YCKmIJK5j29HES) | 3:25 | 2025-05-01 | 2025-08-30 |
 | [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-12 | 2026-03-26 |
@@ -511,6 +512,7 @@
 | [Kiss Plan](https://open.spotify.com/track/51iXzcSoQmwss67XeDdyss) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Kiss Plan](https://open.spotify.com/album/4yvtxO4ZWuSfXIqudZDqol) | 2:59 | 2024-01-24 | 2024-02-14 |
 | [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 | 2026-01-16 | 2026-01-21 |
 | [Knife](https://open.spotify.com/track/7mVhLZSh2bXAFynFyELZ3v) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH \(Japanese Ver.\)](https://open.spotify.com/album/6BJr4QzuA7XIwbMPXVeYrz) | 2:19 | 2026-01-21 | 2026-08-22 |
+| [KNT \(君の特別\) Kimi no Tokubetsu](https://open.spotify.com/track/5LbG1XXFyuCUmnmTL1jOwH) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [KNT \(君の特別\) Kimi no Tokubetsu](https://open.spotify.com/album/6cxImWngCP8I4cm5ghTXNc) | 3:38 | 2026-11-11 |  |
 | [KO1KEYZ](https://open.spotify.com/track/0sntN2nuas8OXrvdMoWbqR) | [KO1KEYZ](https://open.spotify.com/artist/7EuQkJNmjEkhV4TdeHNFEc) | [KO1KEYZ](https://open.spotify.com/album/0E9jYbwaVVqnB2xP7U3yMQ) | 3:11 | 2026-08-17 | 2026-09-30 |
 | [Koijanai? \- Don't you love me? \-](https://open.spotify.com/track/6bT7YKm6I8yMZPasNSlAkf) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Koijanai? \- Don't you love me? \-](https://open.spotify.com/album/5jFgDZwTLLswYtwPzxplmP) | 3:04 | 2026-01-15 | 2026-01-30 |
 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 | 2024-04-02 | 2024-04-19 |
@@ -563,6 +565,7 @@
 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 | 2024-07-30 | 2025-03-07 |
 | [Luminar](https://open.spotify.com/track/3NzXk5Da3FTirFCAHaHqtd) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [&Joy](https://open.spotify.com/album/4I50ZuDdnKeLnH8eXLao6m) | 3:45 | 2026-01-15 | 2026-01-30 |
 | [MAD](https://open.spotify.com/track/3uZN7akZUmsvxmAImNtzVY) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [MAD](https://open.spotify.com/album/74jNs07XG3lX7RLsZe7iMV) | 2:34 | 2025-04-21 | 2025-06-02 |
+| [MADE YOU LOOK](https://open.spotify.com/track/6FaUDkPj186UyXgUifA5CK) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W) | [OFF script](https://open.spotify.com/album/11L64yIaPthqZcvAglNqGY) | 2:49 | 2026-11-11 |  |
 | [MAESTRO \- Japanese ver.](https://open.spotify.com/track/05QpqXYyWHX30UrrqScDub) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN JAPAN 4TH SINGLE 「消費期限」](https://open.spotify.com/album/2g2fmJXMfNo4wdEJdgyTu6) | 3:18 | 2024-11-26 | 2025-02-13 |
 | [MAGIC](https://open.spotify.com/track/390kIxRDC9MAaalV4JdaXf) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Phase](https://open.spotify.com/album/5JiHYvqPp8ti0RIzqqyrNf) | 2:37 | 2026-09-04 |  |
 | [MAGIC](https://open.spotify.com/track/1R96JucxVDliRrcT3Crmf2) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [MAGIC](https://open.spotify.com/album/73jVPC8AAifhcWItCxgk2X) | 2:53 | 2024-02-13 | 2024-02-21 |
@@ -580,7 +583,7 @@
 | [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 | 2025-04-17 | 2025-05-09 |
 | [Mark on Me](https://open.spotify.com/track/5rLa4taWmqZsZBDh5iKNIH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Mark on Me](https://open.spotify.com/album/6QtmQ4jeXLLLZnLitg5gUj) | 2:51 | 2026-09-08 |  |
 | [Marmalade](https://open.spotify.com/track/1yuhVkErJhVz0Y8dr73y2G) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Marmalade](https://open.spotify.com/album/6IRDoLszHjzvriH80RFlJj) | 2:44 | 2025-11-21 | 2026-02-23 |
-| [Masterpiece](https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Masterpiece](https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6) | 2:49 | 2026-10-21 |  |
+| [Masterpiece](https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Masterpiece](https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6) | 2:49 | 2026-10-21 | 2026-11-11 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2025-01-29 |
 | [Maverick](https://open.spotify.com/track/7hb8xsnKg4vnamKof6P7SA) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [BLACK TOKYO](https://open.spotify.com/album/3TD29NJ6jz6qUtzMY0wtc8) | 3:41 | 2026-05-19 | 2026-05-27 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-08 | 2025-09-05 |
@@ -777,7 +780,7 @@
 | [ROSES](https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96) | 2:21 | 2026-01-23 | 2026-02-03 |
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2025-03-07 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-03-27 |
-| [RUN](https://open.spotify.com/track/00smZS7JjMiUMI0hw0KvTs) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [RUN](https://open.spotify.com/album/7jKeYDo31RwFTmM8qmKmLp) | 2:44 | 2026-11-05 |  |
+| [RUN](https://open.spotify.com/track/00smZS7JjMiUMI0hw0KvTs) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [RUN](https://open.spotify.com/album/7jKeYDo31RwFTmM8qmKmLp) | 2:44 | 2026-11-05 | 2026-11-11 |
 | [RUN IT](https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O) | 3:29 | 2026-06-24 | 2026-08-01 |
 | [Run It Back](https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Run It Back](https://open.spotify.com/album/1r0FKtz7RlCiLJVDbwYVSk) | 2:26 | 2026-01-15 | 2026-05-25 |
 | [RUN TO YOU](https://open.spotify.com/track/0ku6osTANoM57WO6LWAgwZ) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [RUN TO YOU](https://open.spotify.com/album/3xPfMMh4jkzVCZ2BKRI5bA) | 3:20 | 2026-07-07 | 2026-09-12 |

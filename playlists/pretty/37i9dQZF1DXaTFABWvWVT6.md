@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,448 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,444 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 74 | [U KNOW](https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [U KNOW](https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB) | 3:42 |
 | 75 | [Don’t Forget My Love](https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu) | 3:19 |
 | 76 | [Rock The Rhythm \(I Like That\)](https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Richard Vission](https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Club Rompas, Vol\. 2](https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX) | 2:49 |
-| 77 | [I Can Make You \(Feel Good\)](https://open.spotify.com/track/4fSpdl5JM3CCMt9v8SJUCu) | [Scott Steer](https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z) | [I Can Make You \(Feel Good\)](https://open.spotify.com/album/50fpfB18IwpOUz3RjhDqc1) | 2:31 |
-| 78 | [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 |
+| 77 | [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 |
+| 78 | [I Can Make You \(Feel Good\)](https://open.spotify.com/track/4fSpdl5JM3CCMt9v8SJUCu) | [Scott Steer](https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z) | [I Can Make You \(Feel Good\)](https://open.spotify.com/album/50fpfB18IwpOUz3RjhDqc1) | 2:31 |
 | 79 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 |
 | 80 | [Mi Combi](https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ), [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Dany Gomez](https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt), [EMBI](https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0) | [Mi Combi EP](https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd) | 2:46 |
 
-Snapshot ID: `AAAAAG0gDjGp35H0UXR/IuZArHfrZDhY`
+Snapshot ID: `AAAAABkQ05cagFluDXAZx79x7QBoNZ3e`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ליהי טולדנו
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,577 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,576 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/track/5jITjgPYZYUieRhS7fUJPP) | [אורי כלטוב](https://open.spotify.com/artist/0Ifr5SPFErAslSPfbPgUNW) | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/album/6vI3qWUMOfguz5kspNiPIo) | 2:30 |
 | 50 | [אם לא הייתי](https://open.spotify.com/track/5qcq0Q78nEAxyrxZBwb4wD) | [אברהם לגסה](https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt) | [עתה](https://open.spotify.com/album/48m0wGbSuK8B4CzjjMKR9s) | 3:38 |
 
-Snapshot ID: `AAAAAGA4r58RDiv54W+HEBysLl3ejCRt`
+Snapshot ID: `AAAAANka1Z1GYe2mnLnVdf07I8AciWXe`

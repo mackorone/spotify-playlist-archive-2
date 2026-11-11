@@ -1693,6 +1693,28 @@
     },
     {
       "album": {
+        "name": "Heaven Made A Way",
+        "url": "https://open.spotify.com/album/7qnZ72HFc86cHydUX05qrY"
+      },
+      "artists": [
+        {
+          "name": "Oceans Music",
+          "url": "https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317837,
+      "name": "Thank You For The Blood",
+      "url": "https://open.spotify.com/track/0M3f1HQNtLfDUjQo4Q4ASd"
+    },
+    {
+      "album": {
         "name": "a beautiful ending, a blessed beginning",
         "url": "https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm"
       },

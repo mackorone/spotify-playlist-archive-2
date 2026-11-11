@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Soft and soothing beats for all your yoga practices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,363 likes - 55 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,410 likes - 55 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 54 | [at the blue hour](https://open.spotify.com/track/5PXW1rFIHsKhU0LMSkinZn) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [at the blue hour](https://open.spotify.com/album/3bNe0OcNAuOCnbINzUx6Sh) | 1:44 |
 | 55 | [street rain](https://open.spotify.com/track/47RU7lNBcOnk900RR9170z) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [street rain](https://open.spotify.com/album/0sXcIsldD8soezHecjCRlW) | 2:41 |
 
-Snapshot ID: `AAAAAFOYVWGdi/r438hVlwCI5Zp4vGX7`
+Snapshot ID: `AAAAAFCpOqBfZ5m5ZOiZ1Xn2YuY7lKtW`

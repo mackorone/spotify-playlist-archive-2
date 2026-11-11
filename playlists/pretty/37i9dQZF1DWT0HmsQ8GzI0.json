@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 17154,
+  "num_followers": 17155,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFsRiRVG0qt8jFEp9LtSHvMK4qfO",
+  "snapshot_id": "AAAAAOZNzi3psyObk1Wh/AGKr7/lBhup",
   "tracks": [
     {
       "added_at": "2026-09-18 15:19:05",
@@ -703,8 +703,8 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Tegnapr\u00f3l",
-        "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
+        "name": "Jerik\u00f3",
+        "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
       "artists": [
         {
@@ -712,13 +712,17 @@
           "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         },
         {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        },
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
         }
       ],
-      "duration_ms": 179580,
-      "name": "\u00dct\u00f6tt kopott",
-      "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
+      "duration_ms": 162000,
+      "name": "Jerik\u00f3",
+      "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -787,8 +791,8 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Jerik\u00f3",
-        "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
+        "name": "Tegnapr\u00f3l",
+        "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
       },
       "artists": [
         {
@@ -796,17 +800,13 @@
           "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         },
         {
-          "name": "Dan Pinto",
-          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
-        },
-        {
-          "name": "OB",
-          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Jerik\u00f3",
-      "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+      "duration_ms": 179580,
+      "name": "\u00dct\u00f6tt kopott",
+      "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Az a szerelem",
-        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Az a szerelem",
-      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 176500,
       "name": "\u00c9LEK \u00c9S VIRULOK",
       "url": "https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 218675,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "IM\u00c1G\u00d3",
         "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 185142,
       "name": "\u00dcDV A KLUBBAN",
       "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 218675,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "buligyilkos",
         "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 178838,
       "name": "buligyilkos",
       "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2026-09-18 15:19:05",

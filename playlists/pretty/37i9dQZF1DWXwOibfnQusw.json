@@ -1,12 +1,12 @@
 {
   "description": "Music Cristiana para toda la familia!",
-  "num_followers": 2363,
+  "num_followers": 2364,
   "original_name": "Ni\u00f1os Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPd/fvHH3I8pjaqsL1giwJRIk5R0",
+  "snapshot_id": "AAAAAEuxzR3O2oDKe7UBqeeQLHCkcHpK",
   "tracks": [
     {
       "added_at": "2026-08-01 02:41:17",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "10 Veces M\u00e1s",
-        "url": "https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6"
+        "name": "No par\u00f3 de llover",
+        "url": "https://open.spotify.com/album/7I6Rq4NsgLRv4f4GRVbDFI"
       },
       "artists": [
         {
-          "name": "Peque\u00f1os H\u00e9roes",
-          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+          "name": "Biper Y Sus Amigos",
+          "url": "https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok"
         }
       ],
-      "duration_ms": 162178,
-      "name": "L\u00e1zaro",
-      "url": "https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN"
+      "duration_ms": 143274,
+      "name": "No par\u00f3 de llover",
+      "url": "https://open.spotify.com/track/5kTS85ShJ4j120EFbkBBzh"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "No par\u00f3 de llover",
-        "url": "https://open.spotify.com/album/7I6Rq4NsgLRv4f4GRVbDFI"
+        "name": "10 Veces M\u00e1s",
+        "url": "https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6"
       },
       "artists": [
         {
-          "name": "Biper Y Sus Amigos",
-          "url": "https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok"
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
         }
       ],
-      "duration_ms": 143274,
-      "name": "No par\u00f3 de llover",
-      "url": "https://open.spotify.com/track/5kTS85ShJ4j120EFbkBBzh"
+      "duration_ms": 162178,
+      "name": "L\u00e1zaro",
+      "url": "https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
+        "name": "Cuando yo escucho el \u00a1miau, miau, miau!",
+        "url": "https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8"
+      },
+      "artists": [
+        {
+          "name": "Biper Y Sus Amigos",
+          "url": "https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok"
+        }
+      ],
+      "duration_ms": 140662,
+      "name": "Cuando yo escucho el \u00a1miau, miau, miau!",
+      "url": "https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
         "name": "A Danzar",
         "url": "https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1"
       },
@@ -187,38 +203,6 @@
       "duration_ms": 91666,
       "name": "A Danzar",
       "url": "https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
-        "name": "10 Veces M\u00e1s",
-        "url": "https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6"
-      },
-      "artists": [
-        {
-          "name": "Peque\u00f1os H\u00e9roes",
-          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
-        }
-      ],
-      "duration_ms": 142616,
-      "name": "Sans\u00f3n",
-      "url": "https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
-        "name": "Cuando yo escucho el \u00a1miau, miau, miau!",
-        "url": "https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8"
-      },
-      "artists": [
-        {
-          "name": "Biper Y Sus Amigos",
-          "url": "https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok"
-        }
-      ],
-      "duration_ms": 140662,
-      "name": "Cuando yo escucho el \u00a1miau, miau, miau!",
-      "url": "https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -243,6 +227,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
+        "name": "Grandes Promesas",
+        "url": "https://open.spotify.com/album/4amlLsph2ZhuQvSwRtBcdQ"
+      },
+      "artists": [
+        {
+          "name": "Planet Kids",
+          "url": "https://open.spotify.com/artist/4xNAhG6OP1NLaxUCPK3iJo"
+        }
+      ],
+      "duration_ms": 216581,
+      "name": "Yo Tengo un Gran Dios",
+      "url": "https://open.spotify.com/track/1KMOWC6BE1OeE5uim8VT2g"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
         "name": "Fuerza y Movimiento",
         "url": "https://open.spotify.com/album/5KzC1eJSOrCtlPQ2SvlbBM"
       },
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Grandes Promesas",
-        "url": "https://open.spotify.com/album/4amlLsph2ZhuQvSwRtBcdQ"
+        "name": "10 Veces M\u00e1s",
+        "url": "https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6"
       },
       "artists": [
         {
-          "name": "Planet Kids",
-          "url": "https://open.spotify.com/artist/4xNAhG6OP1NLaxUCPK3iJo"
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
         }
       ],
-      "duration_ms": 216581,
-      "name": "Yo Tengo un Gran Dios",
-      "url": "https://open.spotify.com/track/1KMOWC6BE1OeE5uim8VT2g"
+      "duration_ms": 142616,
+      "name": "Sans\u00f3n",
+      "url": "https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -311,18 +311,18 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Jes\u00fas Te Llama",
-        "url": "https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N"
+        "name": "Verano Con Jes\u00fas",
+        "url": "https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn"
       },
       "artists": [
         {
-          "name": "Peque\u00f1os H\u00e9roes",
-          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+          "name": "Los Gigantes De La Fe",
+          "url": "https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh"
         }
       ],
-      "duration_ms": 203451,
-      "name": "Jes\u00fas Te Llama",
-      "url": "https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS"
+      "duration_ms": 187384,
+      "name": "Verano Con Jes\u00fas",
+      "url": "https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Verano Con Jes\u00fas",
-        "url": "https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes De La Fe",
-          "url": "https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Verano Con Jes\u00fas",
-      "url": "https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
         "name": "Rompecabezas",
         "url": "https://open.spotify.com/album/4B9XjpBnhILvNXCFGPBGd5"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
+        "name": "Se Fuerte y Fiel (Ester)",
+        "url": "https://open.spotify.com/album/1w6wXQQFMDXgjpZ6HWkBIq"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes De La Fe",
+          "url": "https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh"
+        }
+      ],
+      "duration_ms": 193071,
+      "name": "Se Fuerte y Fiel (Ester)",
+      "url": "https://open.spotify.com/track/6wOMhNcTwPedGs5wANNQSE"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
         "name": "Grande Es el Se\u00f1or",
         "url": "https://open.spotify.com/album/127zvUZME3NL01sSaC9wIq"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 136280,
       "name": "Yo Te Alabo de Coraz\u00f3n",
       "url": "https://open.spotify.com/track/46EFrvB241699KfRrG7GEe"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
+        "name": "Jes\u00fas Te Llama",
+        "url": "https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+        }
+      ],
+      "duration_ms": 203451,
+      "name": "Jes\u00fas Te Llama",
+      "url": "https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -463,22 +479,6 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Se Fuerte y Fiel (Ester)",
-        "url": "https://open.spotify.com/album/1w6wXQQFMDXgjpZ6HWkBIq"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes De La Fe",
-          "url": "https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh"
-        }
-      ],
-      "duration_ms": 193071,
-      "name": "Se Fuerte y Fiel (Ester)",
-      "url": "https://open.spotify.com/track/6wOMhNcTwPedGs5wANNQSE"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
         "name": "El Nombre de los Animales",
         "url": "https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
+        "name": "Tu Gozo",
+        "url": "https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+        }
+      ],
+      "duration_ms": 147976,
+      "name": "Tu Gozo",
+      "url": "https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
         "name": "Tus Cuerdas De Amor",
         "url": "https://open.spotify.com/album/79nTtbZUKxTAPEENJFbUG9"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 236000,
       "name": "Tus Cuerdas De Amor",
       "url": "https://open.spotify.com/track/7yMlFK4sLlG4ywbHV9vk5L"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
-        "name": "Tu Gozo",
-        "url": "https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R"
-      },
-      "artists": [
-        {
-          "name": "Peque\u00f1os H\u00e9roes",
-          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
-        }
-      ],
-      "duration_ms": 147976,
-      "name": "Tu Gozo",
-      "url": "https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax"
     },
     {
       "added_at": "2026-08-01 02:41:17",

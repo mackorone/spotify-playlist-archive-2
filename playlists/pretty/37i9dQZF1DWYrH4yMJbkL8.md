@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A collection of beautiful songs by Indigenous artists\. Cover: Eadsé
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,382 likes - 39 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,415 likes - 39 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 38 | [Ebb & Flow](https://open.spotify.com/track/4dfIfxHbs9HUJPYGq3Yeyz) | [Burnstick](https://open.spotify.com/artist/0dbsbN4GmkykhylRBqDQaL) | [Made of Sin](https://open.spotify.com/album/6zPlTWj8JPSO0FYdfd3rMY) | 4:12 |
 | 39 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/4BS5Shw1Wb0j8VjYGt8dex) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 4:13 |
 
-Snapshot ID: `AAAAAFd+dTGXhcOFpizA/e0i1cdO1MlX`
+Snapshot ID: `AAAAANUtlS7EArn5WwymvHixOkdThMqJ`

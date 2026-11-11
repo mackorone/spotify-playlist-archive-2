@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-462 songs - 1 day 3 hr 37 min
+464 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Ten](https://open.spotify.com/track/5t59VwPR2S9GZ2zyo3kPao) | [Siobhan Bodrug](https://open.spotify.com/artist/7txaNJjUA1XAkxkY3dOGoD) | [Ten](https://open.spotify.com/album/5seyyPvGsQfMlf7L51Oadx) | 3:14 | 2026-10-26 |  |
 | [The appointment \(losing an old friend\)](https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [The appointment \(losing an old friend\)](https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R) | 6:53 | 2026-02-14 | 2026-03-05 |
 | [The Architect](https://open.spotify.com/track/1hPg5pGa9OpduItQzRW0eM) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:25 | 2026-03-28 | 2026-05-17 |
+| [The Best I Ever Had](https://open.spotify.com/track/4kN0Ubypez9j3PwRsigim4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [The Best I Ever Had](https://open.spotify.com/album/1DoLpPzVKAP1rouoBVrgYU) | 4:05 | 2026-11-10 |  |
 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 | 2026-09-17 |  |
 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 | 2026-06-09 | 2026-08-08 |
 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 | 2026-01-05 |
@@ -438,6 +439,7 @@
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2026-02-20 | 2026-03-27 |
 | [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 | 2026-05-06 | 2026-05-26 |
 | [Watch The World Burn](https://open.spotify.com/track/5eh4inn2ixohkqccJPWgf2) | [Aiden Levit](https://open.spotify.com/artist/1aDMP3KJMjzvEU6oxq4ktJ) | [Watch The World Burn](https://open.spotify.com/album/17Ot21U5DpVxMZVQqPbcPl) | 3:48 | 2026-04-06 | 2026-05-26 |
+| [We Go High](https://open.spotify.com/track/400xZzpdwKLfcBpMMsxtfM) | [Sam Brace](https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH), [The Merciless Bronze](https://open.spotify.com/artist/7IVGe5SIp4zL7ORcomos5E) | [We Go High](https://open.spotify.com/album/06bJj8X2ci5w8lIBA1llYM) | 4:00 | 2026-11-10 |  |
 | [We Met In Our Eyes](https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [We Met In Our Eyes](https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx) | 4:21 | 2026-05-21 | 2026-08-08 |
 | [We're Not Lovers](https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk) | [Ryan Butler](https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a) | [We're Not Lovers](https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz) | 2:47 | 2026-02-09 | 2026-03-05 |
 | [What To Become](https://open.spotify.com/track/368ymVq33003r6t4n9GbRD) | [Highroad No\. 28](https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ) | [The Will To Endure](https://open.spotify.com/album/7pUjpFncOv0tTDrAi34Bb3) | 3:24 | 2026-04-15 | 2026-05-26 |

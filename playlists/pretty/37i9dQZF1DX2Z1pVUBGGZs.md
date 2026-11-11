@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🚀 cover: piri, t.o
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,395 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,396 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 59 | [Rather You Leave](https://open.spotify.com/track/1kJlbNplwduN7UfsAf5jEU) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Rather You Leave](https://open.spotify.com/album/0VhlajjpFQPn7OPPSE6NmG) | 2:28 |
 | 60 | [Is It That Deep?](https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Is It That Deep?](https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ) | 2:51 |
 
-Snapshot ID: `AAAAAIejwz/tcyy/vVQKs+x3bmabnvlI`
+Snapshot ID: `AAAAAF1YK3XLDMGp4ZdPPgxMLNMh8lLH`

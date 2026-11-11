@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 낮은 햇살과 선선한 바람, 조금 더 걷고 싶은 가을의 노래들 \(Walk home a little longer with autumn in the air and a song in your ears\) \(Cover: BABO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,789 likes - 151 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,796 likes - 151 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 150 | [Never Hate You](https://open.spotify.com/track/0t28FLiywBPXcui9Q1X5J8) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 3:35 |
 | 151 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
 
-Snapshot ID: `AAAAAC2TwLvDoM91B15qfzSjXzWtdHrm`
+Snapshot ID: `AAAAAJGvrsO4RC5uQymHAyOZ3dwYUVQ3`

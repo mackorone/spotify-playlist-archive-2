@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 27337,
+  "num_followers": 27345,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABCFvUz+fPaKLWEpagZw8iQVrfih",
+  "snapshot_id": "AAAAAAAwmRgJo7YMn2QwKHzv5LgYt/Ak",
   "tracks": [
     {
       "added_at": "2025-06-06 00:01:27",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
+        "url": "https://open.spotify.com/album/34iGN4Hin3dvnQvvFTDMh1"
+      },
+      "artists": [
+        {
+          "name": "Chinedu Ndubueze",
+          "url": "https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr"
+        }
+      ],
+      "duration_ms": 218079,
+      "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
+      "url": "https://open.spotify.com/track/22cqS8goF7fniCFchDok6o"
+    },
+    {
       "added_at": "2026-01-23 00:01:18",
       "album": {
         "name": "Run To God (R.T.G)",
@@ -139,22 +155,6 @@
       "duration_ms": 142132,
       "name": "Run To God (R.T.G)",
       "url": "https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
-        "url": "https://open.spotify.com/album/34iGN4Hin3dvnQvvFTDMh1"
-      },
-      "artists": [
-        {
-          "name": "Chinedu Ndubueze",
-          "url": "https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr"
-        }
-      ],
-      "duration_ms": 218079,
-      "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
-      "url": "https://open.spotify.com/track/22cqS8goF7fniCFchDok6o"
     },
     {
       "added_at": "2026-09-11 00:01:55",
@@ -385,20 +385,20 @@
       "url": "https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae"
     },
     {
-      "added_at": "2026-10-23 00:01:22",
+      "added_at": "2026-10-30 00:01:07",
       "album": {
-        "name": "Locked In",
-        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
+        "name": "Ife",
+        "url": "https://open.spotify.com/album/6P8VC1WqtppixYGRWOzQmT"
       },
       "artists": [
         {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+          "name": "Teninlanimi",
+          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Locked In",
-      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
+      "duration_ms": 153684,
+      "name": "Ife",
+      "url": "https://open.spotify.com/track/0ewbIJFfBhsrg3gt7n68zP"
     },
     {
       "added_at": "2026-01-09 00:01:28",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
-      "added_at": "2026-10-30 00:01:07",
+      "added_at": "2026-10-23 00:01:22",
       "album": {
-        "name": "Ife",
-        "url": "https://open.spotify.com/album/6P8VC1WqtppixYGRWOzQmT"
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
       },
       "artists": [
         {
-          "name": "Teninlanimi",
-          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
         }
       ],
-      "duration_ms": 153684,
-      "name": "Ife",
-      "url": "https://open.spotify.com/track/0ewbIJFfBhsrg3gt7n68zP"
+      "duration_ms": 180923,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
     },
     {
       "added_at": "2026-05-29 00:01:49",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/4QHPE3bbVO88z8hVlezd0f"
     },
     {
-      "added_at": "2026-08-28 00:01:39",
-      "album": {
-        "name": "YAHWEH",
-        "url": "https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 156964,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
-    },
-    {
       "added_at": "2026-11-06 00:02:01",
       "album": {
         "name": "Gbayin Gbope / Korin Iyin (Medley)",
@@ -623,6 +607,22 @@
       "duration_ms": 736921,
       "name": "Gbayin Gbope / Korin Iyin (Medley)",
       "url": "https://open.spotify.com/track/1ZTwvEivl97wmdyXnHa1GA"
+    },
+    {
+      "added_at": "2026-08-28 00:01:39",
+      "album": {
+        "name": "YAHWEH",
+        "url": "https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 156964,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
     },
     {
       "added_at": "2026-09-11 00:01:55",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN"
     },
     {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Jesus Don Win",
-        "url": "https://open.spotify.com/album/3CdAw62SeDBFxoSzUeNTPY"
-      },
-      "artists": [
-        {
-          "name": "Chinwe Zoe",
-          "url": "https://open.spotify.com/artist/4uJO4oUQkFkxTTPMGAL9nL"
-        }
-      ],
-      "duration_ms": 353750,
-      "name": "Jesus Don Win",
-      "url": "https://open.spotify.com/track/5dfhfZ8CXlxCehe5cJGKtE"
-    },
-    {
       "added_at": "2026-06-19 00:01:37",
       "album": {
         "name": "Jesus is King",
@@ -855,6 +839,22 @@
       "duration_ms": 621040,
       "name": "Eze",
       "url": "https://open.spotify.com/track/6xVJYsNecWgmm603J0anpo"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Jesus Don Win",
+        "url": "https://open.spotify.com/album/3CdAw62SeDBFxoSzUeNTPY"
+      },
+      "artists": [
+        {
+          "name": "Chinwe Zoe",
+          "url": "https://open.spotify.com/artist/4uJO4oUQkFkxTTPMGAL9nL"
+        }
+      ],
+      "duration_ms": 353750,
+      "name": "Jesus Don Win",
+      "url": "https://open.spotify.com/track/5dfhfZ8CXlxCehe5cJGKtE"
     },
     {
       "added_at": "2026-10-09 00:01:37",
@@ -913,6 +913,26 @@
       "url": "https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs"
     },
     {
+      "added_at": "2026-10-30 00:01:07",
+      "album": {
+        "name": "God's Got Me",
+        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "God's Got Me",
+      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
+    },
+    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "Jesus is Life (JIL)",
@@ -933,6 +953,26 @@
       "url": "https://open.spotify.com/track/1mSEK1rRQoejMU2ckPVoXf"
     },
     {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/1ribgy5ITd9gQBQZpRelXG"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Ife Darams",
+          "url": "https://open.spotify.com/artist/7vWtRhAI6BfOz9hmJXD1Pc"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/1wIxkiisXdRDA6DgMuRem8"
+    },
+    {
       "added_at": "2026-09-25 00:01:16",
       "album": {
         "name": "REDEEMED",
@@ -951,26 +991,6 @@
       "duration_ms": 209684,
       "name": "REDEEMED",
       "url": "https://open.spotify.com/track/18oSLr0nINKjtvCAQZB8qr"
-    },
-    {
-      "added_at": "2026-10-30 00:01:07",
-      "album": {
-        "name": "God's Got Me",
-        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
-      },
-      "artists": [
-        {
-          "name": "KobbySalm",
-          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
-        },
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "God's Got Me",
-      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -1037,6 +1057,22 @@
       "url": "https://open.spotify.com/track/2KvGd7HRj5IjbnXg0bA4gr"
     },
     {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4kv1jaXLYy9OkBUv4UtKlX"
+      },
+      "artists": [
+        {
+          "name": "Ayiba",
+          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0hNG58Y9aRpGW8ECtDEqu9"
+    },
+    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "GAZE",
@@ -1057,22 +1093,6 @@
       "url": "https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk"
     },
     {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4kv1jaXLYy9OkBUv4UtKlX"
-      },
-      "artists": [
-        {
-          "name": "Ayiba",
-          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0hNG58Y9aRpGW8ECtDEqu9"
-    },
-    {
       "added_at": "2026-10-30 00:01:07",
       "album": {
         "name": "PRAISE EXPLOSION 4.0",
@@ -1087,6 +1107,42 @@
       "duration_ms": 1969920,
       "name": "PRAISE EXPLOSION 4.0",
       "url": "https://open.spotify.com/track/1jkJsb3CScWADhXuqEvR9R"
+    },
+    {
+      "added_at": "2026-10-30 00:01:07",
+      "album": {
+        "name": "Sofri Sofri",
+        "url": "https://open.spotify.com/album/07hSwtYeFxIzQj8MshWTFa"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "duration_ms": 130485,
+      "name": "Sofri Sofri",
+      "url": "https://open.spotify.com/track/5NcrAC3Wf8XdSwRGwSFzrd"
+    },
+    {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "The God I Serve",
+        "url": "https://open.spotify.com/album/6lYK1Usmuz5UduUmEeAAT0"
+      },
+      "artists": [
+        {
+          "name": "Anderson Qozan",
+          "url": "https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 219565,
+      "name": "The God I Serve",
+      "url": "https://open.spotify.com/track/2l5XjV9XFznKawVv6a85RD"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -1149,22 +1205,6 @@
       "url": "https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1"
     },
     {
-      "added_at": "2026-10-30 00:01:07",
-      "album": {
-        "name": "Sofri Sofri",
-        "url": "https://open.spotify.com/album/07hSwtYeFxIzQj8MshWTFa"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        }
-      ],
-      "duration_ms": 130485,
-      "name": "Sofri Sofri",
-      "url": "https://open.spotify.com/track/5NcrAC3Wf8XdSwRGwSFzrd"
-    },
-    {
       "added_at": "2026-09-18 00:01:36",
       "album": {
         "name": "Riverside",
@@ -1187,26 +1227,6 @@
       "duration_ms": 193658,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
-    },
-    {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "The God I Serve",
-        "url": "https://open.spotify.com/album/6lYK1Usmuz5UduUmEeAAT0"
-      },
-      "artists": [
-        {
-          "name": "Anderson Qozan",
-          "url": "https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 219565,
-      "name": "The God I Serve",
-      "url": "https://open.spotify.com/track/2l5XjV9XFznKawVv6a85RD"
     },
     {
       "added_at": "2026-09-11 00:01:55",
@@ -1249,6 +1269,22 @@
       "url": "https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP"
     },
     {
+      "added_at": "2026-10-09 00:01:37",
+      "album": {
+        "name": "Oruko Jesu",
+        "url": "https://open.spotify.com/album/5Iwgp2RyVAYu4r0caOXzZ5"
+      },
+      "artists": [
+        {
+          "name": "TESTIMONY JAGA",
+          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
+        }
+      ],
+      "duration_ms": 278901,
+      "name": "Oruko Jesu",
+      "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
+    },
+    {
       "added_at": "2026-10-02 00:01:22",
       "album": {
         "name": "MY LOVE",
@@ -1267,42 +1303,6 @@
       "duration_ms": 181232,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"
-    },
-    {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/1ribgy5ITd9gQBQZpRelXG"
-      },
-      "artists": [
-        {
-          "name": "God in This Music",
-          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
-        },
-        {
-          "name": "Ife Darams",
-          "url": "https://open.spotify.com/artist/7vWtRhAI6BfOz9hmJXD1Pc"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/1wIxkiisXdRDA6DgMuRem8"
-    },
-    {
-      "added_at": "2026-10-09 00:01:37",
-      "album": {
-        "name": "Oruko Jesu",
-        "url": "https://open.spotify.com/album/5Iwgp2RyVAYu4r0caOXzZ5"
-      },
-      "artists": [
-        {
-          "name": "TESTIMONY JAGA",
-          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
-        }
-      ],
-      "duration_ms": 278901,
-      "name": "Oruko Jesu",
-      "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
     },
     {
       "added_at": "2026-10-23 00:01:22",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
     },
     {
-      "added_at": "2026-10-30 00:01:07",
-      "album": {
-        "name": "Wanna Be More",
-        "url": "https://open.spotify.com/album/3bfJxIaY26z2Xog7uUH9JL"
-      },
-      "artists": [
-        {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
-        }
-      ],
-      "duration_ms": 164895,
-      "name": "Wanna Be More",
-      "url": "https://open.spotify.com/track/5aOss4ZyOsbtmjfgcoNDxs"
-    },
-    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "Need You",
@@ -1459,6 +1443,22 @@
       "duration_ms": 155477,
       "name": "Need You",
       "url": "https://open.spotify.com/track/0e2dqpRD77jYuSi7lUqMdH"
+    },
+    {
+      "added_at": "2026-10-30 00:01:07",
+      "album": {
+        "name": "Wanna Be More",
+        "url": "https://open.spotify.com/album/3bfJxIaY26z2Xog7uUH9JL"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "duration_ms": 164895,
+      "name": "Wanna Be More",
+      "url": "https://open.spotify.com/track/5aOss4ZyOsbtmjfgcoNDxs"
     },
     {
       "added_at": "2026-10-02 00:01:22",

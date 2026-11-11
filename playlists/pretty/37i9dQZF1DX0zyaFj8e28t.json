@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 408819,
+  "num_followers": 408825,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtbnhqx720zLotBukTE1vkzGPoP",
+  "snapshot_id": "AAAAAEvHz1m/Y/UWPJVkDas/6d8DXkGJ",
   "tracks": [
     {
       "added_at": "2026-09-09 09:05:27",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-09-09 09:05:27",
       "album": {
+        "name": "Boule de flipper",
+        "url": "https://open.spotify.com/album/7BbpQZ2U11hHECUP0nkD6p"
+      },
+      "artists": [
+        {
+          "name": "Corynne Charby",
+          "url": "https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3"
+        }
+      ],
+      "duration_ms": 231874,
+      "name": "Boule de flipper",
+      "url": "https://open.spotify.com/track/6shGOXYAONStOPgpZI1i3E"
+    },
+    {
+      "added_at": "2026-09-09 09:05:27",
+      "album": {
         "name": "Two Feldman",
         "url": "https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 251026,
       "name": "Joue pas",
       "url": "https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH"
-    },
-    {
-      "added_at": "2026-09-09 09:05:27",
-      "album": {
-        "name": "Boule de flipper",
-        "url": "https://open.spotify.com/album/7BbpQZ2U11hHECUP0nkD6p"
-      },
-      "artists": [
-        {
-          "name": "Corynne Charby",
-          "url": "https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3"
-        }
-      ],
-      "duration_ms": 231874,
-      "name": "Boule de flipper",
-      "url": "https://open.spotify.com/track/6shGOXYAONStOPgpZI1i3E"
     },
     {
       "added_at": "2026-09-09 09:05:27",

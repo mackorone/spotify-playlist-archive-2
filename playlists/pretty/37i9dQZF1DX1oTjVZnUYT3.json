@@ -1,12 +1,12 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 485476,
+  "num_followers": 485480,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHsaLen3jl1NeMAeRor0qt9EXYxg",
+  "snapshot_id": "AAAAAA+M9nkMLKMkkDKNM9V6XucUCrig",
   "tracks": [
     {
       "added_at": "2021-11-26 03:18:52",
@@ -295,26 +295,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "The Essential",
-        "url": "https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Tiro Ao \u00c1lvaro",
-      "url": "https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Sou Teu F\u00e3",
         "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 170956,
       "name": "Sou Teu F\u00e3",
       "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "The Essential",
+        "url": "https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Tiro Ao \u00c1lvaro",
+      "url": "https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq"
     },
     {
       "added_at": "2021-11-26 03:18:52",

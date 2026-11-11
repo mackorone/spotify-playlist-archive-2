@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,121 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,104 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 15 | [F4ck 4ever](https://open.spotify.com/track/7CLcLg7nH72tOmRmCqiupY) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Instinct](https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq) | 3:16 |
 | 16 | [Poudrière](https://open.spotify.com/track/2F4AnwPb5Mgjb7CFF2CN53) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [Silence Radio](https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20) | 3:49 |
 | 17 | [One Car Hits Another](https://open.spotify.com/track/2eCTdjEiWw5d1BH1GCvotP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [One Car Hits Another](https://open.spotify.com/album/52M9CYJhNksfE3v5RTRxlL) | 3:09 |
-| 18 | [Canada Dry](https://open.spotify.com/track/65PLCeGlZFWbqLW8TlRZve) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:21 |
-| 19 | [Maybe \(feat\. Lucky Daye\)](https://open.spotify.com/track/6DaDlK57XY6c5IbmWAjN8a) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:43 |
+| 18 | [Maybe \(feat\. Lucky Daye\)](https://open.spotify.com/track/6DaDlK57XY6c5IbmWAjN8a) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:43 |
+| 19 | [Canada Dry](https://open.spotify.com/track/65PLCeGlZFWbqLW8TlRZve) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:21 |
 | 20 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:22 |
 | 21 | [LESSTOMBÉ](https://open.spotify.com/track/2uF2XYjyn6hJSb79aa3mkf) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 3:36 |
 | 22 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 27 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 |
 | 28 | [PAS TOUS LES HOMMES](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
 | 29 | [POSITION](https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [POSITION](https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu) | 2:51 |
-| 30 | [Wishing Well](https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Wishing Well](https://open.spotify.com/album/73agEe7EOBj973yHVERdiX) | 3:53 |
-| 31 | [Expression On Your Face \- Robyn Remix](https://open.spotify.com/track/6aPloFOrVltPzjn2SYNxCj) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Expression On Your Face / Fembot](https://open.spotify.com/album/0IXzSs819M2QT126j6heUM) | 3:38 |
+| 30 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |
+| 31 | [Wishing Well](https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Wishing Well](https://open.spotify.com/album/73agEe7EOBj973yHVERdiX) | 3:53 |
 | 32 | [UNE FLEUR EN ÉTÉ](https://open.spotify.com/track/5TzyuT7HQmxjtCxnzYLZP3) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [UNE FLEUR EN ÉTÉ](https://open.spotify.com/album/1gGdWczAHzq2B2SifhhoHt) | 2:39 |
-| 33 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |
+| 33 | [Expression On Your Face \- Robyn Remix](https://open.spotify.com/track/6aPloFOrVltPzjn2SYNxCj) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Expression On Your Face / Fembot](https://open.spotify.com/album/0IXzSs819M2QT126j6heUM) | 3:38 |
 | 34 | [les fourmis](https://open.spotify.com/track/5PDQo9PRufKGHpobY2nUAl) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [guérir](https://open.spotify.com/album/5SLhRamBJlp8UHE5VhKj5Y) | 2:53 |
 | 35 | [Try A Hundred Times](https://open.spotify.com/track/161RBd1KoPgrzPUGSgcIIB) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [Try A Hundred Times](https://open.spotify.com/album/6wAVQX0HJbLdyIHlRkBmVE) | 3:39 |
 | 36 | [sex](https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sex](https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Les oiseaux qui chantent](https://open.spotify.com/track/2S79KZogGAUkVl3xN62UyI) | [Sauve](https://open.spotify.com/artist/3jXzioLWZnWUIaEjXPxpHw) | [Les oiseaux qui chantent](https://open.spotify.com/album/42MRurG1TXXLyja3zbRnOt) | 2:27 |
 | 50 | [Who You Callin' Crazy](https://open.spotify.com/track/6RoAAej2b94deRZ23FehHW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues, Loose Lips](https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3) | 4:09 |
 
-Snapshot ID: `AAAAALIaYY+xwwiZAR1Wmnhv20tHgJ7V`
+Snapshot ID: `AAAAAGcfbpLJQ+oaJMMin71fN0gj75J1`

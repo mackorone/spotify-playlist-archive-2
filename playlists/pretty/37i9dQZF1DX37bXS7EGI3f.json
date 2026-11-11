@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 825479,
+  "num_followers": 825477,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFjG5FgA3FLDiPfc+9+4qLI5VF8p",
+  "snapshot_id": "AAAAAGPcNmNn7MWalG74/e4PU2u+c66G",
   "tracks": [
     {
       "added_at": "2026-09-22 01:57:25",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Die with a Sword in My Hand",
-        "url": "https://open.spotify.com/album/3irju3WmU5Zod3MJ1fxYep"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Die with a Sword in My Hand",
-      "url": "https://open.spotify.com/track/0Cj1I7lkDqLsTRExc02QqJ"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Die with a Sword in My Hand",
+        "url": "https://open.spotify.com/album/3irju3WmU5Zod3MJ1fxYep"
+      },
+      "artists": [
+        {
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Die with a Sword in My Hand",
+      "url": "https://open.spotify.com/track/0Cj1I7lkDqLsTRExc02QqJ"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "I Will Die In It",
         "url": "https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 236521,
       "name": "Deified",
       "url": "https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "A Thousand Anemones",
-        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 253860,
-      "name": "A Thousand Anemones",
-      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Hear My Voice",
         "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 198997,
       "name": "Hear My Voice",
       "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "A Thousand Anemones",
+        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 253860,
+      "name": "A Thousand Anemones",
+      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Tower: Lean Into Fear",
-        "url": "https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v"
-      },
-      "artists": [
-        {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
-        }
-      ],
-      "duration_ms": 201608,
-      "name": "The Tower: Lean Into Fear",
-      "url": "https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Rune (2025)",
         "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 406269,
       "name": "The Rune (2025)",
       "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "The Tower: Lean Into Fear",
+        "url": "https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v"
+      },
+      "artists": [
+        {
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+        }
+      ],
+      "duration_ms": 201608,
+      "name": "The Tower: Lean Into Fear",
+      "url": "https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
-      },
-      "artists": [
-        {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 266000,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Oceans Above, Stars Below",
         "url": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 281973,
       "name": "Shorelines",
       "url": "https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Metal Elite",
-        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "The Metal Elite",
-      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "The Metal Elite",
+        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "The Metal Elite",
+      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Stories to Forget",
-        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
-      },
-      "artists": [
-        {
-          "name": "Words Of Farewell",
-          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
-        }
-      ],
-      "duration_ms": 281187,
-      "name": "A Lesser King",
-      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Living and The Dead",
         "url": "https://open.spotify.com/album/4W5j6t64ca4oKkku2VnQSe"
       },
@@ -1639,6 +1607,38 @@
       "duration_ms": 263121,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Take My Hand (Bonus Track)",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Take My Hand - Bonus Track",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Stories to Forget",
+        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
+      },
+      "artists": [
+        {
+          "name": "Words Of Farewell",
+          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
+        }
+      ],
+      "duration_ms": 281187,
+      "name": "A Lesser King",
+      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Chasing Sunsets",
-        "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Wessels",
-          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Chasing Sunsets",
-      "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "I'll Be Thunder",
         "url": "https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 200228,
       "name": "I'll Be Thunder",
       "url": "https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Chasing Sunsets",
+        "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Wessels",
+          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Chasing Sunsets",
+      "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
     }
   ],
   "unique_name": "Epic & Melodic",

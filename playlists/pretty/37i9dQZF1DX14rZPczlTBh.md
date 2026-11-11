@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,552 likes - 50 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,556 likes - 50 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 26 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 |
 | 27 | [Celebration of Vennela](https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 0:46 |
 | 28 | [And the Saturdays Continue](https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:28 |
-| 29 | [Love Unfolds](https://open.spotify.com/track/00Lr28wIf0sHcmoCmP8brr) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Athidhi \- OST](https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B) | 0:47 |
-| 30 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
+| 29 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
+| 30 | [Love Unfolds](https://open.spotify.com/track/00Lr28wIf0sHcmoCmP8brr) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Athidhi \- OST](https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B) | 0:47 |
 | 31 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 |
 | 32 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 |
 | 33 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |
-| 34 | [Soul's Reunite](https://open.spotify.com/track/1DFbomfZEGaVDAmiSi97IR) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Athidhi \- OST](https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B) | 0:51 |
-| 35 | [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 |
+| 34 | [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 |
+| 35 | [Soul's Reunite](https://open.spotify.com/track/1DFbomfZEGaVDAmiSi97IR) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Athidhi \- OST](https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B) | 0:51 |
 | 36 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 |
 | 37 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 |
 | 38 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Itlu Kanmani Announcement Theme](https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Itlu Kanmani Announcement Theme](https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn) | 1:03 |
 | 50 | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/track/1oN3V3I3ZDcae7JKXP4a62) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql) | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/album/7h83VMmJo7RxwJNmDMckbN) | 1:04 |
 
-Snapshot ID: `AAAAAAVeU4kCGW8N/iW017XZ8XBABVDf`
+Snapshot ID: `AAAAAKB8g5tapI/GH3f4agg4V/k3GgIC`

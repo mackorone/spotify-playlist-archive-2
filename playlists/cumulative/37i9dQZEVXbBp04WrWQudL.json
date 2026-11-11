@@ -328,7 +328,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 193310,
       "name": "Amor Dos Outros - Ao Vivo",
       "url": "https://open.spotify.com/track/0bAjB3V4naPEYOmgDuXhBo"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 293876,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 242698,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/7xYDdj5EpqjSG8gYjpfmQe"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 160665,
       "name": "Cheiro De Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/7MCIZJtr5gGdnDICN4PMY6"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 256405,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/4mdY2FqawYKEUgGL14fJHD"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "Cuando El Agua Hirviendo - En Vivo desde Colombia",
       "url": "https://open.spotify.com/track/7vqgovQZfgD6po0vU2uwCv"
@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "DEPENDS",
+        "url": "https://open.spotify.com/album/4k3Bym9agONM1ZcZzBKell"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215915,
+      "name": "DEPENDS",
+      "url": "https://open.spotify.com/track/4Pw3EAXz0PDKFL2LDDnFyI"
+    },
+    {
+      "album": {
         "name": "DESERVE",
         "url": "https://open.spotify.com/album/4egY3G4LzzPQkZdQqZpml1"
       },
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 252302,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 235520,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 279104,
       "name": "hey boyyy",
       "url": "https://open.spotify.com/track/2ZigyRVmfZQNlKwxeRzQQt"
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 183524,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/1B3DrO9PIwoVhqOtRRIQvG"
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 225557,
       "name": "My Body Isn't Ready - Orchestral Version from Sound City",
       "url": "https://open.spotify.com/track/4rAi1EJ6yDzVdrOTFZOukF"
@@ -4560,7 +4578,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -4766,7 +4784,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 189769,
       "name": "RIKI",
       "url": "https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO"
@@ -4814,6 +4832,24 @@
       "duration_ms": 124800,
       "name": "Ronroneame",
       "url": "https://open.spotify.com/track/1CnVgNFkIJELALhLn5ybp0"
+    },
+    {
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/3pvt8OUysjCjNRWTsCyLtr"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189197,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/4sVpXtcRGQxgjSukksWeUm"
     },
     {
       "album": {
@@ -5038,7 +5074,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 341290,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5nAEWzFqGYnlU3UWPPRl0e"
@@ -5280,7 +5316,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 183466,
       "name": "Star Trace (Performance M/V)",
       "url": "https://open.spotify.com/track/3GdGUkMocy9wBzMTQHy8Nq"
@@ -5494,7 +5530,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 236766,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib"
@@ -6312,6 +6348,28 @@
       "duration_ms": 162431,
       "name": "Zombieland (feat. Tony Boy, Capo Plaza & Skrilla)",
       "url": "https://open.spotify.com/track/6gjXtuZs4Hz4lLXpUEOrK5"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel Ca\u00eddo",
+        "url": "https://open.spotify.com/album/0B247gM7U4KzcRTKNp3ZNy"
+      },
+      "artists": [
+        {
+          "name": "Estilo Fino",
+          "url": "https://open.spotify.com/artist/21uPAAnrg7QlogyNUpw1bA"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426432,
+      "name": "\u00c1ngel Ca\u00eddo",
+      "url": "https://open.spotify.com/track/6DrqRLLp9Mejf3kPIvjt5b"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbBp04WrWQudL"

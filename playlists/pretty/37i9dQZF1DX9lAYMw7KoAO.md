@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,454 likes - 50 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,550 likes - 50 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
 | 50 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 |
 
-Snapshot ID: `AAAAAO/WAuuAupZo4k6x5+jVxzxwm2oS`
+Snapshot ID: `AAAAAGbCHqt2jKhEE2WEehno+n0V7QQ1`

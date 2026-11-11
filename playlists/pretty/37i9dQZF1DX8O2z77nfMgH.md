@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: BOM, Miranda!, Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,168 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,996 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 58 | [Refugio](https://open.spotify.com/track/442wIqwy0fd1yRkOA28QL0) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Refugio](https://open.spotify.com/album/4pbtawMzdmHKmaVg85Dgzv) | 2:58 |
 | 59 | [Mercedes Rosa](https://open.spotify.com/track/0w9KWawjDKyw9p8Otdouq9) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [El Más Feliz de los Tristes](https://open.spotify.com/album/3xCb1oxClCtTvz0TdQj8I0) | 3:00 |
 
-Snapshot ID: `AAAAAFVnHwGXc6278vRK50zz/qgiASoF`
+Snapshot ID: `AAAAAFAPfQumfK//sgnq+GkM7ngPtYVQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: ILLIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,962 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,950 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 8 | [シンデレラ](https://open.spotify.com/track/0JTVR2cwtb41OVDWZJenvC) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [POPS](https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g) | 4:35 |
 | 9 | [Fever](https://open.spotify.com/track/3xXoUdsKqust8edzZFQxAD) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Unreleased Collection \- Japan Exclusive](https://open.spotify.com/album/4e6mApFhKsMODo9xT95sMY) | 3:37 |
 | 10 | [運命さがし](https://open.spotify.com/track/76lukrvGiAM7GBcjE4Gx4h) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [運命さがし EP](https://open.spotify.com/album/2zOyV8uuxPW31rdXWokKyM) | 3:25 |
-| 11 | [Cypher A 2026](https://open.spotify.com/track/2wkgWtZ46V0FjMMxUR1K0o) | [BabyNyca](https://open.spotify.com/artist/5W803C69kmkFBpVLXkWRap), [jellyy](https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt), [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe), [Nust B](https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5), [Almond\_Eye](https://open.spotify.com/artist/5kCr5QAbsKB84QfRBhAgIp) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 6:15 |
+| 11 | [Cypher A \-RAPSTAR 2026\-](https://open.spotify.com/track/2wkgWtZ46V0FjMMxUR1K0o) | [BabyNyca](https://open.spotify.com/artist/5W803C69kmkFBpVLXkWRap), [jellyy](https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt), [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe), [Nust B](https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5), [Almond\_Eye](https://open.spotify.com/artist/5kCr5QAbsKB84QfRBhAgIp) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 6:15 |
 | 12 | [RAPSTAR DISらない](https://open.spotify.com/track/0tniD8rL4qF6IUEsXVekhZ) | [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC) | [RAPSTAR DISらない](https://open.spotify.com/album/795wwfxUq6wl2tcyCQtgaE) | 2:03 |
 | 13 | [君と生きて君と死にたい！](https://open.spotify.com/track/76m7HVNSn9boYZqzfdMuXq) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [PURE](https://open.spotify.com/album/5R0dCdjb1aDADy623EOLpg) | 3:29 |
 | 14 | [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [life hack](https://open.spotify.com/track/0DKHQ4ixPdmN1SHtT8PVpS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:46 |
 | 60 | [娑婆堕罵 \-Shabadaba\-](https://open.spotify.com/track/39WE2duYMF00oF7E6lLSSW) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [娑婆堕罵 \-Shabadaba\-](https://open.spotify.com/album/0hVqT36HvgyOr4wV160LDb) | 4:13 |
 
-Snapshot ID: `AAAAAAVYeU9p+0tqrghFSuEJEAh7F4n8`
+Snapshot ID: `AAAAAHDG0xX/IkRglC2HekxpI0erM6dL`

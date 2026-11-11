@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Lorenzo Jan. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Saint Cooper. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -17994,7 +17994,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 195688,
       "name": "DOET",
       "url": "https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI"
@@ -47294,6 +47294,24 @@
       "duration_ms": 216623,
       "name": "Nagkakahiyaan",
       "url": "https://open.spotify.com/track/16YRDsB6cApauQJyPfZxTT"
+    },
+    {
+      "album": {
+        "name": "Nahihilo",
+        "url": "https://open.spotify.com/album/7w2wtl8sja3zNxcITwX28T"
+      },
+      "artists": [
+        {
+          "name": "Saint Cooper",
+          "url": "https://open.spotify.com/artist/4HelBJRa22uXkNaikINVHG"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212234,
+      "name": "Nahihilo",
+      "url": "https://open.spotify.com/track/7kQ9mfE8KDWL0di14D1FdF"
     },
     {
       "album": {

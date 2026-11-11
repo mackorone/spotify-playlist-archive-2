@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Weird Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,029 likes - 101 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,033 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 100 | [Someplace Sometime Somehow](https://open.spotify.com/track/5XPm9MaJ9hlcfXURHANyIT) | [mpq](https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom) | [Someplace Sometime Somehow](https://open.spotify.com/album/3dNOkKRc9HdtAfHfeVKhQ0) | 3:02 |
 | 101 | [Wishing Bad](https://open.spotify.com/track/5gzK8TrJlzsc0tWK6cXjUp) | [amae](https://open.spotify.com/artist/3Epw8ZocMsviip7i4qHFxa), [Emmann Yapp](https://open.spotify.com/artist/6q9rXmn6NuUWE4nnaqoCzi) | [Wishing Bad](https://open.spotify.com/album/3v1OGfdhWAiLTMAjxVi0XH) | 2:54 |
 
-Snapshot ID: `AAAAAC+eaxP5jKggzi+s8xZpHzSNtDNP`
+Snapshot ID: `AAAAAINDw0vGzLUCBd779wkde+r6rVI1`

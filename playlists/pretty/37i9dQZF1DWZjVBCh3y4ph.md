@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Algéric
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,374 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,395 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Doudou](https://open.spotify.com/track/4wrmC3OaHWFqhZeDMzZxeu) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Doudou](https://open.spotify.com/album/5W6Mvoi9S8CgEh24EbpTX5) | 2:56 |
 | 40 | [DON'T CARE](https://open.spotify.com/track/5kYQ0GagBehowLHQOvlXQY) | [Dj Blax](https://open.spotify.com/artist/44VNFYznTUZXUy2b0KMhZx), [Tamillia](https://open.spotify.com/artist/5yjlPxR2NMOjm2JiHtJR3Q) | [DON'T CARE](https://open.spotify.com/album/2nNnIqw4MROGSDYiXhnY28) | 2:12 |
 
-Snapshot ID: `AAAAAIEQ+v9vk3MwdszxH8ApclO+r375`
+Snapshot ID: `AAAAAIjm0hJFreHrpXW2hpTg8Yn51Hmy`

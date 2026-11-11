@@ -4,7 +4,7 @@
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: Gunna Chorna
 
-691 songs - 1 day 11 hr 13 min
+692 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 | 2024-12-20 |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-08-01 | 2024-11-29 |
 | [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 | 2026-01-15 | 2026-05-14 |
-| [747](https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [747](https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR) | 2:53 | 2026-08-06 |  |
+| [747](https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [747](https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR) | 2:53 | 2026-08-06 | 2026-11-11 |
 | [911](https://open.spotify.com/track/16Ssmu3cwZjySQWJ8MXyZt) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [911](https://open.spotify.com/album/3pKldQ7aSXiE9qD6oaxNre) | 2:22 | 2025-06-19 | 2025-07-11 |
 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 | 2026-08-21 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2026-04-24 |
@@ -500,6 +500,7 @@
 | [Магія](https://open.spotify.com/track/5JWUdCPytdnt4gbe9lj9TM) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ), [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [Квітами на глибині](https://open.spotify.com/album/3T1r69op3L3kHWpqQEZZyN) | 3:05 | 2025-04-10 | 2025-04-18 |
 | [мадам](https://open.spotify.com/track/5cSNtwfVLUDVHcgOnjBiBX) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [Міша Крупін](https://open.spotify.com/artist/04hCN9kKMAgHUaElQ4stQG) | [мадам](https://open.spotify.com/album/0GM5h6BNoQm6garAtev6ZC) | 3:26 | 2025-10-03 | 2025-10-10 |
 | [Мармелад](https://open.spotify.com/track/59EVmFrk3Mk02FQtdNF1r5) | [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Мармелад](https://open.spotify.com/album/38438dvkZY9vxPGNX71Snc) | 2:19 | 2026-09-17 | 2026-10-09 |
+| [Математика](https://open.spotify.com/track/11uAJUWyurjtnNQ9dcXdA0) | [Stage Moonna](https://open.spotify.com/artist/7r2TBV25eq3uMI0svU62jT) | [Математика](https://open.spotify.com/album/74XRzgLvbTv1D3dcMom4uM) | 2:27 | 2026-11-10 |  |
 | [МаХат МаХат](https://open.spotify.com/track/7ripvzOElI5lNVwOTWX8ZR) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Квітами на глибині](https://open.spotify.com/album/3T1r69op3L3kHWpqQEZZyN) | 2:40 | 2025-04-10 | 2025-04-18 |
 | [Мелатонін](https://open.spotify.com/track/4ZQNrAOsong5Kny2QViQl1) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Мелатонін](https://open.spotify.com/album/4daqJ11hjdRJUTem9opHdU) | 2:03 | 2026-08-06 | 2026-09-11 |
 | [мелодрами](https://open.spotify.com/track/4YEfEq1ylKqvEbJH9OZwxg) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [мелодрами](https://open.spotify.com/album/6SxCcwvo4otuZ80SNHzflm) | 3:51 | 2026-11-05 |  |

@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-352 songs - 19 hr 44 min
+353 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 | 2024-03-06 | 2024-04-29 |
 | [Acalanto](https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 3:44 | 2022-04-01 | 2023-01-28 |
 | [Acalanto](https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 | 2023-04-15 | 2024-04-19 |
+| [Acontece \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/1V8ZAy7X8N09WHXFQYAwcl) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Acontece \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/5Z4tS64NHxdbhnxY6nN26Q) | 4:04 | 2026-11-06 |  |
 | [Acontecer](https://open.spotify.com/track/6RTh9V7Po93v5V0HAM230J) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [Acontecer](https://open.spotify.com/album/7r9zQdhPp0M1cDIsItlExI) | 2:59 | 2022-04-01 | 2022-04-21 |
 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2022-04-01 |  |
 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 | 2022-02-18 | 2025-04-14 |
@@ -269,7 +270,7 @@
 | [Quando me ver passar](https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando me ver passar](https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7) | 2:14 | 2026-05-29 | 2026-06-17 |
 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 | 2022-04-01 |  |
 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 | 2023-10-02 | 2023-10-14 |
-| [Quem dirá?](https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Quem dirá?](https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K) | 2:52 | 2025-07-18 |  |
+| [Quem dirá?](https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Quem dirá?](https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K) | 2:52 | 2025-07-18 | 2026-11-11 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-01-11 |
 | [Quero Ir pra Bahia Com Você \- Acústico](https://open.spotify.com/track/3MFd8Cl5aWa9bEd59bYVIL) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Quero Ir pra Bahia Com Você \(Acústico\)](https://open.spotify.com/album/4xwpbcPIP9HA8roUPwnoQA) | 2:46 | 2022-04-01 | 2026-05-17 |
 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 | 2022-02-18 |  |

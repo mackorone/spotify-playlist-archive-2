@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: kouth
 
-2,087 songs - 4 day 5 hr 22 min
+2,087 songs - 4 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,7 +1031,7 @@
 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 | 2023-04-07 | 2023-04-15 |
 | [Louca Life](https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Louca Life](https://open.spotify.com/album/27Xe1TLkI2sxs5e2nYCwCZ) | 2:25 | 2023-05-26 | 2023-06-10 |
 | [Loucura](https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:59 | 2023-12-15 | 2024-07-13 |
-| [Louvre](https://open.spotify.com/track/00hGeWd9fZuubbPE7rH4b3) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs) | [Louvre](https://open.spotify.com/album/3fXXicH2LTWxvsNvaGkyQE) | 5:24 | 2026-11-09 |  |
+| [Louvre](https://open.spotify.com/track/00hGeWd9fZuubbPE7rH4b3) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs) | [Louvre](https://open.spotify.com/album/3fXXicH2LTWxvsNvaGkyQE) | 1:30 | 2026-11-09 |  |
 | [Love de Bandido](https://open.spotify.com/track/4VQrOhg81OwmcTzLAzgUqR) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Neconbeat](https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Love de Bandido](https://open.spotify.com/album/6Nfh9Ud5lmnHDGj2xqQ7JV) | 4:45 | 2024-01-19 | 2024-02-17 |
 | [Loyalty](https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [Loyalty](https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw) | 3:24 | 2023-07-28 | 2023-08-26 |
 | [Ludmilla \(Papatracks\#12\)](https://open.spotify.com/track/7CKPobgc0wetmn1V990uKb) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Ludmilla \(Papatracks\#12\)](https://open.spotify.com/album/5Hxc7d6iEx2gXe8EDLst0n) | 2:02 | 2024-02-23 | 2024-04-13 |

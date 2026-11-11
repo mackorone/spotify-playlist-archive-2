@@ -2,7 +2,7 @@
 
 ### [Anime Drive](https://open.spotify.com/playlist/37i9dQZF1DX5LaTL5p8IO2)
 
-> Anime songs for a good\-vibes drive\. アニソンでごきげんなドライブタイムを。あなたの日々に音楽を。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> Anime songs for a good\-vibes drive\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 104 songs - 6 hr 33 min
 

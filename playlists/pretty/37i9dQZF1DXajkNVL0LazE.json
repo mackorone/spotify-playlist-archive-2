@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 127326,
+  "num_followers": 127349,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBkMFmUD31npkL4c36atMRqoHIK",
+  "snapshot_id": "AAAAAMjrKLOH3T16pN7yL9pw4nTh6Gdr",
   "tracks": [
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Sun Giant",
-        "url": "https://open.spotify.com/album/5NEop2elZh36TMtGHA9Zrt"
+        "name": "Where Shall You Take Me? (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
         }
       ],
-      "duration_ms": 275306,
-      "name": "Mykonos",
-      "url": "https://open.spotify.com/track/0zRqVLbBZJrE7AAKrSW1RU"
+      "duration_ms": 146333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Where Shall You Take Me? (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs"
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/5NEop2elZh36TMtGHA9Zrt"
       },
       "artists": [
         {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7"
+      "duration_ms": 275306,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/0zRqVLbBZJrE7AAKrSW1RU"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "The Felice Brothers",
-        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
-      },
-      "artists": [
-        {
-          "name": "The Felice Brothers",
-          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
-        }
-      ],
-      "duration_ms": 246146,
-      "name": "Frankie's Gun!",
-      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Palo Santo (Expanded Edition)",
         "url": "https://open.spotify.com/album/66u6ytOmJrm0APoya7mokt"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 189786,
       "name": "Red Sea, Black Sea",
       "url": "https://open.spotify.com/track/2ouxMZsKhP2P32Qge1HdAX"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "The Felice Brothers",
+        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
+      },
+      "artists": [
+        {
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Frankie's Gun!",
+      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "A Ways Away",
         "url": "https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 215400,
       "name": "A New Binding",
       "url": "https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 246973,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 241546,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/3MhJ8lLj98SPgtiH16ZmXo"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/7paeGrohxo8xM3LlsIXYBM"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 152346,
       "name": "Special Death",
       "url": "https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Magnolia Electric Co. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY"
-      },
-      "artists": [
-        {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
-        }
-      ],
-      "duration_ms": 442106,
-      "name": "Farewell Transmission",
-      "url": "https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH"
     },
     {
       "added_at": "2024-03-25 16:58:35",

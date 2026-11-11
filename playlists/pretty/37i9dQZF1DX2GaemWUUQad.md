@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GaemWUUQad.md) - [plain]
 
 > Let these songs be your travel partner this Diwali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GaemWUUQad.md) - [plain]
 | 49 | [Love You Zindagi](https://open.spotify.com/track/6k3XXCE1ZzwevQlxf8dNaw) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:52 |
 | 50 | [Laapata](https://open.spotify.com/track/3G2I8KB7bTWmvE1tHSlMHg) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ek Tha Tiger](https://open.spotify.com/album/1vATJtFK74jkmkg5M8ffvq) | 4:14 |
 
-Snapshot ID: `AAAAAAp9Z1+mDznFiceQXCZyKap/mFLF`
+Snapshot ID: `AAAAALocjhk2BKkW6l4aJgeuZyWO46Tf`

@@ -27021,6 +27021,24 @@
     },
     {
       "album": {
+        "name": "Magicien",
+        "url": "https://open.spotify.com/album/6I3dLq4cdOYaQwUHoDycWq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208245,
+      "name": "Magicien",
+      "url": "https://open.spotify.com/track/4WXuBCdYkeQ9cOS8obAKXL"
+    },
+    {
+      "album": {
         "name": "Main Character",
         "url": "https://open.spotify.com/album/5x0xJxWW4Meb2M79eEHm6M"
       },

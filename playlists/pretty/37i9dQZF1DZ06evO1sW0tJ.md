@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,365 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 | 49 | [Drei Romanzen, Nr\. 1 Andante molto](https://open.spotify.com/track/34LzK0nabDvOLGFKYTJu5E) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Martin Malto](https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX) | [Drei Romanzen, Nr\. 1 Andante molto](https://open.spotify.com/album/4PZV9hg0vJwe4Qw37Sy9Ln) | 2:55 |
 | 50 | [6 Lieder, Op\. 13: No\. 3, Liebeszauber \(Arr\. Rouger for Choir and Piano\)](https://open.spotify.com/track/27bFGG6FVrDNPCjLKB9dFl) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Katharina Schlenker](https://open.spotify.com/artist/0ZDZKQRzh91SL1sYg5PL5q), [figure humaine kammerchor](https://open.spotify.com/artist/5ZtUa4EuIz9bISCR11GY6w), [Denis Rouger](https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF) | [...wo die Zitronen blühn](https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t) | 2:26 |
 
-Snapshot ID: `au+7gAAAAADid4hWt+bal3mu4keAzykA`
+Snapshot ID: `avENAAAAAABXQbL1mWymtaBNN3OycGFp`

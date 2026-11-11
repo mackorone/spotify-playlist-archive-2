@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Badshah, Shreya Ghoshal, Salim\-Sulaiman and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,639 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,679 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Waade Saare](https://open.spotify.com/track/08FVpRamuYXLrh2zcU2ogi) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Waade Saare](https://open.spotify.com/album/7FGpdKc4qUCbhmDUbMxJEK) | 4:08 |
 | 50 | [Sochun Main](https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Sochun Main](https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz) | 3:12 |
 
-Snapshot ID: `AAAAAPcRh0ltUjnSnjF7HX7EtzPMYmFf`
+Snapshot ID: `AAAAAFQgq4zHhsQmsqIKVEZiHE/lFcPW`

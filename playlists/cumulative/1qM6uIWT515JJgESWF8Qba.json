@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Good for Nothing",
+        "url": "https://open.spotify.com/album/1G7PsPs1tq25rNBTAPBSjr"
+      },
+      "artists": [
+        {
+          "name": "No Fucking Good",
+          "url": "https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Immortalized",
+      "url": "https://open.spotify.com/track/4kk2VWSqNOb6vL7N0id4tn"
+    },
+    {
+      "album": {
         "name": "In Between",
         "url": "https://open.spotify.com/album/0Dwc2X79NdDJy0Oaz4aaO4"
       },

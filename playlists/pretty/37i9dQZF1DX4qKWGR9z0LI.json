@@ -1,12 +1,12 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f Lo nuevo y lo mejor de la salsa.",
-  "num_followers": 1849166,
+  "num_followers": 1849001,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN32c15H31QKXiX2ZZcRQBbABtO5",
+  "snapshot_id": "AAAAANMOHEi9FOl3zclNoT5PVKgR2vn0",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:46",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Salsa Dura, Vol. 5",
-        "url": "https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR"
-      },
-      "artists": [
-        {
-          "name": "Orquesta los Adolecente",
-          "url": "https://open.spotify.com/artist/1TvOKkF2thqligHIutwEj2"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Me Tengo Que Ir",
-      "url": "https://open.spotify.com/track/5ac2pGWaq2CDZ8g5a4G53O"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Salsa Dura, Vol. 5",
+        "url": "https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR"
+      },
+      "artists": [
+        {
+          "name": "Orquesta los Adolecente",
+          "url": "https://open.spotify.com/artist/1TvOKkF2thqligHIutwEj2"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Me Tengo Que Ir",
+      "url": "https://open.spotify.com/track/5ac2pGWaq2CDZ8g5a4G53O"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Caer y Levantarse",
-        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 270925,
-      "name": "Caer y Levantarse",
-      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "un",
         "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 180494,
       "name": "No Se Vale",
       "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Caer y Levantarse",
+        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 270925,
+      "name": "Caer y Levantarse",
+      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 220830,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "Yo Deluxe",
         "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 208774,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 220830,
-      "name": "Gordo",
-      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "TROPiKETE",
-        "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 210398,
-      "name": "TROPiKETE",
-      "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Leyendas: Salsa Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 304533,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "TROPiKETE",
+        "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 210398,
+      "name": "TROPiKETE",
+      "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "La Dimensi\u00f3n Latina",
+          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "El Swing 2.0 (feat. Luis Vazquez)",
         "url": "https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 213084,
       "name": "El Swing 2.0 (feat. Luis Vazquez)",
       "url": "https://open.spotify.com/track/5U9lUIHIzSmXz7ScRQGWdx"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
-      },
-      "artists": [
-        {
-          "name": "La Dimensi\u00f3n Latina",
-          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
-        },
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
     },
     {
       "added_at": "2026-10-02 04:02:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,992 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,990 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 49 | [Just Sayin/I Tried](https://open.spotify.com/track/0dtSFx5d01pUvWY1d4mskP) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Insecure: Music from the HBO Original Series](https://open.spotify.com/album/768HEXhXFM0O8cP2ObI3RA) | 6:52 |
 | 50 | [Lovin' care](https://open.spotify.com/track/0snwRfpyISNV2KbcE2qi5x) | [JJORDAN](https://open.spotify.com/artist/7bop8V3sucGbPjKUrWrhJX) | [Lovin' care](https://open.spotify.com/album/07CfXFiDeJu9cuTzEQuULk) | 2:33 |
 
-Snapshot ID: `AAAAAG8hcj4npOu4Gsl0OGbxFl5s48si`
+Snapshot ID: `AAAAACQZXJEPq/nc0Rf3piWzHDeemTzC`

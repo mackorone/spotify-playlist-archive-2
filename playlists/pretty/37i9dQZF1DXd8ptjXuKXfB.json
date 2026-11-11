@@ -1,12 +1,12 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 33504,
+  "num_followers": 33508,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOD3u9gFsLKLHf9m6EsnS8jkjka6",
+  "snapshot_id": "AAAAAL8QAoXUK4+eqdU9TXpVpMBs/iDU",
   "tracks": [
     {
       "added_at": "2026-11-09 18:12:42",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "BOSZORK\u00c1NY",
+      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
         "name": "VINNER",
         "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 159255,
       "name": "SHAKE DAT",
       "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "BOSZORK\u00c1NY",
-      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
         "name": "Midnight (The Hanging Tree)",
         "url": "https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh"
       },
@@ -1351,38 +1367,6 @@
       "duration_ms": 178823,
       "name": "Midnight (The Hanging Tree)",
       "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
-        "name": "Suttog a sz\u00e9l",
-        "url": "https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY"
-      },
-      "artists": [
-        {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
-        }
-      ],
-      "duration_ms": 271090,
-      "name": "F\u00fajj meg sz\u00e9l",
-      "url": "https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
+        "name": "Suttog a sz\u00e9l",
+        "url": "https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY"
+      },
+      "artists": [
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "duration_ms": 271090,
+      "name": "F\u00fajj meg sz\u00e9l",
+      "url": "https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
         "name": "HATALMASABB, MINT GONDOLN\u00c1D",
         "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 137999,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
-        "name": "WAZZUP",
-        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
-      },
-      "artists": [
-        {
-          "name": "MAXI",
-          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "WAZZUP",
-      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -1475,6 +1455,26 @@
       "duration_ms": 182884,
       "name": "civil",
       "url": "https://open.spotify.com/track/3zDopiQnon32IK2Am0jmpH"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
+        "name": "WAZZUP",
+        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
+      },
+      "artists": [
+        {
+          "name": "MAXI",
+          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "WAZZUP",
+      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
-        "name": "EXT\u00c1ZIS",
-        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
       },
       "artists": [
         {
-          "name": "bongor",
-          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         },
         {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
         }
       ],
-      "duration_ms": 142856,
-      "name": "Hol volt\u00e1l?",
-      "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
+      "duration_ms": 157586,
+      "name": "WAY TOO HIGH",
+      "url": "https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S"
     }
   ],
   "unique_name": "Most Men\u0151",

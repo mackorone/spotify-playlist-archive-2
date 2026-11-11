@@ -4,7 +4,7 @@
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Kunwarr
 
-2,677 songs - 5 day 16 hr 54 min
+2,678 songs - 5 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1436,6 +1436,7 @@
 | [Magic](https://open.spotify.com/track/10e8q50norTRKjCFM3xePC) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Magic](https://open.spotify.com/album/05Abr5BF3CZpcjatqNTi1p) | 3:46 | 2025-03-07 | 2025-04-05 |
 | [Magic In The Air](https://open.spotify.com/track/1C4jNezvU3l68UE5wfGXjD) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Magic In The Air](https://open.spotify.com/album/1dDTUhBd1tEI4HSwlhxJrC) | 3:25 | 2026-04-03 | 2026-05-02 |
 | [Magical Love](https://open.spotify.com/track/0O6WqAy44ODPOwqXhNEa2O) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Magical Love](https://open.spotify.com/album/26goyU4KwUGCEVJtrk3NSw) | 3:59 | 2022-02-04 | 2022-03-05 |
+| [Magicien](https://open.spotify.com/track/4WXuBCdYkeQ9cOS8obAKXL) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Magicien](https://open.spotify.com/album/6I3dLq4cdOYaQwUHoDycWq) | 3:28 | 2026-11-10 |  |
 | [Main Character](https://open.spotify.com/track/6UT5bzdmspm2noDOOxWthd) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Main Character](https://open.spotify.com/album/5x0xJxWW4Meb2M79eEHm6M) | 3:08 | 2025-06-06 | 2025-07-05 |
 | [Mainsha](https://open.spotify.com/track/5Khd1LAEU726zpzBx5paU8) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Innermission: MAGMA or A Propagandous Film by Wes Side Anderson](https://open.spotify.com/album/3K42Dnc4MxksdQnmL40WsM) | 2:49 | 2026-10-02 |  |
 | [Majimbo](https://open.spotify.com/track/0QLtUjzYUL2LWNHT5GwqBw) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Majimbo](https://open.spotify.com/album/4WpQXGqzAVXImrPQHDC5Xh) | 2:37 | 2023-06-02 | 2024-02-03 |

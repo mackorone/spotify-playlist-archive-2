@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,115 likes - 219 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009,595 likes - 219 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 218 | [Outlands](https://open.spotify.com/track/3YSjLGSKeJKyu6MV7Yrh8C) | [Lalago](https://open.spotify.com/artist/2f6F0930NeRaOGwZ5JUo5t) | [Outlands](https://open.spotify.com/album/5j7tP3qnCNSH905NKajcAR) | 2:25 |
 | 219 | [Core Equanimity](https://open.spotify.com/track/3qZBuHYRR9V9PYY1cBjrcX) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Core Equanimity](https://open.spotify.com/album/6b6r1XU6Z0oQGTckm7Stbt) | 2:50 |
 
-Snapshot ID: `AAAAAEeyxJFjy0Oa4UfBH6vxkeaf13YC`
+Snapshot ID: `AAAAAKuACNwykVoXlN3gV/DLvyg6F7+w`

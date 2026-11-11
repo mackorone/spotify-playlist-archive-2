@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 ### [RADAR Argentina](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 
-> Artistas para descubrir 📸 Maia Reficco
+> Artistas para descubrir 📸 Trouve Feraud
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,358 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,360 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ombligoO](https://open.spotify.com/track/3QNz70P7ZDov7fwvsSKQxy) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ) | [liviano](https://open.spotify.com/album/06Bt1DKpBIQhi04U3YN2Qz) | 2:38 |
-| 2 | [¡Pop!](https://open.spotify.com/track/1Wqw1spmVG9hmU8MeKH402) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [I Just Wanna Make My Daddy Proud](https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX) | 3:02 |
-| 3 | [fk7](https://open.spotify.com/track/09iTGnEQXzVuCiheh9PngC) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [fk7](https://open.spotify.com/album/4EOjkCAuzqNpiygDpuHdtO) | 2:28 |
-| 4 | [Libre](https://open.spotify.com/track/0S5UpMye9cACwgAmrsxfiO) | [Pizza](https://open.spotify.com/artist/5mPqQbrTKLRgUPNNVo47Cv) | [Así Es Como Se Hace](https://open.spotify.com/album/3bFR6xZDjSRLmaE9Xbigsx) | 2:54 |
-| 5 | [california, amor](https://open.spotify.com/track/62sQNOkVJFigrUJznPTs8t) | [BICHA](https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl) | [mojito](https://open.spotify.com/album/7F8f9XJP4su7cFkoilO6Oe) | 3:25 |
-| 6 | [PELIGRO](https://open.spotify.com/track/3KavB9Dq44BTTWQ4HXqS72) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1) | [INSTINTO](https://open.spotify.com/album/1LhDD7qksDHE9nKMCKNWXs) | 3:23 |
-| 7 | [Karaoke RIP](https://open.spotify.com/track/3abPSdJtw7YP5XNVulnlW4) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw), [Punto y Pacífico](https://open.spotify.com/artist/2Eh1KAvaiVKFDbzHh9KFhR) | [Karaoke RIP](https://open.spotify.com/album/0uqVxe6ieYdXMCafvjMD62) | 4:23 |
-| 8 | [DEBAJO DEL RUBOR](https://open.spotify.com/track/7s8jQTbEGzxCQWqCLJKCHT) | [ÁMBAR](https://open.spotify.com/artist/0ZwW9o3DtcbchRfkQTsFLy) | [MARIPOSA](https://open.spotify.com/album/6VM4kOEu1u9tEgSxgdVTVm) | 3:37 |
-| 9 | [PALABRAS DE MUJER](https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [PALABRAS DE MUJER](https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE) | 3:43 |
-| 10 | [Niña del sur](https://open.spotify.com/track/7GAi3c0MS18q9njYYIC4ON) | [Dani Rodríguez](https://open.spotify.com/artist/5Ytqx2mdkcV9h7ql5zEsVL) | [Donde respira el cielo](https://open.spotify.com/album/6FDxBNbxYxVeqOjwk5EVFi) | 1:12 |
-| 11 | [Rarísimo](https://open.spotify.com/track/1TUGLzc5WvhNS25wFmoRtq) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Rarísimo](https://open.spotify.com/album/424uFFEhXvFZYmotXosVeU) | 3:30 |
-| 12 | [Algo Más](https://open.spotify.com/track/7qMJOEx1aqEqNgIz515JlY) | [Lucyid](https://open.spotify.com/artist/1wxjc06h0Wj2VYeJAgjRsU) | [Algo Más](https://open.spotify.com/album/207q8t0suGPw8bmagNMFeE) | 2:26 |
-| 13 | [Trabajar](https://open.spotify.com/track/49m0vJkGR4oo3ZfmEiqWMh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ey, no molestes](https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw) | 2:41 |
-| 14 | [Manto Negro](https://open.spotify.com/track/0npcH5rvqo1dKr96CzLM4Q) | [Crewrod](https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk) | [Zorro Blanco Manto Negro](https://open.spotify.com/album/4N11WS9pWVr7iZwov94dpA) | 3:49 |
-| 15 | [Pienso y Declaro](https://open.spotify.com/track/7DPzjkY3cS2cv6DYi23jEb) | [Camila Pino](https://open.spotify.com/artist/5sduq9dVmsPqZrfFEuC07S), [Manu Estrada](https://open.spotify.com/artist/3iBwX6PVa8BNVoGjCIZNm9) | [A Casa](https://open.spotify.com/album/6vDdBdjMBYxfIOVdiSdlJF) | 2:41 |
-| 16 | [Mnémica](https://open.spotify.com/track/3D9DcotBuSTIyiF4UwOhqK) | [HEDONÉ](https://open.spotify.com/artist/5hv0lGqR3uvmLzCSRin4bZ), [Chiro](https://open.spotify.com/artist/5nJLhQnr9KJMJDYC9vdKTS) | [ECOS DE UN ÉXTASIS](https://open.spotify.com/album/2PUJdZX1KM14PXTyHUaXNV) | 2:48 |
-| 17 | [Canción del que nunca olvida](https://open.spotify.com/track/7ILibasyz2o2nfOAjrNk9c) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Canción del que nunca olvida](https://open.spotify.com/album/4PODmEVdLzt1xCy1kMFu6f) | 4:00 |
-| 18 | [ENCANTO](https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [ENCANTO](https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy) | 3:14 |
+| 1 | [PALABRAS DE MUJER](https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [PALABRAS DE MUJER](https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE) | 3:43 |
+| 2 | [ombligoO](https://open.spotify.com/track/3QNz70P7ZDov7fwvsSKQxy) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ) | [liviano](https://open.spotify.com/album/06Bt1DKpBIQhi04U3YN2Qz) | 2:38 |
+| 3 | [¡Pop!](https://open.spotify.com/track/1Wqw1spmVG9hmU8MeKH402) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [I Just Wanna Make My Daddy Proud](https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX) | 3:02 |
+| 4 | [fk7](https://open.spotify.com/track/09iTGnEQXzVuCiheh9PngC) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [fk7](https://open.spotify.com/album/4EOjkCAuzqNpiygDpuHdtO) | 2:28 |
+| 5 | [ENCANTO](https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [ENCANTO](https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy) | 3:14 |
+| 6 | [Libre](https://open.spotify.com/track/0S5UpMye9cACwgAmrsxfiO) | [Pizza](https://open.spotify.com/artist/5mPqQbrTKLRgUPNNVo47Cv) | [Así Es Como Se Hace](https://open.spotify.com/album/3bFR6xZDjSRLmaE9Xbigsx) | 2:54 |
+| 7 | [california, amor](https://open.spotify.com/track/62sQNOkVJFigrUJznPTs8t) | [BICHA](https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl) | [mojito](https://open.spotify.com/album/7F8f9XJP4su7cFkoilO6Oe) | 3:25 |
+| 8 | [PELIGRO](https://open.spotify.com/track/3KavB9Dq44BTTWQ4HXqS72) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1) | [INSTINTO](https://open.spotify.com/album/1LhDD7qksDHE9nKMCKNWXs) | 3:23 |
+| 9 | [Karaoke RIP](https://open.spotify.com/track/3abPSdJtw7YP5XNVulnlW4) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw), [Punto y Pacífico](https://open.spotify.com/artist/2Eh1KAvaiVKFDbzHh9KFhR) | [Karaoke RIP](https://open.spotify.com/album/0uqVxe6ieYdXMCafvjMD62) | 4:23 |
+| 10 | [DEBAJO DEL RUBOR](https://open.spotify.com/track/7s8jQTbEGzxCQWqCLJKCHT) | [ÁMBAR](https://open.spotify.com/artist/0ZwW9o3DtcbchRfkQTsFLy) | [MARIPOSA](https://open.spotify.com/album/6VM4kOEu1u9tEgSxgdVTVm) | 3:37 |
+| 11 | [Niña del sur](https://open.spotify.com/track/7GAi3c0MS18q9njYYIC4ON) | [Dani Rodríguez](https://open.spotify.com/artist/5Ytqx2mdkcV9h7ql5zEsVL) | [Donde respira el cielo](https://open.spotify.com/album/6FDxBNbxYxVeqOjwk5EVFi) | 1:12 |
+| 12 | [Rarísimo](https://open.spotify.com/track/1TUGLzc5WvhNS25wFmoRtq) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Rarísimo](https://open.spotify.com/album/424uFFEhXvFZYmotXosVeU) | 3:30 |
+| 13 | [Algo Más](https://open.spotify.com/track/7qMJOEx1aqEqNgIz515JlY) | [Lucyid](https://open.spotify.com/artist/1wxjc06h0Wj2VYeJAgjRsU) | [Algo Más](https://open.spotify.com/album/207q8t0suGPw8bmagNMFeE) | 2:26 |
+| 14 | [Trabajar](https://open.spotify.com/track/49m0vJkGR4oo3ZfmEiqWMh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ey, no molestes](https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw) | 2:41 |
+| 15 | [Manto Negro](https://open.spotify.com/track/0npcH5rvqo1dKr96CzLM4Q) | [Crewrod](https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk) | [Zorro Blanco Manto Negro](https://open.spotify.com/album/4N11WS9pWVr7iZwov94dpA) | 3:49 |
+| 16 | [Pienso y Declaro](https://open.spotify.com/track/7DPzjkY3cS2cv6DYi23jEb) | [Camila Pino](https://open.spotify.com/artist/5sduq9dVmsPqZrfFEuC07S), [Manu Estrada](https://open.spotify.com/artist/3iBwX6PVa8BNVoGjCIZNm9) | [A Casa](https://open.spotify.com/album/6vDdBdjMBYxfIOVdiSdlJF) | 2:41 |
+| 17 | [Mnémica](https://open.spotify.com/track/3D9DcotBuSTIyiF4UwOhqK) | [HEDONÉ](https://open.spotify.com/artist/5hv0lGqR3uvmLzCSRin4bZ), [Chiro](https://open.spotify.com/artist/5nJLhQnr9KJMJDYC9vdKTS) | [ECOS DE UN ÉXTASIS](https://open.spotify.com/album/2PUJdZX1KM14PXTyHUaXNV) | 2:48 |
+| 18 | [Canción del que nunca olvida](https://open.spotify.com/track/7ILibasyz2o2nfOAjrNk9c) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Canción del que nunca olvida](https://open.spotify.com/album/4PODmEVdLzt1xCy1kMFu6f) | 4:00 |
 | 19 | [Ángel](https://open.spotify.com/track/3kkwI7KE3MMo5GVDqJuuyp) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Ángel](https://open.spotify.com/album/55ksPAqOEAjS4OiN9EK88x) | 2:45 |
 | 20 | [SITDOWN](https://open.spotify.com/track/78lGsPNlOrqrpLQfXw5PEX) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1) | [SITDOWN](https://open.spotify.com/album/2p4lSSlmfH4mhLn6LC53mI) | 2:20 |
 | 21 | [Ya Me Vencí](https://open.spotify.com/track/6y6WWTwj1p8ByI7xTAGGlV) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Ya Me Vencí](https://open.spotify.com/album/73hOaQpC4uWD8iMJV6PODY) | 3:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 84 | [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 |
 | 85 | [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 |
 
-Snapshot ID: `AAAAAO7bARyzbA2+ppjojeJBYXOWMS77`
+Snapshot ID: `AAAAALUVVL2tHFyq72FV6Ad8zFBFdUq5`

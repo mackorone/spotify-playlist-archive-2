@@ -1,12 +1,12 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 83654,
+  "num_followers": 83657,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFrH1xcgsPrDlVfkSyHUitoyKw32",
+  "snapshot_id": "AAAAAHxvtwj3Wu6cZgy0Vglp5ONi9cnv",
   "tracks": [
     {
       "added_at": "2026-09-17 14:01:29",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "peach eyes",
+      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
         "name": "Hell N Back (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "peach eyes",
-      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Fuck The Pain Away (Lost Tapes 2022)",
         "url": "https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 137142,
       "name": "Fuck The Pain Away (Lost Tapes 2022)",
       "url": "https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/2kkEMXsGVuWC36UClM5A7B"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0D3dVIPNOlzZ2vjUeBX12Q"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Toroka",
         "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 202075,
       "name": "Toroka",
       "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/2kkEMXsGVuWC36UClM5A7B"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0D3dVIPNOlzZ2vjUeBX12Q"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "pretty",
         "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 166849,
       "name": "breath away",
       "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Ain't I Good For You",
-        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "Ain't I Good For You",
-      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 135013,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Ain't I Good For You",
+        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 161805,
+      "name": "Ain't I Good For You",
+      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
     }
   ],
   "unique_name": "crush",

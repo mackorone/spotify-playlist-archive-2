@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 228703,
+  "num_followers": 228719,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHRBOzsts59M5FqvO0EEtZnfsOzt",
+  "snapshot_id": "AAAAACe+frrfEZDPOTJlBt79zfYezuow",
   "tracks": [
     {
       "added_at": "2025-01-17 05:01:06",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Anoyo",
-        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 288802,
-      "name": "Into the void",
-      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Anoyo",
+        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 288802,
+      "name": "Into the void",
+      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/2WkPJh5pGbUX0PDjrrNvmA"
     },
     {
-      "added_at": "2024-05-30 01:04:31",
-      "album": {
-        "name": "Even Stars Explode",
-        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Even Stars Explode",
-      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Land III",
@@ -887,6 +871,22 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
+    },
+    {
+      "added_at": "2024-05-30 01:04:31",
+      "album": {
+        "name": "Even Stars Explode",
+        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Even Stars Explode",
+      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Goatherder",
-        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
-      },
-      "artists": [
-        {
-          "name": "Capitol K",
-          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
-        }
-      ],
-      "duration_ms": 239794,
-      "name": "Landlocked",
-      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 386000,
       "name": "Labyrinth (Exit)",
       "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Goatherder",
+        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
+      },
+      "artists": [
+        {
+          "name": "Capitol K",
+          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
+        }
+      ],
+      "duration_ms": 239794,
+      "name": "Landlocked",
+      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Eternal Night",
-        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
+        "name": "A Biochemical Cascade",
+        "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
       },
       "artists": [
         {
-          "name": "Microhm",
-          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
+          "name": "Yann Novak",
+          "url": "https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w"
         }
       ],
-      "duration_ms": 435004,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
+      "duration_ms": 514000,
+      "name": "A Biochemical Cascade",
+      "url": "https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "A Biochemical Cascade",
-        "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
+        "name": "Eternal Night",
+        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
       },
       "artists": [
         {
-          "name": "Yann Novak",
-          "url": "https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w"
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
         }
       ],
-      "duration_ms": 514000,
-      "name": "A Biochemical Cascade",
-      "url": "https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm"
+      "duration_ms": 435004,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1283,6 +1283,22 @@
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Haust",
+        "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
+        }
+      ],
+      "duration_ms": 301007,
+      "name": "Haust",
+      "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Haust",
-        "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
+        "name": "Soundtracks: Capri-Revolution",
+        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
       },
       "artists": [
         {
-          "name": "Tomasz Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
         }
       ],
-      "duration_ms": 301007,
-      "name": "Haust",
-      "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
+      "duration_ms": 183063,
+      "name": "Silia",
+      "url": "https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1359,38 +1375,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Soundtracks: Capri-Revolution",
-        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
-      },
-      "artists": [
-        {
-          "name": "Apparat",
-          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
-        }
-      ],
-      "duration_ms": 183063,
-      "name": "Silia",
-      "url": "https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Murmur (Machinefabriek Remix)",
         "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 241000,
       "name": "Murmur - Machinefabriek Remix",
       "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Birthmark",
-        "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
-      },
-      "artists": [
-        {
-          "name": "Minotauro",
-          "url": "https://open.spotify.com/artist/25adRravBvCxFrjrs3527m"
-        }
-      ],
-      "duration_ms": 189525,
-      "name": "Birthmark",
-      "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Overlay (KMRU Remix)",
         "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 305353,
       "name": "Overlay - KMRU Remix",
       "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Birthmark",
+        "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
+      },
+      "artists": [
+        {
+          "name": "Minotauro",
+          "url": "https://open.spotify.com/artist/25adRravBvCxFrjrs3527m"
+        }
+      ],
+      "duration_ms": 189525,
+      "name": "Birthmark",
+      "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Inner Rage",
+        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
+      },
+      "artists": [
+        {
+          "name": "Edgar Mondrag\u00f3n",
+          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
+        }
+      ],
+      "duration_ms": 374679,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Sketches of Nowhere",
         "url": "https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Inner Rage",
-        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
-      },
-      "artists": [
-        {
-          "name": "Edgar Mondrag\u00f3n",
-          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
-        }
-      ],
-      "duration_ms": 374679,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Paisajes en Saturno",
         "url": "https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Limits",
-        "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
-      },
-      "artists": [
-        {
-          "name": "Andrew Tasselmyer",
-          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Possibilities",
-      "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Spheres (Original Score)",
         "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 223898,
       "name": "Accretion Disk",
       "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tasselmyer",
+          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Possibilities",
+      "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
     },
     {
       "added_at": "2023-04-21 14:41:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. RIP Magic on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,308 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,349 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 74 | [One](https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm) | [Modise Sekgothe](https://open.spotify.com/artist/19xYGHhFoNER9GR8sgUpo4), [Siya Makuzeni](https://open.spotify.com/artist/6v9uhvfn5BnIsBCKf4Mq8k), [Shane Cooper](https://open.spotify.com/artist/49JnjDWq7kySXbzplQsnhN) | [One](https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx) | 5:10 |
 | 75 | [side b](https://open.spotify.com/track/6GiDOYI1Qk7A6GY4XJYSfv) | [calamity](https://open.spotify.com/artist/2R5sX9pM0oTSCqDBibpvf8) | [cows & horses](https://open.spotify.com/album/2q8Z3PSAZCBHzWx6Msl34u) | 2:34 |
 
-Snapshot ID: `AAAAAAWeCZ/m1Vk/YxafjQvXehjiBmf9`
+Snapshot ID: `AAAAAFPybxPYRS/6TtuoQWprLtH/uEP3`

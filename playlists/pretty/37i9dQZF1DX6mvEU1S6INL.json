@@ -1,12 +1,12 @@
 {
   "description": "It's just us.",
-  "num_followers": 1141908,
+  "num_followers": 1141904,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKZSos6d1huVnlXBbFsj3nBn8gY",
+  "snapshot_id": "AAAAANmn2LuPrJX3i5J+XCSGKrd6FM5o",
   "tracks": [
     {
       "added_at": "2026-02-18 18:45:42",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Tiny Moves",
         "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Cold War Kids",
-        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 192654,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Love Songs Drug Songs",
         "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 321386,
       "name": "Litost",
       "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Cold War Kids",
+        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 192654,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Sadnecessary",
-        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting On You)",
       "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Sadnecessary",
+        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Every Kingdom (Deluxe Version)",
         "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Just Say When (Version 2.0)",
         "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 224343,
       "name": "Just Say When (Version 2.0)",
       "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 265962,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
     }
   ],
   "unique_name": "You & Me",

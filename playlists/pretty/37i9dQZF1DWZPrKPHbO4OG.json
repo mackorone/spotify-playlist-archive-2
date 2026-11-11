@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39961,
+  "num_followers": 39975,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAGJoqPFqmp8bLNxRQQBcnokOMaC",
+  "snapshot_id": "AAAAAAPNYXPgbNYrFLTPKAp0LVCGNXEM",
   "tracks": [
     {
       "added_at": "2026-09-24 07:16:44",
@@ -563,30 +563,6 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
-        "name": "Govyachya Kinaryav",
-        "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
-      },
-      "artists": [
-        {
-          "name": "Shubhangii Kedar",
-          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
-        },
-        {
-          "name": "Pravin Koli",
-          "url": "https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU"
-        },
-        {
-          "name": "Rajneesh Patel",
-          "url": "https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Govyachya Kinaryav",
-      "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
         "name": "Ghotala Ghotala Zala (From \"Partu\")",
         "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 261120,
       "name": "Ghotala Ghotala Zala - From \"Partu\"",
       "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
+        "name": "Govyachya Kinaryav",
+        "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
+      },
+      "artists": [
+        {
+          "name": "Shubhangii Kedar",
+          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
+        },
+        {
+          "name": "Pravin Koli",
+          "url": "https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU"
+        },
+        {
+          "name": "Rajneesh Patel",
+          "url": "https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Govyachya Kinaryav",
+      "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
     },
     {
       "added_at": "2026-09-24 07:16:44",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Ajay - Atul Hits",
+        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 306464,
+      "name": "Kombdi Palali - From \"Jatra\"",
+      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 240000,
       "name": "Majhi Navri",
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 306464,
-      "name": "Kombdi Palali - From \"Jatra\"",
-      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
     },
     {
       "added_at": "2026-09-24 07:16:44",

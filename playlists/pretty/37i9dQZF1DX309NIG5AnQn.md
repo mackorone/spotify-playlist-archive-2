@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Luz y Fuerza
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,163 likes - 120 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,165 likes - 120 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 119 | [Ni una Gota](https://open.spotify.com/track/7lOSHFxrXeSytW5h7wSXUw) | [Greta y Las Voces](https://open.spotify.com/artist/4u76xWlIJyMecs3oRMv8Xo) | [No Volver a Perder](https://open.spotify.com/album/7v64pkN48rwUk5m4O4Eagu) | 3:49 |
 | 120 | [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 |
 
-Snapshot ID: `AAAAAK20TMyu3erREQhweR+zagIEbuqr`
+Snapshot ID: `AAAAAHJfKuOVH9Fxpieik2EiXynKxNDB`

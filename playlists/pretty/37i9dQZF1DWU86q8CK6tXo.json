@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: The Womack Sisters",
-  "num_followers": 65651,
+  "num_followers": 65653,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOyzVMWbtL9Vez/1W0FEVzBj05I",
+  "snapshot_id": "AAAAAMArIRe1/W0j+z/+lTtvC1z6P347",
   "tracks": [
     {
       "added_at": "2026-11-08 19:40:25",
@@ -259,6 +259,26 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
+        "name": "Jiggly Bow Bow (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 164050,
+      "name": "Jiggly Bow Bow (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
         "name": "Bones and All",
         "url": "https://open.spotify.com/album/1EShGQK7TXutid3iDDZPUS"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 153048,
       "name": "Too Bo$$y",
       "url": "https://open.spotify.com/track/1IFK4fgCXVzl2WmrcXO7J5"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
-        "name": "Jiggly Bow Bow (with Sexyy Red)",
-        "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 164050,
-      "name": "Jiggly Bow Bow (with Sexyy Red)",
-      "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 184793,
+      "name": "BANDERA BLANCA",
+      "url": "https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
         "name": "Nothing Into Something",
         "url": "https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 141885,
       "name": "Nothing Into Something",
       "url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
-        "name": "BARAJA BENDITA",
-        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 184793,
-      "name": "BANDERA BLANCA",
-      "url": "https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -507,6 +507,22 @@
       "duration_ms": 201202,
       "name": "gloria!",
       "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "Throw That Money",
+        "url": "https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Throw That Money",
+      "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -555,6 +571,22 @@
       "duration_ms": 195145,
       "name": "Any Place In Time",
       "url": "https://open.spotify.com/track/0Y72XLGZnYGDeUfFwXvxCS"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "A Girl Is A Gun",
+        "url": "https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "A Girl Is A Gun",
+      "url": "https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -627,38 +659,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Throw That Money",
-        "url": "https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Throw That Money",
-      "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
-        "name": "A Girl Is A Gun",
-        "url": "https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB"
-      },
-      "artists": [
-        {
-          "name": "Molly Santana",
-          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "A Girl Is A Gun",
-      "url": "https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "Shipwrecked",
         "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
       },
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
+        "name": "Mad Big World",
+        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
         "name": "Used To Be",
         "url": "https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Mad Big World",
-        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
+        "name": "Spin Back",
+        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
+      "duration_ms": 192396,
+      "name": "Spin Back",
+      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -755,18 +771,18 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Spin Back",
-        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
         }
       ],
-      "duration_ms": 192396,
-      "name": "Spin Back",
-      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
+      "duration_ms": 262401,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 262401,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Next to U",
-        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 176028,
-      "name": "Next to U",
-      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "Accelerator",
         "url": "https://open.spotify.com/album/5ewq7Et7TBRwMpfe8isABW"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 179008,
       "name": "Accelerator",
       "url": "https://open.spotify.com/track/7gDi0QqxumuoiZDvjtX4et"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "Next to U",
+        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 176028,
+      "name": "Next to U",
+      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
     },
     {
       "added_at": "2026-11-08 19:40:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Galdive \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,223 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,225 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [The Center of the Universe](https://open.spotify.com/track/205W9FfI57PsJDE1BfntWb) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [The Center of the Universe](https://open.spotify.com/album/1GdrXGEvM3JsqIAUwuTkZH) | 3:22 |
 | 100 | [Caroline](https://open.spotify.com/track/2d9x6rkpmHHvij9x3ZwOz5) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Caroline](https://open.spotify.com/album/23Nqf1f0vBrhOET902Anet) | 3:15 |
 
-Snapshot ID: `AAAAAOMFCPHn1uyaAG9hd9UZFuwqdXXr`
+Snapshot ID: `AAAAACxEcIhcwEjEkC4A+lfe6B2Fzmfl`

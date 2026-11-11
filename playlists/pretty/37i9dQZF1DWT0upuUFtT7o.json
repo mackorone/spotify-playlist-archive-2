@@ -1,13 +1,173 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: RIP Magic",
-  "num_followers": 261031,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Eilish Constance ",
+  "num_followers": 261064,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEBlwNdQKUqTTuM9J5TO28+g3h89",
+  "snapshot_id": "AAAAAK/P8wchAez+ZUPNKNhs8NLFbfN1",
   "tracks": [
+    {
+      "added_at": "2026-11-11 01:05:43",
+      "album": {
+        "name": "You Are Mistaken",
+        "url": "https://open.spotify.com/album/7sZdxP9xS6qCM56DvNu6Go"
+      },
+      "artists": [
+        {
+          "name": "Loch Raven",
+          "url": "https://open.spotify.com/artist/71SCoEHvwvLluq5KSyl5ia"
+        }
+      ],
+      "duration_ms": 250953,
+      "name": "You Are Mistaken",
+      "url": "https://open.spotify.com/track/5FO51sTJlUfUmx5BTT4uG2"
+    },
+    {
+      "added_at": "2026-11-11 01:05:43",
+      "album": {
+        "name": "Most Likely",
+        "url": "https://open.spotify.com/album/1OQizYD8KIkRSmD1U3m9Vg"
+      },
+      "artists": [
+        {
+          "name": "swell foop",
+          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
+        }
+      ],
+      "duration_ms": 191802,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1fNKvkFoz5O2XggQCRR57G"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Shut up!",
+        "url": "https://open.spotify.com/album/1X9W4ApXYjmGDzxhli289v"
+      },
+      "artists": [
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Shut up!",
+      "url": "https://open.spotify.com/track/6b8fpbaD1gNQE8yxfvGegq"
+    },
+    {
+      "added_at": "2026-11-11 01:05:43",
+      "album": {
+        "name": "lyre",
+        "url": "https://open.spotify.com/album/5Nqa0C4Z2vvZz6bZb2pKoC"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "lyre",
+      "url": "https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP"
+    },
+    {
+      "added_at": "2026-10-21 16:00:08",
+      "album": {
+        "name": "JDO",
+        "url": "https://open.spotify.com/album/6QLuRHFCLUSfUkDqe9Iumq"
+      },
+      "artists": [
+        {
+          "name": "Jonny's Day Out",
+          "url": "https://open.spotify.com/artist/0xY8XemCP3i1SaSciB5YbK"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Seabiscuit",
+      "url": "https://open.spotify.com/track/2CxXVh2ENoDbaATNz97BC5"
+    },
+    {
+      "added_at": "2026-11-11 01:05:43",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3a7ggPhwRnYn73uCJ0qQ44"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "duration_ms": 162698,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/6pKOiHEMUgqNKl4qqspjJF"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Sometimes I Get Emotional",
+        "url": "https://open.spotify.com/album/5kNMRxLIn7Z3Sr2cGTaL9W"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Sometimes I Get Emotional",
+      "url": "https://open.spotify.com/track/7uAD2mlombVXT7JsZ3yexr"
+    },
+    {
+      "added_at": "2026-11-11 01:05:43",
+      "album": {
+        "name": "Lighter in the Morning (3/2)",
+        "url": "https://open.spotify.com/album/7orKgFCGLUGdRvVIEDJzvV"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4hdCsdiCLesBNZygxCzOUq"
+    },
+    {
+      "added_at": "2026-10-21 16:00:08",
+      "album": {
+        "name": "Stick Around For Tea",
+        "url": "https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU"
+      },
+      "artists": [
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0YwtsLxxci8s57omyhPvfV"
+    },
+    {
+      "added_at": "2026-11-11 01:05:43",
+      "album": {
+        "name": "I Am God",
+        "url": "https://open.spotify.com/album/7qUhXBrMILFJCFziNaJPOP"
+      },
+      "artists": [
+        {
+          "name": "Petra",
+          "url": "https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "I Am God",
+      "url": "https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34"
+    },
     {
       "added_at": "2026-11-04 19:01:17",
       "album": {
@@ -71,22 +231,6 @@
       "duration_ms": 204407,
       "name": "Aritzia Sweater",
       "url": "https://open.spotify.com/track/18ftfb0u6bSa2Dks47ohTC"
-    },
-    {
-      "added_at": "2026-10-21 16:00:08",
-      "album": {
-        "name": "JDO",
-        "url": "https://open.spotify.com/album/6QLuRHFCLUSfUkDqe9Iumq"
-      },
-      "artists": [
-        {
-          "name": "Jonny's Day Out",
-          "url": "https://open.spotify.com/artist/0xY8XemCP3i1SaSciB5YbK"
-        }
-      ],
-      "duration_ms": 209490,
-      "name": "Seabiscuit",
-      "url": "https://open.spotify.com/track/2CxXVh2ENoDbaATNz97BC5"
     },
     {
       "added_at": "2026-11-04 19:01:17",
@@ -153,22 +297,6 @@
       "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
-      "added_at": "2026-10-21 16:00:08",
-      "album": {
-        "name": "Stick Around For Tea",
-        "url": "https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU"
-      },
-      "artists": [
-        {
-          "name": "Worldpeace DMT",
-          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0YwtsLxxci8s57omyhPvfV"
-    },
-    {
       "added_at": "2026-10-28 04:00:08",
       "album": {
         "name": "Goblin's Head",
@@ -183,22 +311,6 @@
       "duration_ms": 173333,
       "name": "Goblin's Head",
       "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
-    },
-    {
-      "added_at": "2026-11-04 19:01:17",
-      "album": {
-        "name": "Shut up!",
-        "url": "https://open.spotify.com/album/1X9W4ApXYjmGDzxhli289v"
-      },
-      "artists": [
-        {
-          "name": "Eilish Constance",
-          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Shut up!",
-      "url": "https://open.spotify.com/track/6b8fpbaD1gNQE8yxfvGegq"
     },
     {
       "added_at": "2026-10-14 14:26:50",
@@ -279,22 +391,6 @@
       "duration_ms": 232000,
       "name": "Let the Bad Times Roll",
       "url": "https://open.spotify.com/track/0YQ6QyPdJEhn9lyyGpdPAx"
-    },
-    {
-      "added_at": "2026-11-04 19:01:17",
-      "album": {
-        "name": "Sometimes I Get Emotional",
-        "url": "https://open.spotify.com/album/5kNMRxLIn7Z3Sr2cGTaL9W"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Sometimes I Get Emotional",
-      "url": "https://open.spotify.com/track/7uAD2mlombVXT7JsZ3yexr"
     },
     {
       "added_at": "2026-10-21 16:00:08",
@@ -1073,22 +1169,6 @@
       "url": "https://open.spotify.com/track/63x0wCEHzeNWb7IKhfps9D"
     },
     {
-      "added_at": "2026-09-23 04:00:21",
-      "album": {
-        "name": "I Get Scared",
-        "url": "https://open.spotify.com/album/0PTnB08T0beVbtKnLgEVOw"
-      },
-      "artists": [
-        {
-          "name": "Brilliant Gun",
-          "url": "https://open.spotify.com/artist/4IiBh9OlsupE192ZUJNrBw"
-        }
-      ],
-      "duration_ms": 145530,
-      "name": "I Get Scared",
-      "url": "https://open.spotify.com/track/56uhIhwJVbjHGQxQGyXf4W"
-    },
-    {
       "added_at": "2026-09-30 13:53:53",
       "album": {
         "name": "Werewolf",
@@ -1103,6 +1183,22 @@
       "duration_ms": 101875,
       "name": "Bedhead",
       "url": "https://open.spotify.com/track/5FI5m1QGEign7uvqDmqS9p"
+    },
+    {
+      "added_at": "2026-08-26 17:29:15",
+      "album": {
+        "name": "hey fever",
+        "url": "https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG"
+      },
+      "artists": [
+        {
+          "name": "Whu Else",
+          "url": "https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML"
+        }
+      ],
+      "duration_ms": 122416,
+      "name": "hey fever",
+      "url": "https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl"
     },
     {
       "added_at": "2026-09-30 13:53:53",
@@ -1203,22 +1299,6 @@
       "duration_ms": 100909,
       "name": "habitual line stepper and the golden dawn",
       "url": "https://open.spotify.com/track/4ZwFAoKy6mpUdhqvpDS28M"
-    },
-    {
-      "added_at": "2026-08-26 17:29:15",
-      "album": {
-        "name": "hey fever",
-        "url": "https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG"
-      },
-      "artists": [
-        {
-          "name": "Whu Else",
-          "url": "https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML"
-        }
-      ],
-      "duration_ms": 122416,
-      "name": "hey fever",
-      "url": "https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl"
     }
   ],
   "unique_name": "Fresh Finds Indie",

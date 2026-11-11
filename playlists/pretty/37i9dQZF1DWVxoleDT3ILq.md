@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Anttonias en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,879 likes - 63 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,859 likes - 63 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 62 | [Mi Pequeño Dolor](https://open.spotify.com/track/4bScAQs2iqvXNGIHSYeTKk) | [Laura sad](https://open.spotify.com/artist/4IRXvbsbSP4oHm4adUdQlt), [Ninja Nigro](https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu) | [Mi Pequeño Dolor](https://open.spotify.com/album/2YiAUdgxh0dCQLbTWnASG0) | 2:28 |
 | 63 | [roger](https://open.spotify.com/track/4rUJUCW9QdNVijNY1ifzop) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [roger](https://open.spotify.com/album/0bwLHbRjrKW9uituCrG4q7) | 2:52 |
 
-Snapshot ID: `AAAAAErV6u8x8btrnZC7jzCXB7nMqkW/`
+Snapshot ID: `AAAAACiq4EGS/QHek5PF2zjeFyUVbv+Z`

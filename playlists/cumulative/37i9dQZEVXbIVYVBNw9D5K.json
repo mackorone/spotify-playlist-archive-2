@@ -7888,7 +7888,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 148363,
       "name": "CRUSH!",
       "url": "https://open.spotify.com/track/4uFIhAOi62bRG1OhmQfDB9"
@@ -7986,7 +7986,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 198595,
       "name": "Daha \u0130yi",
       "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT"
@@ -12028,7 +12028,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Geri Ver",
       "url": "https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP"
@@ -26324,7 +26324,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 264000,
       "name": "Senden Adam Olmaz",
       "url": "https://open.spotify.com/track/4X9NLFpBdwWWruSSMjkzia"
@@ -30402,7 +30402,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 151318,
       "name": "Yang\u0131n Yeri",
       "url": "https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg"
@@ -31426,6 +31426,24 @@
       "duration_ms": 311569,
       "name": "Yok Ba\u015fka Hayalim",
       "url": "https://open.spotify.com/track/3AGAoso8lDhWMMyXeUAggX"
+    },
+    {
+      "album": {
+        "name": "Yok B\u00f6yle Bir \u015eey",
+        "url": "https://open.spotify.com/album/4ZUn9flp7jYYJbPJdGAHBW"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zer Atik",
+          "url": "https://open.spotify.com/artist/14ZEZKst5jpR651ee0I9Ho"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Yok B\u00f6yle Bir \u015eey",
+      "url": "https://open.spotify.com/track/04eUgjmEIedzfGHpRq0IRm"
     },
     {
       "album": {

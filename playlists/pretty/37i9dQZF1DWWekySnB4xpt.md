@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Foto: Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,887 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,803 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 84 | [Dame Tu Amor](https://open.spotify.com/track/1gT4h8bz6nKs39oQ8b2uwB) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Da Capo](https://open.spotify.com/album/5necXB57Rq5a4rtzv9ndqH) | 3:38 |
 | 85 | [Secreto](https://open.spotify.com/track/5bvBnLBzfBR3rLtArdiclG) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [8](https://open.spotify.com/album/2JnQQ4NCgc9mN2F0LJkQxl) | 3:20 |
 
-Snapshot ID: `AAAAAAHOS1G0r2E35T2neDwyqncBc0Df`
+Snapshot ID: `AAAAAPP1WeH0r4qTZq1h6WbV1gQsIR25`

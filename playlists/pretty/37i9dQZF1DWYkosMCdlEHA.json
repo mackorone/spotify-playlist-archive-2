@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 155485,
+  "num_followers": 155502,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGQSyZQJKLl/TaC/ABb2XfuTeItN",
+  "snapshot_id": "AAAAAEFInwlF3OIaAsjfeLp9gToyguGq",
   "tracks": [
     {
       "added_at": "2026-07-02 21:47:25",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "duration_ms": 325024,
+      "name": "Reggae do Manero - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "Sess\u00e3o Da Tarde",
         "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 325024,
-      "name": "Reggae do Manero - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5"
     },
     {
       "added_at": "2026-07-02 21:47:25",

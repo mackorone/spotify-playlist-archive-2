@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,501 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,500 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 20 | [Tanbur & Duduk Taksimi](https://open.spotify.com/track/6G7zn10Pu1kNK6tMLnYeGw) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 2:25 |
 | 21 | [Hüseyni Peşrev](https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI) | [Münip Utandı](https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR) | [Sevda Yolunda](https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf) | 1:39 |
 | 22 | [Dök Zülfünü Meydana Gel](https://open.spotify.com/track/7e8ihILPkAN4K4N8yAgxo7) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 2:34 |
-| 23 | [Huseyni Saz Semai](https://open.spotify.com/track/4bxsHSVu34gupDh8FURPUI) | [Kemani Tatyos Efendi](https://open.spotify.com/artist/5zC5D5MnFku3ZxgVKFLTsA) | [Works Of Kemani Tatyos Efendi \-\- Kudsi Erguner Ensemble](https://open.spotify.com/album/3pPQGts1DHyuVF1CoeMXp4) | 4:38 |
-| 24 | [Tanburi Taksimi](https://open.spotify.com/track/5Q1RDEu5zzGbcMrpfnOcc4) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 1:50 |
+| 23 | [Tanburi Taksimi](https://open.spotify.com/track/5Q1RDEu5zzGbcMrpfnOcc4) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 1:50 |
+| 24 | [Huseyni Saz Semai](https://open.spotify.com/track/4bxsHSVu34gupDh8FURPUI) | [Kemani Tatyos Efendi](https://open.spotify.com/artist/5zC5D5MnFku3ZxgVKFLTsA) | [Works Of Kemani Tatyos Efendi \-\- Kudsi Erguner Ensemble](https://open.spotify.com/album/3pPQGts1DHyuVF1CoeMXp4) | 4:38 |
 | 25 | [Buselik Beste 'Her Gördüğü Periye Gönül Müptela Olur'](https://open.spotify.com/track/4Hwx1AaqcuwDjramuaGqXj) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 4:53 |
 | 26 | [Tanbur Taksimi](https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 2:56 |
 | 27 | [Sultaniyegah Saz Seması](https://open.spotify.com/track/2UI4Zjg6Ws1ZR8cS9OMibu) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:31 |
-| 28 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 |
-| 29 | [Suzidilara Saz Semaisi](https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 4:09 |
+| 28 | [Suzidilara Saz Semaisi](https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 4:09 |
+| 29 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 |
 | 30 | [Segah Salat\-ı Ümmiye](https://open.spotify.com/track/0Tbe6GqO843vSMeiHu0yU9) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 1:43 |
 | 31 | [Nihavend Saz Semaisi](https://open.spotify.com/track/3s5MUsla602JbLy9TFLUl4) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:47 |
 | 32 | [Sultaniyegah Taksim](https://open.spotify.com/track/5J2bmapoi3PiXvnL2zz4yH) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 49 | [Serenat \(Hicaz Medhal\)](https://open.spotify.com/track/4IkhBy75cKywj3mXbH9uig) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ), [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 3:41 |
 | 50 | [Hüzzam Saz Semai](https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am) | [Ahmet Özhan](https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78) | [Ahmet Özhan](https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX) | 1:24 |
 
-Snapshot ID: `AAAAABc9ylhiL9CO08au4cM7oLvItsRy`
+Snapshot ID: `AAAAAPUmfbvLaFM3tV9TJ6VdL+lUXPoH`

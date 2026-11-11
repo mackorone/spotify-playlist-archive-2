@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Issah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,294 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,352 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Paysage](https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Paysage](https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ) | 2:52 |
 | 50 | [JURU](https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JURU](https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE) | 3:08 |
 
-Snapshot ID: `AAAAAIq0D+j11UcOiEat1P9QG+npTUel`
+Snapshot ID: `AAAAAO4uEHqBhYI8g7BDIy/evFjyL3mQ`

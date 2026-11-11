@@ -5664,7 +5664,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq"
@@ -7458,6 +7458,24 @@
       "duration_ms": 224173,
       "name": "Good Girls (Don't Go on Trees) [feat. Big Sean]",
       "url": "https://open.spotify.com/track/0CTfbIrKCW5OHWttEGaLDH"
+    },
+    {
+      "album": {
+        "name": "Greetings From California",
+        "url": "https://open.spotify.com/album/4E8FYdC6ekOozf1eQLkrFI"
+      },
+      "artists": [
+        {
+          "name": "The Madden Brothers",
+          "url": "https://open.spotify.com/artist/4Bpnj2DwK3G8hugE1rxZeY"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242405,
+      "name": "Good Gracious Abbey",
+      "url": "https://open.spotify.com/track/1H6DBN0BfXfTEmIs4hD2uO"
     },
     {
       "album": {
@@ -10974,7 +10992,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 260291,
       "name": "L'EGO Odyssey",
       "url": "https://open.spotify.com/track/7rrxHo95zOEbxtSGPlIRzl"

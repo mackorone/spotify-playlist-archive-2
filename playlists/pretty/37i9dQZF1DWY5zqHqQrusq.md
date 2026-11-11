@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Iken
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,790 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,791 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Fly](https://open.spotify.com/track/1RboxJGwwhPee5v79GH8fJ) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Onyach Pala](https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U) | [Fly](https://open.spotify.com/album/2KQudMxXH2DVX533i2o8Gp) | 3:40 |
 | 50 | [Wema](https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD) | [nk\_njoroge](https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6) | [Wema](https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7) | 2:23 |
 
-Snapshot ID: `AAAAAF8qMF3bA3o0KkmSzdDZ4Xc6XEsE`
+Snapshot ID: `AAAAAMDZnrzqSeKn2WUNAv5cNFYoDr4i`

@@ -1,12 +1,12 @@
 {
   "description": "100% indie floorfillers.",
-  "num_followers": 458698,
+  "num_followers": 458701,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGucJg7vK1o8gYGLNqRVkT2ZSVwP",
+  "snapshot_id": "AAAAAJ+6o7k5iXh1LCTTa/fjcppeLm5j",
   "tracks": [
     {
       "added_at": "2024-12-20 01:31:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 271969,
-      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
-    },
-    {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -949,20 +933,20 @@
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
+      "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 290173,
-      "name": "The Bay",
-      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
+      "duration_ms": 271969,
+      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -979,6 +963,22 @@
       "duration_ms": 264546,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 290173,
+      "name": "The Bay",
+      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
         "name": "Murder on the Dancefloor (triple j Like A Version)",
         "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 180872,
       "name": "Murder on the Dancefloor - triple j Like A Version",
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Myths Of The Near Future",
-        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
-      },
-      "artists": [
-        {
-          "name": "Klaxons",
-          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Golden Skans",
-      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Light & Magic",
         "url": "https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 277866,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 223858,
-      "name": "Isombard",
-      "url": "https://open.spotify.com/track/3aP1BuaScFyqfqST2KB3VN"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Mountainhead",
         "url": "https://open.spotify.com/album/1s3ypfinSBGQl36cJSRjOv"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 231466,
       "name": "Cold Reactor",
       "url": "https://open.spotify.com/track/0WprcCQhZuJBU2KR1h8tRh"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 223858,
+      "name": "Isombard",
+      "url": "https://open.spotify.com/track/3aP1BuaScFyqfqST2KB3VN"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2193,22 +2193,6 @@
       "url": "https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/0K2dRcqHdWYUe1KjFIYglJ"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/7EZ8gPvzFfKXGklRmHCu9b"
-    },
-    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Every Open Eye",
@@ -2239,6 +2223,22 @@
       "duration_ms": 221693,
       "name": "Distant Past",
       "url": "https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/0K2dRcqHdWYUe1KjFIYglJ"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/7EZ8gPvzFfKXGklRmHCu9b"
     },
     {
       "added_at": "2024-12-20 01:31:11",

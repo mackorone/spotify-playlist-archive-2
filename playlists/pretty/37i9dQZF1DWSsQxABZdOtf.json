@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ\">Nina Las Vegas'</a> favourite tracks. Updated regularly. Curated by Nina Las Vegas. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 24249,
+  "num_followers": 24251,
   "original_name": "Nina Las Vegas' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6AgBKbzvMc/n/M3Jxntb8uEzAE",
+  "snapshot_id": "AAAAAE1Qtc1XsEpsz3yUo1gaBKRMJ3fj",
   "tracks": [
     {
       "added_at": "2026-10-22 02:43:42",
@@ -516,12 +516,12 @@
       },
       "artists": [
         {
-          "name": "Boukan Records",
-          "url": "https://open.spotify.com/artist/0uh2x1PifSwAtlNzqS9edb"
-        },
-        {
           "name": "alys(alys)alys",
           "url": "https://open.spotify.com/artist/7FzhwbH9S6hhSzcxTs9Dvi"
+        },
+        {
+          "name": "Boukan Records",
+          "url": "https://open.spotify.com/artist/0uh2x1PifSwAtlNzqS9edb"
         }
       ],
       "duration_ms": 378857,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,072 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,281 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 59 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 |
 | 60 | [Slow Orbit](https://open.spotify.com/track/3OqQMDKvkhyBblLYYEHmQR) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [Slow Orbit](https://open.spotify.com/album/5L5GUjk8wxSpWemLMBHG24) | 2:10 |
 
-Snapshot ID: `AAAAAPjnbDfqI/2mXc4rk0SF3yP0+9tH`
+Snapshot ID: `AAAAAMFWNwECHA7xpxS94PBFNtjbyCx2`

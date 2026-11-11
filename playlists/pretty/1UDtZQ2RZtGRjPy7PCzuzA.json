@@ -6,7 +6,7 @@
     "name": "julia",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAAOp2AL8mDpTDEWekcYOip818VXL4Gj",
+  "snapshot_id": "AAAOq/wdVhSzcOApw94tw7NwUmUpEQue",
   "tracks": [
     {
       "added_at": "2026-08-15 08:53:39",
@@ -31375,6 +31375,74 @@
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3guGAtyo4OMdTZzOshIugb"
+    },
+    {
+      "added_at": "2026-11-10 08:36:17",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Baby I'm a Star",
+      "url": "https://open.spotify.com/track/5FeSIdgogi42tRgnnpVJED"
+    },
+    {
+      "added_at": "2026-11-10 08:39:31",
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5T5FSDZHbXIQlwihGwXn3X"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/67lRBx0P3WaEl6nlFHtffy"
+    },
+    {
+      "added_at": "2026-11-10 08:49:02",
+      "album": {
+        "name": "Beggars Banquet",
+        "url": "https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Salt Of The Earth",
+      "url": "https://open.spotify.com/track/0iEfl3ZAJL53yaN8tmYZPJ"
+    },
+    {
+      "added_at": "2026-11-10 08:54:29",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/0UO8A189MXCK0JMv7iJmib"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Jimmy Page",
+          "url": "https://open.spotify.com/artist/55bGuHb50r5c0PeqqMeNBV"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/0ElIvLpQpbqZTZs98O4Q1V"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

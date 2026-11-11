@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,957 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,954 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 99 | [Surullinen kaupunki](https://open.spotify.com/track/2lQICP9F29otIt6U1MzfkT) | [Aitio](https://open.spotify.com/artist/0OafXDsXpxU3Pz1Ci11ira), [Samuli Heimo](https://open.spotify.com/artist/0y9v1aZtpENgyB9VlYoBeW) | [Surullinen kaupunki](https://open.spotify.com/album/378zYI0o6Bw4h0gwHBPmed) | 4:21 |
 | 100 | [Emilia](https://open.spotify.com/track/6YBMwlS8sfn3YGS7mLcMmw) | [Suski](https://open.spotify.com/artist/3eAFW1Pf7062zlPtfaEbPE) | [Emilia](https://open.spotify.com/album/2XbesrqKLLolms6nsqF7Wm) | 4:42 |
 
-Snapshot ID: `AAAAAKZY8nRXWJQ10XJKjB+KODg0Phv+`
+Snapshot ID: `AAAAAER7k9OmEZ5tXRhQMyQB7GAuZ/S+`

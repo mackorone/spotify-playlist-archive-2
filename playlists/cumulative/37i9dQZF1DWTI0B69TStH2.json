@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:5iDiPypShxdC8FhWYMvomb\">OLY.</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:43dVSEV7mQfhBINR9Lx6f0\">Vincent</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -1568,6 +1568,24 @@
       "duration_ms": 195586,
       "name": "7,5",
       "url": "https://open.spotify.com/track/60L6cxmAHPv6LgWXf3KEa3"
+    },
+    {
+      "album": {
+        "name": "8 Miles Away",
+        "url": "https://open.spotify.com/album/5tvQRkuHbSbUHEZNcBAngr"
+      },
+      "artists": [
+        {
+          "name": "agatheanneg",
+          "url": "https://open.spotify.com/artist/2uJ59FpkNK76iqMlZSUtkM"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "8 Miles Away",
+      "url": "https://open.spotify.com/track/57PKa4ic8MHfEo4Krb6YRk"
     },
     {
       "album": {
@@ -7717,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "By\u0142o warto (Kayax Talent Hunt)",
+        "url": "https://open.spotify.com/album/6K7P1Kfurxjmbeyhp1iZdy"
+      },
+      "artists": [
+        {
+          "name": "DWOJE.",
+          "url": "https://open.spotify.com/artist/3ywlg4ffHhvvAUb7JXaDcx"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "By\u0142o warto (Kayax Talent Hunt)",
+      "url": "https://open.spotify.com/track/2tQxtlI8RoU8UyjLijC0zJ"
+    },
+    {
+      "album": {
         "name": "By\u0142o, min\u0119\u0142o",
         "url": "https://open.spotify.com/album/07TJ113cEQFb8WvAhIbmRf"
       },
@@ -9010,7 +9046,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 179979,
       "name": "chc\u0119 tu zosta\u0107",
       "url": "https://open.spotify.com/track/0EHfwu3900Lz5BwocEch4S"
@@ -10974,6 +11010,24 @@
       "duration_ms": 270000,
       "name": "CONSTRUCT.IO",
       "url": "https://open.spotify.com/track/1IKOqHNjP0V8bDp9MLOG7H"
+    },
+    {
+      "album": {
+        "name": "COPY+PASTE",
+        "url": "https://open.spotify.com/album/1QebW0I3KF7PNL8Ym8hDkx"
+      },
+      "artists": [
+        {
+          "name": "CZIJA",
+          "url": "https://open.spotify.com/artist/6Csw2dGQXv9r3QkVBV0DVm"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160041,
+      "name": "COPY+PASTE",
+      "url": "https://open.spotify.com/track/3mt4cM5BwbDBEt8g27Em9R"
     },
     {
       "album": {
@@ -20188,7 +20242,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 205714,
       "name": "GFTS",
       "url": "https://open.spotify.com/track/0ynvxQVRMYT3ycsm1mwcna"
@@ -24494,6 +24548,24 @@
       "duration_ms": 202083,
       "name": "Jad\u0119 w Polsk\u0119",
       "url": "https://open.spotify.com/track/3AfK2VONMUqFlq1ijh74pi"
+    },
+    {
+      "album": {
+        "name": "Jak",
+        "url": "https://open.spotify.com/album/4crnZewhjlcwUnq905Xi6a"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/43dVSEV7mQfhBINR9Lx6f0"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247834,
+      "name": "Jak",
+      "url": "https://open.spotify.com/track/0yggwfhTsKTSvjvbW3MB0T"
     },
     {
       "album": {
@@ -29399,6 +29471,24 @@
     },
     {
       "album": {
+        "name": "Kreski + kratki",
+        "url": "https://open.spotify.com/album/4jNxeeMYcKVU1bANuffxUd"
+      },
+      "artists": [
+        {
+          "name": "Juna Ara",
+          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198046,
+      "name": "Kreski + kratki",
+      "url": "https://open.spotify.com/track/582GDp6BICrp55QWLyCrhh"
+    },
+    {
+      "album": {
         "name": "krew",
         "url": "https://open.spotify.com/album/2HGiGONm2olttRsMmht3VR"
       },
@@ -31222,7 +31312,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 177375,
       "name": "LASTDAYS",
       "url": "https://open.spotify.com/track/7qeSBpGkbrcCCYJUNdQ4yQ"
@@ -42714,7 +42804,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 187000,
       "name": "Nie wiem",
       "url": "https://open.spotify.com/track/5zudn7I1rCATK4FljBuSW3"
@@ -45385,6 +45475,24 @@
     },
     {
       "album": {
+        "name": "nothing personal",
+        "url": "https://open.spotify.com/album/5gbKA5THs4uw3fzXyWWVBf"
+      },
+      "artists": [
+        {
+          "name": "Loud Television",
+          "url": "https://open.spotify.com/artist/1mMs9DS3duzLgRuy3YDzCF"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153789,
+      "name": "nothing personal",
+      "url": "https://open.spotify.com/track/3ynHxRetvlG0svYuz2WVbF"
+    },
+    {
+      "album": {
         "name": "Notre-Dame",
         "url": "https://open.spotify.com/album/4hDOq6jwsJh33QmHd4NFfg"
       },
@@ -46266,7 +46374,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 190760,
       "name": "OBSESJA",
       "url": "https://open.spotify.com/track/6N7ZEsWwqMOyiRM9uTv64o"
@@ -60432,7 +60540,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 215803,
       "name": "Sierpniowy Sen",
       "url": "https://open.spotify.com/track/6sqKJuEFCRFq4GidHYAqgP"
@@ -62880,7 +62988,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 208888,
       "name": "Stare kino pusty bar",
       "url": "https://open.spotify.com/track/2wS9kt1rRW6zhdLh0CRly9"
@@ -64826,6 +64934,24 @@
       "duration_ms": 141897,
       "name": "Szpile",
       "url": "https://open.spotify.com/track/6HE9AphfKDbVBA6fmVls3s"
+    },
+    {
+      "album": {
+        "name": "Szpilki",
+        "url": "https://open.spotify.com/album/2AkbJ1Vwq09imtIXyyFVYM"
+      },
+      "artists": [
+        {
+          "name": "gasnica",
+          "url": "https://open.spotify.com/artist/20BS9BH1vb26JvM3KM9zuC"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155482,
+      "name": "Szpilki",
+      "url": "https://open.spotify.com/track/12WtvuCD3lzzIDP0ttuMe2"
     },
     {
       "album": {
@@ -69373,6 +69499,24 @@
     },
     {
       "album": {
+        "name": "Triage",
+        "url": "https://open.spotify.com/album/0njwsfgsqZ3vyRzrtpXd3G"
+      },
+      "artists": [
+        {
+          "name": "IWER",
+          "url": "https://open.spotify.com/artist/0tTFPGanKwmIzMzjRPUCE4"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140540,
+      "name": "Triage",
+      "url": "https://open.spotify.com/track/2TWVRR2YEefjq8PXDs4MPz"
+    },
+    {
+      "album": {
         "name": "Tricolore",
         "url": "https://open.spotify.com/album/0gjKx4c2Y32peao3Lon4lk"
       },
@@ -70106,6 +70250,24 @@
       "duration_ms": 206667,
       "name": "Trzymaj za r\u0119k\u0119",
       "url": "https://open.spotify.com/track/4QjNHjWMHa7NOpBdF08YnE"
+    },
+    {
+      "album": {
+        "name": "tsunami",
+        "url": "https://open.spotify.com/album/7zx3ibXRHFbCGGS3UVRq1H"
+      },
+      "artists": [
+        {
+          "name": "oda nova",
+          "url": "https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231406,
+      "name": "tsunami",
+      "url": "https://open.spotify.com/track/349FRybvknRPvvE9bcQJ0r"
     },
     {
       "album": {
@@ -71038,6 +71200,24 @@
       "duration_ms": 196388,
       "name": "Tysi\u0105ce",
       "url": "https://open.spotify.com/track/21F2Mqz3HU3yarS2SpemFg"
+    },
+    {
+      "album": {
+        "name": "t\u0119dy",
+        "url": "https://open.spotify.com/album/5VKb1fL4kIzxtvlRUabS1W"
+      },
+      "artists": [
+        {
+          "name": "nic nic",
+          "url": "https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175692,
+      "name": "t\u0119dy",
+      "url": "https://open.spotify.com/track/0Fu6EOtszBw8TTXttjRGUW"
     },
     {
       "album": {
@@ -75192,7 +75372,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 182000,
       "name": "wiem, \u017ce ty te\u017c",
       "url": "https://open.spotify.com/track/47X8qFKHOqHxY8iHh9XiIK"
@@ -79966,7 +80146,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 184768,
       "name": "Zapach Lata",
       "url": "https://open.spotify.com/track/5zcPV6AWeYULww597bZZLW"
@@ -81962,7 +82142,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 161266,
       "name": "ZRYW",
       "url": "https://open.spotify.com/track/30t5eGevg8GBBXZYmctBLp"

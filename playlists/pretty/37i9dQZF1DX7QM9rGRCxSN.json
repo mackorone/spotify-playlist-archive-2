@@ -1,12 +1,12 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39551,
+  "num_followers": 39552,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPxaqADXi1m7JGFRzt8TraJ2zXVH",
+  "snapshot_id": "AAAAAEH7bfUUBUPXlcAhOhtPAKNvdEkQ",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:34",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Entrop\u00eda Emocional",
-        "url": "https://open.spotify.com/album/3eK4Yt6QFTJwSLQxmIsqZJ"
-      },
-      "artists": [
-        {
-          "name": "REVO",
-          "url": "https://open.spotify.com/artist/4hbqCU1p22wDUkpfWIIVTh"
-        }
-      ],
-      "duration_ms": 398000,
-      "name": "Stella",
-      "url": "https://open.spotify.com/track/4x5KvV5D9VlZrdDxjI1Je6"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Flora y Fauna del Estado de M\u00e9xico",
         "url": "https://open.spotify.com/album/37TT0YwBeoYDSx4xq68gQ8"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 192893,
       "name": "Charlie contra los monjes",
       "url": "https://open.spotify.com/track/3uUOxbnLTaG1FpSFWobwgY"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Entrop\u00eda Emocional",
+        "url": "https://open.spotify.com/album/3eK4Yt6QFTJwSLQxmIsqZJ"
+      },
+      "artists": [
+        {
+          "name": "REVO",
+          "url": "https://open.spotify.com/artist/4hbqCU1p22wDUkpfWIIVTh"
+        }
+      ],
+      "duration_ms": 398000,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/4x5KvV5D9VlZrdDxjI1Je6"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Quebrada",
-        "url": "https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG"
-      },
-      "artists": [
-        {
-          "name": "Estoy Bien",
-          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "Quebrada",
-      "url": "https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Zaza",
         "url": "https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 244576,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Quebrada",
+        "url": "https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG"
+      },
+      "artists": [
+        {
+          "name": "Estoy Bien",
+          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "Quebrada",
+      "url": "https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Est\u00e9tica Unisex",
-        "url": "https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS"
-      },
-      "artists": [
-        {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
-        }
-      ],
-      "duration_ms": 113253,
-      "name": "Est\u00e9tica Unisex",
-      "url": "https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Sociedad De Socorro Mutuo",
         "url": "https://open.spotify.com/album/2kJMFGORcX2UM7lEBx4WAC"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 165992,
       "name": "Miedo a Perder",
       "url": "https://open.spotify.com/track/3X6apLf8f7fD7qDFdOCj13"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Est\u00e9tica Unisex",
+        "url": "https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "duration_ms": 113253,
+      "name": "Est\u00e9tica Unisex",
+      "url": "https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "micheladas",
-        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
-      },
-      "artists": [
-        {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
-        }
-      ],
-      "duration_ms": 136255,
-      "name": "micheladas",
-      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Muchas Formas de Decir Casa",
         "url": "https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 232000,
       "name": "Jard\u00edn de Plastilina",
       "url": "https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "micheladas",
+        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "duration_ms": 136255,
+      "name": "micheladas",
+      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "El mejor verano de mi vida",
-        "url": "https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2"
+        "name": "Nossos Amigos e os Lugares Que Visitamos",
+        "url": "https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL"
       },
       "artists": [
         {
-          "name": "El mejor verano de mi vida",
-          "url": "https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n"
+          "name": "El Toro Fuerte",
+          "url": "https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ"
         }
       ],
-      "duration_ms": 146629,
-      "name": "Emo Mid Windows",
-      "url": "https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs"
+      "duration_ms": 381335,
+      "name": "Anivers\u00e1rios S\u00e3o Dif\u00edceis",
+      "url": "https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -759,34 +759,18 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Nossos Amigos e os Lugares Que Visitamos",
-        "url": "https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL"
+        "name": "El mejor verano de mi vida",
+        "url": "https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2"
       },
       "artists": [
         {
-          "name": "El Toro Fuerte",
-          "url": "https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ"
+          "name": "El mejor verano de mi vida",
+          "url": "https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n"
         }
       ],
-      "duration_ms": 381335,
-      "name": "Anivers\u00e1rios S\u00e3o Dif\u00edceis",
-      "url": "https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
-        "name": "Jardines Pr\u00f3ximos",
-        "url": "https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa"
-      },
-      "artists": [
-        {
-          "name": "Dejar\u00e9 que me apu\u00f1ales",
-          "url": "https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ"
-        }
-      ],
-      "duration_ms": 172738,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU"
+      "duration_ms": 146629,
+      "name": "Emo Mid Windows",
+      "url": "https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -803,6 +787,22 @@
       "duration_ms": 186136,
       "name": "Otro Verano Campe\u00f3n",
       "url": "https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Jardines Pr\u00f3ximos",
+        "url": "https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa"
+      },
+      "artists": [
+        {
+          "name": "Dejar\u00e9 que me apu\u00f1ales",
+          "url": "https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ"
+        }
+      ],
+      "duration_ms": 172738,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU"
     },
     {
       "added_at": "2026-10-16 06:00:34",

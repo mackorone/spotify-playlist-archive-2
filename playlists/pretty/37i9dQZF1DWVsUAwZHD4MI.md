@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,686 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,689 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 48 | [Bloodsport](https://open.spotify.com/track/4sLqcpvMrIJUyOs7x6fl5m) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Bloodsport](https://open.spotify.com/album/0V1zcB4nkvqbJiu9KZjj5M) | 5:24 |
 | 49 | [scared](https://open.spotify.com/track/3E2Mi9MepDilSbH4GV8xeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo) | 3:46 |
 
-Snapshot ID: `AAAAADMJBYjl1vplE+o7JS6w5p3nwmdn`
+Snapshot ID: `AAAAAMtf9VeUbQTflUOg1HN0GQfUFFGg`

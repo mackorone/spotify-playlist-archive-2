@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Thomas Rhett, Megan Moroney, Hudson Westbrook and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,442 likes - 69 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,499 likes - 69 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 68 | [Roots](https://open.spotify.com/track/25vZinyZKEf9XNOxqE8B7O) | [Hunter Flynn](https://open.spotify.com/artist/5j6t35Ik2EoS5efJDxOAS2) | [Roots](https://open.spotify.com/album/4UKzhEoMRXPif4XMUZRa92) | 3:43 |
 | 69 | [In Love With Love Again](https://open.spotify.com/track/2nERwA8lerb2gKfHESFd0x) | [Josh Weathers](https://open.spotify.com/artist/4yrOIPlpAaSZ0Xb2n5Wdyu) | [Music City Sessions](https://open.spotify.com/album/1begWOQfM5IcXw0biNThHb) | 2:52 |
 
-Snapshot ID: `AAAAAAeyH0YCPKl8aWzs4NqkhduzD4GZ`
+Snapshot ID: `AAAAAMOZ2fF1Ub+seG0bsdul8vqPCy/b`

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157866,
+  "num_followers": 157859,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO1XSclL7mzhVc47OgVhYpjIC4sD",
+  "snapshot_id": "AAAAAADrO8hRg1ax9wuymM8l4WB2WgDB",
   "tracks": [
     {
       "added_at": "2026-10-19 15:52:42",
@@ -455,30 +455,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Brisa Errada",
-        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DaluzzZ",
-          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "Brisa Errada",
-      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -503,6 +479,30 @@
       "duration_ms": 146288,
       "name": "sintetizar",
       "url": "https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "Bate A Onda",
         "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     },
     {
       "added_at": "2026-10-19 15:52:42",

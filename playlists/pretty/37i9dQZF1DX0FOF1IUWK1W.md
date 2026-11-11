@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Hugo & Guilherme, Zé Vaqueiro e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,718,513 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,718,342 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Ignora \- Ao Vivo](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm) | 2:59 |
 | 50 | [Aurora](https://open.spotify.com/track/6PPB5jKQ257UqzP7tgmozP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:40 |
 
-Snapshot ID: `AAAAACovx7pudZ6W7A+G5kXJWI4ywAWd`
+Snapshot ID: `AAAAAHCkwBqvn2owbx13LBFInHB5ey0c`

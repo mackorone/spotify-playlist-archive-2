@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto: Dear Joanne.",
+  "description": "La banda sonora de tu orgullo. Foto: Hidrogenesse.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "ANOMIA",
+        "url": "https://open.spotify.com/album/61FFm8do96pccd8VTcShLU"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156998,
+      "name": "apostarlo todo",
+      "url": "https://open.spotify.com/track/2KXpFHLlvratyU6iLYn1hx"
+    },
+    {
+      "album": {
         "name": "ARAKI",
         "url": "https://open.spotify.com/album/4Tt9kF96g5qUKfDiBx3bDk"
       },
@@ -679,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Ay!",
+        "url": "https://open.spotify.com/album/1zWnErkis3epAQsy7wx7M5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pel\u00e1e",
+          "url": "https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183483,
+      "name": "Ay!",
+      "url": "https://open.spotify.com/track/5kdbE9Yf6cOMvk0edZ1Ocs"
+    },
+    {
+      "album": {
         "name": "A\u00c9REO",
         "url": "https://open.spotify.com/album/6PEgDdQksRav7vosjgAxtl"
       },
@@ -760,7 +796,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 139200,
       "name": "Badda",
       "url": "https://open.spotify.com/track/5p4We7y6YF1ciG8gLsOE2d"
@@ -1238,7 +1274,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 131376,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
@@ -1662,7 +1698,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 147640,
       "name": "dama en apuros remix metrika",
       "url": "https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO"
@@ -1818,7 +1854,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 154000,
       "name": "Desconocida",
       "url": "https://open.spotify.com/track/7bYigOGZj0kB0Gop3s5JKo"
@@ -2071,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "El Espejo",
+        "url": "https://open.spotify.com/album/0UVW1FlLVC1A8Rliv60qQj"
+      },
+      "artists": [
+        {
+          "name": "Oreiana",
+          "url": "https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/4JK8Q0RKEhLheiPXdN9P2l"
+    },
+    {
+      "album": {
         "name": "El Pe\u00f3n y La Reina",
         "url": "https://open.spotify.com/album/7mM2kHlXqFjJ7ZVF8bGBGX"
       },
@@ -2086,6 +2140,24 @@
       "duration_ms": 184720,
       "name": "El Pe\u00f3n y La Reina",
       "url": "https://open.spotify.com/track/2kFQjAfsHg0c3rqmnGncFc"
+    },
+    {
+      "album": {
+        "name": "El presidente de la compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/6mohE0cCMBlU25D7khdlML"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164060,
+      "name": "El presidente de la compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/6uzhRqGUJmpCD7h9DK1Xh8"
     },
     {
       "album": {
@@ -2687,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Haz que merezca la pena",
+        "url": "https://open.spotify.com/album/4d1BooM6BlBc1ebduVo8s9"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Haz que merezca la pena",
+      "url": "https://open.spotify.com/track/4NuMZzaLsBmzISMgbcKrNh"
+    },
+    {
+      "album": {
         "name": "MUNDO DE LOBOS",
         "url": "https://open.spotify.com/album/3NX9H4hkfUtXsP59nCk3rN"
       },
@@ -2702,6 +2792,24 @@
       "duration_ms": 149164,
       "name": "HE MATADO A MI EX",
       "url": "https://open.spotify.com/track/0907CMgKtlqURkp73Z19Ex"
+    },
+    {
+      "album": {
+        "name": "A\u00c9REO / HE MONTADO UN CIRCO",
+        "url": "https://open.spotify.com/album/0KSaC9MHhQvAHxWLVmYdyr"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186688,
+      "name": "HE MONTADO UN CIRCO",
+      "url": "https://open.spotify.com/track/1rqUfqMHMlsu0SONI6dRYv"
     },
     {
       "album": {
@@ -2832,6 +2940,24 @@
       "duration_ms": 138467,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3yYWcIuxJ2bE30uWYwMrGz"
+    },
+    {
+      "album": {
+        "name": "Variaciones Pombo",
+        "url": "https://open.spotify.com/album/3d1KLploh3lp5yaQncmY3r"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191123,
+      "name": "Hortera y M\u00e1rtir",
+      "url": "https://open.spotify.com/track/52cnxR2D0fHOXON8cZ1Sfs"
     },
     {
       "album": {
@@ -3177,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "JHONNY",
+        "url": "https://open.spotify.com/album/4J2lVjLVledSnr0eM5uHUA"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        },
+        {
+          "name": "Kercho",
+          "url": "https://open.spotify.com/artist/2Dg9RuLl8nw2gkoirqZQkR"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "JHONNY",
+      "url": "https://open.spotify.com/track/1gSfI5vGpoPI8lwcBfzLmW"
+    },
+    {
+      "album": {
         "name": "Kandinsky (Rencor)",
         "url": "https://open.spotify.com/album/40Jb3gCCaQTigGUHDpJInV"
       },
@@ -3326,7 +3474,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 194000,
       "name": "LA LUZ QUE NO SE APAGA",
       "url": "https://open.spotify.com/track/1a0ub8scX8B2lRiVUocBpQ"
@@ -3496,7 +3644,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 210946,
       "name": "las guapas no morimos de verdad",
       "url": "https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N"
@@ -3961,6 +4109,32 @@
     },
     {
       "album": {
+        "name": "Marxa del Pop",
+        "url": "https://open.spotify.com/album/4hxG2ZlK4jh3Sk6yTsAQQA"
+      },
+      "artists": [
+        {
+          "name": "FADES",
+          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
+        },
+        {
+          "name": "Ouineta",
+          "url": "https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3"
+        },
+        {
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191959,
+      "name": "Marxa del Pop",
+      "url": "https://open.spotify.com/track/7foSN13If20ltPGINmC0Wm"
+    },
+    {
+      "album": {
         "name": "METALLIX: Afterparty",
         "url": "https://open.spotify.com/album/6fbYGQVwIeQ1vXiPWVd3Ug"
       },
@@ -4186,7 +4360,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 151999,
       "name": "mi vocablo",
       "url": "https://open.spotify.com/track/1durpNnxDajO8jUKJ1eRUW"
@@ -4804,7 +4978,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 198750,
       "name": "N\u00c3O ME TOQUE",
       "url": "https://open.spotify.com/track/5HJC1zjvTRcuslmJ4IM2PR"
@@ -5000,7 +5174,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 138947,
       "name": "P0RN0",
       "url": "https://open.spotify.com/track/5LMy35rxqq4OG4VTWRMtz3"
@@ -5462,7 +5636,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 157952,
       "name": "Pipe dream",
       "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
@@ -5734,7 +5908,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 191937,
       "name": "Put\u00f3n Verbenero",
       "url": "https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z"
@@ -6072,7 +6246,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 151570,
       "name": "Sabalenka",
       "url": "https://open.spotify.com/track/6IZUskjG7bR12G0MPo4IfN"
@@ -6202,7 +6376,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 172991,
       "name": "Se siente fuerte",
       "url": "https://open.spotify.com/track/6AR6FZiCFYeQasbE8PiQUl"
@@ -6263,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "SECUELAS",
+        "url": "https://open.spotify.com/album/6Ztivu5gV074WcgjGQMxGP"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170794,
+      "name": "SECUELAS",
+      "url": "https://open.spotify.com/track/2G1joSiUx5sJqIFz3WEdXZ"
+    },
+    {
+      "album": {
         "name": "Sex Tape",
         "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
       },
@@ -6289,6 +6481,24 @@
     },
     {
       "album": {
+        "name": "STARCHILD",
+        "url": "https://open.spotify.com/album/6DqQVPU2COzhD2FU7IGR3f"
+      },
+      "artists": [
+        {
+          "name": "Berto",
+          "url": "https://open.spotify.com/artist/3gyjEReFIhYeLyulzhvJ18"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192854,
+      "name": "SEXO EN NY",
+      "url": "https://open.spotify.com/track/6utl2weW4NApMYsADKWMaV"
+    },
+    {
+      "album": {
         "name": "Sexting",
         "url": "https://open.spotify.com/album/20VPRNHwsq7p9GUZiPSHoy"
       },
@@ -6304,6 +6514,28 @@
       "duration_ms": 272727,
       "name": "Sexting",
       "url": "https://open.spotify.com/track/4wqbCjNjzs0bJAWogrkfLZ"
+    },
+    {
+      "album": {
+        "name": "SexyHOT",
+        "url": "https://open.spotify.com/album/1Rbu1T8TTJJnyZ75RNzzkd"
+      },
+      "artists": [
+        {
+          "name": "FUTURACHICAPOP",
+          "url": "https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ"
+        },
+        {
+          "name": "Juan Anselmo",
+          "url": "https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258576,
+      "name": "SexyHOT",
+      "url": "https://open.spotify.com/track/28I9DF0YnYCiVdyxIEQbFF"
     },
     {
       "album": {
@@ -6638,6 +6870,28 @@
       "duration_ms": 175357,
       "name": "Tengo TDH",
       "url": "https://open.spotify.com/track/5ZtscymtM4nLewkx59Z06H"
+    },
+    {
+      "album": {
+        "name": "LA ORDEN",
+        "url": "https://open.spotify.com/album/4Zu2eS4QFUUhxmDEk1qd37"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "TERROR EN LA DISCO",
+      "url": "https://open.spotify.com/track/75WjSFBvamo0FTyY2X6WXV"
     },
     {
       "album": {

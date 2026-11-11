@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2597,
+  "num_followers": 2598,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPahe6V8t3gKSbC039oOW5MfgHz0",
+  "snapshot_id": "AAAAAJKX6T/lDeY/CTii/joM3pfCnzxA",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -143,22 +143,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+        "name": "El Patio de Mi Casa",
+        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
-          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 50565,
-      "name": "El Mundo es mi Familia",
-      "url": "https://open.spotify.com/track/5tsiVaup3IdqXrqItieZLY"
+      "duration_ms": 103906,
+      "name": "Yo Tengo Una Casita",
+      "url": "https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -179,18 +175,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "El Patio de Mi Casa",
-        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
+        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
       },
       "artists": [
         {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
+          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
         }
       ],
-      "duration_ms": 103906,
-      "name": "Yo Tengo Una Casita",
-      "url": "https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D"
+      "duration_ms": 50565,
+      "name": "El Mundo es mi Familia",
+      "url": "https://open.spotify.com/track/5tsiVaup3IdqXrqItieZLY"
     },
     {
       "added_at": "2022-07-11 22:00:28",
@@ -495,26 +495,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        },
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 160640,
-      "name": "Patos al Agua",
-      "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
+      "duration_ms": 250093,
+      "name": "Bajo El Mar",
+      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -535,18 +527,26 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        },
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
         }
       ],
-      "duration_ms": 250093,
-      "name": "Bajo El Mar",
-      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
+      "duration_ms": 160640,
+      "name": "Patos al Agua",
+      "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -583,30 +583,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        },
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "La Feria de Cepill\u00edn",
-      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 235773,
       "name": "Mi mam\u00e1",
       "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        },
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "La Feria de Cepill\u00edn",
+      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 175328,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 69870,
       "name": "\u00a1Qu\u00e9 empiece ya!",
       "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 175328,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Osito Carpintero",
-      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Miss Patylu Vol. 2",
         "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 209253,
       "name": "Vacaciones tope guay",
       "url": "https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Osito Carpintero",
+      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 184231,
-      "name": "Garabato Colorado",
-      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Canciones De La Granja 2",
         "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193109,
       "name": "Ritmo Rob\u00f3tico",
       "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 184231,
+      "name": "Garabato Colorado",
+      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
     },
     {
       "added_at": "2020-04-27 15:43:16",

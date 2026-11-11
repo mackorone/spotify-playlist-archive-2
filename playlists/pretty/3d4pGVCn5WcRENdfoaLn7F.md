@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 931 likes - 63 songs - 3 hr 35 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 936 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 61 | [Colliding Into Space](https://open.spotify.com/track/367Pbr28bYyIGqWs93miSd) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Colliding Into Space](https://open.spotify.com/album/1lokk5aTuMMv3qwSCBsZLb) | 3:58 |
 | 62 | [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 |
 | 63 | [Impossible Highs](https://open.spotify.com/track/3OVxd0CP3WqKZZcR5bv01Y) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV), [Sonic Panda](https://open.spotify.com/artist/0b9czBoJTsWwxyjOdVK1RL) | [Impossible Highs](https://open.spotify.com/album/2iTVRC8XPaUn4bcsV7JP1q) | 3:30 |
+| 64 | [The Best I Ever Had](https://open.spotify.com/track/4kN0Ubypez9j3PwRsigim4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [The Best I Ever Had](https://open.spotify.com/album/1DoLpPzVKAP1rouoBVrgYU) | 4:05 |
+| 65 | [We Go High](https://open.spotify.com/track/400xZzpdwKLfcBpMMsxtfM) | [Sam Brace](https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH), [The Merciless Bronze](https://open.spotify.com/artist/7IVGe5SIp4zL7ORcomos5E) | [We Go High](https://open.spotify.com/album/06bJj8X2ci5w8lIBA1llYM) | 4:00 |
 
-Snapshot ID: `AAAEIdfREOdA/F7QEqk1Y6KMxVApR0ns`
+Snapshot ID: `AAAEI8aB9YgqgRRBxawlCXcwMr32zwTy`

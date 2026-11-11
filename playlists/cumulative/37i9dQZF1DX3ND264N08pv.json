@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 123789,
       "name": "Gabber Ship",
       "url": "https://open.spotify.com/track/7MAsnRKCi5wRKDkx7dQOeS"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 205416,
       "name": "Hit The Speakers",
       "url": "https://open.spotify.com/track/0RbJaaZtC648PbCBgeb9Uh"
@@ -8617,6 +8617,28 @@
     },
     {
       "album": {
+        "name": "The Prophecy of Chaos E.P.",
+        "url": "https://open.spotify.com/album/0tpCwaZriDvyomKBLAVhrm"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153882,
+      "name": "The Prophecy of Chaos",
+      "url": "https://open.spotify.com/track/1R8xjmLlMVMoKZyfaNSZ6L"
+    },
+    {
+      "album": {
         "name": "It's Time EP",
         "url": "https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp"
       },
@@ -9920,6 +9942,28 @@
       "duration_ms": 189352,
       "name": "WHAT THA HELLY (SOMEONE CALL THE AMBULANCE)",
       "url": "https://open.spotify.com/track/1QIBLPZqpqETKtuMLpHAN4"
+    },
+    {
+      "album": {
+        "name": "When That Beat Drops",
+        "url": "https://open.spotify.com/album/757VZe7oVEgEPpybOiXzm9"
+      },
+      "artists": [
+        {
+          "name": "MD&A",
+          "url": "https://open.spotify.com/artist/6WX4U0bzy4Ygc7VrYRdsjH"
+        },
+        {
+          "name": "House Of Madness",
+          "url": "https://open.spotify.com/artist/1BOGIUMoDaCPOrGnu7sVtW"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154108,
+      "name": "When That Beat Drops",
+      "url": "https://open.spotify.com/track/07Sp4hLWBs0fXwvEd5zO8M"
     },
     {
       "album": {

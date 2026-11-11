@@ -4,7 +4,7 @@
 
 > Where roots meet what’s next\. Cover: Eddie 9V
 
-1,053 songs - 2 day 16 hr 45 min
+1,054 songs - 2 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-02-25 | 2022-05-14 |
 | [Fussing and Fighting](https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Fussing and Fighting](https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF) | 4:14 | 2026-06-05 |  |
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-12-17 | 2022-05-20 |
+| [Galilee](https://open.spotify.com/track/7F1RRopyZNTGh5pP0IpdLE) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7), [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [Snake Of Diamonds](https://open.spotify.com/album/6F4JeK8Q6gHQbKpocWIHvQ) | 3:05 | 2026-11-06 |  |
 | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/track/7gfAs8iAcGUN2ygd4HBEmq) | [Zachary Williams](https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv), [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/album/2QmCRzZ6vaOZS2lnuH2KWx) | 3:01 | 2021-12-17 | 2022-09-24 |
 | [Gentle Man](https://open.spotify.com/track/52p5TAe8JAbSKQXpT5xlgl) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Gentle Man](https://open.spotify.com/album/7aI9KL8jzxMzGroiGTDrCI) | 5:33 | 2026-05-22 |  |
 | [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 | 2024-04-09 | 2025-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Natek
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,950 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,962 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 24 | [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 |
 | 25 | [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 |
 | 26 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
-| 27 | [SOVEREIGN LAND](https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOFTER](https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya) | 2:13 |
-| 28 | [Four Seasons](https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [For Seasons: Love in a Time of War](https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy) | 4:27 |
+| 27 | [Four Seasons](https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [For Seasons: Love in a Time of War](https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy) | 4:27 |
+| 28 | [SOVEREIGN LAND](https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOFTER](https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya) | 2:13 |
 | 29 | [Holding On](https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Spin / Holding On](https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum) | 3:56 |
 | 30 | [Le mauvais temps](https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Le mauvais temps](https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD) | 3:43 |
 | 31 | [So Cold](https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [THIS IS A BREAKUP ALBUM](https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8) | 3:25 |
 | 32 | [angela the traveller](https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [the afterparty](https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq) | 2:47 |
 | 33 | [The 4](https://open.spotify.com/track/5qdJdovmMW639cxGDXs9X9) | [Rosado](https://open.spotify.com/artist/09I1DVqDIIWMfy9wGUe6gj), [who's lara?](https://open.spotify.com/artist/0coM5ZXKtWld0nP8nIifbq), [$anteria](https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7) | [The 4](https://open.spotify.com/album/7s9yJdZXLzJ2GcVNG1yk6s) | 3:24 |
-| 34 | [L'affaire c'est que](https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Le X du Y](https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04) | 4:05 |
-| 35 | [Tu choisis comment tu aimes](https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Tu choisis comment tu aimes](https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl) | 4:07 |
+| 34 | [Tu choisis comment tu aimes](https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Tu choisis comment tu aimes](https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl) | 4:07 |
+| 35 | [L'affaire c'est que](https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Le X du Y](https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04) | 4:05 |
 | 36 | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0) | [Jay Essiambre](https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8) | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq) | 3:09 |
 | 37 | [on your shoulders](https://open.spotify.com/track/02Pqy45XxE5MK2vX5uUFGq) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [angels on my mind](https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3) | 3:10 |
-| 38 | [Make it Happen](https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP) | [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Light and Matter](https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d) | 2:54 |
-| 39 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
+| 38 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
+| 39 | [Make it Happen](https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP) | [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Light and Matter](https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d) | 2:54 |
 | 40 | [Ladylike](https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Ladylike](https://open.spotify.com/album/113ejPYZEjoK59HHABCxme) | 2:58 |
 | 41 | [Atypical](https://open.spotify.com/track/3xFP682GYjttVzx4gL79T5) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [allie](https://open.spotify.com/artist/7JPsWnynfZxpOE77M22LdC) | [Numbskull](https://open.spotify.com/album/4FwRkmPT4WoxrBAerMhIPy) | 2:32 |
 | 42 | [LA MIF DE LA MIF](https://open.spotify.com/track/0GorhXHgwykKIn0HgYlPdZ) | [Woody](https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy) | [STAFF MEAL](https://open.spotify.com/album/7AN1bIeyDydPiD4IOsKOwj) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
 | 50 | [Playboi 3arbi](https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [Playboi 3arbi](https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F) | 1:53 |
 
-Snapshot ID: `AAAAAFiB9SnDZvX4C//IPR+TVF6QRZY1`
+Snapshot ID: `AAAAALreAQ07II/Jg3T3GtaFv60kOu7L`

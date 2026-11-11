@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 74947,
+  "num_followers": 74955,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAAqEgcberTk+Jy4Kjt1zfha",
+  "snapshot_id": "avENAAAAAAA35qunYTbLXWdIpF6NsFiq",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Un Mal Amor",
-        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Por Un Mal Amor",
-      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 252600,
       "name": "La Ra\u00edz de Mi Tierra",
       "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Un Mal Amor",
+        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Por Un Mal Amor",
+      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
     },
     {
       "added_at": null,

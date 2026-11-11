@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,656 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,544 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Morenito](https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Morenito](https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF) | 2:15 |
 | 75 | [fuego](https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [fuego](https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa) | 2:20 |
 
-Snapshot ID: `AAAAAHdo/B1L3c1QTrpAwMLvMqpSHpxH`
+Snapshot ID: `AAAAAIc0/w/652CYkpQxkd8bD7WfQE29`

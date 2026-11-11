@@ -4,7 +4,7 @@
 
 > Listen to all the music from Grand Theft Auto VI, out Nov 19.
 
-248 songs - 16 hr 57 min
+249 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/0Cfs5hD4TUSmBE7Ta1CgwY) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/70vIB12zLNnfvIiQ9YY9hC) | 3:37 | 2021-11-17 | 2024-04-19 |
 | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/5VbMIDLX6R4pyoWhy2kO7q) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/4jETOwgldZeg0b8VrM5mKW) | 3:37 | 2021-11-17 | 2026-09-18 |
 | [Black Privilege](https://open.spotify.com/track/3BiWMGi0qRr8Exhy010K7H) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Black Privilege](https://open.spotify.com/album/5nA8I1Om2CGLbVTeeb9mtv) | 2:51 | 2022-02-04 | 2026-09-18 |
+| [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO) | 2:41 | 2026-11-10 |  |
 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 | 2021-11-17 | 2026-09-18 |
 | [Body So Good](https://open.spotify.com/track/0aVoXMbwzqgnW1H79Hm0h6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:37 | 2021-12-18 | 2026-09-18 |
 | [Bounce N Break Yo Back](https://open.spotify.com/track/2mI20kUdIyOaAhtgeonE4g) | [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Juke City Volume 1](https://open.spotify.com/album/2VcoFQbHgH7zJ3fdgwZd69) | 2:38 | 2021-12-18 | 2026-09-18 |

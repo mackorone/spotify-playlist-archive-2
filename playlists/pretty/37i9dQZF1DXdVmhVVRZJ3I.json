@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 360733,
+  "num_followers": 360787,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGWigXuCxiPXFbUmmMmZk2JMMJaj",
+  "snapshot_id": "AAAAAN7WSz57+IsTLg5R8rMVIZVEeOTN",
   "tracks": [
     {
       "added_at": "2026-10-02 12:20:02",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
-      },
-      "artists": [
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 173842,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Believe (Sevenn Remix)",
         "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 217920,
       "name": "Believe - Sevenn Remix",
       "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 173842,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Going Dumb",
-        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Going Dumb",
-      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "You & Me (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/1FOMConpwgbEszaYCh8O3y"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 234461,
       "name": "You & Me - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/4zedwYjb2LIdPBmfOeyXW5"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Going Dumb",
+      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -711,22 +711,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Doin Nottin",
-        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
       },
       "artists": [
         {
-          "name": "FatSync",
-          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "GIU",
-          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
         }
       ],
-      "duration_ms": 146538,
-      "name": "Doin Nottin",
-      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -755,22 +755,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+        "name": "Doin Nottin",
+        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
       },
       "artists": [
         {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
         }
       ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+      "duration_ms": 146538,
+      "name": "Doin Nottin",
+      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
+        "name": "Dali",
+        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        }
+      ],
+      "duration_ms": 179072,
+      "name": "Dali",
+      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
-        "name": "Dali",
-        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        }
-      ],
-      "duration_ms": 179072,
-      "name": "Dali",
-      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
+        "name": "Stay Mine",
+        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "Stay Mine",
+      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
         "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 151874,
       "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
-        "name": "Stay Mine",
-        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "Stay Mine",
-      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
     },
     {
       "added_at": "2026-10-02 12:20:02",

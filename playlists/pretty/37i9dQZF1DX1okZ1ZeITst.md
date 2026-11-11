@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Sing your heart out with the Disney Sing\-Alongs playlist! Featuring karaoke jams such as "Zoo" performed by Shakira from Zootopia 2, now available on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,161 likes - 78 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,364 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 77 | [Circle of Life](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) | [Carmen Twillie](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:59 |
 | 78 | [Cruella De Vil \- Soundtrack Version](https://open.spotify.com/track/0BXmWSeBL9zIazKcbvr2pb) | [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 4:47 |
 
-Snapshot ID: `AAAAAJ5cKdt1jQ17+zh36rDNypX1LAJG`
+Snapshot ID: `AAAAAM2C6si/uZ/EzYyi/xjPk0CkljHV`

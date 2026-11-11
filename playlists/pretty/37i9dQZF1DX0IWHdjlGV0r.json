@@ -1,12 +1,12 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130703,
+  "num_followers": 130712,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkDE+q4RzD+vUrDz2gNWIy35Oyz",
+  "snapshot_id": "AAAAAJETF5ixvhD6jBvb1z5vXHW4REuc",
   "tracks": [
     {
       "added_at": "2026-08-26 22:01:25",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "Emanuele",
         "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 186126,
       "name": "MOON (feat. Capo Plaza & Tony Boy)",
       "url": "https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "9 FEBBRAIO",
+      "url": "https://open.spotify.com/track/5K8HIXj7NB8PPfvWeaeEc0"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "Latte in Polvere",
         "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 145960,
       "name": "Tu Mi Piaci (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "MORENDO AD OCCHI APERTI",
-        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
-      },
-      "artists": [
-        {
-          "name": "Promessa",
-          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
-        },
-        {
-          "name": "IDUA",
-          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "9 FEBBRAIO",
-      "url": "https://open.spotify.com/track/5K8HIXj7NB8PPfvWeaeEc0"
     },
     {
       "added_at": "2026-08-26 22:01:25",

@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgIR1mhXzPQ.md) - [plain]
 | 34 | [When You See Me Shine](https://open.spotify.com/track/3nzJbsjONsKbkzDKRLD8A2) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [pool vol\. 7 \- When You See Me Shine](https://open.spotify.com/album/4Ntf9o57H9zINVKiwXMytd) | 4:44 |
 | 35 | [Madang](https://open.spotify.com/track/6TBYbcRJ0eD9ysQ07SpSlg) | [The Mows](https://open.spotify.com/artist/5xfi8WcXjocW8DfiSn5e2w) | [Madang](https://open.spotify.com/album/7cbbfhe2HjhQxuSlr0SKAj) | 3:07 |
 | 36 | [Open Your Mouth](https://open.spotify.com/track/5tSNC4Z0ZQ0Ft3lptsi1Ml) | [The Mows](https://open.spotify.com/artist/5xfi8WcXjocW8DfiSn5e2w) | [Mowing](https://open.spotify.com/album/4eZzH5DpV4wxYdUClpqE6q) | 4:10 |
-| 37 | [paradise](https://open.spotify.com/track/76MqV1XF0PZD0SASa32eF2) | [블낫블\(blue is not blue\)](https://open.spotify.com/artist/0uTWf6LJUvbPgJ67K9CVRL) | [paradise](https://open.spotify.com/album/32FdcYGqHff0MooPByMr5U) | 2:48 |
-| 38 | [World Tree](https://open.spotify.com/track/5VwtTuJMCziWG23Tl1Mmz8) | [블낫블\(blue is not blue\)](https://open.spotify.com/artist/0uTWf6LJUvbPgJ67K9CVRL) | [World Tree](https://open.spotify.com/album/47NJTLrjU9Ky5r25rItvtr) | 3:03 |
+| 37 | [paradise](https://open.spotify.com/track/76MqV1XF0PZD0SASa32eF2) | [블낫블\(Blue is Not Blue\)](https://open.spotify.com/artist/0uTWf6LJUvbPgJ67K9CVRL) | [paradise](https://open.spotify.com/album/32FdcYGqHff0MooPByMr5U) | 2:48 |
+| 38 | [World Tree](https://open.spotify.com/track/5VwtTuJMCziWG23Tl1Mmz8) | [블낫블\(Blue is Not Blue\)](https://open.spotify.com/artist/0uTWf6LJUvbPgJ67K9CVRL) | [World Tree](https://open.spotify.com/album/47NJTLrjU9Ky5r25rItvtr) | 3:03 |
 | 39 | [Apocalypse](https://open.spotify.com/track/3eLda4hLxJFwBQPiByRt0H) | [UINONE](https://open.spotify.com/artist/4hzjlwg83hnSyYpJ1WDkuI) | [Herman](https://open.spotify.com/album/5rIReTz2aQfSPyyKPKZzEK) | 3:24 |
 | 40 | [Mahaom](https://open.spotify.com/track/4OqMkFRjFPXAPH9Bxw1BNF) | [UINONE](https://open.spotify.com/artist/4hzjlwg83hnSyYpJ1WDkuI) | [Herman](https://open.spotify.com/album/5rIReTz2aQfSPyyKPKZzEK) | 2:53 |
 | 41 | [All a Mess](https://open.spotify.com/track/3POe3PMylSqcaZsZUDa2zs) | [구구](https://open.spotify.com/artist/5wpgBWnsCL8y5s5FSwY71k) | [Purehearted](https://open.spotify.com/album/2nQG8MkJFKtvqz5Yllh4yt) | 3:20 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgIR1mhXzPQ.md) - [plain]
 | 43 | [CAN’T STOP ME NOW](https://open.spotify.com/track/0oATQTK7f0ignw98FRAAJN) | [Wack](https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr) | [Be Nice](https://open.spotify.com/album/6QmWhZwxs0teIWFMzmmHaz) | 2:24 |
 | 44 | [Bushwacker](https://open.spotify.com/track/0TVQdaHckjiutw3x2G9Knm) | [Wack](https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr) | [Be Nice](https://open.spotify.com/album/6QmWhZwxs0teIWFMzmmHaz) | 2:22 |
 
-Snapshot ID: `AAAAAJWsrSvJAzdTUhldNJAjJizCE/Y8`
+Snapshot ID: `AAAAALLxuuern4gjK+V7RJt8RVEv/nPs`

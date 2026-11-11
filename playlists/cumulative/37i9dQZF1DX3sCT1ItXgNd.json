@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 153059,
       "name": "BODYPAINTING",
       "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 185293,
       "name": "CATIRA",
       "url": "https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 187309,
       "name": "Chamber\u00ed",
       "url": "https://open.spotify.com/track/2j3TJo8Afgwm41FSheL8qG"
@@ -3076,6 +3076,24 @@
       "duration_ms": 160000,
       "name": "cielo violeta",
       "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+    },
+    {
+      "album": {
+        "name": "Claro de luna",
+        "url": "https://open.spotify.com/album/1hQDgY98xGrthOc8D30dXP"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229155,
+      "name": "Claro de luna",
+      "url": "https://open.spotify.com/track/2HUNn6EWHEV02ub9irhf2D"
     },
     {
       "album": {
@@ -5896,7 +5914,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 165750,
       "name": "El Merengue (Versi\u00f3n Flamenca)",
       "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
@@ -6657,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "escalofr\u00edos",
+        "url": "https://open.spotify.com/album/1p4UWvXeZxraCcZEkGwx0k"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164542,
+      "name": "escalofr\u00edos",
+      "url": "https://open.spotify.com/track/1mKgK7wPrfLzD7gP0h9HD8"
+    },
+    {
+      "album": {
         "name": "escribiendo TKM",
         "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
       },
@@ -7246,7 +7282,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 141441,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM"
@@ -8337,6 +8373,24 @@
     },
     {
       "album": {
+        "name": "Bueno, pues ya est\u00e1",
+        "url": "https://open.spotify.com/album/2teYjsSzxNbxlE7ZghOsMF"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174462,
+      "name": "Ignorantes",
+      "url": "https://open.spotify.com/track/0CAfBjH7pebkNBuTljg7qF"
+    },
+    {
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -8908,7 +8962,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 189082,
       "name": "La Explosi\u00f3n",
       "url": "https://open.spotify.com/track/5VIxJkbmLsMgQg9W1MryoE"
@@ -10862,6 +10916,24 @@
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "album": {
+        "name": "Malib\u00fa Con Pi\u00f1a",
+        "url": "https://open.spotify.com/album/5R42bRyIg83Q2y6P2mjLgw"
+      },
+      "artists": [
+        {
+          "name": "Naiara",
+          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108375,
+      "name": "Malib\u00fa Con Pi\u00f1a",
+      "url": "https://open.spotify.com/track/3rRX4QTJvGTBYjxmoduXJV"
     },
     {
       "album": {
@@ -15759,6 +15831,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 casualidad",
+        "url": "https://open.spotify.com/album/2IOt51r30gfm5g4LH3qS2q"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143132,
+      "name": "Qu\u00e9 casualidad",
+      "url": "https://open.spotify.com/track/65MFtcVkwgair7JREankLu"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Pecao",
         "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
       },
@@ -19622,6 +19712,24 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "album": {
+        "name": "Valdevaqueros",
+        "url": "https://open.spotify.com/album/1E1zyCTNNIU1iPGyvJhKdf"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "Valdevaqueros",
+      "url": "https://open.spotify.com/track/6Lsvzwyp7wGOymnjvdp0tg"
     },
     {
       "album": {

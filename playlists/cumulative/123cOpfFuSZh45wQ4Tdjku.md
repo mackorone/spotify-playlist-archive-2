@@ -4,7 +4,7 @@
 
 > mostly furry
 
-601 songs - 1 day 5 hr 41 min
+602 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Happy](https://open.spotify.com/track/6xfIAKM0xiwGODc1CMsF1j) | [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [Happy](https://open.spotify.com/album/6bVISDojEF4VclUvevDexc) | 1:56 | 2024-05-23 |  |
 | [Happy Day In Hell](https://open.spotify.com/track/1nEeHJvkOjHmFgDw8esamO) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Mick Lauer](https://open.spotify.com/artist/6ZiQ6uWJ2zi6EQakRR5Pkx), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Happy Day In Hell \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/3NE5ss7wAyGFcOishQdTWX) | 2:57 | 2024-05-14 |  |
 | [Happy Day In Hell \- Lute & Sera Version](https://open.spotify.com/track/6V5Ze1nVZkJ4TUNot1KDnk) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Happy Day In Hell \(Lute & Sera Version\)](https://open.spotify.com/album/1bdBtQYco2N4HMq9lhpGtY) | 3:02 | 2024-05-14 |  |
+| [Harpy Hare](https://open.spotify.com/track/6pWlv50Lthad8jyd6f1TlC) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/5YtN8x4Q8H7zEFroBn9yq0) | 3:00 | 2026-11-10 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2026-07-17 |  |
 | [HEAD UP](https://open.spotify.com/track/2zLEYBz7UzR37EbZts3jx8) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [HEAD UP](https://open.spotify.com/album/653e6fCZJtmJluHmi2XEaC) | 3:25 | 2026-08-24 |  |
 | [Hear me now cover](https://open.spotify.com/track/1INXzE04ycSWt8cH2Te443) | [Marquisb0i](https://open.spotify.com/artist/0oI0lZ7zucrwPymDUqhSWb), [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Hear me now cover](https://open.spotify.com/album/29X2tHGiDrZLQ4Li14DvxI) | 4:17 | 2024-01-20 |  |

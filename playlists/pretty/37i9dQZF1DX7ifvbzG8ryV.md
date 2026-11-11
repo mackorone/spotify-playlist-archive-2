@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:playlist:37i9dQZF1EFHr9lqIT58J2">Abi Flynn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,133 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,132 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 |
 | 50 | [surrender](https://open.spotify.com/track/6Iw8RkhQMg0CWBXsOGy1Ls) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [surrender](https://open.spotify.com/album/5CCSNp3sHWjiVVkdHQJlQs) | 3:39 |
 
-Snapshot ID: `AAAAAI6i+mllOsYoLjippMMA/yKZS/6H`
+Snapshot ID: `AAAAAKk0/Kmfjg0xzrkPt53R55LEV1Ad`

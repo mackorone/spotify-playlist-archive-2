@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Yas Mayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,206 likes - 120 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,221 likes - 120 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 119 | [Do Whatchu Gotta](https://open.spotify.com/track/62BJVIeKG6pyFvJJKflaHi) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f) | [Do Whatchu Gotta](https://open.spotify.com/album/7ah6GnmzfDb4WWe1uFm8tq) | 3:38 |
 | 120 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
 
-Snapshot ID: `AAAAAKE1VHYom8tijXLWiIYXi9S5x6Xa`
+Snapshot ID: `AAAAAFFziywCnwMtzjUjBvhBo71XSa7w`

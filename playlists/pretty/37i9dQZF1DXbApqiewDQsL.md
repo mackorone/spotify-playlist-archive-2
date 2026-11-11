@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring  Estilo Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,980 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,002 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Los Ojos](https://open.spotify.com/track/2I5pgDmvZl0YqinWsyY2KQ) | [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [Los Ojos](https://open.spotify.com/album/1C3CWlUwxV9WJZemR6kPwJ) | 2:51 |
 | 50 | [Me Cansé](https://open.spotify.com/track/4mGhy84yKIKCdeXkIkMVE3) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [Low Clika](https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV) | [Me Cansé](https://open.spotify.com/album/4QAZjZixdVZvsWjNDjJk7P) | 2:43 |
 
-Snapshot ID: `AAAAAMY96DzJ2boaSOFCW6sboHnqB3CI`
+Snapshot ID: `AAAAADjBIv8Wb+hD574YvgofdDGg6tE2`

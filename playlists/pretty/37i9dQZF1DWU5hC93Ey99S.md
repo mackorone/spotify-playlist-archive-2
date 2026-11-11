@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,773 likes - 200 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,002 likes - 200 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 199 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 |
 | 200 | [Love of My Life](https://open.spotify.com/track/1okTdVJviY0tCQqMevNlrG) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Love of My Life](https://open.spotify.com/album/4FUeq1yUrVwEQYRB0vNcK5) | 2:36 |
 
-Snapshot ID: `AAAAAAPRkZvSnf2SxZPCjg/7c2ATaKBu`
+Snapshot ID: `AAAAACY3PwdSIjvzefAwCbBzQxrVSEHV`

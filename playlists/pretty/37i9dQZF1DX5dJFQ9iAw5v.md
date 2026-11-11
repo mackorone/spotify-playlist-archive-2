@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Mariano Otero
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,346 likes - 76 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,347 likes - 76 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 19 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 |
 | 20 | [Arenales Blues](https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Lua](https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs) | 4:11 |
 | 21 | [Acuático](https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Studio 2](https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt) | 5:27 |
-| 22 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 |
+| 22 | [Pop](https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:40 |
 | 23 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 |
-| 24 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 |
+| 24 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 |
 | 25 | [There Will Never Be Another You](https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD) | [Walter Malosetti](https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp) | [All of Me](https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE) | 4:39 |
-| 26 | [Pop](https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:40 |
+| 26 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 |
 | 27 | [NO LA VI VENIR](https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj) | [Hot Shooters](https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr) | [Boticario de Amor](https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL) | 3:05 |
 | 28 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
 | 29 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [Entrada al Jardín de Ordóñez](https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 1:54 |
 | 76 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 |
 
-Snapshot ID: `AAAAADoh6/dy19aAc2jQd7tX9dPl8hrU`
+Snapshot ID: `AAAAAH8gQwU53LWR8ZcygJH8zbTWP3sr`

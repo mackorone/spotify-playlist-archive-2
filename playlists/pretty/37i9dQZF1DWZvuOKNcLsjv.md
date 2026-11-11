@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,985 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,982 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 58 | [New Journey](https://open.spotify.com/track/7dOWN2UK7jsmtnGAs8CcLr) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Beyond the Sea](https://open.spotify.com/album/7BAvGRf8ZBAtYmieJKCnO5) | 3:48 |
 | 59 | [Firestarter](https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Firestarter](https://open.spotify.com/album/5onmf5T1bbZColPNDmTiwI) | 3:53 |
 
-Snapshot ID: `AAAAAJ4FD4yrdEmhK+jK3rrAS+MiP6pb`
+Snapshot ID: `AAAAAJRx4s17vGAq3zeubtqkkBA2Rjuu`

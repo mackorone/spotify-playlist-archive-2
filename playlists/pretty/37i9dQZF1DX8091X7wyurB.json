@@ -1,12 +1,12 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 337158,
+  "num_followers": 337362,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABm4WDz2QbvawKdc4Xoq5vDjBREj",
+  "snapshot_id": "AAAAAOvHoo9Y8+wDfh/AD4mJHC09b3R7",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -53,22 +53,6 @@
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
     },
     {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
       "added_at": "2025-08-22 00:01:27",
       "album": {
         "name": "Move Your Heart",
@@ -95,6 +79,22 @@
       "duration_ms": 337152,
       "name": "Rest on Us (feat. Brandon Lake & Eniola Abioye)",
       "url": "https://open.spotify.com/track/0A402ZdxwQzaVdyH5Zav5X"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2025-04-18 00:01:29",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
-      "added_at": "2025-08-22 00:01:27",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
-    },
-    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "The Great Commission",
@@ -883,6 +867,22 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "added_at": "2025-08-22 00:01:27",
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1309,26 +1309,6 @@
       "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Crowns Down (Live)",
-        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 406671,
-      "name": "Crowns Down - Live",
-      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
-    },
-    {
       "added_at": "2026-03-06 00:01:06",
       "album": {
         "name": "Baruch Hashem Adonai (Live)",
@@ -1347,6 +1327,26 @@
       "duration_ms": 1143786,
       "name": "Baruch Hashem Adonai - Live",
       "url": "https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 406671,
+      "name": "Crowns Down - Live",
+      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
     },
     {
       "added_at": "2026-08-28 00:01:33",

@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Christmas Sweater",
+        "url": "https://open.spotify.com/album/2RoBnhEsQCMemhQ82raz8f"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145700,
+      "name": "Christmas Sweater",
+      "url": "https://open.spotify.com/track/6bhhgaXCqpLM7biaVWQE55"
+    },
+    {
+      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/3jOlSmUriGAdcDeSwZjgEH"
       },
@@ -2904,24 +2922,6 @@
       "duration_ms": 179525,
       "name": "Holiday Sprinkles",
       "url": "https://open.spotify.com/track/4aF0ktSBN6PioEkmr5GLUz"
-    },
-    {
-      "album": {
-        "name": "Christmas Sweater",
-        "url": "https://open.spotify.com/album/2RoBnhEsQCMemhQ82raz8f"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145700,
-      "name": "Holiday Sweater",
-      "url": "https://open.spotify.com/track/6bhhgaXCqpLM7biaVWQE55"
     },
     {
       "album": {

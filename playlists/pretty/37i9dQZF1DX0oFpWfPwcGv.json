@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 75039,
+  "num_followers": 75047,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvxqHXZHLpuJd4uzmN4T7kFT9K8",
+  "snapshot_id": "AAAAAAJsSB3cKarVCx7GKE+GENohKhzS",
   "tracks": [
     {
       "added_at": "2026-01-15 16:33:26",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
-      },
-      "artists": [
-        {
-          "name": "Ms. (Sharon) Ridley",
-          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
-        }
-      ],
-      "duration_ms": 388920,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 322480,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
+      },
+      "artists": [
+        {
+          "name": "Ms. (Sharon) Ridley",
+          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
+        }
+      ],
+      "duration_ms": 388920,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
     },
     {
       "added_at": "2026-01-15 16:33:26",

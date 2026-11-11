@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM8MGrUOf0tHVJ+xEsteQL1r8meW",
+  "snapshot_id": "AAAAAAG6r9YJbfQRAj4wK9bXfHDYksVa",
   "tracks": [
     {
       "added_at": "2026-11-06 03:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
-        "name": "Orgasmatron (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3DAjWuihHWYhgtcXpGitiO"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Deaf Forever - Cameron Webb 40th Anniversary Remix",
-      "url": "https://open.spotify.com/track/05NwbopOX3gYWSh3JVolht"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
         "name": "Morning Shall Come",
         "url": "https://open.spotify.com/album/1iv3SQYHsMDkTzpTQukmOd"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 304318,
       "name": "Morning Shall Come",
       "url": "https://open.spotify.com/track/6dwEUTQ8cwx6EDfJqGwK90"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
+        "name": "Orgasmatron (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3DAjWuihHWYhgtcXpGitiO"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Deaf Forever - Cameron Webb 40th Anniversary Remix",
+      "url": "https://open.spotify.com/track/05NwbopOX3gYWSh3JVolht"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
-        "name": "Rock And Roll Over (50th Anniversary Super Deluxe)",
-        "url": "https://open.spotify.com/album/3VTPu8P2jlMLwCMY0wWIVr"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Take Me - Extended Outtake",
-      "url": "https://open.spotify.com/track/4JJDC41d84QByLRxNOLCFQ"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
         "name": "Go Man Go / Dig for Fire (Albini Version)",
         "url": "https://open.spotify.com/album/3jsZ7w3pEMDC09LDdk2k3l"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 168789,
       "name": "Go Man Go",
       "url": "https://open.spotify.com/track/7JLLi5uTXX6fgqZOxwMWVq"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
+        "name": "Rock And Roll Over (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/3VTPu8P2jlMLwCMY0wWIVr"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Take Me - Extended Outtake",
+      "url": "https://open.spotify.com/track/4JJDC41d84QByLRxNOLCFQ"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
-        "name": "The Cost to Stay",
-        "url": "https://open.spotify.com/album/6jH7S9ZtJCwYhVntqqOxkt"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 221410,
-      "name": "The Cost To Stay",
-      "url": "https://open.spotify.com/track/709PquzjskkVjT2VIMlTfH"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
         "name": "Home Again--The Complete United Artists Recordings",
         "url": "https://open.spotify.com/album/2u7XYh4b2ClUL6Z2w1j9rD"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 226185,
       "name": "You\u2019ve Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/6lBKHjzElEVauEOJLmRngY"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
+        "name": "The Cost to Stay",
+        "url": "https://open.spotify.com/album/6jH7S9ZtJCwYhVntqqOxkt"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 221410,
+      "name": "The Cost To Stay",
+      "url": "https://open.spotify.com/track/709PquzjskkVjT2VIMlTfH"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
-        "name": "Soul Destruction",
-        "url": "https://open.spotify.com/album/1UxdXXo3mbavC8irIRMCdq"
-      },
-      "artists": [
-        {
-          "name": "Sankara",
-          "url": "https://open.spotify.com/artist/10jQiHjeqG2iYmFO9MhGR6"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Soul Destruction",
-      "url": "https://open.spotify.com/track/1UxI5V2yBsOAOCNHQl3587"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
         "name": "More Than Misery",
         "url": "https://open.spotify.com/album/4qrt6Dxmo2t9BwHt8fB75Q"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 242520,
       "name": "The Process Of Pain",
       "url": "https://open.spotify.com/track/5lOx0RyEsz3XbGtC3HT30x"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
+        "name": "Soul Destruction",
+        "url": "https://open.spotify.com/album/1UxdXXo3mbavC8irIRMCdq"
+      },
+      "artists": [
+        {
+          "name": "Sankara",
+          "url": "https://open.spotify.com/artist/10jQiHjeqG2iYmFO9MhGR6"
+        }
+      ],
+      "duration_ms": 137551,
+      "name": "Just a Corpse",
+      "url": "https://open.spotify.com/track/4J8pQOJXItoJzvf8Gmj6sE"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
-        "name": "\u6b69\u5e45",
-        "url": "https://open.spotify.com/album/6wIeQGCAMwMFgtWw6iHVAz"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 340648,
-      "name": "\u6b69\u5e45",
-      "url": "https://open.spotify.com/track/3oKvVl5AEH2GyHmwHSof8p"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
         "name": "ALL IS BEAUTIFUL... BECAUSE WE'RE DOOMED: CIRCULARITY",
         "url": "https://open.spotify.com/album/39S9wKzm5lrOxPHApfo41O"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 205961,
       "name": "DEAD SILENT",
       "url": "https://open.spotify.com/track/1FdHuhg8xcm4sVHc6xl2hd"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
+        "name": "\u6b69\u5e45",
+        "url": "https://open.spotify.com/album/6wIeQGCAMwMFgtWw6iHVAz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 340648,
+      "name": "\u6b69\u5e45",
+      "url": "https://open.spotify.com/track/3oKvVl5AEH2GyHmwHSof8p"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -932,26 +932,6 @@
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Stephen Kovacevich",
-          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
-        }
-      ],
-      "duration_ms": 395000,
-      "name": "Nocturne No. 18 in E, Op. 62 No. 2",
-      "url": "https://open.spotify.com/track/4feyXGNvCHbo0n2D01h9C2"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
-        "name": "A Selection: Kovacevich plays Mozart, Beethoven & Chopin",
-        "url": "https://open.spotify.com/album/39nQQxYqTWjpuA4769LdhT"
-      },
-      "artists": [
-        {
           "name": "Wolfgang Amadeus Mozart",
           "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
@@ -971,6 +951,26 @@
       "duration_ms": 468000,
       "name": "Piano Concerto No. 23 in A Major, K. 488: III. Allegro assai",
       "url": "https://open.spotify.com/track/3Kt9CbEjesZT5ZihPeMd30"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
+        "name": "A Selection: Kovacevich plays Mozart, Beethoven & Chopin",
+        "url": "https://open.spotify.com/album/39nQQxYqTWjpuA4769LdhT"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Nocturne No. 18 in E, Op. 62 No. 2",
+      "url": "https://open.spotify.com/track/4feyXGNvCHbo0n2D01h9C2"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/4H7BAnbN3vCtzWIgNyJXbi"
-      },
-      "artists": [
-        {
-          "name": "Lita Ford",
-          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
-        }
-      ],
-      "duration_ms": 276015,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/7Iwoiaro59GdgnGwxFaVcc"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
         "name": "Maxi Kaputt",
         "url": "https://open.spotify.com/album/71OsPVP0dUjuQ5GWsGp6FQ"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/4H7BAnbN3vCtzWIgNyJXbi"
+      },
+      "artists": [
+        {
+          "name": "Lita Ford",
+          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
+        }
+      ],
+      "duration_ms": 276015,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/7Iwoiaro59GdgnGwxFaVcc"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
         "name": "A Selection: Kovacevich plays Mozart, Beethoven & Chopin",
         "url": "https://open.spotify.com/album/39nQQxYqTWjpuA4769LdhT"
       },
@@ -1074,43 +1074,11 @@
         {
           "name": "Stephen Kovacevich",
           "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
-        },
-        {
-          "name": "BBC Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 824000,
-      "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: I. Allegro con brio",
-      "url": "https://open.spotify.com/track/0VMrhPYpeGjTdDLTPFobUS"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
-        "name": "Raise Your Voices (The Orchestral Music Of Secret Garden)",
-        "url": "https://open.spotify.com/album/1kil0drR1vVoL1EWhz6w0f"
-      },
-      "artists": [
-        {
-          "name": "Secret Garden",
-          "url": "https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Holst Singers",
-          "url": "https://open.spotify.com/artist/3NTZfjAhbZdPxNMTpAPd8h"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Raise Your Voices - The Orchestral Music Of Secret Garden",
-      "url": "https://open.spotify.com/track/0FgaoQofkU65stBcyGmcKo"
+      "duration_ms": 66000,
+      "name": "11 Bagatelles, Op. 119: 5. Risoluto",
+      "url": "https://open.spotify.com/track/666BK7Kyuex44Y9l6XYaen"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -1147,22 +1115,26 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
-        "name": "MALAGRADECIDA",
-        "url": "https://open.spotify.com/album/6adzrVhi1XiEyoHwU7Arje"
+        "name": "Raise Your Voices (The Orchestral Music Of Secret Garden)",
+        "url": "https://open.spotify.com/album/1kil0drR1vVoL1EWhz6w0f"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Secret Garden",
+          "url": "https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0"
         },
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Holst Singers",
+          "url": "https://open.spotify.com/artist/3NTZfjAhbZdPxNMTpAPd8h"
         }
       ],
-      "duration_ms": 178657,
-      "name": "Alguien como YO",
-      "url": "https://open.spotify.com/track/4qhIBH6jUbQi7yuudB7yjj"
+      "duration_ms": 268973,
+      "name": "Raise Your Voices - The Orchestral Music Of Secret Garden",
+      "url": "https://open.spotify.com/track/0FgaoQofkU65stBcyGmcKo"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -1203,6 +1175,26 @@
       "duration_ms": 94557,
       "name": "Live By The Wave Die By The Wave",
       "url": "https://open.spotify.com/track/51sqtM4IiTdKO69dEvz7Vx"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
+        "name": "MALAGRADECIDA",
+        "url": "https://open.spotify.com/album/6adzrVhi1XiEyoHwU7Arje"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 178657,
+      "name": "Alguien como YO",
+      "url": "https://open.spotify.com/track/4qhIBH6jUbQi7yuudB7yjj"
     },
     {
       "added_at": "2026-11-06 03:00:00",
@@ -1255,6 +1247,26 @@
     {
       "added_at": "2026-11-06 03:00:00",
       "album": {
+        "name": "La Explosi\u00f3n",
+        "url": "https://open.spotify.com/album/6QRUjD0riNlL9fvC8tgGdS"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "La Explosi\u00f3n",
+      "url": "https://open.spotify.com/track/5VIxJkbmLsMgQg9W1MryoE"
+    },
+    {
+      "added_at": "2026-11-06 03:00:00",
+      "album": {
         "name": "Dark Summer (Rise Outtakes)",
         "url": "https://open.spotify.com/album/7AP5XmEEjBNbdWRYsmJbTl"
       },
@@ -1299,26 +1311,6 @@
       "duration_ms": 210920,
       "name": "Al Otro Lado",
       "url": "https://open.spotify.com/track/5GZjA0pqnNSxnqNTzM7D59"
-    },
-    {
-      "added_at": "2026-11-06 03:00:00",
-      "album": {
-        "name": "La Explosi\u00f3n",
-        "url": "https://open.spotify.com/album/6QRUjD0riNlL9fvC8tgGdS"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "La Explosi\u00f3n",
-      "url": "https://open.spotify.com/track/5VIxJkbmLsMgQg9W1MryoE"
     },
     {
       "added_at": "2026-11-06 03:00:00",

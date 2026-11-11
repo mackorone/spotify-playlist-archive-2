@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Gabby Moura, Imaginasamba
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,152 likes - 74 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,143 likes - 74 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 73 | [Perfeição / Deixa Em Off \- Ao Vivo](https://open.spotify.com/track/2juTXnK3JbIJo5wE58C1Io) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Pôr do Suel Em Recife \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/5jPz9g0dyrJVPaFdOKRsng) | 3:39 |
 | 74 | [Gamei / Ponto Final \- Ao Vivo](https://open.spotify.com/track/4QenQI5EgJUFInEil9acwD) | [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs), [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Hoje Tem Folga \(Ao Vivo\)](https://open.spotify.com/album/5PC0kn0rvDjxhRinVG2ZJy) | 3:52 |
 
-Snapshot ID: `AAAAAOk/BDKLrSlUhTPWTa1t0IgNCUzR`
+Snapshot ID: `AAAAAODepM5WYsscXWAvyAG0V3pwBokt`

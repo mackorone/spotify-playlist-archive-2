@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BE'O) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221309,
+  "num_followers": 221298,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJoqPDfdGkE/hq9zqgCHPOYlwn6m",
+  "snapshot_id": "AAAAALUV+ddusEkptTl63PB4N1iKlZ5L",
   "tracks": [
     {
       "added_at": "2026-11-03 05:31:59",
@@ -291,6 +291,26 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 235893,
       "name": "Black Heart (feat. Leellamarz, BE'O)",
       "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 220681,
       "name": "Limousine (Feat. MINO) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 166026,
       "name": "Breezy~ (feat. BIG Naughty & Kid Milli)",
       "url": "https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -939,26 +939,18 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) [Remix]",
-        "url": "https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh"
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
       "artists": [
         {
-          "name": "Molly Yam",
-          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "GGM LIL DRAGON",
-          "url": "https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 170013,
-      "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
-      "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -979,18 +971,26 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) [Remix]",
+        "url": "https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "Molly Yam",
+          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "GGM LIL DRAGON",
+          "url": "https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS"
         }
       ],
-      "duration_ms": 205999,
-      "name": "Infrared Camera",
-      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+      "duration_ms": 170013,
+      "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
+      "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "Hongdae Rapper",
-        "url": "https://open.spotify.com/album/2y2PrD6PJlefeQNkLQMI3j"
-      },
-      "artists": [
-        {
-          "name": "Hukky Shibaseki",
-          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 185888,
-      "name": "Hongdae Rapper",
-      "url": "https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 183000,
       "name": "STAY on FIRE (feat. DEAN)",
       "url": "https://open.spotify.com/track/0VGeaj4sDq9UnwzSxiVgkZ"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "Hongdae Rapper",
+        "url": "https://open.spotify.com/album/2y2PrD6PJlefeQNkLQMI3j"
+      },
+      "artists": [
+        {
+          "name": "Hukky Shibaseki",
+          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 185888,
+      "name": "Hongdae Rapper",
+      "url": "https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
+        "name": "LOVE MAZE",
+        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "NG (Feat. pH-1, Jay Park)",
+      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
         "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
@@ -1371,26 +1395,18 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "LOVE MAZE",
-        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
       "artists": [
         {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 227560,
-      "name": "NG (Feat. pH-1, Jay Park)",
-      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1407,22 +1423,6 @@
       "duration_ms": 244000,
       "name": "SO GONE",
       "url": "https://open.spotify.com/track/1h4cirMhnq1RmrP4aQbSTd"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "BABY CACTUS",
-        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "BUCKET LIST (feat. Crush)",
-      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "Wait A Minute !",
         "url": "https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 194500,
       "name": "Wait A Minute ! (Feat. \ud669\uc138\ud604(h3hyeon))",
       "url": "https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "BABY CACTUS",
+        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "BUCKET LIST (feat. Crush)",
+      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
     },
     {
       "added_at": "2026-11-03 05:31:59",

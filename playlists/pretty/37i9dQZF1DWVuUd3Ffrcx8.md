@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Rex Orange County\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,846 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,844 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 49 | [Cooler](https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:30 |
 | 50 | [Tastes Like Summer](https://open.spotify.com/track/74jKa2gKnngQwP3HMRke6b) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tastes Like Summer](https://open.spotify.com/album/0T7lhonUTlZ7zbzKVIPdvJ) | 3:39 |
 
-Snapshot ID: `AAAAAMvrOMEsmK07jeWS2rxMsh8CfE0+`
+Snapshot ID: `AAAAAOy/gaxmZ0W1yV7uUzuvgX/c/uBM`

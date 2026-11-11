@@ -1,12 +1,12 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 64434,
+  "num_followers": 64451,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABR8ZTDl/54PdiwoSY+C31l26Uxv",
+  "snapshot_id": "AAAAAIrhzl3vuoAH2yH6basDjtq6V5kM",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:46",
@@ -155,18 +155,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 206224,
-      "name": "Already Falling",
-      "url": "https://open.spotify.com/track/3ozNRKWMwoVDoFSsamwJ5e"
+      "duration_ms": 156449,
+      "name": "TWIN (feat. FOLA)",
+      "url": "https://open.spotify.com/track/4nVbIekXcxHDYdAUXMPvcC"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -243,22 +247,18 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 156449,
-      "name": "TWIN (feat. FOLA)",
-      "url": "https://open.spotify.com/track/4nVbIekXcxHDYdAUXMPvcC"
+      "duration_ms": 206224,
+      "name": "Already Falling",
+      "url": "https://open.spotify.com/track/3ozNRKWMwoVDoFSsamwJ5e"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "CHE",
-        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHE",
-      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 160866,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
-      },
-      "artists": [
-        {
-          "name": "Toje",
-          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
+      },
+      "artists": [
+        {
+          "name": "Toje",
+          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Break Me Down",
-        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Orindowo",
         "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
         }
       ],
-      "duration_ms": 154328,
-      "name": "SEX LOVE UNDERSTANDING TRUST",
-      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
+      "duration_ms": 129032,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -943,6 +927,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 154328,
+      "name": "SEX LOVE UNDERSTANDING TRUST",
+      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1007,18 +987,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1043,6 +1027,22 @@
       "duration_ms": 144444,
       "name": "Come Kulosa",
       "url": "https://open.spotify.com/track/2OJtdCzSnQ1G9rMJ6eD1Wt"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/1wh2tpER5kDqXXF3qjIo5y"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 180528,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4oMLmQyX1VubCpDGSZJhhr"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Gaddem",
         "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
       },
@@ -1279,26 +1259,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Stay a Little Longer",
-        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
-      },
-      "artists": [
-        {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/3Y2wX1odxcF1oiPCGlAgOU"
       },
@@ -1315,6 +1275,46 @@
       "duration_ms": 237561,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5DY6BHrUCp98AesuKVjuxd"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "Namipa",
+        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Namipa",
+      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "High Spirit",
         "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 169678,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "Namipa",
-        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 141521,
-      "name": "Namipa",
-      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
     },
     {
       "added_at": "2026-10-23 00:01:46",

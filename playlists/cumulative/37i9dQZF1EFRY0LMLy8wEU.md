@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-85 songs - 10 hr 45 min
+86 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Steadfast Love \- Live](https://open.spotify.com/track/3qCifohJv80eyHYbdpaP3w) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 9:16 | 2024-06-13 |  |
 | [Take Courage \- Live](https://open.spotify.com/track/67mRhJJV9N7NeAgricrBA4) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation \(Live\)](https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx) | 5:50 | 2026-07-15 |  |
 | [Tear Down The Idols](https://open.spotify.com/track/39nSFsVafS3EonrhrJ7aLQ) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 5:01 | 2025-04-27 |  |
+| [Thank You For The Blood](https://open.spotify.com/track/0M3f1HQNtLfDUjQo4Q4ASd) | [Oceans Music](https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [Heaven Made A Way](https://open.spotify.com/album/7qnZ72HFc86cHydUX05qrY) | 5:17 | 2026-11-10 |  |
 | [The Fields Are Ready](https://open.spotify.com/track/0nvTazbNK3MzfTRrGcHAf8) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:10 | 2024-06-13 | 2025-02-28 |
 | [The Fields Are Ready](https://open.spotify.com/track/0zy9NI36IhHEG1pyAla2Ed) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/2pmRUtYaB8fHdZEjIA3X15) | 5:10 | 2025-02-27 |  |
 | [The Kind of God You Are](https://open.spotify.com/track/6Ia1eFYLxJxXMlS36WCdFr) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6SCImSTo63Wk8Apr8IC9ku) | 3:38 | 2024-06-13 |  |

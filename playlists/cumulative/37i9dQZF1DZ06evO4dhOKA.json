@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 139986,
       "name": "Amor A La Ligera",
       "url": "https://open.spotify.com/track/6lWhsgbZr8P2zKkucWWqGH"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 177306,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 198280,
       "name": "Entre La Vida Y La Muerte",
       "url": "https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln"
@@ -1716,32 +1716,6 @@
     {
       "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "date_added": "2025-12-16",
-      "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
-      "duration_ms": 195506,
-      "name": "Me Llega, Me Llega (En Vivo)",
-      "url": "https://open.spotify.com/track/63MbvcB6E9xMw7ljwfyEej"
-    },
-    {
-      "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3ioAkBCcr9y8ClSMNDSSaV"
       },
       "artists": [
@@ -1764,6 +1738,32 @@
       "duration_ms": 195506,
       "name": "Me Llega, Me Llega (En Vivo)",
       "url": "https://open.spotify.com/track/7xHx5S7Sd6ruj6syWrwljS"
+    },
+    {
+      "album": {
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Me Llega, Me Llega - En Vivo",
+      "url": "https://open.spotify.com/track/63MbvcB6E9xMw7ljwfyEej"
     },
     {
       "album": {

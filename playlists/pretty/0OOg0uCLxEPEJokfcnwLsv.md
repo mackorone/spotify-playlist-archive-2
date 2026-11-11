@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,452 likes - 70 songs - 4 hr 15 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,466 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 68 | [PCH](https://open.spotify.com/track/7fwBbBWE9vwiGzEmIHw30L) | [Chaotic Hearts](https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq) | [PCH](https://open.spotify.com/album/4OozgpiLIOpwwJQQMQRivm) | 4:58 |
 | 69 | [Fantasma](https://open.spotify.com/track/4wvVNCXf1kguUIw3HhJmxb) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [Fantasma](https://open.spotify.com/album/5LJqq53VTPgWQmPA2X1osP) | 4:03 |
 | 70 | [Skoold](https://open.spotify.com/track/6aSYqXbgGESAMrx5farYZp) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [M30](https://open.spotify.com/album/76K1pVbMSisFEdPiIcoIvO) | 3:49 |
+| 71 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
+| 72 | [Better Days](https://open.spotify.com/track/30yQMSGdC4fzvPWUHPaGKT) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:32 |
+| 73 | [Wallet Chain](https://open.spotify.com/track/6cX18mwaiDPccmmSCM7Ky7) | [Barnshed](https://open.spotify.com/artist/25NiXzEzQZXv5AXSUJ0QbP) | [Prison Baby](https://open.spotify.com/album/0dcG7zNlavpwpgPcdDWTAx) | 2:36 |
+| 74 | [Starting Over](https://open.spotify.com/track/6KfqvtL8mS8qG1c6oQMK7J) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Last Sunsets](https://open.spotify.com/album/2TsKcXE3zKbwILorKocQkR) | 3:56 |
+| 75 | [Burn](https://open.spotify.com/track/1jpRRl1Z8zO4iFQQZuFQbG) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Burn](https://open.spotify.com/album/7GEH5gCu29zli4Vlcc0byl) | 3:48 |
 
-Snapshot ID: `AAAHUO8wf3m1kA03ZBMYyEirxhfWr2tw`
+Snapshot ID: `AAAHVUjhCXptJ61p287sKvy3Xt5/7UMm`

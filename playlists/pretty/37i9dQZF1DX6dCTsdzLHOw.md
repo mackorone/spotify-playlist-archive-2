@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,558 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,557 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 85 | [Sikiliza Kwa Wahenga \- Main Title](https://open.spotify.com/track/7dYRXvyAGIloysASZazFLl) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Get Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0L7VtXWMySVyhePPAtRlAN) | 1:19 |
 | 86 | [Ghostbusters \- Piano & Strings Version](https://open.spotify.com/track/3beAE0QZgk8GIKy3epPfAS) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Ghostbusters \(Piano & Strings Version\)](https://open.spotify.com/album/0ngJtCl8z5tWE1ieojp3Tf) | 2:03 |
 
-Snapshot ID: `AAAAANYPmWnct51bTsoVAz8S2IdR4+fO`
+Snapshot ID: `AAAAADCRyeDeYANmnmGMr1mZU0DZb45w`

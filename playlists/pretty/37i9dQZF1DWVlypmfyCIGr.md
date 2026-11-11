@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: VIDA Hollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,787 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,788 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 78 | [ベラドンナ](https://open.spotify.com/track/0R6t2LvRIluy7YiYiRR8FH) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk) | [ベラドンナ](https://open.spotify.com/album/7qcdYJ6sU3xmxG8QiVVH2z) | 3:33 |
 | 79 | [きみに会えて](https://open.spotify.com/track/4ZD9R7Lxp2VlRLnQpi98bG) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k) | [eyes](https://open.spotify.com/album/4BRMGy11t4dco9WETb9UaC) | 5:29 |
 
-Snapshot ID: `AAAAAB5rOLm4cvzXviv9/c79f44Uxt6O`
+Snapshot ID: `AAAAALF0G5yo2bjpxYnXjS79DAG2bL3O`

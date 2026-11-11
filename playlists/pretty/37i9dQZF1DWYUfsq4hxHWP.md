@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Aniston Pate, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,150 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,203 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Jukebox](https://open.spotify.com/track/48iNhvvn1NB7LyXEv6yWSs) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Jukebox](https://open.spotify.com/album/3yViCbyQiPVULYBGRA2TCY) | 2:54 |
 | 75 | [In Case You Can’t](https://open.spotify.com/track/5MxGbK2wYuukH3bbzlLo9R) | [Hunt Pipkin](https://open.spotify.com/artist/0y2OQCY9GJxldt99r8QuCu) | [In Case You Can’t](https://open.spotify.com/album/0N0B8vd129WZE8V5wBUKTi) | 3:45 |
 
-Snapshot ID: `AAAAAD/z2/rTuVaXPUkUhKzieGJlrqns`
+Snapshot ID: `AAAAAPcWk7Lm3yJugoxS5pUs69HkaNAe`

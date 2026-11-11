@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:629ovTrIOVUyoyv4L2dyqR">Los Tripl3ts </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,027 likes - 12 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,028 likes - 12 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 11 | [Kenia OS y la vida de pueblo.\. ¿presión por casarse? \| Cachorritas Podcast \| Ep 41](https://open.spotify.com/episode/6kdOb5PbsUdtJfj7UQS1Jq) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 48:59 |
 | 12 | [Palabras de Pueblo: No reconocidas por la RAE \| Cachorritas Podcast \| Ep 35](https://open.spotify.com/episode/6962xzNmJpfTmab4O6L91A) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 47:40 |
 
-Snapshot ID: `AAAAAG1+KnOholRK3At75TESMJ+iXydZ`
+Snapshot ID: `AAAAAJGj0T+ngAm2txN8Vv4At8elKMSZ`

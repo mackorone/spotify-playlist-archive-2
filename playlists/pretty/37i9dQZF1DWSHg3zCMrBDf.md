@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: Kofi Mole
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,367 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,389 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 50 | [METICULOUS](https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHRISTO DISCO](https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN) | 3:53 |
 | 51 | [Forever \(feat\. AratheJay\)](https://open.spotify.com/track/3tc3pVVcG9S3B30Jte0EJd) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 3:16 |
 
-Snapshot ID: `AAAAAClDqgAmtU/V/W/kAGii49IpPMCt`
+Snapshot ID: `AAAAAFaYegfAjDPHJ9m/Y66vHToRJva8`

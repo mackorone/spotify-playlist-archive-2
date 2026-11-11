@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Young Multi
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,005 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,008 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [TO COŚ](https://open.spotify.com/track/1taAzCQwQrChFXMmpbQ4rN) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Palar](https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt), [VVSimon](https://open.spotify.com/artist/4qKXfc0gl62ImELchh15HY), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [CALIFORNIA LOVE EP](https://open.spotify.com/album/2Mk6yP0Xpv0R4Ej9Pi89zd) | 3:00 |
 | 50 | [MYŚLĘ WIĘC JESTEM](https://open.spotify.com/track/5ZgSRbOtbZgW2pq5j1qMyU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [B](https://open.spotify.com/album/7is4lQft9LA35zqfkE6YQE) | 3:14 |
 
-Snapshot ID: `AAAAAFEWn3XP5YuQC69CMYQG2A3l4eXc`
+Snapshot ID: `AAAAAGN/pzbBHxf/tdqqGN1Q0b6TGjFT`

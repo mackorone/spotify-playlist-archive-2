@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 86439,
+  "num_followers": 86457,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIi2iqUq84V0maJ9rWqHe2iR5oQV",
+  "snapshot_id": "AAAAAONLw7rj/Ipf/DdGpBL0JgfUB45g",
   "tracks": [
     {
       "added_at": "2026-10-24 00:29:50",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-10-24 00:29:50",
       "album": {
+        "name": "GAD (Deluxe Version)",
+        "url": "https://open.spotify.com/album/61dJopYwZvwNuEIu3My9U7"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 219615,
+      "name": "PINK",
+      "url": "https://open.spotify.com/track/5zBI5TXKUCK9LSBY5Fou2G"
+    },
+    {
+      "added_at": "2026-10-24 00:29:50",
+      "album": {
         "name": "Rico o Muerto, Vol. 1",
         "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 195314,
       "name": "Asquerosamente Rico",
       "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
-    },
-    {
-      "added_at": "2026-10-24 00:29:50",
-      "album": {
-        "name": "GAD (Deluxe Version)",
-        "url": "https://open.spotify.com/album/61dJopYwZvwNuEIu3My9U7"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 219615,
-      "name": "PINK",
-      "url": "https://open.spotify.com/track/5zBI5TXKUCK9LSBY5Fou2G"
     },
     {
       "added_at": "2026-10-24 00:29:50",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-10-24 00:29:50",
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 205299,
-      "name": "As\u00ed Lo Quiso Dios",
-      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
-    },
-    {
-      "added_at": "2026-10-24 00:29:50",
-      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "added_at": "2026-10-24 00:29:50",
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": "2026-10-24 00:29:50",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-10-24 00:29:50",
       "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 218353,
+      "name": "monterrey",
+      "url": "https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg"
+    },
+    {
+      "added_at": "2026-10-24 00:29:50",
+      "album": {
         "name": "YO NO TE OLVIDO",
         "url": "https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 200707,
       "name": "YO NO TE OLVIDO",
       "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"
-    },
-    {
-      "added_at": "2026-10-24 00:29:50",
-      "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 218353,
-      "name": "monterrey",
-      "url": "https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg"
     },
     {
       "added_at": "2026-10-24 00:29:50",

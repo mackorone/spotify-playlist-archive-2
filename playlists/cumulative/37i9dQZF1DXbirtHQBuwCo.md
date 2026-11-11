@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: HAAN, SHIRT\)
 
-948 songs - 2 day 1 hr 55 min
+949 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Be Okay \(Feat\. nobody likes you pat, Sonny Zero\)](https://open.spotify.com/track/7nSk5xQBnGdg46SneEbM1f) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Midsummer](https://open.spotify.com/album/4qFlDvHc9wb2kWJTuXT6I1) | 3:25 | 2022-04-22 | 2022-06-14 |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 | 2022-10-13 |
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-19 | 2022-07-30 |
+| [Beep Beep](https://open.spotify.com/track/5Mt7NIYiJohBRRmZgXRyNJ) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [S.W.I.S.H.](https://open.spotify.com/album/0ulLmM5roN7ywJVZblQasC) | 3:16 | 2026-11-10 |  |
 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-10-05 | 2022-10-23 |
 | [Being](https://open.spotify.com/track/7ulCWv7e24VBTQ7lzGWrFP) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Madness Always Turns to Sadness](https://open.spotify.com/album/6GcZjO7MFfAGaYqeSBcF6v) | 3:33 | 2023-10-31 | 2023-12-09 |
 | [Being True \(Feat\. THAMA\)](https://open.spotify.com/track/0LDZY13bnHSWjEsw3iskTW) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:48 | 2022-07-14 | 2022-07-25 |
@@ -210,7 +211,7 @@
 | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/track/6UmSylnabtV1qfbSzdDGUh) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/album/67dg4k1O64jXpZls8H5moQ) | 3:49 | 2022-10-05 | 2022-10-28 |
 | [DAFT LOVE \(feat\. DUT2 & msftz\)](https://open.spotify.com/track/4MrYKwI2hvACgPEC7P5vmz) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 3:01 | 2022-07-14 | 2022-07-25 |
 | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/3KldgsZmR6nCItrTrP8zbl) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 3:50 | 2025-03-08 | 2025-04-24 |
-| [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 | 2026-03-13 |  |
+| [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 | 2026-03-13 | 2026-11-11 |
 | [DANCE \(Feat\. hevel, JUNE\)](https://open.spotify.com/track/4vrFurxfhrRfnRhEPlIORQ) | [WavyCake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [CAKE HOUSE](https://open.spotify.com/album/3IllaVO5KnDttqZbaDxrWw) | 2:42 | 2022-08-18 | 2022-09-01 |
 | [Dancing In The Rain](https://open.spotify.com/track/1ouGYz9Qvou12hFOwYOV66) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [Scene](https://open.spotify.com/album/3Eq7lSl4bvV5CNP6IbLkkl) | 3:23 | 2022-07-27 | 2022-11-02 |
 | [Dandelion](https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:30 | 2024-08-12 | 2024-09-27 |

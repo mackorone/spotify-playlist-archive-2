@@ -1,12 +1,12 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 915013,
+  "num_followers": 915019,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMaNPYiRw5dzLnFriY+hNiki8Emz",
+  "snapshot_id": "AAAAAJS27zeoD8L6B7ktcvqpvYR3m/HY",
   "tracks": [
     {
       "added_at": "2026-10-01 23:00:26",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 201296,
       "name": "Silver Lines (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 168334,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Rumpta",
         "url": "https://open.spotify.com/album/3XnRoZiGQ4NdmHkS0Ix9Dv"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 229845,
       "name": "Ride On Me",
       "url": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Breaking Point EP",
-        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 168334,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Patigo",
+        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
+      },
+      "artists": [
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patigo",
+      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Feel This Grip (feat. Baby Tate)",
         "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 193846,
       "name": "Feel This Grip (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Patigo",
-        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
-      },
-      "artists": [
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patigo",
-      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Ain't With That (Late Night Callin')",
-        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ain't With That (Late Night Callin')",
-      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Want To Know",
         "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 182441,
       "name": "Want To Know",
       "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Ain't With That (Late Night Callin')",
+        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ain't With That (Late Night Callin')",
+      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Bad Wolf (feat. UNIIQU3)",
-        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 185954,
-      "name": "Bad Wolf (feat. UNIIQU3)",
-      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Come Back Tomorrow",
         "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 202017,
       "name": "Come Back Tomorrow",
       "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Bad Wolf (feat. UNIIQU3)",
+        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 185954,
+      "name": "Bad Wolf (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1211,6 +1211,34 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Activated (I Just Wanna)",
+        "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
+      },
+      "artists": [
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "SLM",
+          "url": "https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T"
+        },
+        {
+          "name": "DJ Technics",
+          "url": "https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG"
+        },
+        {
+          "name": "Kotton The Cutie",
+          "url": "https://open.spotify.com/artist/3pthTqsBQCuDCfOrYpgEra"
+        }
+      ],
+      "duration_ms": 155096,
+      "name": "Activated (I Just Wanna)",
+      "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Down To The Bone",
         "url": "https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa"
       },
@@ -1247,34 +1275,6 @@
       "duration_ms": 213977,
       "name": "Too Bright",
       "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Activated (I Just Wanna)",
-        "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
-      },
-      "artists": [
-        {
-          "name": "Piem",
-          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
-        },
-        {
-          "name": "SLM",
-          "url": "https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T"
-        },
-        {
-          "name": "DJ Technics",
-          "url": "https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG"
-        },
-        {
-          "name": "Kotton The Cutie",
-          "url": "https://open.spotify.com/artist/3pthTqsBQCuDCfOrYpgEra"
-        }
-      ],
-      "duration_ms": 155096,
-      "name": "Activated (I Just Wanna)",
-      "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Ellie Allen",
+          "url": "https://open.spotify.com/artist/6j3YrJV3BXTaXl3Q152Mzq"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Lemme Dance",
         "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
       },
@@ -1515,30 +1539,6 @@
       "duration_ms": 187087,
       "name": "Patchwork",
       "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
-      },
-      "artists": [
-        {
-          "name": "FLETCH",
-          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
-        },
-        {
-          "name": "Mason Collective",
-          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
-        },
-        {
-          "name": "Ellie Allen",
-          "url": "https://open.spotify.com/artist/6j3YrJV3BXTaXl3Q152Mzq"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Me Sabe Bien",
+        "url": "https://open.spotify.com/album/7aeKdx0et8QAQCtovgaHuU"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "Me Sabe Bien",
+      "url": "https://open.spotify.com/track/0rKn7ZEDCE3rNIiQwfkO0i"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Inside The Brain",
         "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 210461,
       "name": "Inside The Brain",
       "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Me Sabe Bien",
-        "url": "https://open.spotify.com/album/7aeKdx0et8QAQCtovgaHuU"
-      },
-      "artists": [
-        {
-          "name": "Us Two",
-          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "Me Sabe Bien",
-      "url": "https://open.spotify.com/track/0rKn7ZEDCE3rNIiQwfkO0i"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Bubbling",
-        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Patrick Luna",
-          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
-        }
-      ],
-      "duration_ms": 209092,
-      "name": "Bubbling",
-      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 182000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Bubbling",
+        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Patrick Luna",
+          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
+        }
+      ],
+      "duration_ms": 209092,
+      "name": "Bubbling",
+      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
     },
     {
       "added_at": "2026-10-01 23:00:26",

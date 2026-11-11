@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bres, Light, Quervo
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,762 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,763 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [OSAMA](https://open.spotify.com/track/639SRnDIZghe7ayN40SFt3) | [DON LEON](https://open.spotify.com/artist/2LQRI30FJnLa5j9wApZ4JY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [OSAMA](https://open.spotify.com/album/7Cd5zTN0Lgw6KoMd2BV13U) | 2:28 |
 | 60 | [MAVRA MATIA](https://open.spotify.com/track/6vIqTijrFYRTVi3G8i09JU) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [MAVRA MATIA](https://open.spotify.com/album/7cPtPkoAhmIRND2Yu3tPOq) | 2:46 |
 
-Snapshot ID: `AAAAABTw+DvImYOzHp1EgVuNR7vgECeu`
+Snapshot ID: `AAAAAOiOzqM7+ntsQBjXRVNmvxfAHQeJ`

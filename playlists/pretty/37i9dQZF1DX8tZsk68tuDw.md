@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, featuring Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,806,152 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,805,919 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Loosen Up](https://open.spotify.com/track/7aghuR0jokdfhwirE7s8hu) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Loosen Up](https://open.spotify.com/album/3ZbK8r37aASznMcda031C5) | 3:10 |
 | 75 | [Cash4Gold](https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Cash4Gold / Close2Mine](https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX) | 3:12 |
 
-Snapshot ID: `AAAAAAo9leTFLxyWqELsF6zk0nXDG74p`
+Snapshot ID: `AAAAAMK1WdQNsfhAPMsR5SqiFrDvoUkJ`

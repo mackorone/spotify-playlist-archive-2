@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,687 likes - 46 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,697 likes - 46 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 45 | [O Christmas Tree](https://open.spotify.com/track/6iccLu0T8SySpIwgVPMpg3) | [Santa & Claus](https://open.spotify.com/artist/12C7JQrNqstNDcqar6C8Er) | [Christmas Songs](https://open.spotify.com/album/4HlI3DW2yprj5MamhPSXRn) | 1:43 |
 | 46 | [Go Tell It On The Mountain](https://open.spotify.com/track/6BUM0QcEos9oIxwhYyGLte) | [Stephanie Murere](https://open.spotify.com/artist/1E8h8SdoO4FQeoOkU6yaG6) | [Go Tell It On The Mountain](https://open.spotify.com/album/5agwXEO2uGYmw1yjcTUJlS) | 1:52 |
 
-Snapshot ID: `AAAAALJmgtTKK6aMsHKNKsZPwhdstEGc`
+Snapshot ID: `AAAAAOz74cob+BJoynjopflulW+OjcBE`

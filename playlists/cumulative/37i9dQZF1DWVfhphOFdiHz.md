@@ -4,7 +4,7 @@
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-673 songs - 1 day 12 hr 4 min
+674 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [daylight falls](https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [daylight falls](https://open.spotify.com/album/4JzQ9ctOcrFaAY1Kfbq4hM) | 2:45 | 2023-12-15 | 2024-06-01 |
 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 | 2026-02-10 | 2026-04-04 |
 | [Debt Collector](https://open.spotify.com/track/5vVruHk5oCL8H7yueybvm5) | [Rivkah Reyes](https://open.spotify.com/artist/5b77JnBZDTvUGNRCw5OdRw) | [Debt Collector](https://open.spotify.com/album/42ZF4qDYs1dC1MWgdlrEon) | 3:09 | 2026-07-17 | 2026-08-08 |
+| [Deep Blue](https://open.spotify.com/track/5IlF14TaFNSN7zNkRyGgas) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Deep Blue](https://open.spotify.com/album/5UBT8VuOkdqNZzt0BNMI9q) | 3:31 | 2026-11-06 |  |
 | [DELETE](https://open.spotify.com/track/7rKVgVUxW1jNegwe7Yzq4H) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [I COULD DIE JUST THINKING OF US](https://open.spotify.com/album/2deWICSwrsv1gFxsPpTyc1) | 3:08 | 2023-12-15 | 2025-04-05 |
 | [DEMBOi](https://open.spotify.com/track/2eBNQpX7Dnh7Tccmr4VpCY) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [DEMBOi](https://open.spotify.com/album/4bCOvoTFDjgNfpueKQaDtf) | 2:59 | 2025-11-28 | 2026-03-21 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-05-30 | 2025-12-06 |
@@ -430,7 +431,7 @@
 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 | 2023-12-15 | 2025-04-05 |
 | [No New Friends \- Stripped](https://open.spotify.com/track/2J8uTMWRDVvMoWFrB48wzR) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [DEVASTATIA Deluxe](https://open.spotify.com/album/3020XO4dmGvYkerAbdIP9L) | 3:02 | 2025-09-26 | 2026-01-15 |
 | [No One Knows Us \- Sad Gay Version](https://open.spotify.com/track/0eR1kKRLkbqxXSHYqEynfq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Sad Gay Version\)](https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz) | 4:19 | 2026-10-02 | 2026-11-10 |
-| [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 | 2026-06-26 |  |
+| [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 | 2026-06-26 | 2026-11-11 |
 | [Noise Keeper](https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [D Stone](https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9) | [Noise Keeper](https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW) | 3:42 | 2026-10-09 |  |
 | [Normal People](https://open.spotify.com/track/2ORYOv3e4xeA7Al4vnd88q) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [In Retrospect](https://open.spotify.com/album/1hW6ElfFzexmLP19JvPzeJ) | 2:42 | 2026-07-10 | 2026-09-14 |
 | [Nosedive](https://open.spotify.com/track/3SIt8pLMi7VHAqTvAI8ET8) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [Olympus](https://open.spotify.com/album/5N3lcMudUczXJ2E9nImObL) | 3:01 | 2026-05-22 | 2026-08-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Thoom from Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,664 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,549 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 42 | [Qué Hubiera Pasado](https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Qué Hubiera Pasado](https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC) | 2:39 |
 | 43 | [Amor Azar](https://open.spotify.com/track/0utCRix8bmtLLhMSItgE72) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda Eterna](https://open.spotify.com/album/60upWGNYp7K9cllRlT8UJT) | 2:42 |
 | 44 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
-| 45 | [Te Mereces Un Amor](https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:46 |
-| 46 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
+| 45 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
+| 46 | [Te Mereces Un Amor](https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:46 |
 | 47 | [好鍾意！](https://open.spotify.com/track/7EiOKCZaPnIyQuvD7T84T1) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [好鍾意！](https://open.spotify.com/album/7LsMpEveA8Ak8TazJdUmIs) | 3:10 |
 | 48 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
-| 49 | [Sonsuza Kadar](https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Sonsuza Kadar](https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi) | 2:40 |
-| 50 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
+| 49 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
+| 50 | [Sonsuza Kadar](https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Sonsuza Kadar](https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi) | 2:40 |
 
-Snapshot ID: `AAAAALt5VVd+ODmHYU/HOkkZi9aMeuMM`
+Snapshot ID: `AAAAAF+f7RAt49zw5DcK9je7pDkKi/XP`

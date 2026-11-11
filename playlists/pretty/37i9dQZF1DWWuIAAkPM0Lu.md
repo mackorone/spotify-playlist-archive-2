@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik fra bl.a\. Scarlet Pleasure & Giift, Jack Harlow, Coco O\. og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,760 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,749 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 102 | [Thank God For Tequila](https://open.spotify.com/track/27CLqXi7m0g4C412eMaIhv) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [Thank God For Tequila](https://open.spotify.com/album/6wJqcdOxiOOrd5wsLWwCCZ) | 2:54 |
 | 103 | [Bad \(feat\. WINTINA\)](https://open.spotify.com/track/7g719LnEN2qN4LBptfNlCs) | [Tove Evyn](https://open.spotify.com/artist/2tOxSKJLZ5E6I41QuDWF16), [WINTINA](https://open.spotify.com/artist/1MGYmDDLQSk3hMaS1Aql4j) | [Bad \(feat\. WINTINA\)](https://open.spotify.com/album/0O9q4ezpk8F7aQy41WxKjW) | 3:47 |
 
-Snapshot ID: `AAAAACUNkeU6T+4ae1m+UHGGZNa+wlJQ`
+Snapshot ID: `AAAAAAyYRzpE9MSQbpK5YaisLz9ne8dr`

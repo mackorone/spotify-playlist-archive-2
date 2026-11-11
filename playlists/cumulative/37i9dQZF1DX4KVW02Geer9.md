@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Sup
 
-645 songs - 1 day 22 hr 10 min
+648 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [7つ数えろ！](https://open.spotify.com/track/1OIEqbUIvlnEw5xQKsXSq8) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [7つ数えろ！](https://open.spotify.com/album/5KyoEmSq0hbKybj2HmKnHZ) | 3:37 | 2025-08-07 | 2025-09-05 |
 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 | 2025-06-05 | 2025-07-18 |
 | [9 P.M.](https://open.spotify.com/track/2Gqmm2IOcDwUZCsETTdCd7) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [9 P.M.](https://open.spotify.com/album/44wIm9dGMuTJ7Tt1osYmLe) | 3:35 | 2024-06-27 | 2024-08-09 |
+| [A Child Is Born](https://open.spotify.com/track/158scIaDXjfo1RIigYpBpd) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [Sounds Like Your Likes](https://open.spotify.com/album/2jSXsvgzUYGmEtWvfTk4CE) | 2:16 | 2026-11-10 |  |
 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 | 2024-08-08 | 2025-01-17 |
 | [A Midsummer Night's Dream](https://open.spotify.com/track/14Ggh4Zw5ry2N1VJhP5La7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [A Midsummer Night's Dream](https://open.spotify.com/album/4zrSXhqiZDjPrUEmq924vY) | 4:04 | 2024-06-27 | 2024-07-12 |
 | [A Still Mind](https://open.spotify.com/track/6AzXs7iGxnFZb22nfgkf9u) | [Denaun](https://open.spotify.com/artist/4NhyK1Uoo8ScQOSl8x0jqI), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [A Still Mind](https://open.spotify.com/album/0ls8xIrkkUIaHyOclqClXH) | 4:21 | 2025-05-01 | 2025-07-11 |
@@ -99,6 +100,7 @@
 | [Celestial Hands](https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Growth](https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8) | 5:33 | 2024-06-27 | 2024-08-30 |
 | [Chaga](https://open.spotify.com/track/549vq4BezDmbkBhqJdu5PW) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Chaga](https://open.spotify.com/album/69HjiWe06MKyp51rpS0WeG) | 2:54 | 2025-05-08 | 2025-05-16 |
 | [Chai](https://open.spotify.com/track/3RqN3bvZx2zwX12GtZ7NRD) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Chai](https://open.spotify.com/album/6xuMCJQX8nOvG2BmEM2MPn) | 3:21 | 2026-02-05 | 2026-11-06 |
+| [Chameleon \- Jazzmix](https://open.spotify.com/track/14llO0h8oKN7uPROMEMMeo) | [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [Chameleon \(Jazzmix\)](https://open.spotify.com/album/3IIhQznBiLDXoLEI6w43sq) | 2:33 | 2026-11-10 |  |
 | [Checkpoint \(Violence\)](https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Checkpoint \(Violence\)](https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe) | 3:56 | 2024-08-29 | 2025-01-31 |
 | [Chemical Star](https://open.spotify.com/track/0f2mvm0udzDiqsKOkDWWiC) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Chemical Star](https://open.spotify.com/album/6RREbPk1YrBbYgGfbVLFlf) | 3:50 | 2025-11-27 | 2026-03-13 |
 | [Child's eye](https://open.spotify.com/track/72CKhZXYJbieI0Rzy3I8wq) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [YELLOW](https://open.spotify.com/album/5KAYYjNX5y00ARgTjI2kVN) | 2:15 | 2024-06-27 | 2024-11-29 |
@@ -637,6 +639,7 @@
 | [バーチャル団地 \(feat\. 有坂朋恵\)](https://open.spotify.com/track/0Z17pYcnG59l4Rpd4a8M9O) | [ku\-ten](https://open.spotify.com/artist/5kigcfJtgrmnwom5rwGy26), [有坂朋恵](https://open.spotify.com/artist/3zH4bLzYXkPVk2NyRzbGYJ) | [バーチャル団地 \(feat\. 有坂朋恵\)](https://open.spotify.com/album/7tWQavWNFZSAGFINf8x3MB) | 3:21 | 2024-10-17 | 2025-02-07 |
 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 | 2025-08-29 | 2025-10-03 |
 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 | 2025-05-15 | 2025-08-01 |
+| [共感: 散文, 2026 Nov.](https://open.spotify.com/track/08aQw04OefnpKFAJ2PgLBc) | [三田珠理](https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws) | [共感: 散文, 2026 Nov.](https://open.spotify.com/album/4DRKRFqjfikdH9dOEzWE0X) | 1:42 | 2026-11-10 |  |
 | [再生](https://open.spotify.com/track/1OTYC3sM0OjSNd7Y72bprw) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [iii](https://open.spotify.com/album/6YMgz5xg15rXCTT0MAVGBU) | 3:21 | 2026-05-26 |  |
 | [北海盆唄](https://open.spotify.com/track/18us37rGhbqOAMyVMzwFFh) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [日本民謡より愛をこめて](https://open.spotify.com/album/6mzbwEWVx5LWor1eUPGqgF) | 4:50 | 2026-06-25 |  |
 | [卒業のエアロライト](https://open.spotify.com/track/0E5npJ8i9uBWErs4vrGOl9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [卒業のエアロライト](https://open.spotify.com/album/6IlJNmhEKHcpb6mYmraMM0) | 4:00 | 2026-02-05 | 2026-11-06 |

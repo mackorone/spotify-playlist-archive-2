@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKlD+mEmaUcrC7Jeb6MFF4BxtAXv",
+  "snapshot_id": "AAAAAJXnbGXBwWRbhvRm+Kmqd2btnmQ1",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:07",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "This World Fucking Sucks",
         "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 162013,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Mascara Masquerade",
-        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
-      },
-      "artists": [
-        {
-          "name": "VANITY",
-          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
-        }
-      ],
-      "duration_ms": 236527,
-      "name": "LSD (Love, Sex & Diamonds)",
-      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "ONE MORE TIME...",
         "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Mascara Masquerade",
+        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "duration_ms": 236527,
+      "name": "LSD (Love, Sex & Diamonds)",
+      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 179916,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 185936,
       "name": "Earthquakes",
       "url": "https://open.spotify.com/track/2DrFa280vB8m54TYGzaEts"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 179916,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "The Bliss Of Ignorance",
-        "url": "https://open.spotify.com/album/074bckj5sD8VA1tFqIsMej"
-      },
-      "artists": [
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Don't Bother",
-      "url": "https://open.spotify.com/track/7mazBIRlTjBgFSWO5kXXJT"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Writing's on the Wall",
         "url": "https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 183808,
       "name": "Writing's on the Wall",
       "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "The Bliss Of Ignorance",
+        "url": "https://open.spotify.com/album/074bckj5sD8VA1tFqIsMej"
+      },
+      "artists": [
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Don't Bother",
+      "url": "https://open.spotify.com/track/7mazBIRlTjBgFSWO5kXXJT"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
+      },
+      "artists": [
+        {
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 170579,
       "name": "Rock A Bye Baby",
       "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
-      },
-      "artists": [
-        {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Holy Roller",
-        "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
-      },
-      "artists": [
-        {
-          "name": "The Format",
-          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
-        }
-      ],
-      "duration_ms": 235532,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Mugshot",
-        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
+        "name": "Holy Roller",
+        "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "The Format",
+          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
         }
       ],
-      "duration_ms": 189101,
-      "name": "Mugshot",
-      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
+      "duration_ms": 235532,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2027,6 +2011,22 @@
       "duration_ms": 183617,
       "name": "Hold My Own",
       "url": "https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Mugshot",
+        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "Mugshot",
+      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Emerald",
-        "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Emerald",
-      "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Kissing Death",
         "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 210683,
       "name": "Red",
       "url": "https://open.spotify.com/track/2ipG3kFYpjbMrym78MfrZG"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Harvey",
+          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Say That You Love Me",
         "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 184666,
       "name": "forever [Feat. I DONT KNOW HOW BUT THEY FOUND ME]",
       "url": "https://open.spotify.com/track/5zQrhijrekxsDuAYzxpU0B"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
-      },
-      "artists": [
-        {
-          "name": "Jordan Harvey",
-          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2026-09-25 04:03:07",

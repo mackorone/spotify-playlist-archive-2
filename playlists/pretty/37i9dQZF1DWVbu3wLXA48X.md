@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,154 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,142 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [I See Myself In You](https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [I See Myself In You](https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH) | 3:30 |
 | 100 | [hi from me](https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer \(deluxe\)](https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl) | 1:42 |
 
-Snapshot ID: `AAAAALKMOUQ3o2P5Waxo9cexcFf8eiK/`
+Snapshot ID: `AAAAAAz6wvZfgubwVm/gbKlcXx5a2erG`

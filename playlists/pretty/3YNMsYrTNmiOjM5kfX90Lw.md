@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 500,552 likes - 50 songs - 2 hr 37 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 500,619 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 19 | [Amore e Odio](https://open.spotify.com/track/0PQLUXhQ8qH6XwdUEFy1Hu) | [Mistertoni](https://open.spotify.com/artist/520BsI2LickC1GZyzrUKvH) | [Amore e Odio](https://open.spotify.com/album/5jvJa8XNqO6R8BzBiAQXWQ) | 3:16 |
 | 20 | [Nazm](https://open.spotify.com/track/7wTQ5GTZzvU68CVUmHgofM) | [Amit yadav](https://open.spotify.com/artist/2qXtlLR5v2JDwSa3bMF1ee) | [Nazm](https://open.spotify.com/album/5loIXP1Jv8CfO5juwV7jrW) | 3:33 |
 | 21 | [Take A Ride](https://open.spotify.com/track/2ltLup0DsLdHKNszoRDa1n) | [Mach\-0](https://open.spotify.com/artist/04cLdRRJO7kYnIamosWmdy) | [Take A Ride](https://open.spotify.com/album/25elfj3RbQGwwiRlkG8nXt) | 2:59 |
-| 22 | [Tu amor el phillies](https://open.spotify.com/track/0V5iPRIA0s2FXugHz6y2SD) | [Tu amor](https://open.spotify.com/artist/4ddZWZzc5BuX0u3AUA7MAy) | [Tu amor el phillies](https://open.spotify.com/album/6s2ajd9yoyzOYEAfgZT2Vg) | 2:13 |
+| 22 | [Tu amor el phillies](https://open.spotify.com/track/0V5iPRIA0s2FXugHz6y2SD) | [Tu amor](https://open.spotify.com/artist/4ddZWZzc5BuX0u3AUA7MAy) | [Tu amor el phillies](https://open.spotify.com/album/6s2ajd9yoyzOYEAfgZT2Vg) | 2:25 |
 | 23 | [The Statement \(Tulasorgbey II\)](https://open.spotify.com/track/2tOW3ObBtXgdvkZzsDqTR8) | [Kpese Boii](https://open.spotify.com/artist/2IS5FScJRiodtPoQCxVdKI) | [The Statement \(Tulasorgbey II\)](https://open.spotify.com/album/0LZ2abUfl80DOFGBbPHM1e) | 6:06 |
 | 24 | [Kommet Ihr Hirten](https://open.spotify.com/track/5G3m94srfK3JUlz7z8MBmz) | [BonkBrothers](https://open.spotify.com/artist/73OlJ5h84Dod3AJIcVoGA2) | [Weihnachts\-Rap](https://open.spotify.com/album/7osIBbuds16iISDMEbmg6F) | 2:58 |
 | 25 | [Yamz](https://open.spotify.com/track/7i1xRYN5EdmhgmBZsxduz5) | [Kebose](https://open.spotify.com/artist/1O6bK0XqOdHTnfS8zE9YnR) | [Yamz](https://open.spotify.com/album/1iEEHh5qhCojiKZ2G38EbP) | 2:33 |

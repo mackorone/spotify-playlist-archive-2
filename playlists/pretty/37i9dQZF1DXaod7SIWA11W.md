@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,832 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,843 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [The Least I Could Say \- Live](https://open.spotify.com/track/5ts4tyulm2DoBLAKsGQnJu) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Worship \(Live\)](https://open.spotify.com/album/0g7DnZxV8gzPJnc240JxiS) | 5:12 |
 | 80 | [Headache](https://open.spotify.com/track/0HeNeWagifCnYNaaftS9ze) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Headache](https://open.spotify.com/album/4zoyVNqLJop5RNpp2MBc0H) | 3:50 |
 
-Snapshot ID: `AAAAAJyV2UIErbidQfF4CXFW6s64Nn6n`
+Snapshot ID: `AAAAAMt4OCrByrrgLAq023Jrnka5lR1+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 263499,
+  "num_followers": 263538,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAC8T3S9ZOf0UjCDgfCxBuxd",
+  "snapshot_id": "avENAAAAAACvmKH3vRKitlLe1V2Dc5q6",
   "tracks": [
     {
       "added_at": null,
@@ -187,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empapelado",
-        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 221500,
-      "name": "Empapelado",
-      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
+      "duration_ms": 201687,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+        "name": "Empapelado",
+        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 201687,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
+      "duration_ms": 221500,
+      "name": "Empapelado",
+      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
     },
     {
       "added_at": null,
@@ -679,6 +679,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampa (Lqra Session #18)",
         "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
       },
@@ -711,30 +735,6 @@
       "duration_ms": 260859,
       "name": "Trampa (Lqra Session #18)",
       "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
     },
     {
       "added_at": null,
@@ -791,26 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guapa!",
-        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/18zG7iZk57oLfdZlodqibk"
       },
       "artists": [
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
         },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Slim",
-          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
         }
       ],
-      "duration_ms": 314181,
-      "name": "Guapa!",
-      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
+      "duration_ms": 243499,
+      "name": "Danzando en Hielo",
+      "url": "https://open.spotify.com/track/3TMjXRqJ5ORaLPctOqqHrC"
     },
     {
       "added_at": null,
@@ -835,6 +831,30 @@
       "duration_ms": 174230,
       "name": "Me Toca Perder",
       "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guapa!",
+        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Guapa!",
+      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 232500,
       "name": "Hasta Que la Muerte Nos Separe",
       "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/18zG7iZk57oLfdZlodqibk"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 243499,
-      "name": "Danzando en Hielo",
-      "url": "https://open.spotify.com/track/3TMjXRqJ5ORaLPctOqqHrC"
     },
     {
       "added_at": null,
@@ -1067,22 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camastro al Fallo",
         "url": "https://open.spotify.com/album/4aGcv1O8NDS04LCXVugqmB"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Maletas",
         "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
       },
@@ -1119,30 +1119,6 @@
       "duration_ms": 163226,
       "name": "Lejos de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rel\u00e1mpago",
-        "url": "https://open.spotify.com/album/2kJ4KDFb73xmne0ctWSwmZ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        }
-      ],
-      "duration_ms": 182100,
-      "name": "Rel\u00e1mpago",
-      "url": "https://open.spotify.com/track/0NLXQIZmQ66xNv4H5yEt9g"
     },
     {
       "added_at": null,
@@ -1167,6 +1143,30 @@
       "duration_ms": 250382,
       "name": "El \u00daltimo Tango",
       "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rel\u00e1mpago",
+        "url": "https://open.spotify.com/album/2kJ4KDFb73xmne0ctWSwmZ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "duration_ms": 182100,
+      "name": "Rel\u00e1mpago",
+      "url": "https://open.spotify.com/track/0NLXQIZmQ66xNv4H5yEt9g"
     }
   ],
   "unique_name": "This Is Charles Ans",

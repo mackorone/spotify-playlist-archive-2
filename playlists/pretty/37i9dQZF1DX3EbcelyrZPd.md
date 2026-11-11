@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Nandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,836 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,878 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 64 | [Kama Sio](https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Kama Sio](https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ) | 3:14 |
 | 65 | [Presha](https://open.spotify.com/track/6Ulkn27zYB4Cub9gqKzcIR) | [Dully Sykes](https://open.spotify.com/artist/0gy6YVLQnEbSdWzxap1ue6), [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3) | [Presha](https://open.spotify.com/album/68f4KXVR9VcC8MewehJlsk) | 3:40 |
 
-Snapshot ID: `AAAAAEvBmwInbTQDdo44b/0jovmqXM2h`
+Snapshot ID: `AAAAAJGkCfK2Rvo5TRnXMR8UdmabVsCf`

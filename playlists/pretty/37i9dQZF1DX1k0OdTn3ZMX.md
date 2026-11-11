@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Hollywood Undead
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,395 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,440 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 99 | [Mutt](https://open.spotify.com/track/79srQ6xBvXMmCNiTVaI35z) | [Resistor](https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA) | [Mutt](https://open.spotify.com/album/5uMib9undb8tLueURTDtnf) | 2:41 |
 | 100 | [GEEZA LIFE TILL GEEZA DEAD](https://open.spotify.com/track/5NeOeyYceHsHbSw2uysHVF) | [Pintglass](https://open.spotify.com/artist/6b6QVdUlocAllySCrU4gQs) | [PINTGLASS](https://open.spotify.com/album/1xJVhQPCoeDsbgtWV4dSTh) | 2:48 |
 
-Snapshot ID: `AAAAABno93wK8vULzCvu58QwPUrCvgqh`
+Snapshot ID: `AAAAALx85HfwTtIQtgGG6POHz6hQp0pu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Kings of Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,039 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,030 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 149 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
 | 150 | [Bang Bang Bang](https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Bang Bang Bang](https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN) | 2:22 |
 
-Snapshot ID: `AAAAALRdZgV0RdRep9n663QVRazuJVYK`
+Snapshot ID: `AAAAALa9GPYkBrtOk1lEYzuI9paUySGx`

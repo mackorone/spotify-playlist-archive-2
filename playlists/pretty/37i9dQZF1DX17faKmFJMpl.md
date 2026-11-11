@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,768 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,777 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 32 | [너가 날 떠나면 안되는 이유](https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [정표](https://open.spotify.com/artist/5d6VYMtjHfDpsZt2GqHRAy) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:36 |
 | 33 | [나는나뻐](https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 3:38 |
 | 34 | [Airplane Music \(feat\. Basick, Rimi, Beenzino, Fana & San E\)](https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Rimi](https://open.spotify.com/artist/3nBsP6ABBDVgzFFOCyL3vG), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 4:12 |
-| 35 | [피해망상 Pt.3 \(with TBNY\)](https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:56 |
+| 35 | [Movement 4](https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13) | [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41) | [Bizzionary](https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM) | 7:57 |
 | 36 | [CBMASS is my friend](https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:45 |
 | 37 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |
-| 38 | [Movement 4](https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13) | [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41) | [Bizzionary](https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM) | 7:57 |
+| 38 | [피해망상 Pt.3 \(with TBNY\)](https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:56 |
 | 39 | [거울 \- New Version](https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [조아](https://open.spotify.com/artist/0cUT9wKaL6ZUt8n5EQF3oI) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 4:16 |
 | 40 | [It’s Me \(feat\. Epik High & MYK\)](https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Epik High & MYK](https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 4:15 |
 | 41 | [랩교 1막](https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [떠버리 Pt\. 2 \(feat\. Pocyomkin, 1 Kyne, Sean2slow & 더블케이\)](https://open.spotify.com/track/1dfWtvnNCvMXE7kJOyZAF2) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [Pocyomkin](https://open.spotify.com/artist/6IN0p90dq8Adz9mg4jXn6e), [1 Kyne](https://open.spotify.com/artist/5mbtyCGys1Blku95lkAMVV), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU), [Double K](https://open.spotify.com/artist/6Xv8PJrOONqS2n2eSskF4C) | [Ill Skill](https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ) | 4:13 |
 | 100 | [Guilty](https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc) | 3:44 |
 
-Snapshot ID: `AAAAAJm47FpgAf6/+OkxPrgm5wNGHvnQ`
+Snapshot ID: `AAAAAI39sE0q18z6fgdcB3vshPo9HzxK`

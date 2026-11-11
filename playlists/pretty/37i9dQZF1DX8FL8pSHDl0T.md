@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 
 > Experience the world of STEINS;GATE from video game to TV anime series.\(C\)2009 MAGES./5pb./Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,200 likes - 44 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,215 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 | 14 | [虹色の光りの中で](https://open.spotify.com/track/5s4oSyrd72VVGHEGTzAdMB) | [阿万音鈴羽\(cv.田村ゆかり\)](https://open.spotify.com/artist/2mWoN39inRTkWg6NseP7Xo) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:01 |
 | 15 | [禁断無敵のだーりん](https://open.spotify.com/track/5pCGCQs8qWYiZih4oGpnSx) | [アフィリア・サーガ](https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:18 |
 | 16 | [難攻不落のnew gate](https://open.spotify.com/track/5JEKE37lDEF1r9csFiCqna) | [岡部倫太郎\(cv.宮野真守\)](https://open.spotify.com/artist/1ZkXMVVPJlaeekn3jVxueA) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 6:44 |
-| 17 | [GATE OF STEINER \-Main theme\-](https://open.spotify.com/track/4nS7rwZZB8Xtr3xmMN84wb) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 3:47 |
+| 17 | [GATE OF STEINER \-Main theme\-](https://open.spotify.com/track/4nS7rwZZB8Xtr3xmMN84wb) | [Takeshi Abo](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 3:47 |
 | 18 | [ライア](https://open.spotify.com/track/3PS8litB6VUzoBhpzZUjTJ) | [Zwei](https://open.spotify.com/artist/3x6stWfT8fw52uEG0fihmb) | [Ley Line](https://open.spotify.com/album/7GIx1NSJE883qazleAeLbK) | 5:35 |
 | 19 | [儚い記憶のかけら](https://open.spotify.com/track/2miA0YS2BN5o5pkyxoHe4K) | [漆原るか\(cv.小林ゆう\)](https://open.spotify.com/artist/566OKcxFCToURlWAV9E8RG) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:22 |
 | 20 | [Another Heaven](https://open.spotify.com/track/72ViCSQsojqSdtc6VmDFdB) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:28 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 | 26 | [A.R.](https://open.spotify.com/track/2XcCiv4kiNWD8YFV9VbwaF) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [VECTOR](https://open.spotify.com/album/1QbEAPMKjLG8ZbHCymoSiS) | 4:28 |
 | 27 | [約束のパラダイム](https://open.spotify.com/track/4EAunyU27wCE9z14Ju2FX3) | [牧瀬紅莉栖\(cv.今井麻美\)](https://open.spotify.com/artist/5hnyNM7zoMcsQ8tdXdXpra) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:38 |
 | 28 | [永遠のベクトル](https://open.spotify.com/track/70i10zN8Souc3Ch63o4flz) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [VECTOR](https://open.spotify.com/album/1QbEAPMKjLG8ZbHCymoSiS) | 4:49 |
-| 29 | [GATE OF STEINER \-Piano\-](https://open.spotify.com/track/1EyeHLX96JGGiF2l4tRvJR) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 3:56 |
+| 29 | [GATE OF STEINER \-Piano\-](https://open.spotify.com/track/1EyeHLX96JGGiF2l4tRvJR) | [Takeshi Abo](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 3:56 |
 | 30 | [いつもこの場所で \- symphonic ver.](https://open.spotify.com/track/2nD6bkPxRNieZcEA5PvKe9) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [STEINS;GATE SYMPHONIC REUNION](https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX) | 6:24 |
 | 31 | [運命のファルファッラ](https://open.spotify.com/track/0G84H1lInqw458K1pwUkLJ) | [ファンタズム \(FES cv.榊原ゆい\)](https://open.spotify.com/artist/4hAeN5BaDLgkHClNPW6JZw) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 5:14 |
 | 32 | [非線形ジェニアック](https://open.spotify.com/track/15ktGFQFbCUeMSFEGFrk9q) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [RASTER](https://open.spotify.com/album/0lI8gFEwzbf61lFJp3ocj6) | 4:09 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 | 43 | [Hacking to the Gate \- symphonic ver.](https://open.spotify.com/track/7mMshfkGDVQTjn03tvSlwI) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [STEINS;GATE SYMPHONIC REUNION](https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX) | 4:18 |
 | 44 | [星の奏でる歌 \-strings quartet\-](https://open.spotify.com/track/3qwkpLZ1GdEkdQZUEIRAzI) | [Nobuaki Nobusawa](https://open.spotify.com/artist/4q4tYjUtx81Sfmm17JkH5I) | [TVアニメ『シュタインズ・ゲート ゼロ』オリジナル・サウンドトラック](https://open.spotify.com/album/5k0XKbTOo7Lrv9neeC4Anv) | 1:48 |
 
-Snapshot ID: `AAAAALAL5AiIh5S5SCtntvG1NCjwUSfp`
+Snapshot ID: `AAAAAIiGR5AH/vZijCwDXJas0J/hNSPf`

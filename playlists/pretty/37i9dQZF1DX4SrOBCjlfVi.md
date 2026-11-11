@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Skepta, Lil Baby, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,274 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,336 likes - 61 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 60 | [The Score](https://open.spotify.com/track/5juc6CUCHZQS6cXUaj6HIL) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Marv Won](https://open.spotify.com/artist/3cmKebjUe9CMt3wJNE1b8k) | [The Score](https://open.spotify.com/album/7lxLrZa6YgZmhxXlHgNjiz) | 3:17 |
 | 61 | [2010 SOUR DIESEL](https://open.spotify.com/track/7LmgSbq2lYbdTCneFFagw0) | [elmjack](https://open.spotify.com/artist/6cqD9al5Ez8vsr8eFDor7c), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [2010 SOUR DIESEL](https://open.spotify.com/album/5OQhPpCr5Peg3G9UEqOGAT) | 3:04 |
 
-Snapshot ID: `AAAAAKZQKDjI6A2PEsh3rSZ4QObupH/4`
+Snapshot ID: `AAAAAARag1hzEHekeP3ISwoliK1XnGUf`

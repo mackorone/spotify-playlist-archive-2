@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: RESCENE
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: UNCHILD
 
-1,863 songs - 4 day 1 hr 46 min
+1,864 songs - 4 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-16 | 2022-08-09 |
 | [Can’t Stop Shining](https://open.spotify.com/track/0oJZzuHUjpKAFrSHqjJKZM) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [SHINING UP](https://open.spotify.com/album/1NqjkIZ66H34YgWgtU7gaE) | 2:51 | 2022-08-29 | 2022-11-03 |
 | [can′t go back](https://open.spotify.com/track/1LpDwT0wUPXPIMMQpF5sYr) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 3rd Single \[can′t go back\]](https://open.spotify.com/album/3OLYx5mUswHihbOinrKetO) | 2:44 | 2026-08-24 |  |
-| [CAN′T KILL ME](https://open.spotify.com/track/2DjS3XXdAPJTrcEg8G46Fn) | [BAILEY](https://open.spotify.com/artist/25Or1e3LMzMHfge8dyMzaa) | [CAN′T KILL ME](https://open.spotify.com/album/6jUhplonc2nrRrbSstHU2e) | 2:29 | 2026-09-29 |  |
+| [CAN′T KILL ME](https://open.spotify.com/track/2DjS3XXdAPJTrcEg8G46Fn) | [BAILEY](https://open.spotify.com/artist/25Or1e3LMzMHfge8dyMzaa) | [CAN′T KILL ME](https://open.spotify.com/album/6jUhplonc2nrRrbSstHU2e) | 2:29 | 2026-09-29 | 2026-11-11 |
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-07 | 2023-02-22 |
 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ) | 3:11 | 2022-12-15 | 2023-02-22 |
 | [Catch a Wave](https://open.spotify.com/track/2MbxU95EQZbdRo0biiC6M2) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG) | 3:33 | 2023-05-30 | 2023-08-11 |
@@ -941,6 +941,7 @@
 | [Lover, Killer](https://open.spotify.com/track/6hg5oTeqzMplrKGiKty0i5) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Lover, Killer / BEBE \(Japanese Ver.\)](https://open.spotify.com/album/5pC1tWolawhm5Ioig7hGMa) | 2:48 | 2025-06-03 | 2025-07-24 |
 | [loverboy](https://open.spotify.com/track/4H7mZef7MeCkU2BgsG0lLh) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:32 | 2025-07-23 | 2026-04-29 |
 | [Lovers or Enemies](https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Single Album ‘0 or 1’](https://open.spotify.com/album/0T4KA4jfdzlCsUO7mLt1ca) | 2:42 | 2024-01-25 | 2024-02-23 |
+| [Lovesick](https://open.spotify.com/track/3yGDOEI3z0iSvm7Os2tKBh) | [CHAERYEONG](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [Lovesick](https://open.spotify.com/album/1OGEZLgU1QdQ1N6e0ZIF0p) | 3:04 | 2026-11-10 |  |
 | [LUCID DREAM](https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LUCID DREAM](https://open.spotify.com/album/4Ds93h4r7F3Hw68SuOTrA1) | 3:27 | 2026-05-19 | 2026-10-14 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-03-08 | 2022-04-22 |
 | [Lucky](https://open.spotify.com/track/0HjCJdh1WQrNZuiMG6WiaD) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [TOKYO MISSION START](https://open.spotify.com/album/3isrBYAYBxBerWHVtjD8gE) | 2:28 | 2025-11-05 | 2026-04-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan",
-  "num_followers": 249808,
+  "num_followers": 249806,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD8mefNSMNbbyOM0jr2Agum+K63+",
+  "snapshot_id": "AAAAAOwEJYp8d5oCYmHVNfVW9kbICj0M",
   "tracks": [
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Dil Mangeya",
-        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
-      },
-      "artists": [
-        {
-          "name": "Sajjan Adeeb",
-          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
-        }
-      ],
-      "duration_ms": 159049,
-      "name": "Dil Mangeya",
-      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "2 Kamm",
         "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 146062,
       "name": "2 Kamm",
       "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Dil Mangeya",
+        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
+      },
+      "artists": [
+        {
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+        }
+      ],
+      "duration_ms": 159049,
+      "name": "Dil Mangeya",
+      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1503,30 +1503,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Lalkare",
-        "url": "https://open.spotify.com/album/1SuDMLLTFub80ckOnlAV1N"
-      },
-      "artists": [
-        {
-          "name": "Ekam Sudhar",
-          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
-        },
-        {
-          "name": "Desi Trap Music",
-          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
-        },
-        {
-          "name": "Gavy Dhindsa",
-          "url": "https://open.spotify.com/artist/0XysuA3jRpyGqO8FLXJyz6"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Lalkare",
-      "url": "https://open.spotify.com/track/3dzT9yucqZBfOxOVi6hZx4"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Yaar Bawara (From \"Raunak\")",
         "url": "https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7"
       },
@@ -1575,26 +1551,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Palazzo 2",
-        "url": "https://open.spotify.com/album/3vaZ1jNpAm9BH0zt51RPlh"
-      },
-      "artists": [
-        {
-          "name": "Kulwinder Billa",
-          "url": "https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV"
-        },
-        {
-          "name": "Shivjot",
-          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
-        }
-      ],
-      "duration_ms": 209609,
-      "name": "Palazzo 2",
-      "url": "https://open.spotify.com/track/2S5lPQjlOPxnkUSRLTYNdn"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "KAREEB",
         "url": "https://open.spotify.com/album/0QAgFyTDc54qWQcnRsSyap"
       },
@@ -1611,6 +1567,26 @@
       "duration_ms": 180970,
       "name": "KAREEB",
       "url": "https://open.spotify.com/track/684pfVLmrVEaDhdvLGvXK5"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Palazzo 2",
+        "url": "https://open.spotify.com/album/3vaZ1jNpAm9BH0zt51RPlh"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Billa",
+          "url": "https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV"
+        },
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        }
+      ],
+      "duration_ms": 209609,
+      "name": "Palazzo 2",
+      "url": "https://open.spotify.com/track/2S5lPQjlOPxnkUSRLTYNdn"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1635,26 +1611,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/22Q14TeolmZFvnE7HjH503"
-      },
-      "artists": [
-        {
-          "name": "Gurnam Bhullar",
-          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Wang Tut Gayi",
-      "url": "https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Haye Main Lutti Gyi",
         "url": "https://open.spotify.com/album/6oa7mYoNaoyNtzqhltcPIZ"
       },
@@ -1675,6 +1631,26 @@
       "duration_ms": 191842,
       "name": "Haye Main Lutti Gyi",
       "url": "https://open.spotify.com/track/2WbYlVlxvP0KGk0BKodMH7"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/22Q14TeolmZFvnE7HjH503"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Wang Tut Gayi",
+      "url": "https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1835,6 +1811,30 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
+        "name": "Lalkare",
+        "url": "https://open.spotify.com/album/1SuDMLLTFub80ckOnlAV1N"
+      },
+      "artists": [
+        {
+          "name": "Ekam Sudhar",
+          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        },
+        {
+          "name": "Gavy Dhindsa",
+          "url": "https://open.spotify.com/artist/0XysuA3jRpyGqO8FLXJyz6"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Lalkare",
+      "url": "https://open.spotify.com/track/3dzT9yucqZBfOxOVi6hZx4"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
         "name": "Pecha",
         "url": "https://open.spotify.com/album/4ouuAI41txiRAil0rkw9WY"
       },
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
+        "name": "Taur Naal",
+        "url": "https://open.spotify.com/album/0063cpo0TQdakud7DJXspa"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Billa",
+          "url": "https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV"
+        }
+      ],
+      "duration_ms": 169230,
+      "name": "Taur Naal",
+      "url": "https://open.spotify.com/track/4ISH0XCwm5fmTH7sW8ilLO"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
         "name": "Love War",
         "url": "https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 214000,
       "name": "Vaddi Galbaat",
       "url": "https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
-        "name": "Taur Naal",
-        "url": "https://open.spotify.com/album/0063cpo0TQdakud7DJXspa"
-      },
-      "artists": [
-        {
-          "name": "Kulwinder Billa",
-          "url": "https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV"
-        }
-      ],
-      "duration_ms": 169230,
-      "name": "Taur Naal",
-      "url": "https://open.spotify.com/track/4ISH0XCwm5fmTH7sW8ilLO"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Red Eyes",
-        "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Akh Mastani",
         "url": "https://open.spotify.com/album/1EvQx1WL43T6nb2qzmxpta"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 173400,
       "name": "Akh Mastani",
       "url": "https://open.spotify.com/track/4IupSjrVogMJCM37NgmStF"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Red Eyes",
+        "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
     },
     {
       "added_at": "2026-11-04 08:11:16",

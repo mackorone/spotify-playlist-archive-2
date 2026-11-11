@@ -1,13 +1,29 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: daine",
-  "num_followers": 1238878,
+  "num_followers": 1238862,
   "original_name": "the new alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDM1rEUSFHp2F10wNA46f7Dk/ye",
+  "snapshot_id": "AAAAAFrg/L4fjaRUCoLPsfioE0Syo6mP",
   "tracks": [
+    {
+      "added_at": "2026-11-10 15:13:49",
+      "album": {
+        "name": "ACES",
+        "url": "https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "ACES",
+      "url": "https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8"
+    },
     {
       "added_at": "2026-11-06 05:01:02",
       "album": {

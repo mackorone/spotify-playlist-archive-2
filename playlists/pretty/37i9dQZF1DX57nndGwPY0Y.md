@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57nndGwPY0Y.md) - [plain]
 
 > Today's R&B hits only\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,968 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,989 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57nndGwPY0Y.md) - [plain]
 | 35 | [Reclusive](https://open.spotify.com/track/2E3c3APiNL1g2syAGwBHCP) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:06 |
 | 36 | [Westside](https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Westside](https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o) | 2:58 |
 | 37 | [Ruin](https://open.spotify.com/track/65KLw7hjgDH8rfxkMDIOvT) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Labor Of Love](https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st) | 3:19 |
-| 38 | [Fly](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Fly](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 |
+| 38 | [FLY](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FLY](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 |
 | 39 | [Safety](https://open.spotify.com/track/3imanCE92X8HlLyFKMy3cT) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:18 |
 | 40 | [Sweet n’ Sour](https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Sweet n’ Sour](https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh) | 2:37 |
 | 41 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57nndGwPY0Y.md) - [plain]
 | 64 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
 | 65 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 
-Snapshot ID: `AAAAAMpG+YGOuLdEJs746Wpx7NLWOM+m`
+Snapshot ID: `AAAAAKBbO9QYVV6MCrqvw34Jxemftyb3`

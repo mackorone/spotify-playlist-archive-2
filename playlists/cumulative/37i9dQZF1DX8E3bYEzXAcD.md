@@ -2,7 +2,7 @@
 
 ### [Hoofd Heet](https://open.spotify.com/playlist/37i9dQZF1DX8E3bYEzXAcD)
 
-> "In m'n circle alleen werkpaarden\. We pushen, we kraken, we dampen" \-Highguest & DFYNE
+> "Ik draag geen handtjoeroes, bloten handen op die pijp\. Pakkoes in je straat ik ben diegene die die gast vermijd" \-KLEPPER
 
 91 songs - 4 hr 8 min
 

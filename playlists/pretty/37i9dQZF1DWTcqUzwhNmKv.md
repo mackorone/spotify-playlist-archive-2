@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Showing Teeth are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,659,562 likes - 101 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,734 likes - 101 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 100 | [I Am Ice](https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD), [Johan Sara Jr.](https://open.spotify.com/artist/2P466JXaRfp8M9fX2eVhwR) | [Mið](https://open.spotify.com/album/4YMrTpx1I30qGlSsRzzwMm) | 5:02 |
 | 101 | [Shrine](https://open.spotify.com/track/663lLE4Rhv6P8WRu0DZgyJ) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Who Loves The Sun](https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk) | 4:37 |
 
-Snapshot ID: `AAAAAClrQ94CSm+3kOQIImUlHdSiwuP8`
+Snapshot ID: `AAAAAMUORZHVhdSjOqJGlWOBye6TBLny`

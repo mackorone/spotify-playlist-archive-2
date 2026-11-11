@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,063 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,047 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 69 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
 | 70 | [Maniac \- From "Flashdance" Soundtrack](https://open.spotify.com/track/4jqCold0GXW9c40QyOGD8S) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:07 |
 | 71 | [I'm So Excited](https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:48 |
-| 72 | [Bleu comme toi \- Single Edit](https://open.spotify.com/track/0RX7zew3vhJLHJKK9LBcAd) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Bleu Comme Toi](https://open.spotify.com/album/27eI27JBAFlbnBhvRf1h2s) | 3:24 |
-| 73 | [Sans contrefaçon](https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0) | 4:06 |
+| 72 | [Sans contrefaçon](https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0) | 4:06 |
+| 73 | [Bleu comme toi \- Single Edit](https://open.spotify.com/track/0RX7zew3vhJLHJKK9LBcAd) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Bleu Comme Toi](https://open.spotify.com/album/27eI27JBAFlbnBhvRf1h2s) | 3:24 |
 | 74 | [Africa](https://open.spotify.com/track/57MunCijhIhsiwxaWMPskb) | [Rose Laurens](https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM) | [Best of Rose Laurens](https://open.spotify.com/album/6pUqfX67nw1tfhexViqAjF) | 3:36 |
 | 75 | [Histoire d'1 soir \(Bye bye les galères\) \- Version originale 1983](https://open.spotify.com/track/5JAGMln9Bd4xrHkjS4jMf2) | [Bibi Flash](https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO) | [Best of Bibi Flash Collector \(Le meilleur des années 80\)](https://open.spotify.com/album/5sGSZA5uBz4a8JZy5fhfJg) | 4:36 |
 | 76 | [Cœur de loup](https://open.spotify.com/track/0XrmPFVFpZy9ty4Rx6CG6f) | [Philippe Lafontaine](https://open.spotify.com/artist/7ee9JJuqLBnVjTZ4UXblnu) | [Best of Philippe Lafontaine \(Le meilleur des années 80\)](https://open.spotify.com/album/58Tata8UTc6gpFBaZeJgYG) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 79 | [Harden My Heart](https://open.spotify.com/track/0qa47H0UtlOFq9TLSVrv9R) | [Quarterflash](https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v) | [MacGruber](https://open.spotify.com/album/0ZacOBwzregRuuOf6Bn7Zp) | 3:52 |
 | 80 | [Les Démons De Minuit](https://open.spotify.com/track/2ShTk16F2cHvhQtHGlxTR7) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les Démons De Minuit](https://open.spotify.com/album/5GNpfAjxG97J1Qka2VyqY9) | 3:31 |
 
-Snapshot ID: `AAAAAH8XnzJjsCgJzPT9dUTP5NAoMMbh`
+Snapshot ID: `AAAAAFY82DUjajq/ETeM/omFt4VQ1fl2`

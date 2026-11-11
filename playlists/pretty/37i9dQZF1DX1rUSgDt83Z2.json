@@ -1,12 +1,12 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 82114,
+  "num_followers": 82125,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAONuWhyk1sxUZDcwESWmM4NGGTb/",
+  "snapshot_id": "AAAAAG4DFblMhWECp/533CJYos/7582P",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:22",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
+        "name": "DWARS",
+        "url": "https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Helikopterpiloot",
+      "url": "https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
         "name": "Voor Je \u2018t Weet",
         "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "DWARS",
-        "url": "https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Helikopterpiloot",
-      "url": "https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Niet Voor Lief",
         "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
@@ -347,26 +347,6 @@
       "duration_ms": 174448,
       "name": "Bang Dat Ik Je Stem Vergeet",
       "url": "https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
-        "name": "1 Dag",
-        "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Re-Play",
-          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
-        }
-      ],
-      "duration_ms": 204474,
-      "name": "1 Dag",
-      "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -395,6 +375,26 @@
       "duration_ms": 175979,
       "name": "Op Jou Heb Ik Gewacht",
       "url": "https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "1 Dag",
+        "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "duration_ms": 204474,
+      "name": "1 Dag",
+      "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Oktober",
-        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
-      },
-      "artists": [
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
-        }
-      ],
-      "duration_ms": 201118,
-      "name": "Oktober",
-      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Vergeef Me",
         "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 182312,
       "name": "Vergeef Me",
       "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Oktober",
+        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "duration_ms": 201118,
+      "name": "Oktober",
+      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Kingsize Bed",
-        "url": "https://open.spotify.com/album/14h229HZfdrktan1EQaaIT"
-      },
-      "artists": [
-        {
-          "name": "Hansen Tomas",
-          "url": "https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5"
-        }
-      ],
-      "duration_ms": 154752,
-      "name": "Kingsize Bed",
-      "url": "https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Met de tijd",
         "url": "https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW"
       },
@@ -871,22 +855,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Hou van mezelf",
-        "url": "https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD"
-      },
-      "artists": [
-        {
-          "name": "Pleun",
-          "url": "https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Hou van mezelf",
-      "url": "https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Als je eerlijk bent, Ben",
         "url": "https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2"
       },
@@ -899,6 +867,22 @@
       "duration_ms": 156585,
       "name": "Als je eerlijk bent, Ben",
       "url": "https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Hou van mezelf",
+        "url": "https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD"
+      },
+      "artists": [
+        {
+          "name": "Pleun",
+          "url": "https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Hou van mezelf",
+      "url": "https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Meisje",
-        "url": "https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi"
+        "name": "Heel Genoeg",
+        "url": "https://open.spotify.com/album/2LRhu4DQEimbE4r1JKWCST"
       },
       "artists": [
         {
-          "name": "Trijntje Oosterhuis",
-          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
         }
       ],
-      "duration_ms": 203559,
-      "name": "Meisje",
-      "url": "https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP"
+      "duration_ms": 181400,
+      "name": "Heel Genoeg",
+      "url": "https://open.spotify.com/track/3uk1pTFldWwx2jfNv82mj4"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Bemin Me Later (uit Liefde Voor Muziek)",
-        "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi"
       },
       "artists": [
         {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Bemin Me Later (uit Liefde Voor Muziek)",
-      "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
+      "duration_ms": 203559,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Heel Genoeg",
-        "url": "https://open.spotify.com/album/2LRhu4DQEimbE4r1JKWCST"
+        "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+        "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
       },
       "artists": [
         {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Heel Genoeg",
-      "url": "https://open.spotify.com/track/3uk1pTFldWwx2jfNv82mj4"
+      "duration_ms": 218906,
+      "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+      "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
+        "name": "Zaterdag",
+        "url": "https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "duration_ms": 183794,
+      "name": "Zaterdag (Akoestisch)",
+      "url": "https://open.spotify.com/track/0ruFNPpOJweogVfyfBadpD"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
         "name": "Echo Zonder Naam",
         "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
       },
@@ -1231,38 +1231,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Bang Alleen Te Blijven",
-        "url": "https://open.spotify.com/album/3pboEsYZAqlrkCgASC0JLY"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 205554,
-      "name": "Bang Alleen Te Blijven",
-      "url": "https://open.spotify.com/track/0OCZpLuFQz3H3eowjX7ho4"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
-        "name": "Zaterdag",
-        "url": "https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "duration_ms": 183794,
-      "name": "Zaterdag (Akoestisch)",
-      "url": "https://open.spotify.com/track/0ruFNPpOJweogVfyfBadpD"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Wie houdt me dan vast",
         "url": "https://open.spotify.com/album/27sC36Ql6ak1cjd1jAazDZ"
       },
@@ -1315,22 +1283,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "La Pression",
-        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "La Pression",
-      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Dicht Bij Mij",
         "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
       },
@@ -1343,6 +1295,22 @@
       "duration_ms": 178064,
       "name": "Hoe Wij Hier Samen Staan",
       "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "La Pression",
+        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "La Pression",
+      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1383,6 +1351,38 @@
       "duration_ms": 178434,
       "name": "Als Je Gaat",
       "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Seizoenen",
+        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "Seizoenen",
+      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Samen \u00c9\u00e9n",
+        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "Schreeuwen",
+      "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
     }
   ],
   "unique_name": "Helemaal NL",

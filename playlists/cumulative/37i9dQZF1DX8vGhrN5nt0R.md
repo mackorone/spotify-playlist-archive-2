@@ -4,7 +4,7 @@
 
 > Creditless Anime Openings / Endings of the 2020s\. Music videos only available on Premium\. 2020年代のノンクレジットアニメOP／EDを観よう。\(ミュージックビデオはSpotifyプレミアムユーザーのみご覧いただけます。\)  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-45 songs - 1 hr 6 min
+46 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [ゼッタイ！ キミ宣言♡\(女神寮の寮母くん。 ノンクレED\)](https://open.spotify.com/track/68KR1Zmpp2GmG9BhcS53Rm) | [女神寮生＋α［早乙女あてな（CV：猫田あしゅ）、和知みねる（CV：ないる）、戦咲きりや（CV：倉坂くるる）、フレイ（CV：ふれいあ）、八月朔日せれね（CV：夜道雪）、香炉野すてあ（CV：五木あきら）］](https://open.spotify.com/artist/31W5YHLHaeyc3DLpSJwoVc) | [ゼッタイ！ キミ宣言♡\(女神寮の寮母くん。 ノンクレED\)](https://open.spotify.com/album/56OiymPHNxohtY3Na7FWaw) | 1:30 | 2026-10-19 |  |
 | [トライ・ライ・ライ\(ブルバスター ノンクレOP\)](https://open.spotify.com/track/3Bfbibjp34qJZbVppoHxW3) | [NORISTRY](https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU) | [トライ・ライ・ライ\(ブルバスター ノンクレOP\)](https://open.spotify.com/album/2qYW48WYlTKiesmquutMR8) | 1:29 | 2026-10-19 |  |
 | [ドレス・ハート・ルージュ\(スパイ教室 2nd season ノンクレジットED File 《夢語》のティア\)](https://open.spotify.com/track/0QXqeyGHSGRqx8JNGXRNC2) | [ティア（CV：上坂すみれ）](https://open.spotify.com/artist/7CJsXWu3CJhTBLaSYDKy5m) | [ドレス・ハート・ルージュ\(スパイ教室 2nd season ノンクレジットED File 《夢語》のティア\)](https://open.spotify.com/album/7HNWdOgpTi4W9uwMD3PJkY) | 1:30 | 2026-10-19 |  |
+| [ハナモヨイ\(時々ボソッとロシア語でデレる隣のアーリャさん ノンクレ ED\)](https://open.spotify.com/track/3opmdpwBnnuz1RpiMedfRT) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [ハナモヨイ\(時々ボソッとロシア語でデレる隣のアーリャさん ノンクレ ED\)](https://open.spotify.com/album/4VUsmZFW3b9Et20mYE9BmM) | 1:30 | 2026-10-19 |  |
 | [ピュア \(feat\. 橋本絵莉子\) \[TV Size\]](https://open.spotify.com/track/3ubnm2AgxAqGy7plzvgnZm) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [ピュア](https://open.spotify.com/album/3SZzpkCsHoH37FaJPh7I7i) | 1:35 | 2026-10-19 |  |
 | [ライブスタート\(VTuberなんだが配信切り忘れたら伝説になってた ノンクレED\)](https://open.spotify.com/track/3xaP0Y7rWNxwyJCwOm9T5b) | [Live\-ON CAST](https://open.spotify.com/artist/1pLw8osA4dRAnGLnW1hM04) | [ライブスタート\(VTuberなんだが配信切り忘れたら伝説になってた ノンクレED\)](https://open.spotify.com/album/7cqZJYWYdy1mNDDk29U3mX) | 1:29 | 2026-10-19 |  |
 | [一番星ソノリティ\(異世界おじさん ノンクレED\)](https://open.spotify.com/track/3PknQZfgWsTyizf6d27Fio) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [一番星ソノリティ\(異世界おじさん ノンクレED\)](https://open.spotify.com/album/52kjoi323jlqMPphG4CvO6) | 1:29 | 2026-10-19 |  |

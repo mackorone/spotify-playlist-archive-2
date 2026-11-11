@@ -1,12 +1,12 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93742,
+  "num_followers": 93741,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGfh4qbrHj5mOI0JeWJmdIXJfcIx",
+  "snapshot_id": "AAAAAM74qcIgiVcCsT3vLfzxD9RJsH3x",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:51",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Look At You",
-        "url": "https://open.spotify.com/album/3S2u5fv2cIUi8a3ByngJ5G"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 143502,
-      "name": "Look At You",
-      "url": "https://open.spotify.com/track/1cwsPU0nmZE7fllF580Xdt"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
         "name": "tutto passa",
         "url": "https://open.spotify.com/album/5BwuWUXizujBSicrDPbEzz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 192752,
       "name": "tutto passa",
       "url": "https://open.spotify.com/track/3nzrTBdDYoy7OBVlRcSoa3"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/3S2u5fv2cIUi8a3ByngJ5G"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 143502,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/1cwsPU0nmZE7fllF580Xdt"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Ain't Built For Leaving",
-        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
+        "name": "Bar N\u00eemes - Primi",
+        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
       },
       "artists": [
         {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
         }
       ],
-      "duration_ms": 212442,
-      "name": "Ain't Built For Leaving",
-      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
+      "duration_ms": 152564,
+      "name": "En sida kvar",
+      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Bar N\u00eemes - Primi",
-        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
+        "name": "Ain't Built For Leaving",
+        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
       },
       "artists": [
         {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
         }
       ],
-      "duration_ms": 152564,
-      "name": "En sida kvar",
-      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
+      "duration_ms": 212442,
+      "name": "Ain't Built For Leaving",
+      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Kontrollen & f\u00f6rlusten av den",
-        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 183749,
-      "name": "Kontrollen & f\u00f6rlusten av den",
-      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188550,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
+        "name": "Kontrollen & f\u00f6rlusten av den",
+        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 183749,
+      "name": "Kontrollen & f\u00f6rlusten av den",
+      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Arg och frustrerad",
-        "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 209125,
-      "name": "Arg och frustrerad",
-      "url": "https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
         "name": "V\u00e4lkommen hem",
         "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198796,
       "name": "Sagolik",
       "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
+        "name": "Arg och frustrerad",
+        "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 209125,
+      "name": "Arg och frustrerad",
+      "url": "https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Tale of four broken men",
-        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Tale of four broken men",
-      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
         "name": "Home to Us",
         "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 191325,
       "name": "Home to Us",
       "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
+        "name": "Tale of four broken men",
+        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Tale of four broken men",
+      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Liten o stor",
-        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 312103,
-      "name": "Liten o stor",
-      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
         "name": "In your bed",
         "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 206325,
       "name": "In your bed",
       "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "H\u00e4lsningar",
-        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "H\u00e4lsningar",
-      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
         "name": "Muscle In",
         "url": "https://open.spotify.com/album/6FxRfieHkLJ0mhHZixMQQT"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
+        "name": "H\u00e4lsningar",
+        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "H\u00e4lsningar",
+      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
         "name": "Prinsessa",
         "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
       },
@@ -1335,38 +1335,6 @@
       "duration_ms": 241000,
       "name": "Prinsessa",
       "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
-        "name": "Den f\u00f6rsta sn\u00f6n",
-        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
-      },
-      "artists": [
-        {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
-        }
-      ],
-      "duration_ms": 277360,
-      "name": "Den f\u00f6rsta sn\u00f6n",
-      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
-    },
-    {
-      "added_at": "2026-11-05 23:00:51",
-      "album": {
-        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -1395,18 +1363,34 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "25k",
-        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
+        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
         }
       ],
-      "duration_ms": 237019,
-      "name": "25k",
-      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
+      "duration_ms": 182746,
+      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
+        "name": "Den f\u00f6rsta sn\u00f6n",
+        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "Den f\u00f6rsta sn\u00f6n",
+      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
     },
     {
       "added_at": "2026-11-05 23:00:51",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
+        "name": "25k",
+        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 237019,
+      "name": "25k",
+      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
+    },
+    {
+      "added_at": "2026-11-05 23:00:51",
+      "album": {
         "name": "R\u00e4dda Liv",
         "url": "https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-11-05 23:00:51",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3oEPgnaHXwi02DjenAQRyT"
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
         }
       ],
-      "duration_ms": 271442,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5LfNKvdfzxkWB94LvKWlFG"
+      "duration_ms": 208173,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
     }
   ],
   "unique_name": "Aktuellt",

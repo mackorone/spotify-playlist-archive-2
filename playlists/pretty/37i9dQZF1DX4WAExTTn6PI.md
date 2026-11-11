@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Renee Christine
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,017 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,030 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Light You Up](https://open.spotify.com/track/0Qt9kAwwqqJy1rRCGmAy9U) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU), [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30) | [Light You Up](https://open.spotify.com/album/40pp3uJVipDn2CEbAApfDl) | 3:37 |
 | 100 | [Sweep](https://open.spotify.com/track/3KLxhV9PZclzv2vVmrsdvd) | [Carly King](https://open.spotify.com/artist/1UwGYTysZ66BPA3uZx73qf) | [Loving you is Easy](https://open.spotify.com/album/5wA0uDOBnmByu5TPUspSLk) | 3:01 |
 
-Snapshot ID: `AAAAAIxHrxl0Aea54BCoSXxavEgMkR+8`
+Snapshot ID: `AAAAANlwrN2vLNZoMXi/JRkOL5EbkZSV`

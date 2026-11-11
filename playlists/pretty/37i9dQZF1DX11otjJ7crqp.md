@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,349 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,517 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [FRICTION](https://open.spotify.com/track/38QQX5owEYU3h4alb7CaPU) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J), [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [FRICTION](https://open.spotify.com/album/0zyJH68Hu6kj8N2RcBNHKG) | 2:48 |
 | 150 | [as lovers do](https://open.spotify.com/track/2afkyIp0qmAUCxH49uPu6o) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Hotel 13](https://open.spotify.com/album/6Nqyfe05RVVSDw3oZQnsN2) | 3:17 |
 
-Snapshot ID: `AAAAAHfts3PHkm3rBtDG/iCCzP9nG8Aj`
+Snapshot ID: `AAAAABX/5nhn+IZ3SasgQC9EqRF5myIW`

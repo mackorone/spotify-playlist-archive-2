@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 ### [Hoofd Heet](https://open.spotify.com/playlist/37i9dQZF1DX8E3bYEzXAcD)
 
-> "In m'n circle alleen werkpaarden\. We pushen, we kraken, we dampen" \-Highguest & DFYNE
+> "Ik draag geen handtjoeroes, bloten handen op die pijp\. Pakkoes in je straat ik ben diegene die die gast vermijd" \-KLEPPER
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,798 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,814 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soldaten](https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DFYNE](https://open.spotify.com/artist/6dpOGnRCKWUjqUhOTEPxm2), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Soldaten](https://open.spotify.com/album/7zXiNWkMq10fOHzj7KgKEc) | 2:21 |
-| 2 | [Prada](https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Prada](https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf) | 2:00 |
-| 3 | [Ambtenaar](https://open.spotify.com/track/2L4Wvkk9gwX6zpXtFr0jSx) | [KLEPPER](https://open.spotify.com/artist/76iMU8XC2lppYq8q05j8I6) | [Ambtenaar](https://open.spotify.com/album/3fljTm2csQRHjARDIIurRl) | 2:28 |
+| 1 | [Ambtenaar](https://open.spotify.com/track/2L4Wvkk9gwX6zpXtFr0jSx) | [KLEPPER](https://open.spotify.com/artist/76iMU8XC2lppYq8q05j8I6) | [Ambtenaar](https://open.spotify.com/album/3fljTm2csQRHjARDIIurRl) | 2:28 |
+| 2 | [Soldaten](https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DFYNE](https://open.spotify.com/artist/6dpOGnRCKWUjqUhOTEPxm2), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Soldaten](https://open.spotify.com/album/7zXiNWkMq10fOHzj7KgKEc) | 2:21 |
+| 3 | [Prada](https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Prada](https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf) | 2:00 |
 | 4 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 |
 | 5 | [Safi](https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Safi](https://open.spotify.com/album/0Sg8Q8EKjRcD9uXPIL70yK) | 3:24 |
 | 6 | [Diep ‘R In](https://open.spotify.com/track/1AWWBS0jo8xD2nX5kBDMFa) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:13 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 | 39 | [Soldier](https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Soldier](https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv) | 2:34 |
 | 40 | [100 Doezoe Cash](https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [100 Doezoe Cash](https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb) | 3:14 |
 
-Snapshot ID: `AAAAAAg9Z4J/GxvcRakh+E3vWAhBDcT3`
+Snapshot ID: `AAAAANZpucLyJ7cKk/DgjrPfHGy6n+V1`

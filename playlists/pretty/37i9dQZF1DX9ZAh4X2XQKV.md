@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 
 > ft\. Ezequiel Cardenas' \(@ezequiel.cardenas\) songs he's had on repeat lately.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,044 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,049 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 | 44 | [Con Esos Celos](https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Con Esos Celos](https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H) | 2:13 |
 | 45 | [Rx](https://open.spotify.com/track/5H6aG4YDBk5KtXvqYxqeNF) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [Rx](https://open.spotify.com/album/2Hu1S0oEELiNmkHOTJZIxA) | 3:16 |
 
-Snapshot ID: `AAAAAAc8/5ygtf+4JsdMZ5hwbJh7NsSO`
+Snapshot ID: `AAAAABF49qYXhmA1MeboLOKyTiNnmiQS`

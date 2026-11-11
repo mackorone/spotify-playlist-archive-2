@@ -3819,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "Harpy Hare",
+        "url": "https://open.spotify.com/album/5YtN8x4Q8H7zEFroBn9yq0"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/6pWlv50Lthad8jyd6f1TlC"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },

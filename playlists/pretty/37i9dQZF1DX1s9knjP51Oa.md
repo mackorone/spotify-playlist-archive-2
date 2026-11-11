@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,022 likes - 143 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,032 likes - 143 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 142 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 |
 | 143 | [Ride your wave](https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Ride your wave](https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1) | 2:44 |
 
-Snapshot ID: `AAAAAEdxMObDEKuDEmmUFDdLkqzV/Bo1`
+Snapshot ID: `AAAAAP9+BJyDh8ccKY4lezKcNCSgWWGU`

@@ -1,12 +1,12 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage",
-  "num_followers": 896395,
+  "num_followers": 896240,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUur3ZifsznQ0OU4UlXLXaa8Mgw",
+  "snapshot_id": "AAAAAKz+YsAk/Mh5smJsl9a1pMjuP1BN",
   "tracks": [
     {
       "added_at": "2026-07-17 17:11:11",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-07-17 17:11:11",
       "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 368505,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
-    },
-    {
-      "added_at": "2026-07-17 17:11:11",
-      "album": {
         "name": "I Need More Than This",
         "url": "https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 264133,
       "name": "I Need More Than This",
       "url": "https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil"
+    },
+    {
+      "added_at": "2026-07-17 17:11:11",
+      "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
     },
     {
       "added_at": "2026-07-17 17:11:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,152 likes - 213 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,291 likes - 213 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 212 | [Omino](https://open.spotify.com/track/7u6bGZ7eoQWmjqDFlYYnDi) | [Oldofredi](https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l) | [Omino](https://open.spotify.com/album/1Lna4ZhqyKb2hO8xNLxNcW) | 2:05 |
 | 213 | [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 |
 
-Snapshot ID: `AAAAAFU2zzZDprvnwkRRiQDK1gSAkUzG`
+Snapshot ID: `AAAAANAsdmJqAF4Ss8zmU+14Vh5tx/S8`

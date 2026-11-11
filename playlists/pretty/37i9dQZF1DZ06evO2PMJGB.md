@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,492 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,484 likes - 48 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 47 | [escapismo](https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [escapismo](https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ) | 3:00 |
 | 48 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/4quGxX3KhLaPARJ6TAJO5o) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/2SwNs2FYYcTxefM2oXPebp) | 3:46 |
 
-Snapshot ID: `au+7gAAAAAALLzmvLW/kJ0C8HpSiaIpI`
+Snapshot ID: `au+7gAAAAAA5XrubOyq25cjAo2upL2rC`

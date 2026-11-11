@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,880 likes - 150 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,883 likes - 150 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,21 +93,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 83 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 |
 | 84 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 85 | [Walter's Jam](https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Coasting](https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw) | 2:44 |
-| 86 | [](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 0:00 |
-| 87 | [Ted](https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle \(Remastered\)](https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup) | 2:54 |
-| 88 | [An Everest Death Situation](https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [An Everest Death Situation](https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x) | 4:09 |
+| 86 | [Ted](https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle \(Remastered\)](https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup) | 2:54 |
+| 87 | [An Everest Death Situation](https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [An Everest Death Situation](https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x) | 4:09 |
+| 88 | [](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 0:00 |
 | 89 | [Together](https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT) | 5:39 |
-| 90 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 |
-| 91 | [Echo Boomed](https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Zoom](https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq) | 3:16 |
-| 92 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
+| 90 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
+| 91 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 |
+| 92 | [Echo Boomed](https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Zoom](https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq) | 3:16 |
 | 93 | [Zero to Sixty](https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub), [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Zero to Sixty](https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f) | 4:48 |
 | 94 | [Doing The Beeston Bump](https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz) | 6:40 |
 | 95 | [Drunken Clouds](https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Drunken Clouds](https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR) | 4:13 |
 | 96 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
 | 97 | [Endless Jasmine](https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 4:53 |
 | 98 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 |
-| 99 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 |
-| 100 | [Red Kite](https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 3:28 |
+| 99 | [Red Kite](https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 3:28 |
+| 100 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 |
 | 101 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 |
 | 102 | [Journey to the Lemon Moon](https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 3:30 |
 | 103 | [Too Far](https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Too Far](https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF) | 4:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 |
 | 150 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 |
 
-Snapshot ID: `AAAAAM4XoycBLC/pPW+QQ57S09Fc+TK8`
+Snapshot ID: `AAAAADdZQ4bLr1RjZJyuJyHMug+oA9z0`

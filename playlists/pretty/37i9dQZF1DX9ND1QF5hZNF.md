@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,515 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,483 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Bate Forte](https://open.spotify.com/track/5JtgGyGIt2gthKjO8YI7Es) | [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa), [Barka](https://open.spotify.com/artist/7Fi2btFUsAr8bbZ1BzpIac) | [Bate Forte](https://open.spotify.com/album/0SrGCY80zvrjTLDUaPxIw2) | 3:52 |
 | 60 | [Sous Le Soleil](https://open.spotify.com/track/2yrQw5WdgYXfH78fy19lNj) | [Maone](https://open.spotify.com/artist/3lHCbPkaSUJPiqQ9ZJLEOj) | [Sous Le Soleil](https://open.spotify.com/album/7yqLKgijW7cANwozEqx9rD) | 2:24 |
 
-Snapshot ID: `AAAAADUhDxjdmunuI0c6m0MYYnA88FnR`
+Snapshot ID: `AAAAAJUi55MVysB0aixgNGwi17TCTbVo`

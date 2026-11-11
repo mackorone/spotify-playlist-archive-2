@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 부활남: 더 레드\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,221 likes - 101 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,013 likes - 101 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 100 | [Everyday with You](https://open.spotify.com/track/46pQsS1unFN5j0aW0iGCCz) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [Reply 1988 10th Anniversary, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0AdfUyODVPy2H1ezifR0XI) | 4:05 |
 | 101 | [Last Spring](https://open.spotify.com/track/5A3WVeO7e6SWvTfJzd07w9) | [J.DON](https://open.spotify.com/artist/1259XbZ4Fb9LbsGDilYf3t) | [Surely Tomorrow \(Original Television Soundtrack\) Vol.1](https://open.spotify.com/album/7bSQ7O5AdYYdQBG6zy8EJN) | 3:22 |
 
-Snapshot ID: `AAAAALbHSXX8NYNVcEXZe7yvab9QUlXu`
+Snapshot ID: `AAAAAK5JqV/Ekx/p5K+0ow+w9ovQEzHs`

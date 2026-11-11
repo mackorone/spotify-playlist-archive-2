@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,811 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,814 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [El Chapio](https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH) | 3:00 |
 | 50 | [La Novedad](https://open.spotify.com/track/5TKTn0Fqrq5A3nEPQM7hqx) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/5kELlrPsgle78arB2Nfz8I) | 3:29 |
 
-Snapshot ID: `au+7gAAAAAC59boNUZUwCNHaPTt0OUM+`
+Snapshot ID: `avENAAAAAAAfVsxlPIrJ2zKMnsL2Hxll`

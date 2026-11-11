@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Terrence O'Connor's mixtape...for working out/partying/having a crush..\. all of which scorpios like to do intensely :\)  Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,702 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,936 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 39 | [visions](https://open.spotify.com/track/5oZIhePTCzvWskktjYgdjr) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:49 |
 | 40 | [With Every Heartbeat](https://open.spotify.com/track/53SqGkNJAYLss9AgbduTqQ) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Robyn](https://open.spotify.com/album/5xDz5FY3Hsp2skcOP1IUNU) | 4:15 |
 
-Snapshot ID: `AAAAAGQTcMYEDsRoYloWAeFbwAYg0fu6`
+Snapshot ID: `AAAAAG8/fENWP0JmTjHIiDhR8zi06xCm`

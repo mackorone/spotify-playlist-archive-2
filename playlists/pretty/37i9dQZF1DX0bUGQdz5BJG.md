@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Jacob Hackworth
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,726 likes - 220 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,757 likes - 220 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 219 | [Where I'll Be](https://open.spotify.com/track/3fcii5KEVvQx4BFVpWdjiH) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Where I'll Be](https://open.spotify.com/album/6lW1CxK4d6sdLHHqZjDHBH) | 2:41 |
 | 220 | [Young Dumb and Reckless](https://open.spotify.com/track/0DAe1OQHxuQyNx5uC9euei) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [Young Dumb and Reckless](https://open.spotify.com/album/51uhC1ysVl2zGNiAIe7gqp) | 3:51 |
 
-Snapshot ID: `AAAAAMpFhOlw5X0tiY3mOaD6uChdh+EU`
+Snapshot ID: `AAAAAHmbLs6SpqCDX6Bx0A/hmuZ7XURJ`

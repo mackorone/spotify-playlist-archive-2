@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yng Lvcas",
-  "num_followers": 880103,
+  "num_followers": 880127,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN6KEWEl9aafaHXVX3ua39rkfZq4",
+  "snapshot_id": "AAAAANGwdlE/zzl2IIYTMoSMs+CjDMT6",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:25",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-11-06 06:00:25",
       "album": {
-        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
-        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 171062,
-      "name": "Eres Mi Nada",
-      "url": "https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G"
-    },
-    {
-      "added_at": "2026-11-06 06:00:25",
-      "album": {
         "name": "Nadie Te Extra\u00f1a",
         "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 151607,
       "name": "Nadie Te Extra\u00f1a",
       "url": "https://open.spotify.com/track/1hoJ9H798o6HaJ9pDTov5r"
+    },
+    {
+      "added_at": "2026-11-06 06:00:25",
+      "album": {
+        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
+        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 171062,
+      "name": "Eres Mi Nada",
+      "url": "https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G"
     },
     {
       "added_at": "2026-11-06 06:00:25",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-11-06 06:00:25",
       "album": {
+        "name": "Querido\u2026",
+        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Arr\u00f3pame",
+      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
+    },
+    {
+      "added_at": "2026-11-06 06:00:25",
+      "album": {
         "name": "Cham\u00e1n",
         "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 167968,
       "name": "Cham\u00e1n",
       "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
-    },
-    {
-      "added_at": "2026-11-06 06:00:25",
-      "album": {
-        "name": "Querido\u2026",
-        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Arr\u00f3pame",
-      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
     },
     {
       "added_at": "2026-11-06 06:00:25",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-11-06 06:00:25",
       "album": {
+        "name": "VITILIGO",
+        "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 169098,
+      "name": "VITILIGO",
+      "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
+    },
+    {
+      "added_at": "2026-11-06 06:00:25",
+      "album": {
         "name": "Es Triiste",
         "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 185567,
       "name": "Es Triiste",
       "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
-    },
-    {
-      "added_at": "2026-11-06 06:00:25",
-      "album": {
-        "name": "VITILIGO",
-        "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 169098,
-      "name": "VITILIGO",
-      "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
     },
     {
       "added_at": "2026-11-06 06:00:25",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2026-11-06 06:00:25",
       "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
+        "name": "Coraz\u00f3n Vac\u00edo",
+        "url": "https://open.spotify.com/album/5Rhbn86H35AnVyxdsoyYP0"
       },
       "artists": [
         {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
         }
       ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+      "duration_ms": 208000,
+      "name": "Coraz\u00f3n Vac\u00edo",
+      "url": "https://open.spotify.com/track/5Mqdw5Vr0pxbK4zS2zb1is"
     }
   ],
   "unique_name": "Top M\u00e9xico",

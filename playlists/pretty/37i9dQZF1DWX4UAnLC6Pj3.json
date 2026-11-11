@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva \ud83d\udcf8",
-  "num_followers": 1296442,
+  "num_followers": 1296463,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABeQTavBMxpcIXNDRi3xLbzwifjb",
+  "snapshot_id": "AAAAAGqz+f79yAAie0I6CgR1ETHOTfse",
   "tracks": [
     {
       "added_at": "2026-10-23 09:16:07",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Todo El A\u00f1o",
-        "url": "https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Todo El A\u00f1o",
-      "url": "https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "El Terco",
         "url": "https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 222000,
       "name": "El Terco",
       "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Todo El A\u00f1o",
+      "url": "https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Al Diablo Mi Orgullo",
-        "url": "https://open.spotify.com/album/4aIB5TQdP45dtNFjhw1leO"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 176604,
-      "name": "Al Diablo Mi Orgullo",
-      "url": "https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/3hcLWdaBXLjWKxxbljoQ8N"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 244366,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/6xNHgNeQR0N3nGsIBGW94z"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Al Diablo Mi Orgullo",
+        "url": "https://open.spotify.com/album/4aIB5TQdP45dtNFjhw1leO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 176604,
+      "name": "Al Diablo Mi Orgullo",
+      "url": "https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
+        "name": "Ella Jura",
+        "url": "https://open.spotify.com/album/655gOHBv3Ublhcrw6WS9gd"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 177062,
+      "name": "Ella Jura",
+      "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
         "name": "La Voz De Un Rosario",
         "url": "https://open.spotify.com/album/7t33AstobkW3BikWbFine7"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 172836,
       "name": "La Voz De Un Rosario",
       "url": "https://open.spotify.com/track/1xIYqMlCKsv6bcuLPDm9Te"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
-        "name": "Ella Jura",
-        "url": "https://open.spotify.com/album/655gOHBv3Ublhcrw6WS9gd"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 177062,
-      "name": "Ella Jura",
-      "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
+        "name": "Aunque me duela",
+        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 228017,
+      "name": "Aunque me duela",
+      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
         "name": "M\u00e1s Perris",
         "url": "https://open.spotify.com/album/4Dxoh1BqN03wVod0jum9l9"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Aunque me duela",
-        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
+        "name": "El Mentecato",
+        "url": "https://open.spotify.com/album/7rszyGkJC8ZIu1Rk0JqD84"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
         }
       ],
-      "duration_ms": 228017,
-      "name": "Aunque me duela",
-      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+      "duration_ms": 160560,
+      "name": "El Mentecato",
+      "url": "https://open.spotify.com/track/32BdLx75D0ktRkpHDTHfD2"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -979,18 +995,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "El Mentecato",
-        "url": "https://open.spotify.com/album/7rszyGkJC8ZIu1Rk0JqD84"
+        "name": "Ya Se Muri\u00f3",
+        "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
       },
       "artists": [
         {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        },
+        {
+          "name": "Humberto Plancarte",
+          "url": "https://open.spotify.com/artist/6qIeJLACuivBzb3iPhpM3g"
         }
       ],
-      "duration_ms": 160560,
-      "name": "El Mentecato",
-      "url": "https://open.spotify.com/track/32BdLx75D0ktRkpHDTHfD2"
+      "duration_ms": 235091,
+      "name": "Ya Se Muri\u00f3",
+      "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1015,22 +1035,18 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Ya Se Muri\u00f3",
-        "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
       },
       "artists": [
         {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        },
-        {
-          "name": "Humberto Plancarte",
-          "url": "https://open.spotify.com/artist/6qIeJLACuivBzb3iPhpM3g"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 235091,
-      "name": "Ya Se Muri\u00f3",
-      "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1063,22 +1079,6 @@
       "duration_ms": 145021,
       "name": "Ya Se Acab\u00f3",
       "url": "https://open.spotify.com/track/3D9AhW1jx7ZMxhk1wq7MyM"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "El Corrido De Zacatecas",
-        "url": "https://open.spotify.com/album/77Ly1dS1mi8GS1SIUz3ckO"
-      },
-      "artists": [
-        {
-          "name": "Banda Autentica de Jerez",
-          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
-        }
-      ],
-      "duration_ms": 174892,
-      "name": "El Corrido De Zacatecas",
-      "url": "https://open.spotify.com/track/0eS7olHK2jMzJXHMRJ9whx"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "\u00bfC\u00f3mo Se Te Ocurre?",
         "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 219922,
       "name": "\u00bfC\u00f3mo Se Te Ocurre?",
       "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "El Corrido De Zacatecas",
+        "url": "https://open.spotify.com/album/77Ly1dS1mi8GS1SIUz3ckO"
+      },
+      "artists": [
+        {
+          "name": "Banda Autentica de Jerez",
+          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
+        }
+      ],
+      "duration_ms": 174892,
+      "name": "El Corrido De Zacatecas",
+      "url": "https://open.spotify.com/track/0eS7olHK2jMzJXHMRJ9whx"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Se Acabaron las Caricias (En Vivo)",
-        "url": "https://open.spotify.com/album/0pXIW8hYYyQxMLYyesfXD3"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        },
-        {
-          "name": "Jorge Luis Cabrera",
-          "url": "https://open.spotify.com/artist/0tSQnyjGOexMSjWFCFxi7q"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Se Acabaron las Caricias - En Vivo",
-      "url": "https://open.spotify.com/track/73EzcyVRTPG4qFuzFfOezX"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 146221,
       "name": "Fuiste Mi Todo",
       "url": "https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Se Acabaron las Caricias (En Vivo)",
+        "url": "https://open.spotify.com/album/0pXIW8hYYyQxMLYyesfXD3"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        },
+        {
+          "name": "Jorge Luis Cabrera",
+          "url": "https://open.spotify.com/artist/0tSQnyjGOexMSjWFCFxi7q"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Se Acabaron las Caricias - En Vivo",
+      "url": "https://open.spotify.com/track/73EzcyVRTPG4qFuzFfOezX"
     }
   ],
   "unique_name": "Banda 2026",

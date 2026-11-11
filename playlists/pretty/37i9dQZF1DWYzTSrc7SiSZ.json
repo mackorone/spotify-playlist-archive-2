@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 881389,
+  "num_followers": 881303,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ3cABrrN8ip/wFCCZyV07SLhHgU",
+  "snapshot_id": "AAAAAJicqA1rtVWCLuFCIGyThsBeCBLf",
   "tracks": [
     {
       "added_at": "2026-09-18 04:02:12",
@@ -327,30 +327,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "pa' que sue\u00f1es",
-        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 170795,
-      "name": "pa' que sue\u00f1es",
-      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -379,6 +355,30 @@
       "duration_ms": 177629,
       "name": "Ciudades Gemelas",
       "url": "https://open.spotify.com/track/3DuYff17xmHhGJjY8G8lYU"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "pa' que sue\u00f1es",
+        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 170795,
+      "name": "pa' que sue\u00f1es",
+      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "Chistes Malos",
+        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 171357,
+      "name": "Chistes Malos",
+      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "fr\u00edo",
         "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 278490,
       "name": "fr\u00edo",
       "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "Chistes Malos",
-        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 171357,
-      "name": "Chistes Malos",
-      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -659,30 +659,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "cuarto pa' las doce",
-        "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 144255,
-      "name": "cuarto pa' las doce",
-      "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Ya",
         "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
       },
@@ -699,6 +675,22 @@
       "duration_ms": 197910,
       "name": "Ya",
       "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 186186,
+      "name": "FOK YO",
+      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -723,22 +715,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "un mensaje de voz (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP"
       },
@@ -759,18 +735,42 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "NICA",
-        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
         }
       ],
-      "duration_ms": 186186,
-      "name": "FOK YO",
-      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "cuarto pa' las doce",
+        "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 144255,
+      "name": "cuarto pa' las doce",
+      "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "RIO",
-        "url": "https://open.spotify.com/album/0qoMSm1kpFmBKiUfNRwcZ7"
-      },
-      "artists": [
-        {
-          "name": "CARMEN MAR\u00cdA",
-          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
-        }
-      ],
-      "duration_ms": 215687,
-      "name": "RIO",
-      "url": "https://open.spotify.com/track/0OF8EmVU6D8bEdSS0eJtCB"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Lipstick ;*",
         "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 201500,
       "name": "Lipstick ;*",
       "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "RIO",
+        "url": "https://open.spotify.com/album/0qoMSm1kpFmBKiUfNRwcZ7"
+      },
+      "artists": [
+        {
+          "name": "CARMEN MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+        }
+      ],
+      "duration_ms": 215687,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/0OF8EmVU6D8bEdSS0eJtCB"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Siempre tengo sue\u00f1o",
-        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Siempre tengo sue\u00f1o",
-      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Siempre tengo sue\u00f1o",
+        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 165909,
+      "name": "Siempre tengo sue\u00f1o",
+      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "OCIO",
-        "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
-      },
-      "artists": [
-        {
-          "name": "FE7O",
-          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
-        },
-        {
-          "name": "ONTiNO!",
-          "url": "https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "MENTE TREN",
-      "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 185610,
       "name": "D\u00e9jame Decir Te Quiero",
       "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "OCIO",
+        "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
+      },
+      "artists": [
+        {
+          "name": "FE7O",
+          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+        },
+        {
+          "name": "ONTiNO!",
+          "url": "https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "MENTE TREN",
+      "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 192105,
       "name": "Justrylove (Chill&Go Remix)",
       "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "if you let me",
-        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
       },
       "artists": [
         {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 160909,
-      "name": "if you let me",
-      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1475,22 +1459,18 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Hace Mucho",
-        "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
+        "name": "if you let me",
+        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
       },
       "artists": [
         {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        },
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
         }
       ],
-      "duration_ms": 196909,
-      "name": "Hace Mucho",
-      "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
+      "duration_ms": 160909,
+      "name": "if you let me",
+      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1515,22 +1495,22 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Toma Mi Mano",
-        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
+        "name": "Hace Mucho",
+        "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
       },
       "artists": [
         {
-          "name": "Matias Juarez",
-          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
         },
         {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Toma Mi Mano",
-      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
+      "duration_ms": 196909,
+      "name": "Hace Mucho",
+      "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1547,6 +1527,26 @@
       "duration_ms": 152256,
       "name": "5 letras, 2 palabras",
       "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Toma Mi Mano",
+        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
+      },
+      "artists": [
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Toma Mi Mano",
+      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 164601,
       "name": "habl\u00e9 con ella ayer",
       "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "no est\u00e1s",
-        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 164369,
-      "name": "no est\u00e1s",
-      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "robusta",
         "url": "https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 138757,
       "name": "robusta",
       "url": "https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "no est\u00e1s",
+        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 164369,
+      "name": "no est\u00e1s",
+      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
     },
     {
       "added_at": "2026-09-18 04:02:12",

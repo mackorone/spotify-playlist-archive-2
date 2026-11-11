@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 Los Del North Texas en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,286 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,295 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 18 | [Desleal](https://open.spotify.com/track/3TeKPgz2FObind24OTZsdM) | [Grupo Inercia de Río Grande Zacatecas](https://open.spotify.com/artist/6kp4mfSfXha3KTlQ8XDmkd) | [Desleal](https://open.spotify.com/album/7uvm9jAxiCBbI38VZJQH9D) | 2:59 |
 | 19 | [Actos De Un Tonto](https://open.spotify.com/track/6cJzRkCxgWikIKAsJCkoQL) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Dejando Huella..\. El Final](https://open.spotify.com/album/6aVJmHZtdMWZxj88L7oWJI) | 3:47 |
 | 20 | [Te Ves Tan Bien](https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Ves Tan Bien](https://open.spotify.com/album/16iG0rwdDy5fETPFjiDzth) | 2:53 |
-| 21 | [Aventuras \- En Vivo](https://open.spotify.com/track/3BaPtIsDH4lReS921sN62f) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Una Noche En La FENAPO \(En Vivo\)](https://open.spotify.com/album/1tnAiqTT81eyVkjOx3eMa1) | 3:02 |
+| 21 | [Aventuras \- En Vivo Desde La FENAPO](https://open.spotify.com/track/3BaPtIsDH4lReS921sN62f) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Una Noche \(En Vivo Desde La FENAPO\)](https://open.spotify.com/album/1tnAiqTT81eyVkjOx3eMa1) | 3:02 |
 | 22 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 |
 | 23 | [Qué Agonía](https://open.spotify.com/track/3mQHv0VeDIJUJ4YgPh12XT) | [Estilo Al Norte](https://open.spotify.com/artist/4a8CXjoDXfsk6okDkq2uUW) | [Qué Agonía](https://open.spotify.com/album/138YIGzaZfyGVySA21vgaK) | 2:34 |
 | 24 | [Electrohuapango Popurrí: Don / La Danza del Chicahual / Molinos de Viento / El Caballito de Mar](https://open.spotify.com/track/4j00lToQqeXrIDyDegpI1Z) | [Kikin y Los Astros](https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx) | [Electrohuapango Popurrí](https://open.spotify.com/album/6cNRfP7QZyVZnRAiFjsSjJ) | 4:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Muchachita](https://open.spotify.com/track/52RycnT2T3bMWRF7ohgFfR) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU) | [Muchachita](https://open.spotify.com/album/7tBh5U1TtPqeqxtbVVgrzv) | 3:03 |
 | 75 | [Hipnotizado](https://open.spotify.com/track/6MMtcZyAUGDD5TKkxsZ9qQ) | [Los de la Marka](https://open.spotify.com/artist/0p6PG9EBHMF1JmPda9dg9y) | [Hipnotizado](https://open.spotify.com/album/6aAIGBBLRxTHc3Wutp8z4u) | 2:32 |
 
-Snapshot ID: `AAAAAGVTORXo/P9wHtgiuy2FxwZWkpMy`
+Snapshot ID: `AAAAANcy6XA8TXQOCXWrTsfMzCMJKrrB`

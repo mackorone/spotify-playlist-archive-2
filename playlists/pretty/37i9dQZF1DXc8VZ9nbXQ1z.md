@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,389 likes - 30 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,447 likes - 30 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [NALA](https://open.spotify.com/track/1Ki95fAh0UZpHGLiofTRuw) | [TENOCEANS](https://open.spotify.com/artist/3dTwGR8sgtH7Wt9G0UmGPb), [Kay P](https://open.spotify.com/artist/0kQBQeHMJxiv4zaipgipXz), [Kgzoo](https://open.spotify.com/artist/6CyhiZTvGEhA4E3C4GwQ3B) | [NALA](https://open.spotify.com/album/4vI2SaXlAe9D4I5SFY9T5n) | 5:47 |
 | 30 | [Sanity \- Extended Mix](https://open.spotify.com/track/5YJjRDZf7EReVn284ZqOQv) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Jonatan Bäckelie](https://open.spotify.com/artist/5aMXfEoZ4JiURTg8XNsfaz) | [Sanity](https://open.spotify.com/album/3hlp5u8rmvXmXignpdczKB) | 6:10 |
 
-Snapshot ID: `AAAAAMclVW24fRbVDIp8ZCOqPO2XT+gL`
+Snapshot ID: `AAAAAPSQKS0w8S1nmC/zwV2tTJHYiVgs`

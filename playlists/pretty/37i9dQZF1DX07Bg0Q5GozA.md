@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Âme
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,358 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,322 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Talking Walls \(feat\. Cantoalegre\)](https://open.spotify.com/track/3ACp5zZfBI62yfR3aMGMBF) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [DIGITiSE](https://open.spotify.com/album/5scldZE0Xai2ry7Dvlrwcf) | 6:31 |
 | 75 | [Air](https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [SOARR](https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl) | [Air / Lemonder / Viper](https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q) | 4:22 |
 
-Snapshot ID: `AAAAAIfzpMUI+IKtgfH99MxNVnVBSulU`
+Snapshot ID: `AAAAAHwAAuGiumBvoNZXRWW9DkoaHaQ6`

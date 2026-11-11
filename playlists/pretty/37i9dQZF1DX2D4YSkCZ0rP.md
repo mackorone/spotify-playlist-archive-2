@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Suzane
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,246 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,253 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [Behind A Tree](https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Behind A Tree](https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn) | 4:46 |
 | 40 | [\#BGP](https://open.spotify.com/track/7m2oXUvAtrsMxGarL62Hq1) | [AYMCE](https://open.spotify.com/artist/1ovoVBIGwzatbn4eJuyJcv) | [\#BGP](https://open.spotify.com/album/2UBCtI3EM6QkS91zk2Xw8B) | 3:50 |
 
-Snapshot ID: `AAAAAOEd/jhX1R9SLFfNAb4Fq1AUttiN`
+Snapshot ID: `AAAAANeygarRLz7MNikm0DhdBHbU5PNr`

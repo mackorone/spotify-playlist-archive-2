@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Catalina Ammaturo
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,288 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,254 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Somos El Poder](https://open.spotify.com/track/2scMbcsixVtq2FExIxXAMp) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Somos El Poder](https://open.spotify.com/album/2csKKgxknYialip62wT5Tr) | 2:57 |
 | 50 | [Cuando Vas al Trabajo](https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Cuando Vas al Trabajo](https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94) | 2:40 |
 
-Snapshot ID: `AAAAACavMo9+wIOCMJdd5xrI6IFimDcm`
+Snapshot ID: `AAAAABFTMXgUtWlUMPHpvBct/VORJ8pK`

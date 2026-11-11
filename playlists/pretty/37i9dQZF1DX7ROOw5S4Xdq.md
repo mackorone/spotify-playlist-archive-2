@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Sarah Farias
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,797 likes - 49 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,835 likes - 49 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Divisa de Fogo \(Ao Vivo\)](https://open.spotify.com/track/72lmh8lrTPg3L70eaAqaa8) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU) | [Divisa de Fogo \(Ao Vivo\)](https://open.spotify.com/album/2iJODeyGyz1az3Lrw4BOic) | 3:39 |
 | 49 | [Aceito o Teu Querer](https://open.spotify.com/track/5gPFzomYsvRh9UBe68vUSN) | [Letícia Vitória](https://open.spotify.com/artist/5TiYZA0hvaVGzez5lg9WhR) | [Aceito o Teu Querer](https://open.spotify.com/album/7uhbLHssFjgAjIe6g6BA45) | 5:10 |
 
-Snapshot ID: `AAAAAPLSC6Wgm59ABY7h1y3l9fW5OYqm`
+Snapshot ID: `AAAAAOmXhog80KVnEFrioi1rWhLLxq4z`

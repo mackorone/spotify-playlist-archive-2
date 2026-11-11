@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 
 > A warm glittering glow of ambient jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,666 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,714 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 | 49 | [Maybe Life](https://open.spotify.com/track/6DX4o6iwsiJaAxOvf94cw5) | [Piotr Kurek](https://open.spotify.com/artist/0mneo6UHjcOtZBm1Tw8t67) | [Smartwoods](https://open.spotify.com/album/6glgu7cwgVkrIpdcYUT0xF) | 5:28 |
 | 50 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 |
 
-Snapshot ID: `AAAAAD8COKyzFpTs/sqlsTJsRLdaQWMO`
+Snapshot ID: `AAAAAD9fibtEFtb2XuW9PzViJdD4rwpC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,129 likes - 51 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,132 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 50 | [Know Yourself](https://open.spotify.com/track/32r5hN2ACfXksTofWF3ZI3) | [Eerf Evil](https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Know Yourself](https://open.spotify.com/album/7wT0ME0FuHW7Pq9zZiZAqB) | 4:42 |
 | 51 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [A Fine African Man](https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d) | 2:43 |
 
-Snapshot ID: `AAAAACeHlbUS+4DK6msYvFvHXDi+cjK5`
+Snapshot ID: `AAAAABIvMnepN0rMSSmiHuQ89xfm3FhD`

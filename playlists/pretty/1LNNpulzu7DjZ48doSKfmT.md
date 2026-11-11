@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 441 songs - 23 hr 4 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 443 songs - 23 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,7 +428,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 418 | [Just A Second](https://open.spotify.com/track/2I6RZPm7ve9xwTC5JVsIVZ) | [Stephanie Tite](https://open.spotify.com/artist/51frzFcyq3v8eC6wkFmkKX) | [Just A Second](https://open.spotify.com/album/7tU9OgrBHX3B9eiDZRueeL) | 4:17 |
 | 419 | [Dareka no Tamashii](https://open.spotify.com/track/0i546Qfnbt9YrubNkvj8Rg) | [Oscar Salguero](https://open.spotify.com/artist/2HeIyb1sLJQoDPGLQmDNBo) | [Dareka no Tamashii](https://open.spotify.com/album/4XGuTbKqMCSAXDxs3OdO50) | 3:25 |
 | 420 | [Killers In Fashion](https://open.spotify.com/track/0VPNS83bOlDjZPqMbWMxo9) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [NickEG](https://open.spotify.com/artist/40UjCQcm7cyXgjT0ERN21I) | [Killers In Fashion](https://open.spotify.com/album/3gcQUxWe0nU7YJXYJ5wyEw) | 2:16 |
-| 421 | [Grand](https://open.spotify.com/track/1zrIWgf3gY6FMrKDFgelC5) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [Killwoodz](https://open.spotify.com/artist/5t43cJsTHLU62JgEkXdfjL), [MONEY FLUX](https://open.spotify.com/artist/5jSYSRRs3QX4N2YlDeLlY6) | [Kill Or Drown](https://open.spotify.com/album/7fFlVCVr3bOPeGC7DpDZ3Q) | 2:40 |
+| 421 | [Grand](https://open.spotify.com/track/1zrIWgf3gY6FMrKDFgelC5) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [Killwoodz](https://open.spotify.com/artist/5t43cJsTHLU62JgEkXdfjL), [MONEY FLUX](https://open.spotify.com/artist/399ctgAz1PnZyqtZgaZvW9) | [Kill Or Drown](https://open.spotify.com/album/7fFlVCVr3bOPeGC7DpDZ3Q) | 2:40 |
 | 422 | [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 |
 | 423 | [Future Paranoia](https://open.spotify.com/track/0JkVP9dN0djsS4j1aKMwZO) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Future Paranoia](https://open.spotify.com/album/1X5EWN85z3URtBr5A0Msyd) | 2:22 |
 | 424 | [Una y Mil Veces](https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Una y Mil Veces](https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM) | 4:26 |
@@ -449,5 +449,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 439 | [Tx](https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy) | [Tx](https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6) | 2:38 |
 | 440 | [Badali Badala](https://open.spotify.com/track/0ZNdALVJvUZ7ciSdY7yHIP) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Badali Badala](https://open.spotify.com/album/4EEH4F18GeyyBvHkEjOAIP) | 5:03 |
 | 441 | [Walk Different](https://open.spotify.com/track/5dI2QQQGggILTH2M8dMiiy) | [Versifyer](https://open.spotify.com/artist/5ZDvjyF3mOHhZtQenm9Pqp) | [Modern Masterpiece](https://open.spotify.com/album/0g5vBBkc0hSeuYAhU5IKfT) | 2:36 |
+| 442 | [Keep Talking](https://open.spotify.com/track/5ntORZ2kCJhmf7BUUkewH6) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Keep Talking](https://open.spotify.com/album/3uAUaQHNI4Y3tBt5dNRqpd) | 3:33 |
+| 443 | [Tender Is the Measure of Everything](https://open.spotify.com/track/5Wg04ajcAlCxB8PvfLzXIe) | [Oscar Salguero](https://open.spotify.com/artist/2HeIyb1sLJQoDPGLQmDNBo) | [Tender Is the Measure of Everything](https://open.spotify.com/album/0KmOPTp9Zs0cpU2W0P1Ff9) | 4:10 |
 
-Snapshot ID: `AAAe0mT4ypUETT5Ozprg5DWapOgzazQu`
+Snapshot ID: `AAAe1IKS8Vp6/ZLXO88RfqBezdL6p5/Q`

@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192259,
+  "num_followers": 192270,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqxxl1/EzLR451VZSbMHQh+svwp",
+  "snapshot_id": "AAAAAO3aah7msaZhiyaIxs0JyfeIjjkg",
   "tracks": [
     {
       "added_at": "2026-11-06 16:01:03",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Despacha",
+        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178557,
+      "name": "Despacha",
+      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "s\u00f3 (mais) uma vez",
         "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 221596,
       "name": "s\u00f3 (mais) uma vez",
       "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Despacha",
-        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178557,
-      "name": "Despacha",
-      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Dubl\u00ea",
         "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 158105,
       "name": "Rude",
       "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Sem Ponto e Sem V\u00edrgula",
+        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 201532,
+      "name": "Sem Ponto e Sem V\u00edrgula",
+      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -891,22 +911,6 @@
       "duration_ms": 134571,
       "name": "Al\u00f4? \u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -959,6 +963,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Logo Eu",
         "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Sem Ponto e Sem V\u00edrgula",
-        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 201532,
-      "name": "Sem Ponto e Sem V\u00edrgula",
-      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Amor \u00e0 Luz do Dia",
         "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 225304,
       "name": "Amor \u00e0 Luz do Dia",
       "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Tudo Que Eu Sempre Quis",
+        "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
+      },
+      "artists": [
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Dos Anjos",
+          "url": "https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn"
+        }
+      ],
+      "duration_ms": 153375,
+      "name": "Tudo Que Eu Sempre Quis",
+      "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Visto por \u00daltimo",
         "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 118356,
       "name": "Sinais de Relev\u00e2ncia",
       "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Tudo Que Eu Sempre Quis",
-        "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
-      },
-      "artists": [
-        {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Dos Anjos",
-          "url": "https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn"
-        }
-      ],
-      "duration_ms": 153375,
-      "name": "Tudo Que Eu Sempre Quis",
-      "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Me Deixa Ser Pausa",
-        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 127389,
-      "name": "Me Deixa Ser Pausa",
-      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Deixa eu Te Amar",
         "url": "https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 240326,
       "name": "Deixa Eu Te Amar",
       "url": "https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Me Deixa Ser Pausa",
+        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 127389,
+      "name": "Me Deixa Ser Pausa",
+      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
     },
     {
       "added_at": "2026-11-06 16:01:03",

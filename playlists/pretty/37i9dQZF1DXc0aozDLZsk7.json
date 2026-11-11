@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 672926,
+  "num_followers": 672890,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABfuA8CbvMuLD7koQKxcSwJPBz3n",
+  "snapshot_id": "AAAAAE7S2xb2yf6zXOFwjnOxXnSg+mXq",
   "tracks": [
     {
       "added_at": "2026-09-24 22:02:37",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-        "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
+        "name": "What Will We Be (Standard)",
+        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
         }
       ],
-      "duration_ms": 220839,
-      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
+      "duration_ms": 185786,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -1251,18 +1247,22 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "What Will We Be (Standard)",
-        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
+        "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+        "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
       "artists": [
         {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
+      "duration_ms": 220839,
+      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
     },
     {
       "added_at": "2026-09-24 22:02:37",

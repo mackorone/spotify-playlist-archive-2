@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,500 likes - 100 songs - 14 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,609 likes - 100 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [In Alignment](https://open.spotify.com/track/36dTH9M4YGFmRNStZCSUsY) | [Juwon Efanga](https://open.spotify.com/artist/6V4LrQ6h3RYv8nE76BXOQ6) | [In Alignment](https://open.spotify.com/album/1XdrE7pclRd04A4m7XNd0K) | 7:07 |
 | 100 | [Faithful God \- Live](https://open.spotify.com/track/2BXOwdc7zZDiV2emukRyM8) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Faithful God \(Live\)](https://open.spotify.com/album/6HI85Os4NxyfOcpCvfnEJF) | 10:39 |
 
-Snapshot ID: `AAAAACt5/MVx4LOx+Ma+UZaHMEt2exti`
+Snapshot ID: `AAAAAJZUHnU4PV+LOoqhJCCqurFnb4kV`

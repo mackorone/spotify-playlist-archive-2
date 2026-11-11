@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,411 likes - 101 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,384 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 100 | [Carved](https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 3:18 |
 | 101 | [Silencio](https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Silencio](https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB) | 2:35 |
 
-Snapshot ID: `AAAAAL314+kKoyCcLl3uKYv6YuMKcWRO`
+Snapshot ID: `AAAAACHeo5jPMBCtqRcBtqhNUq3pvEAG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354,015 likes - 220 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,354,389 likes - 220 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 219 | [And still it was quiet](https://open.spotify.com/track/7fjhQ3RlieskEDsnmKvoM1) | [Blue Hour Theory](https://open.spotify.com/artist/2HRFwBMwsqAMf7c6xFhz2H) | [And still it was quiet](https://open.spotify.com/album/0I4rvQxwzESr8j3JTp1VF5) | 3:16 |
 | 220 | [The Small Things](https://open.spotify.com/track/3Ifr0lmnOeTaCHDXuDMR25) | [Mareld Trio](https://open.spotify.com/artist/4uWLlqbaxT3HX5ucOLaiSJ) | [The Small Things](https://open.spotify.com/album/1N3NXLBOYThq2vZ6kfdGuF) | 2:47 |
 
-Snapshot ID: `AAAAANqFFf2YhDacvvo9ocZRLuQlzzAV`
+Snapshot ID: `AAAAAKCXTzoGcPoPNYOTyKM/SEfn4tIm`

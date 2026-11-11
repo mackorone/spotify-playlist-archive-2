@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 304853,
+  "num_followers": 304854,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO860UCWRkxeujoQ/PDwyIwRN9Cf",
+  "snapshot_id": "AAAAAF2wb7UqOF++IsU4SlqB2p0EU5XD",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:19",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
-        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Our House",
         "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 182080,
       "name": "Our House",
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1043,34 +1043,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
       },
       "artists": [
         {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+          "name": "Hearts Hearts",
+          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
         }
       ],
-      "duration_ms": 125739,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 242181,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+      "duration_ms": 233795,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
       },
       "artists": [
         {
-          "name": "Hearts Hearts",
-          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
         }
       ],
-      "duration_ms": 233795,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
+      "duration_ms": 125739,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1119,6 +1103,38 @@
       "duration_ms": 197647,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 242181,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 233772,
+      "name": "Landslide - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1151,22 +1167,6 @@
       "duration_ms": 338733,
       "name": "Line of Fire (feat. Sharon Van Etten)",
       "url": "https://open.spotify.com/track/7gaEtTnfbMI7xjqbc0VQeS"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 233772,
-      "name": "Landslide - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
     },
     {
       "added_at": "2026-03-06 05:00:19",

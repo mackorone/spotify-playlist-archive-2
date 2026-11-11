@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Param Benning
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,172 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,259 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 48 | [Samundar Kinare](https://open.spotify.com/track/6K5u7PJBBUKTnpIx738B3m) | [Anmol Dhandra](https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE) | [Samundar Kinare](https://open.spotify.com/album/4PSKA1jRQsiUMWOCRsF0Au) | 2:39 |
 | 49 | [Vaari](https://open.spotify.com/track/5Ax71OzHlADLBiBUwHczqs) | [Pia Debroy](https://open.spotify.com/artist/6NHIK6ho4iPrH8oegrzg7S), [Yoki](https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG) | [Vaari](https://open.spotify.com/album/1XUZomjf4C3Ocaq0z0RT8O) | 2:24 |
 
-Snapshot ID: `AAAAAP9IN4FSDvSHtMnI1VwCR+DAmDGP`
+Snapshot ID: `AAAAAJs7Miu7zvZOyiIFzY3U4H/MsXi/`

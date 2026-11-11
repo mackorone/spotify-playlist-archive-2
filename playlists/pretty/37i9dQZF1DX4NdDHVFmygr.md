@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains du moment\. Cover: Lakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,797 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,995 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [El Hlawa](https://open.spotify.com/track/6GO2By21Bc9nWETXxhCHvN) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [El Hlawa](https://open.spotify.com/album/3nzMdlYU0HMchzRzajMAtH) | 3:12 |
 | 50 | [DAZOU LYAM](https://open.spotify.com/track/5ibGXVIgn6Z82imF6z3OuV) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 2:34 |
 
-Snapshot ID: `AAAAAGOpvo7N+BWo7SHLRM6WH/M+3yqf`
+Snapshot ID: `AAAAAHo5rTnk+HoU53ufB0SHWFPXlgVj`

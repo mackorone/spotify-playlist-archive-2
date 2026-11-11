@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Ultraligera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,579 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,589 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 98 | [R.A.](https://open.spotify.com/track/6Cj8500MoZiy0qkaGULMEU) | [Hofe](https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [R.A.](https://open.spotify.com/album/7qgn05MWVnXhCTkdqqWIvA) | 2:03 |
 | 99 | [Poeta en NY](https://open.spotify.com/track/7roSNKc6cTpdsaE9lmV51z) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Poeta en NY](https://open.spotify.com/album/6BEKGJDyIbuLnaGdLJ1dMe) | 3:00 |
 
-Snapshot ID: `AAAAAFZOKxtqjSRrErBFTOAxWjOZFxun`
+Snapshot ID: `AAAAAFepEr1Jjb29jSkqzBrBLV2Q+mNW`

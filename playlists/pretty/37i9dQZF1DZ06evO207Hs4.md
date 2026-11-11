@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,843 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,844 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 49 | [7 X 7 Seven Times To Rise Seven Times To Fall](https://open.spotify.com/track/2GygAhrGmVoub7xzhDh6nA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [7 X 7 Seven Times To Rise Seven Times To Fall](https://open.spotify.com/album/6LX24tQeRPPb9aIZu3sMZC) | 5:30 |
 | 50 | [Shelter Of Your Love \- Single Version](https://open.spotify.com/track/5I0uW8EgQSxLT8F596lwfB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of](https://open.spotify.com/album/0J3Cyyl9KU4RxGiaDHLBmd) | 3:32 |
 
-Snapshot ID: `au+7gAAAAADrsMjDdAwhujvhjilUVI5k`
+Snapshot ID: `avENAAAAAAD8UEyFbcoRdfrFaxhu7lo+`

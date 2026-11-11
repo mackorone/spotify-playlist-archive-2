@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Comeback Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,936 likes - 115 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,931 likes - 115 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 114 | [Cartoons](https://open.spotify.com/track/5z8aJqBgn5TLwaDk9f7OPn) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [Cartoons](https://open.spotify.com/album/76u45Nl1dExw9LN2wPg7XR) | 3:20 |
 | 115 | [So Alive I Cry](https://open.spotify.com/track/3E894ZHsg1VEAZPg3kyj5R) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [So Alive I Cry](https://open.spotify.com/album/1lVofLCCAXhAl1VdUOjETg) | 3:09 |
 
-Snapshot ID: `AAAAAIGl6GjHB7Q6EPg2g4krkoXqQpoJ`
+Snapshot ID: `AAAAACaVzzy2g6EVECIshW8Igwpspkkj`

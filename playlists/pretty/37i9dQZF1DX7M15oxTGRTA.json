@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 193301,
+  "num_followers": 193375,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2XlBH3ZUkkCrc5foOXx3spgfz/",
+  "snapshot_id": "AAAAAM+96eVbgKsa18DGPJbsvFgQp4uE",
   "tracks": [
     {
       "added_at": "2025-06-03 20:18:35",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Everybody Loves The Sunshine (Reissue)",
         "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 279400,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 405293,
       "name": "Haven't You Heard",
       "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "Isley, Jasper, Isley",
-          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
-        }
-      ],
-      "duration_ms": 341973,
-      "name": "Caravan of Love",
-      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 338386,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "Isley, Jasper, Isley",
+          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
+        }
+      ],
+      "duration_ms": 341973,
+      "name": "Caravan of Love",
+      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
     },
     {
       "added_at": "2025-06-03 20:18:35",

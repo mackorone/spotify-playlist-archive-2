@@ -1,34 +1,34 @@
 {
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: LAUSBUB",
-  "num_followers": 19349,
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u7f8a\u6587\u5b66",
+  "num_followers": 19346,
   "original_name": "EQUAL Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1foSQVUfkm+A4Cgi0kiBaY2kD0",
+  "snapshot_id": "AAAAAO6oBscvmRouyEItlNV40IhaoUrp",
   "tracks": [
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
-        "name": "society | lazy",
-        "url": "https://open.spotify.com/album/4YU8ets4BrLaxwVCb5KQB2"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc"
       },
       "artists": [
         {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 131197,
-      "name": "lazy",
-      "url": "https://open.spotify.com/track/611eTmAk6BLtGK2hmhXagn"
+      "duration_ms": 221583,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf"
     },
     {
-      "added_at": "2026-10-20 15:00:27",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/1r5ImJYEt3SwLrXZjQ7sZU"
+        "name": "History",
+        "url": "https://open.spotify.com/album/2C4mxUBErpWFrWFJ4002ej"
       },
       "artists": [
         {
@@ -36,12 +36,44 @@
           "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 218837,
-      "name": "LEGEND",
-      "url": "https://open.spotify.com/track/0o4IPlZSolVuJnJF7cKSgT"
+      "duration_ms": 176253,
+      "name": "History",
+      "url": "https://open.spotify.com/track/5biTOsZ5MV2frCieqnkZUT"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
+      "album": {
+        "name": "\u751f\u304d\u308b",
+        "url": "https://open.spotify.com/album/2sjNYJII6ihvIeF88Nlwnr"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "\u751f\u304d\u308b",
+      "url": "https://open.spotify.com/track/6zQmv0NOvfmlLs1PnHQGr0"
+    },
+    {
+      "added_at": "2026-11-10 15:00:41",
+      "album": {
+        "name": "milet\u00d7Toru",
+        "url": "https://open.spotify.com/album/2PNoCnP8fyfBgy9McGCBwN"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 238229,
+      "name": "My Voice, My Life",
+      "url": "https://open.spotify.com/track/4Le44C8KEFSV2xYcQOhIGK"
+    },
+    {
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "From Tokyo with Love",
         "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "HONESTY",
         "url": "https://open.spotify.com/album/2xwWbCf58OBsquGkrmRxlg"
@@ -73,7 +105,23 @@
       "url": "https://open.spotify.com/track/0vcMHoJ3gyRVDy5UKZXUfT"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
+      "album": {
+        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 176594,
+      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
+    },
+    {
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/75iT7kAEfewzsuoWVeikdL"
@@ -89,23 +137,23 @@
       "url": "https://open.spotify.com/track/2Xn9e89WyOIGigCQpuTtt6"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/0hckWSl7jBQEx5OS074Ffc"
+        "name": "Slidin",
+        "url": "https://open.spotify.com/album/3nSlGw0nRjALQMGVrvFxew"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
         }
       ],
-      "duration_ms": 217227,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/5wXtP1G0e6qlpjkEGB9655"
+      "duration_ms": 159368,
+      "name": "Slidin",
+      "url": "https://open.spotify.com/track/2wNsXxFKjKfiffzEK1RHqs"
     },
     {
-      "added_at": "2026-10-20 15:00:27",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Oishii",
         "url": "https://open.spotify.com/album/4cooMl9qbU0qoqUILa936K"
@@ -125,7 +173,55 @@
       "url": "https://open.spotify.com/track/4BPFBFDxh12gmbfItLTEFo"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
+      "album": {
+        "name": "JumpingDa",
+        "url": "https://open.spotify.com/album/1OvY1AYDe0yjCDWZeDVi4b"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 128285,
+      "name": "JumpingDa",
+      "url": "https://open.spotify.com/track/5UTCt7SyAnUkxKNX2NEPWY"
+    },
+    {
+      "added_at": "2026-11-10 15:00:41",
+      "album": {
+        "name": "Watermelon",
+        "url": "https://open.spotify.com/album/2oYXGbHeHCLYbACBHGjaJJ"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/59HNQBxvV1jbIRWX7sBsyU"
+    },
+    {
+      "added_at": "2026-11-10 15:00:41",
+      "album": {
+        "name": "society | lazy",
+        "url": "https://open.spotify.com/album/4YU8ets4BrLaxwVCb5KQB2"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "duration_ms": 131197,
+      "name": "lazy",
+      "url": "https://open.spotify.com/track/611eTmAk6BLtGK2hmhXagn"
+    },
+    {
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Blue Shining Star",
         "url": "https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE"
@@ -141,7 +237,7 @@
       "url": "https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc",
         "url": "https://open.spotify.com/album/6hpC9SlFsWO5j7n9K4krRY"
@@ -157,7 +253,23 @@
       "url": "https://open.spotify.com/track/2nqgcGVlHKjCgVf7s2AD1d"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
+      "album": {
+        "name": "\u30a8\u30af\u30ec\u30a2\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/19i6IGxOToyYdRQl9PkGlt"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 170700,
+      "name": "\u30a8\u30af\u30ec\u30a2\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/6DBEAEnL4qp0qtDetTqmqA"
+    },
+    {
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u3042\u305f\u307e\u3054",
         "url": "https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH"
@@ -173,7 +285,7 @@
       "url": "https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
@@ -189,7 +301,7 @@
       "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "It's AI",
         "url": "https://open.spotify.com/album/5WBb0ZJHneOzVYE7oQSEOm"
@@ -205,7 +317,7 @@
       "url": "https://open.spotify.com/track/7rGZzeGA7r3XKRJkwtcPaz"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Pretty Machine Gun II",
         "url": "https://open.spotify.com/album/3k822AXXavvXzwJ0X3hiAu"
@@ -221,55 +333,7 @@
       "url": "https://open.spotify.com/track/7spQbLcL9XT7OwhjWkIpPp"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 214045,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
-    },
-    {
-      "added_at": "2026-10-06 15:00:59",
-      "album": {
-        "name": "Keep Walking",
-        "url": "https://open.spotify.com/album/6bR697fQAxDhXp63C5Da3R"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 253031,
-      "name": "Keep Walking",
-      "url": "https://open.spotify.com/track/6ylP166aTcPrcdgW3Ws1DD"
-    },
-    {
-      "added_at": "2026-10-06 15:00:59",
-      "album": {
-        "name": "Made of Glass",
-        "url": "https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C"
-    },
-    {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "TOU.",
         "url": "https://open.spotify.com/album/07G34YGwgzr07SLmUgYmMG"
@@ -285,7 +349,7 @@
       "url": "https://open.spotify.com/track/35kvMnL7Q8Hu97fRHmJGP0"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u92fc\u306e\u99ac",
         "url": "https://open.spotify.com/album/3lMdkrPJFwvYLanKL8FNa9"
@@ -301,7 +365,7 @@
       "url": "https://open.spotify.com/track/4gw4bqJMo5WYW0fOlGVpc2"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Okinawan Wuman",
         "url": "https://open.spotify.com/album/2uISnRUJM9lnew7KyI3z9z"
@@ -321,23 +385,7 @@
       "url": "https://open.spotify.com/track/7fyzkrktZnQDUDpEugCKwE"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
-      "album": {
-        "name": "SANGO",
-        "url": "https://open.spotify.com/album/7Fsb5oUQP8OxZZvTy6y31z"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 203004,
-      "name": "SANGO",
-      "url": "https://open.spotify.com/track/5TYFRc8vPNWQzeoJAquhAl"
-    },
-    {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Nothing But Living",
         "url": "https://open.spotify.com/album/2wPXebXJO3rN5KIOdJpZeZ"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/3Bv4ExDnTmB4SlQNG9RbZR"
     },
     {
-      "added_at": "2026-10-20 15:00:27",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u30d3\u30f3\u30c6\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/5mieOlXEHsOzqL9UuHdwKe"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/3qpmHcDXL3YcYviQFVQ1l6"
     },
     {
-      "added_at": "2026-10-20 15:00:27",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u714c\u3081\u304d",
         "url": "https://open.spotify.com/album/1SMHURDMjPyDAn1IsvSvp0"
@@ -385,7 +433,7 @@
       "url": "https://open.spotify.com/track/4f5Y1HJ7rigPnCDJSonwzS"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Crunchy",
         "url": "https://open.spotify.com/album/73HFi6LgowgPUgDyiQbQY4"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/3micqfC9Do9RNjfKXrgXJn"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY"
@@ -417,7 +465,7 @@
       "url": "https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Hangover",
         "url": "https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2"
@@ -437,7 +485,7 @@
       "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/4lbDFA1xxTXWSAExmb9dOy"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/2RDHDpLMNnd6jtMJujLWb9"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "crazy journey",
         "url": "https://open.spotify.com/album/0wrfZgNABT6rBJyJr6oI5A"
@@ -469,7 +517,7 @@
       "url": "https://open.spotify.com/track/54tW87US34M0BNiB3hUrZ0"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/6QcdD6JruztbnYXAAyCAqJ"
@@ -485,7 +533,7 @@
       "url": "https://open.spotify.com/track/6XqaixJ7Jn0kiM8c7d26LP"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "7Star",
         "url": "https://open.spotify.com/album/52yodHfQ2FoIS6bPXvHIEp"
@@ -501,43 +549,7 @@
       "url": "https://open.spotify.com/track/4CwSuKxxvKLlfiRhr3bqbo"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
-      "album": {
-        "name": "\u30d6\u30eb\u30fc\u30c1\u30fc\u30ba",
-        "url": "https://open.spotify.com/album/6HIFiBH6bv2jFbk0sfbCio"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        },
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 173129,
-      "name": "\u30d6\u30eb\u30fc\u30c1\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/7AVx0WwHiuPA76HRrJ90ru"
-    },
-    {
-      "added_at": "2026-10-06 15:00:59",
-      "album": {
-        "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
-        "url": "https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 202881,
-      "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
-      "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
-    },
-    {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u8a00\u3044\u308f\u3051\u304d\u304b\u305b\u3066",
         "url": "https://open.spotify.com/album/63VadLb2u7giK1NhWwN9DH"
@@ -553,7 +565,7 @@
       "url": "https://open.spotify.com/track/64D27yKpPCdVtjl83OzTk6"
     },
     {
-      "added_at": "2026-10-20 15:00:27",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Vermiculite",
         "url": "https://open.spotify.com/album/4SWSwX83gVF7oEJQa5Gwku"
@@ -569,7 +581,7 @@
       "url": "https://open.spotify.com/track/4LCcENNyyLSoK9gi2vv19I"
     },
     {
-      "added_at": "2026-10-20 15:00:27",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u8aa4\u8a33Love",
         "url": "https://open.spotify.com/album/0grWvSbOuRlU5l2ncj8BBF"
@@ -585,7 +597,7 @@
       "url": "https://open.spotify.com/track/6P4VbgnTAJtPDviweGUnlN"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Hearts Glow",
         "url": "https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI"
@@ -601,7 +613,7 @@
       "url": "https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "1000\u65e5\u9593",
         "url": "https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1"
@@ -617,7 +629,7 @@
       "url": "https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "BABY! PINK! MUSIC!",
         "url": "https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene"
@@ -633,7 +645,7 @@
       "url": "https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u50cd\u304f\u30b5\u30d0\u305f\u3061\u3002",
         "url": "https://open.spotify.com/album/37JQMVM2y0STrUxOYGEy2K"
@@ -649,7 +661,7 @@
       "url": "https://open.spotify.com/track/6xeLH3WNUtyNaEFO01TEx0"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Rooom",
         "url": "https://open.spotify.com/album/3ZR0xze2etYIJEIb4HefUX"
@@ -665,7 +677,7 @@
       "url": "https://open.spotify.com/track/09GzKRrTnqE7KD4LZkOIeL"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Laugh",
         "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
@@ -681,7 +693,7 @@
       "url": "https://open.spotify.com/track/591fXk91OaNpI1mUbxhhnF"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Glitch*",
         "url": "https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7"
@@ -697,7 +709,7 @@
       "url": "https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Body (feat. EMI MARIA) [Remix]",
         "url": "https://open.spotify.com/album/6b6YYbVE7gDS5b3iGQQeNL"
@@ -717,7 +729,7 @@
       "url": "https://open.spotify.com/track/0AcvizWwaUXAO3MsSdUOfR"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "blueberry",
         "url": "https://open.spotify.com/album/1pSqYqUM5tkc2kvy9IkoBw"
@@ -733,7 +745,7 @@
       "url": "https://open.spotify.com/track/0UjL8DXDQoWFSoM55bS2TR"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
         "url": "https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc"
@@ -757,7 +769,7 @@
       "url": "https://open.spotify.com/track/07XtYE9j1lA8KwOnb1OeWy"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
@@ -793,7 +805,7 @@
       "url": "https://open.spotify.com/track/2BHMUxVdjuK9zKPmocIX56"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Micro Dance",
         "url": "https://open.spotify.com/album/20GZYFQ3MM37NN5LsRrQ7P"
@@ -809,7 +821,7 @@
       "url": "https://open.spotify.com/track/6W9evx5l3B32rE33yUw28Z"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30a2\u30a6\u30c8\u30fb\u30bb\u30ab\u30f3\u30c9\u30bb\u30fc\u30d5",
         "url": "https://open.spotify.com/album/4nIQzBMpXFIFhEdHB1M8sv"
@@ -825,7 +837,7 @@
       "url": "https://open.spotify.com/track/1ZdU1z1PHsfK9MmupUXGf5"
     },
     {
-      "added_at": "2026-10-06 15:00:59",
+      "added_at": "2026-11-10 15:00:41",
       "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/42MJgfwbJUVVL7Ae30VJKE"
@@ -839,22 +851,6 @@
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/2zVE4nLu9V3Zn2uzIWeIif"
-    },
-    {
-      "added_at": "2026-10-06 15:00:59",
-      "album": {
-        "name": "\u88f8",
-        "url": "https://open.spotify.com/album/1p22fJ5uoVoKfy0NDTWGqA"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "\u88f8",
-      "url": "https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA"
     }
   ],
   "unique_name": "EQUAL Japan",

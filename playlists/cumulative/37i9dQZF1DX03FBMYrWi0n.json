@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "// S1NN1NG //",
+        "url": "https://open.spotify.com/album/471bjyIl2MncTwzZlVCIRa"
+      },
+      "artists": [
+        {
+          "name": "12345",
+          "url": "https://open.spotify.com/artist/748HKRf7letzmj9BYq18n2"
+        },
+        {
+          "name": "Maldito",
+          "url": "https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG"
+        },
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207058,
+      "name": "// S1NN1NG //",
+      "url": "https://open.spotify.com/track/40BKIUb8Cxbj1w5vOwOosI"
+    },
+    {
+      "album": {
         "name": "1 000 000 de probl\u00e8mes",
         "url": "https://open.spotify.com/album/1VbX4htOwGdywxsxLaeWwE"
       },
@@ -2366,7 +2392,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 132877,
       "name": "Claudia",
       "url": "https://open.spotify.com/track/7AMbEu0blbjmtpyPEnbkgE"
@@ -2540,6 +2566,24 @@
       "duration_ms": 168395,
       "name": "Comin' in Hot",
       "url": "https://open.spotify.com/track/5Z6Dn2ZJe4w6HTYHTDZAiI"
+    },
+    {
+      "album": {
+        "name": "Coming After Me",
+        "url": "https://open.spotify.com/album/6Ry0vGwEoh4yK8axw0HeRn"
+      },
+      "artists": [
+        {
+          "name": "Starcrusher",
+          "url": "https://open.spotify.com/artist/7oBx2L5mOGWX6mAqXgc6lJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239448,
+      "name": "Coming After Me",
+      "url": "https://open.spotify.com/track/7viap7qTgzOQMiV7vmNMCL"
     },
     {
       "album": {
@@ -8710,7 +8754,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 195946,
       "name": "On s'en fout",
       "url": "https://open.spotify.com/track/2eXCndL43pMclj3Q2SzVmV"

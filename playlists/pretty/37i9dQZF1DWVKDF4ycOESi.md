@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tananai, Pinguini Tattici Nucleari, MACE, Tony Boy, Emili Kasa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,591 likes - 86 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,560 likes - 86 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 85 | [Rebels](https://open.spotify.com/track/2BLQtZ41tplwKFJnDSUhCD) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID), [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Rebels](https://open.spotify.com/album/3MnAMjcv7m4dPEIUKwIi3K) | 3:03 |
 | 86 | [Scarabocchi](https://open.spotify.com/track/25j4hRn8HFOsRUaPUVbJk2) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Scarabocchi](https://open.spotify.com/album/5VZxHqp5XmthW6qSIDlnuo) | 2:39 |
 
-Snapshot ID: `AAAAACzLuy78Z5nPjxh0ukdtQZHZUUja`
+Snapshot ID: `AAAAALIsAweG3sT/+2Ob9t+FqvIEKkKB`

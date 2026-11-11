@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 
 > Get festive with this selection of videos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,679 likes - 79 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,684 likes - 79 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 | 18 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 |
 | 19 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 | 20 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
-| 21 | [Do They Know It's Christmas?](https://open.spotify.com/track/1xayEQucEWCgESCz80ZNEx) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas](https://open.spotify.com/album/7KrktQVqvf0mF3qsLfdnaD) | 4:16 |
+| 21 | [Do They Know It's Christmas? \- Video \(Version A\)](https://open.spotify.com/track/1xayEQucEWCgESCz80ZNEx) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas \[Video \(Version A\)\]](https://open.spotify.com/album/7KrktQVqvf0mF3qsLfdnaD) | 4:16 |
 | 22 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 23 | [I Believe in Father Christmas](https://open.spotify.com/track/7jksgqN64LoEMhPBTUnWZV) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [I Believe in Father Christmas](https://open.spotify.com/album/3747qInhsFKwUXvIRMICDw) | 3:33 |
 | 24 | [What Christmas Means to Me \- Live from A Legendary Christmas with John and Chrissy](https://open.spotify.com/track/6FCcYr72NZgowPtE84cjfz) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [What Christmas Means to Me \(Live from A Legendary Christmas with John and Chrissy\)](https://open.spotify.com/album/1zY85kDOpjAw0deiooXoXq) | 2:25 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 | 78 | [Christmas Party for Two](https://open.spotify.com/track/79UvrTKNmJa68M0Cn9wYJx) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas Party for Two](https://open.spotify.com/album/1ALVALb5SfYHYt48JKGUQq) | 3:54 |
 | 79 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 
-Snapshot ID: `AAAAAHNKifrcX2nfHR5KGaeA/P3GELSE`
+Snapshot ID: `AAAAALa4hxMIQRwmPJrGkKuniRAkI/tk`

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Travelers All Stars  on cover ",
-  "num_followers": 415038,
+  "num_followers": 415054,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeQv02FLQaK73wwCC2K+1Pzy5g8",
+  "snapshot_id": "AAAAAGRsTgexrDlF+Hh+GV77H2iAp5Cp",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:42",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Never Look Back",
-        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 143166,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 188640,
       "name": "Break The Glass",
       "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 143166,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 143546,
-      "name": "Where I'm Going",
-      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "Heads Are Gonna Roll",
         "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 144426,
       "name": "Lost It",
       "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 143546,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "388",
-        "url": "https://open.spotify.com/album/7edG5yOWTvv6lVhB0NNlt6"
-      },
-      "artists": [
-        {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
-        }
-      ],
-      "duration_ms": 187062,
-      "name": "Leave It In The Past",
-      "url": "https://open.spotify.com/track/7juxf6MgWlYbt5hLhbaJxv"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 220693,
       "name": "Beer",
       "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "388",
+        "url": "https://open.spotify.com/album/7edG5yOWTvv6lVhB0NNlt6"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 187062,
+      "name": "Leave It In The Past",
+      "url": "https://open.spotify.com/track/7juxf6MgWlYbt5hLhbaJxv"
     },
     {
       "added_at": "2026-10-16 06:00:42",

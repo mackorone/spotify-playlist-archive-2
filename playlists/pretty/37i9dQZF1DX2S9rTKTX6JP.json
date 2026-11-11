@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 770598,
+  "num_followers": 770634,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALGF9goLQo8mR66LdWLkWQdVtTnv",
+  "snapshot_id": "AAAAAPHCN5aGaMRHL+GSdSXMP9lbMcLH",
   "tracks": [
     {
       "added_at": "2026-06-30 16:09:15",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "sun to me",
-        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "sun to me",
-      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Greatest Hits '93 - '03",
         "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 211693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3mtukCAgd0mE260QcBfXAX"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "sun to me",
+        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "sun to me",
+      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Bad Guy",
         "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 157831,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Running Up That Hill",
         "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 263716,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 134672,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2026-06-30 16:09:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,189 likes - 104 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,315 likes - 104 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 103 | [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 |
 | 104 | [El Tamborillero](https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [El Tamborillero](https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu) | 2:46 |
 
-Snapshot ID: `AAAAABwHpaSurt8KtWN8xZp12eU6Vkw3`
+Snapshot ID: `AAAAABaYgbCdeEBt7PtLGTVcu11DsA7t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: shama
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,549 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,554 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [O NIEJ](https://open.spotify.com/track/1DLzOcjIvnYEyR1DZERsHM) | [Wiktoria Jakubowska](https://open.spotify.com/artist/03B9rUpfuSXCXbSS3OmFZG) | [O NIEJ](https://open.spotify.com/album/4Y2bVdedhnrGIftIIYPbAZ) | 3:26 |
 | 100 | [tak jak ty](https://open.spotify.com/track/18FBxUYEj4JL1S24ljkw8K) | [Sophia Hajduk](https://open.spotify.com/artist/4Sr4lK1noNj4styLslt07Z) | [mgła](https://open.spotify.com/album/2UyOqw4BbW2F9NXSMEb8lt) | 3:49 |
 
-Snapshot ID: `AAAAADFZ9xdiDEJGNZxf82gbWxWOhoDF`
+Snapshot ID: `AAAAAGG0/SCzNXwIxaZHzu2n6ahPa2WJ`

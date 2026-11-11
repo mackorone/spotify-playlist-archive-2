@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: John P\. Kee
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,930 likes - 80 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,054 likes - 80 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [Give Him His Crown \(Reprise\) \- Live](https://open.spotify.com/track/6u8Uo8hl0dGEmssVKuFQHs) | [Bethany Echo](https://open.spotify.com/artist/3F2bI4LAlE7z6PB78OViwc), [Meshak Muyaka](https://open.spotify.com/artist/1m5N4kZdRkpivJDGX3siiO) | [Give Him His Crown \(Live\)](https://open.spotify.com/album/2GsaAf501pCDpoGnoeDCRQ) | 3:19 |
 | 80 | [worship 101 \- the worship culture tour](https://open.spotify.com/track/5GCjjpNipaMG7z6Eegx3jv) | [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [worship 101 \(the worship culture tour\)](https://open.spotify.com/album/46kxeETDSztn44h2WPfd6E) | 3:45 |
 
-Snapshot ID: `AAAAAPnB21MgBcXfXHfVJkpbX63m/IZ/`
+Snapshot ID: `AAAAAES14as3glgbqat0HDapQacRa4hT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Tyreek McDole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,588 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,586 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [quickstep](https://open.spotify.com/track/2K1xNouCzNa6ZOOOgYhUDl) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [quickstep](https://open.spotify.com/album/405N5N8Y6V6luI7eC4QSim) | 2:33 |
 | 100 | [Save Your Love For Me](https://open.spotify.com/track/3yLyUD6ZVnpUAZ8tzUPmVI) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Alita Moses](https://open.spotify.com/artist/7BIauBSZzpxGjwgYujcnVl), [Raviv Markovitz](https://open.spotify.com/artist/3cKRClpJBjmZuqXYPCsv3Z), [Alex Wintz](https://open.spotify.com/artist/1b0PpNT04TKHBh2tBzDaHY), [James Burton III](https://open.spotify.com/artist/3prSL24E1gL8ZysAiQ16tu) | [Save Your Love For Me](https://open.spotify.com/album/5pignuLGf8luVEkknB07MX) | 7:13 |
 
-Snapshot ID: `AAAAAC6R2JbC0L42Jp9Cg3KVpI5Xg3oo`
+Snapshot ID: `AAAAAKwHs/YlnxUjVK+n7yxIqzEPjjJo`

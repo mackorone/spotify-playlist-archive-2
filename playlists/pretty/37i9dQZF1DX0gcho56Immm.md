@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Coco O.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,974 likes - 200 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,036 likes - 200 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 199 | [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 |
 | 200 | [You're on the Loose](https://open.spotify.com/track/77P729eyk6EgyXQJV22hpu) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [You're on the Loose](https://open.spotify.com/album/7An52a3iEFGZPKQE3NCDSy) | 4:37 |
 
-Snapshot ID: `AAAAAJEa+eA2vC+ov3J4LZ3g5RQqDp2n`
+Snapshot ID: `AAAAADvh9Dg5VSI2PZGw2FjRb0hRSS8Y`

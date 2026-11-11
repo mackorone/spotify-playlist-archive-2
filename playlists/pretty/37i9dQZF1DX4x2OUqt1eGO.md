@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,926 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,924 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 54 | [Fantasy Flute](https://open.spotify.com/track/1765MCzs77plUXfAPThmtb) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Cafe Fluid](https://open.spotify.com/album/2XyN2O2uJMXULnqJYDtDhm) | 4:56 |
 | 55 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
 | 56 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
-| 57 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
-| 58 | [Kavadi Chindu](https://open.spotify.com/track/7zmtHg5CDTu9k4TixF7FbE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 2:29 |
+| 57 | [Kavadi Chindu](https://open.spotify.com/track/7zmtHg5CDTu9k4TixF7FbE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 2:29 |
+| 58 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
 | 59 | [Song of Praise](https://open.spotify.com/track/3GcIaOkyZP2KqN5OFHn5pB) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Shilong Chamber Choir](https://open.spotify.com/artist/50ZzirHCaFqOadumoImXut), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Stephen Devassy](https://open.spotify.com/artist/1bJWW46CNRUpySTWeks99j) | [Silence Is Bliss](https://open.spotify.com/album/3cgDSVSPSIWi8jyg0eMUDT) | 5:05 |
 | 60 | [Inner Peace](https://open.spotify.com/track/2YMUsN8bE7GfGBxCdnT1ox) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Inner Peace](https://open.spotify.com/album/4FoTmbikEtF6Jj4mzvpWQD) | 6:40 |
 | 61 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 |
-| 62 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/1NdUN7aApnb6qOLzGY7EA1) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
-| 63 | [Ninuvina Namadendhu](https://open.spotify.com/track/3cEJRKdCWYnFqM0DHuFZs8) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 6:43 |
+| 62 | [Ninuvina Namadendhu](https://open.spotify.com/track/3cEJRKdCWYnFqM0DHuFZs8) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 6:43 |
+| 63 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/1NdUN7aApnb6qOLzGY7EA1) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
 | 64 | [Silence Is Bliss \(feat\. Pandit Vishwa Mohan Bhatt\)](https://open.spotify.com/track/1EsiOtldv6cwty7wzjb21G) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Silence Is Bliss](https://open.spotify.com/album/4tINT5MiPsX1SSECjIHfzw) | 7:07 |
 | 65 | [Bliss](https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI) | 7:25 |
 | 66 | [Healing Song](https://open.spotify.com/track/6eCmV7Lo5Aqn9QbxMR94Mq) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX), [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Healing Song](https://open.spotify.com/album/3rHQ7V8XGIiQfPZOJ5KTqa) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Gokul Streets \- Original Mix](https://open.spotify.com/track/5cP04kLMxkCy9tAJ3q8fzp) | [Rupak Mukherjee](https://open.spotify.com/artist/7wbEfkEn8mdeWJqMdjTP5M) | [Classical Melodies of Flute and Tabla](https://open.spotify.com/album/2O3fQR25SIk7vYla9dlchz) | 1:53 |
 | 75 | [Raag Megh](https://open.spotify.com/track/673opWGY1zqKXIVv1y2aAB) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Suchismita](https://open.spotify.com/artist/228XjAjxsgRuOwO0zaZHcT), [Debopriya Chatterjee](https://open.spotify.com/artist/4tR5TyljrXvbbKY14uwB2v) | [Ananta\-The Wonder of the Indian Flute](https://open.spotify.com/album/6QwWZtgUoNYhPpi1sNpspn) | 8:55 |
 
-Snapshot ID: `AAAAAMBOEsan+ZrurMQ7Ds11+/LvHKA/`
+Snapshot ID: `AAAAAKwn0D1HIlGt33fmVoBzLnqzgJmD`

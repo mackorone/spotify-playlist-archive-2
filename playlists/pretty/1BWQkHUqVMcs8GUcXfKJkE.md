@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1BWQkHUqVMcs8GUcXfKJkE.md) - [plain]
 
 > 
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 30 likes - 10 songs - 29 min 32 sec
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 30 likes - 10 songs - 30 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MIDWESTEMO2 \(feat\. Lunamatic, underscores & Yung Skrrt \)](https://open.spotify.com/track/5rrKJSIv7QygIeUIrLToiq) | [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze), [Lunamatic](https://open.spotify.com/artist/77DTuUk6FabnQ9gB0e91qT), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | ["things happen, it's okay!"](https://open.spotify.com/album/2DR5oiYW62VpEQBRLDf8aA) | 2:33 |
+| 1 | [stuck! \(feat\. Valentine, underscores & Knapsack\)](https://open.spotify.com/track/5rrKJSIv7QygIeUIrLToiq) | [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze), [VALENTINE](https://open.spotify.com/artist/1oSgUcr4PGbytOf7G7Y4DZ), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | ["things happen, it's okay!"](https://open.spotify.com/album/2DR5oiYW62VpEQBRLDf8aA) | 3:25 |
 | 2 | [Good Life Freestyle](https://open.spotify.com/track/2VKrf77Qb440wDov39amjL) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [Chlorine](https://open.spotify.com/album/0wkqM2SSCAJyUqx6jv4Jz4) | 2:50 |
 | 3 | [23oz](https://open.spotify.com/track/1kAphAYhq3IkQ4jRNc8rH2) | [login](https://open.spotify.com/artist/5JZPSVFMUk4HGDdx68lN77) | [bitzer](https://open.spotify.com/album/6t3XGSb6Tm3uFt6AVBnQVx) | 6:06 |
 | 4 | [dopamine](https://open.spotify.com/track/1H1m8EVEEPehdFXAbeWLkL) | [Mayflower](https://open.spotify.com/artist/6fWHNDu40pUOyiCPXBx2io) | [dopamine](https://open.spotify.com/album/1TmTrIJj0NOQ2nHN00vzil) | 2:45 |

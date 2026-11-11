@@ -8437,6 +8437,28 @@
     },
     {
       "album": {
+        "name": "i just like you",
+        "url": "https://open.spotify.com/album/0ADC4czU9DeLdHRdPJ19zE"
+      },
+      "artists": [
+        {
+          "name": "1aevne",
+          "url": "https://open.spotify.com/artist/0Uz9t0hQphqsXetOIlfoLA"
+        },
+        {
+          "name": "baby.murcielaga",
+          "url": "https://open.spotify.com/artist/4vzyM9YHoYzLSyQRd8Imbq"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145696,
+      "name": "i just like you",
+      "url": "https://open.spotify.com/track/2dBdfUshMhtAkNJXRjQnq0"
+    },
+    {
+      "album": {
         "name": "I Like It With You",
         "url": "https://open.spotify.com/album/6Zgev7ySrbUwKAqL10ofNV"
       },

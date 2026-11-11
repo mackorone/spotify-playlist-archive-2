@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 611130,
+  "num_followers": 611217,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8zzpB6PMu3f5Gxl6TG1FHMwPGg",
+  "snapshot_id": "AAAAAK8mUYOigJER7dbS5Lwpus8mL+XL",
   "tracks": [
     {
       "added_at": "2026-08-11 14:10:49",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "HECHO A MANO",
-        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "FULL ICE (prod. ORODEMBOW)",
-      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Pininfarina (Remix)",
         "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 260787,
       "name": "Pininfarina - Remix",
       "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "HECHO A MANO",
+        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 160078,
+      "name": "FULL ICE (prod. ORODEMBOW)",
+      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1347,22 +1347,30 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1"
+        "name": "Jimmy Fallon (Remix)",
+        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
       "artists": [
         {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 252373,
-      "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n"
+      "duration_ms": 242376,
+      "name": "Jimmy Fallon - Remix",
+      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1399,30 +1407,38 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Jimmy Fallon (Remix)",
-        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
+        "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1"
       },
       "artists": [
         {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 242376,
-      "name": "Jimmy Fallon - Remix",
-      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
+      "duration_ms": 252373,
+      "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "\u00cddolo",
+        "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 199850,
+      "name": "Pa Que Brille",
+      "url": "https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "\u00cddolo",
-        "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Pa Que Brille",
-      "url": "https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Arre",
         "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 168032,
       "name": "Arre",
       "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Keoland",
-        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1523,6 +1507,22 @@
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Keoland",
+        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sigo Fresh",
+      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 214615,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sigo Fresh",
-      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -2239,22 +2239,30 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "LVV the Real Rondon",
-        "url": "https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR"
+        "name": "My Blood Remix (feat. Julianno Sosa)",
+        "url": "https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         },
         {
           "name": "Pablo Chill-E",
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 167028,
-      "name": "Como Me Ven",
-      "url": "https://open.spotify.com/track/7j13aYb9i5749QxSI8Yhfv"
+      "duration_ms": 252212,
+      "name": "My Blood Remix (feat. Julianno Sosa)",
+      "url": "https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh"
     }
   ],
   "unique_name": "Trap viejito",

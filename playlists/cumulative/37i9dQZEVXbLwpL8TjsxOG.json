@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -11410,7 +11410,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
@@ -21172,7 +21172,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "With",
       "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
@@ -21846,7 +21846,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 236574,
       "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
       "url": "https://open.spotify.com/track/13tIxAkljab9gj8spOmz9P"
@@ -26204,7 +26204,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 257013,
       "name": "\u6211\u672c\u4eba",
       "url": "https://open.spotify.com/track/55z4ZnZNJEJBn9hPrekE4f"
@@ -26875,6 +26875,24 @@
     },
     {
       "album": {
+        "name": "MULTIVERSE OF GO EAST 30TH ANNIVERSARY - \u8a31\u5fd7\u5b89",
+        "url": "https://open.spotify.com/album/15MKtHQOigH83oK5NNeYVH"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "\u6628\u9072\u4eba",
+      "url": "https://open.spotify.com/track/79jyZjNhC6HZUxlfn5HAnO"
+    },
+    {
+      "album": {
         "name": "Life In Music (\u65b0\u66f2+\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/6JrHt5HysRyFc6WC561LcS"
       },
@@ -26904,7 +26922,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 266333,
       "name": "\u6628\u9072\u4eba",
       "url": "https://open.spotify.com/track/0JaChJKM1XYJE48rKaUvG8"

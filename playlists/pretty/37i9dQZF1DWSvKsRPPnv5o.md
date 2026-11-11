@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Anderson .Paak and Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,319 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,206 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [Straight Slidin](https://open.spotify.com/track/3VHfKwyuSd1SOqJmkFgZ1r) | [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [Who is Dody6?](https://open.spotify.com/album/4CTE4Jnr9RY6y9qsdI6ZUz) | 2:06 |
 | 100 | [All That](https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Thirsty P](https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx) | [All That](https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2) | 3:01 |
 
-Snapshot ID: `AAAAANyMvoFTN2tWcSgSx2PguhJzGpl/`
+Snapshot ID: `AAAAAOAGYQdG0fUWbqn4Ht+QYYZvPOQi`

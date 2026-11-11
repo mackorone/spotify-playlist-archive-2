@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  Lauana Prado, Felipe e Rodrigo, Britney Spears, Lil Baby, WIU e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,319,689 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319,386 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 43 | [Caminhando a Pé \- Acústico 33 Anos](https://open.spotify.com/track/5mjjP375KoBy4WurZqLvzm) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Acústico 33 Anos, Vol\. 1](https://open.spotify.com/album/0E1RCXjniXEqsJ4eovqrP0) | 4:04 |
 | 44 | [Sarrei](https://open.spotify.com/track/136fgRL9SGm64TKXwbmFyj) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Sarrei](https://open.spotify.com/album/66Up3cm9O6ADr5mqbbl3cM) | 1:57 |
 | 45 | [ANJO REBELDE](https://open.spotify.com/track/2xPo18rzR09yd6pCcUoApQ) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [ESTILHAÇOS DE UM ANJO REBELDE \- ÚLTIMO ATO](https://open.spotify.com/album/0d7aXFIBckznBHiIj4gyh9) | 3:31 |
-| 46 | [Vai Deixar Baqueado o Soldado](https://open.spotify.com/track/3SxPVQatHQG0gvVekF8Ou9) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [MC Teuzin](https://open.spotify.com/artist/5A0biCbXmVH65VUFpplmWS), [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe), [Mc Kelmin](https://open.spotify.com/artist/1I4PbynXPV7lHHPhfSXCG4), [ANJ Beatz](https://open.spotify.com/artist/734C2FKfVOl640APhJPoGe) | [Vai Deixar Baqueado o Soldado](https://open.spotify.com/album/1bzmMJTxAWAOzk5jCLJSUj) | 4:55 |
+| 46 | [Vai Deixar Baqueado o Soldado](https://open.spotify.com/track/3SxPVQatHQG0gvVekF8Ou9) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe), [Mc Kelmin](https://open.spotify.com/artist/1I4PbynXPV7lHHPhfSXCG4), [ANJ Beatz](https://open.spotify.com/artist/734C2FKfVOl640APhJPoGe) | [Vai Deixar Baqueado o Soldado](https://open.spotify.com/album/1bzmMJTxAWAOzk5jCLJSUj) | 4:55 |
 | 47 | [Obsession](https://open.spotify.com/track/7cmtESm3Nex6YLiXnG7xu7) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Trippz Michaud](https://open.spotify.com/artist/7aZkfILPe29ylBS64DCGds) | [Obsession](https://open.spotify.com/album/2y2PRwa8gBpoJctsIkjxIE) | 2:37 |
 | 48 | [SOL](https://open.spotify.com/track/6q6Xr6qTEFieZZbOOQBWwW) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Caê](https://open.spotify.com/artist/2kXEw2HoJKXcvvYvZ7XKye), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [SOL](https://open.spotify.com/album/4qcDfI4qz4k8ZTWduc7NoB) | 4:03 |
 | 49 | [Só por Isso Eu Vim](https://open.spotify.com/track/25HtOBkWsZQq5Vkmawxaea) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Só por Isso Eu Vim](https://open.spotify.com/album/2QR20ZVpnxIT5ZiwS9J4Mx) | 3:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 69 | [OK OK](https://open.spotify.com/track/23BVorsHARmvlEDep0jKQe) | [Raíssa Real](https://open.spotify.com/artist/17SKZag0ny1UYaeuEJdyqk), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [OK OK](https://open.spotify.com/album/5qT5M4fDUaf3sQ3uotisoX) | 2:16 |
 | 70 | [só nós dois](https://open.spotify.com/track/5UabYY9L9GDv2ua4NGY9MV) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [só nós dois](https://open.spotify.com/album/2kuhmuTN0leFEBwPDJbKzs) | 3:00 |
 
-Snapshot ID: `AAAAAC5JR+Tsk+Dv0MTYG37SVAXHSQy+`
+Snapshot ID: `AAAAACnD7fHFA6xEER4+kHGVHfHy1G+F`

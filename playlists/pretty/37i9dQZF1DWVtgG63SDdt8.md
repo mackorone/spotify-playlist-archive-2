@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Elyssa Figueroa
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,099 likes - 99 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,113 likes - 99 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [NEW HEAVEN](https://open.spotify.com/track/0tfXcHME27daKjcHe6qtST) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [SEVEN TRUMPETS](https://open.spotify.com/album/3u7jThyNYHSpzijEwahB7U) | 1:58 |
 | 99 | [HOW COULD I NOT](https://open.spotify.com/track/3CYW9t28YlVEEIWxHRonHA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Gavin the HotRod](https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [HOW COULD I NOT](https://open.spotify.com/album/5PFRlSbZlMHTkGEpPNjetn) | 4:12 |
 
-Snapshot ID: `AAAAAMSBWIGr/HovPPxxgc5SvusS7q0F`
+Snapshot ID: `AAAAAC34ZGxo4t4V3+aRDvx3aeebPXG7`

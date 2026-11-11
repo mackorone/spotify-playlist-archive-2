@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,173 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,181 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 26 | [Annabelle](https://open.spotify.com/track/1tyv2KT1wqkJVuGlBf3KBE) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Annabelle](https://open.spotify.com/album/4Lb1ip97KpMT1OZjc1Q9i8) | 2:09 |
 | 27 | [青い太陽](https://open.spotify.com/track/5hR9o5csrZrKv4pPJvj7TH) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [青い太陽](https://open.spotify.com/album/0PimyILm2qiMJoQiBGpwfC) | 3:27 |
 | 28 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
-| 29 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
-| 30 | [Love Like This](https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:20 |
+| 29 | [Love Like This](https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:20 |
+| 30 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
 | 31 | [キャラバン](https://open.spotify.com/track/1qXtgsCxVLKy3O6py8QOBS) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [キャラバン](https://open.spotify.com/album/69eePYSw1LlMDOvMZwEcQu) | 3:01 |
 | 32 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
 | 33 | [Bora Bora](https://open.spotify.com/track/4m4YHd7kzcJnEMPBJBjqsL) | [LEPYUTIN](https://open.spotify.com/artist/0xIHNVToPKLLTMFFpRKFUv) | [Bora Bora](https://open.spotify.com/album/0DDElz4yORty6Mq6WBR9K3) | 6:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 45 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 |
 | 46 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 |
 | 47 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
-| 48 | [Sambung](https://open.spotify.com/track/3uUJsNW9TAYqqq1rBZDy1o) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [Sambung](https://open.spotify.com/album/1dz1xknOVdVX0LqfzJNxkX) | 4:58 |
-| 49 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 |
+| 48 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 |
+| 49 | [Sambung](https://open.spotify.com/track/3uUJsNW9TAYqqq1rBZDy1o) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [Sambung](https://open.spotify.com/album/1dz1xknOVdVX0LqfzJNxkX) | 4:58 |
 | 50 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 
-Snapshot ID: `AAAAAEUaoiDIUZ3sHngdMSfRN2ec5unV`
+Snapshot ID: `AAAAACSZFTIO0rom9X24D1jKpKNLrIJy`

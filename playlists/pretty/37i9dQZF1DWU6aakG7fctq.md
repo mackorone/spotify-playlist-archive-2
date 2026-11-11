@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Silvestre y La Naranja
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,619 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,514 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [esa cara](https://open.spotify.com/track/4aN7X1buWStoLqvJrZgIWC) | [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY), [diego vega](https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [esa cara](https://open.spotify.com/album/5mj39NSYk6TGy5VzA2x9kX) | 2:31 |
 | 50 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
 
-Snapshot ID: `AAAAAGDPjTCqAuvAdsLkHP2X0wg3Se2l`
+Snapshot ID: `AAAAAIb0wqpBvFJZYGSCojPKYj/rycHA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lil Baby,  Slayyyter, Lizzy McAlpine, Dove Cameron and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,654,759 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,654,362 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [lyre](https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [lyre](https://open.spotify.com/album/5Nqa0C4Z2vvZz6bZb2pKoC) | 2:43 |
 | 100 | [BLOW UP](https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [BLOW UP](https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS) | 2:45 |
 
-Snapshot ID: `AAAAAFc+2jKAZ8bXxEd+Pct+dYs9xSGU`
+Snapshot ID: `AAAAABedco9WdEIN0r0V8g6BulnARMiP`

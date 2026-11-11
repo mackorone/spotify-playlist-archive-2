@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Kapak: Carlita
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,624 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,618 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 48 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
 | 49 | [Vertigo](https://open.spotify.com/track/64aXxgrtA3T2gYdxzJhIA4) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Vertigo](https://open.spotify.com/album/5nS0sCJUWnextYkGXuKfKn) | 2:38 |
 
-Snapshot ID: `AAAAADKkad8EHtY9Cl0CnH1Ql3KQDrYc`
+Snapshot ID: `AAAAAEOpHTIPktIW7HNiW2O12LYgFa6i`

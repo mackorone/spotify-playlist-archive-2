@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Chats
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,870 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,865 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Ramona, Again](https://open.spotify.com/track/22JLm8VcNSWxmdy6CWOnrk) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Ramona, Again](https://open.spotify.com/album/0ujn3IH6GMB8jzPTNEnOon) | 3:26 |
 | 100 | [Pool](https://open.spotify.com/track/5ePNE8nUacIbX2Ruvw1mgE) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [Pool](https://open.spotify.com/album/1Qs8KNu9eHAy923LZSn8bi) | 3:07 |
 
-Snapshot ID: `AAAAAA4eYSgKXudWP1h6Scq3TvaLj/oG`
+Snapshot ID: `AAAAALhUclh5CTNPb+aQsOrNGUDXcJYv`

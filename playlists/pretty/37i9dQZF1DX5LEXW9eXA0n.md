@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: O.WHEN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,026 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,029 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [벗 \(왕과 사는 남자 Original Soundtrack\)](https://open.spotify.com/track/6BfjwiYI0pz3IJlJvGF2Cn) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [벗 \(왕과 사는 남자 Original Soundtrack\)](https://open.spotify.com/album/7blbjKGb1p8TQR4ZLWJipu) | 3:30 |
 | 100 | [appear](https://open.spotify.com/track/1bCUwy65Rbnxf2EvCOG9Na) | [SLAY](https://open.spotify.com/artist/0mKLeAOe2gIPTqqOdSC0UJ) | [appear](https://open.spotify.com/album/2QXxhvRZEKI8bFSMR1QeH0) | 3:02 |
 
-Snapshot ID: `AAAAAMtSIJwT1eEi0w+aXVVDJvW5YV/d`
+Snapshot ID: `AAAAAG1BioB+ZHWFAkRmgt07X0oV+qm0`

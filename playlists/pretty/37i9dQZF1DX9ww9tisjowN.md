@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Tatsuya Kitani キタニタツヤ
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,307 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,321 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [共犯](https://open.spotify.com/track/5P3Nmg0jSYfrSKoYonTGan) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [POPS](https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g) | 3:51 |
 | 75 | [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 |
 
-Snapshot ID: `AAAAAI1qHTBQnTuZjUIL9H2lDgnOwLPG`
+Snapshot ID: `AAAAAIj1EA/ISs3d2yas3oVlLm9TqNoU`

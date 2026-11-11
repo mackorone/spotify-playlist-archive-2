@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,316 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,314 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Counting The Days](https://open.spotify.com/track/0LtfzO8EAU8xvrNl89H9Ci) | [Stimpies](https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4) | [Counting The Days](https://open.spotify.com/album/0bc7blu6jKABTPGwbHDe41) | 2:43 |
 | 80 | [SLPM](https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP) | [The Bures Band](https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV) | [Ozonia](https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal) | 5:44 |
 
-Snapshot ID: `AAAAAEgOL4OadEpX0x8BLiDCsXjXdeIY`
+Snapshot ID: `AAAAAKn9nrwgCjY++lU4XixrHmqDxjNb`

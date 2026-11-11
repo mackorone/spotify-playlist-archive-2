@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,923,971 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,813 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Kiss Kiss](https://open.spotify.com/track/0WvZ1ZpWrGYrRQ4H53liNv) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Kiss Kiss](https://open.spotify.com/album/0K94gcboY6e6k2iB8M82LJ) | 3:20 |
 | 80 | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/track/37NKZWPHvDqPTS85cl5t74) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/album/3ug7nkRQFoALUm5h8OcOn5) | 3:56 |
 
-Snapshot ID: `AAAAACo5ADs1pm1PiPu0bVgB2NdbW24o`
+Snapshot ID: `AAAAADZZtGS+CeJgh6I1LDKjBy0/fh6B`

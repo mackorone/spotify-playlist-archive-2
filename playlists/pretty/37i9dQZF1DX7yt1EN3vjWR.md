@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【セットリスト公開】2026年10月10日（土）に大阪・GORILLA HALL OSAKA、11月3日（火・祝）に東京・Zepp Shinjukuで開催された『POP YOURS presents Golden Age Tour』セットリストをプレイリストで振り返ろう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,841 likes - 54 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,837 likes - 54 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 53 | [ニコニコ](https://open.spotify.com/track/1385y58ViBHBPQa9Hvx174) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [THE GOAT TAPE 4](https://open.spotify.com/album/691GLrlnXVyUrc9dvEpTAj) | 2:28 |
 | 54 | [STARLIGHT](https://open.spotify.com/track/0FG5Byhhrxel96MUf1tTUb) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [HARKA](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [STARLIGHT](https://open.spotify.com/album/5TibMNvMzjSot778RCMlDy) | 4:02 |
 
-Snapshot ID: `AAAAAGmQWCgDV8+Bt2pMocBEGPiZbNIy`
+Snapshot ID: `AAAAAPsHUMFo5ErcPfhi+c8O2ocpiuCe`

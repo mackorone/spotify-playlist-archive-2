@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,781 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,782 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 16 | [Verdronken Vlinder](https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:24 |
 | 17 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
 | 18 | [De Kat Van Ome Willem](https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10), [Hetty Blok](https://open.spotify.com/artist/0VwzejS59E7wzdAEomSwoU) | [Het Mooiste Van Wim Sonneveld](https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB) | 2:09 |
-| 19 | [Je Bent Niet Hip](https://open.spotify.com/track/0658jhE6xvdROR3mYKvn7P) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:41 |
-| 20 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
+| 19 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
+| 20 | [Je Bent Niet Hip](https://open.spotify.com/track/0658jhE6xvdROR3mYKvn7P) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:41 |
 | 21 | [Een Meisje Van Zestien](https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:59 |
 | 22 | [Patsy](https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6) | [Rein De Vries](https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:54 |
 | 23 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 89 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
 | 90 | [Dans Nog Eenmaal Met Mij](https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM) | [The Fouryo's](https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB) | [The Story of Volume 1](https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ) | 2:39 |
 
-Snapshot ID: `AAAAAAQ98UWY0iVBTA0XaIvLTzFKSjuF`
+Snapshot ID: `AAAAAAspwZiXKz3i58QasTZVu3QaxU6P`

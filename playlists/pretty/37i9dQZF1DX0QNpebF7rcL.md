@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,760 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,792 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [All My Life](https://open.spotify.com/track/0VDUH9ExYWe5XGRmqu3VHk) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [The Invisible Man](https://open.spotify.com/album/75jZ7YB5g4bwiA5XAFSMX0) | 3:09 |
 | 100 | [Drunk on Your Love](https://open.spotify.com/track/3bEiLUc6SNYVtJr1FgcN4k) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Drifter](https://open.spotify.com/album/3K3Pd91BolfUsaTUhp6jZR) | 3:42 |
 
-Snapshot ID: `AAAAAJaZZaozbpv8+8zCxna5FmWRTohz`
+Snapshot ID: `AAAAAKwE812QFIomw9h67g0iANfzU/vo`

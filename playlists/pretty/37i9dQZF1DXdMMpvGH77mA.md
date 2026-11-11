@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,466 likes - 125 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,601 likes - 125 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 124 | [Surya Mala](https://open.spotify.com/track/5AslCEDnjoztuQci6feLUL) | [Liam Callahan](https://open.spotify.com/artist/0S7H10WFzeRISS2m79iSCs) | [Surya Mala](https://open.spotify.com/album/34R2D2He8T4Tl85imp9Q4T) | 3:34 |
 | 125 | [Subtle Motions](https://open.spotify.com/track/0uxUsktZV2gDrDwuAvyxOc) | [Hans Dream](https://open.spotify.com/artist/42nT9CRo4kYwJR66S8RiXG) | [Subtle Motions](https://open.spotify.com/album/44IZQ3iXcX62ybDhJCGnRP) | 2:36 |
 
-Snapshot ID: `AAAAAKQPPJCcxHNAtolpDBJQ5hfYfE/O`
+Snapshot ID: `AAAAAKR/sToPDxn/28jfV2Jx6lWdkreX`

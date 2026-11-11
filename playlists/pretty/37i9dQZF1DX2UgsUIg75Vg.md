@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: nomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,673 likes - 260 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,571 likes - 260 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,7 +217,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 207 | [AM I OKAY?!](https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [AM I OKAY?!](https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91) | 3:37 |
 | 208 | [Higher Power](https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Higher Power](https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x) | 2:53 |
 | 209 | [this girl wants everything](https://open.spotify.com/track/1HTT4w6QtSmIw1Xkeieqe9) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [this girl wants everything](https://open.spotify.com/album/621lV9XJCaTYbnZKQtkCYb) | 3:33 |
-| 210 | [Fly](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Fly](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 |
+| 210 | [FLY](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FLY](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 |
 | 211 | [Ordinary Feelings](https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Ordinary Feelings](https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb) | 3:54 |
 | 212 | [Remedy](https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Remedy](https://open.spotify.com/album/47wz4Jd9NtdNNStLsM7reV) | 3:13 |
 | 213 | [BBY CRUMBS](https://open.spotify.com/track/4J73olXlMdSvckMRU5brDF) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:12 |
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 259 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
 | 260 | [Is It a Crime](https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Is It a Crime](https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci) | 3:01 |
 
-Snapshot ID: `AAAAAKAptMHMiYwR40VnGKQi7vXnpw2S`
+Snapshot ID: `AAAAAM5FB+V8wBL9+fkgcrJsCsuH4Lfv`

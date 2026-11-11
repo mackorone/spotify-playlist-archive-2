@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Hank
 
-3,794 songs - 7 day 8 hr 11 min
+3,796 songs - 7 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1175,7 +1175,7 @@
 | [Für immer](https://open.spotify.com/track/3syJILv7CyZQ3ZSkm2xu5a) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Für immer](https://open.spotify.com/album/4k8BTY0xoGFomTmckK9hAL) | 3:04 | 2026-10-29 |  |
 | [Für immer](https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Fahrt ins Blaue](https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1) | 2:52 | 2026-03-26 | 2026-05-29 |
 | [für immer](https://open.spotify.com/track/4nEmfNsMdztb0ECZau0MIM) | [julee](https://open.spotify.com/artist/2FvYb4ggkzFJOVzr1kl5BM) | [für immer](https://open.spotify.com/album/5vsUZseWT8NG99lKrsZr94) | 2:22 | 2026-06-11 | 2026-08-04 |
-| [Für immer](https://open.spotify.com/track/5lfrv9rNFHIfdF0IWNWg5U) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Für immer](https://open.spotify.com/album/1gRjCkne7aC5q2GQ7UE5qN) | 2:12 | 2026-08-06 |  |
+| [Für immer](https://open.spotify.com/track/5lfrv9rNFHIfdF0IWNWg5U) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Für immer](https://open.spotify.com/album/1gRjCkne7aC5q2GQ7UE5qN) | 2:12 | 2026-08-06 | 2026-11-11 |
 | [für immer](https://open.spotify.com/track/7rGOPkVapaa9ohj0dAj3Ys) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [für immer](https://open.spotify.com/album/3MAt7QzJSP9TdNk5o28OsX) | 2:20 | 2026-07-23 | 2026-09-04 |
 | [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/track/2BfqcEI98b5QSvZuYMP4H1) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/album/4hOeYroGuI9Q7KxeFHmlLA) | 2:33 | 2023-08-03 | 2023-08-26 |
 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-02-02 | 2024-04-12 |
@@ -1183,6 +1183,7 @@
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2023-04-13 | 2023-05-12 |
 | [Für mich](https://open.spotify.com/track/0zz7YXXIyiW4CGLt72CRSU) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Für mich](https://open.spotify.com/album/1qvfaRD1qKkQklYf429VAA) | 2:30 | 2025-04-01 | 2025-04-25 |
 | [Für Sie](https://open.spotify.com/track/7rLTGGhB9aQwcRTfc5xu3m) | [Ramazan](https://open.spotify.com/artist/5nZ1QrOYHyb1x8DrLjwFJE) | [Für Sie](https://open.spotify.com/album/6nT5EDDAqOVQLLjLLoiVKy) | 2:31 | 2025-10-16 | 2025-11-14 |
+| [Fürs Gewinnen musst verlieren](https://open.spotify.com/track/3yGLD7t7OEyrRCE0bMxlOB) | [FEDX](https://open.spotify.com/artist/1i6K6RNWO4mV9LNVls5eFc) | [Fürs Gewinnen musst verlieren](https://open.spotify.com/album/6mXXhBUr3CcAkPQyaAwm3R) | 2:30 | 2026-11-10 |  |
 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-28 | 2023-10-20 |
 | [G.I.N.A\. \(GELDISTNICHTALLES\)](https://open.spotify.com/track/5BMPfhOSNxJ4sgoxjqsYDw) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/5MnXSYnNLHXL9rkTiVcAS8) | 3:00 | 2025-07-03 | 2025-08-01 |
 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 | 2023-08-10 | 2023-08-18 |
@@ -2156,7 +2157,7 @@
 | [Mensch](https://open.spotify.com/track/2kCiJhR55HobHDq1QT63yJ) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Mensch](https://open.spotify.com/album/5erMvH8DbaRoBjI8QOOcW2) | 2:37 | 2024-04-11 | 2024-07-19 |
 | [Mensch im Spiegel](https://open.spotify.com/track/18DNauPPeiBGsRmNxNpsLt) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Mensch im Spiegel](https://open.spotify.com/album/2xJ6t5znut19fzv2oHMUC7) | 2:19 | 2026-04-09 | 2026-05-15 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-25 | 2022-09-02 |
-| [Mercedes](https://open.spotify.com/track/4DRMX4LhcYElhY3Xqz69kd) | [Sean Ok](https://open.spotify.com/artist/1bsrTaW6CckCpXMVCVRD2y) | [Mercedes](https://open.spotify.com/album/5771HThhDoTbDImayDZajd) | 1:53 | 2026-10-29 |  |
+| [Mercedes](https://open.spotify.com/track/4DRMX4LhcYElhY3Xqz69kd) | [Sean Ok](https://open.spotify.com/artist/1bsrTaW6CckCpXMVCVRD2y) | [Mercedes](https://open.spotify.com/album/5771HThhDoTbDImayDZajd) | 1:53 | 2026-10-29 | 2026-11-11 |
 | [Mercurial Vapor](https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Mercurial Vapor](https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ) | 3:05 | 2022-12-08 | 2022-12-16 |
 | [Merry Christmas lol](https://open.spotify.com/track/1SmFuxQr1dvKkzjZ1rViKs) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Merry Christmas lol](https://open.spotify.com/album/6E8SJO09QPs0W6TiMyInd6) | 1:09 | 2024-12-12 | 2024-12-31 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-09 | 2025-03-28 |
@@ -3693,6 +3694,7 @@
 | [Without You](https://open.spotify.com/track/70iMhwrs7qZg64GiW8sMew) | [Kidd Azzurra](https://open.spotify.com/artist/78l0gyXe9ppP4zLZDsgfcj) | [Without You](https://open.spotify.com/album/6RXrLreUG2FzqOSy1CHzy8) | 1:53 | 2022-06-09 | 2022-07-01 |
 | [Wo bist du](https://open.spotify.com/track/2UWuZkYZH9urjcC3UD4MtQ) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Träume in Beton](https://open.spotify.com/album/2ILs9pESvatu09JTqp87Cl) | 2:43 | 2025-04-03 | 2025-05-02 |
 | [Wo ist der DJ](https://open.spotify.com/track/6GagT50zogqk5qzAPT6nVw) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Wo ist der DJ](https://open.spotify.com/album/1qtnakc70LU3rza4lA4hAH) | 2:41 | 2026-08-20 | 2026-10-23 |
+| [wo ist?](https://open.spotify.com/track/5JhLDTOlYlCU3RlfHqgDyG) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [wo ist?](https://open.spotify.com/album/4VB6VVP9XM9hVvcMYZpheX) | 2:31 | 2026-11-10 |  |
 | [WO WO](https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WO WO](https://open.spotify.com/album/5dZm2HzDYT22UmJzG9qfXT) | 2:35 | 2023-08-29 | 2023-09-08 |
 | [WOHER WILLST DU WISSEN](https://open.spotify.com/track/5ZEaZTMz4LKhwutqg3LUjV) | [CIVAN](https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g) | [WOHER WILLST DU WISSEN](https://open.spotify.com/album/3uViUrp9T78iaoL1ZU2eue) | 2:20 | 2026-09-17 | 2026-10-16 |
 | [Wolke 4](https://open.spotify.com/track/7cEISyO6QWsik3mbO9nUFC) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Wolke 4](https://open.spotify.com/album/4ZVi8tzbQDvb49jXMQYEKn) | 2:16 | 2026-07-02 | 2026-09-25 |

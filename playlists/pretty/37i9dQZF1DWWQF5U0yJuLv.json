@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 201880,
+  "num_followers": 201883,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM4XoycBLC/pPW+QQ57S09Fc+TK8",
+  "snapshot_id": "AAAAADdZQ4bLr1RjZJyuJyHMug+oA9z0",
   "tracks": [
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Body Riddle (Remastered)",
         "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "William Shatner Has Been",
         "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 339480,
       "name": "Together",
       "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1503,22 +1519,6 @@
       "duration_ms": 196547,
       "name": "Echo Boomed",
       "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Hypernatural",
-        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
-      },
-      "artists": [
-        {
-          "name": "Hypernatural",
-          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
-        }
-      ],
-      "duration_ms": 259488,
-      "name": "Changing Tides",
-      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Puzzlewood",
         "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 208983,
       "name": "Red Kite",
       "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Hypernatural",
+        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
+      },
+      "artists": [
+        {
+          "name": "Hypernatural",
+          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
+        }
+      ],
+      "duration_ms": 259488,
+      "name": "Changing Tides",
+      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
     },
     {
       "added_at": "2025-11-07 05:00:56",

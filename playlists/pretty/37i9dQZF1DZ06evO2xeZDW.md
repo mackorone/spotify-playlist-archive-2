@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,688 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,694 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 | 49 | [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 |
 | 50 | [A Good Day to Dive \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 4:10 |
 
-Snapshot ID: `au+7gAAAAACY3lWq96hUNRI4CfyBLjEx`
+Snapshot ID: `avENAAAAAACm2OV90m+Fukwq5eeOuvfS`

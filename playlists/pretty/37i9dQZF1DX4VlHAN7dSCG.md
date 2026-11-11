@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Tizzy Bac
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,481 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,484 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 79 | [Stadium Rocked and Rolled \(Liu Ying Sessions\)](https://open.spotify.com/track/3ih2pc8DiDnyblMxF7zFOg) | [夏日麼麼茶 Summertime Sadness](https://open.spotify.com/artist/1Bys2GSCqehKp0WNb8p7YT) | [夏日麼麼茶](https://open.spotify.com/album/2dOeYO61nbM7VQglXOaqYB) | 4:45 |
 | 80 | [不想長大，也不想一直這樣](https://open.spotify.com/track/1sTjWwCtnHBiVs60iH2byj) | [碎星樂隊](https://open.spotify.com/artist/0WROAErJTir5F0nQawBprp) | [碎星](https://open.spotify.com/album/4Cv0pfWdyo9prCVkFMAQM7) | 3:20 |
 
-Snapshot ID: `AAAAAJB/xKp9eF58W/Ucm2iQdCbzfUWj`
+Snapshot ID: `AAAAAPPddF0/u5Q8SYzGYSL82tIc90oH`

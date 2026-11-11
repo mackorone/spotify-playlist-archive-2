@@ -1245,6 +1245,32 @@
     },
     {
       "album": {
+        "name": "Scene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yoZ4Wjz3ZDxUBT9cQ5aBz"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        },
+        {
+          "name": "Rajpriyan",
+          "url": "https://open.spotify.com/artist/3aV1xXHRwgdlbPE8bAEmOJ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147317,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/0kST7wDpOzoTIn0QvlW94l"
+    },
+    {
+      "album": {
         "name": "Afsos",
         "url": "https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa"
       },
@@ -1718,7 +1744,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 172977,
       "name": "Alfaaz - Vocals",
       "url": "https://open.spotify.com/track/22O7lA56jLJee5p0XR8UNz"
@@ -3500,10 +3526,32 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 185294,
       "name": "Barsaat",
       "url": "https://open.spotify.com/track/0DpUQ3mpAGy3bYsEKVy6t5"
+    },
+    {
+      "album": {
+        "name": "Barsaat",
+        "url": "https://open.spotify.com/album/05jrzEkewvqM1WAWD07bKI"
+      },
+      "artists": [
+        {
+          "name": "Banjaare",
+          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+        },
+        {
+          "name": "Roni",
+          "url": "https://open.spotify.com/artist/2yCnfrc4kI0XxzqLUMPiBk"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Barsaat",
+      "url": "https://open.spotify.com/track/2iUPgbjfgsnqzaFBgtuXfx"
     },
     {
       "album": {
@@ -4440,7 +4488,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 218769,
       "name": "Boom Shaka",
       "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
@@ -5148,7 +5196,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 304899,
       "name": "Chahun Main Ya Naa (From \"Aashiqui 2\")",
       "url": "https://open.spotify.com/track/7Imk0IG6S5GA5iYWkjmMW5"
@@ -8632,7 +8680,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 180000,
       "name": "For A Reason",
       "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
@@ -11858,7 +11906,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 177893,
       "name": "Ishq de Fanniyar - Female Version",
       "url": "https://open.spotify.com/track/0KpdEdrrlqV9X58YAbSsY9"
@@ -18676,7 +18724,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 234149,
       "name": "Mere Ghar Ram Aaye Hain",
       "url": "https://open.spotify.com/track/4afA2YQlZfYzJbfnNoNknK"
@@ -20870,7 +20918,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 265449,
       "name": "O Sanam",
       "url": "https://open.spotify.com/track/7HuuShTJs1tf6rFLDElyik"
@@ -21908,7 +21956,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/3GRpsROvrR081e7j0SBv2b"
@@ -24706,7 +24754,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 370875,
       "name": "Saiyaara",
       "url": "https://open.spotify.com/track/5SSZtFWdrmFV4MxtlRA13N"

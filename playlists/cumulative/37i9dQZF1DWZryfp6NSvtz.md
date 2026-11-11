@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Kings of Leon
 
-12,545 songs - 29 day 20 hr 33 min
+12,546 songs - 29 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3039,6 +3039,7 @@
 | [DON’T WANNA BE LIKE YOU](https://open.spotify.com/track/2alaFx9Ey2pzpVTyjA3JpZ) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [DON’T WANNA BE LIKE YOU](https://open.spotify.com/album/13jAC1ika8dICWcgtqOGwR) | 2:47 | 2024-04-26 | 2024-05-04 |
 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 | 2023-08-25 | 2023-09-02 |
 | [Don’t Want to Know If You Are Lonely](https://open.spotify.com/track/390U9kFHudfXZWkk7LwZ3k) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [Don't Want to Know If You Are Lonely](https://open.spotify.com/album/4qHleLRVBjjpY6bU1P9XsP) | 3:21 | 2026-06-26 | 2026-07-11 |
+| [Don’t Worry Dynamite](https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn) | [Star's Revenge](https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX) | [Don’t Worry Dynamite](https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk) | 2:47 | 2026-11-10 |  |
 | [DOOM LOOP](https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [DOOM LOOP](https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC) | 4:00 | 2026-05-22 | 2026-06-06 |
 | [Doom Tripping](https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Doom Tripping](https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ) | 4:13 | 2026-10-02 | 2026-10-17 |
 | [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 | 2024-04-06 |

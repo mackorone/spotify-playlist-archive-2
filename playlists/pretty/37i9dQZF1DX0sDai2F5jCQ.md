@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover:Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,821 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,792 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 79 | [GHOST DOG.](https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [GHOST DOG.](https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE) | 2:59 |
 | 80 | [F\*CK YOURSELF FREESTYLE](https://open.spotify.com/track/7qn8jPsr9LLXEdZjSZPKDP) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [F\*CK YOURSELF FREESTYLE](https://open.spotify.com/album/3S2Estfuhrn3wOiX5MOaN3) | 3:52 |
 
-Snapshot ID: `AAAAABuDuC4942D0heUDZhZ/+vVAVmbs`
+Snapshot ID: `AAAAANb2Hg7tgg9rVF36kB7PX/nhFLcv`

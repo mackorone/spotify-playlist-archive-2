@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hudson Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,747 likes - 175 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,766 likes - 175 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 174 | [Brandy](https://open.spotify.com/track/77BdrgldFsxeDz4tCqlNmJ) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Big Sun \(Deluxe\)](https://open.spotify.com/album/5PSHi6T8QgPv7coY8T0cID) | 4:10 |
 | 175 | [Pair of Dice](https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Pair of Dice](https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL) | 4:29 |
 
-Snapshot ID: `AAAAAOPk4CaRg0P2Mm9Y7dIRcJTM+4io`
+Snapshot ID: `AAAAAHHicMwK8pUjoE38eVjEkX/SXYWc`

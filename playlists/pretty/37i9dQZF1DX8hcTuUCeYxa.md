@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: IDER
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,107 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,111 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Switching Lanes](https://open.spotify.com/track/6kyoSM1jPYAw0VbdnEIhRF) | [horses4ever](https://open.spotify.com/artist/6mICKgxnfSCLXhxSl7WFG5) | [Switching Lanes](https://open.spotify.com/album/4TwFFsd4HmxJs7EGjyCPfm) | 3:16 |
 | 90 | [Power](https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 3:53 |
 
-Snapshot ID: `AAAAAGklzLq83c6ldc3F/524Vy596/Ax`
+Snapshot ID: `AAAAAMZAHmTjcZjBEUiSV9EeYoA4MrtF`

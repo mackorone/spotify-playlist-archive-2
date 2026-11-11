@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,333 likes - 190 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,372 likes - 190 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 78 | [Still Water](https://open.spotify.com/track/1bIW4vG9WyPDtT2EjYwz42) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Still Water](https://open.spotify.com/album/5tkzME9xg15CNkLXXhuUIs) | 3:18 |
 | 79 | [Slipping](https://open.spotify.com/track/0BfnultpDnJvxFD0bwJirF) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Slipping](https://open.spotify.com/album/26r4eqmAWDss534kB8ACn6) | 6:56 |
 | 80 | [Sans Visage IV](https://open.spotify.com/track/17j9nPk9EtmfvvXfgrXF4x) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Sans Visage IV](https://open.spotify.com/album/3epCdj1H5aAlvB1seuYHba) | 3:47 |
-| 81 | [Sun\-Moon Camellia \(feat\. Eri Ito\)](https://open.spotify.com/track/19LTzRZJp4o0zhfubt0g6e) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Taro Matsumoto](https://open.spotify.com/artist/1DNDo8PSmEx38hRu37lgkW), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [collaborate\#11 \(feat\. Eri Ito\)](https://open.spotify.com/album/2YSG9yik7CnPFfIrTZcTWK) | 6:53 |
+| 81 | [Sun\-Moon Camellia \(feat\. Eri Ito & Taro Matsumoto\)](https://open.spotify.com/track/19LTzRZJp4o0zhfubt0g6e) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg), [Taro Matsumoto](https://open.spotify.com/artist/1DNDo8PSmEx38hRu37lgkW) | [collaborate\#11 \(feat\. Eri Ito\)](https://open.spotify.com/album/2YSG9yik7CnPFfIrTZcTWK) | 6:53 |
 | 82 | [Suikascape](https://open.spotify.com/track/54eyNSONi6JjZY2JlbXatR) | [Glowtone](https://open.spotify.com/artist/4Q3rmsjkZj4xFsr5Sb45pw), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [Felix Wallis](https://open.spotify.com/artist/7FbdTwaoHeA8ami7gDb9GX) | [Glowtonic](https://open.spotify.com/album/6wzd0yephGyJqikcQnr1gP) | 4:18 |
 | 83 | [You Retreat In Time And Space](https://open.spotify.com/track/5m3Uzjuiyj8656EGM1bwhk) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:25 |
 | 84 | [Oslo](https://open.spotify.com/track/2rEozOaQ9KU15bz253g1Cb) | [Tyondai Braxton](https://open.spotify.com/artist/3LxogQGFWIVPpDWNOVlSzK) | [Oslo](https://open.spotify.com/album/4mbnDMvaYSwY2h7WdD1xHY) | 8:36 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 189 | [Virga \(feat\. Darlingside\)](https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Virga \(feat\. Darlingside\)](https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG) | 6:22 |
 | 190 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 |
 
-Snapshot ID: `AAAAANcIsB5JQQFZoPTeMm1jdaDYslL1`
+Snapshot ID: `AAAAABWV3DzWurLoKDF54X0gHXXO8Z3I`

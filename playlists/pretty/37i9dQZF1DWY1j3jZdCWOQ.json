@@ -1,12 +1,12 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 596654,
+  "num_followers": 596710,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJWrFJIEK2X4rGjGD19mP1r+1eZU",
+  "snapshot_id": "AAAAADjka2rrK5ZfXXYNQwwSS/rpqp5a",
   "tracks": [
     {
       "added_at": "2026-04-07 21:11:18",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 236293,
       "name": "King For A Day",
       "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Decode",
-      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "HOW 2 GET AWAY WITH MURDER",
-        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "HOW 2 GET AWAY WITH MURDER",
-      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "LosT",
         "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 205368,
       "name": "LosT",
       "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Bubblegum Bitch",
-      "url": "https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "GUTS (spilled)",
         "url": "https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/0pWB4X7xxFaTyQYdXXXpYw"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "The Failure Of My Life Run On Self Will",
+        "url": "https://open.spotify.com/album/4EttuajtZtgdE3x75HLZjQ"
+      },
+      "artists": [
+        {
+          "name": "Car Underwater",
+          "url": "https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "The Failure Of My Life Run On Self Will",
+      "url": "https://open.spotify.com/track/4hfsdPZS80qvGSjFf7EyAU"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
         "url": "https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 163934,
       "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
       "url": "https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "The Failure Of My Life Run On Self Will",
-        "url": "https://open.spotify.com/album/4EttuajtZtgdE3x75HLZjQ"
-      },
-      "artists": [
-        {
-          "name": "Car Underwater",
-          "url": "https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "The Failure Of My Life Run On Self Will",
-      "url": "https://open.spotify.com/track/4hfsdPZS80qvGSjFf7EyAU"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 238880,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "We The Kings",
-        "url": "https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Check Yes, Juliet",
-      "url": "https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Check Yes, Juliet",
+      "url": "https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE"
     },
     {
       "added_at": "2026-04-07 21:11:18",

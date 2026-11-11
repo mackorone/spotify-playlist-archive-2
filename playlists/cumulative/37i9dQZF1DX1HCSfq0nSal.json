@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. La Pantera, Quevedo",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Myke Towers",
   "name": "PEGAO",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 127894,
       "name": "2.0 #2",
       "url": "https://open.spotify.com/track/6SDcdJaIUiAaTBM6dM8bnX"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 264996,
       "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
       "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
@@ -4207,6 +4207,28 @@
     },
     {
       "album": {
+        "name": "CONQUISTADOR",
+        "url": "https://open.spotify.com/album/05ldh5xRe6Ryslklr0WE8E"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "CONQUISTADOR",
+      "url": "https://open.spotify.com/track/0hdRWFJXgO7Kul4UjycbHe"
+    },
+    {
+      "album": {
         "name": "Contacto",
         "url": "https://open.spotify.com/album/4PHBAC9jNy6iySQlT5Aqfp"
       },
@@ -4432,7 +4454,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 159600,
       "name": "Corrupta",
       "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
@@ -7494,7 +7516,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 242823,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/2cu9stofbXbOFmaIFJzItd"
@@ -12805,6 +12827,28 @@
     },
     {
       "album": {
+        "name": "Milko Freestyle",
+        "url": "https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Agorazein",
+          "url": "https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127326,
+      "name": "Milko Freestyle",
+      "url": "https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt"
+    },
+    {
+      "album": {
         "name": "Mini Mini",
         "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
       },
@@ -14380,7 +14424,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 180000,
       "name": "NYX00 (with JC Reyes)",
       "url": "https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI"
@@ -17447,6 +17491,24 @@
     },
     {
       "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165133,
+      "name": "RIGHT NOW",
+      "url": "https://open.spotify.com/track/5DQlWplGHmjCRPZtZyet4i"
+    },
+    {
+      "album": {
         "name": "RMPR T",
         "url": "https://open.spotify.com/album/4LFVIr8egW7q4EbJcI1242"
       },
@@ -18344,6 +18406,24 @@
       "duration_ms": 240306,
       "name": "Shampoo de Coco",
       "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
+    },
+    {
+      "album": {
+        "name": "FILIPENSES",
+        "url": "https://open.spotify.com/album/4DMT2uifXl6SjFZNHTx3IO"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107685,
+      "name": "SHARINGAN",
+      "url": "https://open.spotify.com/track/7qRDwJSOcHC4vJB1G5Q52e"
     },
     {
       "album": {
@@ -19337,6 +19417,24 @@
     },
     {
       "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182549,
+      "name": "SUMISA",
+      "url": "https://open.spotify.com/track/0eGMdy3PE9JcMTFGarNWS3"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
       },
@@ -20111,6 +20209,28 @@
     },
     {
       "album": {
+        "name": "FILIPENSES",
+        "url": "https://open.spotify.com/album/4DMT2uifXl6SjFZNHTx3IO"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "ALEA",
+          "url": "https://open.spotify.com/artist/0e2PLJB0Wx0J5vvt5wzijo"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "TONY STARK",
+      "url": "https://open.spotify.com/track/5OcA5fUtXcUEvJ8EqwySYI"
+    },
+    {
+      "album": {
         "name": "TOO",
         "url": "https://open.spotify.com/album/71H1IsH4tfMzUkmVARUE00"
       },
@@ -20310,7 +20430,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 177142,
       "name": "TRAMPA",
       "url": "https://open.spotify.com/track/52Vhx5T4MUIsIkar8D9Ovi"
@@ -20769,6 +20889,28 @@
     },
     {
       "album": {
+        "name": "TUSSI (with Anuel AA)",
+        "url": "https://open.spotify.com/album/0nK7XrnVjFF3Tqabt3Kw9A"
+      },
+      "artists": [
+        {
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215704,
+      "name": "TUSSI (with Anuel AA)",
+      "url": "https://open.spotify.com/track/5scwqGfgP0ah0eGAerRjt1"
+    },
+    {
+      "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
       },
@@ -20802,7 +20944,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 180480,
       "name": "TuuuuuUuu tu tu tu",
       "url": "https://open.spotify.com/track/6p2fQMh1CRJ6QKjbAbDEet"
@@ -20846,6 +20988,36 @@
       "duration_ms": 214125,
       "name": "T\u00fa No Lo Amas",
       "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
+    },
+    {
+      "album": {
+        "name": "Uh Ma BB",
+        "url": "https://open.spotify.com/album/6MUAc4bbLa3pWUL2k87vOw"
+      },
+      "artists": [
+        {
+          "name": "Dlomalo",
+          "url": "https://open.spotify.com/artist/2PUiO6Pd4s3mEGgXkOBR4c"
+        },
+        {
+          "name": "MARCE",
+          "url": "https://open.spotify.com/artist/5fBsGbmh5tJ3kU7FhVnYbh"
+        },
+        {
+          "name": "C Mar\u00ed",
+          "url": "https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps"
+        },
+        {
+          "name": "Saint Cairo",
+          "url": "https://open.spotify.com/artist/7p9VgsKSP07XUJdo8Oj7pz"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Uh Ma BB",
+      "url": "https://open.spotify.com/track/4p8e0Rr2s55TDr35jeyeCi"
     },
     {
       "album": {
@@ -21798,7 +21970,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 290372,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Noeline Hofmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,608 likes - 200 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,607 likes - 200 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 199 | [Out of the Blue](https://open.spotify.com/track/6wPDPOfdDr3SsMsoUnI6Eu) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [Out of the Blue](https://open.spotify.com/album/6kdepnqmr1hB6DUgyF8tBP) | 2:51 |
 | 200 | [Natural Disaster](https://open.spotify.com/track/4yZZkrYsIrHzqJHZBzhM28) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Natural Disaster](https://open.spotify.com/album/4Lp4pbYDU5p6CNBgVfgS8o) | 3:10 |
 
-Snapshot ID: `AAAAAF+FWbbjGMdx7aaeNT2SEOsZgakv`
+Snapshot ID: `AAAAAF2yfjFuGW90JUNX0Ye4EKmSlr58`

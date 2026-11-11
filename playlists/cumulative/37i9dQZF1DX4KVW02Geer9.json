@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Sounds Like Your Likes",
+        "url": "https://open.spotify.com/album/2jSXsvgzUYGmEtWvfTk4CE"
+      },
+      "artists": [
+        {
+          "name": "4Aces",
+          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136373,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/158scIaDXjfo1RIigYpBpd"
+    },
+    {
+      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -1872,6 +1890,24 @@
       "duration_ms": 201851,
       "name": "Chai",
       "url": "https://open.spotify.com/track/3RqN3bvZx2zwX12GtZ7NRD"
+    },
+    {
+      "album": {
+        "name": "Chameleon (Jazzmix)",
+        "url": "https://open.spotify.com/album/3IIhQznBiLDXoLEI6w43sq"
+      },
+      "artists": [
+        {
+          "name": "906 / Nine-O-Six",
+          "url": "https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153616,
+      "name": "Chameleon - Jazzmix",
+      "url": "https://open.spotify.com/track/14llO0h8oKN7uPROMEMMeo"
     },
     {
       "album": {
@@ -13212,6 +13248,24 @@
       "duration_ms": 282000,
       "name": "\u5149\u306e\u679c\u5b9f",
       "url": "https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1"
+    },
+    {
+      "album": {
+        "name": "\u5171\u611f: \u6563\u6587, 2026 Nov.",
+        "url": "https://open.spotify.com/album/4DRKRFqjfikdH9dOEzWE0X"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u7530\u73e0\u7406",
+          "url": "https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102352,
+      "name": "\u5171\u611f: \u6563\u6587, 2026 Nov.",
+      "url": "https://open.spotify.com/track/08aQw04OefnpKFAJ2PgLBc"
     },
     {
       "album": {

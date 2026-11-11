@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,651 likes - 53 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,696 likes - 53 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Thiên Đường Với Người Thương](https://open.spotify.com/track/6zwC3vsCniAGu6WpOkg6qV) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Thiên Đường Với Người Thương](https://open.spotify.com/album/2AKrJz0CKmx3LJz3wgrxsL) | 3:37 |
 | 53 | [chẳng phải tình đầu sao đau đến thế](https://open.spotify.com/track/3T7XHOdRcyhKU3QCB6kZG3) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [Dear Min](https://open.spotify.com/album/1ArFYNJ0eKeFWqnvdDivvv) | 4:43 |
 
-Snapshot ID: `AAAAAC9ahxzzKIUQJITHR/mPkLnXTVrW`
+Snapshot ID: `AAAAAKPVE0FAwpOiAMZNmWW54wLWW/o2`

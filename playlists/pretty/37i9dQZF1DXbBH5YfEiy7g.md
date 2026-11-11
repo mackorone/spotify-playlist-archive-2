@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Benjamin Dube
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,828 likes - 102 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,884 likes - 102 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 101 | [Busa](https://open.spotify.com/track/2fJuxUZaQEsJC8GEvdyQvl) | [The Pursued](https://open.spotify.com/artist/6cFKsWnFO5y7GrI8t2nV14), [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Busa](https://open.spotify.com/album/2bTz05Mz5p8sXAimH34XXu) | 9:53 |
 | 102 | [Silawule \- Live](https://open.spotify.com/track/2A6gGJlu0Tsxqfk0vZwtaH) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Silawule \(Live\)](https://open.spotify.com/album/3FD1NloKwsEmpD7XpWsUxv) | 6:37 |
 
-Snapshot ID: `AAAAAFaQ6g/lK38PCPJlW7Z+ORY+OSyo`
+Snapshot ID: `AAAAAFnXUdxmJAGV/Iiv0J9k97AYcryH`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of B'Day. Cover: Beyonc\u00e9",
-  "num_followers": 4812501,
+  "num_followers": 4812520,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOmKusmc1DtCUJerxVGvpkdKyBP",
+  "snapshot_id": "AAAAAC3PGo0P/cTP8lC7+ty8k6L2g6Hy",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:27",
@@ -717,24 +717,20 @@
       "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
+      "added_at": "2025-03-24 16:24:50",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Goodies (feat. Petey Pablo)",
-      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
+      "duration_ms": 272360,
+      "name": "Someone To Call My Lover",
+      "url": "https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM"
     },
     {
       "added_at": "2023-06-20 16:00:00",
@@ -757,20 +753,24 @@
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
     },
     {
-      "added_at": "2025-03-24 16:24:50",
+      "added_at": "2023-09-14 14:32:45",
       "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
         }
       ],
-      "duration_ms": 272360,
-      "name": "Someone To Call My Lover",
-      "url": "https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM"
+      "duration_ms": 223000,
+      "name": "Goodies (feat. Petey Pablo)",
+      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Complex Simplicity: 15th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg"
+      },
+      "artists": [
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "Be Your Girl",
+      "url": "https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Because Of You",
@@ -1371,22 +1387,6 @@
       "duration_ms": 159293,
       "name": "Why Don't We Fall in Love",
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Complex Simplicity: 15th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg"
-      },
-      "artists": [
-        {
-          "name": "Teedra Moses",
-          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "Be Your Girl",
-      "url": "https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
       "added_at": "2025-10-15 03:50:15",
       "album": {
         "name": "Voodoo",
@@ -1679,6 +1663,22 @@
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2022-08-21 11:22:08",

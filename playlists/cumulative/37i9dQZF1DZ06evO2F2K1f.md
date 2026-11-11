@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-212 songs - 9 hr 14 min
+213 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Straight Up](https://open.spotify.com/track/0CeWU1DDY60KBW6GQQvMwX) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:01 | 2023-01-31 | 2023-03-06 |
 | [Strangelands](https://open.spotify.com/track/4EZF2uDziv2o3mgl1Z8Itu) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:23 | 2022-05-29 | 2022-10-14 |
 | [Strummin' That Old Banjo \(Faster Veriosn\)](https://open.spotify.com/track/0A6QcOJpz5DvHexgbMdLRu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Rhythm of Modern Life / Vaudeville](https://open.spotify.com/album/40CPLvjMJMDi6BNBvqh99V) | 1:19 | 2025-11-24 | 2026-08-08 |
-| [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2022-05-29 |  |
+| [Studio 69](https://open.spotify.com/track/2KfVbQxpjred2kz6nMI3xe) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [KPM Legends: Alan Hawkshaw](https://open.spotify.com/album/7wBsRrLDHm5KEWpSNJsNoX) | 1:48 | 2026-11-11 |  |
+| [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2022-05-29 | 2026-11-11 |
 | [Sunflower](https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:25 | 2022-09-06 | 2026-07-28 |
 | [Sunny Side Up](https://open.spotify.com/track/0tUXPEMn1F5gs6pzg22pV7) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [70's Easy FM](https://open.spotify.com/album/5XZm1PW4b7rDU6MAgrj21d) | 3:09 | 2025-06-24 | 2025-07-22 |
 | [Sweet Dreams](https://open.spotify.com/track/20TnSEQvdXuy4xN9SZYw3O) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 2:08 | 2026-02-18 | 2026-04-17 |

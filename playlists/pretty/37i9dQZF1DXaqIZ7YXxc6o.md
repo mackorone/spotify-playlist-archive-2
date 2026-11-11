@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Marlon Hoffstadt, Niko Rubio
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,968 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,966 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Get Up And Dance](https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Get Up And Dance](https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr) | 2:35 |
 | 99 | [Just A Little Bit More](https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Just A Little Bit More](https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC) | 3:34 |
 
-Snapshot ID: `AAAAAOy0ak23DEovI5Acnlo7lWM2AZzM`
+Snapshot ID: `AAAAACXZCkoehbN1d/WNhtOMXhzstjN7`

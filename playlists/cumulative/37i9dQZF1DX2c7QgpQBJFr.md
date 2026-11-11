@@ -4,7 +4,7 @@
 
 > la nuova scena pop 🇮🇹 Emili Kasa in cover
 
-1,627 songs - 3 day 5 hr 51 min
+1,628 songs - 3 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1420,6 +1420,7 @@
 | [Stato d’allerta](https://open.spotify.com/track/4r5nCkpjsR0PG1RXcpKxmL) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Stato d'allerta](https://open.spotify.com/album/1OWUggbU62MCFfL1AFikyu) | 2:13 | 2025-01-09 | 2025-02-14 |
 | [Statt accort](https://open.spotify.com/track/6jK8eXXFTi6889RJO3SLXp) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Swag Paranoia](https://open.spotify.com/album/4U9qP96OB9U9VWWUY8lNxg) | 2:31 | 2025-01-23 | 2025-03-07 |
 | [Statt' Accort](https://open.spotify.com/track/7jbwwWH7iNDDAViJMwy7H0) | [Imma](https://open.spotify.com/artist/0GejYG3f7QA2VSFXLi8dFo) | [Statt' Accort](https://open.spotify.com/album/4ckpPJ8SbbHIgbDyYFduij) | 2:46 | 2026-09-03 | 2026-10-02 |
+| [Stelle&Galassie](https://open.spotify.com/track/6VDRCGGxETYuD0cPB5YIJh) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Stelle&Galassie](https://open.spotify.com/album/6cnxRaNlSLozN8uGgcYutv) | 3:14 | 2026-11-10 |  |
 | [STESSO RUMORE](https://open.spotify.com/track/53c18kDV41gxcLBweIk0Sv) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [STESSO RUMORE](https://open.spotify.com/album/5VOgvNt2tm0fsJYglya0lE) | 2:07 | 2025-09-25 | 2025-11-28 |
 | [Sto con Ferro](https://open.spotify.com/track/0lwVEZ62c56bODYXkgouNa) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Sonni Uno](https://open.spotify.com/artist/3IMvrBv5cuWJjb7GbwhMsq), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Sto con Ferro](https://open.spotify.com/album/4Ig2RnwxZN9NTs1JXwrD8A) | 2:54 | 2026-07-02 | 2026-07-24 |
 | [STRADE](https://open.spotify.com/track/7Ee36MMsCS026oFOiRAwZr) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [STRADE](https://open.spotify.com/album/6uNABMxgUVUdyvSuJ4qyq1) | 2:51 | 2026-10-08 |  |

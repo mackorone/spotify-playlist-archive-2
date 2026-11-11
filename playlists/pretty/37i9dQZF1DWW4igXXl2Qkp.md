@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: gxthestallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,023 likes - 85 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,061 likes - 85 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 84 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |
 | 85 | [I'm Scared](https://open.spotify.com/track/63qpDL0lQDGtCIISBiLUuf) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [5 Problems](https://open.spotify.com/album/6B5fS73xLbj00E9mttG5Qp) | 2:05 |
 
-Snapshot ID: `AAAAABTOP62MKa1jiLEu6slKdxgpd+q/`
+Snapshot ID: `AAAAAEhI7ps0WLnVd9rfA5HdVFLPRXhn`

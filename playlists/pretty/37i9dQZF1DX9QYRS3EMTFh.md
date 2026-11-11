@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta, bouyon & dembow du moment\. Photo : Stefflon Don x Leto
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,494 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,499 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Bête et méchant](https://open.spotify.com/track/272TYAbiKBSO0UxHtym1C8) | [Dj Harmelo](https://open.spotify.com/artist/4wKLOPNb8KJSQyREzT093C), [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta) | [Bête et méchant](https://open.spotify.com/album/6DIGyM5J1SFTmJr5aNtn7F) | 2:49 |
 | 50 | [Asi cash](https://open.spotify.com/track/0N9XeFuRyRUT6YTiOOkQ6c) | [Pj Man](https://open.spotify.com/artist/37bx3LDHxYirUq9niuHsOb), [Phéno](https://open.spotify.com/artist/3pYEsQmBEFB5729odpEjLS) | [Asi cash](https://open.spotify.com/album/2gpq7RnLa2AgVS71fEGWra) | 2:46 |
 
-Snapshot ID: `AAAAANGG6UGdngGqouix3jJWhxmdGjHc`
+Snapshot ID: `AAAAAEdknuZ7OGuxEDeJ5Uf8PEONMpMA`

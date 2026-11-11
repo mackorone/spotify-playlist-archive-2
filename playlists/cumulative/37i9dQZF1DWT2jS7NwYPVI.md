@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Girl Tones
 
-4,429 songs - 9 day 23 hr 9 min
+4,430 songs - 9 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1077,6 +1077,7 @@
 | [dont wanna die](https://open.spotify.com/track/1UtvJgyt2sviZ5J3EGyLWN) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [dont wanna die](https://open.spotify.com/album/5XJSnPoCHqeng4OvkeejrH) | 2:49 | 2022-06-17 | 2022-08-27 |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-02-25 | 2022-05-20 |
 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 | 2023-08-25 | 2023-10-14 |
+| [Don’t Worry Dynamite](https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn) | [Star's Revenge](https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX) | [Don’t Worry Dynamite](https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk) | 2:47 | 2026-11-10 |  |
 | [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 | 2024-05-11 |
 | [Doomed](https://open.spotify.com/track/5hlZoMfZ53CuPdnJhVzJzi) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Doomed](https://open.spotify.com/album/20gXBrfqHiZpUCFuVWCeup) | 2:25 | 2022-08-26 | 2022-10-29 |
 | [DOOMED](https://open.spotify.com/track/2QW7HsMtYAlVlwqUJfkpry) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [CURSED / DOOMED](https://open.spotify.com/album/0oeVxAxERa1JAsvq4nZYi2) | 2:58 | 2023-10-27 | 2023-12-23 |

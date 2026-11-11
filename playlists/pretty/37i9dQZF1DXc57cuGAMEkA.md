@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。XG, Ado, The Weeknd, Jack Harlow, Slayyyter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,106 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,113 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 75 | [Look to the Moon](https://open.spotify.com/track/3I71JlX8SqX4YFVbxfAPtI) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Look to the Moon](https://open.spotify.com/album/12IYEPVXoO6q7QWSs5O88U) | 2:42 |
 | 76 | [The Last Smile](https://open.spotify.com/track/162Nwflqsrb2vpMsUZwp6Y) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Symphonic Suite The Boy and the Heron for piano and orchestra](https://open.spotify.com/album/74DsWZ2wqaBoJIK3EUzkgL) | 2:19 |
 
-Snapshot ID: `AAAAADg+8lsDLzjEyPP6SMaebxUOW6pq`
+Snapshot ID: `AAAAABmdu2sG60Du0wOdjtW1ETGGii6y`

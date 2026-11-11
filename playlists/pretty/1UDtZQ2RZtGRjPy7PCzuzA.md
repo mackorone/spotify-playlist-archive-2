@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,665 songs - 4 day 0 hr 21 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,669 songs - 4 day 0 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1673,5 +1673,9 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1663 | [Natural's Not in It](https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:06 |
 | 1664 | [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 |
 | 1665 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3guGAtyo4OMdTZzOshIugb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:38 |
+| 1666 | [Baby I'm a Star](https://open.spotify.com/track/5FeSIdgogi42tRgnnpVJED) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 4:24 |
+| 1667 | [Tumbling Dice](https://open.spotify.com/track/67lRBx0P3WaEl6nlFHtffy) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5T5FSDZHbXIQlwihGwXn3X) | 3:46 |
+| 1668 | [Salt Of The Earth](https://open.spotify.com/track/0iEfl3ZAJL53yaN8tmYZPJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet](https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi) | 4:47 |
+| 1669 | [Scarlet](https://open.spotify.com/track/0ElIvLpQpbqZTZs98O4Q1V) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Jimmy Page](https://open.spotify.com/artist/55bGuHb50r5c0PeqqMeNBV) | [Scarlet](https://open.spotify.com/album/0UO8A189MXCK0JMv7iJmib) | 3:44 |
 
-Snapshot ID: `AAAOp2AL8mDpTDEWekcYOip818VXL4Gj`
+Snapshot ID: `AAAOq/wdVhSzcOApw94tw7NwUmUpEQue`

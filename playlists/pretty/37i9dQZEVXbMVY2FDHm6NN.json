@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Taiwan.",
-  "num_followers": 46922,
+  "num_followers": 46926,
   "original_name": "Top Songs - Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MoVoWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MoakwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-11-06 13:52:35",
@@ -64,7 +64,7 @@
       "added_at": "2026-11-06 13:52:35",
       "album": {
         "name": "DESERVE",
-        "url": "https://open.spotify.com/album/5N8EIJo0rBiTiDgGH49Cri"
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
       },
       "artists": [
         {
@@ -74,7 +74,7 @@
       ],
       "duration_ms": 189986,
       "name": "DESERVE",
-      "url": "https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ"
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
     },
     {
       "added_at": "2026-11-06 13:52:35",
@@ -95,8 +95,8 @@
     {
       "added_at": "2026-11-06 13:52:35",
       "album": {
-        "name": "BREAK EVEN",
-        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+        "name": "You're Under Arrest (Remixes)",
+        "url": "https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd"
       },
       "artists": [
         {
@@ -105,8 +105,8 @@
         }
       ],
       "duration_ms": 181911,
-      "name": "You\u2019re Under Arrest",
-      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+      "name": "You're Under Arrest",
+      "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
     },
     {
       "added_at": "2026-11-06 13:52:35",
@@ -132,7 +132,7 @@
       "added_at": "2026-11-06 13:52:35",
       "album": {
         "name": "\u6d77\u5c7f\u4f60",
-        "url": "https://open.spotify.com/album/7sOHzpvTYWolciF4QYAf7J"
+        "url": "https://open.spotify.com/album/727oJmOO0Ph9lV82ozvQYA"
       },
       "artists": [
         {
@@ -140,15 +140,15 @@
           "url": "https://open.spotify.com/artist/1V6Bl7Ny5loHozQUalAd6M"
         }
       ],
-      "duration_ms": 296000,
+      "duration_ms": 295940,
       "name": "\u6d77\u5c7f\u4f60",
-      "url": "https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX"
+      "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
     },
     {
       "added_at": "2026-11-06 13:52:35",
       "album": {
-        "name": "Looks Can Kill (Alawn Remix Edition)",
-        "url": "https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i"
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
       },
       "artists": [
         {
@@ -158,7 +158,7 @@
       ],
       "duration_ms": 195559,
       "name": "Looks Can Kill",
-      "url": "https://open.spotify.com/track/2iuhTbBB9ITEko3xeW7Jcz"
+      "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
     },
     {
       "added_at": "2026-11-06 13:52:35",
@@ -424,7 +424,7 @@
       "added_at": "2026-11-06 13:52:35",
       "album": {
         "name": "Strange Muse",
-        "url": "https://open.spotify.com/album/1z0Pp1BPuADZTTM8TTUFWs"
+        "url": "https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy"
       },
       "artists": [
         {
@@ -434,23 +434,27 @@
       ],
       "duration_ms": 200000,
       "name": "Birthday Wish",
-      "url": "https://open.spotify.com/track/4EpUJbdObAoylk1004aMG3"
+      "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
     },
     {
       "added_at": "2026-11-06 13:52:35",
       "album": {
         "name": "What a Wonderful Life",
-        "url": "https://open.spotify.com/album/6sqrtPnnIbWNxGQgqr8WHz"
+        "url": "https://open.spotify.com/album/67SjfNUpuN9TqanFth4ZRP"
       },
       "artists": [
         {
           "name": "SOYEON",
           "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "Kian84",
+          "url": "https://open.spotify.com/artist/6k7QlVYJwMX0zFpjV467B0"
         }
       ],
       "duration_ms": 211574,
-      "name": "I\u2019m gonna TOESA",
-      "url": "https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ"
+      "name": "I\u2019m gonna TOESA (feat. Kian84)",
+      "url": "https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg"
     },
     {
       "added_at": "2026-11-06 13:52:35",
@@ -700,7 +704,7 @@
       "added_at": "2026-11-06 13:52:35",
       "album": {
         "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu"
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
       },
       "artists": [
         {
@@ -710,7 +714,7 @@
       ],
       "duration_ms": 179000,
       "name": "Star Trace",
-      "url": "https://open.spotify.com/track/1fI7jgWKJ41xELohFnVFp7"
+      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
     },
     {
       "added_at": "2026-11-06 13:52:35",

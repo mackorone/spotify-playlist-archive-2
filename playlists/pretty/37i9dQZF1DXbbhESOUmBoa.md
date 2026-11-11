@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain]
 
 > Prepare for the upcoming world tour kickoff by listening to TXT’s best songs! \(TXT의 베스트 곡들을 들으며 다가오는 월드 투어의 시작을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,408 likes - 24 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,688 likes - 24 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain]
 | 23 | [Take Me to Nirvana \(feat\. Vinida Weng\)](https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:31 |
 | 24 | [セツナハナビ \(Setsuna Hanabi\)](https://open.spotify.com/track/2Hq8l2e9BkRVaQtJni4Ss9) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [セツナハナビ \(Setsuna Hanabi\)](https://open.spotify.com/album/1qa6PpCZqOV4Fge1QL3OoY) | 2:53 |
 
-Snapshot ID: `AAAAAIjTi9coMskvsRFCuFqScWYZnQgD`
+Snapshot ID: `AAAAAKj/zfjmYhyRvO517+fTe76eu7Gb`

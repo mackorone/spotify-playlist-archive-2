@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,335 likes - 67 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,548 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 66 | [Lit Up!](https://open.spotify.com/track/1eEjJ47DfDOM65C5H3zwBX) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Winterlicious D'Luxe](https://open.spotify.com/album/09NIcvyuOhd1aRfFA8F5nt) | 3:25 |
 | 67 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 |
 
-Snapshot ID: `AAAAAA6W8KYSFB8tGpdex4v9TRKtsTXv`
+Snapshot ID: `AAAAAN187HYFmfwizFSAYb5cpnloAbR4`

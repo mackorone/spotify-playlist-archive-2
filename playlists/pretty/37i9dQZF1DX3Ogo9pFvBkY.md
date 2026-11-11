@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,299,665 likes - 270 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,299,725 likes - 270 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 269 | [Still Dreaming](https://open.spotify.com/track/2wbF3RNzJ57vZyLb5qp4AL) | [Alvaro Siesta](https://open.spotify.com/artist/2TqnggQ9LjdAR1GBHhUcZ1) | [Still Dreaming](https://open.spotify.com/album/6L8VM6fbDExx1mMtoNfGHu) | 2:22 |
 | 270 | [One Long Wave](https://open.spotify.com/track/20NDYcOUGtX1jjYKjYjyxj) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [One Long Wave](https://open.spotify.com/album/03hiM6JBbBpB42voe4nrXy) | 2:59 |
 
-Snapshot ID: `AAAAAJ3XvLfKlPPITdljusS9LqOmx+ut`
+Snapshot ID: `AAAAAOfukHYDc6tbcxYlkwvw2lWI8cSZ`

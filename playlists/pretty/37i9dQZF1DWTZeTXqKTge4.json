@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Rymz",
-  "num_followers": 89616,
+  "num_followers": 89614,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhAm++sCVm5iCqpzpLJ3LAqdK1J",
+  "snapshot_id": "AAAAABDwKgdyrSx46Y2rSkwtS87mjBG9",
   "tracks": [
     {
       "added_at": "2026-11-06 05:02:34",
@@ -887,26 +887,22 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
-        "name": "MTL's Finest",
-        "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
+        "name": "15 Nord",
+        "url": "https://open.spotify.com/album/5ZWT31R359aG62Z8Q3LCBb"
       },
       "artists": [
         {
-          "name": "Prosperito",
-          "url": "https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O"
+          "name": "Koyo Sur La Prod",
+          "url": "https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu"
         },
         {
-          "name": "SeinsSucrer",
-          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
-        },
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+          "name": "SLM",
+          "url": "https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r"
         }
       ],
-      "duration_ms": 141176,
-      "name": "MTL's Finest",
-      "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
+      "duration_ms": 127636,
+      "name": "15 Nord",
+      "url": "https://open.spotify.com/track/0iTep2VVz7Tq70PkxVomCS"
     },
     {
       "added_at": "2026-11-06 05:02:34",
@@ -943,18 +939,26 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
-        "name": "PRINCE",
-        "url": "https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4"
+        "name": "MTL's Finest",
+        "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
       },
       "artists": [
         {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+          "name": "Prosperito",
+          "url": "https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
         }
       ],
-      "duration_ms": 167913,
-      "name": "Voyou, D\u00e9sol\u00e9",
-      "url": "https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv"
+      "duration_ms": 141176,
+      "name": "MTL's Finest",
+      "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
     },
     {
       "added_at": "2026-11-06 05:02:34",
@@ -991,6 +995,58 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
+        "name": "PRINCE",
+        "url": "https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 167913,
+      "name": "Voyou, D\u00e9sol\u00e9",
+      "url": "https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv"
+    },
+    {
+      "added_at": "2026-11-06 05:02:34",
+      "album": {
+        "name": "D'o\u00f9 je viens",
+        "url": "https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "D'o\u00f9 je viens",
+      "url": "https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu"
+    },
+    {
+      "added_at": "2026-11-06 05:02:34",
+      "album": {
+        "name": "\u00c9TOILE PI\u00c8GE",
+        "url": "https://open.spotify.com/album/1bPGwUVAbR5dDQ9f3obS5D"
+      },
+      "artists": [
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "YoAlain!",
+          "url": "https://open.spotify.com/artist/3nYuJlkCrYDZfxhWfCo8GB"
+        }
+      ],
+      "duration_ms": 131180,
+      "name": "\u00c9TOILE PI\u00c8GE",
+      "url": "https://open.spotify.com/track/1iRllXDR3YsHoXoPrZhQN8"
+    },
+    {
+      "added_at": "2026-11-06 05:02:34",
+      "album": {
         "name": "Buzz\u00e9 Pack",
         "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
       },
@@ -1023,22 +1079,6 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
-        "name": "D'o\u00f9 je viens",
-        "url": "https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "D'o\u00f9 je viens",
-      "url": "https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu"
-    },
-    {
-      "added_at": "2026-11-06 05:02:34",
-      "album": {
         "name": "CLIC CLAC",
         "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
       },
@@ -1051,46 +1091,6 @@
       "duration_ms": 160000,
       "name": "CLIC CLAC",
       "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
-    },
-    {
-      "added_at": "2026-11-06 05:02:34",
-      "album": {
-        "name": "\u00c9TOILE PI\u00c8GE",
-        "url": "https://open.spotify.com/album/1bPGwUVAbR5dDQ9f3obS5D"
-      },
-      "artists": [
-        {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
-        },
-        {
-          "name": "YoAlain!",
-          "url": "https://open.spotify.com/artist/3nYuJlkCrYDZfxhWfCo8GB"
-        }
-      ],
-      "duration_ms": 131180,
-      "name": "\u00c9TOILE PI\u00c8GE",
-      "url": "https://open.spotify.com/track/1iRllXDR3YsHoXoPrZhQN8"
-    },
-    {
-      "added_at": "2026-11-06 05:02:34",
-      "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Georgio",
-          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
-        }
-      ],
-      "duration_ms": 227035,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP"
     },
     {
       "added_at": "2026-11-06 05:02:34",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
-        "name": "PIKET",
-        "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW"
       },
       "artists": [
         {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
         },
         {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
         }
       ],
-      "duration_ms": 207915,
-      "name": "PIKET",
-      "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
+      "duration_ms": 227035,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP"
     },
     {
       "added_at": "2026-11-06 05:02:34",
@@ -1171,22 +1171,22 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
-        "name": "15 Nord",
-        "url": "https://open.spotify.com/album/5ZWT31R359aG62Z8Q3LCBb"
+        "name": "PIKET",
+        "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
       },
       "artists": [
         {
-          "name": "Koyo Sur La Prod",
-          "url": "https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu"
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
         },
         {
-          "name": "SLM",
-          "url": "https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r"
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
         }
       ],
-      "duration_ms": 127636,
-      "name": "15 Nord",
-      "url": "https://open.spotify.com/track/0iTep2VVz7Tq70PkxVomCS"
+      "duration_ms": 207915,
+      "name": "PIKET",
+      "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
     },
     {
       "added_at": "2026-11-06 05:02:34",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
+        "name": "CAP",
+        "url": "https://open.spotify.com/album/5Dwqd6Xymq56KrOjqmpskx"
+      },
+      "artists": [
+        {
+          "name": "The Alone",
+          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
+        }
+      ],
+      "duration_ms": 188084,
+      "name": "CAP",
+      "url": "https://open.spotify.com/track/4a38khPRsyXOWTaQbLFP1i"
+    },
+    {
+      "added_at": "2026-11-06 05:02:34",
+      "album": {
         "name": "Disque D'or",
         "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 195086,
       "name": "Disque D'or",
       "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
-    },
-    {
-      "added_at": "2026-11-06 05:02:34",
-      "album": {
-        "name": "MON TOUR",
-        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
-      },
-      "artists": [
-        {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "MON TOUR",
-      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
     },
     {
       "added_at": "2026-11-06 05:02:34",
@@ -1331,38 +1331,18 @@
     {
       "added_at": "2026-11-06 05:02:34",
       "album": {
-        "name": "CAP",
-        "url": "https://open.spotify.com/album/5Dwqd6Xymq56KrOjqmpskx"
+        "name": "MON TOUR",
+        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
       },
       "artists": [
         {
-          "name": "The Alone",
-          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
         }
       ],
-      "duration_ms": 188084,
-      "name": "CAP",
-      "url": "https://open.spotify.com/track/4a38khPRsyXOWTaQbLFP1i"
-    },
-    {
-      "added_at": "2026-11-06 05:02:34",
-      "album": {
-        "name": "Parfait pays",
-        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
-      },
-      "artists": [
-        {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
-        },
-        {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
-        }
-      ],
-      "duration_ms": 139997,
-      "name": "Parfait pays",
-      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
+      "duration_ms": 151384,
+      "name": "MON TOUR",
+      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
     },
     {
       "added_at": "2026-11-06 05:02:34",
@@ -1411,6 +1391,26 @@
       "duration_ms": 123263,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1ppKGaddAQIZuYOx1YDvn6"
+    },
+    {
+      "added_at": "2026-11-06 05:02:34",
+      "album": {
+        "name": "Parfait pays",
+        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
+      },
+      "artists": [
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        },
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        }
+      ],
+      "duration_ms": 139997,
+      "name": "Parfait pays",
+      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 11 | [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 |
 | 12 | [Touchdown](https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [The Fear That This Is Real](https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4) | 3:52 |
 | 13 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
-| 14 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
-| 15 | [Blind Bullet](https://open.spotify.com/track/3JAY9x7Hya0gFbd6elfBII) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Northstar](https://open.spotify.com/album/5YQQ4T2js5PQI6US1CXBLL) | 3:20 |
+| 14 | [Blind Bullet](https://open.spotify.com/track/3JAY9x7Hya0gFbd6elfBII) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Northstar](https://open.spotify.com/album/5YQQ4T2js5PQI6US1CXBLL) | 3:20 |
+| 15 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
 | 16 | [Te Esperaré](https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Volviendo a Nacer](https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1) | 4:08 |
 | 17 | [algún día](https://open.spotify.com/track/6vbzNURShe7v41bdR1NCRN) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [RV](https://open.spotify.com/album/2xV4WY7ILWk3PFghGLFQkz) | 3:12 |
 | 18 | [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 27 | [So What](https://open.spotify.com/track/0zznvuXrutrt1rWwS2Lfmw) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [VIP](https://open.spotify.com/album/0uTkP0HYYPRVVVy3sIrKc6) | 2:17 |
 | 28 | [YO SOY EL DUEÑO](https://open.spotify.com/track/6T1menSISCCZis7XIR90pb) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [YO SOY EL DUEÑO](https://open.spotify.com/album/1FPe1ntu4wNmQNES2s8yLN) | 2:14 |
 
-Snapshot ID: `AAAAAC4naseTgqIBuqZxOFo/n3VpPYBO`
+Snapshot ID: `AAAAAIvkcLkv2VcwE2zaJM10Kpe66chK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,531 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,524 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Paradise](https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Paradise](https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B) | 3:01 |
 | 100 | [C'est fine](https://open.spotify.com/track/0xG2WhZcuafpT5Cn9vZKa2) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [C'est fine](https://open.spotify.com/album/5xH3MyHyKOiIGEo5HmZcsd) | 3:36 |
 
-Snapshot ID: `AAAAALDWSCd85kPRzeryzUw8sdM+Wr5j`
+Snapshot ID: `AAAAAInwXCTd5evPz70f622i3VeGH6ez`

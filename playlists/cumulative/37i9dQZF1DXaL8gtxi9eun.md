@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: حوده وجنات
 
-578 songs - 1 day 9 hr 57 min
+579 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-14 | 2023-05-18 |
 | [Law Leila](https://open.spotify.com/track/7qWCbA7On2hYM1U3ymCmtR) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Kalemny](https://open.spotify.com/album/0uOZsMawECJyo7pgBmKJVF) | 2:41 | 2026-09-03 |  |
 | [Law Tseeb Haseeb](https://open.spotify.com/track/7jFS9fKFHqgEGlrz7YUDNv) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Law Tseeb Haseeb](https://open.spotify.com/album/0rTXCEzys2Opo7pQ6R1xux) | 2:59 | 2026-07-06 |  |
+| [Layali](https://open.spotify.com/track/7oqjCeb21Ju6DJtys5PEPg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Ghazali \(Part I\)](https://open.spotify.com/album/48t5uBGJucx2rRiS7HKWR6) | 3:35 | 2026-11-10 |  |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-10-24 | 2022-12-27 |
 | [Leebat Al Ayam](https://open.spotify.com/track/2xpUFDmcokjBEx8zWDPJv8) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Leebat Al Ayam](https://open.spotify.com/album/32HaLHT6mqvleKQv8LrWYG) | 4:09 | 2026-07-27 |  |
 | [Leh](https://open.spotify.com/track/0188UV5nlwUYejX3HKhphw) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Leh](https://open.spotify.com/album/2Uf6xHsAZVMKqie8koQSfC) | 3:59 | 2022-05-04 | 2022-07-15 |

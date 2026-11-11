@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Quincy Isaiah, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,564 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,570 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 39 | [Keep It Together](https://open.spotify.com/track/5ByocDaHLsuz8TPjCbPvDc) | [Brandi Vezina](https://open.spotify.com/artist/4y3FWeoOu53s9YtdagtFdy) | [Keep It Together](https://open.spotify.com/album/2gnQWtpFeJsCKgBhKFrymh) | 3:46 |
 | 40 | [Livin Lovin](https://open.spotify.com/track/0zIpVqi04UFHxUaszlC8ey) | [Quincy Owns](https://open.spotify.com/artist/1l9uhs5adXAKNIJijf7yTJ), [Louie F.](https://open.spotify.com/artist/0oc9yMmVmZ0IZUx0aG0TYF) | [Livin Lovin](https://open.spotify.com/album/44op3ot28z7yZZf2hs2jwa) | 3:02 |
 
-Snapshot ID: `AAAAAGG0ltM5gQ6YrLITqOyFcS5KhpVP`
+Snapshot ID: `AAAAAKLL/lFE8bEYaw1wZBqYvv9R5Joo`

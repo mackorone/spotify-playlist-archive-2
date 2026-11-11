@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > lucio corsi che fai nello schermo del computer esci dai basta
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,382 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,367 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 79 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 |
 | 80 | [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 |
 
-Snapshot ID: `AAAAAHSeVOnv8SSlHNwEgZAh0ezWArPS`
+Snapshot ID: `AAAAAO93RyPOCw9byBHlgZKCutOivdyH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: thrown
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,368 likes - 201 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,423 likes - 201 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 200 | [hands](https://open.spotify.com/track/3LS8dT9tPDnxfBorG5Icga) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q) | [hands](https://open.spotify.com/album/3ivoOZCLzG6boudZGEPBMt) | 2:46 |
 | 201 | [Brain Matter / No God](https://open.spotify.com/track/3nasDp7X2hEd6yvfSZRHLG) | [Silvertomb](https://open.spotify.com/artist/1DzvOgjYhye3yHciiHu8TE) | [Brain Matter / No God](https://open.spotify.com/album/4VT6i2puPdWnFbrSiWiWpk) | 3:24 |
 
-Snapshot ID: `AAAAAIfIbZ/N/6ZLfFAh2IEqfRRPOnes`
+Snapshot ID: `AAAAAAt0M5qaZ9i+/928wjaG3ed5T94o`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: Gable Price without Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,643 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,660 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [ALWAYS](https://open.spotify.com/track/5TDt4YuWyWYrZBBXYKrCkL) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [ALWAYS](https://open.spotify.com/album/1kMGQjZwn3aZFyBnA6DDZL) | 3:38 |
 | 75 | [All Because](https://open.spotify.com/track/16PbsJ1W3fqZ1cYnTj45AC) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [All Because](https://open.spotify.com/album/1htlLuIrbPnynzNNVYT5vx) | 2:31 |
 
-Snapshot ID: `AAAAAFMD+0jS3IIFXlDw3k+ekJE22Z4Y`
+Snapshot ID: `AAAAAMLTGbiFWsvT3qOGtilooaUwJJMf`

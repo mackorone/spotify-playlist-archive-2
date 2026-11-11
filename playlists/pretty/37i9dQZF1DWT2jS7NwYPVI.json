@@ -1,12 +1,12 @@
 {
   "description": "your cheat sheet for all that's on the rise in alt/rock. Cover: Girl Tones",
-  "num_followers": 474991,
+  "num_followers": 474998,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVFYxUBnUkAZbpyy1t4xO3PRnO3",
+  "snapshot_id": "AAAAAMUhWhpV0JFulSN9R1gX0W3EZbty",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:57",
@@ -575,6 +575,22 @@
       "duration_ms": 178935,
       "name": "Tough",
       "url": "https://open.spotify.com/track/5lOpq5VJX1UrXYWLu59ONv"
+    },
+    {
+      "added_at": "2026-11-10 22:23:38",
+      "album": {
+        "name": "Don\u2019t Worry Dynamite",
+        "url": "https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "duration_ms": 167628,
+      "name": "Don\u2019t Worry Dynamite",
+      "url": "https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn"
     },
     {
       "added_at": "2026-11-06 05:00:57",

@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Condeiul cu cerneala neagra",
+        "url": "https://open.spotify.com/album/5FVuU9Rb9L9WcaWlMoP4Qx"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157834,
+      "name": "Condeiul cu cerneala neagra",
+      "url": "https://open.spotify.com/track/7sUlVzWMLN7tvfVu3EDHjm"
+    },
+    {
+      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
@@ -3234,6 +3252,28 @@
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
+    },
+    {
+      "album": {
+        "name": "Art\u0103, sunet, poezie",
+        "url": "https://open.spotify.com/album/5WiXpyblGndfroy4UAkqeT"
+      },
+      "artists": [
+        {
+          "name": "Vlad Musta",
+          "url": "https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "De dor",
+      "url": "https://open.spotify.com/track/4EGRn08pP3tFFUV3NClsM7"
     },
     {
       "album": {
@@ -4803,6 +4843,24 @@
     },
     {
       "album": {
+        "name": "Goodbye To A Lover Again",
+        "url": "https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139484,
+      "name": "Goodbye To A Lover Again",
+      "url": "https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi"
+    },
+    {
+      "album": {
         "name": "Greu s\u0103 fiu eu",
         "url": "https://open.spotify.com/album/2FA3dmwgcMiCKYa9bMlzaB"
       },
@@ -4884,7 +4942,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
@@ -5570,7 +5628,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 165368,
       "name": "IN OCHII MEI",
       "url": "https://open.spotify.com/track/68v4kD9tK5yWy7QhpCYUlJ"
@@ -6788,6 +6846,24 @@
       "duration_ms": 251869,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "album": {
+        "name": "MAMACITA DALE",
+        "url": "https://open.spotify.com/album/7lFF78lVOBz7vO3lcZGkgf"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125156,
+      "name": "MAMACITA DALE",
+      "url": "https://open.spotify.com/track/5QIWFauNk8XbGOg67Vb8uA"
     },
     {
       "album": {
@@ -8602,7 +8678,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
@@ -8704,7 +8780,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 142520,
       "name": "Pretty Little Baby",
       "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
@@ -9776,7 +9852,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 162466,
       "name": "Snow in Skyami",
       "url": "https://open.spotify.com/track/2nGzxt4Ww10tUoyDdkNqWq"
@@ -9972,7 +10048,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 34400,
       "name": "Steve's Lava Chicken",
       "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
@@ -10110,6 +10186,24 @@
       "duration_ms": 245382,
       "name": "Suntem Made In Romania",
       "url": "https://open.spotify.com/track/6Pm0RAAL6sZw6atimv2eeo"
+    },
+    {
+      "album": {
+        "name": "Suparat",
+        "url": "https://open.spotify.com/album/28vu1uH9pEbf6qu9TlrOt3"
+      },
+      "artists": [
+        {
+          "name": "Bote",
+          "url": "https://open.spotify.com/artist/5ZysteEOAE4NFn6sbeD49c"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122165,
+      "name": "Suparat",
+      "url": "https://open.spotify.com/track/2aQWTDFdujYurP6t2WnvIP"
     },
     {
       "album": {
@@ -10702,6 +10796,24 @@
       "duration_ms": 210519,
       "name": "Through My Soul",
       "url": "https://open.spotify.com/track/7mSydMVoNUM2N3UzZvmeoC"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422853,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
     },
     {
       "album": {
@@ -11298,7 +11410,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 159081,
       "name": "VASHA",
       "url": "https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR"
@@ -12128,6 +12240,24 @@
       "duration_ms": 175978,
       "name": "\u00cenc\u0103 Ne Iubim",
       "url": "https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy"
+    },
+    {
+      "album": {
+        "name": "\u00cendr\u0103gostit (Live Armonie)",
+        "url": "https://open.spotify.com/album/0yxRSrhjKiknc4gJHGGh5w"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238958,
+      "name": "\u00cendr\u0103gostit - Live Armonie",
+      "url": "https://open.spotify.com/track/0h3ErPreFxZVWP06QpN3Q6"
     },
     {
       "album": {

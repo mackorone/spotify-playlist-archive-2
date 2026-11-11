@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 502817,
+  "num_followers": 502811,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALaeUUGjpB0sh6h1l7tzDk5CDeuj",
+  "snapshot_id": "AAAAAKjvaRG0JNeB2uoJWrJ8h750EUEO",
   "tracks": [
     {
       "added_at": "2026-05-19 09:22:08",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "On s'attache",
+      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "On s'attache",
-      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Les chemins de traverse (Remastered)",
         "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 198773,
       "name": "Je m'en vais",
       "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
+        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
         "name": "Kendji",
         "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 167373,
       "name": "Andalouse",
       "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
-        "name": "The Meilleur Of Renaud",
-        "url": "https://open.spotify.com/album/1qURo0tjvk2jTkbGuprpo7"
-      },
-      "artists": [
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Mistral gagnant",
-      "url": "https://open.spotify.com/track/4JSBfXhgPkpdprAVafbTE3"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -567,6 +551,22 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
+        "name": "The Meilleur Of Renaud",
+        "url": "https://open.spotify.com/album/1qURo0tjvk2jTkbGuprpo7"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Mistral gagnant",
+      "url": "https://open.spotify.com/track/4JSBfXhgPkpdprAVafbTE3"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
         "name": "L\u00d8VE",
         "url": "https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Quand la musique est bonne",
-      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "\u00c7a ne tient pas debout (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 396493,
       "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Quand la musique est bonne",
+      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Sainte-Victoire",
-        "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "La grenade",
-      "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Brol La Suite",
         "url": "https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 282813,
       "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Sainte-Victoire",
+        "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "La grenade",
+      "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
     },
     {
       "added_at": "2026-05-19 09:22:08",

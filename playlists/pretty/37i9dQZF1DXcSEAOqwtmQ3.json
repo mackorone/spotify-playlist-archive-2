@@ -1,12 +1,12 @@
 {
   "description": "The songs soundtracking the best years ",
-  "num_followers": 86446,
+  "num_followers": 86534,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNVOwgW3dTcnST/JoXvs1p8G156",
+  "snapshot_id": "AAAAAOpm5moTJY3t3WJ+3aU43bkxxka6",
   "tracks": [
     {
       "added_at": "2026-09-22 19:05:19",
@@ -263,22 +263,18 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 221603,
-      "name": "No Kissing Baby",
-      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
+      "duration_ms": 160284,
+      "name": "Daddy Yo",
+      "url": "https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ"
     },
     {
       "added_at": "2026-09-22 19:05:19",
@@ -299,18 +295,22 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 160284,
-      "name": "Daddy Yo",
-      "url": "https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ"
+      "duration_ms": 221603,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
     },
     {
       "added_at": "2026-09-22 19:05:19",

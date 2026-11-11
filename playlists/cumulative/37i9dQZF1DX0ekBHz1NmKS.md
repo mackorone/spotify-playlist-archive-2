@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,422 songs - 5 day 5 hr 31 min
+2,423 songs - 5 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-13 | 2024-08-16 |
 | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/track/3No7Damf9LQeDkxQwW7NmM) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/album/6ipXmZ7rwqcrKf6ZZcb3Bo) | 2:51 | 2026-02-12 |  |
-| [Bara idioter](https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Bara idioter](https://open.spotify.com/album/7APzv34pRFOSUqXIPRnYra) | 2:04 | 2026-09-28 |  |
+| [Bara idioter](https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Bara idioter](https://open.spotify.com/album/7APzv34pRFOSUqXIPRnYra) | 2:04 | 2026-09-28 | 2026-11-11 |
 | [Bara kom](https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Du & jag & mera tid](https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6) | 2:54 | 2026-01-08 | 2026-05-24 |
 | [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 | 2026-03-26 | 2026-06-27 |
 | [Bara vi, bara jag, bara du](https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bara vi, bara jag, bara du](https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN) | 2:25 | 2025-04-10 | 2025-09-05 |
@@ -800,7 +800,7 @@
 | [Got to Rise Up](https://open.spotify.com/track/5aToZdZnp4n0wb4UXZWXsy) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Got To Rise Up](https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95) | 3:28 | 2022-09-22 | 2022-11-09 |
 | [Grammofon](https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Grammofon](https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2) | 3:09 | 2022-09-29 | 2023-09-28 |
 | [Grand Hotel](https://open.spotify.com/track/4AFWZcUaYfYIU3EAoTK0Dz) | [Daniella Binyamin](https://open.spotify.com/artist/0j7DhjdXfuDhB8ciUTh1hK) | [Grand Hotel](https://open.spotify.com/album/3KzRnmq5uYX7qhYjgaZPRp) | 3:14 | 2022-03-24 | 2022-05-08 |
-| [Gravity](https://open.spotify.com/track/27NCPgfAJ3i4epMbWcMfd1) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Gravity](https://open.spotify.com/album/4KaqbSuXThiupKsPGA097L) | 3:13 | 2026-08-06 |  |
+| [Gravity](https://open.spotify.com/track/27NCPgfAJ3i4epMbWcMfd1) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Gravity](https://open.spotify.com/album/4KaqbSuXThiupKsPGA097L) | 3:13 | 2026-08-06 | 2026-11-11 |
 | [gravity \- alternative version](https://open.spotify.com/track/6zq4g1UiKjge8SbJ6IrgEg) | [sad dad](https://open.spotify.com/artist/0W2hFxt7ifMmoTVXedX5qU), [leoblu](https://open.spotify.com/artist/1gJctVXTu7xYbZbs7gvcar) | [gravity \(alternative version\)](https://open.spotify.com/album/0w1Senxcwve0CXQHSHrd2n) | 3:12 | 2024-01-25 | 2024-01-28 |
 | [groby](https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [embraced for a second as we die](https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt) | 3:37 | 2026-01-15 | 2026-08-14 |
 | [Ground Zero](https://open.spotify.com/track/45gZh2WFXYkxUNKnu5sIFz) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [Ground Zero](https://open.spotify.com/album/5Ty7WNx9pKidF4yQj3rOSZ) | 3:46 | 2024-05-02 | 2024-06-01 |
@@ -868,6 +868,7 @@
 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-12 | 2025-04-11 |
 | [Heaven med dig](https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:03 | 2022-07-28 | 2023-10-06 |
 | [Heaven med dig](https://open.spotify.com/track/787m7kcyC5KB6IQ87jkwbX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Heaven med dig](https://open.spotify.com/album/2vzCnj1pPXHhvobiWvRFtK) | 3:03 | 2022-05-12 | 2022-07-29 |
+| [Heavy Hearts Club](https://open.spotify.com/track/3KLacVEtzdMB3ttyGP7a0I) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [My Sadness Needs Your Full Attention \(Part 1\)](https://open.spotify.com/album/2kNqAUut2X0XLNHOOhlP04) | 3:24 | 2026-11-05 |  |
 | [Hej där mitt hjärta](https://open.spotify.com/track/1oBZzUV7j9zivts8gfZXNR) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Hej där mitt hjärta](https://open.spotify.com/album/1ttH6BHuYoqCiOzn84Sb9p) | 3:21 | 2025-05-22 | 2025-09-05 |
 | [Hejdå för alltid](https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Hejdå för alltid](https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc) | 3:25 | 2024-08-15 | 2024-11-02 |
 | [HEJDÅ\(:](https://open.spotify.com/track/0KGlp2zt6TB11PyaEIObiG) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [HEJDÅ\(:](https://open.spotify.com/album/14LyqJeiLSbRfRl3ZX52HG) | 3:11 | 2024-03-21 | 2024-05-03 |
@@ -1119,7 +1120,7 @@
 | [Jag Lovar](https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag Lovar](https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm) | 2:48 | 2022-01-27 | 2023-01-13 |
 | [jag mår inte bra </3](https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [jag mår inte bra </3](https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM) | 2:35 | 2024-05-09 | 2024-06-07 |
 | [Jag ringer Ruth](https://open.spotify.com/track/5lyf5LKagSgqbPFr6DxshU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Jag ringer Ruth](https://open.spotify.com/album/0zIHCwAgTfjHYkPyqHYCfd) | 4:06 | 2025-05-15 | 2025-09-09 |
-| [Jag ska bli bättre](https://open.spotify.com/track/7sn5WsOd28mPDfGwKo0v6v) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Vi & idioterna](https://open.spotify.com/album/4LSSCnrQ3GCHXQeV0pUmzj) | 3:37 | 2026-10-29 | 2026-11-06 |
+| [Jag ska bli bättre](https://open.spotify.com/track/7sn5WsOd28mPDfGwKo0v6v) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Vi & idioterna](https://open.spotify.com/album/4LSSCnrQ3GCHXQeV0pUmzj) | 3:37 | 2026-10-29 |  |
 | [Jag tror du har slutat älska mig](https://open.spotify.com/track/5QJpPqRqFvIFHzqcBqQCqK) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Jag tror du har slutat älska mig](https://open.spotify.com/album/3K7la6bYx8Xjr1qvV7ICa8) | 2:40 | 2021-12-16 | 2022-03-11 |
 | [Jag tänker på dig](https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Jag tänker på dig](https://open.spotify.com/album/1jvHCCrqMFoasEOCqjxTIw) | 2:20 | 2022-03-10 | 2022-07-28 |
 | [Jag var där](https://open.spotify.com/track/1dHrBpC64uQpaHa4z3izmC) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Jag var där](https://open.spotify.com/album/7ng4qEMKvFLyYwpnTKwi2k) | 3:11 | 2024-04-18 | 2024-05-24 |

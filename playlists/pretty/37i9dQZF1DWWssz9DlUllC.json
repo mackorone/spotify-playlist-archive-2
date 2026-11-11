@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Didi B",
-  "num_followers": 103710,
+  "num_followers": 103769,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABpCok6z7A6L69EVSXtTtYk4H3rI",
+  "snapshot_id": "AAAAAKW5W67hkV5Xiw9z4gJT2X6vzklm",
   "tracks": [
     {
       "added_at": "2026-11-06 02:59:03",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 135549,
+      "name": "Fast and Furious",
+      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "ON MY BIRTHDAY",
-        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 135549,
-      "name": "Fast and Furious",
-      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "Dangbana Riddim",
         "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "Me Sisi",
+        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Me Sisi",
+      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "Involve Me",
         "url": "https://open.spotify.com/album/5CsPRYCuSIEBn72XeOkBCV"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 155044,
       "name": "Involve Me",
       "url": "https://open.spotify.com/track/4n8tbxIMKNtDiAEskx5n0E"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Me Sisi",
-        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Me Sisi",
-      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Cash Flow (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cash Flow (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 136693,
       "name": "1 WORK - Remix",
       "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Merlinpiano",
-        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
-      },
-      "artists": [
-        {
-          "name": "TheFeyiii",
-          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
-        }
-      ],
-      "duration_ms": 148910,
-      "name": "Merlinpiano",
-      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "Salama",
         "url": "https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 281025,
       "name": "Salama",
       "url": "https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "Merlinpiano",
+        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
+      },
+      "artists": [
+        {
+          "name": "TheFeyiii",
+          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+        }
+      ],
+      "duration_ms": 148910,
+      "name": "Merlinpiano",
+      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
     },
     {
       "added_at": "2026-11-06 02:59:03",

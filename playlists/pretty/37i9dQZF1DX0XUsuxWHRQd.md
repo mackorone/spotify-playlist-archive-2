@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Baby, GloRilla and Jack Harlow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,478,993 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,477,208 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [High Noon \(feat\. Gunna\)](https://open.spotify.com/track/55N2MkhE8YjcrdKkWgLg4h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [High Noon \(feat\. Gunna\)](https://open.spotify.com/album/6dTcxGI6glSzGcG5Wv3hpI) | 2:30 |
 | 50 | [Say What \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 4:16 |
 
-Snapshot ID: `AAAAAJHmFpR0baiDo9fWdcUoqvTlho27`
+Snapshot ID: `AAAAAKmT6nHC2zi1TvdAFA8oPgoVni90`

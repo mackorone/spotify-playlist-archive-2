@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,055 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,037 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Detective](https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K) | [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Detective](https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ) | 2:45 |
 | 50 | [SUPER INTENSO \(with Hamilton\)](https://open.spotify.com/track/6mNe3iEDfjHYS5tvTVFikv) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [SUPER INTENSO \(with Hamilton\)](https://open.spotify.com/album/2vvsLhc2MTLzioJ2rQgxCk) | 2:48 |
 
-Snapshot ID: `AAAAAMU7XlKN63Sj8g34OIHwzVrxm8Rx`
+Snapshot ID: `AAAAAPWFIetnk7tYpAmxMrW+M1M5VSJ9`

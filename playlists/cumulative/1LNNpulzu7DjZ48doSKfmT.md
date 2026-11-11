@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,229 songs - 2 day 15 hr 10 min
+1,231 songs - 2 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [Got Your Gun \- Demo](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun \(Demo\)](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-08-10 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2026-01-05 | 2026-02-23 |
 | [GRADIN!](https://open.spotify.com/track/3WhmeFhBYbTpnw55I7ySh6) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m), [InVenus](https://open.spotify.com/artist/652nqCzjVcZ9RBcVaqhcVR) | [GRADIN!](https://open.spotify.com/album/3lQmxnYv8QhFOFQkKJqBNQ) | 2:30 | 2025-11-14 | 2026-02-23 |
-| [Grand](https://open.spotify.com/track/1zrIWgf3gY6FMrKDFgelC5) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [Killwoodz](https://open.spotify.com/artist/5t43cJsTHLU62JgEkXdfjL), [MONEY FLUX](https://open.spotify.com/artist/5jSYSRRs3QX4N2YlDeLlY6) | [Kill Or Drown](https://open.spotify.com/album/7fFlVCVr3bOPeGC7DpDZ3Q) | 2:40 | 2026-09-17 |  |
+| [Grand](https://open.spotify.com/track/1zrIWgf3gY6FMrKDFgelC5) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [Killwoodz](https://open.spotify.com/artist/5t43cJsTHLU62JgEkXdfjL), [MONEY FLUX](https://open.spotify.com/artist/399ctgAz1PnZyqtZgaZvW9) | [Kill Or Drown](https://open.spotify.com/album/7fFlVCVr3bOPeGC7DpDZ3Q) | 2:40 | 2026-09-17 |  |
 | [Gravity \- Funky Remix](https://open.spotify.com/track/6EtK5C6vuGc6oYRZUC9SO3) | [Positronic](https://open.spotify.com/artist/6rDrqNMSUbW114j0HBKK6t) | [Gravity \(Funky Remix\)](https://open.spotify.com/album/4mApFau1oPjOzUkRnrp2Gc) | 4:30 | 2026-08-20 |  |
 | [Greensleeves](https://open.spotify.com/track/0Qm8iZhEMy2BcEB30IFls7) | [VIRTO](https://open.spotify.com/artist/3Ggij62rRtYg1FUEF6DKjz), [Caroline Joy](https://open.spotify.com/artist/0Ix05CCHAG2SnThEr0zaDx) | [Greensleeves](https://open.spotify.com/album/0RFnsnt5xZV967Ren22nMy) | 3:17 | 2026-02-20 |  |
 | [Guia del Alba](https://open.spotify.com/track/1xZ0dE3fQBW2vhPHYaj8TS) | [Leonardo Gabriel Garcia](https://open.spotify.com/artist/2NSjf7BxGj8QIzVZjcgFIc) | [All These Songs 3](https://open.spotify.com/album/3DdkvLyT7eu2Vs2ObAhAav) | 3:01 | 2025-12-29 | 2026-02-23 |
@@ -567,6 +567,7 @@
 | [keep fighting.](https://open.spotify.com/track/4uL6oI3AO44iliHKJpmSCP) | [Dope TAF](https://open.spotify.com/artist/0njQcTmqICaNvb34iaO8tz), [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD) | [rap playground.](https://open.spotify.com/album/1AvdVwPkulfNyZDaQaypFs) | 2:13 | 2026-09-03 |  |
 | [Keep Going Up](https://open.spotify.com/track/6x3ceZ8YpFB5LJliZz01TB) | [Chris Kellah](https://open.spotify.com/artist/6KHK8bvEQe9wmK7QnIPh37), [MikeTheDawn](https://open.spotify.com/artist/0R0VymT3mJIaDU1lH3ni1H) | [I'm From Africa](https://open.spotify.com/album/5CMvHn6oy2Xk8YyuoSniqh) | 2:18 | 2026-02-08 | 2026-07-23 |
 | [Keep Pushin'](https://open.spotify.com/track/6ioWYCebaSxqXnIGyRUgXS) | [Lorenz Koin](https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A), [Carl Lazy](https://open.spotify.com/artist/6gyMxOyNvsTT7WbuFNbUKi) | [Keep Pushin'](https://open.spotify.com/album/0jiHHNu0nhSEimpaNDdzaJ) | 2:56 | 2025-09-15 | 2026-01-15 |
+| [Keep Talking](https://open.spotify.com/track/5ntORZ2kCJhmf7BUUkewH6) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Keep Talking](https://open.spotify.com/album/3uAUaQHNI4Y3tBt5dNRqpd) | 3:33 | 2026-11-10 |  |
 | [KEYS PLEASE](https://open.spotify.com/track/474KkDSKlZB6x7ZIC0LPtV) | [Mark Universe](https://open.spotify.com/artist/0cDGJk2PK3FGqrcVlkURUD) | [KEYS PLEASE](https://open.spotify.com/album/6k4bx8vdWzsl8OvA1l40VD) | 2:23 | 2026-09-12 |  |
 | [Killers In Fashion](https://open.spotify.com/track/0VPNS83bOlDjZPqMbWMxo9) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [NickEG](https://open.spotify.com/artist/40UjCQcm7cyXgjT0ERN21I) | [Killers In Fashion](https://open.spotify.com/album/3gcQUxWe0nU7YJXYJ5wyEw) | 2:16 | 2026-09-17 |  |
 | [Killua](https://open.spotify.com/track/6mgFssnrdG7RI1devrQpdA) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4), [MV PTK](https://open.spotify.com/artist/1UfHfs7fNHz0C1lomxWFSH) | [Killua](https://open.spotify.com/album/3uWnuaEGm93RWuAa3n6tFm) | 3:41 | 2026-07-17 |  |
@@ -1033,6 +1034,7 @@
 | [Telegram Chat](https://open.spotify.com/track/20euYX7Uf7JkozfDKmN9OJ) | [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Telegram Chat](https://open.spotify.com/album/6lPTufKRqalFjyjPT5XTJG) | 3:05 | 2025-10-23 | 2026-01-15 |
 | [Telling Stories](https://open.spotify.com/track/29U3cuM4D5Df4DoZSIMFZU) | [Sodo](https://open.spotify.com/artist/152tgmO2zynGs1j65Tn2L0) | [Telling Stories](https://open.spotify.com/album/2ZPOInsnsjZSsCx9wVhIBA) | 4:44 | 2025-09-17 | 2026-01-15 |
 | [TEMPORAL](https://open.spotify.com/track/6z0fagcruEZVvwjOnWxVVX) | [LIPP CASTLE](https://open.spotify.com/artist/1yfblfpE5dx0XLrQaJxfDL) | [TEMPORAL](https://open.spotify.com/album/4LZwWOtksPKp1nYL5o2bGY) | 3:07 | 2026-02-18 |  |
+| [Tender Is the Measure of Everything](https://open.spotify.com/track/5Wg04ajcAlCxB8PvfLzXIe) | [Oscar Salguero](https://open.spotify.com/artist/2HeIyb1sLJQoDPGLQmDNBo) | [Tender Is the Measure of Everything](https://open.spotify.com/album/0KmOPTp9Zs0cpU2W0P1Ff9) | 4:10 | 2026-11-10 |  |
 | [Terceiro Olho](https://open.spotify.com/track/31NUoMH7ey9Tssl490bBMD) | [Malukos por Justiça \(MPJ\)](https://open.spotify.com/artist/0fbMHYed7mPuYCZzR6ExrT) | [Terceiro Olho](https://open.spotify.com/album/1XRyOGqWEBHbwzh5odDImt) | 2:47 | 2025-07-28 | 2026-01-15 |
 | [Terra Firma](https://open.spotify.com/track/6QIQuwTcoFTNmJXsprASIa) | [Stratafield](https://open.spotify.com/artist/1VuViStzi9Ag49k1Hxm9xA) | [Sympathetic Waveforms](https://open.spotify.com/album/5NH23YnT1jzDMkSC2b9AdK) | 4:29 | 2026-01-26 | 2026-07-23 |
 | [Thank You](https://open.spotify.com/track/4Al3Gz3caTl6kQJF4b3StW) | [1976Piano/MJM](https://open.spotify.com/artist/51dGdERH5AOJVfardvCpi3) | [Thank You](https://open.spotify.com/album/5VHUIf80aGNXeKwHFan379) | 2:35 | 2025-08-29 | 2026-01-15 |

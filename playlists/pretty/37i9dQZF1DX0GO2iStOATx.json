@@ -1,12 +1,12 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 240152,
+  "num_followers": 240190,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD0bWFUOzaWzE/yYfNiL6MQJC1kC",
+  "snapshot_id": "AAAAAImJKHFBaZlHOWpQ2VkgLhRhkqAP",
   "tracks": [
     {
       "added_at": "2026-09-11 10:46:59",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Saanvle (feat. Raj Ranjodh)",
-        "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Saanvle (feat. Raj Ranjodh)",
-      "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 148619,
       "name": "Icon",
       "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "Saanvle (feat. Raj Ranjodh)",
+        "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Saanvle (feat. Raj Ranjodh)",
+      "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -767,18 +783,30 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        },
+        {
+          "name": "Sardar Khehra",
+          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Taare",
-      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
+      "duration_ms": 172826,
+      "name": "Ban",
+      "url": "https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -819,34 +847,6 @@
       "duration_ms": 36966,
       "name": "Enlightenment",
       "url": "https://open.spotify.com/track/2eMyIBkiRlPYWNBBAGEZEx"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        },
-        {
-          "name": "Sardar Khehra",
-          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Ban",
-      "url": "https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh"
     },
     {
       "added_at": "2026-09-11 10:46:59",

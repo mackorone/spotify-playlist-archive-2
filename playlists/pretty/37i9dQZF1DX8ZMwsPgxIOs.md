@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Kaufmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,426 likes - 120 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,454 likes - 120 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 119 | [Phantaxxxy](https://open.spotify.com/track/5Yh7gED0sQPPwGPDFDamx5) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [JindaLee](https://open.spotify.com/artist/3w0mSbEenm5no9kuuDbCeq) | [Phantaxxxy](https://open.spotify.com/album/59ic7Z0BTDocjAo7nd5q2Y) | 3:24 |
 | 120 | [Play With Me](https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Play With Me](https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98) | 2:13 |
 
-Snapshot ID: `AAAAAORrH4eG+5mEl4WVgoLg5gm+gesr`
+Snapshot ID: `AAAAAC5gc7/6U7uppZ2ZZSLe5Xslwsxd`

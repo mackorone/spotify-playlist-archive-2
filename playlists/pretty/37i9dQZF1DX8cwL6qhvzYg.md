@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾 Carit BR en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,112 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,124 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 6 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
 | 7 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
 | 8 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
-| 9 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
+| 9 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
 | 10 | [NI TAN SANTX](https://open.spotify.com/track/2TCy4SdgjE8SEdP0UQfPGs) | [EON](https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [L Prince](https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg) | [NI TAN SANTX](https://open.spotify.com/album/2B53ZI8IljOo0wycM0Ai4i) | 3:18 |
 | 11 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 |
-| 12 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
+| 12 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
 | 13 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 |
 | 14 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
 | 15 | [Se Fue La Pantera \- En Vivo](https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx) | 3:22 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 103 | [YO SOY TU MAESTRO Passion Vallenata \(Parranda Mu\)](https://open.spotify.com/track/6LaEYh9N6bbp0QBZgaWETP) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [YO SOY TU MAESTRO Passion Vallenata \(Parranda Mu\)](https://open.spotify.com/album/5WVGKs68348R4dbI2AxS4Z) | 4:46 |
 | 104 | [El Zapatazo Tribal \(Remix\)](https://open.spotify.com/track/6SuFWv4mDu8FZWtcq87evB) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L) | [El Zapatazo Tribal \(Remix\)](https://open.spotify.com/album/5ZBEwO4cOHLjawYDniasMh) | 3:17 |
 | 105 | [Cabo E](https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:16 |
-| 106 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
-| 107 | [Vampiresa](https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO) | [Explosión Colombiana de Ortiz Ortiz](https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ) | [Vampiresa](https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0) | 4:58 |
+| 106 | [Vampiresa](https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO) | [Explosión Colombiana de Ortiz Ortiz](https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ) | [Vampiresa](https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0) | 4:58 |
+| 107 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
 | 108 | [El Agua Clara \- En Vivo](https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU) | [Javier Rosas](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:52 |
 | 109 | [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 |
 | 110 | [Pequeña y Frágil](https://open.spotify.com/track/3IbfRWQ9IFrK2Lwd0lmxaE) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [20vo Aniversario](https://open.spotify.com/album/79bgGXUJ95LrJ7uL4o8unR) | 2:36 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 124 | [Cumbia de la Paz](https://open.spotify.com/track/5qvQItn386BmQV6BBtlfIE) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Cumbia de la Paz](https://open.spotify.com/album/7uDifysgu7cgcCWT4EKFTW) | 4:38 |
 | 125 | [Guacharaca Reina de la Cumbia \- La Reina Guacharaca](https://open.spotify.com/track/2ZvYQaFP7zTAObZwkAkE9N) | [Gerardo Xique y su Ritmo Bakan](https://open.spotify.com/artist/12zXlDtb5GrmHKk9qgkuQ4) | [Guacharaca Reina de la Cumbia \(La Reina Guacharaca\)](https://open.spotify.com/album/50qtvREMDY7yOPfXDBrOoa) | 4:10 |
 
-Snapshot ID: `AAAAAOQk+zuixFo8o85A4xDX72LlYuSO`
+Snapshot ID: `AAAAAMWJpKIB8A4HkE9gMBtM5Tx9VUZh`

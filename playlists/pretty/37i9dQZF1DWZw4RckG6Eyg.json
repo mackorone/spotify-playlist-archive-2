@@ -1,12 +1,12 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 47585,
+  "num_followers": 47598,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPy7yO9KfQOiZmyJPkgpxzxg2qQg",
+  "snapshot_id": "AAAAABxi160sc8PFG57N70KgOdozegoQ",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:12",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Electric Hour",
-        "url": "https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF"
-      },
-      "artists": [
-        {
-          "name": "Sword II",
-          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
-        }
-      ],
-      "duration_ms": 330199,
-      "name": "Even if it's Just a Dream",
-      "url": "https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "is a Folk Artist",
         "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 243630,
       "name": "Guilty Running",
       "url": "https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Electric Hour",
+        "url": "https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF"
+      },
+      "artists": [
+        {
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+        }
+      ],
+      "duration_ms": 330199,
+      "name": "Even if it's Just a Dream",
+      "url": "https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "This Is Real",
-        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 187351,
-      "name": "This Is Real",
-      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Everyone Loves You",
         "url": "https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 394538,
       "name": "Everyone Loves You",
       "url": "https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "This Is Real",
+        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 187351,
+      "name": "This Is Real",
+      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Terra Infirma",
+        "url": "https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp"
+      },
+      "artists": [
+        {
+          "name": "Deer park",
+          "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
+        },
+        {
+          "name": "Ivy Knight",
+          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Pharmacy",
+      "url": "https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Dealerz",
         "url": "https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 166344,
       "name": "Dealerz",
       "url": "https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Terra Infirma",
-        "url": "https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp"
-      },
-      "artists": [
-        {
-          "name": "Deer park",
-          "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
-        },
-        {
-          "name": "Ivy Knight",
-          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Pharmacy",
-      "url": "https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "duration_ms": 221355,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "The Feast",
         "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6"
+        "name": "Patience, Moonbeam",
+        "url": "https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct"
       },
       "artists": [
         {
-          "name": "TTSSFU",
-          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
         }
       ],
-      "duration_ms": 221355,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q"
+      "duration_ms": 240093,
+      "name": "Junior",
+      "url": "https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Patience, Moonbeam",
-        "url": "https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Junior",
-      "url": "https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Antarctica / Neon Lights",
         "url": "https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "jones",
-        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 268313,
-      "name": "junior",
-      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Lack of G-LIP",
         "url": "https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
       },
       "artists": [
         {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
         }
       ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
+      "duration_ms": 268313,
+      "name": "junior",
+      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1611,6 +1595,22 @@
       "duration_ms": 196216,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
     },
     {
       "added_at": "2025-12-03 12:16:12",

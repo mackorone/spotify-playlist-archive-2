@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring untitled \(halo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,893 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,880 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [teeth](https://open.spotify.com/track/3M0znkPqbu7s2h4V89FzD7) | [green star](https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe) | [teeth](https://open.spotify.com/album/5elEt3QFQIfSZUEhIgd5aj) | 4:13 |
 | 80 | [The Mud Never Dries](https://open.spotify.com/track/1X28Q4iqqoLunMSxRVm7ff) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [The Mud Never Dries](https://open.spotify.com/album/5Bl0eyoYZSa8VVWqvEy2xV) | 3:17 |
 
-Snapshot ID: `AAAAAONKuaZvf79Jhw/zbWqpy3ktDvKU`
+Snapshot ID: `AAAAAIZ049g/IY87kttGzYQa58f/6Vkk`

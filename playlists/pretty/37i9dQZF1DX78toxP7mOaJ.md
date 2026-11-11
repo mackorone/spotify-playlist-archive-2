@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: bed
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,637 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,682 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Gotta Run](https://open.spotify.com/track/7sqXiIwXi9rXOo0RFQBV5i) | [SMILE](https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8) | [Gotta Run](https://open.spotify.com/album/5XENy5Tn7T3ZO5WAOkHEj3) | 3:27 |
 | 75 | [Igneous](https://open.spotify.com/track/4ZUm4jhPqjJFKJpo2aVZeQ) | [r\. image](https://open.spotify.com/artist/0nwynIUuC5DgX62knlri4i) | [Spitting Your Name Into the River](https://open.spotify.com/album/3XgIdalRyJ8jedO7J6YkNt) | 4:04 |
 
-Snapshot ID: `AAAAAFA9RQvV1MuGKvezrZABu0Pw4cnW`
+Snapshot ID: `AAAAADHS7lznIDDTf+GsuvevwnLlB485`

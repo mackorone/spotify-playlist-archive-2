@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,429 likes - 50 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,425 likes - 50 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [JESUS É O CENTRO](https://open.spotify.com/track/1CO5LWz9F9GRlPAdV0hYu0) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [JESUS É O CENTRO](https://open.spotify.com/album/27HDtE551Yh6oOs9cdYieQ) | 10:14 |
-| 2 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/5uaTNy6sdRXMI43EEmJLcR) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/7AIUPdLnNJ93UZhRxb0pAH) | 5:50 |
-| 3 | [A Bênção](https://open.spotify.com/track/6TtZzrhOHkkTe8lpfV1WOI) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Bênção](https://open.spotify.com/album/7lVvl0ufz7AmNpVlS1JCqL) | 5:57 |
-| 4 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/2510SuoLNYUJHd2iJxjaiR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/7MJBJomcDxF18DqL9FmPYF) | 7:34 |
+| 1 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/5uaTNy6sdRXMI43EEmJLcR) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/7AIUPdLnNJ93UZhRxb0pAH) | 5:50 |
+| 2 | [A Bênção](https://open.spotify.com/track/6TtZzrhOHkkTe8lpfV1WOI) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Bênção](https://open.spotify.com/album/7lVvl0ufz7AmNpVlS1JCqL) | 5:57 |
+| 3 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/2510SuoLNYUJHd2iJxjaiR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/7MJBJomcDxF18DqL9FmPYF) | 7:34 |
+| 4 | [JESUS É O CENTRO](https://open.spotify.com/track/1CO5LWz9F9GRlPAdV0hYu0) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [JESUS É O CENTRO](https://open.spotify.com/album/27HDtE551Yh6oOs9cdYieQ) | 10:14 |
 | 5 | [Caminho no Deserto](https://open.spotify.com/track/7brIm5yAAgsJSlsfBJzBYx) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/3z2TxNPmyhH6tJTIb3qOzR) | 6:49 |
 | 6 | [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/0KN0dOhQJaO4zXwNgi6ypB) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [És Bem\-Vindo à Mesa](https://open.spotify.com/album/4ioorezz2X36sfmQmQ6C8N) | 8:58 |
 | 7 | [Teu Toque \- Ao Vivo](https://open.spotify.com/track/1C1Vy9x3lZa3ZlUWl5bNMr) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Basta Uma Palavra \(Ao Vivo\)](https://open.spotify.com/album/6NwYR7EMWNeQogoWeWmxXa) | 7:33 |

@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,730 songs - 6 day 8 hr 1 min
+2,731 songs - 6 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1532,6 +1532,7 @@
 | [Museum](https://open.spotify.com/track/5O8eoERqd2cbvn887Gyfjt) | [Spill](https://open.spotify.com/artist/2tC6hqb6gqpLnCoZ5fI323) | [Museum](https://open.spotify.com/album/7zlJLNqmekNYTbT0azdiBT) | 4:09 | 2026-06-25 | 2026-08-01 |
 | [Music Is My Medicine](https://open.spotify.com/track/5lab3TGpj1oXzuBHP1Tmxv) | [Good Night Moon](https://open.spotify.com/artist/1zeCrpTCGQmLayFC5Y6RqJ) | [Good Night Moon](https://open.spotify.com/album/4dyKKievCdI1Y3QBs9Fqpr) | 3:01 | 2026-03-05 | 2026-03-31 |
 | [Mutual Destruction](https://open.spotify.com/track/59koUom8jGksEiQNgBclFp) | [Hour of Pearl](https://open.spotify.com/artist/4YKPGkapT79VFVVbYEDR1x) | [Mutual Destruction](https://open.spotify.com/album/3OmZS5MY8zWYV2gm8YR9rp) | 3:10 | 2026-06-17 | 2026-07-19 |
+| [My Body My Choice](https://open.spotify.com/track/3tC3hjpl5EzPEgVmKpt3ui) | [Thee Soreheads](https://open.spotify.com/artist/2ZUxOf0gGwYUCIYq0mYIi3) | [My Body My Choice](https://open.spotify.com/album/54qleD0Ys5ckEsVRwA5WT9) | 2:25 | 2026-11-10 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2026-03-06 | 2026-05-22 |
 | [My Brain Hurts](https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [My Brain Hurts](https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy) | 1:44 | 2025-12-20 | 2026-03-12 |
 | [My Dog's A Liar](https://open.spotify.com/track/73WAYwjpYFFxm6VOo3MfUZ) | [Internet Romance](https://open.spotify.com/artist/2XeleVtPv8IBvzy6T1zHnY) | [My Dog's A Liar](https://open.spotify.com/album/7I4lxNA1GYotD5uo1ubVND) | 3:37 | 2026-01-20 | 2026-02-21 |
@@ -2243,7 +2244,7 @@
 | [T.O.M.](https://open.spotify.com/track/4H9UazyBy4tzV823JYgBbC) | [Halfway To Neptune](https://open.spotify.com/artist/4mBlUkbS7gxRnnho7DNYHy) | [T.O.M.](https://open.spotify.com/album/3TDgNy9GACvsoHaOdEYgxn) | 2:40 | 2026-10-01 | 2026-11-01 |
 | [Take A Bow](https://open.spotify.com/track/5V10D0PxNgH98EpqRMXxxw) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Universe 25](https://open.spotify.com/album/74qK46Kw9RtqHtul77uvHy) | 3:20 | 2026-10-01 |  |
 | [Take A Chance](https://open.spotify.com/track/4xrJe5mSSpzPEDyjaEALI9) | [Ruminator](https://open.spotify.com/artist/7rCv2ogPDCtilVgdVLWtZQ) | [Take A Chance](https://open.spotify.com/album/0jbeFSZQp03h7FrIc5yEyu) | 4:34 | 2025-12-27 | 2026-01-22 |
-| [Take It](https://open.spotify.com/track/5jegQWKmBwdGwqJSIUDMkG) | [Mark Anthony Bartolo](https://open.spotify.com/artist/7rXIDYfKkJbsGH9ZQimGAK) | [Take It](https://open.spotify.com/album/7CJqqdp3IjQ1zPeoDqf85K) | 3:16 | 2026-10-11 |  |
+| [Take It](https://open.spotify.com/track/5jegQWKmBwdGwqJSIUDMkG) | [Mark Anthony Bartolo](https://open.spotify.com/artist/7rXIDYfKkJbsGH9ZQimGAK) | [Take It](https://open.spotify.com/album/7CJqqdp3IjQ1zPeoDqf85K) | 3:16 | 2026-10-11 | 2026-11-11 |
 | [Take It All](https://open.spotify.com/track/5nT6DhBRP9cBIUYOhJInIR) | [Elephants and Stars](https://open.spotify.com/artist/54Zp1dCml1gwRKAP7P9dj4) | [Take It All](https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP) | 3:22 | 2026-04-20 | 2026-05-30 |
 | [Take It Back](https://open.spotify.com/track/1wv1vT3cj2KSgpvl407duC) | [MPTF](https://open.spotify.com/artist/4IgE615V3Rc0N3Uv4Hpdvg) | [Take It Back](https://open.spotify.com/album/5TOLREaH2lK0nfSnVp41zi) | 4:00 | 2026-07-09 | 2026-08-10 |
 | [Take It Slow](https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2) | [Saturday Night Vacancy](https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU) | [Take It Slow](https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo) | 3:35 | 2026-07-20 | 2026-08-13 |
@@ -2426,7 +2427,7 @@
 | [Through The Fallen Ashes](https://open.spotify.com/track/6Qnc9YhlHkd9NhIFIcQ1js) | [Approaching Autumn](https://open.spotify.com/artist/54qq77ZcaUyPqyE0nyFdD3) | [Homecoming](https://open.spotify.com/album/1nG4lXC5HsfdN8Jph8p5lg) | 3:17 | 2026-04-24 | 2026-05-26 |
 | [Throwaway](https://open.spotify.com/track/0w3fJwvBHst8cjbEcfOzRO) | [Arkhamists](https://open.spotify.com/artist/1sKZ5LfbwXgxKQr9aoE2yQ) | [Pretty Ugly](https://open.spotify.com/album/0ATIg5y41bhxsZIjF03hZI) | 3:54 | 2026-10-07 | 2026-11-07 |
 | [Thrown Away](https://open.spotify.com/track/5lsE3re0AH68vb3x77Nidt) | [Psychoda](https://open.spotify.com/artist/5Cdrkr8RBYQtkmTcBAX9rT) | [Thrown Away](https://open.spotify.com/album/3kC8M38t2Ri4jCDWsYzd8x) | 3:03 | 2026-09-07 | 2026-10-08 |
-| [Thumbs Up](https://open.spotify.com/track/2cESdWJKoIMVxZiH6jhFEX) | [R.C\. Sullivan](https://open.spotify.com/artist/7eBVl9afkXdfQCxXu9B7c4) | [Thumbs Up](https://open.spotify.com/album/6IAHCaMMMJ5HEMj1Lg9HDp) | 2:12 | 2026-10-11 |  |
+| [Thumbs Up](https://open.spotify.com/track/2cESdWJKoIMVxZiH6jhFEX) | [R.C\. Sullivan](https://open.spotify.com/artist/7eBVl9afkXdfQCxXu9B7c4) | [Thumbs Up](https://open.spotify.com/album/6IAHCaMMMJ5HEMj1Lg9HDp) | 2:12 | 2026-10-11 | 2026-11-11 |
 | [Ticket to Paradise](https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA) | [Supa Dupa Supa Punk](https://open.spotify.com/artist/5OfotB00RVZqUAHPBpJaEZ) | [SDSP](https://open.spotify.com/album/7zf869CJmttxZ2Orleeep4) | 3:54 | 2026-06-15 | 2026-07-17 |
 | [TIED UP](https://open.spotify.com/track/3tggEoSWUYosNCUFeLkGNX) | [Yugs](https://open.spotify.com/artist/4GjfiH7lIFZp0X5SF3LbEP), [sunstoney](https://open.spotify.com/artist/3oLuCerqscBRek7Nw9mpqL) | [TIED UP](https://open.spotify.com/album/3gdD2lLCx8X0K1p3O6SYuZ) | 2:59 | 2026-04-27 | 2026-05-29 |
 | [Time](https://open.spotify.com/track/2uUj58mbpiYpOIugioSG2c) | [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Time](https://open.spotify.com/album/4wQ7eu9AMXfpyUnu0DU91J) | 2:25 | 2026-02-02 | 2026-02-27 |
@@ -2492,7 +2493,7 @@
 | [Unburied](https://open.spotify.com/track/0Qu3AgdEPpv3UHiiyVj47X) | [Calling Annabelle](https://open.spotify.com/artist/6aY6gsPf7Z26xT5Oid4Bxh) | [Unburied](https://open.spotify.com/album/46qzoqQUhwtYNmvBIvMhVy) | 2:43 | 2026-10-06 | 2026-11-06 |
 | [UNDER KONTROL](https://open.spotify.com/track/6LRt9NxLbIWKfNxwzOeBQl) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 2:35 | 2026-07-14 |  |
 | [Underdog](https://open.spotify.com/track/7sNihEZZpbwywjdf0Z0ggg) | [MASWO](https://open.spotify.com/artist/5XgbBkGDKDADOxmOzjme0f) | [Underdog](https://open.spotify.com/album/58Gm1YoyISUB0NsadKQzzy) | 3:28 | 2026-01-12 | 2026-02-03 |
-| [Underrated Heartache](https://open.spotify.com/track/5k7DUSF0r0XC45PJdyxdX5) | [Little Low](https://open.spotify.com/artist/02N3dV1Ps0DjwAWibzdrt5) | [Underrated Heartache](https://open.spotify.com/album/3Lvfwgks7aRvQi4V2MNO2Z) | 2:41 | 2026-10-10 |  |
+| [Underrated Heartache](https://open.spotify.com/track/5k7DUSF0r0XC45PJdyxdX5) | [Little Low](https://open.spotify.com/artist/02N3dV1Ps0DjwAWibzdrt5) | [Underrated Heartache](https://open.spotify.com/album/3Lvfwgks7aRvQi4V2MNO2Z) | 2:41 | 2026-10-10 | 2026-11-11 |
 | [underWATER](https://open.spotify.com/track/6V07XHar6Bj83M38rfDrNi) | [Surprise Asteroid](https://open.spotify.com/artist/4POY53CgtEnd2FUGxE8IGe) | [underWATER](https://open.spotify.com/album/1VsMI6W8IoknCnahYJPpM9) | 2:43 | 2026-07-22 | 2026-08-13 |
 | [Underwater Stars](https://open.spotify.com/track/6fMS3c3NMXoPlJ5fr12r7y) | [Lauren D'Abate](https://open.spotify.com/artist/2MYTtsE7VnifHjTdQn0HC7) | [Underwater Stars](https://open.spotify.com/album/7mNcdkMhGDrjLFvQvU8Jyu) | 2:45 | 2026-07-23 | 2026-08-13 |
 | [UNDERWORLD](https://open.spotify.com/track/3RDuFOrsNOnmPS4nBv0OOs) | [Noise Lock](https://open.spotify.com/artist/1qAtXUZQNvKmivKsYbvAAM) | [UNDERWORLD](https://open.spotify.com/album/2c076RgN4xCObozN0Gf8l6) | 3:03 | 2026-03-30 | 2026-05-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,176 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,175 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Coisa Fina](https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Coisa Fina](https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7) | 2:56 |
 | 50 | [Sensação de Poder](https://open.spotify.com/track/0niVaC6szmiViGBePozys1) | [DRESSA](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [C.Z](https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Efeito Borboleta](https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4) | 3:00 |
 
-Snapshot ID: `au+7gAAAAABuBialGK6o4ZKPcaLW9X3E`
+Snapshot ID: `avENAAAAAAB+0uWoQxCkVEuSVTEijFyJ`

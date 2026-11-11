@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/3XDx4ZH82386rU1QKqWV2Q.md) - cumulative - [plain](/playlists/plain/3XDx4ZH82386rU1QKqWV2Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3XDx4ZH82386rU1QKqWV2Q)
 
-### [SIGMA MALE TIKTOK MUSIC \- BEST SIGMA SONGS](https://open.spotify.com/playlist/3XDx4ZH82386rU1QKqWV2Q)
+### [SIGMA MALE TIKTOK MUSIC \- LOOKSMAXXING](https://open.spotify.com/playlist/3XDx4ZH82386rU1QKqWV2Q)
 
-> powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
+> Approved my Marlon and Clavicular \- most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-874 songs - 1 day 15 hr 23 min
+875 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Gloria Euphoria](https://open.spotify.com/track/77rj93EVv9jFWZCKW9it5k) | [Airplane Man](https://open.spotify.com/artist/5wT9tFjAOxiRI7pTt7l1d8) | [Gloria Euphoria](https://open.spotify.com/album/3p1Ng6gFz80Yml2KtECOLD) | 2:52 | 2026-08-28 |  |
 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2025-05-07 |  |
 | [Gods](https://open.spotify.com/track/3o5mNSJZimpo1bWyVR5dQE) | [Kluster Flux](https://open.spotify.com/artist/1r5BmDBeH2Su9jCTByqMAI) | [Gods](https://open.spotify.com/album/2vPwPMJZhzmrQyuumA8ufi) | 3:03 | 2025-05-29 | 2025-10-09 |
+| [Going Down](https://open.spotify.com/track/4kneBKsDY0jGbuyuCZb3wV) | [Thedisaster](https://open.spotify.com/artist/4vhfFyck3Usd4ap81bEYC0) | [Going Down](https://open.spotify.com/album/0n909ew10b8gSAtxLlbOaH) | 1:43 | 2026-11-10 |  |
 | [GOLD OR RoSE?](https://open.spotify.com/track/72XfVA2cLwaHLVnOxEV9u2) | [Xeemo](https://open.spotify.com/artist/093LDo8Zf9UwiPBArTTyxh) | [Phantom Limbs](https://open.spotify.com/album/1sZSPjGeKFntCZXU3Tv9tF) | 1:39 | 2024-02-06 | 2024-05-08 |
 | [GOOD THINGS](https://open.spotify.com/track/4611m6Jm22ubazDBLiumYF) | [Luhv](https://open.spotify.com/artist/5LCfdfYn1xeApKtQRrzI2z) | [ECLIPSED](https://open.spotify.com/album/69VUMrrhWK8L1xXYePhNTC) | 2:19 | 2024-07-26 | 2024-11-01 |
 | [Gotta Return Some Videotapes](https://open.spotify.com/track/6KgD9qmWE05bMPVGhFQNzL) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1), [Guantanamo Bae](https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos) | [Gotta Return Some Videotapes](https://open.spotify.com/album/3oOtsIhfsCF4ZLG3eYNeRX) | 0:57 | 2023-06-12 |  |

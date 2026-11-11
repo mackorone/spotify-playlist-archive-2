@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: 7 Hills Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624,064 likes - 80 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624,139 likes - 80 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 79 | [Bound by Love \- Live](https://open.spotify.com/track/2MtiuCz7kbNnHZIjUKqUd9) | [The River Worship](https://open.spotify.com/artist/5FmxD8Ox8Fr0wd01yEsca0), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Bound by Love \(Live\)](https://open.spotify.com/album/0pMENavXYhpztIaqTZiUYM) | 7:22 |
 | 80 | [Heaven Sings Holy](https://open.spotify.com/track/4KhMTGBEqYdTdLlos91oXI) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [Heaven Sings Holy](https://open.spotify.com/album/42BXK3yKX8LAeWGLr0Qigd) | 4:57 |
 
-Snapshot ID: `AAAAADQxGmdwohEmOAjYb671HhLl0D8Y`
+Snapshot ID: `AAAAAFN0wl/LZWYfWGopfwlzGwpAKORH`

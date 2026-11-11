@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Lil Baby on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,994 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,004 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [lyre](https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [lyre](https://open.spotify.com/album/5Nqa0C4Z2vvZz6bZb2pKoC) | 2:43 |
 | 100 | [BLOW UP](https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [BLOW UP](https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS) | 2:45 |
 
-Snapshot ID: `AAAAAKHRmhoLwsWWF6i9UrQxylH6DIqu`
+Snapshot ID: `AAAAALToz5MDI76JSMuAPs7fi7YBEmJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,114 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,118 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 49 | [Puccini: La bohème, Act 1: "Non sono in vena" \(Rodolfo/Mimì\)](https://open.spotify.com/track/5hcfSKk1uc2eRqyk9kgkAI) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Giuseppe Di Stefano](https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt), [Rolando Panerai](https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY), [Manuel Spatafora](https://open.spotify.com/artist/5ZFns7yMY5of6B79gGAQJO), [Nicola Zaccaria](https://open.spotify.com/artist/1wKLEotRPkbzZOv6CABJI7), [Coro e Orchestra del Teatro alla Scala, Milano](https://open.spotify.com/artist/5ikqt8rR11Gv3CKaqotxro), [Antonino Votto](https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW), [Carlo Badioli](https://open.spotify.com/artist/0x90JS9TkqKvaoDP5rmTk1), [Franco Ricciardi](https://open.spotify.com/artist/62NXyjR5u28brk6scdMkWv), [Carlo Forti](https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8), [Eraldo Coda](https://open.spotify.com/artist/3sG9KXKRYbAkBvRkvIqJZe), [Anna Moffo](https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse), [Orchestra del Teatro alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57) | [La Bohème \- Puccini](https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp) | 3:48 |
 | 50 | [Saint\-Saëns: Samson et Dalila, Op\. 47, Act 1: "Printemps qui commence" \(Dalila\)](https://open.spotify.com/track/4m6ytPVequobQIcSBAwuHH) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Georges Prêtre](https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r), [French National Radio Orchestra](https://open.spotify.com/artist/32qnav8uyfq88NUle7CnhZ) | [Callas sings Great Arias from French Operas \- Callas Remastered](https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc) | 5:18 |
 
-Snapshot ID: `au+7gAAAAAAdWz8Hifd2R0YrpZ8PjBSu`
+Snapshot ID: `avENAAAAAAD6cOiDUHH+S08V79xQVVb8`

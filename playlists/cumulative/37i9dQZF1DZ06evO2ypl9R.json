@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 218181,
       "name": "Mandola",
       "url": "https://open.spotify.com/track/3JD53qXeJnf5pEkWUtDgOD"
@@ -1262,6 +1262,32 @@
       "duration_ms": 236303,
       "name": "Natives Tongue",
       "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
+    },
+    {
+      "album": {
+        "name": "Niggajazz (Live At Jazz Cafe, October 2019)",
+        "url": "https://open.spotify.com/album/50zrerAHa1clJbUsD6N8Tc"
+      },
+      "artists": [
+        {
+          "name": "Centaur Jackson",
+          "url": "https://open.spotify.com/artist/4kmMnLdFxhR5D6JKG4TTcK"
+        },
+        {
+          "name": "Jesse Gannon",
+          "url": "https://open.spotify.com/artist/5K5jX2nCTMbbO9SZD9gbXa"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426000,
+      "name": "Niggajazz - Live At Jazz Cafe, October 2019",
+      "url": "https://open.spotify.com/track/5P0f5KCmW56f7a0bo2on6S"
     },
     {
       "album": {

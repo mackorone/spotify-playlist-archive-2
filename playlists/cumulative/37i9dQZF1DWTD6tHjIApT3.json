@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3061\u3083\u3093\u307f\u306a",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u9ad8\u7551\u5145\u5e0c",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -7168,7 +7168,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 252680,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C"
@@ -9240,7 +9240,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 185031,
       "name": "Diamonds in the Sky",
       "url": "https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC"
@@ -24973,6 +24973,24 @@
     },
     {
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/4NV0xZWO9K9iDhgh07eIsG"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "NAME CARD",
+      "url": "https://open.spotify.com/track/2cdViINfZeLuD8UnTZ9a6E"
+    },
+    {
+      "album": {
         "name": "Studio Ghibli Tribute Album \"Ghibli o Utau\"",
         "url": "https://open.spotify.com/album/0iso79mD0QNlcE4gbwVJJA"
       },
@@ -27954,7 +27972,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 165280,
       "name": "Pang Pang Pang",
       "url": "https://open.spotify.com/track/17upXStU80To2HOMpCdn8t"
@@ -30578,7 +30596,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 239032,
       "name": "RIVIERA",
       "url": "https://open.spotify.com/track/1aFTQQsgkXdh7P2SPuWxmK"
@@ -34962,6 +34980,24 @@
       "duration_ms": 213000,
       "name": "Stuck Wit U",
       "url": "https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221583,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf"
     },
     {
       "album": {
@@ -40668,7 +40704,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 229533,
       "name": "WELL-come",
       "url": "https://open.spotify.com/track/5zYkWZ1Eupma505SUPvsqS"
@@ -45658,7 +45694,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 294800,
       "name": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
       "url": "https://open.spotify.com/track/5iLGuNVh2zfuQIam5ARoLX"
@@ -49821,6 +49857,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30af\u30ec\u30a2\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/19i6IGxOToyYdRQl9PkGlt"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "\u30a8\u30af\u30ec\u30a2\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/6DBEAEnL4qp0qtDetTqmqA"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30af\u30ec\u30fc\u30eb",
         "url": "https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw"
       },
@@ -50636,7 +50690,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 194692,
       "name": "\u30ad\u30e9\u30a4\u306e\u3061\u30b9\u30ad\uff01",
       "url": "https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT"
@@ -57414,7 +57468,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 216588,
       "name": "\u4e59\u5973\u306e\u5263",
       "url": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh"
@@ -68395,6 +68449,24 @@
     },
     {
       "album": {
+        "name": "\u751f\u304d\u308b",
+        "url": "https://open.spotify.com/album/2sjNYJII6ihvIeF88Nlwnr"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175777,
+      "name": "\u751f\u304d\u308b",
+      "url": "https://open.spotify.com/track/6zQmv0NOvfmlLs1PnHQGr0"
+    },
+    {
+      "album": {
         "name": "\u751f\u6d3b",
         "url": "https://open.spotify.com/album/1rp4bfIJXt8zOXcnc7NSfW"
       },
@@ -69190,7 +69262,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
@@ -69800,7 +69872,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 220813,
       "name": "\u7d20\u76f4\u672a\u6e80",
       "url": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd"
@@ -71464,7 +71536,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 171253,
       "name": "\u8aa4\u8a33Love",
       "url": "https://open.spotify.com/track/4FtnwHwGZukK5EWrepz7nu"
@@ -72404,6 +72476,24 @@
       "duration_ms": 222303,
       "name": "\u9154\u3072\u3082\u305b\u3059",
       "url": "https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1"
+    },
+    {
+      "album": {
+        "name": "I'm All Yours",
+        "url": "https://open.spotify.com/album/17diB1QwVaXM14SxrSojNM"
+      },
+      "artists": [
+        {
+          "name": "Mitsuki Takahata",
+          "url": "https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281047,
+      "name": "\u9178\u3044\u3082\u3001\u7518\u3044\u3082",
+      "url": "https://open.spotify.com/track/5WmdviTp3fncfurzSGDcf5"
     },
     {
       "album": {

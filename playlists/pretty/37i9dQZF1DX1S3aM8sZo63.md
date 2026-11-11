@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > Así como lo pediste, ponte cursi con las canciones más románticas\. Plan de Escape en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,671 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,633 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 95 | [Se Va A Querer Morir](https://open.spotify.com/track/7r3pnWG7rIYnr9ipn7viBa) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Se Va A Querer Morir](https://open.spotify.com/album/5OPgEqmLQ9LYbPpGDoaOdT) | 3:26 |
 | 96 | [Celoso](https://open.spotify.com/track/5osv7hD0OevtSiZBJroQCY) | [El Chalinillo](https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL) | [Te Quiero](https://open.spotify.com/album/3RGJOJiJk4hoKPIvtN2gzT) | 2:47 |
 | 97 | [La Que Me Bateaba](https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Que Me Bateaba](https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn) | 2:04 |
-| 98 | [Te Dije](https://open.spotify.com/track/2WisqOuLSNW8yUpwlkf5jN) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Dije](https://open.spotify.com/album/26PMGTiJDxG2Pm7s7kdMrE) | 3:02 |
-| 99 | [Celos](https://open.spotify.com/track/14cKYjqTETGeewrsckuwtK) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Llegando Al Rancho](https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN) | 3:16 |
+| 98 | [Celos](https://open.spotify.com/track/14cKYjqTETGeewrsckuwtK) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Llegando Al Rancho](https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN) | 3:16 |
+| 99 | [Te Dije](https://open.spotify.com/track/2WisqOuLSNW8yUpwlkf5jN) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Dije](https://open.spotify.com/album/26PMGTiJDxG2Pm7s7kdMrE) | 3:02 |
 | 100 | [Naturalita](https://open.spotify.com/track/6uVXyLrhgveo67VbraCd9T) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Naturalita](https://open.spotify.com/album/0gngiOzOmm4SEVKDHXpVUh) | 3:03 |
 | 101 | [Te He Prometido](https://open.spotify.com/track/05hpTrbQIXJ2DiXrozJtyF) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Te He Prometido](https://open.spotify.com/album/22pQFjhrfjfky4uoetcaLu) | 3:12 |
 | 102 | [Mi Talismán](https://open.spotify.com/track/0DGkB4hemYalYA8K9iSVdD) | [Al Tiro de Armando Ramos](https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Mi Talismán](https://open.spotify.com/album/3WqNNMMoNbpo9S4ba0ZoxY) | 4:35 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 124 | [Romántico Incurable](https://open.spotify.com/track/2Fau1qHNJKLCKHQdxxWZkI) | [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Romántico Incurable](https://open.spotify.com/album/7KhdmbkTi55OpeFPSLNQCH) | 3:25 |
 | 125 | [Broche de Oro](https://open.spotify.com/track/5lqBhTIPK6sJ57mm7YfaKt) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4dmYmIkDXdr42Ul9fAZrHW) | 3:36 |
 
-Snapshot ID: `AAAAAGttUFmREG0x1VUSH73BqaeJ+7Qn`
+Snapshot ID: `AAAAAHNkJTfKbL1d6RD7vpnlOEvmuG4C`

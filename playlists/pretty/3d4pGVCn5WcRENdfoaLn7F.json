@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 931,
+  "num_followers": 936,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEIdfREOdA/F7QEqk1Y6KMxVApR0ns",
+  "snapshot_id": "AAAEI8aB9YgqgRRBxawlCXcwMr32zwTy",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1031,6 +1031,42 @@
       "duration_ms": 210947,
       "name": "Impossible Highs",
       "url": "https://open.spotify.com/track/3OVxd0CP3WqKZZcR5bv01Y"
+    },
+    {
+      "added_at": "2026-11-10 22:13:42",
+      "album": {
+        "name": "The Best I Ever Had",
+        "url": "https://open.spotify.com/album/1DoLpPzVKAP1rouoBVrgYU"
+      },
+      "artists": [
+        {
+          "name": "No Friends Left",
+          "url": "https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj"
+        }
+      ],
+      "duration_ms": 245647,
+      "name": "The Best I Ever Had",
+      "url": "https://open.spotify.com/track/4kN0Ubypez9j3PwRsigim4"
+    },
+    {
+      "added_at": "2026-11-10 22:42:10",
+      "album": {
+        "name": "We Go High",
+        "url": "https://open.spotify.com/album/06bJj8X2ci5w8lIBA1llYM"
+      },
+      "artists": [
+        {
+          "name": "Sam Brace",
+          "url": "https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH"
+        },
+        {
+          "name": "The Merciless Bronze",
+          "url": "https://open.spotify.com/artist/7IVGe5SIp4zL7ORcomos5E"
+        }
+      ],
+      "duration_ms": 240947,
+      "name": "We Go High",
+      "url": "https://open.spotify.com/track/400xZzpdwKLfcBpMMsxtfM"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

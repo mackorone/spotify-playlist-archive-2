@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: atom chanakan
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,218 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,296 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
 | 100 | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/track/1scf7fXKBaF1PPM3ej4sxK) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/album/3GNuDVcOBOMm4L6TcfaFsJ) | 3:41 |
 
-Snapshot ID: `AAAAAEI80TfMovbt2FXVMWIoyuff0yO5`
+Snapshot ID: `AAAAAO8I4HRd3Sw7zV8WrRgc4DwE59V3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Haute & Freddy along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,350 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,362 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 79 | [Wings On Fire](https://open.spotify.com/track/36g619h8gPXcIxOQKDLQ5D) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton](https://open.spotify.com/album/2LgXUDNp1uPV0t55aTlfUT) | 4:15 |
 | 80 | [Run Away](https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI) | 3:39 |
 
-Snapshot ID: `AAAAACR+7sS1llkhAgwGF5TrDHr5GUry`
+Snapshot ID: `AAAAAA4C6aHLDr/+vdpdfSIkaA2vGHGF`

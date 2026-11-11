@@ -1,6 +1,6 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 3105,
+  "num_followers": 3107,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 270314,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE BRIDGE",
         "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 154000,
       "name": "WHAT LOVERS DO",
       "url": "https://open.spotify.com/track/01FJTTSRharY3U5JUzzgkj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 270314,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
     },
     {
       "added_at": null,

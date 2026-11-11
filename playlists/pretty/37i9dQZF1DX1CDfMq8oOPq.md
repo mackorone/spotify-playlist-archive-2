@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,532 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,546 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Giragrana Girabala](https://open.spotify.com/track/0mWnU1xmvl0bChWsOEPiXz) | [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Khamarinha](https://open.spotify.com/artist/1aWWrG0LM53V1ilVsiFAFI) | [Vai Tomando Mixtape Vol\. 2](https://open.spotify.com/album/5CVFSp03s0SahVsMJHnG22) | 2:19 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 
-Snapshot ID: `AAAAAKD2NqngxkywinXjDqmpEc1TjoOS`
+Snapshot ID: `AAAAAAi8NA9lvYJl71Mvs0Vo9vjDIyir`

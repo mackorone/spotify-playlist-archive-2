@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rex Orange County, The Weeknd, Lafa Pratomo, Isyana Sarasvati, Jason Ranti dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,372 likes - 79 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,318 likes - 79 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 78 | [I Am God](https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [I Am God](https://open.spotify.com/album/7qUhXBrMILFJCFziNaJPOP) | 3:03 |
 | 79 | [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 |
 
-Snapshot ID: `AAAAAFopwpERXSgas3l851VlfGxAPLNd`
+Snapshot ID: `AAAAAEzPwQv7szqZfrRhasr3gXTNM/tt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,962 likes - 42 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,974 likes - 42 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 41 | [Another Green World \- 2004 Remaster](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 |
 | 42 | [Miss Sarajevo \- Live](https://open.spotify.com/track/5a376mA6M7RgxwrZFfJOYf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Michael Kamen](https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb) | [Pavarotti & Friends Together For The Children Of Bosnia](https://open.spotify.com/album/6kbVOhOCjRxh34aaEfORZD) | 6:22 |
 
-Snapshot ID: `au+7gAAAAADJZczGFAnL/J1dQu+lzLc9`
+Snapshot ID: `avENAAAAAABn7JaN7WgrtS5+CpAHKOKW`

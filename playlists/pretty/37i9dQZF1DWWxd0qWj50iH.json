@@ -1,12 +1,12 @@
 {
   "description": "A softer space.",
-  "num_followers": 606579,
+  "num_followers": 606535,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANQtf2r5YvWfHhMNMAT1ZQ/KeCz6",
+  "snapshot_id": "AAAAAEBJO3JnwANj3asPxv/SY0aLA4P5",
   "tracks": [
     {
       "added_at": "2024-10-10 15:49:38",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Total Life Forever",
         "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 409560,
       "name": "Spanish Sahara",
       "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+      "duration_ms": 238333,
+      "name": "The Dying Light",
+      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -911,22 +927,6 @@
       "duration_ms": 240508,
       "name": "JUPiTER",
       "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "The Dying Light",
-      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Spiderwebs",
+        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 153241,
+      "name": "Spiderwebs",
+      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 141940,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Spiderwebs",
-        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
-      },
-      "artists": [
-        {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
-        }
-      ],
-      "duration_ms": 153241,
-      "name": "Spiderwebs",
-      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Four\u00b0 In Winter (Deluxe)",
-        "url": "https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 202873,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "The Death Of Summer & Other Promises",
         "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
       },
@@ -1399,34 +1383,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+        "name": "Four\u00b0 In Winter (Deluxe)",
+        "url": "https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
-    },
-    {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "The Clearing (B Sides)",
-        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Gospel Oak",
-      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
+      "duration_ms": 202873,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1449,6 +1417,38 @@
       "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
     },
     {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Gospel Oak",
+      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -1463,38 +1463,6 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Not for Nothing",
-        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 189290,
-      "name": "Not for Nothing",
-      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1527,6 +1495,38 @@
       "duration_ms": 248421,
       "name": "Sure",
       "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Not for Nothing",
+        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 189290,
+      "name": "Not for Nothing",
+      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "gut health",
-        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243469,
-      "name": "gut health",
-      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Love Me In Chapters",
         "url": "https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 216933,
       "name": "Love Me In Chapters",
       "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "gut health",
+        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243469,
+      "name": "gut health",
+      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
     },
     {
       "added_at": "2024-05-31 15:25:10",

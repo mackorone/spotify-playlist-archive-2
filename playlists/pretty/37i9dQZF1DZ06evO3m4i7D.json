@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAB+qUscvJCN0iLm7k8BEgoX",
+  "snapshot_id": "avENAAAAAAAsjNV5CdY10Y2ETUg6GhV3",
   "tracks": [
     {
       "added_at": null,
@@ -511,34 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
-        "url": "https://open.spotify.com/album/1KxHN6ayQSNRLPzgeVD6l4"
-      },
-      "artists": [
-        {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
-      "url": "https://open.spotify.com/track/4RK3tRPq9qpITcLimGj1FZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindersiza",
         "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
       },
@@ -563,6 +535,34 @@
       "duration_ms": 153239,
       "name": "Kindersiza",
       "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
+        "url": "https://open.spotify.com/album/1KxHN6ayQSNRLPzgeVD6l4"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
+      "url": "https://open.spotify.com/track/4RK3tRPq9qpITcLimGj1FZ"
     },
     {
       "added_at": null,
@@ -615,34 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUKI TUKI",
-        "url": "https://open.spotify.com/album/0bbifCUmSUp7JAR7kszwSF"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 153322,
-      "name": "TUKI TUKI",
-      "url": "https://open.spotify.com/track/6Cb2PBFFgOULaptgZIYXi5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recio",
         "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
       },
@@ -667,6 +639,34 @@
       "duration_ms": 151564,
       "name": "Recio",
       "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUKI TUKI",
+        "url": "https://open.spotify.com/album/0bbifCUmSUp7JAR7kszwSF"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 153322,
+      "name": "TUKI TUKI",
+      "url": "https://open.spotify.com/track/6Cb2PBFFgOULaptgZIYXi5"
     },
     {
       "added_at": null,

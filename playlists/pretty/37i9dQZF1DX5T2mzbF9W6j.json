@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113037,
+  "num_followers": 113035,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFpRuT7ulCA3XBzHk/ClL/becyeN",
+  "snapshot_id": "AAAAAJR2nvqStxFzoCvXnbsYg7ng6izA",
   "tracks": [
     {
       "added_at": "2026-10-02 15:28:11",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Primabalerina",
+        "url": "https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 187712,
+      "name": "Primabalerina",
+      "url": "https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Talk To Me, Zara",
         "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Primabalerina",
-        "url": "https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 187712,
-      "name": "Primabalerina",
-      "url": "https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu"
     },
     {
       "added_at": "2026-10-02 15:28:11",

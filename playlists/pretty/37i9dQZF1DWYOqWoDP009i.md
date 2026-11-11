@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4MFs2skk7Il9H2ZdjzPsB9) | [Rokk](https://open.spotify.com/artist/48McRVqf7fzAy2OvfHbYba) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/68Y5osdEeNdFhWlPRiecpx) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/3Cl149D2AlCdX2YjAwvOko) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/6BEk5wE05h424K4Cund75D) | 3:57 |
 
-Snapshot ID: `AAAAAIjkYjqlWK3JzFDTqmNYHJ+oEIIT`
+Snapshot ID: `AAAAAJuXqKYgp44x77OBxJwmTGul2S8G`

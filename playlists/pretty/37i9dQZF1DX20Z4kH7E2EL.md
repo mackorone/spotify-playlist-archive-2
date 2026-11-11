@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,147 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,146 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 99 | [Supersonic Electronic \(on acid\)](https://open.spotify.com/track/4tABKqq3tn1WzUpLfGTMAg) | [Ciauru](https://open.spotify.com/artist/6Zw3Q6LjYtvoNF14YXkIYf) | [Supersonic Electronic \(on acid\)](https://open.spotify.com/album/4XpwBWYEfdA89akE5MnNA8) | 4:42 |
 | 100 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 |
 
-Snapshot ID: `AAAAABd7l8Mb4G0HOWOcqU73j6RqhVEt`
+Snapshot ID: `AAAAAMVB2Ju3RhFrWudOvRB5NOrDp/yP`

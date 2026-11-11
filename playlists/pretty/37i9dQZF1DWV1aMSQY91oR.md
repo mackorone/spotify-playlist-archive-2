@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,109 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,123 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Visions](https://open.spotify.com/track/4iMEZjaZd6QrBXbGXwK0z4) | [Lowkita](https://open.spotify.com/artist/5a6ihpmD1tWEkLsql9vDxC) | [Why\(te\) Tee](https://open.spotify.com/album/0w2pDF54RFwGjcL6joWXQF) | 2:36 |
 | 50 | [I Don't Follow Trends](https://open.spotify.com/track/5vRUu653uTQzLyNgpceE2d) | [Lu\-Kusa G2$](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [I Dont Follow Trendz](https://open.spotify.com/album/1uvKnp3HNri45lm0PrV17l) | 1:54 |
 
-Snapshot ID: `AAAAAPDElbWW4Pjaab+EnFN0qSJNSeZ6`
+Snapshot ID: `AAAAAM+cCLMup0tfpbjl32kSxt1wGKGM`

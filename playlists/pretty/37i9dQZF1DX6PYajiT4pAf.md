@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > C\. Tangana, La Pantera, Duki, Manuel Turizo & J Balvin, Agorazein  y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,506 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,502 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 84 | [¡Pop!](https://open.spotify.com/track/1Wqw1spmVG9hmU8MeKH402) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [I Just Wanna Make My Daddy Proud](https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX) | 3:02 |
 | 85 | [PELIGRO](https://open.spotify.com/track/3KavB9Dq44BTTWQ4HXqS72) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1) | [INSTINTO](https://open.spotify.com/album/1LhDD7qksDHE9nKMCKNWXs) | 3:23 |
 
-Snapshot ID: `AAAAAN9awN70/fxXsySUeDwESG6FzMKH`
+Snapshot ID: `AAAAAPTVXEbZDEmXX2UzqRWA7YAKeV25`

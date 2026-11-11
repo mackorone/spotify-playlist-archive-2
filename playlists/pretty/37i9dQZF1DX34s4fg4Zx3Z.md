@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: LEXXY\. Thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,523 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,524 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 42 | [Lemon Flower](https://open.spotify.com/track/7BshuBWUbOVPcZxsPyIIyg) | [Nuwie](https://open.spotify.com/artist/3TYA4QzDYPiyR6BNirJnep), [Bảo Nghi](https://open.spotify.com/artist/2sVYd9tXtInjx7dfxP5MRj) | [Lemon Flower](https://open.spotify.com/album/2Fklk5FGAO53xFRgW17OMf) | 3:27 |
 | 43 | [Để đó anh lo](https://open.spotify.com/track/4foXNbBMUQBYcMtn7uTWHC) | [TapLow](https://open.spotify.com/artist/5DpupqkaCIVCmeDG64T49H) | [Để đó anh lo](https://open.spotify.com/album/6GNN1uEkK0jvfHjVJDUVjY) | 3:30 |
 
-Snapshot ID: `AAAAAMZSQ7qCRRB/fkND5tVF4YibKZiG`
+Snapshot ID: `AAAAALrM31MsqjZz4ztFWqwEOFpX5saH`

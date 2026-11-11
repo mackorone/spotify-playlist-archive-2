@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,472 songs - 12 day 17 hr 39 min
+5,474 songs - 12 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3594,6 +3594,7 @@
 | [Peace for Me \- Alternative Version](https://open.spotify.com/track/2Rl49ClldbNcxIQYYEE8kN) | [Dark Lamb](https://open.spotify.com/artist/6tEZeu4E9wxWUs1Mux6xHx) | [Peace for Me](https://open.spotify.com/album/2qqr0t67dtRtSnk0aqExTB) | 3:26 | 2026-07-26 |  |
 | [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 | 2026-01-12 | 2026-01-26 |
 | [PEGGIOXTE](https://open.spotify.com/track/0bA7T5mSWQrpk9Pmml2UFD) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [PEGGIOXTE](https://open.spotify.com/album/5sqbsO1hpRKfaTtpvS1ufc) | 3:18 | 2025-06-24 |  |
+| [Pelita Selepas Gulita](https://open.spotify.com/track/12aZijjIW3uIhbDozRYxVD) | [Nanda Perdana](https://open.spotify.com/artist/2YEkJPIyz4mNYLuP3NZFf6) | [Pelita Selepas Gulita](https://open.spotify.com/album/5Omi5gkk3lOuM6PxaTkWQ4) | 3:49 | 2026-11-10 |  |
 | [Pelo de mar](https://open.spotify.com/track/3vMmZnb3g5ML0K9w4PKoqM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 2:42 | 2026-03-15 |  |
 | [Pensiero Nero](https://open.spotify.com/track/0nkg3BoJ3Xou1xYiiaFu7M) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Pensiero Nero](https://open.spotify.com/album/6tTjgArejhqTnb5l9sY6qO) | 4:33 | 2026-02-15 |  |
 | [Pensiero Vivo](https://open.spotify.com/track/6qxw0D9vC46xpHGuk6VkTa) | [Il Vagabondo Detto Houston](https://open.spotify.com/artist/6fwDkK7Yrv6HvR2qApLthG) | [Pensiero Vivo](https://open.spotify.com/album/0reGMJaOEya8IxVz3dRyL9) | 3:34 | 2025-05-05 |  |
@@ -3730,6 +3731,7 @@
 | [Quarantine](https://open.spotify.com/track/3UzQ1eBfSNP0g2dGXLDptH) | [Electric Cherry](https://open.spotify.com/artist/66J3VXbn2sHTyX6jhIlxwZ), [Andrea Ra](https://open.spotify.com/artist/27PoZXHVOSVXG0oWhGKrbe) | [Quarantine](https://open.spotify.com/album/0RDGwPbndtjk2XuqI4ICWV) | 4:19 | 2025-04-24 |  |
 | [Quarz](https://open.spotify.com/track/5pgRxx6vP81lugd4WhQUG7) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Hex](https://open.spotify.com/album/1pi1sqdxt3KndTYmJJ7Pye) | 4:21 | 2025-11-24 |  |
 | [Que Diera Yo](https://open.spotify.com/track/58AnFojEozCK0Za162nlPU) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Que Diera Yo](https://open.spotify.com/album/2YPZ32vSnAfOnuHP3e8qKV) | 4:07 | 2026-08-04 |  |
+| [Queen Of The Stage](https://open.spotify.com/track/7111rn6Fj97LddnOoYJa7j) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Queen Of The Stage](https://open.spotify.com/album/3XNxb0y3ZvSNx4NgVjMPqn) | 4:08 | 2026-11-10 |  |
 | [QUELLO SBAGLIATO \(feat\. Nina Zilli\)](https://open.spotify.com/track/1Epvn9ddRoVGvTWrcWLwXR) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [QUELLO SBAGLIATO \(feat\. Nina Zilli\)](https://open.spotify.com/album/48kOjh22Rad3pBtkO4fcGk) | 2:40 | 2025-06-01 |  |
 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 | 2026-11-03 |  |
 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 | 2026-11-03 |  |

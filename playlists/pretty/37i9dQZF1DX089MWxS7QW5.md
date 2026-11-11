@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YECHAN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,600 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,602 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [summer border](https://open.spotify.com/track/4Soxu2ZhWrQR82RRYTglfB) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [summer border](https://open.spotify.com/album/3GTHzjJXhjSG2JV4nPcu3W) | 2:25 |
 | 50 | [Tiki Tiki](https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Tiki Tiki](https://open.spotify.com/album/2nUgb8UdZldKYGaWCF33I8) | 3:20 |
 
-Snapshot ID: `AAAAAHT3ocauK4JuA+FcghRj1r2aYYwC`
+Snapshot ID: `AAAAAOisQYr4G7iqEGXwUWQ5JZlTuoK/`

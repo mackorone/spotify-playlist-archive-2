@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: daine
 
-4,139 songs - 9 day 12 hr 51 min
+4,140 songs - 9 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 | 2024-02-09 | 2024-03-23 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 | 2024-05-11 |
 | [Accelerator](https://open.spotify.com/track/7gDi0QqxumuoiZDvjtX4et) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Accelerator](https://open.spotify.com/album/5ewq7Et7TBRwMpfe8isABW) | 2:59 | 2026-10-09 |  |
+| [ACES](https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [ACES](https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH) | 3:31 | 2026-11-10 |  |
 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 | 2026-04-17 | 2026-06-20 |
 | [act like you know ? \(feat\. Muni Long\)](https://open.spotify.com/track/5DFoaOcbygmi9MSzQjMweU) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [act like you know ? \(feat\. Muni Long\)](https://open.spotify.com/album/3TKiTxyZQYf3gQ3z6QR4S4) | 2:23 | 2026-09-04 | 2026-10-02 |
 | [Act Like Your Title](https://open.spotify.com/track/1UMO6vIf9lyPkdrMrsPirN) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Act Like Your Title](https://open.spotify.com/album/23qCx5Wg1544KWxIjjEdCv) | 2:19 | 2025-08-22 | 2025-09-13 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACdtb7MzWmdnQ25B+yXsnErOYSVq",
+  "snapshot_id": "AAAAAAEveRMdDC7Zwh4q9GJbFEasGXYi",
   "tracks": [
     {
       "added_at": "2026-11-06 05:01:41",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Bajo la Luna",
-        "url": "https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Bajo la Luna",
-      "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Juguetes Rotos",
         "url": "https://open.spotify.com/album/5NXn53sMqSoRJ7WL2gaSQX"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 219306,
       "name": "Juguetes Rotos",
       "url": "https://open.spotify.com/track/3Fw29wUOpvAtwBsdVVEm9X"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Bajo la Luna",
+        "url": "https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Bajo la Luna",
+      "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -403,30 +403,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Con Yahweh 357",
-        "url": "https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD"
-      },
-      "artists": [
-        {
-          "name": "Lenny357",
-          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
-        },
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        },
-        {
-          "name": "Frank Miami",
-          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
-        }
-      ],
-      "duration_ms": 132127,
-      "name": "Con Yahweh 357",
-      "url": "https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "LUNARIO",
         "url": "https://open.spotify.com/album/1QEegFpH0aL5mbGSSGEYBC"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 170281,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/63hnT3AMJltR6TLHP8eBa8"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Con Yahweh 357",
+        "url": "https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD"
+      },
+      "artists": [
+        {
+          "name": "Lenny357",
+          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
+        },
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        }
+      ],
+      "duration_ms": 132127,
+      "name": "Con Yahweh 357",
+      "url": "https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "R\u00edo",
-        "url": "https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 147966,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/4thwYNk2KbaNq8Dv70T9lP"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Bailar",
         "url": "https://open.spotify.com/album/4CHZ3dBUl0xfzzAE9RjiUs"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 216087,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/5kyxhs1o58zZhV8lNCeABT"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "R\u00edo",
+        "url": "https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 147966,
+      "name": "R\u00edo",
+      "url": "https://open.spotify.com/track/4thwYNk2KbaNq8Dv70T9lP"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Dios nos am\u00f3",
-        "url": "https://open.spotify.com/album/4LVemL7KUplqZu3QEIJaKK"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Dios nos am\u00f3",
-      "url": "https://open.spotify.com/track/46nG55qxILEKoEigxYOMis"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Entre Familia",
         "url": "https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "Dios nos am\u00f3",
+        "url": "https://open.spotify.com/album/4LVemL7KUplqZu3QEIJaKK"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Dios nos am\u00f3",
+      "url": "https://open.spotify.com/track/46nG55qxILEKoEigxYOMis"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
       },
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Todo Lo Puedo",
-        "url": "https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Todo Lo Puedo",
-      "url": "https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "Agua Pal Sediento",
-        "url": "https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN"
-      },
-      "artists": [
-        {
-          "name": "Martin Alonso",
-          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
-        }
-      ],
-      "duration_ms": 239291,
-      "name": "Agua Pal Sediento",
-      "url": "https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
       },
@@ -1087,6 +1055,38 @@
       "duration_ms": 166256,
       "name": "Mutari",
       "url": "https://open.spotify.com/track/188U3qJOtDOI3crnkWAwKy"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Todo Lo Puedo",
+        "url": "https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Todo Lo Puedo",
+      "url": "https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Agua Pal Sediento",
+        "url": "https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN"
+      },
+      "artists": [
+        {
+          "name": "Martin Alonso",
+          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "Agua Pal Sediento",
+      "url": "https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "Cantar\u00e9",
+        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 243608,
+      "name": "Cantar\u00e9",
+      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Sublime Gracia",
         "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
@@ -1211,34 +1227,18 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Cantar\u00e9",
-        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
+        "name": "NAZARENO",
+        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
       },
       "artists": [
         {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+          "name": "Chris Paradise",
+          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
         }
       ],
-      "duration_ms": 243608,
-      "name": "Cantar\u00e9",
-      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "Peleando En Mi Mente",
-        "url": "https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "Peleando En Mi Mente",
-      "url": "https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj"
+      "duration_ms": 270807,
+      "name": "NAZARENO",
+      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1259,18 +1259,38 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "NAZARENO",
-        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
+        "name": "Peleando En Mi Mente",
+        "url": "https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn"
       },
       "artists": [
         {
-          "name": "Chris Paradise",
-          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
         }
       ],
-      "duration_ms": 270807,
-      "name": "NAZARENO",
-      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
+      "duration_ms": 170375,
+      "name": "Peleando En Mi Mente",
+      "url": "https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Cu\u00e1n Grande Es \u00c9l",
+        "url": "https://open.spotify.com/album/1q5PC955FMnQJrABKN1BIs"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        },
+        {
+          "name": "Ricardo Rodriguez",
+          "url": "https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l"
+        }
+      ],
+      "duration_ms": 282605,
+      "name": "Cu\u00e1n Grande Es \u00c9l",
+      "url": "https://open.spotify.com/track/5YiR31AXIcLRagF0Ym5qxx"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1307,30 +1327,6 @@
       "duration_ms": 179170,
       "name": "Mec\u00e1nico",
       "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "CONMIGO VA",
-        "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "CONMIGO VA",
-      "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1375,22 +1371,26 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Cu\u00e1n Grande Es \u00c9l",
-        "url": "https://open.spotify.com/album/1q5PC955FMnQJrABKN1BIs"
+        "name": "CONMIGO VA",
+        "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
       },
       "artists": [
         {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
         },
         {
-          "name": "Ricardo Rodriguez",
-          "url": "https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l"
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
         }
       ],
-      "duration_ms": 282605,
-      "name": "Cu\u00e1n Grande Es \u00c9l",
-      "url": "https://open.spotify.com/track/5YiR31AXIcLRagF0Ym5qxx"
+      "duration_ms": 211891,
+      "name": "CONMIGO VA",
+      "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1427,38 +1427,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "Bendita Prueba",
-      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "Hay Una Fuente en M\u00ed",
-        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Hay Una Fuente en M\u00ed",
-      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Me Encontr\u00f3",
         "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
       },
@@ -1487,6 +1455,38 @@
       "duration_ms": 177049,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/75c5TPdMHuGYw9FXH0TLMs"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "Bendita Prueba",
+      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Hay Una Fuente en M\u00ed",
+        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Hay Una Fuente en M\u00ed",
+      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+        "name": "NUEVA VIDA",
+        "url": "https://open.spotify.com/album/7g7Qor16vSdBywF1BcbT7a"
       },
       "artists": [
         {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+          "name": "Jesus David Suarez",
+          "url": "https://open.spotify.com/artist/0Rt3ZjpAQPbHqrHs6sPfi0"
         }
       ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+      "duration_ms": 158666,
+      "name": "NUEVA VIDA",
+      "url": "https://open.spotify.com/track/379HVyZjCQuBB4zclv7230"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

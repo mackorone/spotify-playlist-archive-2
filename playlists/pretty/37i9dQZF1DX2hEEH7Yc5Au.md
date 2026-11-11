@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 探索女性音樂人的精彩作品，收聽精選女歌手歌曲！Cover: 163braces
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,243 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,242 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 59 | [QQ](https://open.spotify.com/track/66Y5wGE5AtMwQ5fGPETVVS) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [QQ](https://open.spotify.com/album/4lMqoOb0oLgNtYnDpe66cw) | 3:02 |
 | 60 | [請圍著火焰保護我](https://open.spotify.com/track/2R7crW2wgXJwSKPfKplHlT) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [請圍著火焰保護我](https://open.spotify.com/album/1SkojqzU2AQIPpSrmei9y3) | 2:45 |
 
-Snapshot ID: `AAAAALHdcsKTQXqTpHiic5d2L3Yg6s2o`
+Snapshot ID: `AAAAANmYaPDFCOjKlig+umZHp8Fd1U/u`

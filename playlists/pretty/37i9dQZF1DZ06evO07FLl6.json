@@ -1,6 +1,6 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 250689,
+  "num_followers": 250711,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 265149,
+      "name": "When I Fall In Love - Remastered 2026",
+      "url": "https://open.spotify.com/track/6YYErdvcEqDSZiHng21urd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -947,38 +979,6 @@
       "duration_ms": 674800,
       "name": "Bags' Groove - Take 1 / RVG Remastered 2008",
       "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles '56 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 265149,
-      "name": "When I Fall In Love - Remastered 2026",
-      "url": "https://open.spotify.com/track/6YYErdvcEqDSZiHng21urd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
     },
     {
       "added_at": null,

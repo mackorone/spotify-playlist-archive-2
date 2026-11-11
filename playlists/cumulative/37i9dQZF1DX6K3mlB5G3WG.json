@@ -64029,6 +64029,24 @@
     },
     {
       "album": {
+        "name": "Stelle&Galassie",
+        "url": "https://open.spotify.com/album/6cnxRaNlSLozN8uGgcYutv"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194700,
+      "name": "Stelle&Galassie",
+      "url": "https://open.spotify.com/track/6VDRCGGxETYuD0cPB5YIJh"
+    },
+    {
+      "album": {
         "name": "Stem the Flow",
         "url": "https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE"
       },

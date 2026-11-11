@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Las Petunias.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,057 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,042 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Madrid](https://open.spotify.com/track/5Y90lidJLTLIvke2duzWcU) | [Hugo Serrano](https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj) | [Madrid](https://open.spotify.com/album/0aCeOw8EUi7QbCOr182861) | 2:17 |
 | 120 | [El presidente de la compañía](https://open.spotify.com/track/6uzhRqGUJmpCD7h9DK1Xh8) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [El presidente de la compañía](https://open.spotify.com/album/6mohE0cCMBlU25D7khdlML) | 2:44 |
 
-Snapshot ID: `AAAAALoeXF+5yFdmoSaRyxHCI9GnEcB1`
+Snapshot ID: `AAAAAK4aWpLwYi21XAQs9EfI1CxZgBGI`

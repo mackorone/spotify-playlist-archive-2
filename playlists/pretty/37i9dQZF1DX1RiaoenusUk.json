@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35655,
+  "num_followers": 35659,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZ4k5Z70WYl7tPu5O+u4ZNBqBbH",
+  "snapshot_id": "AAAAAMstfpggmGzZ+ykWTpOj9CihgUM5",
   "tracks": [
     {
       "added_at": "2026-10-23 03:00:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
-      },
-      "artists": [
-        {
-          "name": "N\u00fakuma",
-          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
-        }
-      ],
-      "duration_ms": 274102,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 203506,
       "name": "Baila el Funk",
       "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
+      },
+      "artists": [
+        {
+          "name": "N\u00fakuma",
+          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
+        }
+      ],
+      "duration_ms": 274102,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
+        "name": "Good to Know",
+        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
+      },
+      "artists": [
+        {
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Good to Know",
-        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
-      },
-      "artists": [
-        {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
-      },
-      "artists": [
-        {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
-        }
-      ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Miro donde miro",
         "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
@@ -1519,18 +1487,34 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
       "artists": [
         {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
         }
       ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 246085,
       "name": "El Efecto Calma",
       "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Que Me Pasa",
-        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
-      },
-      "artists": [
-        {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Que Me Pasa",
-      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1647,22 +1631,38 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Polvo C\u00f3smico (Remix)",
-        "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
+        "name": "Que Me Pasa",
+        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
       "artists": [
         {
-          "name": "Cevlade",
-          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
-        },
-        {
-          "name": "C-Funk",
-          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
         }
       ],
-      "duration_ms": 207888,
-      "name": "Polvo C\u00f3smico - Remix",
-      "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
+      "duration_ms": 184421,
+      "name": "Que Me Pasa",
+      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Foulmouth",
+        "url": "https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP"
+      },
+      "artists": [
+        {
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        }
+      ],
+      "duration_ms": 174273,
+      "name": "Foulmouth",
+      "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
     }
   ],
   "unique_name": "Nota Funk",

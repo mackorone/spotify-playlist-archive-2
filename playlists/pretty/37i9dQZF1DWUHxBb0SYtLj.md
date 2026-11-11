@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Canta Fino a Dieci
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,998 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,999 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 98 | [EPOPEA](https://open.spotify.com/track/05mDwE36rqUW2IgFtcYb9s) | [Dolcenera](https://open.spotify.com/artist/7lkfsloQGm2Z9S9kbmIcFU) | [EPOPEA](https://open.spotify.com/album/6ct2FPdsokHI37rESrlSne) | 3:17 |
 | 99 | [A parte me](https://open.spotify.com/track/239cYDy7zwE2yFqiswOtZL) | [Elena D'Elia](https://open.spotify.com/artist/1uWkqyyuDWWp2rcrFl1LrN) | [A parte me](https://open.spotify.com/album/3ZvhNYl6OS0g2mju1aGcae) | 2:56 |
 
-Snapshot ID: `AAAAADD0+U8JR235BZgv5p8Qnie9NuFh`
+Snapshot ID: `AAAAAGtdxYahUZVIdYlzEjzpsnqcXZ+x`

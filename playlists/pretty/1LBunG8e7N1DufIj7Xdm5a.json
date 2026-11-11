@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALAfmb/g7jXQUOpiKTjtLSUorWMaUU",
+  "snapshot_id": "AAALAyAMXuJsOH9LzxcfRonKxT4XVzI1",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -90219,6 +90219,38 @@
       "duration_ms": 165334,
       "name": "Fading Trace",
       "url": "https://open.spotify.com/track/25SdqP59ZUBkkfTZXgVhzN"
+    },
+    {
+      "added_at": "2026-11-10 07:46:40",
+      "album": {
+        "name": "Pelita Selepas Gulita",
+        "url": "https://open.spotify.com/album/5Omi5gkk3lOuM6PxaTkWQ4"
+      },
+      "artists": [
+        {
+          "name": "Nanda Perdana",
+          "url": "https://open.spotify.com/artist/2YEkJPIyz4mNYLuP3NZFf6"
+        }
+      ],
+      "duration_ms": 229248,
+      "name": "Pelita Selepas Gulita",
+      "url": "https://open.spotify.com/track/12aZijjIW3uIhbDozRYxVD"
+    },
+    {
+      "added_at": "2026-11-10 17:29:45",
+      "album": {
+        "name": "Queen Of The Stage",
+        "url": "https://open.spotify.com/album/3XNxb0y3ZvSNx4NgVjMPqn"
+      },
+      "artists": [
+        {
+          "name": "Cobra queen",
+          "url": "https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Queen Of The Stage",
+      "url": "https://open.spotify.com/track/7111rn6Fj97LddnOoYJa7j"
     }
   ],
   "unique_name": "playlist spotify free",

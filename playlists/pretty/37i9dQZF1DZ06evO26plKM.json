@@ -1,6 +1,6 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 34005,
+  "num_followers": 34009,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "People We Used To Be",
+      "url": "https://open.spotify.com/track/24QW6luUG1CJEd0k7r5hhO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 287333,
+      "name": "Wedding Ring",
+      "url": "https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 266242,
+      "name": "Time Will Be The Healer",
+      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mavis Staples I'll Take You There: An All-Star Concert Celebration (Deluxe / Live)",
         "url": "https://open.spotify.com/album/6MJb2k5X1k25ebj7ZyixCb"
       },
@@ -615,46 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "People We Used To Be",
-      "url": "https://open.spotify.com/track/24QW6luUG1CJEd0k7r5hhO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 287333,
-      "name": "Wedding Ring",
-      "url": "https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
         "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 255993,
       "name": "What Happens When The Heart Just Stops (Funkhaus Version)",
       "url": "https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 266242,
-      "name": "Time Will Be The Healer",
-      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set List (Live)",
-        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Star Star | Pure Imagination",
-      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Not There (Music From The Motion Picture - Original Soundtrack)",
         "url": "https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 185053,
       "name": "You Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set List (Live)",
+        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Star Star | Pure Imagination",
+      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
     },
     {
       "added_at": null,

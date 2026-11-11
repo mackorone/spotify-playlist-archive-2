@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 165 songs - 9 hr 51 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 171 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,5 +173,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 163 | [Angel o Demonio](https://open.spotify.com/track/2WB7oIzoI9eM9O9wSc32Gy) | [El Bardo](https://open.spotify.com/artist/6eljOiTOJ80xq0cTLxWHWO) | [Angel o Demonio](https://open.spotify.com/album/6f7jcF88aFAtdRsW5JbXND) | 3:52 |
 | 164 | [Seekha Hai](https://open.spotify.com/track/7DDH3mBop5hobbYFbiexS2) | [RC Lofty](https://open.spotify.com/artist/32hSY9yZVS9hJa7wb36hUf) | [Seekha Hai](https://open.spotify.com/album/3xJYcaXptDStNLlLfy3DE3) | 4:53 |
 | 165 | [You Should Be in the Movies](https://open.spotify.com/track/6JYlIBCGGt3AAWrztkgyBp) | [JOHN CAVIAR](https://open.spotify.com/artist/2WHj0b29IsYv6xlUJPzVGQ) | [You Should Be in the Movies](https://open.spotify.com/album/0aiGwUnm8yEnS6GbrOgCix) | 4:00 |
+| 166 | [Letztes Mal](https://open.spotify.com/track/3M7JJAH6wpOThabddshinm) | [Oliver](https://open.spotify.com/artist/78p3BQNxLeOiovq6kIYrNB) | [Letztes Mal](https://open.spotify.com/album/4V2uDyIWbazHmx4WQ2oRhE) | 2:20 |
+| 167 | [Dezember](https://open.spotify.com/track/4sdeuPQ7GCzVTfXKp0HUAH) | [Nora Marie](https://open.spotify.com/artist/7uYh85kBOaZA9ZMvdF6EkL) | [Dezember](https://open.spotify.com/album/6Q9h5ktLQm3Sua9iM9NMhm) | 2:47 |
+| 168 | [Call \(Anymore\)](https://open.spotify.com/track/3pw9WxOCvqe0EBfnkBfTbE) | [ËRRÄ](https://open.spotify.com/artist/0JEioRiCYOk5ris1hGqIiE) | [Call \(Anymore\)](https://open.spotify.com/album/72JOGtvHdbbG1evTiGuuVi) | 1:37 |
+| 169 | [Suona](https://open.spotify.com/track/6dgDvISIgviDZUTsj1GKEP) | [Johnny Freak](https://open.spotify.com/artist/7H0nJ5zwaSVs6GJ1bivNKZ) | [Suona](https://open.spotify.com/album/4zafOs6GpDjdFT82psIV16) | 4:29 |
+| 170 | [Fuoco Tropicale](https://open.spotify.com/track/2qxFI7DCkxlILD9AmpeJwq) | [GIUCA](https://open.spotify.com/artist/2b96cZLLX1g9UKa9ivOUOh), [MØURIS](https://open.spotify.com/artist/0bqv8o4m2yr2wS0bV1YmpJ) | [Fuoco Tropicale](https://open.spotify.com/album/1lb0Cs65Iaf7IfWypHZZ49) | 2:25 |
+| 171 | [Messed Up](https://open.spotify.com/track/0WYcPaQCC8wH6vrBQJdSMa) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Messed Up](https://open.spotify.com/album/4QaTkDWfaHlQnTogn3KUSx) | 3:03 |
 
-Snapshot ID: `AAAZThKJ/1ffNrwdTFEoWcp4Odzawm+N`
+Snapshot ID: `AAAZVAr2aMhFOa0xpP3fengFWukj2CrK`

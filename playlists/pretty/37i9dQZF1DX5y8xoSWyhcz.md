@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,856 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,855 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 99 | [chop it](https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [chop it](https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb) | 2:00 |
 | 100 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
 
-Snapshot ID: `AAAAAFoICt/tOmxuXpuBmdHDdJVRi/zT`
+Snapshot ID: `AAAAADBMpjnU8oWs1KqSJ5w6lRAroLTx`

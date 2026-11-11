@@ -351,24 +351,6 @@
     },
     {
       "album": {
-        "name": "Do They Know Its Christmas",
-        "url": "https://open.spotify.com/album/7KrktQVqvf0mF3qsLfdnaD"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "date_added": "2025-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256920,
-      "name": "Do They Know It's Christmas?",
-      "url": "https://open.spotify.com/track/1xayEQucEWCgESCz80ZNEx"
-    },
-    {
-      "album": {
         "name": "Do They Know It\u2019s Christmas?",
         "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
       },
@@ -384,6 +366,24 @@
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "album": {
+        "name": "Do They Know Its Christmas [Video (Version A)]",
+        "url": "https://open.spotify.com/album/7KrktQVqvf0mF3qsLfdnaD"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Do They Know It's Christmas? - Video (Version A)",
+      "url": "https://open.spotify.com/track/1xayEQucEWCgESCz80ZNEx"
     },
     {
       "album": {

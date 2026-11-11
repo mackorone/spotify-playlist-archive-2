@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, 2000s underground hip-hop scene. Cover: J Dilla",
-  "num_followers": 657986,
+  "num_followers": 658043,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2i7q+Sbc1qgCBQlkt9xfGyO78S",
+  "snapshot_id": "AAAAAFSAKquLlc0AL1kAfd8vbP+y2uv9",
   "tracks": [
     {
       "added_at": "2026-06-12 18:31:14",
@@ -483,30 +483,6 @@
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 336813,
-      "name": "So Far to Go",
-      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
-    },
-    {
-      "added_at": "2026-06-12 18:31:14",
-      "album": {
         "name": "Violence Begets Violence",
         "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 218293,
       "name": "Design in Malice",
       "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
+    },
+    {
+      "added_at": "2026-06-12 18:31:14",
+      "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 336813,
+      "name": "So Far to Go",
+      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
     },
     {
       "added_at": "2026-06-12 18:31:14",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
+        "name": "Revolutions Per Minute",
+        "url": "https://open.spotify.com/album/3uwRp5ehO2wWRBKcpjjQdR"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Hi-Tek",
+          "url": "https://open.spotify.com/artist/7cG9Sjg2u3gbJBnWM8XgKS"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Just Begun (feat. Jay Electronica, J. Cole and Mos Def)",
+      "url": "https://open.spotify.com/track/4lHN90buToyId0wJsdl7ij"
+    },
+    {
+      "added_at": "2026-06-12 18:31:14",
+      "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 180066,
       "name": "Forest Whitiker",
       "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
-    },
-    {
-      "added_at": "2026-06-12 18:31:14",
-      "album": {
-        "name": "Revolutions Per Minute",
-        "url": "https://open.spotify.com/album/3uwRp5ehO2wWRBKcpjjQdR"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Hi-Tek",
-          "url": "https://open.spotify.com/artist/7cG9Sjg2u3gbJBnWM8XgKS"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Just Begun (feat. Jay Electronica, J. Cole and Mos Def)",
-      "url": "https://open.spotify.com/track/4lHN90buToyId0wJsdl7ij"
     },
     {
       "added_at": "2026-06-12 18:31:14",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
-        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
-    },
-    {
-      "added_at": "2026-06-12 18:31:14",
-      "album": {
         "name": "Neighborhood Watch",
         "url": "https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 245826,
       "name": "This Way",
       "url": "https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7"
+    },
+    {
+      "added_at": "2026-06-12 18:31:14",
+      "album": {
+        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
     },
     {
       "added_at": "2026-06-12 18:31:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "100% Dundee",
-      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
-    },
-    {
-      "added_at": "2026-06-12 18:31:14",
-      "album": {
         "name": "The Platform",
         "url": "https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 277200,
       "name": "The Platform",
       "url": "https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK"
+    },
+    {
+      "added_at": "2026-06-12 18:31:14",
+      "album": {
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "100% Dundee",
+      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
     },
     {
       "added_at": "2026-06-12 18:31:14",

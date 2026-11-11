@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75218,
+  "num_followers": 75231,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEN9HXUTIrwrG/perXoegftDOUn0",
+  "snapshot_id": "AAAAABmHv2u5JVOHRrZj0cZBQBqMybOG",
   "tracks": [
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 276585,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/0o3HcAIsWzqEg8BFJZEaN6"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 182989,
       "name": "HOUSE PA LAS BANDIS",
       "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "All I See",
-        "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 276585,
-      "name": "All I See",
-      "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "999 (Goer)",
+        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 160857,
+      "name": "999 (Goer)",
+      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "ESTAMOS READY",
         "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 214846,
       "name": "ESTAMOS READY",
       "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "999 (Goer)",
-        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 160857,
-      "name": "999 (Goer)",
-      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
     },
     {
       "added_at": "2026-10-23 06:00:41",

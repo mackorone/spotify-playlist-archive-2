@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Jamie MacDonald
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,997 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,001 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Perfect Love](https://open.spotify.com/track/1Xbd80mlOh9eCtKffcNnlR) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Perfect Love](https://open.spotify.com/album/6EphvU1Sxv8977sZz88xpW) | 3:32 |
 | 80 | [Jesus Is Walking With You](https://open.spotify.com/track/5lvdIorv5V8WOSNj1oC9cX) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Jesus Is Walking With You](https://open.spotify.com/album/6a1MiP3OCqKWxoFKaZPVSm) | 3:39 |
 
-Snapshot ID: `AAAAAKWlpN1aqJahZmY5xdpmaiJc1C0f`
+Snapshot ID: `AAAAAGrgh2eBj/rdfIiYh3uxGobTNgkk`

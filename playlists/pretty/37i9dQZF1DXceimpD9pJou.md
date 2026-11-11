@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\. Foto: Lowsan Melgar
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,393 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,415 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Tu Tienes El Control](https://open.spotify.com/track/6NrwCYoxQWG8b932QdnBas) | [Wubeat](https://open.spotify.com/artist/1f93uZU90Q2DQMPkjdUgpw), [Diego Lu](https://open.spotify.com/artist/62W11XBTmMK67bpD4bzQbA) | [Tu Tienes El Control](https://open.spotify.com/album/5e9RVLQG26t646CLBGblk4) | 3:02 |
 | 100 | [Ensayo](https://open.spotify.com/track/7tQXhPQSEkRIfFlmz90Eqc) | [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR), [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG) | [Ensayo](https://open.spotify.com/album/0CGHsFmxSqxs434zc7sAI8) | 3:11 |
 
-Snapshot ID: `AAAAAINbVifhWv02Kg12NR6knBjMGkcv`
+Snapshot ID: `AAAAACaeT2ymYz2FWtCVTIGpOxOua+8I`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: เรนิษรา
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,764 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,759 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [ฉันจะไปหาเธอ \(Head in the Clouds\)](https://open.spotify.com/track/4QwGxSTyjtkZlzZmTqJH5U) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [ฉันจะไปหาเธอ \(Head in the Clouds\)](https://open.spotify.com/album/0tMYTIQIbNZrdC5BMQ4fbJ) | 4:45 |
 | 50 | [44°](https://open.spotify.com/track/0mD5TlcL7lW0RTKQZ96xQt) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [44°](https://open.spotify.com/album/3eonmP625PaZ1uQUAycanz) | 4:38 |
 
-Snapshot ID: `AAAAACdtFaBEMiSmmpjFVu5zN6EjwahN`
+Snapshot ID: `AAAAAFsTBZJrGzaK+yIHwcS0vAQ2MDHo`

@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12248,
+  "num_followers": 12250,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMigI7QutxmH586G2QdnzsqBGxYP",
+  "snapshot_id": "AAAAAEh9uX8TUUAhXXrbIXfmvYQRYpWL",
   "tracks": [
     {
       "added_at": "2026-11-03 06:24:03",
@@ -475,38 +475,6 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "DEPEND ON YOU",
-      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
-        "name": "A flower bookmark, Pt. 2",
-        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 224791,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
         "name": "Airman Morning Diaries",
         "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 201077,
       "name": "Blue Island (feat. 1Ho & Chan)",
       "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
+        "name": "A flower bookmark, Pt. 2",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 224791,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
+        "name": "Days Gone",
+        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Days Gone",
+      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
         "name": "FRR",
         "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Days Gone",
-        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Days Gone",
-      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
         "name": "Je T'aime",
         "url": "https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
+        "name": "Wherever",
+        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 171251,
+      "name": "Wherever",
+      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
         "name": "Confession (Ditto X Chuu (LOONA))",
         "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
-        "name": "Wherever",
-        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 171251,
-      "name": "Wherever",
-      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
     },
     {
       "added_at": "2026-11-03 06:24:03",

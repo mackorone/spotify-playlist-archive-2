@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,675 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,683 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [SENTIMENTS](https://open.spotify.com/track/69c047hFRsd6uFND548cfD) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [SENTIMENTS](https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1) | 2:19 |
 | 40 | [MÉLODIE VANILLE](https://open.spotify.com/track/6mv1dA2JCOnKJHD2A4CPLS) | [Zafy](https://open.spotify.com/artist/1RLTDTNUfVFAR9576RmIb4) | [MÉLODIE VANILLE](https://open.spotify.com/album/41btD4mY2XUHjhlkuSJYiP) | 2:20 |
 
-Snapshot ID: `AAAAAJrj7/z55eVh7Gowv6ESOPPqPkFl`
+Snapshot ID: `AAAAACZTonSo42wxkNd8/sqA0yT+R+y1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,028 likes - 59 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,074 likes - 59 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 58 | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/track/6hksu9xYt7dZfaiXx7SCom) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Nina Arya](https://open.spotify.com/artist/0bK45cARlz6LOWWYFNrqE7) | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/album/5K5Dwgjsl9mshpYbEUZJlc) | 3:26 |
 | 59 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
 
-Snapshot ID: `AAAAAAFB8bFtWDgvaqAVQS6eE+JnnFH3`
+Snapshot ID: `AAAAANxdJ04WtfJnfuFrhIY4MEDZCay2`

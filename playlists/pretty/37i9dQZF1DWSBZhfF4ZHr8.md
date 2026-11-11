@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Linh & Claudio Capéo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,284 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,282 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Je Reste Là](https://open.spotify.com/track/2ePHKXoS1m1sp1g1p9EzI0) | [Alexis Carlier](https://open.spotify.com/artist/1b0pgsUv8hNw2iM4R4XlcI) | [Je Reste Là](https://open.spotify.com/album/2C92d7Z4mLlKvy1aNaq5hz) | 2:52 |
 | 50 | [Les Euros](https://open.spotify.com/track/0bc8GhYvEAUDqMaqfCbIrC) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:51 |
 
-Snapshot ID: `AAAAAO5AiAziL//1X5gbM2MgTYmg2FkG`
+Snapshot ID: `AAAAAC+pRgbFfZWAK8R/P7LCoHhLBy4k`

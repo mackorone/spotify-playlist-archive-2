@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:3tgCaL6JQGlCnLmNyjs84B">Gaia Morelli</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6X4GKXwvYRDPVzIKYdCpil">Elisa Benetti</a> in cover.
 
-2,299 songs - 4 day 18 hr 37 min
+2,302 songs - 4 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Bambino](https://open.spotify.com/track/1NZ9jKK8nKjCxedhagWmSA) | [solodavide](https://open.spotify.com/artist/4kYIKaTeyaXcLLKvqwHK3N) | [Bambino](https://open.spotify.com/album/2LgBUgcJHAJ4A0l0EVz7Cs) | 3:00 | 2023-06-20 | 2024-02-22 |
 | [Bambola Voodoo](https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Bambola Voodoo](https://open.spotify.com/album/4YB2aocfThCA4TwEBCxoKK) | 2:32 | 2022-05-19 | 2022-06-24 |
 | [baobab](https://open.spotify.com/track/3u7xYZM188HCbHX9chFHU4) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [baobab](https://open.spotify.com/album/69M24IhGU4DWskgw7hVNiR) | 2:13 | 2022-06-02 | 2022-07-08 |
+| [Bar Cajoli](https://open.spotify.com/track/6CL6jyyvHxW7mre9adfgtC) | [Pau Amma](https://open.spotify.com/artist/43P8w5JaFlfW2uQkkPYL7Q) | [Bar Cajoli](https://open.spotify.com/album/3elrc5r85SaXETDWDVoGd8) | 3:45 | 2026-11-10 |  |
 | [Barman](https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Barman](https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez) | 2:30 | 2023-02-16 | 2023-02-25 |
 | [BASTA](https://open.spotify.com/track/656XTZS0FdVrLDBWQov6HC) | [SOPHIE](https://open.spotify.com/artist/46NtlO5LCUJ67d5lFsbSYo) | [BASTA](https://open.spotify.com/album/7DFmmXclmvTf9smfmDj0TZ) | 2:54 | 2022-10-14 | 2022-11-11 |
 | [bathroom stalls](https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [bathroom stalls](https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt) | 3:21 | 2026-07-28 | 2026-09-02 |
@@ -336,7 +337,7 @@
 | [cani di RAZZA](https://open.spotify.com/track/1lkJOZu1b3bsOckUGlIMUW) | [paolo.alneon](https://open.spotify.com/artist/4EOHC7Fi1B0kKa7g49tSQd) | [cani di RAZZA](https://open.spotify.com/album/1AxCyI7UxRzx6Qfs7LMlUl) | 2:38 | 2023-05-02 | 2023-05-31 |
 | [canibeyourfavorite](https://open.spotify.com/track/32JEdrheUfAVZ8noyF4g5M) | [Vanegas](https://open.spotify.com/artist/5PbGXiwDFSQSMmzQ3pP5Jj) | [canibeyourfavorite](https://open.spotify.com/album/2bZEL6VJTC8llHXrCavZQW) | 2:29 | 2025-09-24 | 2025-10-22 |
 | [Canta Napoli](https://open.spotify.com/track/0KtSpoxFSP41SH8uZs76Z4) | [KENAI](https://open.spotify.com/artist/2000Bt7BSRLXTB6RN3kmcZ) | [Canta Napoli](https://open.spotify.com/album/2bIDzCfjrbKpVDHAy96LEy) | 3:07 | 2025-12-09 | 2026-02-11 |
-| [CANTILENA](https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [CANTILENA](https://open.spotify.com/album/3ClaRhwmXv4gUZ3TWgtXsx) | 3:30 | 2026-09-08 |  |
+| [CANTILENA](https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [CANTILENA](https://open.spotify.com/album/3ClaRhwmXv4gUZ3TWgtXsx) | 3:30 | 2026-09-08 | 2026-11-11 |
 | [Cantonese](https://open.spotify.com/track/0i4wYxlCCvNOUv2uEzbfsl) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [obliquo.](https://open.spotify.com/album/1amH3uLLjZvKl9SGCBk04l) | 3:40 | 2022-09-11 | 2022-09-16 |
 | [Cantonese](https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [Cantonese](https://open.spotify.com/album/6oZtBvNPK6ezs0ZL7XOAwb) | 3:40 | 2022-01-06 | 2022-10-14 |
 | [canzone](https://open.spotify.com/track/6kdHVSxzJfi2Iru8ljlEYD) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [canzone](https://open.spotify.com/album/6SHiqPO9WVIKPdQMtTPAH7) | 2:47 | 2023-08-02 | 2023-10-04 |
@@ -507,6 +508,7 @@
 | [Crème Caramel](https://open.spotify.com/track/7mYXPPFWmDI3v5pYgBQuI1) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [Tutto in una notte](https://open.spotify.com/album/7HVowMgMsP38vSBkfmfCfs) | 1:54 | 2023-01-05 | 2023-01-20 |
 | [CTRL Z \(feat\. lica\)](https://open.spotify.com/track/2b4CreHZGsJeMYQAVLryDw) | [HERESIA](https://open.spotify.com/artist/3HG7cwBJ7k7m2JBfFo21tL), [Swan](https://open.spotify.com/artist/2N77Xi4sl4nsxDQ68bl3LE), [lica](https://open.spotify.com/artist/2qjCczhvzHWCP9VtAKYA0R) | [CTRL Z \(feat\. lica\)](https://open.spotify.com/album/6v4DZZ6a16W4euHYJnQt9E) | 2:49 | 2024-07-18 | 2025-02-19 |
 | [culto](https://open.spotify.com/track/5hzuGyUEY36VVs2Lslpvu5) | [bordo](https://open.spotify.com/artist/2YKCs0t17EKAEaIVKlwqpT) | [culto](https://open.spotify.com/album/3ytiuBOk17n3fF7J9vqFoo) | 2:52 | 2024-04-23 | 2024-05-24 |
+| [CUORE AUTOMA](https://open.spotify.com/track/4fqyBJXBc4hjnsLZr5B5Oy) | [Zoe](https://open.spotify.com/artist/17QBHdgLxgft4GXWLznQv4) | [CUORE AUTOMA](https://open.spotify.com/album/4xinG2c1Rns3dUSZvkxsDw) | 2:58 | 2026-11-10 |  |
 | [Cuore di plastica](https://open.spotify.com/track/60z4eK84ANB9UZZuAe2cNr) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Cuore di plastica](https://open.spotify.com/album/133fvM0w0I7MYBWpea2FnP) | 3:02 | 2024-07-18 | 2025-02-19 |
 | [cuore semplice](https://open.spotify.com/track/4zewAihOmFrEIuNmaKxQVc) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ), [Sandra Ru](https://open.spotify.com/artist/3Ff2nWl1jfgAEJEBIRfYN4) | [cuore semplice](https://open.spotify.com/album/6Ff59SWynPOrTbtwqDFYm5) | 3:28 | 2026-02-17 | 2026-03-18 |
 | [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 | 2022-03-24 | 2022-05-20 |
@@ -1522,6 +1524,7 @@
 | [Panaché](https://open.spotify.com/track/3FejuqsbLobgO49NE0BsQD) | [Neno](https://open.spotify.com/artist/2rlMq7b9igC6GGaXuo1LEK) | [Panaché](https://open.spotify.com/album/24quvZIjCyTc5HeQM5qSOF) | 2:41 | 2023-04-18 | 2023-05-18 |
 | [panchina](https://open.spotify.com/track/56NMqlBCqpN10K14MQgHDu) | [jordi lou](https://open.spotify.com/artist/1nSDSmSE8lSE5QVeyzF9dq) | [panchina](https://open.spotify.com/album/2y8D1F1d9EVHFIJibHDhDp) | 2:59 | 2023-10-31 | 2023-11-16 |
 | [Pandora](https://open.spotify.com/track/2U4CraX4Mfrm1bvIv9HPI4) | [CONSI](https://open.spotify.com/artist/0Pq8FvjlOce83Uz6sb8993), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [Pandora](https://open.spotify.com/album/7kIvBa2V4b1pJwiNh5B0kc) | 2:45 | 2024-02-21 | 2024-03-21 |
+| [Pane ed audacia](https://open.spotify.com/track/4prfcqk8hssfShMz4dUt1u) | [Elisa Benetti](https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil) | [Pane ed audacia](https://open.spotify.com/album/1sBeLZCys6fVYWAKi51gnm) | 1:58 | 2026-11-10 |  |
 | [Panico](https://open.spotify.com/track/5dkkhfCwsOJjXdhFLF4r1U) | [Brioches all'albicocca](https://open.spotify.com/artist/0a2gKlltawravSEqQRxRWE) | [Panico](https://open.spotify.com/album/3QZAYAhNCv9qFNk8UwmYVD) | 2:51 | 2025-07-22 | 2025-09-10 |
 | [Panico](https://open.spotify.com/track/6rqnZgaGwfCnFXiZN8Te5G) | [TYA](https://open.spotify.com/artist/2oE7omjCTxOVPH1NM9mOdH) | [Panico](https://open.spotify.com/album/3NltlH2P9UFleVZl5vgtrD) | 3:31 | 2024-06-18 | 2024-07-19 |
 | [Panico](https://open.spotify.com/track/1BQd5gva9HGhm4ouXObm1g) | [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx) | [Panico](https://open.spotify.com/album/6eSzlYoTrcTSS1KBYzEJH7) | 2:27 | 2023-04-04 | 2023-05-11 |
@@ -2201,7 +2204,7 @@
 | [Vado al mare](https://open.spotify.com/track/5BumRlkQ6buG15j8zCG4Q1) | [Levrieri](https://open.spotify.com/artist/2dVyfIjXTwGJ2ZxVyTvrCx) | [Vado al mare](https://open.spotify.com/album/0LBCW7eFOA6yqStgAGH20F) | 3:27 | 2024-02-21 | 2024-03-21 |
 | [Vado di matto](https://open.spotify.com/track/7w02ipvMH9jZfIK1vgp3Ce) | [allafineguglielmo](https://open.spotify.com/artist/3DuD9wAi6DoK2xPNpYPK30) | [Vado di matto](https://open.spotify.com/album/15BoKIdiiHreP31ncc4tbs) | 2:35 | 2023-05-02 | 2023-05-24 |
 | [VAI](https://open.spotify.com/track/7gOvyM0lngEeH3fWTsccj4) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [VAI](https://open.spotify.com/album/26PNNkpnqJ7Un82W5P3FTz) | 2:48 | 2025-06-03 | 2025-06-25 |
-| [Valentine's](https://open.spotify.com/track/3igolrukTRdK8or0pvm8pN) | [Yuma Birch](https://open.spotify.com/artist/3z7uHEYWbHqGBxoV7OAKfC) | [Valentine's](https://open.spotify.com/album/4Dy4etCPt96k6oBSEyz8tE) | 3:11 | 2026-09-08 |  |
+| [Valentine's](https://open.spotify.com/track/3igolrukTRdK8or0pvm8pN) | [Yuma Birch](https://open.spotify.com/artist/3z7uHEYWbHqGBxoV7OAKfC) | [Valentine's](https://open.spotify.com/album/4Dy4etCPt96k6oBSEyz8tE) | 3:11 | 2026-09-08 | 2026-11-11 |
 | [Valhalla](https://open.spotify.com/track/5tdUWLALLzFt180vBlT2su) | [Reminore](https://open.spotify.com/artist/0aHz7T2jUBp33N4FzdUBZF) | [Valhalla](https://open.spotify.com/album/3WfpXIDsb2tuKRiD1gbDKi) | 2:20 | 2022-07-29 | 2022-08-27 |
 | [VaLiGeTTa GiaLLa](https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [VaLiGeTTa GiaLLa](https://open.spotify.com/album/0qfK3MEYGMhm0sNm8urGeI) | 2:03 | 2024-08-21 | 2025-02-19 |
 | [VALIGIA](https://open.spotify.com/track/1bHutnZZo3i1kCKqvvrAnE) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [VALIGIA](https://open.spotify.com/album/38kTChpoaTKyvyTLnR0mcN) | 2:25 | 2022-03-03 | 2022-04-09 |

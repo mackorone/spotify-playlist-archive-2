@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 86142,
+  "num_followers": 86161,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJmxoWiZKDR2Czedb80WlPeaIZP",
+  "snapshot_id": "AAAAAFTiwXS7yDnxB1B27dCksAuPC4Gv",
   "tracks": [
     {
       "added_at": "2026-09-11 21:07:48",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Primer Paso",
-        "url": "https://open.spotify.com/album/3SbUOk7NQTSnCCGCyxKzsq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Disparo",
-          "url": "https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU"
-        }
-      ],
-      "duration_ms": 227379,
-      "name": "Directo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3OPwXK8RsSylbkQQgA5IRV"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Ni\u00e9game",
         "url": "https://open.spotify.com/album/15xRNUgyWm1hvDcYGT7mJB"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 163576,
       "name": "Ni\u00e9game",
       "url": "https://open.spotify.com/track/4stFQZDW8THC9osyyTCDwX"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "El Primer Paso",
+        "url": "https://open.spotify.com/album/3SbUOk7NQTSnCCGCyxKzsq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Disparo",
+          "url": "https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU"
+        }
+      ],
+      "duration_ms": 227379,
+      "name": "Directo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3OPwXK8RsSylbkQQgA5IRV"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Quilleco",
+          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
+        }
+      ],
+      "duration_ms": 229084,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "Qu\u00e9date con el",
         "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 238057,
       "name": "Asosegando Cachorras",
       "url": "https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Quilleco",
-          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
-        }
-      ],
-      "duration_ms": 229084,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "EN HONOR A NUESTRO HERMANO",
-        "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
-      },
-      "artists": [
-        {
-          "name": "Los Flores de Rucalhue",
-          "url": "https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf"
-        }
-      ],
-      "duration_ms": 258140,
-      "name": "Vuelvo a las Cantinas",
-      "url": "https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Camino al \u00c9xito",
         "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 211813,
       "name": "Los Vampiros",
       "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "EN HONOR A NUESTRO HERMANO",
+        "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
+      },
+      "artists": [
+        {
+          "name": "Los Flores de Rucalhue",
+          "url": "https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf"
+        }
+      ],
+      "duration_ms": 258140,
+      "name": "Vuelvo a las Cantinas",
+      "url": "https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Amor Salvaje",
-        "url": "https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        },
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 307966,
-      "name": "Amor Salvaje",
-      "url": "https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Soy Adicto a Ti",
         "url": "https://open.spotify.com/album/4tbMDw4jqlV2ENzdLz7Hid"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 262500,
       "name": "Soy Adicto a Ti",
       "url": "https://open.spotify.com/track/559VSAiv3rFTDrmkfv7nQd"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Amor Salvaje",
+        "url": "https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        },
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 307966,
+      "name": "Amor Salvaje",
+      "url": "https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU"
     }
   ],
   "unique_name": "Ranchera Chilena",

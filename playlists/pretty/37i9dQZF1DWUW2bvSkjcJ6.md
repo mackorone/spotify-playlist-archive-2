@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Slayyyter, JEREMIAS, Marlon Hoffstadt, JENNIE & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,216 likes - 73 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,133 likes - 73 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 72 | [Laissez\-Moi](https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv) | [Emma Kok](https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL) | [Laissez\-Moi](https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah) | 3:05 |
 | 73 | [Rends\-moi mes secondes](https://open.spotify.com/track/7Fib92j6rWWhyIkN8goIxg) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Re:Naissance Part\. 1](https://open.spotify.com/album/4WdMh8A2LAf4RATENEXu9a) | 2:31 |
 
-Snapshot ID: `AAAAAHmZucRs1BoEYisV8BsqbEi3RlUb`
+Snapshot ID: `AAAAAOK0cYKyzgdQxRmznMsYneuXiKy4`

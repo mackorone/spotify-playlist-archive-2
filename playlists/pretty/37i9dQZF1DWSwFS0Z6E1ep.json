@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 313380,
+  "num_followers": 313417,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxvAKAq7o56W6sOr4v3y5m55Zwm",
+  "snapshot_id": "AAAAAJV4JKw+/8U/L4Yg6iHXHW2D1xo6",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 131693,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "What'd I Say",
         "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 307053,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131693,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 160226,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Rama Lama Ding Dong EP",
-        "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
-      },
-      "artists": [
-        {
-          "name": "The Edsels",
-          "url": "https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Rama Lama Ding Dong (Original version 1958)",
-      "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Buddy Knox",
         "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 135173,
       "name": "Party Doll",
       "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Rama Lama Ding Dong EP",
+        "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
+      },
+      "artists": [
+        {
+          "name": "The Edsels",
+          "url": "https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Rama Lama Ding Dong (Original version 1958)",
+      "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Gonna Romp and Stomp / Bad Girl",
-        "url": "https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71"
-      },
-      "artists": [
-        {
-          "name": "Slim Rhodes",
-          "url": "https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj"
-        }
-      ],
-      "duration_ms": 138374,
-      "name": "Gonna Romp and Stomp",
-      "url": "https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly Portrait",
         "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ray Charles & Friends",
         "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 386560,
       "name": "What'd I Say",
       "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Gonna Romp and Stomp / Bad Girl",
+        "url": "https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71"
+      },
+      "artists": [
+        {
+          "name": "Slim Rhodes",
+          "url": "https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj"
+        }
+      ],
+      "duration_ms": 138374,
+      "name": "Gonna Romp and Stomp",
+      "url": "https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm"
     },
     {
       "added_at": "2022-06-07 05:25:13",

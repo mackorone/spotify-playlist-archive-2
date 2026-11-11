@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 461112,
+  "num_followers": 461124,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQk+zuixFo8o85A4xDX72LlYuSO",
+  "snapshot_id": "AAAAAMWJpKIB8A4HkE9gMBtM5Tx9VUZh",
   "tracks": [
     {
       "added_at": "2026-10-02 06:00:16",
@@ -159,22 +159,18 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Malas Ma\u00f1as",
-        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
       },
       "artists": [
         {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Malas Ma\u00f1as",
-      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
+      "duration_ms": 253884,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -223,18 +219,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
       },
       "artists": [
         {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 253884,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "Vampiresa",
+        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
+        }
+      ],
+      "duration_ms": 298353,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 352480,
       "name": "El Reo Ausente",
       "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "Vampiresa",
-        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
-        }
-      ],
-      "duration_ms": 298353,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
     },
     {
       "added_at": "2026-10-02 06:00:16",

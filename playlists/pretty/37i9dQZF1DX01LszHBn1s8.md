@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > be my own housewife!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,275 likes - 88 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,259 likes - 88 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 87 | [RAKET](https://open.spotify.com/track/43oV0kwsqxyfR1psOUR6QK) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [RAKET](https://open.spotify.com/album/3pJeaqxhd9G3RC2QHTOXji) | 2:45 |
 | 88 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 
-Snapshot ID: `AAAAAFcG4dnhBtvC1+adEjnpG15tbTOe`
+Snapshot ID: `AAAAAIQKhIpBggAIbGo308wBjaGkQeTX`

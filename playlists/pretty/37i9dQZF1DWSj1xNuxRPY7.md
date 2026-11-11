@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj1xNuxRPY7.md) - [plain]
 
 > Enjoy BIGBANG's setlist from the XX : COSMOS tour! \(빅뱅의  XX : COSMOS 월드 투어 셋리스트를 지금 바로 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,323 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,402 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj1xNuxRPY7.md) - [plain]
 | 33 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 34 | [LAST DANCE](https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:39 |
 
-Snapshot ID: `AAAAAP2n+a9q6TJSbrDj5lZ+GowmN7Ur`
+Snapshot ID: `AAAAAM4EUThJy4CG2xPqBjrWgvcBhiiC`

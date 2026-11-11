@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Jashim
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,908 likes - 96 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,927 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 95 | [Maybe](https://open.spotify.com/track/0Od0JSjrcDmahzUiB5QepD) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Maybe](https://open.spotify.com/album/3EmDGlGCYEWrs05H0JJ4gO) | 5:17 |
 | 96 | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 |
 
-Snapshot ID: `AAAAAOAt4JKCoHowu0ZM7aNxeEEvBwyH`
+Snapshot ID: `AAAAANo0u/g6b4BNUdVy3seV9YScCwA5`

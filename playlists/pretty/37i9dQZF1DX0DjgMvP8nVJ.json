@@ -1,12 +1,12 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 35722,
+  "num_followers": 35739,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMR/m3YcopC7EMgjwB+M6Yq2+uWf",
+  "snapshot_id": "AAAAACW2i6WD7iorwDYz6WdJh1iAKdkI",
   "tracks": [
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Halloweenie I-VI",
-        "url": "https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "Halloweenie VI: Possess Me",
-      "url": "https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Shea Butter Baby",
         "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 146914,
       "name": "BMO",
       "url": "https://open.spotify.com/track/7Ffgp7DIow5wECYQyzEiTq"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Halloweenie I-VI",
+        "url": "https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 177760,
+      "name": "Halloweenie VI: Possess Me",
+      "url": "https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU"
     },
     {
       "added_at": "2026-02-13 19:31:47",

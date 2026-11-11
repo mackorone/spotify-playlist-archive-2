@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Mari Fernandez, Eduardinho dos Teclados",
-  "num_followers": 765838,
+  "num_followers": 765875,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHyFlDBSS2tYA98hh/iBZ1fduaI",
+  "snapshot_id": "AAAAAA7rcuu+d/Y29s8P+sVEU43PaDii",
   "tracks": [
     {
       "added_at": "2026-11-06 03:00:16",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-11-06 03:00:16",
       "album": {
+        "name": "A Mais Amada Do Brasil",
+        "url": "https://open.spotify.com/album/5QRsFSBXTxPSIINOpzuSdY"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "A Mais Amada Do Brasil",
+      "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
+    },
+    {
+      "added_at": "2026-11-06 03:00:16",
+      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 179039,
       "name": "Eu Vou na Sua Casa",
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
-    },
-    {
-      "added_at": "2026-11-06 03:00:16",
-      "album": {
-        "name": "A Mais Amada Do Brasil",
-        "url": "https://open.spotify.com/album/5QRsFSBXTxPSIINOpzuSdY"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "A Mais Amada Do Brasil",
-      "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
     },
     {
       "added_at": "2026-11-06 03:00:16",
@@ -611,30 +611,6 @@
     {
       "added_at": "2026-11-06 03:00:16",
       "album": {
-        "name": "Na Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE"
-      },
-      "artists": [
-        {
-          "name": "Eric Land",
-          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        }
-      ],
-      "duration_ms": 114044,
-      "name": "Na Imagina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY"
-    },
-    {
-      "added_at": "2026-11-06 03:00:16",
-      "album": {
         "name": "Me Apaixonei Nessa Morena",
         "url": "https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 171480,
       "name": "Me Apaixonei Nessa Morena",
       "url": "https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O"
+    },
+    {
+      "added_at": "2026-11-06 03:00:16",
+      "album": {
+        "name": "Na Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE"
+      },
+      "artists": [
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        }
+      ],
+      "duration_ms": 114044,
+      "name": "Na Imagina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY"
     },
     {
       "added_at": "2026-11-06 03:00:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-11-06 03:00:16",
       "album": {
-        "name": "Bregu\u00edssimo (Vol.1)",
-        "url": "https://open.spotify.com/album/0Bqf7qn2GytcYPRZCghWiS"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "O Rosto E O Resto",
-      "url": "https://open.spotify.com/track/4rxwbN8v8OebKEBQIZzOVY"
-    },
-    {
-      "added_at": "2026-11-06 03:00:16",
-      "album": {
         "name": "N\u00e3o Vou Te Bloquear",
         "url": "https://open.spotify.com/album/6IZebaqHqHmeL0uoapPQQB"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 144642,
       "name": "N\u00e3o Vou Te Bloquear",
       "url": "https://open.spotify.com/track/6DocVKVk9h2TXdd1gdpfjK"
+    },
+    {
+      "added_at": "2026-11-06 03:00:16",
+      "album": {
+        "name": "Bregu\u00edssimo (Vol.1)",
+        "url": "https://open.spotify.com/album/0Bqf7qn2GytcYPRZCghWiS"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "O Rosto E O Resto",
+      "url": "https://open.spotify.com/track/4rxwbN8v8OebKEBQIZzOVY"
     },
     {
       "added_at": "2026-11-06 03:00:16",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-11-06 03:00:16",
       "album": {
-        "name": "Bregu\u00edssimo",
-        "url": "https://open.spotify.com/album/0MvbkHT4M8vWtS5kS2C9Tt"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 154165,
-      "name": "Baby Cad\u00ea Voc\u00ea",
-      "url": "https://open.spotify.com/track/7pJE5wSLgS6b1RwaMRuUTW"
-    },
-    {
-      "added_at": "2026-11-06 03:00:16",
-      "album": {
         "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 1)",
         "url": "https://open.spotify.com/album/3SqKJaLr8HxJfC3UdDR5ie"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 160223,
       "name": "Marquinha De Fitinha - Ao Vivo",
       "url": "https://open.spotify.com/track/0TBwd8gAbZV8uPo1Ub6Ymb"
+    },
+    {
+      "added_at": "2026-11-06 03:00:16",
+      "album": {
+        "name": "Bregu\u00edssimo",
+        "url": "https://open.spotify.com/album/0MvbkHT4M8vWtS5kS2C9Tt"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 154165,
+      "name": "Baby Cad\u00ea Voc\u00ea",
+      "url": "https://open.spotify.com/track/7pJE5wSLgS6b1RwaMRuUTW"
     },
     {
       "added_at": "2026-11-06 03:00:16",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2026-11-06 03:00:16",
       "album": {
-        "name": "Esse \u00e9 o Meu Forr\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3crirzaSmwNGPurObvejJM"
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/4HylpCvsT1Lxp7AbT7a1XZ"
       },
       "artists": [
         {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+          "name": "Leo Marques",
+          "url": "https://open.spotify.com/artist/5Jv18wWPLUN7h82hWaF45I"
         },
         {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 169891,
-      "name": "Se N\u00e3o Valorizar (Umbrella) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xe8atEzhJ9xOMCGq5CV5c"
+      "duration_ms": 157153,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/03o3R6UWjz6daixWmvhzoB"
     },
     {
       "added_at": "2026-11-06 03:00:16",
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2026-11-06 03:00:16",
       "album": {
-        "name": "Proposta",
-        "url": "https://open.spotify.com/album/4HylpCvsT1Lxp7AbT7a1XZ"
+        "name": "Esse \u00e9 o Meu Forr\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3crirzaSmwNGPurObvejJM"
       },
       "artists": [
         {
-          "name": "Leo Marques",
-          "url": "https://open.spotify.com/artist/5Jv18wWPLUN7h82hWaF45I"
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
         },
         {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
         }
       ],
-      "duration_ms": 157153,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/03o3R6UWjz6daixWmvhzoB"
+      "duration_ms": 169891,
+      "name": "Se N\u00e3o Valorizar (Umbrella) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xe8atEzhJ9xOMCGq5CV5c"
     },
     {
       "added_at": "2026-11-06 03:00:16",

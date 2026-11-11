@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Klisman
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,486 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,491 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
 | 50 | [garota gostosa da po\#$@](https://open.spotify.com/track/1vKBhJ5wQhwnPQDr41wy09) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [F.A.Q\. LUV](https://open.spotify.com/album/63jNMv0PaZWEPzRcVhzdY5) | 2:25 |
 
-Snapshot ID: `AAAAAAyWnGtsaJxpBE7md+e4prSaOAzK`
+Snapshot ID: `AAAAAAj2OX7VUizLTQ9mfP3KsrLIDvSy`

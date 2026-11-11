@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,920 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,917 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zóio De Lula](https://open.spotify.com/track/0AsfpL8bzbmEyJsfbPPYnj) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Preço Curto, Prazo Longo](https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu) | 4:12 |
 | 2 | [Deus Existe](https://open.spotify.com/track/7mxojgcpmGboRM1TH1uzmQ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 3:15 |
-| 3 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
-| 4 | [Liberdade Pra Dentro da Cabeça \- Ao Vivo](https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:13 |
-| 5 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
-| 6 | [Telegrama](https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Telegrama](https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ) | 3:39 |
+| 3 | [Liberdade Pra Dentro da Cabeça \- Ao Vivo](https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:13 |
+| 4 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
+| 5 | [Telegrama](https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Telegrama](https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ) | 3:39 |
+| 6 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
 | 7 | [Vestido De Seda](https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Origem](https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE) | 2:33 |
 | 8 | [Na Calada da Tarde](https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Na Calada da Tarde](https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v) | 3:15 |
 | 9 | [MELÔ DE RECOMEÇO](https://open.spotify.com/track/3rPZ2GgTLdkcVbShwvEWhH) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [Adnon](https://open.spotify.com/artist/6S2YVwiwLlUiSWOMhBaJBf), [Dicy](https://open.spotify.com/artist/42PSZ6x5ZdbZEuFPgLscTQ), [SEU GARRÊ](https://open.spotify.com/artist/4lGZgtKyjqQiMErnzjN6Y5) | [CONEXÃO JAMAICA BRASILEIRA, VOL\. 1](https://open.spotify.com/album/5EhKNu35AyDVQBxCC4Tq2q) | 3:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 40 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 |
 | 41 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 |
 | 42 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
-| 43 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
-| 44 | [Pura Ingratidão \- Ao Vivo](https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Pura Ingratidão \(Ao Vivo\)](https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf) | 4:18 |
+| 43 | [Pura Ingratidão \- Ao Vivo](https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Pura Ingratidão \(Ao Vivo\)](https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf) | 4:18 |
+| 44 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
 | 45 | [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 |
 | 46 | [Aeroporto \- Acústico](https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Aeroporto \(Acústico\)](https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0) | 3:40 |
 | 47 | [Ficar de Leve](https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER](https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 74 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 |
 | 75 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 
-Snapshot ID: `AAAAADsJJKPew/CMpS0jDdBxNjXoRpSy`
+Snapshot ID: `AAAAABy0IZwtjNOWKX4heIa7ZDkSoXHp`

@@ -9977,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7DirpFpQodbIJ7NgZBpfoD"
+      },
+      "artists": [
+        {
+          "name": "lone tide",
+          "url": "https://open.spotify.com/artist/5pGUPcY0TlZkIySLIbsgWQ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4PKZ5w8rZun8gTkZcjbJfj"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Malou & Yuna)",
         "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
@@ -12300,6 +12318,24 @@
     {
       "album": {
         "name": "Holding On",
+        "url": "https://open.spotify.com/album/5WHPDoeIWsEIrrYdkHQ1p8"
+      },
+      "artists": [
+        {
+          "name": "lone tide",
+          "url": "https://open.spotify.com/artist/5pGUPcY0TlZkIySLIbsgWQ"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/1yJGneOWUUxceEhImic5lM"
+    },
+    {
+      "album": {
+        "name": "Holding On",
         "url": "https://open.spotify.com/album/0z5dbKBLmLJX6SOXYGEhVQ"
       },
       "artists": [
@@ -12454,7 +12490,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 194531,
       "name": "Home",
       "url": "https://open.spotify.com/track/5nQZadueoD4qaWdpXazE2f"
@@ -14106,7 +14142,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 161258,
       "name": "If I Imagine",
       "url": "https://open.spotify.com/track/4m9JsyxusOEq2YM9ywoI4k"
@@ -14432,6 +14468,24 @@
       "duration_ms": 161511,
       "name": "In My Life (Oh Ayah)",
       "url": "https://open.spotify.com/track/1LzvTGwdQEnAy9OexQ3TYs"
+    },
+    {
+      "album": {
+        "name": "In My World",
+        "url": "https://open.spotify.com/album/6kEF8s66AoHNEr7tKoQwvB"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "In My World",
+      "url": "https://open.spotify.com/track/221VfGaZLp7kWIcpRbNu9c"
     },
     {
       "album": {
@@ -19026,6 +19080,28 @@
     {
       "album": {
         "name": "Man I Need",
+        "url": "https://open.spotify.com/album/3AzCHgNmiTO8gbe1dZllza"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/75q5il7DsoSUaE8R2MxyZh"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177589,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/3WYFB4fGz8vhTiX65qljqy"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
         "url": "https://open.spotify.com/album/5bjCkq7l1pLJE8J4NPV89B"
       },
       "artists": [
@@ -21478,7 +21554,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 130560,
       "name": "Not A Burden",
       "url": "https://open.spotify.com/track/63Wtzbg8jDMFYF93UyLMQi"
@@ -33104,7 +33180,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 132960,
       "name": "Wherever U Are",
       "url": "https://open.spotify.com/track/3hPQjeaLyBE0Oiz0gBRaiK"

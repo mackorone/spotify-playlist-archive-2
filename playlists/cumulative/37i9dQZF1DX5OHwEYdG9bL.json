@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "S.W.I.S.H.",
+        "url": "https://open.spotify.com/album/0ulLmM5roN7ywJVZblQasC"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165948,
+      "name": "Bananas",
+      "url": "https://open.spotify.com/track/31Gndi8mnwk7l2iVp2B82c"
+    },
+    {
+      "album": {
         "name": "J-POP REMAKE Vol.1",
         "url": "https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu"
       },

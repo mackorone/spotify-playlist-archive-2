@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > The ultimate wedding music mix for your ceremony, first dance &amp; reception\. Experience timeless wedding love ballads and upbeat wedding songs featuring Ed Sheeran, Taylor Swift, John Legend &amp; Dan + Shay\. Your essential wedding playlist\. Updated weekly.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 206,834 likes - 151 songs - 9 hr 6 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 206,844 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

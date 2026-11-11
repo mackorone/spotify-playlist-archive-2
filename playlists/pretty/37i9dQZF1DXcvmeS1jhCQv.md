@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 Cover: Travy
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,207 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,209 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 98 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 |
 | 99 | [Choose or Lose](https://open.spotify.com/track/5jUIGwxb8jznbYXL64nIX0) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Choose or Lose](https://open.spotify.com/album/0hmDWOMPU5YSDLa0IpzUs2) | 2:57 |
 
-Snapshot ID: `AAAAAIFl96x6xEcEAFGeLO8RxKs/MobM`
+Snapshot ID: `AAAAAJy0CMAOIwjf+15z5trnq+E9TVQs`

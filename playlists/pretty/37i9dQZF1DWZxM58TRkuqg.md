@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Lafa Pratomo, Isyana Sarasvati, Jason Ranti
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,440 likes - 103 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,403 likes - 103 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 102 | [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 |
 | 103 | [Dunia Imajiner](https://open.spotify.com/track/3UV9yO6XiZTOvc7uie3iAv) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Dunia dan Seisinya](https://open.spotify.com/album/6trwcUAKmtcddQWTxCBA1D) | 2:52 |
 
-Snapshot ID: `AAAAAEcMWXtuCqRjl9VkUmQbioiyM63m`
+Snapshot ID: `AAAAAC2tpe8M+Y2aiuAx7vjGdSU2E9vZ`

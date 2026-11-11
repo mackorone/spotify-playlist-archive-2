@@ -4,7 +4,7 @@
 
 > 
 
-10 songs - 29 min 32 sec
+10 songs - 30 min 24 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Good Life Freestyle](https://open.spotify.com/track/2VKrf77Qb440wDov39amjL) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [Chlorine](https://open.spotify.com/album/0wkqM2SSCAJyUqx6jv4Jz4) | 2:50 | 2024-08-04 |  |
 | [I Fucked in Heaven](https://open.spotify.com/track/53sOlx6jNIRP45AyuWXYd8) | [Mom](https://open.spotify.com/artist/731QcUEF0fhLAl6i09LhtR) | [4](https://open.spotify.com/album/0qsvJlyUyoKBeV5DxsjxBC) | 1:05 | 2024-08-04 |  |
 | [I Won't Let You Feel Alone Again](https://open.spotify.com/track/5QOAoupO5zwL64wBsMp1bT) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [I Won't Let You Feel Alone Again](https://open.spotify.com/album/3jDb4fsh4PHfEkPEjYRCC6) | 2:28 | 2024-08-04 |  |
-| [MIDWESTEMO2 \(feat\. Lunamatic, underscores & Yung Skrrt \)](https://open.spotify.com/track/5rrKJSIv7QygIeUIrLToiq) | [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze), [Lunamatic](https://open.spotify.com/artist/77DTuUk6FabnQ9gB0e91qT), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | ["things happen, it's okay!"](https://open.spotify.com/album/2DR5oiYW62VpEQBRLDf8aA) | 2:33 | 2024-08-04 |  |
+| [stuck! \(feat\. Valentine, underscores & Knapsack\)](https://open.spotify.com/track/5rrKJSIv7QygIeUIrLToiq) | [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze), [VALENTINE](https://open.spotify.com/artist/1oSgUcr4PGbytOf7G7Y4DZ), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | ["things happen, it's okay!"](https://open.spotify.com/album/2DR5oiYW62VpEQBRLDf8aA) | 3:25 | 2024-08-04 |  |
 | [this is a song for my next album](https://open.spotify.com/track/6SZ1sg6dP4Lz3VAwhnxfLy) | [Bill Wurtz](https://open.spotify.com/artist/78cT0dM5Ivm722EP2sgfDh) | [this is a song for my next album](https://open.spotify.com/album/44LcjUvb4c6u0HYlvxRlrl) | 0:34 | 2024-08-04 |  |
 | [White Woman’s Instagram](https://open.spotify.com/track/20bNmfHntXFvYInCEQZYfp) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 4:00 | 2024-08-04 |  |
 

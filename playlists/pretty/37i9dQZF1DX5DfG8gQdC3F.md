@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Jessie Reyez, Lil Baby, Rex Orange County, Slayyyter, Jack Harlow, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,588 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,542 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Heat](https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [N.Y\. Baby](https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc) | 3:28 |
 | 100 | [Hold On](https://open.spotify.com/track/5PQSgQWXWVvYQwYUvj3x1u) | [Sechile Sedare](https://open.spotify.com/artist/07rhvDtY5ALWLpjY8u1EIM) | [Sechile Sedare](https://open.spotify.com/album/2fBwASfyLX9yITs8T5rYNa) | 4:06 |
 
-Snapshot ID: `AAAAACx7DAJq7G92ZTltMdEdQTqkIcAp`
+Snapshot ID: `AAAAAOaOjjwN1mWGUWdwv5pUP6IjOuKd`

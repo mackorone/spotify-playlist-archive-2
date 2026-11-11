@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TWS
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,167 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,218 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Call My Name](https://open.spotify.com/track/2CQhZ1HZd2GrfJKxe1aW9Z) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TO US](https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3) | 2:38 |
-| 2 | [SUIATSU](https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SUIATSU](https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3) | 2:49 |
+| 1 | [SUIATSU](https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SUIATSU](https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3) | 2:49 |
+| 2 | [Bananas](https://open.spotify.com/track/3pSMRG8QhKamtZjdHYe84G) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [S.W.I.S.H.](https://open.spotify.com/album/5eKFOQWdmVyj2z4KsKKGnK) | 2:45 |
 | 3 | [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 |
 | 4 | [Boogie Woogie](https://open.spotify.com/track/25aPAxdjuY65ndMA0Q4O8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM AFTER DREAM](https://open.spotify.com/album/4ZOny2sfAeGeHixBa8UXcw) | 3:12 |
-| 5 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 |
-| 6 | [NOW U KNOW](https://open.spotify.com/track/1ZQwDMEIBQaKGP6mpElU4i) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:4U](https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x) | 2:58 |
-| 7 | [SHOCK](https://open.spotify.com/track/2VOnT1r8U0L4z2JkoD36of) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SHOCK](https://open.spotify.com/album/4u13jebmonPQm8jCSo0NcH) | 2:51 |
-| 8 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
-| 9 | [Masterpiece](https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Masterpiece](https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6) | 2:49 |
+| 5 | [Call My Name](https://open.spotify.com/track/2CQhZ1HZd2GrfJKxe1aW9Z) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TO US](https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3) | 2:38 |
+| 6 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 |
+| 7 | [NOW U KNOW](https://open.spotify.com/track/1ZQwDMEIBQaKGP6mpElU4i) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:4U](https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x) | 2:58 |
+| 8 | [SHOCK](https://open.spotify.com/track/2VOnT1r8U0L4z2JkoD36of) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SHOCK](https://open.spotify.com/album/4u13jebmonPQm8jCSo0NcH) | 2:51 |
+| 9 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
 | 10 | [Insomnia](https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Insomnia](https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1) | 3:14 |
 | 11 | [French Kissing](https://open.spotify.com/track/3d23jzQ4KGiEBmZ7aw8Q8M) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 02: Attraction](https://open.spotify.com/album/4sZ7n2Ym0dtwhjIXHgWaoo) | 3:10 |
 | 12 | [Dancing in the Dark](https://open.spotify.com/track/7JaklRGtjDrRBtJHOSIEI4) | [A2O SOUL](https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [SUPERSTAR](https://open.spotify.com/album/6yXPYq0Iz38xI9BMByyMV4) | 2:48 |
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 17 | [Star Trace](https://open.spotify.com/track/1fI7jgWKJ41xELohFnVFp7) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu) | 2:59 |
 | 18 | [CRASH](https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S) | 2:52 |
 | 19 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
-| 20 | [BLOW UP](https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [BLOW UP](https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS) | 2:45 |
-| 21 | [I SPY](https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [I SPY \- The 4th Mini Album](https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN) | 3:05 |
-| 22 | [NAGARI](https://open.spotify.com/track/5TZZ7ZO7loxqV71zrFdPZ8) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [2ND EP \[NA\-GARI\]](https://open.spotify.com/album/5DFiaUhKJqek0JmM73l4S4) | 2:41 |
-| 23 | [12 o'clock](https://open.spotify.com/track/1dp1GI9YcKDoxrKBpp0u9F) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [JOSHUA](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0) | [DREAMSCAPE](https://open.spotify.com/album/5jD5t9PK0GH5wvJ4vdk0u4) | 2:28 |
-| 24 | [Open Your Eyes](https://open.spotify.com/track/4UiSq0wCiMwKCQE7TYIpWI) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [256th Note](https://open.spotify.com/album/4gn5qA9UixpTwnP9Q0XKLW) | 2:59 |
-| 25 | [BiiiG](https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BiiiG](https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq) | 2:44 |
-| 26 | [GENTO \(with Kento Nakajima\)](https://open.spotify.com/track/3iuWqNtwjF68TidP0b2msy) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [GENTO \(with Kento Nakajima\)](https://open.spotify.com/album/2DcLNPaQQlUP9OHv6wdyVi) | 3:52 |
-| 27 | [SAUCIN'](https://open.spotify.com/track/6lnz2DPCLtHuIokxLfYW8n) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [SAUCIN'](https://open.spotify.com/album/7CtLf0D310EZZTgFtyTgAF) | 2:43 |
-| 28 | [DIENAMITE](https://open.spotify.com/track/1WMWIPbOD0Nts5SmrKlQyr) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ROUTE ZERO : The CALLING](https://open.spotify.com/album/0pOfuE2ri9R4ueXHr4DUwD) | 3:24 |
-| 29 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 |
-| 30 | [LOOK AT MA](https://open.spotify.com/track/2yIgTmJmIxWbugAFq6lCQi) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [on: our noise](https://open.spotify.com/album/55lpUrW77lQHwzZVUCKx58) | 2:33 |
-| 31 | [Slam Dunk](https://open.spotify.com/track/058QqVDBJobbFVEsXg0VzK) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Slam Dunk](https://open.spotify.com/album/3bpcCsZ6WTuZPo7YRDbBWc) | 2:45 |
-| 32 | [RUN](https://open.spotify.com/track/00smZS7JjMiUMI0hw0KvTs) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [RUN](https://open.spotify.com/album/7jKeYDo31RwFTmM8qmKmLp) | 2:44 |
+| 20 | [MADE YOU LOOK](https://open.spotify.com/track/6FaUDkPj186UyXgUifA5CK) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W) | [OFF script](https://open.spotify.com/album/11L64yIaPthqZcvAglNqGY) | 2:49 |
+| 21 | [BLOW UP](https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [BLOW UP](https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS) | 2:45 |
+| 22 | [I SPY](https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [I SPY \- The 4th Mini Album](https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN) | 3:05 |
+| 23 | [NAGARI](https://open.spotify.com/track/5TZZ7ZO7loxqV71zrFdPZ8) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [2ND EP \[NA\-GARI\]](https://open.spotify.com/album/5DFiaUhKJqek0JmM73l4S4) | 2:41 |
+| 24 | [12 o'clock](https://open.spotify.com/track/1dp1GI9YcKDoxrKBpp0u9F) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [JOSHUA](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0) | [DREAMSCAPE](https://open.spotify.com/album/5jD5t9PK0GH5wvJ4vdk0u4) | 2:28 |
+| 25 | [Open Your Eyes](https://open.spotify.com/track/4UiSq0wCiMwKCQE7TYIpWI) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [256th Note](https://open.spotify.com/album/4gn5qA9UixpTwnP9Q0XKLW) | 2:59 |
+| 26 | [BiiiG](https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BiiiG](https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq) | 2:44 |
+| 27 | [GENTO \(with Kento Nakajima\)](https://open.spotify.com/track/3iuWqNtwjF68TidP0b2msy) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [GENTO \(with Kento Nakajima\)](https://open.spotify.com/album/2DcLNPaQQlUP9OHv6wdyVi) | 3:52 |
+| 28 | [SAUCIN'](https://open.spotify.com/track/6lnz2DPCLtHuIokxLfYW8n) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [SAUCIN'](https://open.spotify.com/album/7CtLf0D310EZZTgFtyTgAF) | 2:43 |
+| 29 | [DIENAMITE](https://open.spotify.com/track/1WMWIPbOD0Nts5SmrKlQyr) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ROUTE ZERO : The CALLING](https://open.spotify.com/album/0pOfuE2ri9R4ueXHr4DUwD) | 3:24 |
+| 30 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 |
+| 31 | [LOOK AT MA](https://open.spotify.com/track/2yIgTmJmIxWbugAFq6lCQi) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [on: our noise](https://open.spotify.com/album/55lpUrW77lQHwzZVUCKx58) | 2:33 |
+| 32 | [Slam Dunk](https://open.spotify.com/track/058QqVDBJobbFVEsXg0VzK) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Slam Dunk](https://open.spotify.com/album/3bpcCsZ6WTuZPo7YRDbBWc) | 2:45 |
 | 33 | [Illusion](https://open.spotify.com/track/6BWxQgYLrm70Vo6XDsMONU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Illusion](https://open.spotify.com/album/7IVdc3CwCG2eQn4q8L8I3O) | 2:37 |
 | 34 | [DIGITAL GIRL](https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:19 |
 | 35 | [Fearless](https://open.spotify.com/track/678sads3sdt8tInJEM6AYv) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Fearless](https://open.spotify.com/album/3VVF6lIpwTZ8iEYcN0PF5u) | 2:53 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 52 | [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 |
 | 53 | [Obsessed with Youth](https://open.spotify.com/track/3UZ9LgHanJWsSQU1uQvrG6) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [IMPULSE](https://open.spotify.com/album/4NWAatVPLzAD66q90vbPo8) | 3:15 |
 | 54 | [恋GAME](https://open.spotify.com/track/0Z80ICVyDXJKeizvba6hFX) | [KO1KEYZ](https://open.spotify.com/artist/7EuQkJNmjEkhV4TdeHNFEc) | [恋GAME](https://open.spotify.com/album/3X3p652QjlXItH7p4NCL4i) | 3:12 |
-| 55 | [Ridin′ \(CAN YOU HEAR THAT\)](https://open.spotify.com/track/14vIZxeOoOinZ0Xg1iL2RQ) | [MODYSSEY](https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q) | [2.Multitude: How We Bloom](https://open.spotify.com/album/5bep5dOZ7SYYp7KI2jUFqe) | 3:07 |
-| 56 | [EMP](https://open.spotify.com/track/19ZIMpiDTdEy8EUUOvEHxS) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W) | [EMP Mixtape Vol.1: We the Extra](https://open.spotify.com/album/0BKSqaWSoP9rEPQZTE1gxA) | 3:22 |
+| 55 | [KNT \(君の特別\) Kimi no Tokubetsu](https://open.spotify.com/track/5LbG1XXFyuCUmnmTL1jOwH) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [KNT \(君の特別\) Kimi no Tokubetsu](https://open.spotify.com/album/6cxImWngCP8I4cm5ghTXNc) | 3:38 |
+| 56 | [Ridin′ \(CAN YOU HEAR THAT\)](https://open.spotify.com/track/14vIZxeOoOinZ0Xg1iL2RQ) | [MODYSSEY](https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q) | [2.Multitude: How We Bloom](https://open.spotify.com/album/5bep5dOZ7SYYp7KI2jUFqe) | 3:07 |
 | 57 | [BOYFRIEND](https://open.spotify.com/track/0Yyh9XpPntsMhbJcC80VfH) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [BOYFRIEND](https://open.spotify.com/album/20HcvlMoE3Y75MEkG7kATP) | 2:31 |
 | 58 | [Coward](https://open.spotify.com/track/3GzOt9wB6ccqv6tgpPPSD9) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Coward](https://open.spotify.com/album/4ogA5zxRpWGu1tcjvzEY2v) | 3:32 |
 | 59 | [MONEYMONEYMONEY](https://open.spotify.com/track/0soE3o6dUx6YiSzpUkfyBE) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN\_playextended](https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj) | 2:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
 | 80 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
 
-Snapshot ID: `AAAAAOruSq01oEn/iaQNwWD6eQtwfAid`
+Snapshot ID: `AAAAAPInx6L2vn/WFyoGEUG/p5m67sSU`

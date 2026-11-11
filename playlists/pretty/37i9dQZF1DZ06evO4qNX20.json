@@ -1,6 +1,6 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 350676,
+  "num_followers": 350704,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
@@ -907,18 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gallo de Sinaloa",
-        "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 207866,
-      "name": "El Gallo de Sinaloa",
-      "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
+      "duration_ms": 179776,
+      "name": "Rafael Villarreal",
+      "url": "https://open.spotify.com/track/6iDDzH1UF27jeWm9htRH1k"
     }
   ],
   "unique_name": "This Is Chalino Sanchez",

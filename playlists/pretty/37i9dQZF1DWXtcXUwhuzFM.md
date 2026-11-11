@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Isac Elliot & Mikael Gabriel, Sonia & Sointu Borg, Diogi..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,117 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,101 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 99 | [Ride the Lion](https://open.spotify.com/track/7vhhm3HcvenNctpvANSWq2) | [King Satan](https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW) | [Black Magick Abraxas](https://open.spotify.com/album/5apUVbj9UjmwmxDscnXIIC) | 2:42 |
 | 100 | [don't be fooled](https://open.spotify.com/track/6U2dmcIOpqRHPIW2UeqXb3) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [UNWANTED](https://open.spotify.com/album/25RVSt8ZWQSJJ83j9RvfxL) | 1:54 |
 
-Snapshot ID: `AAAAAGnTmdIy13WSnieJnjP6d+jberUO`
+Snapshot ID: `AAAAAJ6eDIvRl1e2zYqfHuNXx0IoSnEk`

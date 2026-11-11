@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Glenn Samuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,970 likes - 102 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,943 likes - 102 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 101 | [Setidaknya Kita Selamat](https://open.spotify.com/track/659GJrtXBYW1P1t3yW0KnZ) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Setidaknya Kita Selamat](https://open.spotify.com/album/31MJNK88OpMPpJsRKFDDY9) | 3:58 |
 | 102 | [Ini Bukan Cinta](https://open.spotify.com/track/3KFi5afCTz6clzLXK7noue) | [ASTRI](https://open.spotify.com/artist/7rn4Z9vVBJDsz4ehMwCmOg) | [Ini Bukan Cinta](https://open.spotify.com/album/2BScMn8yGahXrZs5qAV0Ex) | 2:54 |
 
-Snapshot ID: `AAAAAPFw3UFUaXrdi7EIATfaC0PJvrCM`
+Snapshot ID: `AAAAABwBy1yORvIu7TbASOV2djiGgiWZ`

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,320 songs - 2 day 17 hr 58 min
+1,321 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-02 | 2024-07-05 |
 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-05-21 | 2025-08-16 |
 | [Et ollut se](https://open.spotify.com/track/5Ed7CNCkwXVFyoH7K5pRx9) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Et ollut se](https://open.spotify.com/album/3sine6HsKtZdgJTaoXp0NJ) | 3:18 | 2025-09-18 | 2025-11-21 |
-| [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 | 2026-10-08 |  |
+| [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 | 2026-10-08 | 2026-11-11 |
 | [Etärakastaa](https://open.spotify.com/track/52ZKKXMog4cw5wgGpXKyJa) | [ISA&ALEKSI](https://open.spotify.com/artist/4GQW3FwUg5uqOTvKOGLf3W) | [Etärakastaa](https://open.spotify.com/album/0zBajjIRK4nMoaFWiGnDQn) | 3:25 | 2026-09-10 | 2026-10-05 |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-03 | 2024-10-25 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-08-02 |
@@ -357,6 +357,7 @@
 | [Hei Supermario](https://open.spotify.com/track/7mibsbnXQyI4HuWEBYXuqB) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario/Huudan taas](https://open.spotify.com/album/4ps7AmlwOCpvYL6Mi9jVSl) | 2:18 | 2026-04-09 | 2026-09-04 |
 | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z) | 1:54 | 2026-06-25 |  |
 | [Helahoito](https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Helahoito](https://open.spotify.com/album/34zM5zslQ2AsWwAhP9rhqV) | 3:11 | 2026-06-18 |  |
+| [Helena](https://open.spotify.com/track/7CL0XvdOIunKIAjshljO3p) | [Annika Pudas](https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA) | [Romantica](https://open.spotify.com/album/7q3uiwEifMQBcqJMmDDZ67) | 2:56 | 2026-11-05 |  |
 | [Helpompaa](https://open.spotify.com/track/32bnxGecUeJzzVazFQqX3l) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Helpompaa](https://open.spotify.com/album/2DW2DNECnPTWeEuSSj2IIi) | 2:30 | 2025-08-01 | 2025-08-16 |
 | [HELSINKI ON PILALLA](https://open.spotify.com/track/5OCMIcfLYcapoR0tdzu9dD) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [HELSINKI ON PILALLA](https://open.spotify.com/album/5JpWxryNHHmacV2HknBzO8) | 4:07 | 2026-06-11 | 2026-09-28 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-05-09 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZgc0As5uU5/N1PyG9lUrsPKaGv",
+  "snapshot_id": "AAAAAFC6WstF8X/UaJYs5LdJVHetqtpt",
   "tracks": [
     {
       "added_at": "2026-11-06 00:00:43",
@@ -224,12 +224,12 @@
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
           "name": "Nelson Freitas",
           "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
         }
       ],
       "duration_ms": 169565,

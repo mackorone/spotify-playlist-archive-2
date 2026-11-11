@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Materazi Future Club in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,163 likes - 101 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,161 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 100 | [GETCHA! \(with Nic Cester, Jet & Chad Smith\) \- prod\. Tom Morello](https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 3:02 |
 | 101 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
 
-Snapshot ID: `AAAAAJ5ZyNnJj+dZViXA0SQ8fMK1bHJ5`
+Snapshot ID: `AAAAAEuJy9FX2+Ch9Kt2nTKVOjqpuEjR`

@@ -1,12 +1,12 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 178478,
+  "num_followers": 178516,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIa2kN4F7+VTEgiUqNaCY5nYZqf5",
+  "snapshot_id": "AAAAAD8gOSptBNHVihVAu0YsqEZGv6E1",
   "tracks": [
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Emonciones Sin Limite (Volumen 5)",
-        "url": "https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42"
-      },
-      "artists": [
-        {
-          "name": "Los Fresno",
-          "url": "https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Coraz\u00f3n De Roca",
-      "url": "https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 158493,
       "name": "D\u00e9jenme llorar",
       "url": "https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Emonciones Sin Limite (Volumen 5)",
+        "url": "https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42"
+      },
+      "artists": [
+        {
+          "name": "Los Fresno",
+          "url": "https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Coraz\u00f3n De Roca",
+      "url": "https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Tesoros De Coleccion - Los Tukas",
-        "url": "https://open.spotify.com/album/3MzFCw73hDZ4DGuViknMQK"
-      },
-      "artists": [
-        {
-          "name": "Los Tukas",
-          "url": "https://open.spotify.com/artist/1iXBLpnqdQ2EkMeGuoVPYC"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Nacimos para Amarnos",
-      "url": "https://open.spotify.com/track/5vDE5gNeKaoBfVnjqFgcfc"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 168320,
       "name": "Tu inolvidable sonrisa",
       "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Tesoros De Coleccion - Los Tukas",
+        "url": "https://open.spotify.com/album/3MzFCw73hDZ4DGuViknMQK"
+      },
+      "artists": [
+        {
+          "name": "Los Tukas",
+          "url": "https://open.spotify.com/artist/1iXBLpnqdQ2EkMeGuoVPYC"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Nacimos para Amarnos",
+      "url": "https://open.spotify.com/track/5vDE5gNeKaoBfVnjqFgcfc"
     },
     {
       "added_at": "2025-01-28 15:41:46",

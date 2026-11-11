@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,519,333 likes - 230 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,519,342 likes - 230 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 229 | [Dandelion](https://open.spotify.com/track/482TmP0lQwMVJ0Yx1k1GTb) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Dandelion](https://open.spotify.com/album/1pCNiZH0Lxnxazq1LL2cEy) | 2:25 |
 | 230 | [eclipse](https://open.spotify.com/track/6GPecIJFTK4aAlrCMJMEGq) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [eclipse](https://open.spotify.com/album/7bYEHcVVkpZWLUDN7wsYQB) | 2:28 |
 
-Snapshot ID: `AAAAABHqTQ+4bqAzL80CNFiami5YRB1w`
+Snapshot ID: `AAAAANw8+5rX3CBXLSNxvBlBfhN/l3Fr`

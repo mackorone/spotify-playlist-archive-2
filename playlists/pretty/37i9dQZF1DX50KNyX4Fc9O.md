@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,905 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,891 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Versailles](https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk) | 3:14 |
 | 100 | [Suffer](https://open.spotify.com/track/3zGI96kPHlSjDfMTEssWJS) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Suffer](https://open.spotify.com/album/57TPvreft5vl7PY44GFmIG) | 3:17 |
 
-Snapshot ID: `AAAAAAlvBFBBvCGwxTOuc1MEyhS5m+Sk`
+Snapshot ID: `AAAAADt4YORfb02b7Z5XxrzWSQPuDSXP`

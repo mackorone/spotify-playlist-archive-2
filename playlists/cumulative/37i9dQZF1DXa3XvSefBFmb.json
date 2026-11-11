@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 161881,
       "name": "0 aos 100",
       "url": "https://open.spotify.com/track/1cNNvILcp78k0vCrXKgreb"
@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Para l\u00e1 da paisagem",
+        "url": "https://open.spotify.com/album/6b5wrQZCyc0cySgXLE0a9m"
+      },
+      "artists": [
+        {
+          "name": "Mimi Froes",
+          "url": "https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235080,
+      "name": "Adeus aos lugares do sil\u00eancio",
+      "url": "https://open.spotify.com/track/4adV4Iu1K2nwOhuBEc6F9i"
+    },
+    {
+      "album": {
         "name": "Adorme\u00e7o Sem Dizer Para Onde Vou",
         "url": "https://open.spotify.com/album/1o49tfssAKKIuOKGhc4Y3H"
       },
@@ -1078,6 +1096,24 @@
       "duration_ms": 209359,
       "name": "Agradecer",
       "url": "https://open.spotify.com/track/7diV2Jn5gGzJQZJ11sxqpO"
+    },
+    {
+      "album": {
+        "name": "aguarela (vers\u00e3o da WI$H)",
+        "url": "https://open.spotify.com/album/1mvpLanF033k1oRGQ9Ednc"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soares",
+          "url": "https://open.spotify.com/artist/2QMZmKuBrDPtZcBnlMVW2v"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178090,
+      "name": "aguarela (vers\u00e3o da WI$H)",
+      "url": "https://open.spotify.com/track/7537Wpxd9upi6apl3MzHou"
     },
     {
       "album": {
@@ -2219,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Per\u00edodo Experimental",
+        "url": "https://open.spotify.com/album/6zC2coTTj385TpA7wba5tx"
+      },
+      "artists": [
+        {
+          "name": "Maria Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/4LxJT0EnNL4sYvgwrsHWJR"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221080,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/2zOBGwIQkd4Vv47KSHLYJc"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/4SWCBtIUGK6Ue4zLxA1N8W"
       },
@@ -2502,6 +2556,24 @@
       "duration_ms": 207477,
       "name": "back in my mind",
       "url": "https://open.spotify.com/track/7pq5tXTQ2xjnTEcrmSmuKA"
+    },
+    {
+      "album": {
+        "name": "Back Into Love",
+        "url": "https://open.spotify.com/album/5Vm41w4dp4a6NSeqA5ZJVT"
+      },
+      "artists": [
+        {
+          "name": "Aurea",
+          "url": "https://open.spotify.com/artist/752oCkLr3xnW9IVBnAhMMn"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192728,
+      "name": "Back Into Love",
+      "url": "https://open.spotify.com/track/6c8sSAJv7cOwCGTlsdPrGo"
     },
     {
       "album": {
@@ -3419,6 +3491,28 @@
     },
     {
       "album": {
+        "name": "CALA A BOCA",
+        "url": "https://open.spotify.com/album/7LpenptowipBgRY6C8WU0i"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        },
+        {
+          "name": "Dama Bete",
+          "url": "https://open.spotify.com/artist/0cFnYwwUg1OWV2AksuN22j"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "CALA A BOCA",
+      "url": "https://open.spotify.com/track/7KUwgcT6zCZsPsWTdPeaet"
+    },
+    {
+      "album": {
         "name": "CALMA",
         "url": "https://open.spotify.com/album/3vZ9QRP3Gdidu2elmZ6ASf"
       },
@@ -3788,7 +3882,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 176402,
       "name": "Caracol",
       "url": "https://open.spotify.com/track/2TOLW6pFjPtBkzLPWJCkgd"
@@ -4456,7 +4550,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 160571,
       "name": "Chora por Mim",
       "url": "https://open.spotify.com/track/3BvhfmeTSPTEGBJBV8YYlj"
@@ -5407,6 +5501,24 @@
     },
     {
       "album": {
+        "name": "Corta, Uma Palavra",
+        "url": "https://open.spotify.com/album/6TFHC8HnlslrYGfAIZ5QPc"
+      },
+      "artists": [
+        {
+          "name": "L\u00edquen",
+          "url": "https://open.spotify.com/artist/3Ka8NMuilAkSYvBbEnCQEc"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Corta, Uma Palavra",
+      "url": "https://open.spotify.com/track/3x62BE6StESp6x2MVGsBVc"
+    },
+    {
+      "album": {
         "name": "Sabe Deus",
         "url": "https://open.spotify.com/album/44ERVDv4hWZwAcnefIXKsp"
       },
@@ -6286,7 +6398,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 162352,
       "name": "Deixa Ir",
       "url": "https://open.spotify.com/track/0qMrUlIyYpTVuFcjcklKer"
@@ -6597,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "Desilus\u00e3o",
+        "url": "https://open.spotify.com/album/1VDuhD16F4wlS8DzOxLFsh"
+      },
+      "artists": [
+        {
+          "name": "Lurdes Miranda",
+          "url": "https://open.spotify.com/artist/5XHv4t7qG8d635Hf0a4Dk3"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171083,
+      "name": "Desilus\u00e3o",
+      "url": "https://open.spotify.com/track/4994EGhDnRgqGY06YQ25F1"
+    },
+    {
+      "album": {
         "name": "Desliza",
         "url": "https://open.spotify.com/album/4XfQRVwDQnE6Rd0OX8sTER"
       },
@@ -6828,7 +6958,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 174315,
       "name": "Dias de Chuva",
       "url": "https://open.spotify.com/track/36RHIygu2nWfnNRqVCOblK"
@@ -6936,7 +7066,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 199866,
       "name": "Dividir a dor",
       "url": "https://open.spotify.com/track/6ruEyzsMlqBmDvvnEwC8Lp"
@@ -7536,7 +7666,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 175578,
       "name": "E Agora ?",
       "url": "https://open.spotify.com/track/2lbDXy8WuAbKg3jQLPyaJH"
@@ -8294,7 +8424,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 257837,
       "name": "Esta balada que te dou",
       "url": "https://open.spotify.com/track/6BnMhGEg9FNIlu09YrkX1n"
@@ -8676,7 +8806,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 213043,
       "name": "Eu sou guerreira",
       "url": "https://open.spotify.com/track/3Vc8KYkv0tcLx24P0mFmfl"
@@ -8962,6 +9092,24 @@
       "duration_ms": 237500,
       "name": "Falsa Poesia",
       "url": "https://open.spotify.com/track/1t33FZcg2zXqip4oGzTGvR"
+    },
+    {
+      "album": {
+        "name": "Falsidade a Bondade",
+        "url": "https://open.spotify.com/album/7rhTCDm7rtfcLTqRrOgs3y"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Abrunhosa",
+          "url": "https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166496,
+      "name": "Falsidade a Bondade",
+      "url": "https://open.spotify.com/track/1Y9LEoev9Y7PhjumRAlLsW"
     },
     {
       "album": {
@@ -11086,7 +11234,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 171681,
       "name": "HOJE TEM",
       "url": "https://open.spotify.com/track/27qMXEJjDpbd1fr4SKxswN"
@@ -11808,6 +11956,24 @@
       "duration_ms": 184941,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/6rlRYmFvGEeaYJddXAoVCD"
+    },
+    {
+      "album": {
+        "name": "Invent\u00e1rio Pessoal",
+        "url": "https://open.spotify.com/album/40O5zfHFQANO3UYd8ElV3z"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia",
+          "url": "https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87280,
+      "name": "Invent\u00e1rio Pessoal",
+      "url": "https://open.spotify.com/track/71jUcXrYanJEb4ygi4Fl9w"
     },
     {
       "album": {
@@ -14991,6 +15157,24 @@
     },
     {
       "album": {
+        "name": "Mon Ch\u00e9ri",
+        "url": "https://open.spotify.com/album/65mYAuw0tbwojY0MyJqFRL"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208160,
+      "name": "Mon Ch\u00e9ri",
+      "url": "https://open.spotify.com/track/516iFo23C83jkUcVbgvEpn"
+    },
+    {
+      "album": {
         "name": "Moonlight Blue",
         "url": "https://open.spotify.com/album/5LF8YNPpVyFJ0xhU0myrZU"
       },
@@ -17220,7 +17404,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 214392,
       "name": "N\u00e3o Quero Ser Chiclete",
       "url": "https://open.spotify.com/track/0A45YHOHjBUdGxUPOp4U0V"
@@ -17242,6 +17426,24 @@
       "duration_ms": 235500,
       "name": "N\u00e3o Sei Quantas Almas Tenho",
       "url": "https://open.spotify.com/track/6SW4sN5BBBGruYRbYLDGyP"
+    },
+    {
+      "album": {
+        "name": "Cartas de Desamor",
+        "url": "https://open.spotify.com/album/3g90TAkxEkK04mP6ynoxYU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "N\u00e3o sei quem sou",
+      "url": "https://open.spotify.com/track/05YCvKYacBIwf4EsDssz0M"
     },
     {
       "album": {
@@ -19839,6 +20041,24 @@
     },
     {
       "album": {
+        "name": "Podemos Ser",
+        "url": "https://open.spotify.com/album/4xGerB6FK8dnnEfnivzuxu"
+      },
+      "artists": [
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/5W3WfKsYcIFReQZ7Rm4cZV"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Podemos Ser",
+      "url": "https://open.spotify.com/track/3IfVwHQv37FFCHdWqeg1ps"
+    },
+    {
+      "album": {
         "name": "SENSOREAL",
         "url": "https://open.spotify.com/album/0B68BCt62EBmJlRUWcRLhx"
       },
@@ -20012,7 +20232,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 174865,
       "name": "pop/rock",
       "url": "https://open.spotify.com/track/7fFsQnJxJhplTQOy6yc8dD"
@@ -20232,6 +20452,24 @@
       "duration_ms": 194920,
       "name": "Positivity",
       "url": "https://open.spotify.com/track/4hgTa7vvzCt3YoL9VzPjU2"
+    },
+    {
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/3Atrd1sPOXBjtVkJaqTrDq"
+      },
+      "artists": [
+        {
+          "name": "Mia Benita",
+          "url": "https://open.spotify.com/artist/7JUhLYbVExHkPDu3i2fc4e"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "POUCA A\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4CNNxC0M9lSlC2NtDopz2k"
     },
     {
       "album": {
@@ -22511,6 +22749,24 @@
     },
     {
       "album": {
+        "name": "Devagar Que A Vida \u00c9 Curta",
+        "url": "https://open.spotify.com/album/6WctvU1Itl3ipep21NKQTu"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193646,
+      "name": "Se A Cabe\u00e7a Anda Manca",
+      "url": "https://open.spotify.com/track/6bzKtI6Ga1DrmWTEX45G50"
+    },
+    {
+      "album": {
         "name": "Se Ao Menos",
         "url": "https://open.spotify.com/album/1Olpvd2DKsKX5ryVozWKYE"
       },
@@ -23206,7 +23462,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 190540,
       "name": "Serei Algu\u00e9m",
       "url": "https://open.spotify.com/track/1o6BRR3sBSAwFXe0PX6bbD"
@@ -23966,7 +24222,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 166800,
       "name": "Sou Daquela Rua",
       "url": "https://open.spotify.com/track/5AzTpNsV2Lja9CUC6q7d1y"
@@ -24208,6 +24464,24 @@
       "duration_ms": 213818,
       "name": "strangers",
       "url": "https://open.spotify.com/track/5xIstDxEcddPegY1VZVAnX"
+    },
+    {
+      "album": {
+        "name": "STRAVA",
+        "url": "https://open.spotify.com/album/4jtsQphofZNwTbFaA1TdL8"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188128,
+      "name": "STRAVA",
+      "url": "https://open.spotify.com/track/7gCkbZuIPAmAmRIT2lQ3Ny"
     },
     {
       "album": {
@@ -24800,7 +25074,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 179947,
       "name": "Teki Manxi",
       "url": "https://open.spotify.com/track/67SV6io2WSB0cDUq5QQaQE"
@@ -24858,10 +25132,28 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 192666,
       "name": "Tem o Teu Nome",
       "url": "https://open.spotify.com/track/7ro5MGsbFGJ5NKMAv8HH7S"
+    },
+    {
+      "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/12dPUoqAYSTREzpLGXIQE1"
+      },
+      "artists": [
+        {
+          "name": "Carolina Cardetas",
+          "url": "https://open.spotify.com/artist/2b8cXmYwRjGxE2snPkSFRI"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203705,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/5xEQ8m4AeKzkmFzHz2iUHs"
     },
     {
       "album": {
@@ -24992,6 +25284,24 @@
       "duration_ms": 199259,
       "name": "tenho de pensar",
       "url": "https://open.spotify.com/track/0T3LrejHadSdzJmh7ZLpbX"
+    },
+    {
+      "album": {
+        "name": "tenho saudades de casa",
+        "url": "https://open.spotify.com/album/6YUOHV3URPQPfUMFI68t3d"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "tenho saudades de casa",
+      "url": "https://open.spotify.com/track/6jEiqzJHHz7TpooAPr6bFg"
     },
     {
       "album": {
@@ -26378,7 +26688,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 171297,
       "name": "Um Mais Um",
       "url": "https://open.spotify.com/track/37MIhQy5RKshiLFp7yF70E"
@@ -26930,7 +27240,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 162857,
       "name": "Verdade E Vida",
       "url": "https://open.spotify.com/track/4D7Y31l38c7w9fxfTBpYZT"
@@ -28074,6 +28384,24 @@
       "duration_ms": 158208,
       "name": "\u00c1libi",
       "url": "https://open.spotify.com/track/7s8rJDh6SoIT3hZneCjYmH"
+    },
+    {
+      "album": {
+        "name": "\u00c1tomo",
+        "url": "https://open.spotify.com/album/6UMVIZyXyafYuesqjygzNX"
+      },
+      "artists": [
+        {
+          "name": "Mariana Moreira",
+          "url": "https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "\u00c1tomo",
+      "url": "https://open.spotify.com/track/7CB5EcxzBKeRWTNCs4eslF"
     },
     {
       "album": {

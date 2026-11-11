@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Manuel Turizo, C\. Tangana, Yan Block, maye and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,248 likes - 46 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,269 likes - 46 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 45 | [FOKETÓ](https://open.spotify.com/track/5Rp0bMbzVh5qklzFkQjlvQ) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [FOKETÓ](https://open.spotify.com/album/3hGElbEqyTGmwI9Le8MVKJ) | 2:29 |
 | 46 | [HEELS](https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2) | [fidoisblue](https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI) | [HEELS](https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S) | 2:31 |
 
-Snapshot ID: `AAAAAIG1PLylT0kY1Xdwppzu/2v3l5h5`
+Snapshot ID: `AAAAAOH94QEiOhK1L3yLH0zD4U3k7F94`

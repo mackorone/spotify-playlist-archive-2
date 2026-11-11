@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-93 songs - 8 hr 25 min
+94 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Los Tambores Te Llaman \- Original Mix](https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Carlos Mena](https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl) | [Los Tambores Te Llaman](https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq) | 6:19 | 2025-06-28 |  |
 | [Love Manifesto \- Yoruba Soul Mix](https://open.spotify.com/track/5mseZAEgouOaiY0JY3SmnX) | [Black Widow](https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 6:56 | 2025-06-28 | 2025-08-05 |
 | [Luv](https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Inner Garden](https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa) | 7:09 | 2025-06-28 |  |
-| [Mandola](https://open.spotify.com/track/3JD53qXeJnf5pEkWUtDgOD) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Mandola](https://open.spotify.com/album/6uYWjLwUXRS2NvpbFY6s69) | 3:38 | 2026-06-29 |  |
+| [Mandola](https://open.spotify.com/track/3JD53qXeJnf5pEkWUtDgOD) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Mandola](https://open.spotify.com/album/6uYWjLwUXRS2NvpbFY6s69) | 3:38 | 2026-06-29 | 2026-11-11 |
 | [Maraviglia \- Yoruba Soul Mix](https://open.spotify.com/track/41Os7ZzLagsF4rmkB1M7uT) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Maraviglia \(Yoruba Soul Mix\)](https://open.spotify.com/album/3bQXjuepZtyxwpPDpFNNAS) | 6:20 | 2026-09-27 |  |
 | [Mary Go Round](https://open.spotify.com/track/1DTRyqSQ6CfDs46Ft9vUpR) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 3:41 | 2025-06-28 |  |
 | [Momma's Groove \(Jimpster's Hip Replacement Mix\)](https://open.spotify.com/track/3SYFuQxFvEVrOD54vW0Hu7) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Momma's Groove](https://open.spotify.com/album/0nhS8liVSY8PBQQ1Arc9sQ) | 7:33 | 2025-06-28 |  |
@@ -70,6 +70,7 @@
 | [Music For The Gods](https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 6:40 | 2025-10-06 | 2026-11-07 |
 | [My Reflection](https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 5:24 | 2025-06-28 |  |
 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 | 2025-06-28 |  |
+| [Niggajazz \- Live At Jazz Cafe, October 2019](https://open.spotify.com/track/5P0f5KCmW56f7a0bo2on6S) | [Centaur Jackson](https://open.spotify.com/artist/4kmMnLdFxhR5D6JKG4TTcK), [Jesse Gannon](https://open.spotify.com/artist/5K5jX2nCTMbbO9SZD9gbXa), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Niggajazz \(Live At Jazz Cafe, October 2019\)](https://open.spotify.com/album/50zrerAHa1clJbUsD6N8Tc) | 7:06 | 2026-11-11 |  |
 | [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 | 2025-08-23 |  |
 | [Oia In Winter](https://open.spotify.com/track/6Rgn51oKJyCcjLQoPAAIrW) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 4:21 | 2026-05-31 | 2026-06-03 |
 | [Plantation Earth](https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |

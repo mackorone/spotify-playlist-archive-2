@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹 fyi Visconti ha cucinato un discone
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,949 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,950 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [Nessun posso](https://open.spotify.com/track/5fXppZ9Nux9vDWS0ejYm1K) | [Monteluna](https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb) | [Nessun posso](https://open.spotify.com/album/1V66nPWkfpwHzcxevDUCKf) | 3:15 |
 | 100 | [Vita a dirotto](https://open.spotify.com/track/6qSvA9fa4AoMlTLxxqShsA) | [Gianluca De Rubertis](https://open.spotify.com/artist/5AgvqFJ0RBT4VdKVWVKfwA), [Violante Placido](https://open.spotify.com/artist/4aLt4QtAxSk3hxBU7ZDT6k) | [Vita a dirotto](https://open.spotify.com/album/2iI5C9we9ECwMu9VMzE48I) | 3:23 |
 
-Snapshot ID: `AAAAAC6ZtOmOgSIZwPVsW3isD1qUHuaI`
+Snapshot ID: `AAAAANoo9+Epqmeic30x0EN3Y7Nl3sdh`

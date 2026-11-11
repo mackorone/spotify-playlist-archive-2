@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > C\. Tangana is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,899,966 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,899,866 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 49 | [TBT 16](https://open.spotify.com/track/6l1cPKY7lKQkVqz8tCaLpS) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [TBT 16](https://open.spotify.com/album/29uk1uHe8X13oqiWzKxeyN) | 3:12 |
 | 50 | [6 de la Mañana](https://open.spotify.com/track/0uBVHQlUFRSyepbljYUjXF) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J), [Jey H](https://open.spotify.com/artist/1MUrvcaLQS9bwe29QiBnXJ) | [6 de la Mañana](https://open.spotify.com/album/4R4mvpVdDEzOEnzFvY0F3B) | 2:35 |
 
-Snapshot ID: `AAAAAMXZm5eZ0uPbkq6LxPjteB/v+oIe`
+Snapshot ID: `AAAAAKoqlfVUk/h8y5V33yvF859GaydM`

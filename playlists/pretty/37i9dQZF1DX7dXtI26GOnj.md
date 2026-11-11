@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino aqui! Ay ay ay 🔥  foto: WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,205 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,209 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [YOSEQTUAMAS](https://open.spotify.com/track/2SBKPe4e46SMAsoqChtoVQ) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [YOSEQTUAMAS](https://open.spotify.com/album/1nb0fMTW6uXIIy1E78GJpe) | 2:31 |
 | 75 | [Feeling](https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Feeling](https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo) | 2:53 |
 
-Snapshot ID: `AAAAAJWWzTbGquXFazLf9x/9HebURkhL`
+Snapshot ID: `AAAAAIRiJzzIlFAIBFMLGXNipPg6MbFC`

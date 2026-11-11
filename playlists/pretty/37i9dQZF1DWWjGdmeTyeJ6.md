@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\.  Featuring sunandmoon\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,287 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,228 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Falling Apart](https://open.spotify.com/track/1TrDNbA3XlB8tC0epo2vGq) | [RIPPY](https://open.spotify.com/artist/3SLwm5V5RYbVSOeAs3aNc2) | [Falling Apart](https://open.spotify.com/album/2IC6PX6OaKMyPSHLqz9FSx) | 3:30 |
 | 100 | [The Knife](https://open.spotify.com/track/3cmabXVXqBfptx23oCssAw) | [Bee Blackwell](https://open.spotify.com/artist/57BfDtCpiNRZeCDjtz6YLs) | [The Knife](https://open.spotify.com/album/44EcyIe5ZQsGeMF4U0ORhS) | 3:12 |
 
-Snapshot ID: `AAAAAH/+YEYXR9pLMWzFmo/Q4UShiAtG`
+Snapshot ID: `AAAAAEtJ+ptu+g47lZJCwY80gwQuW5Eb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pushing pop forwards <3!! <br/>cover: Yaeji
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,074 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,045 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 99 | [pictures](https://open.spotify.com/track/3DRd90F0ZQUqykRyygDMja) | [kuudere](https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa) | [pictures](https://open.spotify.com/album/5MT18i1LkPsKk76ZeH2Tz8) | 2:52 |
 | 100 | [In my dreams](https://open.spotify.com/track/6fVD4eM0nTEXwt605JSYJG) | [3lijah](https://open.spotify.com/artist/0kDEuNVNp2RC9VUThcATI1) | [playing house](https://open.spotify.com/album/2PMmqpLF0x8YeYEY8wDCzC) | 2:48 |
 
-Snapshot ID: `AAAAABLIATtIujLOBky/gyACv9b0H0px`
+Snapshot ID: `AAAAAJKH0bIs7nFl4ON+8c29So3rJhMg`

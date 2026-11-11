@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring feel trip\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,253 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,282 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Aguacero](https://open.spotify.com/track/2WVMe2FHq3L92fTGnKQnmW) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Aguacero](https://open.spotify.com/album/730PUegYRYkFx5zsyNnZ8X) | 3:15 |
 | 50 | [Tus reglas](https://open.spotify.com/track/4QIYHuqL0XYsGfGokx862c) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Tus reglas](https://open.spotify.com/album/1krjwLIaLTZfe5hUhsOrJ8) | 2:30 |
 
-Snapshot ID: `AAAAAL+V6kGsmmiAiEyRcudGYVjYtFuS`
+Snapshot ID: `AAAAAIryqaOM0l6LZwSAv3Xa34BsTIgF`

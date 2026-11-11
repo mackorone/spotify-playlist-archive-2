@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Jack Harlow, Ruben, Sval, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,780 likes - 104 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,774 likes - 104 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 103 | [Bad \(feat\. WINTINA\)](https://open.spotify.com/track/7g719LnEN2qN4LBptfNlCs) | [Tove Evyn](https://open.spotify.com/artist/2tOxSKJLZ5E6I41QuDWF16), [WINTINA](https://open.spotify.com/artist/1MGYmDDLQSk3hMaS1Aql4j) | [Bad \(feat\. WINTINA\)](https://open.spotify.com/album/0O9q4ezpk8F7aQy41WxKjW) | 3:47 |
 | 104 | [Oops All Sixes](https://open.spotify.com/track/50IkSdPemCf6eo6crVrVaF) | [Per Hammar](https://open.spotify.com/artist/64ro37ZAxFkXIJ2pxOdqCX) | [Ontario EP](https://open.spotify.com/album/6Eoe8v0G6u6oTWqKqQ2s1r) | 7:23 |
 
-Snapshot ID: `AAAAANevzONmOwKNgRFkomQklyLYsisC`
+Snapshot ID: `AAAAABYxcF69x29VDHT9rWTb7QlOu/G+`

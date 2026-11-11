@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,537 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,547 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 27 | [Seasons](https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Seasons](https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN) | 3:01 |
 | 28 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 | 29 | [Every Good Thing](https://open.spotify.com/track/5HoBbFCyFU7qDdjCK8FYY6) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N), [Evie Loose](https://open.spotify.com/artist/6Kt7lrynpgilnMKpy90x1G) | [Every Good Thing](https://open.spotify.com/album/750SKuZ1H4oRSAWy987LT1) | 4:49 |
-| 30 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
-| 31 | [MAN ABOVE](https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [MAN ABOVE](https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo) | 3:08 |
+| 30 | [MAN ABOVE](https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [MAN ABOVE](https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo) | 3:08 |
+| 31 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 | 32 | [Make Us Ready](https://open.spotify.com/track/0rvcVTWEzYXoQmCeqMyzwg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Make Us Ready](https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN) | 4:21 |
 | 33 | [Wings](https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [His World](https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq) | 4:27 |
 | 34 | [Brittle](https://open.spotify.com/track/1TfhnviXtcjpfXi6nINyDg) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Brittle](https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J) | 3:32 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 52 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 53 | [In The Ether](https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Revival In My Mind](https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz) | 4:41 |
 | 54 | [saturday](https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [saturday](https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs) | 3:30 |
-| 55 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
-| 56 | [Necessary Evil](https://open.spotify.com/track/4Dp5SdYi4pvrJufTtGrOCS) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Necessary Evil](https://open.spotify.com/album/1u8O10wPCSWsh3mePE3pmW) | 3:28 |
+| 55 | [Necessary Evil](https://open.spotify.com/track/4Dp5SdYi4pvrJufTtGrOCS) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Necessary Evil](https://open.spotify.com/album/1u8O10wPCSWsh3mePE3pmW) | 3:28 |
+| 56 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
 | 57 | [Image of Love](https://open.spotify.com/track/7yx1qvTUIMmAzj7Zcmk4wI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Image of Love](https://open.spotify.com/album/15x4tgcWqDeShCla5Ev6jK) | 3:42 |
 | 58 | [It Is Well](https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [It Is Well](https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY) | 3:20 |
 | 59 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
-| 60 | [Here I Am](https://open.spotify.com/track/1mhVnXC0Mf8HUpvj2ZtqEY) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Here I Am](https://open.spotify.com/album/30yJdJF6LgTH5gYqVIgoS7) | 3:18 |
-| 61 | [I Just Want You](https://open.spotify.com/track/1EittqeWdfzsE6y2Zuajsd) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Just Want You](https://open.spotify.com/album/0mcmJWcj1cymjvcv1bdT8d) | 3:12 |
+| 60 | [I Just Want You](https://open.spotify.com/track/1EittqeWdfzsE6y2Zuajsd) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Just Want You](https://open.spotify.com/album/0mcmJWcj1cymjvcv1bdT8d) | 3:12 |
+| 61 | [Here I Am](https://open.spotify.com/track/1mhVnXC0Mf8HUpvj2ZtqEY) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Here I Am](https://open.spotify.com/album/30yJdJF6LgTH5gYqVIgoS7) | 3:18 |
 | 62 | [Glory of God](https://open.spotify.com/track/2k8LYHKEL005WIyXsH1UUY) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [The Friend & True King](https://open.spotify.com/album/0hqrxcUdCzjZH6vu9iOd3a) | 2:02 |
 | 63 | [Nothing but the Blood](https://open.spotify.com/track/6kKpPSjFUQHO4RdYKBuPVV) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [Nothing but the Blood](https://open.spotify.com/album/17JQNF1nyHPSSDNjx1CbYE) | 2:55 |
 | 64 | [In Your Arms](https://open.spotify.com/track/6OiInKzz6lhRIm0zsgZPbm) | [Taylor Holland](https://open.spotify.com/artist/7KzdruARFX9teR1Gvxs4Q7) | [In Your Arms](https://open.spotify.com/album/1tALKveCu0CB7U8kIWqkGR) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 74 | [The Fence](https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [The Fence](https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP) | 3:22 |
 | 75 | [Day By Day](https://open.spotify.com/track/2Kn4wjte701baKkC1IeF4S) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [Day By Day](https://open.spotify.com/album/2eshaNGGqJ5FB3BL1pHRAg) | 3:25 |
 
-Snapshot ID: `AAAAAAIZdqXGioEhqOsk2Hj+wqQC4eYQ`
+Snapshot ID: `AAAAALcVPFJMN5PQTNreZfsf2t2wfTAY`

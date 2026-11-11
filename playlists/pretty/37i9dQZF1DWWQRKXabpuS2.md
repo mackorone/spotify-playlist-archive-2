@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,436 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,446 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Enta](https://open.spotify.com/track/3ngFB96ifMSfbwcTCvKKSZ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Enta](https://open.spotify.com/album/7yLZnKqA3C1koUhVnW9o73) | 4:23 |
 | 50 | [Haak Glbi](https://open.spotify.com/track/4ZNHWvR3qwB2r91uWFCzfY) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad 26](https://open.spotify.com/album/77qvt0BWKIxomLI9SQGCkQ) | 3:38 |
 
-Snapshot ID: `AAAAALi5ofqMMQdh97KVqZq5wcl/hcpq`
+Snapshot ID: `AAAAANLmP/aaPlWuSblXU8ud8WywhgJk`

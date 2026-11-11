@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 325237,
+  "num_followers": 325286,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6rfnFnq+2W4RAC+Mj/EtXcRAQP",
+  "snapshot_id": "AAAAADVOH1Vje5glJ6JOksyto6Qh2JPX",
   "tracks": [
     {
       "added_at": "2025-01-15 04:11:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Porno For Pyros",
-        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
-      },
-      "artists": [
-        {
-          "name": "Porno for Pyros",
-          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
-        }
-      ],
-      "duration_ms": 216916,
-      "name": "Pets",
-      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 184293,
       "name": "Son Of Sam",
       "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Porno For Pyros",
+        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
+      },
+      "artists": [
+        {
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+        }
+      ],
+      "duration_ms": 216916,
+      "name": "Pets",
+      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Regretfully Yours",
         "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Whip-Smart",
-        "url": "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
       "artists": [
         {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 168840,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R"
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1387,6 +1371,22 @@
       "duration_ms": 251933,
       "name": "When You Sleep",
       "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Whip-Smart",
+        "url": "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
       "artists": [
         {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Galaxie / Hello, Goodbye",
-      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+      "duration_ms": 211000,
+      "name": "Galaxie / Hello, Goodbye",
+      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
     },
     {
       "added_at": "2025-01-15 04:11:50",

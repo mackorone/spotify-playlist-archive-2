@@ -7446,7 +7446,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 244933,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/37WU0gszb5AQ7eAFxXyFeW"
@@ -21293,6 +21293,24 @@
     },
     {
       "album": {
+        "name": "ReaL",
+        "url": "https://open.spotify.com/album/2PaRNud0EEyGuM6lxGFExI"
+      },
+      "artists": [
+        {
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277826,
+      "name": "ReaL",
+      "url": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu"
+    },
+    {
+      "album": {
         "name": "SYMPHONIC REMIX BEST",
         "url": "https://open.spotify.com/album/1277SNC3qeNbn9JSGgThSr"
       },
@@ -25432,6 +25450,24 @@
       "duration_ms": 139773,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221583,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf"
     },
     {
       "album": {
@@ -38071,6 +38107,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30f3\u30ab",
+        "url": "https://open.spotify.com/album/1Lbz370TR61xZSisbc7i9S"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199726,
+      "name": "\u30b7\u30f3\u30ab",
+      "url": "https://open.spotify.com/track/12UmOQlYTGVkKz8QqRmr5s"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30f3\u30b2\u30c4",
         "url": "https://open.spotify.com/album/2r93qUCHSWRRsVEpj5DTkH"
       },
@@ -44554,7 +44608,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 243471,
       "name": "\u50d5\u3089\u306e\u672a\u6765\u3078",
       "url": "https://open.spotify.com/track/6Mk99yybfJakzRlvxPOycx"
@@ -44776,6 +44830,24 @@
       "duration_ms": 258265,
       "name": "\u5149\u306e\u4e2d\u3078",
       "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
+    },
+    {
+      "album": {
+        "name": "\u5149\u306e\u5074\u3067",
+        "url": "https://open.spotify.com/album/1G1sPezB8ltiOEdGr8DkxH"
+      },
+      "artists": [
+        {
+          "name": "Nanashi no Taro",
+          "url": "https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193588,
+      "name": "\u5149\u306e\u5074\u3067",
+      "url": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL"
     },
     {
       "album": {
@@ -51254,7 +51326,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 287661,
       "name": "\u767d\u663c\u5922",
       "url": "https://open.spotify.com/track/4G7lOgpOKt1d7zcDu3YYUc"
@@ -53628,7 +53700,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 221186,
       "name": "\u8f4d\uff5eWadachi\uff5e - New Version -",
       "url": "https://open.spotify.com/track/2JUeJpau6hyaEo7F60RMYI"

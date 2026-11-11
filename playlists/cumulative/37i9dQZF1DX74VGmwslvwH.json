@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 233812,
       "name": "10 Tender Flow",
       "url": "https://open.spotify.com/track/3kNdYZ8IYlovsbVOawLw0w"
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Amber Dust",
+        "url": "https://open.spotify.com/album/3F1w8dOHTT49cR0Uj8O0RG"
+      },
+      "artists": [
+        {
+          "name": "Mir Dune",
+          "url": "https://open.spotify.com/artist/6Hs1kTcMGQUJR9DFyyiE0n"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165545,
+      "name": "Amber Dust",
+      "url": "https://open.spotify.com/track/7BvdinBODpEdPS85rUBSeM"
+    },
+    {
+      "album": {
         "name": "Ambient Ascension",
         "url": "https://open.spotify.com/album/3gPe0Tu3dk14NLuLauOtKb"
       },
@@ -110,6 +128,24 @@
       "duration_ms": 144629,
       "name": "Ambient Ascension",
       "url": "https://open.spotify.com/track/3VIhqha1MgAOnZOeDfP5YU"
+    },
+    {
+      "album": {
+        "name": "Ancestral Wind",
+        "url": "https://open.spotify.com/album/64AhOO2bDzGRTiIVB7vfpC"
+      },
+      "artists": [
+        {
+          "name": "Dumana",
+          "url": "https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109963,
+      "name": "Ancestral Wind",
+      "url": "https://open.spotify.com/track/0kXxkSnLLIjsEi2CHH8sxW"
     },
     {
       "album": {
@@ -514,7 +550,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 168948,
       "name": "Calm Cycles",
       "url": "https://open.spotify.com/track/6Kis6YUsSrMZ6opTwcMTR6"
@@ -971,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/0Kfpi2U3gZLTQLJlUKpqwg"
+      },
+      "artists": [
+        {
+          "name": "Liam Eira",
+          "url": "https://open.spotify.com/artist/0DcmehohVqz1uugEjY6thE"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146146,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/1sYI0rThhjirEpUAjsLKgJ"
+    },
+    {
+      "album": {
         "name": "Dhinchak",
         "url": "https://open.spotify.com/album/0Qg98DxDTVhdw3yT5imxHN"
       },
@@ -1130,6 +1184,24 @@
       "duration_ms": 180268,
       "name": "Empire",
       "url": "https://open.spotify.com/track/1yzxtY3hYi6RJNQNLsomhm"
+    },
+    {
+      "album": {
+        "name": "Entrainment",
+        "url": "https://open.spotify.com/album/7dvOib6ljTht9EzrNfNknY"
+      },
+      "artists": [
+        {
+          "name": "Kitcha Baba",
+          "url": "https://open.spotify.com/artist/3OUJieCig5Gkmh13a94pUC"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150331,
+      "name": "Entrainment",
+      "url": "https://open.spotify.com/track/7fDB8h5uC3lpQW4n1o5ymQ"
     },
     {
       "album": {
@@ -1450,7 +1522,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 301411,
       "name": "Hansdhwani",
       "url": "https://open.spotify.com/track/5OaE7QcIBR7uIqdHakyDys"
@@ -1504,7 +1576,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 404999,
       "name": "Harmonious",
       "url": "https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC"
@@ -1601,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Heart Chakra",
+        "url": "https://open.spotify.com/album/7FARUcm2zrzdeUdVL2DcyM"
+      },
+      "artists": [
+        {
+          "name": "Karnataka Dawn",
+          "url": "https://open.spotify.com/artist/5CkV7GGzUTOTqzjbdybFE9"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158725,
+      "name": "Heart Chakra",
+      "url": "https://open.spotify.com/track/6pL1noVsv4ofAFnUmUwl29"
+    },
+    {
+      "album": {
         "name": "Held Together",
         "url": "https://open.spotify.com/album/6V4IXbjnoSdwZAFtmYdtyU"
       },
@@ -1670,6 +1760,24 @@
       "duration_ms": 218280,
       "name": "Indian Skies",
       "url": "https://open.spotify.com/track/7C9oEyJHuGODex0VCtPUL8"
+    },
+    {
+      "album": {
+        "name": "Indian Tabla Meditation",
+        "url": "https://open.spotify.com/album/4vH1Scp5a0dtHiDFihuDq0"
+      },
+      "artists": [
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157296,
+      "name": "Indian Tabla Meditation",
+      "url": "https://open.spotify.com/track/2CS6YzRWMU1T3MZl4xKiIX"
     },
     {
       "album": {
@@ -2012,6 +2120,24 @@
       "duration_ms": 172000,
       "name": "Lotus Blossom",
       "url": "https://open.spotify.com/track/6JpoTFTMUhvvYo8ESt6XZl"
+    },
+    {
+      "album": {
+        "name": "Lumen Field",
+        "url": "https://open.spotify.com/album/1SkwG6eXf8gE7w2xMeLGZY"
+      },
+      "artists": [
+        {
+          "name": "Nolan West",
+          "url": "https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144508,
+      "name": "Lumen Field",
+      "url": "https://open.spotify.com/track/24neDOupH7WvMNJkSAdmaI"
     },
     {
       "album": {
@@ -2777,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/1qfZXs72PgTwvkGPzHtCA8"
+      },
+      "artists": [
+        {
+          "name": "Jasper Oaks",
+          "url": "https://open.spotify.com/artist/73JsvU8g0A36N6Kfptpd2B"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/56y6AU5uDm0fFkyQmMr2iF"
+    },
+    {
+      "album": {
         "name": "Purrfection 44 (Meow Mix)",
         "url": "https://open.spotify.com/album/5wEbycWmjbR4kxJhxcY0PJ"
       },
@@ -2955,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Rajnigandha",
+        "url": "https://open.spotify.com/album/5ifcwmYw8iiMhxs8ef8wz6"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "Rajnigandha",
+      "url": "https://open.spotify.com/track/1tX9CCS9B5Xsw7GJrS6qgV"
+    },
+    {
+      "album": {
         "name": "Rare Astra",
         "url": "https://open.spotify.com/album/1XdZM894doi2XbdZsVCZZL"
       },
@@ -2970,6 +3132,24 @@
       "duration_ms": 154000,
       "name": "Rare Astra",
       "url": "https://open.spotify.com/track/5JqwjWauNVttvtXHDLn7E3"
+    },
+    {
+      "album": {
+        "name": "Receive",
+        "url": "https://open.spotify.com/album/3sUxtjEnmMZaoDhvIgn1P1"
+      },
+      "artists": [
+        {
+          "name": "Indira",
+          "url": "https://open.spotify.com/artist/2yVvjh4ocmk0kwgHoDXkX4"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Receive",
+      "url": "https://open.spotify.com/track/7lUZ5TIT9Um6dQNvf8Limz"
     },
     {
       "album": {
@@ -3153,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Saffron Skies",
+        "url": "https://open.spotify.com/album/431e3syZYFg4qVmaRC9u9W"
+      },
+      "artists": [
+        {
+          "name": "Rosonance",
+          "url": "https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Saffron Skies",
+      "url": "https://open.spotify.com/track/1O1hIkucuLUAuHgxjMpBEN"
+    },
+    {
+      "album": {
         "name": "Sahaj Atma",
         "url": "https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB"
       },
@@ -3226,6 +3424,24 @@
       "duration_ms": 525640,
       "name": "Saraswati Ma",
       "url": "https://open.spotify.com/track/5cIlLDsVPVUGSivIhXUQd5"
+    },
+    {
+      "album": {
+        "name": "Satya",
+        "url": "https://open.spotify.com/album/7fatPtZC5pwYDCUWyBqx6W"
+      },
+      "artists": [
+        {
+          "name": "Liam Eira",
+          "url": "https://open.spotify.com/artist/0DcmehohVqz1uugEjY6thE"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186363,
+      "name": "Satya",
+      "url": "https://open.spotify.com/track/1AsuZsBwQdXg8ZiPxYzBT6"
     },
     {
       "album": {
@@ -3312,7 +3528,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 340000,
       "name": "Serene Dusk: Raga Jog with Flute and Tabla in Teental",
       "url": "https://open.spotify.com/track/4CU12tCGqrUsZxhKsX3anT"
@@ -3410,6 +3626,24 @@
       "duration_ms": 299951,
       "name": "Shanat Karna",
       "url": "https://open.spotify.com/track/4hb6mIPZh3N3XKHuMjGbJ4"
+    },
+    {
+      "album": {
+        "name": "Shanti Drift",
+        "url": "https://open.spotify.com/album/4JoDQwnLhdflgJcq05S8yw"
+      },
+      "artists": [
+        {
+          "name": "Aks & Lakshmi",
+          "url": "https://open.spotify.com/artist/5zXob0LQBUchAV6mZOgu2w"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Shanti Drift",
+      "url": "https://open.spotify.com/track/61tnpNEVyYSNr4GMddYaLs"
     },
     {
       "album": {
@@ -3598,6 +3832,24 @@
       "duration_ms": 181160,
       "name": "Slowly Healing",
       "url": "https://open.spotify.com/track/6oJqtyhQPJe8tJeSUtCwH7"
+    },
+    {
+      "album": {
+        "name": "Soft Patterns",
+        "url": "https://open.spotify.com/album/2U8MUv75JW0eM2zClr2CIg"
+      },
+      "artists": [
+        {
+          "name": "Kaen Ohara",
+          "url": "https://open.spotify.com/artist/1wnbtnXXliceUfUjxFXsuU"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "Soft Patterns",
+      "url": "https://open.spotify.com/track/6nNlUebNI5Jjc4HJgLhUQY"
     },
     {
       "album": {
@@ -4418,7 +4670,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 331000,
       "name": "Ustrasana",
       "url": "https://open.spotify.com/track/7q0YjCUbiMjkZdpRUTkorT"
@@ -4584,6 +4836,42 @@
       "duration_ms": 271304,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/7o0fPw3ZlzfWREnTHBCCnU"
+    },
+    {
+      "album": {
+        "name": "Yaman Tintaal",
+        "url": "https://open.spotify.com/album/47sXBAldXEklEUDvNalbn5"
+      },
+      "artists": [
+        {
+          "name": "Chunder Bakshi",
+          "url": "https://open.spotify.com/artist/5qL5i2KvJuODfZWlHEEBZD"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "Yaman Tintaal",
+      "url": "https://open.spotify.com/track/2w1CaupinjfdAfbndS01sc"
+    },
+    {
+      "album": {
+        "name": "Yaman Variations",
+        "url": "https://open.spotify.com/album/4qMm3hh8WqSnzWLlCmtUyD"
+      },
+      "artists": [
+        {
+          "name": "Chandr Pushp",
+          "url": "https://open.spotify.com/artist/0X91WNEF1zQ0MVBMDycjQ1"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Yaman Variations",
+      "url": "https://open.spotify.com/track/3mcudRNTkiHwiPpQI54xiy"
     },
     {
       "album": {

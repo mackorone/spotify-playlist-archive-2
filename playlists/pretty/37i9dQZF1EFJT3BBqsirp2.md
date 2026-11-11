@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 65 | [So Clear](https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:00 |
 | 66 | [Make Believe](https://open.spotify.com/track/4mtwVlfFwOx32akhvoce2I) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 3:56 |
 | 67 | [BREEE!](https://open.spotify.com/track/14brgBBs15gxGHJ3JTraZC) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:17 |
-| 68 | [BE MY ANIME](https://open.spotify.com/track/298TUewHw03SSS79Z2Gien) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [CIVIL DISORDER](https://open.spotify.com/album/7MD9Chg0V5UIj5vyzZ0ebQ) | 3:29 |
-| 69 | [Better Than Yesterday](https://open.spotify.com/track/2TBg5af1f7U0XIaNfGJOq4) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens EP](https://open.spotify.com/album/3EeJLfBgbl3xIOVVR5voFV) | 2:41 |
+| 68 | [Better Than Yesterday](https://open.spotify.com/track/2TBg5af1f7U0XIaNfGJOq4) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens EP](https://open.spotify.com/album/3EeJLfBgbl3xIOVVR5voFV) | 2:41 |
+| 69 | [BE MY ANIME](https://open.spotify.com/track/298TUewHw03SSS79Z2Gien) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [CIVIL DISORDER](https://open.spotify.com/album/7MD9Chg0V5UIj5vyzZ0ebQ) | 3:29 |
 | 70 | [Sentence](https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:23 |
 | 71 | [Forwards & Backwards](https://open.spotify.com/track/7Fg9PYY7z1MHvlOK6Z6z5H) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Forwards & Backwards](https://open.spotify.com/album/723y0nUwGHFFiScIqi0xGf) | 2:58 |
 | 72 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 96 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 97 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AchQBAAAAAAaKo1HVJ6qjkpJLuCmG7GQ`
+Snapshot ID: `AchVLAAAAABO/efbHIQdpsEN3z020xFe`

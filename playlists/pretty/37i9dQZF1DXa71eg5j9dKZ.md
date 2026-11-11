@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Conducta
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,882 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,872 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Wicked N Ruff](https://open.spotify.com/track/4XjgbpZ4rtt0PwE0QNOMJh) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Wicked N Ruff](https://open.spotify.com/album/5EJu2S7NXFtotFysgcl8WN) | 4:41 |
 | 100 | [Obnox](https://open.spotify.com/track/48qyIqwWGKMIpgmgHJhfAC) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Obnox / Pointless](https://open.spotify.com/album/6CHq5ix2PJa5LFaETFmEkX) | 3:40 |
 
-Snapshot ID: `AAAAAG0dYuxtuw9s7VaWZJhzD/aY08vF`
+Snapshot ID: `AAAAANASv6ryQQw9rHvObsmiVt47d4s4`

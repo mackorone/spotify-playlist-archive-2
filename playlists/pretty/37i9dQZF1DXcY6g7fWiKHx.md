@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,589 likes - 341 songs - 1 day 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,592 likes - 341 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 19 | [Voodoo Your Ex](https://open.spotify.com/track/1vGmLFF2Xesiet69aFYfKq) | [Simple Symmetry](https://open.spotify.com/artist/36oy3scxRLRqG8uptf04vG) | [Plane Goes East](https://open.spotify.com/album/7gjdqWu0o1iuplIHK5z9ZT) | 7:16 |
 | 20 | [Tunisia Bambaata](https://open.spotify.com/track/1amkM0GY3aFSZoWPaxruOF) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5dMTP9ZttPAmkLpgYR18Ax) | 3:53 |
 | 21 | [La Patinoire \- Live at the Cafetaria Mix](https://open.spotify.com/track/4YsCYKYkJq8uDXUezNviKF) | [Faceball 2000](https://open.spotify.com/artist/52VHGhrLOvUGQe1WoboMiM) | [La Patinoire \(Live at the Cafetaria Mix\)](https://open.spotify.com/album/2GxqfDUPlJbXvpHp0xKAJO) | 5:47 |
-| 22 | [Marry Me \- Original Mix](https://open.spotify.com/track/58BrEwkmgtxkl2fKphxYZo) | [DJ Call Me](https://open.spotify.com/artist/42fd8KS6xYpFW5MsgJXAom) | [Marry Me EP](https://open.spotify.com/album/1q8L4KPTqIAaFzUU2PgavB) | 5:06 |
+| 22 | [Marry Me \- Original Mix](https://open.spotify.com/track/58BrEwkmgtxkl2fKphxYZo) | [DJ Call Me](https://open.spotify.com/artist/2SoSt5VwfHvouhKqZB1JTz) | [Marry Me EP](https://open.spotify.com/album/1q8L4KPTqIAaFzUU2PgavB) | 5:06 |
 | 23 | [Igwee](https://open.spotify.com/track/1h9RSsiwju4Ioz5Q6rMXd0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [The Only Way Out Is In](https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko) | 5:46 |
 | 24 | [The Sun](https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [All Inclusive](https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS) | 3:28 |
 | 25 | [Chipko Chipko](https://open.spotify.com/track/5gb8dgCs51czhdLZoW4f3z) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf) | [Hari Om](https://open.spotify.com/album/1xOaTdQxCFrdMBRbOPBSlf) | 6:17 |
@@ -350,4 +350,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 340 | [Walking On A Dream \- Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Walking On A Dream \(Reimagined\)](https://open.spotify.com/album/1amxeKLCkKqHmSLOGGs6Wr) | 3:52 |
 | 341 | [Disco Baile \- Dança Tardia Mix](https://open.spotify.com/track/7yi2lu0fRop8m7pdzBzCB2) | [Akalex](https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Disco Baile \(Dança Tardia Mix\)](https://open.spotify.com/album/3rrFiERlK4B7B25wUuQXZC) | 3:47 |
 
-Snapshot ID: `AAAAALlzWHo/80A9LzjwtuT0mdJDH0qv`
+Snapshot ID: `AAAAAJOzDO0kZ0GKYZJjzLLu85FZcK04`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Your soundtrack for a not\-so\-silent night\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,643 likes - 73 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,700 likes - 73 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 72 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3vSogSk1GgB0D1V7r8nkEP) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Winter Wilderness EP](https://open.spotify.com/album/1iNaHBJANUPl2U84kSjogc) | 3:07 |
 | 73 | [All I Want For Christmas Is You](https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [All I Want For Christmas Is You](https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ) | 3:27 |
 
-Snapshot ID: `AAAAAEaydkXON3pw3CkaJ19LrIwmQGs3`
+Snapshot ID: `AAAAACcDB645TMR+QjpUTb+IIGonNhLG`

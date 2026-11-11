@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALCfe4dnkN5q7b7Z5fuChlgw7R+S",
+  "snapshot_id": "AAAAALqcWBJvBsF9+wLh77goeDLB/hje",
   "tracks": [
     {
       "added_at": "2026-06-29 08:10:11",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
+        "name": "Snow spectacle",
+        "url": "https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Snow spectacle",
+      "url": "https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
         "name": "Demo songs",
         "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 238575,
       "name": "Hug Me (I'm In Your Arms)",
       "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
-        "name": "Snow spectacle",
-        "url": "https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Snow spectacle",
-      "url": "https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Young Fatty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,463 likes - 99 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,433 likes - 99 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 98 | [Un Kiss \- Remix](https://open.spotify.com/track/2TzuzFUxKULFs9psxgHQIF) | [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Un Kiss \(Remix\)](https://open.spotify.com/album/4GL0bdlzyYP7pGbYyoYeLu) | 2:22 |
 | 99 | [ASAP](https://open.spotify.com/track/4nuxD9efbuqu6MDze4SqSK) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Sinners Club](https://open.spotify.com/album/54tbMXotxjF1LYEZ7nDYSJ) | 3:40 |
 
-Snapshot ID: `AAAAAGm30uHUi0gb3firUU2SwuJC+yFy`
+Snapshot ID: `AAAAABJgX9ebYLrVpJKbQaflrp7MunF3`

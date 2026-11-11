@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,689 likes - 205 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,721 likes - 205 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 204 | [Drinkin' Alone](https://open.spotify.com/track/3Ni91Z7QsnmgEUwgdaVZV0) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Drinkin' Alone](https://open.spotify.com/album/5r1SZ8EYMUKGyyNX1qhKhT) | 4:14 |
 | 205 | [You Don't Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 
-Snapshot ID: `AAAAAElLyV9SEwc+oYvhjSS1ZSCZHKBO`
+Snapshot ID: `AAAAADKRAGzZs5KaB7M9N9+beUm0UZQV`

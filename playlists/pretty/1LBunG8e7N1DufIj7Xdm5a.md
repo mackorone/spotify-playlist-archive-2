@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,529 songs - 12 day 20 hr 41 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,531 songs - 12 day 20 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5537,5 +5537,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5527 | [Sometimes](https://open.spotify.com/track/53AWwRIORkZEKeQgbYEEN9) | [VKY Emotion 237](https://open.spotify.com/artist/6h6qfGkgMnXehDGCKyF6Fj), [Aka Relli](https://open.spotify.com/artist/48Vao2QW3UDxRAA8zTMus7) | [Sometimes](https://open.spotify.com/album/3fdeMM8GUqyNNxsK8bmAbb) | 2:58 |
 | 5528 | [Unspoken](https://open.spotify.com/track/78ab07jV5XIsr1Zlmtq4hs) | [N3OLUMIN](https://open.spotify.com/artist/7bpeZd1O8qMlzRN49oUWZl) | [Unspoken](https://open.spotify.com/album/3G4QJXO7Y9fTAgqG6MPGug) | 3:10 |
 | 5529 | [Fading Trace](https://open.spotify.com/track/25SdqP59ZUBkkfTZXgVhzN) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Burn the Old Maps](https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth) | 2:45 |
+| 5530 | [Pelita Selepas Gulita](https://open.spotify.com/track/12aZijjIW3uIhbDozRYxVD) | [Nanda Perdana](https://open.spotify.com/artist/2YEkJPIyz4mNYLuP3NZFf6) | [Pelita Selepas Gulita](https://open.spotify.com/album/5Omi5gkk3lOuM6PxaTkWQ4) | 3:49 |
+| 5531 | [Queen Of The Stage](https://open.spotify.com/track/7111rn6Fj97LddnOoYJa7j) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Queen Of The Stage](https://open.spotify.com/album/3XNxb0y3ZvSNx4NgVjMPqn) | 4:08 |
 
-Snapshot ID: `AAALAfmb/g7jXQUOpiKTjtLSUorWMaUU`
+Snapshot ID: `AAALAyAMXuJsOH9LzxcfRonKxT4XVzI1`

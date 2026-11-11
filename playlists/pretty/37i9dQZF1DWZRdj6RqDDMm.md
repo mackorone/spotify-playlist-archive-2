@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,967 likes - 109 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,004 likes - 109 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 108 | [Kingdom Come](https://open.spotify.com/track/4oacaORBXYl2wecW0fFYsn) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Kingdom Come \(Soul Peace\)](https://open.spotify.com/album/3xQOPalIDmEs4lI2YWr6al) | 2:03 |
 | 109 | [Onyeoma](https://open.spotify.com/track/1IaZ1BzX2m5fV7zly8KUSP) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Onyeoma](https://open.spotify.com/album/0iEfQZ7oM9yJH55TdxyBG2) | 2:33 |
 
-Snapshot ID: `AAAAAGlfjm4FhJUgLSx+qc0N+wWR6b9Z`
+Snapshot ID: `AAAAAA5hySvmT5WZn6SH6JdQ/YarUlxF`

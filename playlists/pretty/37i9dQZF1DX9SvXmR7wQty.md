@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Josman, Alicia Moffet, Rymz, Raccoon, Eddy de Pretto, Claudia Bouvette, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,342 likes - 97 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,345 likes - 97 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 96 | [MINI CLUB](https://open.spotify.com/track/6NF9gQAUGoKmbgw7wzId39) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [MINI CLUB](https://open.spotify.com/album/5dRYXwsnl5rLT94wUZxtuk) | 3:15 |
 | 97 | [Le monde à l'envers](https://open.spotify.com/track/0a0JG2qVFGXFpBD7GbsdpR) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Le monde à l'envers](https://open.spotify.com/album/5w2alfNZdvFEp8SECB8fNa) | 3:24 |
 
-Snapshot ID: `AAAAAGCTPdyYaxFQ8YVw+bcuuxMnZQp3`
+Snapshot ID: `AAAAAFl/OH12JaN5RcwXEO2FZ3taKLn/`

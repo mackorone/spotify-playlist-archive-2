@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > porque el barrio es el barrio, desde Neza para el mundo: El More en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,216 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,225 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 | 69 | [cuando no miraba atrás](https://open.spotify.com/track/5cJWsZdN9imPUn5jQzIgqn) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [cuando no miraba atrás](https://open.spotify.com/album/2LL0sS8DFUIviQAqwpOE6D) | 1:59 |
 | 70 | [Forma de Querer](https://open.spotify.com/track/15eL2P9i8GcgESh6PnZFda) | [Josezo](https://open.spotify.com/artist/1X5BDWwXmqw2TD79jQdzsc), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Forma de Querer](https://open.spotify.com/album/6caZrQSn4ek5HfK4nmDSQQ) | 3:50 |
 
-Snapshot ID: `AAAAANA/XgNCfXBp+JaSU5bkW92y1cIz`
+Snapshot ID: `AAAAAFfXammznB+TVWLtv6k5IsSh/J5A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,304 likes - 61 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,372 likes - 61 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 60 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 | 61 | [I Can't Do Without](https://open.spotify.com/track/3HKgMLQLfCOKHVcJhWcKTe) | [Eric Wishes](https://open.spotify.com/artist/5dGWriwUqrYL96UnZ2FPHp), [Stefan Hollaender](https://open.spotify.com/artist/7nWt0T6CwrGLek3B4686vI) | [I Can't Do Without](https://open.spotify.com/album/42gqQoFkru7W8CKiq7V3Vj) | 4:42 |
 
-Snapshot ID: `AAAAAOMEZ99w0TUBOsMIwFJn4e6ceLwd`
+Snapshot ID: `AAAAAFzgL/nIYDhw+juEIP22hZukseir`

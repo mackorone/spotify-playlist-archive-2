@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-382 songs - 17 hr 46 min
+383 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [by our brook](https://open.spotify.com/track/5D2j9P6XAjC1KTHWgCtKCD) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [by our brook](https://open.spotify.com/album/6gsmlzO7pBVwDq6NBpDKTB) | 2:36 | 2025-12-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 | 2025-04-25 |
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-29 |
-| [Calm Mind, in the Forest](https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Calm Mind, in the Forest](https://open.spotify.com/album/0TYH8l0gdWGehsBYzlLkjq) | 2:15 | 2026-01-21 |  |
+| [Calm Mind, in the Forest](https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Calm Mind, in the Forest](https://open.spotify.com/album/0TYH8l0gdWGehsBYzlLkjq) | 2:15 | 2026-01-21 | 2026-11-11 |
 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 | 2026-03-21 |
 | [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 | 2025-02-21 |  |
 | [Calm Spring](https://open.spotify.com/track/45OQ4d2oF6PKUg30jIYhLD) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Calm Spring](https://open.spotify.com/album/7l3YpyW05EHVsy2LuXDIxN) | 2:42 | 2025-05-16 | 2026-05-22 |
@@ -325,6 +325,7 @@
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2025-09-24 |  |
 | [Spring is here](https://open.spotify.com/track/73eMyw7PHNRsH34UC9L8cG) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spring is here](https://open.spotify.com/album/3bqM7XfIXMU3vho72nNFND) | 2:11 | 2024-06-03 | 2025-06-12 |
 | [Stargazing at Dawn](https://open.spotify.com/track/51WFbZpYir2eZGtXXrJDSY) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Stargazing at Dawn](https://open.spotify.com/album/22WWcPFrv829QyTjjHU0aY) | 2:40 | 2026-09-09 |  |
+| [Still Wandering](https://open.spotify.com/track/4c1lth1zR4fHD8VQ4Jz7Mg) | [Faded Grandeur](https://open.spotify.com/artist/64ODerOSP4aFrfGgTQ7nbe) | [Still Wandering](https://open.spotify.com/album/3A2NwPm1DIZaZSTB0R76PF) | 2:51 | 2026-11-03 |  |
 | [Stilled Air](https://open.spotify.com/track/4CpKfxg0gFEO7MpcgXXShr) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Stilled Air](https://open.spotify.com/album/1TLRQyzf4CiddoZaqiNJg8) | 3:01 | 2026-03-20 |  |
 | [Stolen Stream Moments](https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR) | [Soul Pursuit](https://open.spotify.com/artist/3w48oa6N62cxzWfJQYcGpX) | [Stolen Stream Moments](https://open.spotify.com/album/2qy2vMSHgIfGtaxoGjbFPD) | 3:08 | 2024-03-20 | 2025-09-24 |
 | [Sun Warmed](https://open.spotify.com/track/6wvxwPHGB3cUOZbjc7IZFH) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Sun Warmed](https://open.spotify.com/album/2YcsfJ8pux4NLSJQla2pha) | 2:50 | 2026-09-09 |  |

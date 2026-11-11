@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 5 | [卡加布烈島](https://open.spotify.com/track/6QDyP4yKuqKfcK992yJxfB) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名5 郊遊點點名](https://open.spotify.com/album/0bMrkq1mG5YycwSiY4kn83) | 2:38 |
 | 6 | [黑白咕咕雞](https://open.spotify.com/track/6Mp3bzcZ2YuIIYmFx2j0jq) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [黑白咕咕雞](https://open.spotify.com/album/0HdEzXvV5KFGGOpgHYkbt0) | 2:09 |
 | 7 | [手指運動](https://open.spotify.com/track/5K9MEQtk59L8bV0EXEcn8q) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [幸福的孩子愛唱歌](https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC) | 2:40 |
-| 8 | [大象你的鼻子怎麼那麼長](https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌｜經典兒歌唱唱跳跳｜寶寶放電兒歌｜一起來跳舞吧！](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:40 |
+| 8 | [大象你的鼻子怎麼那麼長](https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:40 |
 | 9 | [你笑起来真好看](https://open.spotify.com/track/3eE9BpgseO9tY0xo83dRwe) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37), [李凯稠](https://open.spotify.com/artist/15UvRTEsLPHCEmCRSlq7Oq), [樊桐舟](https://open.spotify.com/artist/7KCErQQQTj4j56qB3CvCg3) | [你笑起来真好看](https://open.spotify.com/album/5UGSyOav3KKoOQg8kW1xdN) | 2:52 |
 | 10 | [火車嘟嘟嘟](https://open.spotify.com/track/2hPwHQKDQ6BOhS9mLMl003) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名4 快樂木屐鞋](https://open.spotify.com/album/0uQcFq0X9lLU3Rx1nqy5nP) | 2:49 |
 | 11 | [麻糬打滾](https://open.spotify.com/track/0hSS3coomlHAtaA8MXDU7B) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [麻糬﻿打滾](https://open.spotify.com/album/3fdMF56vM4l51GsBViI8Xe) | 2:07 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 20 | [捏泥巴](https://open.spotify.com/track/6cs1kK33Fn6a9fBI2G6qVE) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名8 \- 動物音樂課](https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx) | 2:36 |
 | 21 | [一百隻斑馬](https://open.spotify.com/track/2I3HHzCO87ixiD0sWuCJ0k) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [一百隻斑馬](https://open.spotify.com/album/01ZadUJvvzz5vm4emFqWk4) | 2:03 |
 | 22 | [宝贝宝贝](https://open.spotify.com/track/7pXEcYfvlgpQnnbKwkI0Th) | [贝瓦儿歌](https://open.spotify.com/artist/5p42zNY1SK6ILxAZJ4Rkh7) | [宝贝宝贝](https://open.spotify.com/album/3GusfGBQswY0g0AtHoX2yF) | 3:20 |
-| 23 | [倫敦鐵橋垮下來垮下來](https://open.spotify.com/track/2IOCAsvUSyrzKbEEwutRPq) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌｜經典兒歌唱唱跳跳｜寶寶放電兒歌｜一起來跳舞吧！](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:18 |
+| 23 | [倫敦鐵橋垮下來垮下來](https://open.spotify.com/track/2IOCAsvUSyrzKbEEwutRPq) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:18 |
 | 24 | [起床歌](https://open.spotify.com/track/5du31s5tXWd2S6qG4wOwp7) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [寶貝的呢喃歌](https://open.spotify.com/album/2jea9wsUdrk2v2qF3FYH9h) | 3:39 |
 | 25 | [棒棒棒](https://open.spotify.com/track/0EnTWjXgf8U0NTZB5lyspk) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名9 \- 愛是大明星](https://open.spotify.com/album/3o77dNfJDrzyWm65RpcAjn) | 2:19 |
 | 26 | [星星眨眼睛](https://open.spotify.com/track/1AcIbZ07xaBfrFebtkjYFl) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LUCKY](https://open.spotify.com/album/1V6Vh4rbaLF3xjapDNMB8W) | 1:18 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 36 | [星星月亮太陽](https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:20 |
 | 37 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 |
 | 38 | [拍拍手](https://open.spotify.com/track/38hqL719iAugPd7FRRCsLM) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [寶貝 我的家](https://open.spotify.com/album/0dvVDfgDRxhZESdpdqVAIR) | 2:50 |
-| 39 | [我愛洗澡洗刷刷](https://open.spotify.com/track/2hXCzF6xBN70VPX5Df1H0J) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人](https://open.spotify.com/album/6MC4t6Sz0EtOh5YbMRLoqJ) | 3:45 |
-| 40 | [嗶嗶哩巴嗶哩布 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [嗶嗶哩巴嗶哩布](https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ) | 2:59 |
+| 39 | [嗶嗶哩巴嗶哩布 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [嗶嗶哩巴嗶哩布](https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ) | 2:59 |
+| 40 | [我愛洗澡洗刷刷](https://open.spotify.com/track/2hXCzF6xBN70VPX5Df1H0J) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人](https://open.spotify.com/album/6MC4t6Sz0EtOh5YbMRLoqJ) | 3:45 |
 | 41 | [青蛙王子](https://open.spotify.com/track/5a7nfqWLnwdhmpPeDrszTm) | [幼福姊姊說故事](https://open.spotify.com/artist/3SyuLvZ0aQmyYmrb8ownWo) | [Kid's童話屋: 格林童話](https://open.spotify.com/album/59hu6MVIipdfQN91XxMabL) | 6:59 |
 | 42 | [英雄爸爸](https://open.spotify.com/track/7aJijQbBOr4MOMvAuaKkdd) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [英雄爸爸](https://open.spotify.com/album/5hlZCLbYMyPG8NNXHzb0b8) | 3:43 |
 | 43 | [媽咪](https://open.spotify.com/track/5tgilrUUpEbCfyJE5NqIsZ) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw), [小蜜桃姐姐](https://open.spotify.com/artist/75MNXkfWwDHZreCpFIRLcw) | [媽咪](https://open.spotify.com/album/43MNIFYWKszER35lAwYrGK) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 49 | [笑咪咪 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/1HgebCH018bthgeMz2Jepo) | [Matzka](https://open.spotify.com/artist/2UqJqFqLbXtMZKN5QAfing) | [笑咪咪 \(小公視愛唱歌系列\_\_為寶貝唱一首歌\)](https://open.spotify.com/album/6s1WAw8PLHI0CpbNZmnKlf) | 2:58 |
 | 50 | [拜託拜託給我一口](https://open.spotify.com/track/4S9viB1FQTAhNKO9B3ZXVT) | [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [拜託拜託給我一口](https://open.spotify.com/album/3CFiQfrYmJ5Z8uy3j9ADXs) | 2:29 |
 
-Snapshot ID: `AAAAAC8caAU9fzyTFdBbNMWBXPkzRLEJ`
+Snapshot ID: `AAAAALqLASah+oi2J7+a4w2kk6rC41s2`

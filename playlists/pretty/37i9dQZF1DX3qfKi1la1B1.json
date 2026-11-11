@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 126937,
+  "num_followers": 126935,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkv0HFv+kGUS722k4XtOTcKbawV",
+  "snapshot_id": "AAAAALPAqp/XXVnnQWIzeOIJ4t0d3Ay/",
   "tracks": [
     {
       "added_at": "2026-11-06 09:54:19",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
+        "name": "gg bb xx (deluxe)",
+        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "the older you get, the less you cry",
+      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
         "name": "worst behaviour (feat. Kehlani)",
         "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "gg bb xx (deluxe)",
-        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "the older you get, the less you cry",
-      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
       "added_at": "2026-11-06 09:54:19",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-11-06 09:54:19",
       "album": {
-        "name": "Separate",
-        "url": "https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 256852,
-      "name": "Separate",
-      "url": "https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh"
-    },
-    {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
         "name": "OVERHEAT",
         "url": "https://open.spotify.com/album/5EbV1i5shtromh6PVT61qs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 202780,
       "name": "OVERHEAT",
       "url": "https://open.spotify.com/track/0Bm1E39pljqvab5us0ucUO"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
+        "name": "Separate",
+        "url": "https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 256852,
+      "name": "Separate",
+      "url": "https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-11-06 09:54:19",
       "album": {
+        "name": "Way back to You",
+        "url": "https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 121533,
+      "name": "Way back to You",
+      "url": "https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
         "name": "Confirmation!",
         "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 303173,
       "name": "Weird Goodbyes (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
-    },
-    {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "Way back to You",
-        "url": "https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 121533,
-      "name": "Way back to You",
-      "url": "https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no"
     },
     {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "Puddle",
-        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 117489,
-      "name": "Puddle",
-      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
-    },
-    {
       "added_at": "2026-06-12 13:48:34",
       "album": {
         "name": "Night Drive",
@@ -739,6 +723,22 @@
       "duration_ms": 235015,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
+        "name": "Puddle",
+        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 117489,
+      "name": "Puddle",
+      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -1321,24 +1321,20 @@
       "url": "https://open.spotify.com/track/52ju45KU6tOpb0Nk8vRKN5"
     },
     {
-      "added_at": "2026-11-06 09:54:19",
+      "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "You Want My Everything",
-        "url": "https://open.spotify.com/album/14Oe4NtHXod48n73yEOTIM"
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
       },
       "artists": [
         {
-          "name": "Sincere",
-          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
-        },
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 217404,
-      "name": "You Want My Everything",
-      "url": "https://open.spotify.com/track/0LNzqdWKtTlKH5nSkO3VgJ"
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     }
   ],
   "unique_name": "Midnight Chill",

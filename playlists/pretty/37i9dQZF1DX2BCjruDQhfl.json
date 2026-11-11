@@ -1,12 +1,12 @@
 {
   "description": "Tracks voor de juiste vibe. Cover: Lavils",
-  "num_followers": 193186,
+  "num_followers": 193178,
   "original_name": "Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4NEE44dXT4XhS9QA1AW/tWLpJY",
+  "snapshot_id": "AAAAAATskyY3/hdZJ94DKoOMqgBeCpnn",
   "tracks": [
     {
       "added_at": "2026-11-05 23:01:24",
@@ -444,12 +444,12 @@
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
           "name": "Nelson Freitas",
           "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
         }
       ],
       "duration_ms": 169565,

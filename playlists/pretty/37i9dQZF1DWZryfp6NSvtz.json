@@ -1,12 +1,12 @@
 {
   "description": "The best new rock & alternative tracks every week. Cover: Kings of Leon",
-  "num_followers": 961897,
+  "num_followers": 961949,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkvPwr/Sid10YJMp5E4OHHv4+ub",
+  "snapshot_id": "AAAAAFEOkIWQ+0slwOGgtG3AAXo+W2ID",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:24",
@@ -439,6 +439,22 @@
       "duration_ms": 179253,
       "name": "john dearly",
       "url": "https://open.spotify.com/track/3v34PIRb54ovlyHu8y0qhA"
+    },
+    {
+      "added_at": "2026-11-10 22:24:09",
+      "album": {
+        "name": "Don\u2019t Worry Dynamite",
+        "url": "https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "duration_ms": 167628,
+      "name": "Don\u2019t Worry Dynamite",
+      "url": "https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn"
     },
     {
       "added_at": "2026-11-06 05:00:24",

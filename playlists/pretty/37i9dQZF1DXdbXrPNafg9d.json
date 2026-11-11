@@ -1,12 +1,12 @@
 {
   "description": "The BEST new music every Friday, by INDIE EDITORS Cover: Rex Orange County ",
-  "num_followers": 1287536,
+  "num_followers": 1287493,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIkglT5jrRbdAvFhO8njUVmfZFga",
+  "snapshot_id": "AAAAAJKLCL8e7CP3cJYyy2ogUYMcPRK6",
   "tracks": [
     {
       "added_at": "2026-11-06 05:01:46",
@@ -367,6 +367,22 @@
       "duration_ms": 220666,
       "name": "Tramp Stamp",
       "url": "https://open.spotify.com/track/4V1oJnPeDOuf6VYxILJ4Ux"
+    },
+    {
+      "added_at": "2026-11-06 05:01:46",
+      "album": {
+        "name": "Edge of the World",
+        "url": "https://open.spotify.com/album/0hvPBpoZaslvJG92YZRO8H"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 171456,
+      "name": "Edge of the World",
+      "url": "https://open.spotify.com/track/4AoImzpO7KR5WPG1sKKoXF"
     },
     {
       "added_at": "2026-11-06 05:01:46",

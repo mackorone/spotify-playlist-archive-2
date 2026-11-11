@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-250 songs - 14 hr 22 min
+251 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 | 2020-09-18 | 2025-03-29 |
 | [Mi Mirada](https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ) | [Toda la Vida](https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy), [Jullie](https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb) | [Mi Mirada](https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd) | 2:36 | 2025-12-12 |  |
 | [Mmm](https://open.spotify.com/track/1p5lFrpK7PzRe7WbY2Fx9K) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF), [Eliecer Cuevas](https://open.spotify.com/artist/3ACZ4Y0vSKbzdPJuir3ReB) | [Mmm](https://open.spotify.com/album/0OljsmkqrW9jqaRD6ZF6dW) | 2:22 | 2024-07-05 | 2026-05-06 |
-| [Momento](https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Momento](https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI) | 2:52 | 2026-03-23 |  |
+| [Momento](https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Momento](https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI) | 2:52 | 2026-03-23 | 2026-11-11 |
 | [Momentos felices](https://open.spotify.com/track/6ZxXGMEsOgsGgZENDviYJA) | [Ramudo](https://open.spotify.com/artist/11Wr9kpaQhtNFV1yahBI1Y), [LI4M](https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs) | [Momentos felices](https://open.spotify.com/album/06ZU19SJRWpFPv3PBJW4Dc) | 2:46 | 2025-03-28 |  |
 | [Motivo de mi cancion](https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:31 | 2020-09-18 | 2024-07-05 |
 | [Más De Ti \- En Vivo](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti \(En Vivo\)](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 | 2024-08-23 | 2024-09-07 |
@@ -227,6 +227,7 @@
 | [Soy Tu Padre](https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:54 | 2020-09-18 | 2025-09-15 |
 | [Subiendo](https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Envero](https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13) | 3:39 | 2024-12-11 |  |
 | [Suficiente](https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP) | [Eiem](https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i) | [Suficiente](https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl) | 2:38 | 2025-12-12 | 2026-08-02 |
+| [Sus Planes](https://open.spotify.com/track/0JFiv3bN3zDMIHVQE1Junz) | [Freddy Alca](https://open.spotify.com/artist/3Loh79yV2kBqB9shCwVvlT), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Sus Planes](https://open.spotify.com/album/1tlNRgEKgysgoSJLFKymDC) | 3:34 | 2026-08-01 |  |
 | [Te Amo](https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Te Amo](https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp) | 3:58 | 2024-07-05 |  |
 | [TE ENCONTRE](https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w) | [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [SEÑALES](https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC) | 2:15 | 2025-09-14 |  |
 | [TE QUIERO A MI LAU <3](https://open.spotify.com/track/633xpklRiB5wdid6tmzBdQ) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [TE QUIERO A MI LAU <3](https://open.spotify.com/album/77AGAXhsDQPkj37PypBlne) | 3:24 | 2025-09-14 |  |

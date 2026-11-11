@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,499 likes - 87 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,498 likes - 87 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 86 | [Purple Skies](https://open.spotify.com/track/77bC0ESV61P6wYnePiO6z3) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Purple Skies](https://open.spotify.com/album/0xmGwUw4lgPKOHo57tETAP) | 3:17 |
 | 87 | [One Day I'll Learn \(ft\. Young Cocoa\)](https://open.spotify.com/track/114M54VHxRmEj9uDprKQC0) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Young Cocoa](https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW) | [One Day I'll Learn \(ft\. Young Cocoa\)](https://open.spotify.com/album/2rW6tRZZPnJNC4aroyrI8b) | 2:36 |
 
-Snapshot ID: `AAAAAKgCpolzwhb42JvWQCSJVjHVeMgk`
+Snapshot ID: `AAAAAPmQSa1cyyjSYWRdjLuLPRoZDsP0`

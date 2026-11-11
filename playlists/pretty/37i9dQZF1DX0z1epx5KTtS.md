@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,662 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,723 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [C’est pas matata](https://open.spotify.com/track/6cPLTuY7vi5spSn6IbaeCh) | [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO) | [C’est pas matata](https://open.spotify.com/album/5g0yK6gAZRml1VHFI1vJoZ) | 2:38 |
 | 40 | [BABAYA](https://open.spotify.com/track/63PE9Ei0tplWbkJOe2mvtV) | [l3flo](https://open.spotify.com/artist/5CIecQ1dhoYwCU0UCch4Y4), [Yop Confrérie](https://open.spotify.com/artist/0FDZKjI23KqskNVVx9vmU1), [100 Papo](https://open.spotify.com/artist/19dg3QEuepSiyqPPdwHmMj), [RUIGI BOMBE](https://open.spotify.com/artist/2IrOu1Z9CjvS9KYl4cg8eV), [RUGO](https://open.spotify.com/artist/2ggDExc2zMpm3UAblW8x74), [J\-SK](https://open.spotify.com/artist/1v1MFa4FbB2Zez6kDhC93q), [DAM’S BOY](https://open.spotify.com/artist/4X2BX1CKOqgoL0ClOnEmUv), [MISTER\-X](https://open.spotify.com/artist/3ePzGT00Ma57aRYWdEzjjV) | [YOP CONFRÉRIE IT'S THE END](https://open.spotify.com/album/49CGOt37PX91QQcWn4F5mr) | 2:21 |
 
-Snapshot ID: `AAAAAIXpEQNHuO8TSoFbVbCzQn2HIiJW`
+Snapshot ID: `AAAAACffQDhBT3l1OqRQpbiu0zcX6MIN`

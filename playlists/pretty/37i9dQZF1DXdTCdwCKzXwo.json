@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1279281,
+  "num_followers": 1279303,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4lJxy0tIRthGvmyOZmfolE6Kue",
+  "snapshot_id": "AAAAAKO2H2zar4fdMwh6CVqBiCtQvUr6",
   "tracks": [
     {
       "added_at": "2025-01-14 03:34:33",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "Duran Duran (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 212853,
       "name": "Girls on Film - 2010 Remaster",
       "url": "https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM"
     },
     {
       "added_at": "2025-01-14 03:34:33",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "The Best of Faces: Good Boys When They're Asleep",
-        "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Ooh La La - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "Built For Speed",
         "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+        "name": "The Best of Faces: Good Boys When They're Asleep",
+        "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
         }
       ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
+      "duration_ms": 214960,
+      "name": "Ooh La La - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
     },
     {
       "added_at": "2025-01-14 03:34:33",
@@ -843,6 +827,22 @@
       "duration_ms": 418466,
       "name": "soon",
       "url": "https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2025-01-14 03:34:33",

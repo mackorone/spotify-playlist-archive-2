@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > petra on the cover :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,272 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,303 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 148 | [Diamonds](https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Diamonds](https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW) | 4:08 |
 | 149 | [All Them Horses](https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:13 |
 
-Snapshot ID: `AAAAAA4LSf2V515og/6sVDRS8RuZtG67`
+Snapshot ID: `AAAAAKVUHRhQ9fL+EQYjoXYMhp15USCT`

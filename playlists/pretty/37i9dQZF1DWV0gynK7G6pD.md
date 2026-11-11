@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover:  Víkingur Ólafsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,300 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,307 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 99 | [Samara \(maple seed\) mvmt\. iii \- find roots](https://open.spotify.com/track/0Jix0S3heCJvxkEMAnw2iZ) | [inti figgis\-vizueta](https://open.spotify.com/artist/1Fxh91yHGKkjZkRRskVZ94), [Rothko String Quartet](https://open.spotify.com/artist/5rfaOuvjwlE9L8B8AlgCGf), [Andrew Yee](https://open.spotify.com/artist/2Vpzweg6rsrggAAHoB07lA) | [Music For Transitions](https://open.spotify.com/album/5S0BeSjOSn7DMktOkNiFXA) | 2:42 |
 | 100 | [Trois pièces pour deux pianos préparés: No\. 1, Gamelhang](https://open.spotify.com/track/0HbkQuhombSkbgyMn9CC3m) | [Yvonne Loriod](https://open.spotify.com/artist/0WyMN3Wn0hKteagEoJp3dH), [Roger Muraro](https://open.spotify.com/artist/0VtAXrVBxC3fDivknif8Mt), [Florent Boffard](https://open.spotify.com/artist/0VpaERB17GGUyYPzYcU48B) | [Loriod & Messiaen](https://open.spotify.com/album/3zmV9Fl6IIDEfMP47OEbC5) | 3:50 |
 
-Snapshot ID: `AAAAAJaY51O+rh+GdHvAyLYNf5+xQkk1`
+Snapshot ID: `AAAAAMXC37HKF5h/lSLrhjYr7eYTB8Jy`

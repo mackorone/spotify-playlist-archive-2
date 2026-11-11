@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 135000,
       "name": "Calm Mind, in the Forest",
       "url": "https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC"
@@ -5724,6 +5724,24 @@
       "duration_ms": 160000,
       "name": "Stargazing at Dawn",
       "url": "https://open.spotify.com/track/51WFbZpYir2eZGtXXrJDSY"
+    },
+    {
+      "album": {
+        "name": "Still Wandering",
+        "url": "https://open.spotify.com/album/3A2NwPm1DIZaZSTB0R76PF"
+      },
+      "artists": [
+        {
+          "name": "Faded Grandeur",
+          "url": "https://open.spotify.com/artist/64ODerOSP4aFrfGgTQ7nbe"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "Still Wandering",
+      "url": "https://open.spotify.com/track/4c1lth1zR4fHD8VQ4Jz7Mg"
     },
     {
       "album": {

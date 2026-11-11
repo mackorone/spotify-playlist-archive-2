@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458,024 likes - 101 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,086 likes - 101 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Ghostface Killah](https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Ghostface Killah](https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut) | 2:17 |
 | 101 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 |
 
-Snapshot ID: `AAAAAL+UjkW4+nJM8RwY2sYcafrsmU9G`
+Snapshot ID: `AAAAAIkaNOV9280PU7S78/N+Fy7OqbTK`

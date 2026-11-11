@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,425 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,403 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 99 | [Herkkisten liiga](https://open.spotify.com/track/7vVfrEznUhDS3o4CND3QNb) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Herkkisten liiga](https://open.spotify.com/album/5xKaloO6TrGWYP4x8fPeE8) | 3:05 |
 | 100 | [Pahoille teille](https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Pahoille teille](https://open.spotify.com/album/30uvqyR8zMCrmnZ6IGwH31) | 2:38 |
 
-Snapshot ID: `AAAAAFB4gXGGimu21LBSktMKBKKM34S5`
+Snapshot ID: `AAAAAJfgRxDdYhi+pKeQJPsfTs5RALm5`

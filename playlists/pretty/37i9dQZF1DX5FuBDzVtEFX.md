@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back and relax to soft ukulele sounds from Hawaii 🏝️
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,374 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,370 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 41 | [Die With A Smile](https://open.spotify.com/track/4U865nUJqG2MrMvafrTvR3) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Die With A Smile](https://open.spotify.com/album/1sK5Yy6L3jJgb7j9HGqZma) | 4:06 |
 | 42 | [After Surf](https://open.spotify.com/track/4AsbXl4HsasxVm4BBkKJd4) | [Taylor Tyler](https://open.spotify.com/artist/6ry9ltnbChMrzsLRQlJapY) | [After Surf](https://open.spotify.com/album/1DTfXTwSyAce5DYVFmMFhR) | 2:04 |
 
-Snapshot ID: `AAAAAIPkllaxiJXugTF8OQTHgliA1lRQ`
+Snapshot ID: `AAAAANSCxwBvOEJg6pbPffBaEECPd5Kz`

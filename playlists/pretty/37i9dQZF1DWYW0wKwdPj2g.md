@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,894 likes - 100 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,945 likes - 100 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [ABBA'S DELICACY, Vol\. 2 \(Banner Over Me / Lord You Reign Forever\) \- Live at Streams Of Joy, Houston](https://open.spotify.com/track/43bQOivZ4T5vgj3tgADNdB) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [ABBA'S DELICACY, Vol\. 2 \(Banner Over Me / Lord You Reign Forever\) \[Live at Streams Of Joy, Houston\]](https://open.spotify.com/album/3AVSFMO51VkjWaFFxfs5S0) | 6:33 |
 | 100 | [Everywhere I Go \- Live](https://open.spotify.com/track/13dUU8tvT6juLVhhcPSt0C) | [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST), [Kings College](https://open.spotify.com/artist/7u9zdwv2pvSwUUDWJ72zir) | [Everywhere I Go \(Live\)](https://open.spotify.com/album/2S7n94sYKgK90qn7WTKj46) | 3:56 |
 
-Snapshot ID: `AAAAAIlHDdRGWmpWYE8MDhGmbEaU8Ktg`
+Snapshot ID: `AAAAAI9pMo4cFcUWHjbvACRlKSjrgd9T`

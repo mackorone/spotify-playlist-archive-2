@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sena Gül ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,065 likes - 134 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,035 likes - 134 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 133 | [RITIM GUZEL](https://open.spotify.com/track/5CiJqJ1PPHjqg5ERS1InUk) | [shao](https://open.spotify.com/artist/7j5nMFqn5f7Gy0ElhOA5QD) | [RITIM GUZEL \#SGA](https://open.spotify.com/album/577OdECfCBkTz6fhpaGteM) | 1:49 |
 | 134 | [Ya Ben](https://open.spotify.com/track/13xTRk2AtZqmIInlik9FyT) | [hasan bayar](https://open.spotify.com/artist/4bdtYZMnOfEDmEdhSXGaPr) | [Ya Ben](https://open.spotify.com/album/7KAGx51W5PvrpawJiwFETV) | 2:38 |
 
-Snapshot ID: `AAAAAP1pftt9FMn1PsrB5vl164WXL1gC`
+Snapshot ID: `AAAAAMKap4kMfjUHjeoUZLRq0mvce9RP`

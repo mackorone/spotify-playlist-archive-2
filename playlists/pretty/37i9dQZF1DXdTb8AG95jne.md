@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,829 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,818 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [My Gravity](https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [My Gravity](https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d) | 3:41 |
 | 50 | [Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Remaining](https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx) | 5:17 |
 
-Snapshot ID: `AAAAAE7sh8l32cWmmWsOuIzkF6MnWiHl`
+Snapshot ID: `AAAAAKdfRVIo/0BjIwO1XJPVa9tEq7sB`

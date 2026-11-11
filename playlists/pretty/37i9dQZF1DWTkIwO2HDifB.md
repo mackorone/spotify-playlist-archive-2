@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: MC JVila
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,823,410 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,823,717 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Chatão](https://open.spotify.com/track/5jXXQY6LLlEtEWMDL6XcaP) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG), [Gubeatz](https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Chatão](https://open.spotify.com/album/6qtdLyhX199LWgKEBLwgkc) | 5:14 |
 | 50 | [365 Dias \(Vida Mansa\)](https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7) | [365 Dias \(Vida Mansa\)](https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt) | 8:47 |
 
-Snapshot ID: `AAAAAPfOGogZCyo+aV3JSjP15GKiS4eP`
+Snapshot ID: `AAAAAEf7qh1e3G/Rgbd2pyQISWp9USiu`

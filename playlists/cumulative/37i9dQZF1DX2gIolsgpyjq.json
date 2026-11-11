@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Alba Akvama",
+  "description": "The best new music by independent artists in the Nordics. Cover: Stephanie Gilbert",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -1186,6 +1186,24 @@
       "duration_ms": 171816,
       "name": "All Rights Reserved",
       "url": "https://open.spotify.com/track/5CPaaWaQQzvsCTK0oaCuBw"
+    },
+    {
+      "album": {
+        "name": "All Shapes and Sizes",
+        "url": "https://open.spotify.com/album/0CWaZFZDNy0LI4WDuUMZgs"
+      },
+      "artists": [
+        {
+          "name": "erdocia",
+          "url": "https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243380,
+      "name": "All Shapes and Sizes",
+      "url": "https://open.spotify.com/track/6ZCKY7vpwiEiA2vV5fCT4A"
     },
     {
       "album": {
@@ -2411,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "HEYVAN",
+        "url": "https://open.spotify.com/album/6b8hipiCdd8m1jj8mrekIg"
+      },
+      "artists": [
+        {
+          "name": "PAYDAR",
+          "url": "https://open.spotify.com/artist/4QXhX7CbOMy8HKl8rZNYEt"
+        },
+        {
+          "name": "Nick AM",
+          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Bedouin Omakase",
+      "url": "https://open.spotify.com/track/6dzpr2bWQaxHJ1LUrXwRHs"
+    },
+    {
+      "album": {
         "name": "bedroom safe house",
         "url": "https://open.spotify.com/album/4bCQaXyAKDqnhrrAstkdr8"
       },
@@ -2916,7 +2956,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 187173,
       "name": "Big Spender",
       "url": "https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm"
@@ -12527,6 +12567,24 @@
     },
     {
       "album": {
+        "name": "sucker for love and heartbreaks",
+        "url": "https://open.spotify.com/album/6LbUWrnOZJ3uUydCJ7UWR5"
+      },
+      "artists": [
+        {
+          "name": "drea",
+          "url": "https://open.spotify.com/artist/5uAxEwTjRGgSqL1NkSROTM"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187562,
+      "name": "How to heal a broken heart",
+      "url": "https://open.spotify.com/track/6eUWmudpYHaNRtfFE8ZYF6"
+    },
+    {
+      "album": {
         "name": "How Will It Be",
         "url": "https://open.spotify.com/album/2rIfbdQG7ov8b3mfmPnBbS"
       },
@@ -13076,6 +13134,24 @@
       "duration_ms": 160512,
       "name": "I Know, It's for the Better",
       "url": "https://open.spotify.com/track/66TZajdc6UWW6RGf2dilSa"
+    },
+    {
+      "album": {
+        "name": "I like to be disappointed by you",
+        "url": "https://open.spotify.com/album/1pIlsWA83vCXotxgLCv9d7"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155135,
+      "name": "I like to be disappointed by you",
+      "url": "https://open.spotify.com/track/76E1JjXTpcpEfkBNpPpITW"
     },
     {
       "album": {
@@ -13924,6 +14000,24 @@
       "duration_ms": 137160,
       "name": "If I'm So Bad",
       "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
+    },
+    {
+      "album": {
+        "name": "If Nobody Knows, Does It Count?",
+        "url": "https://open.spotify.com/album/4X9Xm9PG1p4VWtUSIOF33C"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186571,
+      "name": "If Nobody Knows, Does It Count?",
+      "url": "https://open.spotify.com/track/7l1ijteM7MuWzv9Be4PRpO"
     },
     {
       "album": {
@@ -15040,7 +15134,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 249454,
       "name": "Kelly",
       "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
@@ -15408,7 +15502,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 208153,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/10nw6y9It4go7FGkOQpyAo"
@@ -17260,7 +17354,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 250760,
       "name": "Lovers Do",
       "url": "https://open.spotify.com/track/0ouGC6EHTX7b9TYJnumbtB"
@@ -19686,7 +19780,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 155771,
       "name": "No One Calls",
       "url": "https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC"
@@ -23889,6 +23983,24 @@
     },
     {
       "album": {
+        "name": "Elvish",
+        "url": "https://open.spotify.com/album/1A2uWBHdMvYc5zPXgA5ahj"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Gilbert",
+          "url": "https://open.spotify.com/artist/7s2F8U3eodhEj30m3ghK38"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151413,
+      "name": "Royal Blue",
+      "url": "https://open.spotify.com/track/7eaXuBTPKvrUdeUSKrsXEy"
+    },
+    {
+      "album": {
         "name": "ruin my life",
         "url": "https://open.spotify.com/album/3Pn44ZS95ff5bdvokwpgWi"
       },
@@ -26590,7 +26702,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 247741,
       "name": "Stereot",
       "url": "https://open.spotify.com/track/3FhY15yjub9sIofJK5nHFk"
@@ -30276,7 +30388,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 161124,
       "name": "Vinters\u00f6mn",
       "url": "https://open.spotify.com/track/1rJ3chyDgqnVxUGAYkkFzS"
@@ -32168,7 +32280,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 270208,
       "name": "You Are My World",
       "url": "https://open.spotify.com/track/64ygi7YiL0AjFi7QsurPaK"

@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 38647,
+  "num_followers": 38648,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNZ1HBdMak4bHTC/s78W47H29hW",
+  "snapshot_id": "AAAAALk57uBWqvgW/aWLHRADT7P6DH1m",
   "tracks": [
     {
       "added_at": "2024-07-09 16:51:18",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
+        "name": "Wat Maakt Dat Nou Uit",
+        "url": "https://open.spotify.com/album/0bgzHWIWQAvfkU2FwK085R"
+      },
+      "artists": [
+        {
+          "name": "Willem Duyn",
+          "url": "https://open.spotify.com/artist/0FBC3i2GQtzRe9jUodXf3c"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Willem",
+      "url": "https://open.spotify.com/track/6VbIs6wZ0n3PK0BIAZT7j1"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
         "name": "Wilma",
         "url": "https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 242526,
       "name": "Zou Het Erg Zijn, Lieve Opa",
       "url": "https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
-        "name": "Wat Maakt Dat Nou Uit",
-        "url": "https://open.spotify.com/album/0bgzHWIWQAvfkU2FwK085R"
-      },
-      "artists": [
-        {
-          "name": "Willem Duyn",
-          "url": "https://open.spotify.com/artist/0FBC3i2GQtzRe9jUodXf3c"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Willem",
-      "url": "https://open.spotify.com/track/6VbIs6wZ0n3PK0BIAZT7j1"
     },
     {
       "added_at": "2024-07-09 16:51:18",

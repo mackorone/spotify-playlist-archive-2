@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,547 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,549 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [Both Ways](https://open.spotify.com/track/2fhpTXPi3ZgHC65dijvxdu) | [Ling Hussle](https://open.spotify.com/artist/5dRGjTajHb5S33PwfxAaBj) | [Both Ways](https://open.spotify.com/album/75M5HDci2spicURlkkPnM1) | 2:55 |
 | 50 | [History](https://open.spotify.com/track/2Zy9coOAVIZ5pnyMmTh4xQ) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [History](https://open.spotify.com/album/3zaJdLzBFpe9YltVUweoY0) | 4:13 |
 
-Snapshot ID: `AAAAANgbeklORfp/Z2EqsQ3NHj6DCllU`
+Snapshot ID: `AAAAAAU5yYRHvXN2SdkiXzvUIPkLkh7R`

@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 29 | [CRAVE](https://open.spotify.com/track/50SUnncCfKuGD0IPv6PhTY) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG) | [CRAVE](https://open.spotify.com/album/1NTxx4EcslkUHBrpvj27GW) | 2:21 |
 | 30 | [Revenge Is Sweeter \(Than You Ever Were\)](https://open.spotify.com/track/6oFtzqdUxNFxVLrLTbhpJK) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 3:42 |
 
-Snapshot ID: `augY0AAAAABGd1lhEgpsbUT6DO2K+y9S`
+Snapshot ID: `avFTUAAAAAD4Hnrn5aA+8Ih1itQmBclN`

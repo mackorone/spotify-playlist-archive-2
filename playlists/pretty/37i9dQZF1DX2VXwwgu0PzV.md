@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. Cover: Princeton South
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,275 likes - 110 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,280 likes - 110 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 109 | [P139](https://open.spotify.com/track/4fqp3iEbiBtxbaqwQPCk7p) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [All Roads Lead To Adonai](https://open.spotify.com/album/2xj6lrZ5xamj8ZlpduIF5e) | 4:28 |
 | 110 | [LOVE](https://open.spotify.com/track/6BK2U3UXKhGz2TbfAqxzCh) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [LOVE](https://open.spotify.com/album/6Bt6L4p8ZSWLsKr75KAgpW) | 2:02 |
 
-Snapshot ID: `AAAAAApadByGad1IFdmlr4engLG9Y80S`
+Snapshot ID: `AAAAACgcqVPVjx+jBuGgHkhcUS8SOBKb`

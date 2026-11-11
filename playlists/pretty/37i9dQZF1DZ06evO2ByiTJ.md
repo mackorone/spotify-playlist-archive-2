@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/track/0cbFt604EkPvV6yVTPiqSX) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI) | 3:40 |
 | 50 | [A Palavra \(Ao Vivo\)](https://open.spotify.com/track/1hW3OWRu4arg3CUUAiWn3H) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Palavra \(Ao Vivo\)](https://open.spotify.com/album/3ojRnKZuKuprwPFnjECu2A) | 4:19 |
 
-Snapshot ID: `au+7gAAAAAA5Z7w9hleFjpEFZiL6BKUY`
+Snapshot ID: `avENAAAAAAD7g56mAc+2hpkjjyI2NO4e`

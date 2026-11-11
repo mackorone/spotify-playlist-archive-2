@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,587 likes - 81 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,567 likes - 81 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 80 | [Party](https://open.spotify.com/track/6k2hIlLFHxBoF6AKqUHDPZ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/3DA9jCcxWjXmlDqJWGLNJs) | 3:21 |
 | 81 | [I Don't Have Any Problems](https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [I Don't Have Any Problems](https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj) | 2:03 |
 
-Snapshot ID: `AAAAAJ+t9xMDYrq2TlI59H4TFhvzhn9z`
+Snapshot ID: `AAAAAIvUfnf+/YOQEhXp1NI2RYeJXeMV`

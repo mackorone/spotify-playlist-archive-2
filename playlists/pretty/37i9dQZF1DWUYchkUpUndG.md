@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Jvson
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,200 likes - 98 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,212 likes - 98 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 97 | [Jesus](https://open.spotify.com/track/4m6pnffyyH6NGaig7PaG2I) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Jesus](https://open.spotify.com/album/382EO4RAbgV31QPUJbl30j) | 5:09 |
 | 98 | [GRACE BROUGHT ME](https://open.spotify.com/track/0O50xj1xKcpegzwD3Ikqn7) | [TheWorshipper EPG](https://open.spotify.com/artist/43XHvBQtirLrlrFaIsSwli) | [GRACE BROUGHT ME](https://open.spotify.com/album/4FcRs4OaoI32rvzOAjEPIE) | 5:48 |
 
-Snapshot ID: `AAAAAF69/mCISYZwtOt1Xwv1AiMoyxpq`
+Snapshot ID: `AAAAABFEL1nWagA7npP0YCTxP3HWK4uO`

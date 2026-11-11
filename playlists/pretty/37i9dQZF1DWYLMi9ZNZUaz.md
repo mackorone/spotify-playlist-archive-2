@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,181 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,194 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 5 | [Người Im Lặng Gặp Người Hay Nói](https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Người Im Lặng Gặp Người Hay Nói](https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh) | 4:16 |
 | 6 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 |
 | 7 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
-| 8 | [Một Nửa Sự Thật](https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Một Nửa Sự Thật](https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I) | 3:50 |
-| 9 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 |
+| 8 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 |
+| 9 | [Một Nửa Sự Thật](https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Một Nửa Sự Thật](https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I) | 3:50 |
 | 10 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |
 | 11 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
 | 12 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 44 | [Berlin](https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v) | [Khoi Vu](https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93) | [Berlin](https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE) | 2:18 |
 | 45 | [Em Bé](https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Em Bé](https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN) | 3:12 |
 | 46 | [ABG](https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2) | [nhan.](https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t), [Xuanpac](https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM) | [ABG](https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l) | 3:00 |
-| 47 | [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 |
-| 48 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
+| 47 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
+| 48 | [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 |
 | 49 | [BÊN ANH](https://open.spotify.com/track/6zA4zZf2aAoF74L16EePDQ) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Lil Liem](https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 2:17 |
 | 50 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
 
-Snapshot ID: `AAAAAJ0oo518aqVSgDEbB3c2keq2yY6v`
+Snapshot ID: `AAAAADWMoiIwnUVCe3Yl1yvpTHgoJ0fz`

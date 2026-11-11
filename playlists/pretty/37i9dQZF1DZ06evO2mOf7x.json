@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47782,
+  "num_followers": 47788,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAADKfPn9J1PZhszoHZmjl8hp",
+  "snapshot_id": "avENAAAAAAAS+LD+rYTRgF9mmJ5I9ALY",
   "tracks": [
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Robados",
-        "url": "https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 157920,
-      "name": "Besos Robados",
-      "url": "https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 151973,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Robados",
+        "url": "https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 157920,
+      "name": "Besos Robados",
+      "url": "https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tributo al Rey Con Banda (Grandes Duetos Vol. 2)",
-        "url": "https://open.spotify.com/album/4qAzZHdsN1frGTkE6KvAf8"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7gTlqMKTGQ3HLfxb44OUQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bienvenida La Vida",
         "url": "https://open.spotify.com/album/7xQv3PTU4JYVMoiLZu3VOx"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 234208,
       "name": "Amor Perfecto",
       "url": "https://open.spotify.com/track/1VKQJRwGOEZn0eHa1bPsDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tributo al Rey Con Banda (Grandes Duetos Vol. 2)",
+        "url": "https://open.spotify.com/album/4qAzZHdsN1frGTkE6KvAf8"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7gTlqMKTGQ3HLfxb44OUQ6"
     },
     {
       "added_at": null,

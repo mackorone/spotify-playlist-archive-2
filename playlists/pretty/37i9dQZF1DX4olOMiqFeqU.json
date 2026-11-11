@@ -1,12 +1,12 @@
 {
-  "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2405561,
+  "description": "100% Pinoy hits from your favorite artists! Cover: juan karlos",
+  "num_followers": 2405147,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADD3y6e33BWKKMyuhzNyGblTt2OK",
+  "snapshot_id": "AAAAAPKiukxBYN0iCDV7e2L0xW0fVB3v",
   "tracks": [
     {
       "added_at": "2026-10-02 03:23:34",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Misteryoso",
+        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 221641,
+      "name": "Misteryoso",
+      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Misteryoso",
-        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 221641,
-      "name": "Misteryoso",
-      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "RD Covers (Live)",
         "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Oksihina",
-        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 204051,
-      "name": "Oksihina",
-      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Sila",
         "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 326000,
       "name": "Sila",
       "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Oksihina",
+        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 204051,
+      "name": "Oksihina",
+      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Dilaw",
-        "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Dilaw",
-      "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Twelve: Fifty One (International Version)",
         "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Dilaw",
+        "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Dilaw",
+      "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Balisong (Transformed)",
         "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 163571,
       "name": "Balisong - Transformed",
       "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Ang Wakas (feat. Trisha Macapagal)",
-        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        },
-        {
-          "name": "Trisha Macapagal",
-          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ang Wakas (feat. Trisha Macapagal)",
-      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -807,6 +787,26 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Ang Wakas (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ang Wakas (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Nobela",
-        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
       "artists": [
         {
-          "name": "Join The Club",
-          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
         }
       ],
-      "duration_ms": 291506,
-      "name": "Nobela",
-      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     }
   ],
   "unique_name": "OPM Favorites",

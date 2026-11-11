@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,510 likes - 89 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,453 likes - 89 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 88 | [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 |
 | 89 | [Upside Down](https://open.spotify.com/track/6T4ug8wsWpC8N8tJO4X31s) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Upside Down](https://open.spotify.com/album/11HLVIOuiubtk9xnVGJMHZ) | 2:19 |
 
-Snapshot ID: `AAAAABgRT8WYSu4U8zOLT1PEi6uO1J+9`
+Snapshot ID: `AAAAAOQDqrveOJfHiLtE3NN2McHcmcBN`

@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 125181,
+  "num_followers": 125194,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0oo518aqVSgDEbB3c2keq2yY6v",
+  "snapshot_id": "AAAAADWMoiIwnUVCe3Yl1yvpTHgoJ0fz",
   "tracks": [
     {
       "added_at": "2026-10-23 00:44:29",
@@ -151,6 +151,26 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Tr\u1edf V\u1ec1",
+      "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
         "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
         "url": "https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 230036,
       "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
       "url": "https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "JustaTee",
-          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Tr\u1edf V\u1ec1",
-      "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -967,6 +967,26 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
+        "name": "Ch\u00ecm S\u00e2u",
+        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ch\u00ecm S\u00e2u",
+      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
         "name": "MEDICINE",
         "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
-        "name": "Ch\u00ecm S\u00e2u",
-        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ch\u00ecm S\u00e2u",
-      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
     },
     {
       "added_at": "2026-10-23 00:44:29",

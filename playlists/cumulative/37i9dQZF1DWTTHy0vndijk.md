@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: RESCENE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: CHAERYEONG\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-573 songs - 1 day 7 hr 1 min
+574 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Love Your Flower](https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [Love Your Flower](https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp) | 3:10 | 2025-09-17 | 2025-11-26 |
 | [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 | 2022-10-24 | 2023-05-07 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-07 | 2022-07-09 |
+| [Lovesick](https://open.spotify.com/track/0TjdkkN0gxVHrUkmw7WNtD) | [CHAERYEONG](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [Lovesick](https://open.spotify.com/album/0WDSuTC158mmg6uhRs6ABJ) | 3:04 | 2026-11-10 |  |
 | [Lucky](https://open.spotify.com/track/7eirSc5kjfrK1R7Wo06pos) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:04 | 2022-04-04 | 2022-04-14 |
 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 | 2024-03-27 |  |
 | [Luv Star](https://open.spotify.com/track/7DtzD0e13U040fJjyDeTnE) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [SNOWFLAKE](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:08 | 2022-04-04 | 2022-04-19 |
@@ -392,7 +393,7 @@
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-20 | 2022-07-05 |
 | [remembrance candy](https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:04 | 2024-10-16 | 2024-10-22 |
 | [Renaissance](https://open.spotify.com/track/73tK3X9QfFjSjby77aeKye) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Dream your dream](https://open.spotify.com/album/6PfJc6U6hFSmFs0AxaTEeY) | 3:41 | 2021-11-29 | 2022-06-12 |
-| [Replay](https://open.spotify.com/track/1OacIJuG9iPovyPMiwRfzW) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Replay](https://open.spotify.com/album/3wOSbNWpUutUJT8TcXQGyz) | 2:57 | 2026-11-05 |  |
+| [Replay](https://open.spotify.com/track/1OacIJuG9iPovyPMiwRfzW) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Replay](https://open.spotify.com/album/3wOSbNWpUutUJT8TcXQGyz) | 2:57 | 2026-11-05 | 2026-11-11 |
 | [Ridin' Out](https://open.spotify.com/track/0WRjZPy5qlpvgzM0hwBIc2) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:56 | 2024-03-18 | 2024-04-05 |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-11-29 | 2022-10-28 |
 | [Rock U](https://open.spotify.com/track/1UH0rFRBSBEtgtUdqNKFK5) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [The Best Of KARA](https://open.spotify.com/album/1hbLjh2GLYu56RMNIy5kRr) | 3:31 | 2022-03-29 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,480 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,479 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 7 | [Bahar](https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD) | [Mektup](https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d) | 6:55 |
 | 8 | [Kabenin Yolları](https://open.spotify.com/track/2v6lbiYkIw9ePZq52oFC4v) | [Yunus Emre](https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ) | [The Nay 2](https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2) | 2:46 |
 | 9 | [Ney'le Zalimsin Hicazkar Taksim](https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5) | [Murat Akman](https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe) | [Ney Taksimleri](https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD) | 1:50 |
-| 10 | [Göğe Açılan Eller](https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:57 |
+| 10 | [Müşterek Taksim 1](https://open.spotify.com/track/1V3GpxsOD06c4feFR8q8wY) | [Salih Bilgin](https://open.spotify.com/artist/7CMATW5ajHZY1jixAMb4VW), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv) | [Neva](https://open.spotify.com/album/2ByDgVj2qrVhzMjXooER6C) | 4:39 |
 | 11 | [Hakikat](https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz) | [Kazım Girit](https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519), [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr) | [Mevlana Mevlevi \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2) | 4:29 |
-| 12 | [Müşterek Taksim 1](https://open.spotify.com/track/1V3GpxsOD06c4feFR8q8wY) | [Salih Bilgin](https://open.spotify.com/artist/7CMATW5ajHZY1jixAMb4VW), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv) | [Neva](https://open.spotify.com/album/2ByDgVj2qrVhzMjXooER6C) | 4:39 |
+| 12 | [Göğe Açılan Eller](https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:57 |
 | 13 | [Ben Yürürüm](https://open.spotify.com/track/0BmoZp6aDQOak3MKe9Ufy1) | [Yunus Emre](https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ) | [The Nay 2](https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2) | 2:18 |
 | 14 | [Makam Ferahfeza: Taksim](https://open.spotify.com/track/7CNb4mtt0JsryOeMkKr3MY) | [Kudsi Erguner](https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI) | [Turkey: The Turkish Ney](https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci) | 5:39 |
 | 15 | [Tekbir](https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI) | [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB) | [Yazı Tura \(Orijinal Film Müzikleri\)](https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z) | 1:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 49 | [Acem Kürdi Selanik Türküsü / Bülbülüm Altın Kafeste](https://open.spotify.com/track/3GQUrmQNkiCM894h46Ohuh) | [Erdinç Şenyaylar](https://open.spotify.com/artist/0thmtYuAMzuqQlPgShS32R) | [Mevlana Mevlevi Box Set \(3 Albüm\)](https://open.spotify.com/album/52RaT1w7jrdPI3CAdQ76hz) | 3:14 |
 | 50 | [Gel Gör Beni Aşk Neyledi](https://open.spotify.com/track/3Ovr1NmutRqPPFeI5wl8J5) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Mete Artun](https://open.spotify.com/artist/04Pw98ywVnl3UJ6p2lhAbL) | [Sufi Ney\-Piano \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/0eP2nyhGG4ucTM7z4fYgMl) | 5:49 |
 
-Snapshot ID: `AAAAAFeNyvI8Ahaa55VwpzLm2qlaiPEs`
+Snapshot ID: `AAAAAOLPMVd5FM4cbgyg3FMFFK/FUbXv`

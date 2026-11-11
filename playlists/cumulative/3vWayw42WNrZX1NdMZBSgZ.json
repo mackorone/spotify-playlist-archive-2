@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "(enamorada)",
+        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "(favorito)",
+      "url": "https://open.spotify.com/track/3874rpMswVsn6UZkPy5Azr"
+    },
+    {
+      "album": {
         "name": "De Vuelta a las Andadas",
         "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
       },
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 195840,
       "name": "Chantaje (feat. Maluma)",
       "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
@@ -3696,7 +3714,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 131562,
       "name": "Choka Choka",
       "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 188281,
       "name": "CUERPO (TUMBAO) (feat. Maluma)",
       "url": "https://open.spotify.com/track/5VXKx33wTSpbq3Dm5b1qU9"
@@ -8251,6 +8269,28 @@
     },
     {
       "album": {
+        "name": "Gil",
+        "url": "https://open.spotify.com/album/45nnD1nvsgMumMNrsQ2LUw"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Gil",
+      "url": "https://open.spotify.com/track/0IwaT6XbMoouFqkMIQcAR0"
+    },
+    {
+      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/0HUYIjnn7ttam9r0AUHDmq"
       },
@@ -10385,6 +10425,24 @@
     },
     {
       "album": {
+        "name": "La Nieve (Original song from the film La Bola Negra)",
+        "url": "https://open.spotify.com/album/6dvL5fF1fokV4nwgaw9j2i"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244197,
+      "name": "La Nieve - Original song from the film La Bola Negra",
+      "url": "https://open.spotify.com/track/6W4fSGsqNmyPTYo29rJ50z"
+    },
+    {
+      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -11496,6 +11554,24 @@
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Magnolias",
+      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
     },
     {
       "album": {
@@ -13490,7 +13566,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 173053,
       "name": "NI NA\u2019",
       "url": "https://open.spotify.com/track/39C3rCxx20wcrWA1ACfUfI"
@@ -14156,7 +14232,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 157209,
       "name": "noviogangsta <3",
       "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
@@ -14948,6 +15024,28 @@
       "duration_ms": 184961,
       "name": "Pa' la seca",
       "url": "https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll"
+    },
+    {
+      "album": {
+        "name": "Lo Que Puede Pasar",
+        "url": "https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233501,
+      "name": "Pa' Qu\u00e9 Te Quedas",
+      "url": "https://open.spotify.com/track/5JB3jzYaeT2TqgoPnSkgcM"
     },
     {
       "album": {
@@ -17278,7 +17376,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-11",
       "duration_ms": 204656,
       "name": "Se me hace imposible olvidarte :(",
       "url": "https://open.spotify.com/track/2nl9wkN8LfiQN6feen3HUX"
@@ -21706,6 +21804,24 @@
       "duration_ms": 228187,
       "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "album": {
+        "name": "Tarac\u00e1",
+        "url": "https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218248,
+      "name": "\u00bfC\u00f3mo se ama?",
+      "url": "https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk"
     },
     {
       "album": {

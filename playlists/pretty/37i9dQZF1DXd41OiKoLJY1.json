@@ -1,15 +1,31 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Lorenzo Jan. Artwork: Isu Kim.\n",
-  "num_followers": 72266,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Saint Cooper. Artwork: Isu Kim.\n",
+  "num_followers": 72276,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF2aheSmgeGAS31KvB4vv4CkqXcY",
+  "snapshot_id": "AAAAAJTaO5wlsHzixO91O4MFmQys2hJS",
   "tracks": [
     {
-      "added_at": "2026-11-04 05:00:11",
+      "added_at": "2026-11-11 05:00:22",
+      "album": {
+        "name": "Nahihilo",
+        "url": "https://open.spotify.com/album/7w2wtl8sja3zNxcITwX28T"
+      },
+      "artists": [
+        {
+          "name": "Saint Cooper",
+          "url": "https://open.spotify.com/artist/4HelBJRa22uXkNaikINVHG"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "Nahihilo",
+      "url": "https://open.spotify.com/track/7kQ9mfE8KDWL0di14D1FdF"
+    },
+    {
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "REBOUND",
         "url": "https://open.spotify.com/album/3dbkGXolgtO5qIHSc8Tsh5"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3W5BFPJuwup3tO2836UQXQ"
     },
     {
-      "added_at": "2026-11-04 05:00:11",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Langit Sa Piling Mo",
         "url": "https://open.spotify.com/album/5pasBa8IVgT4Qeb9gMTHOz"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/7rPnzNHB7Se2vFerMthkXy"
     },
     {
-      "added_at": "2026-11-04 05:00:11",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "LOVER BOY: CHAPTER 2: Filipina Baddie",
         "url": "https://open.spotify.com/album/2hVX32xk8lhlpIL0PquT4w"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/1Lvc8sAZk57p6jpR9cqxPD"
     },
     {
-      "added_at": "2026-11-04 05:00:11",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Ngayong Gabi",
         "url": "https://open.spotify.com/album/2mwdu3XCnm7CzQD2CJr0RY"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/4pD54BTiP0IfyGdK3JNRg8"
     },
     {
-      "added_at": "2026-10-21 05:00:25",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Totoo",
         "url": "https://open.spotify.com/album/6nSZmRhGv8g8rGWgaW0iwm"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/02Y0vx7WDJ2mqHfKHQGyGA"
     },
     {
-      "added_at": "2026-10-21 05:00:25",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/1f9VaccaZEoS0mQCzqvzmi"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/64IKco60dPTNZvd4dnwW1s"
     },
     {
-      "added_at": "2026-10-21 05:00:25",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "In Phases",
         "url": "https://open.spotify.com/album/6amb9LnEG8nB5JGxWl8F5P"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3bbweTdiTx65Uu5k4kxFss"
     },
     {
-      "added_at": "2026-10-14 07:36:29",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Lubayan",
         "url": "https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Paano Ba?",
         "url": "https://open.spotify.com/album/4MHu576vgfiM0A379s4yFL"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/0fMnCh7MOclcX3r2OeUPtD"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Die with You",
         "url": "https://open.spotify.com/album/4ccTSQqx1yDC1r0FxpLqhF"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/4kVD5XwZ9TNP0igyepqPyH"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "DORK",
         "url": "https://open.spotify.com/album/4MAscIFcOOTKOJxg9GayR6"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/37ZH6VsIUmwRNX7kj6yDZU"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "QUESO",
         "url": "https://open.spotify.com/album/3V2Q7No5yxDJWxNubCOECj"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/4qovOIUS7O58btWHWVSf3B"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Isip",
         "url": "https://open.spotify.com/album/2IcIRs9fPtAWSJKjgrMExw"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/4do0DDPsoFE0TsOdtc8RHF"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "gitna",
         "url": "https://open.spotify.com/album/4TTSO5LbagxccnPZa31Pft"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/0IskDufpYHQxZ6KOgaldAx"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "indie film",
         "url": "https://open.spotify.com/album/2WaRhRnmNjOwUZ9fw1tvAk"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/3LVK461v4j5peYIo9qq4Fj"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Here's Where The Story Ends",
         "url": "https://open.spotify.com/album/5o0bDGkJWF32goZmHtiyeS"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/3zrYGMvX5hQQiyboJpHQ4Q"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "anywhere w you <3",
         "url": "https://open.spotify.com/album/5Uxfzv3CRg5Z62AER7YiKN"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/23cdXYVDsk7rgBVCOS3hay"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Romantiko",
         "url": "https://open.spotify.com/album/4C6SzGdw0JBzi9KpGpe4Ym"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/6WIapTWmgn3t3gua580GCi"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/5aIsW2RH7tPOZRdxhTXapK"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/1xwcuuNifjRwfSCTYg0aKP"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "tara",
         "url": "https://open.spotify.com/album/63hF4st4hG8Io2zXZ88Avp"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/0S59XL7EhSme77zIb7Lpou"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Subukan Mo",
         "url": "https://open.spotify.com/album/2A3LpiR7IecqscaxSIfPv9"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/6tZmyyMf6Sh1shqOZHxORo"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Sampaguita",
         "url": "https://open.spotify.com/album/1CKvDvpohZBo2KQ1ZafYnf"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/3JD2ksnyfhhkOW0z6eINx9"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Girl, I'm Your Man",
         "url": "https://open.spotify.com/album/6LrBTMdBW2TiJFbpnkLpVM"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/1QoTycQffxFjlkThZj3zKq"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Sino",
         "url": "https://open.spotify.com/album/4lFNyQL0QZ1350DDxiksmc"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/2hRl5Nm0XLKNrypmNwGrUv"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Bahagya",
         "url": "https://open.spotify.com/album/4xHpN7YcAzmbmHZnUJlERm"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/526rzqbY2yTDMcnkF60iwC"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "samahan mo ako",
         "url": "https://open.spotify.com/album/12bReHifHKscqe3fL5kbfu"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/4De6NWfnVzl1P4XZzWTFwA"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "ultramar(e)ne",
         "url": "https://open.spotify.com/album/1P9mhiTq7yIENgSz5wOyph"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/07BN8Wm9l0iTu90j4u6Uge"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Di Ko Man Masambit",
         "url": "https://open.spotify.com/album/5m8WnpZIp00CZwUFiDOnn9"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/5ZP5HLSe9hP69DZd1USEkO"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "ikaw lang ang bossing ko",
         "url": "https://open.spotify.com/album/4guaa8LYGnFvSabu4GUpu6"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/314IQcUw9Ge5iWScZFiYq0"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Alembong",
         "url": "https://open.spotify.com/album/1oKpHQLzkWQQwH5znzKK0o"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/6TuXdFSvRXVM65WJBdzZx1"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Gusto Mo Ba Ako",
         "url": "https://open.spotify.com/album/1yQkzKCUjCkVXmVaoAnikN"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/4si4Uq5SxUGidqCnndISe4"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "ITSYOBOY BALOY",
         "url": "https://open.spotify.com/album/0Ne35YRN0hrhNs5oIT5yOi"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/2bZX4WPeJ9aqCnGDUo72sZ"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Scribble List of Feelings",
         "url": "https://open.spotify.com/album/3DO9cdydSijTcCDzfwDHTb"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/4Y4hZxwU3WXfydWoUZs3FO"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Tayo ay Bagay",
         "url": "https://open.spotify.com/album/6MKgfOb4QihflNTU1JG888"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/5dlmzsd54JUVodPvTD5Tyg"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "dahan-dahan",
         "url": "https://open.spotify.com/album/5fJLsIUlS9ALsds3xIlrtd"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/62im1CQT3L5BVUM65Apdvy"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "\u2018Di Minamadali",
         "url": "https://open.spotify.com/album/1yBVGgcidle0Hoi8kg6Z58"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/5XFp8MZEBW1loCtpdIQIj5"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "LOVER BOY - CHAPTER 1: Una",
         "url": "https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/3gArbMg65HZcLcIpK8Se90"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Mag isa",
         "url": "https://open.spotify.com/album/4r2uSrxRnuetFzjiBQuq7F"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/6IwsEol4RxFU9SQKAt9U0J"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Sige Lang!",
         "url": "https://open.spotify.com/album/2pT188jmLM5poZ9fZEpAiV"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/12n9IalbtQrGTQHoPCTXu8"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "uy miss u!",
         "url": "https://open.spotify.com/album/19FCValCx82v8JqKxSaxGI"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/67xPDZRf4HwVB9kFt5ZkQ9"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "NO SCHLEEP",
         "url": "https://open.spotify.com/album/1dE1QqRL2Z6BFTPEMj9IMO"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/6MQQ2gGjYABlbgbdPo8fLs"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Pickleball State of Mind",
         "url": "https://open.spotify.com/album/7pUZv5cDQQlh9ZUHSUxO0y"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/2u3RFFQfCx6lyZiGenZ2mY"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Bituin",
         "url": "https://open.spotify.com/album/4U5yIwdNmzNrDnJzn34XJn"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/0zUJUshv7x5b9M0Lcj4G1j"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "thrift shop",
         "url": "https://open.spotify.com/album/6SSVkUOkAFP5XKGN04Xh0R"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/4shctApMVAPyraAAd0fsfX"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Tinitingala",
         "url": "https://open.spotify.com/album/1jaGn6yN5G8kthVYTPeksE"
@@ -753,23 +769,7 @@
       "url": "https://open.spotify.com/track/1RA17YewD7DgfgfYAbsHZW"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
-        "name": "DOET",
-        "url": "https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO"
-      },
-      "artists": [
-        {
-          "name": "Xaint",
-          "url": "https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c"
-        }
-      ],
-      "duration_ms": 195688,
-      "name": "DOET",
-      "url": "https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Hahanapin Ka",
         "url": "https://open.spotify.com/album/3rgkV398MzjvlPMpfyWmFV"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/11nrDiYnBcWBNfz5r9ML4Z"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Kay Ganda",
         "url": "https://open.spotify.com/album/6zhGvzWTbNaAJKOFjFFVH9"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/6Y76T8I3skKZYYn8ZIzMyA"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Palayo",
         "url": "https://open.spotify.com/album/3IDPfWsyZcDyMtPCLXMCVv"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/45tfQlFlhKgLvWXNyqUMEt"
     },
     {
-      "added_at": "2026-10-07 05:00:19",
+      "added_at": "2026-11-11 05:00:22",
       "album": {
         "name": "Retsina",
         "url": "https://open.spotify.com/album/4R7GwVgx1BdJ4lN8NGAo1L"

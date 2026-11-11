@@ -6,7 +6,7 @@
     "name": "Leah",
     "url": "https://open.spotify.com/user/45qhw1s0njc96km65yesotdhi"
   },
-  "snapshot_id": "AAAANvB6G2d3VehVT2A8/n0/m8L2e6LH",
+  "snapshot_id": "AAAAP48Wpf70KfiqO1U2coXK+5+LncrD",
   "tracks": [
     {
       "added_at": "2025-08-28 18:32:16",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
     },
     {
+      "added_at": "2026-11-11 02:15:12",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
+    },
+    {
       "added_at": "2026-04-04 09:32:39",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
@@ -187,6 +203,58 @@
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+    },
+    {
+      "added_at": "2026-11-11 02:15:04",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "what\u2019s wrong with me",
+      "url": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh"
+    },
+    {
+      "added_at": "2026-11-11 02:16:33",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "added_at": "2026-11-11 02:17:07",
+      "album": {
+        "name": "Meet Me After Practice",
+        "url": "https://open.spotify.com/album/7D9ql7QpfXRlcWesB4FXQQ"
+      },
+      "artists": [
+        {
+          "name": "Boys Go To Jupiter",
+          "url": "https://open.spotify.com/artist/74HXuOPXsmbmsjoW69Jwyd"
+        }
+      ],
+      "duration_ms": 299707,
+      "name": "Lovers Always Lose",
+      "url": "https://open.spotify.com/track/3ZkwvKNhrOR8f5nFJt6iKE"
     }
   ],
   "unique_name": "the evie playlist \ud83d\udc95",
