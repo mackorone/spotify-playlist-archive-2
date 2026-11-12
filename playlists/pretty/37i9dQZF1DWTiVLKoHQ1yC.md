@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,074 likes - 59 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,105 likes - 59 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 34 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
 | 35 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 |
 | 36 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 37 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
-| 38 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 37 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 38 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
 | 39 | [Spacer](https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Michael Anthony](https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2) | [Spacer](https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK) | 3:04 |
 | 40 | [Flashes](https://open.spotify.com/track/584s5UwLH5sCdEUv6z46Xm) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Flashes](https://open.spotify.com/album/1kNXd72fsJqBszEM7cmcmK) | 3:59 |
 | 41 | [Major Drop](https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Major Drop](https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk) | 3:10 |
-| 42 | [Three](https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Three](https://open.spotify.com/album/3rRRiDr7Z47Lv2DTZRIuGV) | 2:59 |
-| 43 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
+| 42 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
+| 43 | [Three](https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Three](https://open.spotify.com/album/3rRRiDr7Z47Lv2DTZRIuGV) | 2:59 |
 | 44 | [Just Can't Stop](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB), [flyckt](https://open.spotify.com/artist/7gqK3L4rJ38jXJTuaymRs9) | [Just Can't Stop](https://open.spotify.com/album/4g6vXqmOf7qusOBDp5nWWJ) | 3:40 |
 | 45 | [Chasing Ghosts](https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Chasing Ghosts](https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4) | 4:12 |
 | 46 | [Leaving On](https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Leaving On](https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR) | 3:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 54 | [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 |
 | 55 | [Forgive Them](https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [City Reverie](https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4) | 3:32 |
 | 56 | [I Never Want This To End](https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [I Never Want This To End EP](https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw) | 2:58 |
-| 57 | [Man On Fire](https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Man On Fire](https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj) | 3:06 |
-| 58 | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/track/6hksu9xYt7dZfaiXx7SCom) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Nina Arya](https://open.spotify.com/artist/0bK45cARlz6LOWWYFNrqE7) | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/album/5K5Dwgjsl9mshpYbEUZJlc) | 3:26 |
+| 57 | [Are You Listening?](https://open.spotify.com/track/2SexQvWdaFwUSneynQe3lF) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Are You Listening?](https://open.spotify.com/album/6JR1NWD5XSpkqF3eFi6mY5) | 3:50 |
+| 58 | [Man On Fire](https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Man On Fire](https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj) | 3:06 |
 | 59 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
 
 Snapshot ID: `AAAAANxdJ04WtfJnfuFrhIY4MEDZCay2`

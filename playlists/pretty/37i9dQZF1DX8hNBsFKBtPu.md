@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. Rosa på månen på cover 🪭
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,645 likes - 190 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,638 likes - 190 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

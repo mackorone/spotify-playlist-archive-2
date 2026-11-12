@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-319 songs - 19 hr 27 min
+320 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Fools Game](https://open.spotify.com/track/2PbXkkeNg2vHci3JDiCv6n) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 3:38 | 2025-12-29 | 2026-03-15 |
 | [For No One](https://open.spotify.com/track/0a4AUAvmM7ZGQqZ6twmDBv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:59 | 2026-06-15 | 2026-07-18 |
 | [For No One](https://open.spotify.com/track/0pvi1mwND5K0xij6IjbbwG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:59 | 2026-07-22 | 2026-10-20 |
+| [For No One](https://open.spotify.com/track/1ZNRHwcfOxCdmzUFvnjbIV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/0yp0bbJRApf6V8cg3TwOKM) | 3:59 | 2026-11-12 |  |
 | [For The Sun](https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:24 | 2024-12-08 | 2025-02-24 |
 | [Free Bird \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/1SvonsO64oFlCKvbh91aGX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Candy Says \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/2kspNWSth47GH6DwITiDVq) | 3:08 | 2024-10-28 | 2024-11-15 |
 | [Free Your Self](https://open.spotify.com/track/13P1ibb6Q290L4Z5gq55Ec) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 2:59 | 2022-11-20 | 2023-02-17 |
@@ -190,7 +191,7 @@
 | [My Winding Wheel](https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:12 | 2022-01-11 | 2026-11-04 |
 | [My Winding Wheel](https://open.spotify.com/track/4A2nfuH8bevsmCdG5lyAyl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/1LNNDu3aW8rCo64UqbQIRJ) | 3:12 | 2026-11-04 |  |
 | [My Wrecking Ball](https://open.spotify.com/track/03gi6UGds8A5vArAoOZ579) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/69K1Pef7hoy91Q81F6WPey) | 3:08 | 2024-09-25 | 2024-10-23 |
-| [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 | 2022-01-12 |  |
+| [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 | 2022-01-12 | 2026-11-12 |
 | [Nebraska](https://open.spotify.com/track/5qfZWhHJRkXfFdAO3KRvvH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 3:31 | 2023-01-08 | 2023-06-13 |
 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 | 2024-01-03 | 2024-09-27 |
 | [New York, New York](https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:46 | 2022-01-11 |  |

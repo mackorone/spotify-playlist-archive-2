@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,035 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,032 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 30 | [Naturalny high](https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:31 |
 | 31 | [Będzie Było](https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK) | [Michał Wiśniewski](https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg), [Mandaryna](https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh) | [Będzie Było](https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782) | 2:28 |
 | 32 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
-| 33 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
-| 34 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
+| 33 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
+| 34 | [27 \(Do gwiazd!\)](https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [27 \(Do gwiazd!\)](https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP) | 3:12 |
 | 35 | [aż nie chce się wracać](https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [aż nie chce się wracać](https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW) | 2:14 |
-| 36 | [27 \(Do gwiazd!\)](https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [27 \(Do gwiazd!\)](https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP) | 3:12 |
+| 36 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
 | 37 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
 | 38 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 39 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 54 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
 | 55 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
 | 56 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
-| 57 | [Zanim Znikniesz](https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Zanim Znikniesz](https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew) | 3:06 |
-| 58 | [Bierz co jest](https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R) | [GOLEC UORKIESTRA](https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx) | [Bierz co jest](https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu) | 2:30 |
-| 59 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
+| 57 | [Bierz co jest](https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R) | [GOLEC UORKIESTRA](https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx) | [Bierz co jest](https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu) | 2:30 |
+| 58 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
+| 59 | [Zanim Znikniesz](https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Zanim Znikniesz](https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew) | 3:06 |
 | 60 | [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 |
 
 Snapshot ID: `AAAAAJR2nvqStxFzoCvXnbsYg7ng6izA`

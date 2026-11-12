@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61474,
+  "num_followers": 61468,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Viva L\u2019Amor",
-        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Viva L\u2019Amor",
-      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "F\u00f6rr nu & forever",
         "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 109800,
       "name": "H\u00e5ller Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
+        "name": "Viva L\u2019Amor",
+        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Viva L\u2019Amor",
+      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
     },
     {
       "added_at": "2026-11-05 23:00:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Half Of Me",
-        "url": "https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
+        "name": "Half Of Me",
+        "url": "https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
         "name": "BEAUTIFUL MADNESS",
         "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Sommarland",
-        "url": "https://open.spotify.com/album/38dw8O2dALUkElF0nicULR"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 192575,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/1mYHXcfv89s3NfqYUKdqMW"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "St\u00f6rd",
         "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 173173,
       "name": "St\u00f6rd",
       "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
+        "name": "Sommarland",
+        "url": "https://open.spotify.com/album/38dw8O2dALUkElF0nicULR"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 192575,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/1mYHXcfv89s3NfqYUKdqMW"
     },
     {
       "added_at": "2026-11-05 23:00:56",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 160326,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "RUSHEN TAR ALDRIG SLUT",
         "url": "https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 125539,
       "name": "VEM VET?",
       "url": "https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 160326,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
     },
     {
       "added_at": "2026-11-05 23:00:56",

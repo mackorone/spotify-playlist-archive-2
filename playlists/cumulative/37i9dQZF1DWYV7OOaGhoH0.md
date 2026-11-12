@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today featuring music from Sylvie
 
-910 songs - 2 day 8 hr 3 min
+911 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Bad Behavior](https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:37 | 2022-09-23 | 2023-03-04 |
 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0) | 2:58 | 2026-02-20 |  |
 | [Ballad of an Unknown](https://open.spotify.com/track/6rBkSRxinFvMtOYYbKegma) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 3:19 | 2022-04-01 | 2022-12-03 |
+| [Barely Holding On](https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Barely Holding On](https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh) | 3:30 | 2026-11-11 |  |
 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 | 2022-11-18 | 2023-10-28 |
 | [Be Yourself](https://open.spotify.com/track/6P0actEG7h74NHvxqRB321) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [FEVER / SKY](https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip) | 3:22 | 2023-04-07 | 2024-03-09 |
 | [Bedrock](https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Bedrock](https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf) | 3:30 | 2022-01-21 | 2022-02-05 |

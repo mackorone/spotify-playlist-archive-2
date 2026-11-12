@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 403878,
+  "num_followers": 403877,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-08-14 04:00:25",
       "album": {
-        "name": "Lovestruck",
-        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
-      },
-      "artists": [
-        {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
-        },
-        {
-          "name": "Strath",
-          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Lovestruck",
-      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
-    },
-    {
-      "added_at": "2026-08-14 04:00:25",
-      "album": {
         "name": "Palermo / Fractals",
         "url": "https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 195898,
       "name": "Palermo",
       "url": "https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C"
+    },
+    {
+      "added_at": "2026-08-14 04:00:25",
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
     },
     {
       "added_at": "2026-08-14 04:00:25",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-08-14 04:00:25",
       "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "added_at": "2026-08-14 04:00:25",
+      "album": {
         "name": "Eye of the Storm",
         "url": "https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 458360,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu"
-    },
-    {
-      "added_at": "2026-08-14 04:00:25",
-      "album": {
-        "name": "Don't Let Go",
-        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
     },
     {
       "added_at": "2026-08-14 04:00:25",
@@ -967,30 +967,6 @@
     {
       "added_at": "2026-08-14 04:00:25",
       "album": {
-        "name": "A Radiant Sign (Remixed)",
-        "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Far Behind - Jeremy Olander Remix",
-      "url": "https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi"
-    },
-    {
-      "added_at": "2026-08-14 04:00:25",
-      "album": {
         "name": "Need To Feel Loved (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 224467,
       "name": "Need To Feel Loved - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
+    },
+    {
+      "added_at": "2026-08-14 04:00:25",
+      "album": {
+        "name": "A Radiant Sign (Remixed)",
+        "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Far Behind - Jeremy Olander Remix",
+      "url": "https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi"
     },
     {
       "added_at": "2026-08-14 04:00:25",

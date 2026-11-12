@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,120 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,127 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 31 | [Daydreamer](https://open.spotify.com/track/7oh1gEYjytnN9waEbWPssI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [The Miraval Orchestra](https://open.spotify.com/artist/7n5uB06jHkH78qN62XAbMB) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:41 |
 | 32 | [September Song](https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 3:57 |
 | 33 | [Before the World Sings](https://open.spotify.com/track/46B0NQYvNcjHo2Hyz22ORU) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Before the World Sings](https://open.spotify.com/album/4AqWiCs699sAOjOzXrmq4Q) | 3:05 |
-| 34 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:03 |
+| 34 | [Grace](https://open.spotify.com/track/0bnUWmQVWODe7I17aidv3j) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Grace](https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH) | 3:09 |
 | 35 | [Lifted](https://open.spotify.com/track/0FtGrAo6ae0IFCRyHTAkPN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [The Miraval Orchestra](https://open.spotify.com/artist/7n5uB06jHkH78qN62XAbMB) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:29 |
-| 36 | [Grace](https://open.spotify.com/track/0bnUWmQVWODe7I17aidv3j) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Grace](https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH) | 3:09 |
+| 36 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:03 |
 | 37 | [Grateful](https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Grateful](https://open.spotify.com/album/73GQBZ5nJxcsc5YWvba688) | 2:18 |
 | 38 | [Songbird](https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:01 |
 | 39 | [Stolen Whispers](https://open.spotify.com/track/0WjHPs2g6QKQNsiH00F0yE) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 49 | [Nine on Blue](https://open.spotify.com/track/16Ke0Ui7f8y0qti3apCEIX) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Nine on Blue](https://open.spotify.com/album/1h2StLeVmSrnDOHTHZ2Dt6) | 2:45 |
 | 50 | [Evermore](https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 2:50 |
 
-Snapshot ID: `au+7gAAAAACleWq48Nl/csbF8BRTc0dn`
+Snapshot ID: `avENAAAAAABNuY4t2klo4iBKVT9L5eG2`

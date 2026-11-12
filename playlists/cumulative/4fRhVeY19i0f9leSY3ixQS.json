@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Celestial Body",
+        "url": "https://open.spotify.com/album/6FAKrE4rZrGWP0v6lWv0wf"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/39S8vz17l4TyZm8FYu3Msc"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "/Disrepair",
+      "url": "https://open.spotify.com/track/3OdJUebZ197xWwBN3MOmAw"
+    },
+    {
+      "album": {
         "name": "1 Star (Deluxe)",
         "url": "https://open.spotify.com/album/78TIJrrIDq5gXrYT5L1sp1"
       },
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 178795,
       "name": "Again",
       "url": "https://open.spotify.com/track/5LUPRiBWi2ZeECTfZnUQDG"
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 187520,
       "name": "American Life",
       "url": "https://open.spotify.com/track/5zBV4YUgBGs5ugY36zfV9H"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 201881,
       "name": "Arm Farm",
       "url": "https://open.spotify.com/track/390ZWcCNSZvTbynEDKLVog"
@@ -5864,7 +5882,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 157479,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/1SHRbw1AjtRLvS2skAZDAj"
@@ -5994,7 +6012,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 228884,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1Ht1oivk4Bt50INCFOrMsC"
@@ -6052,6 +6070,24 @@
       "duration_ms": 252526,
       "name": "Breathing In The Ashes",
       "url": "https://open.spotify.com/track/0Cw9SVAcy1f370toyrPDbc"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/63m0xgmrxHJUDJJh1Vxotv"
+      },
+      "artists": [
+        {
+          "name": "Agender",
+          "url": "https://open.spotify.com/artist/4BcDJU5Lugqgeb39uA7A1i"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158186,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/5WrqcmXgwMUFipbbAEnoV6"
     },
     {
       "album": {
@@ -6210,7 +6246,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 172769,
       "name": "Broken Boughs",
       "url": "https://open.spotify.com/track/7IeG8OCsqbvGeE4C6l9BP1"
@@ -7104,6 +7140,24 @@
       "duration_ms": 168972,
       "name": "Can't Trust",
       "url": "https://open.spotify.com/track/0WCfJqS2cvMFbzbHFbuepT"
+    },
+    {
+      "album": {
+        "name": "The Lockout",
+        "url": "https://open.spotify.com/album/7u90tXIHTuM0cr6lWpr2p0"
+      },
+      "artists": [
+        {
+          "name": "Jet Lag Fuel",
+          "url": "https://open.spotify.com/artist/0oEzKOGMmSmYnqTynjjbXR"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224842,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/29IcuqMiAMw9ZHshBHessH"
     },
     {
       "album": {
@@ -8488,7 +8542,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 217786,
       "name": "Cold As Stone",
       "url": "https://open.spotify.com/track/5i5SJAOWTb8h0mZXv2Itd7"
@@ -9932,7 +9986,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 193200,
       "name": "Dark Entries",
       "url": "https://open.spotify.com/track/2MwR5DSrLhuGGnqAWEAWuB"
@@ -11449,6 +11503,24 @@
     },
     {
       "album": {
+        "name": "Disgusting",
+        "url": "https://open.spotify.com/album/1me5KA14XHWycm0ojA1j8w"
+      },
+      "artists": [
+        {
+          "name": "LAMIRA",
+          "url": "https://open.spotify.com/artist/4RtBMA1yBkJbvPDD9tP5hO"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248988,
+      "name": "Disgusting",
+      "url": "https://open.spotify.com/track/3QshZzYNOsYvyhf1AmbNH1"
+    },
+    {
+      "album": {
         "name": "DISGUSTING DISCUSSION",
         "url": "https://open.spotify.com/album/1I79x8Pa9KJAiO56Q5VPe7"
       },
@@ -12134,6 +12206,24 @@
       "duration_ms": 213827,
       "name": "Don\u2019t Let Your Boyfriends Go to Europe",
       "url": "https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1"
+    },
+    {
+      "album": {
+        "name": "Doomscroller",
+        "url": "https://open.spotify.com/album/2NIGnhBAHmNFuxvBF80Z3U"
+      },
+      "artists": [
+        {
+          "name": "The Fair Attempts",
+          "url": "https://open.spotify.com/artist/3DzdQGmPbGoq2XTtHLq7hM"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "Doomscroller",
+      "url": "https://open.spotify.com/track/4NDn99A3QlTi4r5SQWPsDB"
     },
     {
       "album": {
@@ -13422,7 +13512,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 184000,
       "name": "End of Love",
       "url": "https://open.spotify.com/track/0IdyTq1kdWrZ78NVxuxnl6"
@@ -14600,6 +14690,36 @@
       "duration_ms": 237628,
       "name": "February",
       "url": "https://open.spotify.com/track/26gEGxhko1zfphl2smhaVq"
+    },
+    {
+      "album": {
+        "name": "February Stars",
+        "url": "https://open.spotify.com/album/2hExyqqRkcUSgHFJGqTIKq"
+      },
+      "artists": [
+        {
+          "name": "Jeff Wang",
+          "url": "https://open.spotify.com/artist/1uqcZEcc7IH4KLQGLpPhry"
+        },
+        {
+          "name": "Sam Caviglia",
+          "url": "https://open.spotify.com/artist/1W58k01jpx5fImxBulzzCQ"
+        },
+        {
+          "name": "Patrick Gavigan",
+          "url": "https://open.spotify.com/artist/1u4jSQZkhwh7X6TtNDLfuG"
+        },
+        {
+          "name": "(Others",
+          "url": "https://open.spotify.com/artist/3rAmSsM3QmDpVLfSybeJB2"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308586,
+      "name": "February Stars",
+      "url": "https://open.spotify.com/track/6Y8MkxQ9F7p9Ow2rMPMm7V"
     },
     {
       "album": {
@@ -19822,7 +19942,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 221919,
       "name": "Human Centipede",
       "url": "https://open.spotify.com/track/4Gpf7htOtNtzzSc1ibWkRX"
@@ -21102,6 +21222,24 @@
       "duration_ms": 189943,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/4ZZiHLVd3XAYvCZFGoRauR"
+    },
+    {
+      "album": {
+        "name": "Ickenham '99",
+        "url": "https://open.spotify.com/album/0SGl56NkZI50q169qdSAkE"
+      },
+      "artists": [
+        {
+          "name": "Old Chase",
+          "url": "https://open.spotify.com/artist/6ETnaC6cAZTasqlb1effON"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100735,
+      "name": "Ickenham '99",
+      "url": "https://open.spotify.com/track/2z4DktRXZe4Tunnq1lsjua"
     },
     {
       "album": {
@@ -24940,7 +25078,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 390844,
       "name": "Lo que quedo de m\u00ed",
       "url": "https://open.spotify.com/track/1vQmJ7XYOJttfm73NGuOFO"
@@ -31502,7 +31640,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 267790,
       "name": "Paradust",
       "url": "https://open.spotify.com/track/27ekYjKIHUJO3d4y8xJGkY"
@@ -32606,7 +32744,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 166000,
       "name": "Poison",
       "url": "https://open.spotify.com/track/1nmAvj4MBQ2t8EIWqyAfIy"
@@ -33172,7 +33310,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 133714,
       "name": "PROTECT UR NECK",
       "url": "https://open.spotify.com/track/4mlNCrPwUqq8HbE9fdAypt"
@@ -34217,6 +34355,24 @@
     },
     {
       "album": {
+        "name": "Reject Guy",
+        "url": "https://open.spotify.com/album/0mny59w6GmNzLyi4eWRnYy"
+      },
+      "artists": [
+        {
+          "name": "Flywheel",
+          "url": "https://open.spotify.com/artist/4gWXZThxdgNMmpbPx3rDXX"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Reject Guy",
+      "url": "https://open.spotify.com/track/4nNUxsfibznFEp1lwCGdH6"
+    },
+    {
+      "album": {
         "name": "Relapse",
         "url": "https://open.spotify.com/album/70kcB4YwFRcFhQAuh5EhPU"
       },
@@ -35228,6 +35384,24 @@
       "duration_ms": 132469,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j"
+    },
+    {
+      "album": {
+        "name": "From Flowers",
+        "url": "https://open.spotify.com/album/67YLh8qz2EuPPcUR058oVS"
+      },
+      "artists": [
+        {
+          "name": "Maintenance",
+          "url": "https://open.spotify.com/artist/37dGE0q2qID6emLcujU2jM"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111954,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/4nRvkFq8Yj5h4SxWP5sPSN"
     },
     {
       "album": {
@@ -40098,7 +40272,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 237977,
       "name": "Summer Storm",
       "url": "https://open.spotify.com/track/5zDAHm4oMsTmUUmRUrc9Ci"
@@ -46006,7 +46180,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 188853,
       "name": "Vicious Circle",
       "url": "https://open.spotify.com/track/4ewVtbCiVnvWoQBVjcst3c"
@@ -46418,7 +46592,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 137663,
       "name": "WAKE UP!",
       "url": "https://open.spotify.com/track/5ODCvT4RZxavk8cU2yBVLY"
@@ -46912,7 +47086,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 218853,
       "name": "Watch The Whole World Burn Down",
       "url": "https://open.spotify.com/track/53ryWSwKtqmiyYaGK8cH7z"
@@ -47136,6 +47310,28 @@
       "duration_ms": 153428,
       "name": "We Figure It Out",
       "url": "https://open.spotify.com/track/2JWTeR7vtJCZUo6uMGHeqW"
+    },
+    {
+      "album": {
+        "name": "We Go High",
+        "url": "https://open.spotify.com/album/06bJj8X2ci5w8lIBA1llYM"
+      },
+      "artists": [
+        {
+          "name": "Sam Brace",
+          "url": "https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH"
+        },
+        {
+          "name": "The Merciless Bronze",
+          "url": "https://open.spotify.com/artist/7IVGe5SIp4zL7ORcomos5E"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240947,
+      "name": "We Go High",
+      "url": "https://open.spotify.com/track/400xZzpdwKLfcBpMMsxtfM"
     },
     {
       "album": {
@@ -49666,6 +49862,28 @@
       "duration_ms": 179269,
       "name": "\u0414\u043e\u0440\u043e\u0433\u0438 \u0441\u043d\u0435\u0433\u043e\u043c \u0437\u0430\u043c\u0435\u043b\u043e...",
       "url": "https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4"
+    },
+    {
+      "album": {
+        "name": "\u0416\u0438\u0432\u0430 \u0456\u0441\u0442\u043e\u0442\u0430",
+        "url": "https://open.spotify.com/album/3n32X1v8SeJ9BfQ5Uhf7jD"
+      },
+      "artists": [
+        {
+          "name": "Ship Her Son",
+          "url": "https://open.spotify.com/artist/62Q4pz0eKSAr0OAmemGvAL"
+        },
+        {
+          "name": "\u0425\u0430\u043c\u0435\u0440\u043c\u0430\u043d \u0417\u043d\u0438\u0449\u0443\u0454 \u0412\u0456\u0440\u0443\u0441\u0438",
+          "url": "https://open.spotify.com/artist/2O0P5y6ePYVcRgDMMpQiCQ"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249160,
+      "name": "\u0416\u0438\u0432\u0430 \u0456\u0441\u0442\u043e\u0442\u0430",
+      "url": "https://open.spotify.com/track/1PIofMkcyd2JfzA0XMrRfT"
     },
     {
       "album": {

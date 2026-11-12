@@ -200,10 +200,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 183920,
       "name": "A Man Without a Dream",
       "url": "https://open.spotify.com/track/15HiMB4XHgr2UiuAtNHlhC"
+    },
+    {
+      "album": {
+        "name": "The A's, The B's & The Monkees",
+        "url": "https://open.spotify.com/album/1ZTjxLw4jrS92MvyB64JeH"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        },
+        {
+          "name": "Andrew Sandoval",
+          "url": "https://open.spotify.com/artist/69AOV3HI5zQytsGu5pMUMN"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "A Man Without a Dream - Single Version",
+      "url": "https://open.spotify.com/track/2dOCx22gIXaEniirUoihma"
     },
     {
       "album": {
@@ -528,10 +550,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 232866,
       "name": "As We Go Along",
       "url": "https://open.spotify.com/track/0n7K8jB7Lg4zCI4WBWxO0Q"
+    },
+    {
+      "album": {
+        "name": "The A's, The B's & The Monkees",
+        "url": "https://open.spotify.com/album/1ZTjxLw4jrS92MvyB64JeH"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        },
+        {
+          "name": "Andrew Sandoval",
+          "url": "https://open.spotify.com/artist/69AOV3HI5zQytsGu5pMUMN"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "As We Go Along - Single Version",
+      "url": "https://open.spotify.com/track/78ZGquOoa2xA5JTCwo8rLL"
     },
     {
       "album": {
@@ -6834,6 +6878,24 @@
     {
       "album": {
         "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/0miYpSKEtkvaSe3PKfpdOb"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "Show Me the Way",
+      "url": "https://open.spotify.com/track/2mz4wiWpIMbGPuV8tO4xft"
+    },
+    {
+      "album": {
+        "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
       "artists": [
@@ -6844,7 +6906,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 139809,
       "name": "Show Me the Way - Mono",
       "url": "https://open.spotify.com/track/7yTmwxIkV2tsxsBN6NDVjJ"

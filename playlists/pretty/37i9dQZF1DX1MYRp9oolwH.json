@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Alias Rukmini",
-  "num_followers": 172490,
+  "num_followers": 172492,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClbXDw9Q2SnDk71WtpYqaSjKtMS",
+  "snapshot_id": "AAAAALC+Faa7m01YnKuqI16hmy/aDhwm",
   "tracks": [
     {
       "added_at": "2026-11-02 03:30:36",
@@ -215,6 +215,30 @@
       "duration_ms": 166500,
       "name": "Gammunundadhe (From \"Haiku\") (Telugu)",
       "url": "https://open.spotify.com/track/6S7NyXow8Wfwx7oiJGs3mn"
+    },
+    {
+      "added_at": "2026-11-11 08:31:18",
+      "album": {
+        "name": "Scene (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1SV9brjeNCqQudljTQVBFS"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sindhuja Tanuku",
+          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
+        },
+        {
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Kalane Pilichi",
+      "url": "https://open.spotify.com/track/4evIkpJGnmUtKFKXQJQzT2"
     },
     {
       "added_at": "2026-09-21 15:02:16",

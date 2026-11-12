@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 167025,
+  "num_followers": 167030,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,30 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
+        "name": "Messed Up",
+        "url": "https://open.spotify.com/album/5lnTtWSd9nFA6eCjWy7zal"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/5B7tYgOD3Fuf9ld9WKdqzX"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/1v7qNQqm5gCsn0jMKMAPEF"
       },
@@ -835,26 +859,22 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Messed Up",
-        "url": "https://open.spotify.com/album/5lnTtWSd9nFA6eCjWy7zal"
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/6GhfHWkYe7cZtSFUjXhVn5"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
         },
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
         }
       ],
-      "duration_ms": 156342,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/5B7tYgOD3Fuf9ld9WKdqzX"
+      "duration_ms": 182500,
+      "name": "Silver Linings",
+      "url": "https://open.spotify.com/track/5tVbtsefMvCYlNiZ32LGHb"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -899,42 +919,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Bad Boy Flows",
-        "url": "https://open.spotify.com/album/6xAt9yuZuGIeiZUkHQZnJy"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Bad Boy Flows",
-      "url": "https://open.spotify.com/track/2ciwhvkH8vxYI8SBhFAYRY"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/6GhfHWkYe7cZtSFUjXhVn5"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "CMD/CTRL",
-          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Silver Linings",
-      "url": "https://open.spotify.com/track/5tVbtsefMvCYlNiZ32LGHb"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/4JxobKXGhfWKTHatiRpcbr"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 200228,
       "name": "Get A Grip",
       "url": "https://open.spotify.com/track/53INI5w9kp0jEe6SXZVPAC"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Bad Boy Flows",
+        "url": "https://open.spotify.com/album/6xAt9yuZuGIeiZUkHQZnJy"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Bad Boy Flows",
+      "url": "https://open.spotify.com/track/2ciwhvkH8vxYI8SBhFAYRY"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1039,58 +1039,18 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Genesis II",
-        "url": "https://open.spotify.com/album/3mkvfsafNXE0Yh0sJE7znC"
+        "name": "Shadow Reign",
+        "url": "https://open.spotify.com/album/7mZ8hnwE151WQ2QHqdWJkL"
       },
       "artists": [
         {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         }
       ],
-      "duration_ms": 222068,
-      "name": "Genesis II",
-      "url": "https://open.spotify.com/track/6jkFiUGy2bKFREJ7nJcwtl"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "Top Of My Game",
-        "url": "https://open.spotify.com/album/7kC0H6RKxFX9VaDlIOrgKX"
-      },
-      "artists": [
-        {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
-        }
-      ],
-      "duration_ms": 192514,
-      "name": "Top Of My Game",
-      "url": "https://open.spotify.com/track/5b5D3Bjd9eyx4rLH39WyHT"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "140 MAFIA",
-        "url": "https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        },
-        {
-          "name": "SVDKO",
-          "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
-        },
-        {
-          "name": "JONCASS",
-          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
+      "duration_ms": 159085,
+      "name": "Shadow Reign",
+      "url": "https://open.spotify.com/track/17l0gx7CDNlExrTIZh1xmJ"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1123,18 +1083,74 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Shadow Reign",
-        "url": "https://open.spotify.com/album/7mZ8hnwE151WQ2QHqdWJkL"
+        "name": "Genesis II",
+        "url": "https://open.spotify.com/album/3mkvfsafNXE0Yh0sJE7znC"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
         }
       ],
-      "duration_ms": 159085,
-      "name": "Shadow Reign",
-      "url": "https://open.spotify.com/track/17l0gx7CDNlExrTIZh1xmJ"
+      "duration_ms": 222068,
+      "name": "Genesis II",
+      "url": "https://open.spotify.com/track/6jkFiUGy2bKFREJ7nJcwtl"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "140 MAFIA",
+        "url": "https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "SVDKO",
+          "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
+        },
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Top Of My Game",
+        "url": "https://open.spotify.com/album/7kC0H6RKxFX9VaDlIOrgKX"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        }
+      ],
+      "duration_ms": 192514,
+      "name": "Top Of My Game",
+      "url": "https://open.spotify.com/track/5b5D3Bjd9eyx4rLH39WyHT"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "One Last Tear",
+        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "One Last Tear",
+      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1159,22 +1175,6 @@
       "duration_ms": 156000,
       "name": "Strong Like Lion",
       "url": "https://open.spotify.com/track/16PLoogX8O3nOQh1NmKG7s"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "One Last Tear",
-        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 140232,
-      "name": "One Last Tear",
-      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Who Do You Run To",
-        "url": "https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m"
-      },
-      "artists": [
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        },
-        {
-          "name": "Cammie Robinson",
-          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Who Do You Run To",
-      "url": "https://open.spotify.com/track/336qwnx84ZYM0hnxvSLb6K"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 182500,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Who Do You Run To",
+        "url": "https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Who Do You Run To",
+      "url": "https://open.spotify.com/track/336qwnx84ZYM0hnxvSLb6K"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Under The Lights",
-        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Under The Lights",
-      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Log On",
         "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
       },
@@ -1619,22 +1603,18 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Onslaught",
-        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+        "name": "Under The Lights",
+        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
       },
       "artists": [
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 181718,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
+      "duration_ms": 200228,
+      "name": "Under The Lights",
+      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1651,6 +1631,26 @@
       "duration_ms": 198260,
       "name": "Tha Beat",
       "url": "https://open.spotify.com/track/7s4E0ngx0GKhgq938N0HEH"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 181718,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Haikyo",
-        "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
-      },
-      "artists": [
-        {
-          "name": "Nectax",
-          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Haikyo",
-      "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Sharp",
         "url": "https://open.spotify.com/album/6SYmJ4TpUfFUfDxAEwa4Q9"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 280712,
       "name": "Sharp",
       "url": "https://open.spotify.com/track/6NUMcfP2CVfKLiKVo24d5p"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Haikyo",
+        "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
+      },
+      "artists": [
+        {
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Haikyo",
+      "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1843,22 +1843,22 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu"
+        "name": "Hitman",
+        "url": "https://open.spotify.com/album/1ArZBdgPscE9w45S9hN7U6"
       },
       "artists": [
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
         },
         {
-          "name": "M\u00c6DM",
-          "url": "https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178"
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
         }
       ],
-      "duration_ms": 123428,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
+      "duration_ms": 200228,
+      "name": "Hitman",
+      "url": "https://open.spotify.com/track/7kHq3IH6Tgb63WrEDEuVSz"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1887,22 +1887,42 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Hitman",
-        "url": "https://open.spotify.com/album/1ArZBdgPscE9w45S9hN7U6"
+        "name": "South of the Thames",
+        "url": "https://open.spotify.com/album/5jyqJlZAF9wnKkneyoizKc"
       },
       "artists": [
         {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+          "name": "SKALAH",
+          "url": "https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx"
         },
         {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
         }
       ],
-      "duration_ms": 200228,
-      "name": "Hitman",
-      "url": "https://open.spotify.com/track/7kHq3IH6Tgb63WrEDEuVSz"
+      "duration_ms": 172082,
+      "name": "South of the Thames",
+      "url": "https://open.spotify.com/track/23AlkF4Vp1EMadT6JvBWU1"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "M\u00c6DM",
+          "url": "https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1927,38 +1947,18 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "South of the Thames",
-        "url": "https://open.spotify.com/album/5jyqJlZAF9wnKkneyoizKc"
+        "name": "Argument Done",
+        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
       },
       "artists": [
         {
-          "name": "SKALAH",
-          "url": "https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
         }
       ],
-      "duration_ms": 172082,
-      "name": "South of the Thames",
-      "url": "https://open.spotify.com/track/23AlkF4Vp1EMadT6JvBWU1"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        }
-      ],
-      "duration_ms": 266742,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
+      "duration_ms": 173793,
+      "name": "Argument Done",
+      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Argument Done",
-        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
       },
       "artists": [
         {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
         }
       ],
-      "duration_ms": 173793,
-      "name": "Argument Done",
-      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
+      "duration_ms": 266742,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -2011,6 +2011,22 @@
       "duration_ms": 202970,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Feel Your Love EP",
+        "url": "https://open.spotify.com/album/6GQBcwLcfDKw1Vk8y65ejD"
+      },
+      "artists": [
+        {
+          "name": "Gino",
+          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6MZe35h3pzai53S3vIgvwE"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -2035,38 +2051,26 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Feel Your Love EP",
-        "url": "https://open.spotify.com/album/6GQBcwLcfDKw1Vk8y65ejD"
+        "name": "SHATTER",
+        "url": "https://open.spotify.com/album/1h6KIsgjXcPyA53MTIQMhO"
       },
       "artists": [
         {
-          "name": "Gino",
-          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6MZe35h3pzai53S3vIgvwE"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "SKULL",
-        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+          "name": "SEMPA",
+          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
         },
         {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+          "name": "FSHR",
+          "url": "https://open.spotify.com/artist/5Gr03VDrhCcPF1HAI8WpiE"
+        },
+        {
+          "name": "Trilla Jermaine Trilloski",
+          "url": "https://open.spotify.com/artist/1c1ppVMEkBrVj2jX4e6NbW"
         }
       ],
-      "duration_ms": 195899,
-      "name": "SKULL",
-      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
+      "duration_ms": 168000,
+      "name": "SHATTER",
+      "url": "https://open.spotify.com/track/4bZnUtYR7o9pEBI1yy496E"
     }
   ],
   "unique_name": "Proper Naughty ",

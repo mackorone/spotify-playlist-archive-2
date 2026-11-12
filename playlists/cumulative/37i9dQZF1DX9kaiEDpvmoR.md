@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-659 songs - 1 day 14 hr 59 min
+660 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Brandalsund](https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0), [Peder af Ugglas](https://open.spotify.com/artist/0BShcQJsGOlh0CxBK24Q43) | [Brandalsund](https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI) | 4:26 | 2024-06-27 | 2024-08-16 |
 | [Breaking Up Is Hard To Do](https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Breaking Up Is Hard To Do](https://open.spotify.com/album/6jhOWJ2x7JfrO8b9CQ20CU) | 4:25 | 2026-02-12 | 2026-02-20 |
 | [Bron](https://open.spotify.com/track/4KT53sRdagBGBXMFDiwb6K) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Bron](https://open.spotify.com/album/6Um07e76S7DUZQCCIiOQrq) | 3:58 | 2026-10-29 |  |
-| [By and By](https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [By and By](https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ) | 3:28 | 2026-06-11 |  |
+| [By and By](https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [By and By](https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ) | 3:28 | 2026-06-11 | 2026-11-12 |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-27 | 2024-08-23 |
 | [Bättre här](https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Bättre här](https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn) | 3:08 | 2025-09-18 | 2026-05-31 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 | 2025-04-04 |
@@ -93,6 +93,7 @@
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 | 2026-02-13 |
 | [Caught Me On A Bad Day](https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN) | 3:30 | 2024-09-06 | 2024-09-25 |
 | [Chasing Down A Dream](https://open.spotify.com/track/3Car1iB91hRkVqFpgqIaJq) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Chasing Down A Dream](https://open.spotify.com/album/20tBfUDwJVYwT9HwwtQSZj) | 3:21 | 2025-08-21 | 2025-09-12 |
+| [Closer](https://open.spotify.com/track/0RWObFtXnP27I1XHL7pc2a) | [Shout Out Louds](https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl) | [Closer](https://open.spotify.com/album/1jYPzM2CSlHcKuf5OOGqbG) | 4:06 | 2026-11-05 |  |
 | [Communication \- Polar Session '01](https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [The Rest Of The Best \(Vol\. 2\)](https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui) | 4:20 | 2024-09-06 | 2024-10-25 |
 | [Could've Been Us](https://open.spotify.com/track/5pOe7jQSrMJCbQ1kI6V0Fu) | [Alex Westin](https://open.spotify.com/artist/5r5BAZRjaW2u0vIeuBrRjk) | [Could've Been Us](https://open.spotify.com/album/1QaMWQ3R86lGcN9OaFm7ad) | 3:08 | 2025-05-15 | 2025-05-26 |
 | [Country Enough](https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Hometown](https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA) | 2:57 | 2026-01-08 | 2026-04-03 |

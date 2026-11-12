@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Grumpys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,875 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,884 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 20 | [Esa canción \- Track 16](https://open.spotify.com/track/1sN1iSTUR2ZsExc7XszYGL) | [Alba Reig](https://open.spotify.com/artist/26U5AD84foleMkGN02zIJ9) | [Esa canción \- Track 16](https://open.spotify.com/album/5um57c4paP7ZxomCU9qbJK) | 2:26 |
 | 21 | [Ni Lugar Ni Manera](https://open.spotify.com/track/6FkhKpzAydTDW3VXcf4157) | [PRENDA](https://open.spotify.com/artist/4CZAm9Ahn8YEemHClytQKk) | [Ni Lugar Ni Manera](https://open.spotify.com/album/5twQXl7YhmA4QeOjww5UG7) | 4:19 |
 | 22 | [Debajo de ti](https://open.spotify.com/track/3jCCox5TIRnEi3VfJSxS1Q) | [Anouck The Band](https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag) | [Háblame de ella](https://open.spotify.com/album/2XMHPaGC1WQ7meXjhc1LXU) | 3:10 |
-| 23 | [Alguna Vez](https://open.spotify.com/track/1gaqPwcTlW85mDwMMz5JYN) | [Gazella](https://open.spotify.com/artist/1wmWQx4d3FD5M1FjIrk3wH) | [Alguna Vez](https://open.spotify.com/album/0jWYTVM8ayK1ksCcPEEvpO) | 3:20 |
+| 23 | [Alguna vez](https://open.spotify.com/track/1gaqPwcTlW85mDwMMz5JYN) | [Gazella](https://open.spotify.com/artist/1wmWQx4d3FD5M1FjIrk3wH) | [Alguna vez](https://open.spotify.com/album/0jWYTVM8ayK1ksCcPEEvpO) | 3:20 |
 | 24 | [Tu Yo del 96](https://open.spotify.com/track/3HRWg768kolNUJ4XGRENQ8) | [Banin](https://open.spotify.com/artist/2rd2VHtSySldvMzIjxPd9c) | [Tu Yo del 96](https://open.spotify.com/album/6ABm7uP21ygX7JrEvJq3SX) | 2:43 |
 | 25 | [SexyHOT](https://open.spotify.com/track/28I9DF0YnYCiVdyxIEQbFF) | [FUTURACHICAPOP](https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ), [Juan Anselmo](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W) | [SexyHOT](https://open.spotify.com/album/1Rbu1T8TTJJnyZ75RNzzkd) | 4:18 |
 | 26 | [Guapo vas quedar](https://open.spotify.com/track/7qkx8Kk3RXuug4McFi5nOm) | [Técnicas y Procedimientos](https://open.spotify.com/artist/7zSpEAeV9StUa2heFItReM) | [PERRO GRANDE](https://open.spotify.com/album/1dh5pcJiDR7qtbgISXIJ5S) | 2:13 |

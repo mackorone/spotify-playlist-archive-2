@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Maria Kim\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,038 likes - 48 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,061 likes - 48 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 17 | [Only One \- Jazz Version](https://open.spotify.com/track/3w4m8rUUedwM81wAAgg5Hk) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Only One \(Jazz Version\)](https://open.spotify.com/album/057BrYACkijfylrhjwJAsM) | 4:28 |
 | 18 | [Sleepy \(Feat\. paulkyte\)](https://open.spotify.com/track/5d57dsBRU85OiDkJnPktgw) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:19 |
 | 19 | [Baila, Baila](https://open.spotify.com/track/2splcDjHiK8dj39ZLn6Rrm) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Baila, Baila](https://open.spotify.com/album/7jBDLRqPdmSQM0w8j8xbaP) | 3:08 |
-| 20 | [Coucou](https://open.spotify.com/track/0X5S0n9710zbQgbMurM45J) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Madame Coucou Vol.3](https://open.spotify.com/album/1b27OMnldnCHHcauwsk5T6) | 3:49 |
+| 20 | [Coucou](https://open.spotify.com/track/0X5S0n9710zbQgbMurM45J) | [Kang yuhyun](https://open.spotify.com/artist/5ysfTqMOVMwuIBIcyTi9lS) | [Madame Coucou Vol.3](https://open.spotify.com/album/1b27OMnldnCHHcauwsk5T6) | 3:49 |
 | 21 | [What A Wonderful Blue Night \(Feat\. Yun Seokcheol\) \- Bossanova Ver.](https://open.spotify.com/track/0QoGXe1zRzvNsOwbZ3dma6) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:04 |
 | 22 | [Fairy Tale](https://open.spotify.com/track/1Li3lHsdQKNK7xHsgvnhH7) | [Eddie Paper](https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR) | [Fairy Tale](https://open.spotify.com/album/2Pij3PvLdtV09XD4CJ7jaJ) | 2:59 |
 | 23 | [Romance.\. \(With Danny Koo\)](https://open.spotify.com/track/1Ia6U6HSebBO6GRZug2iNX) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [a Letter of Romance](https://open.spotify.com/album/6Ie9Ph66tRLid1J4e9jT9Q) | 3:23 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 26 | [Stop](https://open.spotify.com/track/4kTQFfqIEpfrJPEYsYwgnz) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Stop](https://open.spotify.com/album/3mjo6r9VpITj8LQgFZZG2y) | 2:31 |
 | 27 | [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 |
 | 28 | [SEE ME HERE](https://open.spotify.com/track/5nYYaJ2mQ6Z749VawIjLXM) | [Hakyung](https://open.spotify.com/artist/6iSUJTtPGOz42wAUl1PxKO) | [BREATHING IN](https://open.spotify.com/album/56xFsFGOFWYOKTDwcDW3KG) | 5:13 |
-| 29 | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8), [Bonnie](https://open.spotify.com/artist/1gRewtKGMez7TrX39W9Fgd), [Sunny](https://open.spotify.com/artist/3zzUbb5VsVgF07lb7gpLwo) | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s) | 1:56 |
+| 29 | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv) | [Kang yuhyun](https://open.spotify.com/artist/5ysfTqMOVMwuIBIcyTi9lS), [Bonnie](https://open.spotify.com/artist/1gRewtKGMez7TrX39W9Fgd), [Sunny](https://open.spotify.com/artist/3zzUbb5VsVgF07lb7gpLwo) | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s) | 1:56 |
 | 30 | [The moon is mooning](https://open.spotify.com/track/2KTHo0Y3FSmC4winA0xs9b) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [The Divorce Insurance, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1Sosc6QfPb6YQoWPN1EzVo) | 2:28 |
 | 31 | [Love Me or Leave Me](https://open.spotify.com/track/6xN0ysGN6LrcigauMSI8It) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Love Me or Leave Me](https://open.spotify.com/album/7E4E2NvwMbJPu4uprns4C8) | 4:58 |
 | 32 | [Vulnerable Night](https://open.spotify.com/track/3N9goAiZWkx57SBr6exO5K) | [ORORA](https://open.spotify.com/artist/11x44zHKHZ8Yyg6qTzuUoE) | [Vulnerable Night](https://open.spotify.com/album/5RpHEJFgOObKgjlefX2Zsn) | 3:02 |

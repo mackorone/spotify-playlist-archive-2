@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7a8ZndeHGrkS7xIM8060Xw">PayGotti</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,693,951 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,693,611 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 6 | [LOCKED IN \(feat\. Nono La Grinta\)](https://open.spotify.com/track/2zEijNLi5hVvLXiHCgbsqu) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2AaIiX1EeyiFR8ayOtVOfZ) | 2:19 |
 | 7 | [Go](https://open.spotify.com/track/2sejMb76SzSy4VVEbf63wZ) | [Merck](https://open.spotify.com/artist/3Cons1O5zLCcnXuq7SJdY7) | [Go](https://open.spotify.com/album/2c80ARFEDHVJn03MtEm7ML) | 2:41 |
 | 8 | [Vibin](https://open.spotify.com/track/6Rp80YI2AuBZUsQDk2Auti) | [Wxoda](https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG) | [Vibin](https://open.spotify.com/album/08oXpJxPcYhgtDUk4i44CX) | 1:33 |
-| 9 | [2MUCH](https://open.spotify.com/track/45Lw1UgsZqKsVYWiX9wmXt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [2MUCH](https://open.spotify.com/album/36RKhiQ8ovHLSFAwoCHbOC) | 3:12 |
+| 9 | [2MUCH](https://open.spotify.com/track/45Lw1UgsZqKsVYWiX9wmXt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [Wizxrd](https://open.spotify.com/artist/2x4CNS5nCHds8Zhj42WJw0), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [2MUCH](https://open.spotify.com/album/36RKhiQ8ovHLSFAwoCHbOC) | 3:12 |
 | 10 | [Ghetto Love Story](https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/3AuLQEOciMYE6CXmwI9le6) | 2:58 |
 | 11 | [WAV](https://open.spotify.com/track/2Z83GteTaxI68BJQuhMide) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [N5ON](https://open.spotify.com/album/5tUymTDVSwVGC1fV8sPo04) | 1:44 |
 | 12 | [LET ME KNOW](https://open.spotify.com/track/25tCvyZeXdhYlgRb0d1YBU) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [BULLDAWG: GRAVEYARD SHIFT](https://open.spotify.com/album/7iPhrwDfUVJKVldUzaEMlz) | 2:33 |

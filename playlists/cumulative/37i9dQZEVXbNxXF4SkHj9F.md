@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,236 songs - 5 day 2 hr 16 min
+2,238 songs - 5 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-20 | 2025-05-17 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-29 | 2023-01-07 |
 | [Birthday Wish](https://open.spotify.com/track/4EpUJbdObAoylk1004aMG3) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/1z0Pp1BPuADZTTM8TTUFWs) | 3:20 | 2026-11-04 | 2026-11-06 |
-| [Birthday Wish](https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy) | 3:20 | 2026-10-21 |  |
+| [Birthday Wish](https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy) | 3:20 | 2026-10-21 | 2026-11-12 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-24 | 2023-06-19 |
 | [Bittersweet](https://open.spotify.com/track/4attgopd8pmrJ03fSDeOI2) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [The 1st Mini Album \[AFTER CRY\]](https://open.spotify.com/album/4NZUty5ldXEcivYcDz1zaF) | 3:20 | 2026-04-04 | 2026-05-02 |
 | [Black Heart \(Feat\. leellamarz, BE′O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 | 2022-02-01 | 2022-02-03 |
@@ -1296,6 +1296,7 @@
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP) | 3:00 | 2023-01-22 | 2023-01-26 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-17 | 2024-11-04 |
 | [Moonride](https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Moonride](https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG) | 2:56 | 2026-09-17 | 2026-10-03 |
+| [MOONWALK](https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [오보](https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4) | 4:12 | 2026-11-11 |  |
 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 | 2026-01-19 | 2026-02-08 |
 | [MORAESIGYE](https://open.spotify.com/track/63dt1BEeb05e452S14uTRB) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:48 | 2021-11-13 | 2021-11-14 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-17 |
@@ -1587,7 +1588,7 @@
 | [Reset \(Feat\. Gaeko, Kid Milli\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/5oD7cKg3DRl2HFuybvVsI5) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:17 | 2021-11-22 | 2021-12-15 |
 | [Rewind](https://open.spotify.com/track/07qSCcSVuVLHIf0gUSrUNW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:04 | 2022-03-29 | 2022-04-01 |
 | [Rewind](https://open.spotify.com/track/5ABoisMQy4BDY2dElYhGyJ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu) | 2:40 | 2026-11-04 | 2026-11-06 |
-| [Rewind](https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q) | 2:40 | 2026-10-13 |  |
+| [Rewind](https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q) | 2:40 | 2026-10-13 | 2026-11-12 |
 | [Rhapsody of Sadness](https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Rhapsody of Sadness](https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV) | 3:55 | 2025-07-14 | 2026-03-01 |
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-16 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-11-28 |
@@ -2244,5 +2245,6 @@
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2026-04-10 | 2026-04-12 |
 | [작은 봄](https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H) | [작은 봄](https://open.spotify.com/album/7xUqTrlB37TJbtVcBvrEOH) | 3:42 | 2025-04-07 | 2025-04-19 |
 | [한 페이지가 될 수 있게](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-10-13 | 2025-01-05 |
+| [화](https://open.spotify.com/track/11JJhyIJqYqZkSQkhNmiZS) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [오보](https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4) | 3:05 | 2026-11-11 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

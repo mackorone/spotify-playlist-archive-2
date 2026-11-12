@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 240190,
+  "num_followers": 240246,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,34 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        },
+        {
+          "name": "Sardar Khehra",
+          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Ban",
+      "url": "https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
@@ -779,34 +807,6 @@
       "duration_ms": 33245,
       "name": "Infinite Return",
       "url": "https://open.spotify.com/track/24sVtO6KaTmPVH3n99THBB"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        },
-        {
-          "name": "Sardar Khehra",
-          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Ban",
-      "url": "https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh"
     },
     {
       "added_at": "2026-09-11 10:46:59",

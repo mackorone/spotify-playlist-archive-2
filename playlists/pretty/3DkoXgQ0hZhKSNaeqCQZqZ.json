@@ -1,13 +1,85 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1263,
+  "num_followers": 1264,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGEok1JkSni4o+bag8KhsYVDjqmVNV",
+  "snapshot_id": "AAAGGRHmtNy1iNfmeD6d7XhHG+60SqH9",
   "tracks": [
+    {
+      "added_at": "2026-11-11 23:29:03",
+      "album": {
+        "name": "wayhome",
+        "url": "https://open.spotify.com/album/3GVyax479TWJmm5eFGrlE5"
+      },
+      "artists": [
+        {
+          "name": "Velaspace",
+          "url": "https://open.spotify.com/artist/5eFAOInRxqFXiGs4myARXW"
+        },
+        {
+          "name": "Ima",
+          "url": "https://open.spotify.com/artist/24E1bMe5hd2ZbhWjCZasWT"
+        }
+      ],
+      "duration_ms": 257538,
+      "name": "how do i tell you",
+      "url": "https://open.spotify.com/track/6rl6Deyy8Utz8HEWEVs07k"
+    },
+    {
+      "added_at": "2026-11-11 23:27:53",
+      "album": {
+        "name": "off a jet",
+        "url": "https://open.spotify.com/album/4R5bR4kPNQ9TRYRR1hXayD"
+      },
+      "artists": [
+        {
+          "name": "batt",
+          "url": "https://open.spotify.com/artist/1BmWFfU9euusBSd9eo0oG2"
+        },
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 137476,
+      "name": "MFL",
+      "url": "https://open.spotify.com/track/6MohdiaR3AfffciBdwZVlm"
+    },
+    {
+      "added_at": "2026-11-11 21:44:54",
+      "album": {
+        "name": "PARTY LIKE THIS",
+        "url": "https://open.spotify.com/album/0feRHXSSAqBn2l0skYrmRM"
+      },
+      "artists": [
+        {
+          "name": "fearozzles",
+          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
+        },
+        {
+          "name": "Johnny Staxx",
+          "url": "https://open.spotify.com/artist/1f2SRb6igf9FXPgPKEKuOt"
+        },
+        {
+          "name": "silverluv",
+          "url": "https://open.spotify.com/artist/6uLoUTi9Gj0xZ4Ozgdwxm6"
+        },
+        {
+          "name": "bobowakeup",
+          "url": "https://open.spotify.com/artist/1SCLtqNhNEFvbuRjVMfIVl"
+        },
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "duration_ms": 194685,
+      "name": "PARTY LIKE THIS",
+      "url": "https://open.spotify.com/track/75KAY9fMflyNCxgMgknChO"
+    },
     {
       "added_at": "2026-10-30 05:39:18",
       "album": {
@@ -6831,22 +6903,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "Won't Give Into Darkness",
-        "url": "https://open.spotify.com/album/03ihSJ5sQkAPUgAwNP6nJX"
-      },
-      "artists": [
-        {
-          "name": "Ck9c",
-          "url": "https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg"
-        }
-      ],
-      "duration_ms": 262149,
-      "name": "Won't Give Into Darkness",
-      "url": "https://open.spotify.com/track/0KuVHX7z5CQQvoVUq5xc4K"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/1bAZ4KCxSVc65jK4mebnCa"
       },
@@ -7151,26 +7207,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "It's Not Over",
-        "url": "https://open.spotify.com/album/3Ou1ImPGFCZTuPlf7z0K7K"
-      },
-      "artists": [
-        {
-          "name": "Ck9c",
-          "url": "https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg"
-        },
-        {
-          "name": "Elizabeth Ann",
-          "url": "https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5"
-        }
-      ],
-      "duration_ms": 253543,
-      "name": "It's Not Over",
-      "url": "https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/6BrIemwdbnScTnO6P55Z8g"
       },
@@ -7255,26 +7291,6 @@
       "duration_ms": 154285,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/7eAZzyrEGnMHb4gBWQ2Ak7"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "You Can't Hide",
-        "url": "https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np"
-      },
-      "artists": [
-        {
-          "name": "Ck9c",
-          "url": "https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg"
-        },
-        {
-          "name": "Elizabeth Ann",
-          "url": "https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5"
-        }
-      ],
-      "duration_ms": 268526,
-      "name": "You Can't Hide",
-      "url": "https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth"
     },
     {
       "added_at": "2026-03-05 04:42:47",

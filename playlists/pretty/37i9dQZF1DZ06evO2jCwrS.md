@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jCwrS.md) - [plain]
 
 > This is H.E.R.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,819 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,832 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jCwrS.md) - [plain]
 | 18 | [One Second \(feat\. H.E.R.\)](https://open.spotify.com/track/2DdI0KRBuxV5Km0bkm67yh) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 4:00 |
 | 19 | [Jungle](https://open.spotify.com/track/3C23UChONVCL0A3U9uWO5u) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 5:04 |
 | 20 | [BRB](https://open.spotify.com/track/42nwO20vTimvQgJszbsc5P) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Liza Soberano](https://open.spotify.com/artist/0QlglE94M2mY5Z38nD8meG) | [Forgotten Island \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG) | 3:33 |
-| 21 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
-| 22 | [Paradise \(feat\. Yung Bleu\)](https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 2:37 |
+| 21 | [Paradise \(feat\. Yung Bleu\)](https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 2:37 |
+| 22 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 23 | [Avenue](https://open.spotify.com/track/3hAGmPnGix8RTb1vy5qZcb) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:34 |
 | 24 | [As I Am](https://open.spotify.com/track/6hRrzZJ90DNQdEF1Wu2Mrf) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:00 |
 | 25 | [Lonely At The Top \- Remix](https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top \(Remix\)](https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y) | 2:37 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jCwrS.md) - [plain]
 | 40 | [Convince Me Otherwise \(with H.E.R.\)](https://open.spotify.com/track/7DVassGvnqQRSfVSVPxtpV) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:07 |
 | 41 | [For Anyone](https://open.spotify.com/track/4SuZuaC4BEKZpodo1r5dBT) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:54 |
 | 42 | [Carried Away](https://open.spotify.com/track/7dA5TuziQNiseDqFTyVWzi) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:41 |
-| 43 | [Gotta Move On \(feat\. H.E.R.\)](https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Spell My Name](https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5) | 4:18 |
-| 44 | [I Don't Want Your Money \(feat\. H.E.R.\)](https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 |
+| 43 | [I Don't Want Your Money \(feat\. H.E.R.\)](https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 |
+| 44 | [Gotta Move On \(feat\. H.E.R.\)](https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Spell My Name](https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5) | 4:18 |
 | 45 | [Mean It](https://open.spotify.com/track/14fCqklNybaEQyF7RRmwHA) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:17 |
 | 46 | [Something Keeps Pulling Me Back](https://open.spotify.com/track/6WC5YDTKztcTU3tWux0Jk1) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:04 |
 | 47 | [My Song](https://open.spotify.com/track/16V37tEJapC7jTli8qHImc) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [My Song](https://open.spotify.com/album/4CuBjhv8H7ebadwJyS6MK1) | 5:50 |
 | 48 | [Go Dumb \(feat\. H.E.R.\)](https://open.spotify.com/track/18sGGoM0OlrZNyMqVFIqP7) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:24 |
-| 49 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
-| 50 | [Back of My Mind \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0NYEdeOOdXN6Nw2AeKecSJ) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:41 |
+| 49 | [Back of My Mind \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0NYEdeOOdXN6Nw2AeKecSJ) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:41 |
+| 50 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 
-Snapshot ID: `au+7gAAAAACZ74ao/EzGv8sw+W1CPINo`
+Snapshot ID: `avENAAAAAADCufqj0fqNAsQVZZXdxb4r`

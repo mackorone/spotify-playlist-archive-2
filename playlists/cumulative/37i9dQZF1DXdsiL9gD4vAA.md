@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-247 songs - 21 hr 52 min
+248 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 | 2024-04-19 |
 | [Mausam](https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Mausam](https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF) | 4:51 | 2024-12-31 |  |
 | [Mehsoos \- From "Jashn \-E\- Ghazal"](https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Mehsoos \(From "Jashn \-E\- Ghazal"\)](https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX) | 5:06 | 2024-12-12 | 2026-07-14 |
+| [Mere Dil Mein](https://open.spotify.com/track/7ow95iQWA4V6nxVY9w5vgR) | [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014), [Mohammed Vakil](https://open.spotify.com/artist/59NYT44FrD9yd857ctvjdX) | [Mere Dil Mein](https://open.spotify.com/album/5Phm9iSOGssM4S8Qsdhoz5) | 6:53 | 2026-11-12 |  |
 | [Mere Humraaz](https://open.spotify.com/track/5aD83W8ruGtURZvgpH4VKP) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Mere Humraaz](https://open.spotify.com/album/4rW8e3N8i7FTSVgQrBeFtF) | 6:27 | 2024-03-05 | 2025-06-23 |
 | [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 | 2024-02-29 |
 | [Meri Aankhon Mein](https://open.spotify.com/track/0r0xRQWURgruzTqF3yd6Mw) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sanjay Vidyarthi](https://open.spotify.com/artist/6tYoojxHYH95QPMINKJmkO) | [Meri Aankhon Mein](https://open.spotify.com/album/1VgsO8Cw4bNOt8dVT1oucS) | 4:50 | 2023-05-01 | 2023-10-11 |
@@ -221,7 +222,7 @@
 | [Taiy Nahi Kiya Abhi](https://open.spotify.com/track/776QLSBeutwuBJukKGsb7I) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:49 | 2023-08-22 |  |
 | [Tasveer](https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tasveer](https://open.spotify.com/album/5ZS8DHF277xtrwG0zmt0xf) | 3:39 | 2023-03-03 | 2025-08-20 |
 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 | 2021-12-01 |  |
-| [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 | 2025-02-21 |  |
+| [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 | 2025-02-21 | 2026-11-12 |
 | [Teri Aankhon Men Kahaan](https://open.spotify.com/track/5K2z6EX8B2bOKL0OkfxILB) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a) | [Teri Aankhon Men Kahaan](https://open.spotify.com/album/2z1EEOKwsoMKHsnWngDcFA) | 4:57 | 2026-07-28 |  |
 | [Teri Adaa \(Sar\-e\-Shaam \- Mehfilz with Papon\) \- From The Living Room](https://open.spotify.com/track/3yp8vscdlRw20aCTMHEUO2) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Teri Adaa \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/2CCbwzWqZpawKUadLYNk4J) | 4:47 | 2026-07-13 |  |
 | [Teri Yaad Yaad Yaad](https://open.spotify.com/track/0fop0xkp8P9b7JTJSDdBB4) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Bewafaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lSYGvPT8tiSkQtF9SKYAY) | 8:09 | 2022-07-26 | 2024-04-19 |

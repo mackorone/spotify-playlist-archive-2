@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 27.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,873 likes - 107 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,870 likes - 107 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 57 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |
 | 58 | [Achtung! Optimism](https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Optimism](https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t) | 4:08 |
 | 59 | [23](https://open.spotify.com/track/7yBH2DRYZ5zsklX5nseXzK) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC) | 2:48 |
-| 60 | [Platinum](https://open.spotify.com/track/7ErBuIxiS0pW775JYs8kFA) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn](https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp) | 2:42 |
-| 61 | [Adieu Clémence](https://open.spotify.com/track/1p2Majs5PEH4xKLn0T1HNC) | [Tao](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Adieu Clémence](https://open.spotify.com/album/4RCesufe1n18aubuTf3Led) | 3:00 |
+| 60 | [Adieu Clémence](https://open.spotify.com/track/1p2Majs5PEH4xKLn0T1HNC) | [Tao](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Adieu Clémence](https://open.spotify.com/album/4RCesufe1n18aubuTf3Led) | 3:00 |
+| 61 | [Platinum](https://open.spotify.com/track/7ErBuIxiS0pW775JYs8kFA) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn](https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp) | 2:42 |
 | 62 | [UN DÍA NUEVO \(FUEGO\)](https://open.spotify.com/track/4d58HIXc7hNxYOCZrqsLpK) | [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [godie.](https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH), [V.I.C](https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s) | [UN DÍA NUEVO \(FUEGO\)](https://open.spotify.com/album/7jY6TxiqsreKO8znOxzHAR) | 2:28 |
 | 63 | [Can't Feel It](https://open.spotify.com/track/4moWJefMHCuUPCpwKAqI7A) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 3:37 |
 | 64 | [Tractor Beam](https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ricochet](https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji) | 3:34 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 74 | [Cherophobe Rock](https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [You're Gonna Need A Little Music](https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO) | 2:52 |
 | 75 | [Chat dans la nuit](https://open.spotify.com/track/4uDKCKUgF4H4yD3qRH8qOy) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [DOPALOVA](https://open.spotify.com/album/1ljWrYpF8cvC6UeWyYszn9) | 3:10 |
 | 76 | [Do As I Please](https://open.spotify.com/track/0750whlQFm7r6nN3RTKcif) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Adult DVD](https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7) | 3:25 |
-| 77 | [It Grows On Trees \(Money\)](https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp) | [AKA](https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv) | [It Grows On Trees \(Money\)](https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W) | 3:04 |
-| 78 | [Joga Bonito](https://open.spotify.com/track/2UHYoi6pW9N29YGXwWjhCb) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Joga Bonito](https://open.spotify.com/album/39i5d3bQBuVnOd2kTwflPw) | 2:04 |
+| 77 | [Joga Bonito](https://open.spotify.com/track/2UHYoi6pW9N29YGXwWjhCb) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Joga Bonito](https://open.spotify.com/album/39i5d3bQBuVnOd2kTwflPw) | 2:04 |
+| 78 | [It Grows On Trees \(Money\)](https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp) | [AKA](https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv) | [It Grows On Trees \(Money\)](https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W) | 3:04 |
 | 79 | [WAY UP](https://open.spotify.com/track/3nbk007nugb1fDPq4TAvst) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Doc Pauly](https://open.spotify.com/artist/0kiYqUpirlc7GR5GfrwVtz) | [WAY UP](https://open.spotify.com/album/47FynGHTV7VUYqAGfnZm9q) | 2:21 |
 | 80 | [Aguaráchate](https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Aguaráchate](https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv) | 2:36 |
 | 81 | [Le Summerlove](https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Summerlove](https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY) | 3:38 |

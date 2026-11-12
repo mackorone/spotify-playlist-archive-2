@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys?si=8b6a208728704a91"> Chuka, The Destroyer</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,011 likes - 130 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,125 likes - 130 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

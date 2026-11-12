@@ -1112,7 +1112,7 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Dame Joan Sutherland",
+          "name": "Joan Sutherland",
           "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
         },
         {
@@ -1388,7 +1388,7 @@
           "url": "https://open.spotify.com/artist/1TM0WyEFU7P1YZAP1vY0jy"
         },
         {
-          "name": "Dame Joan Sutherland",
+          "name": "Joan Sutherland",
           "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
         },
         {
@@ -2401,40 +2401,6 @@
     },
     {
       "album": {
-        "name": "Joan Sutherland / Luciano Pavarotti - Love Duets",
-        "url": "https://open.spotify.com/album/6POyPDgP7HpLeaCjVzxcer"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Dame Joan Sutherland",
-          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2021-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 647233,
-      "name": "La Sonnambula / Act 1: \"Perdona, o mia diletta...Prendi: L'anel ti dono\"",
-      "url": "https://open.spotify.com/track/5DiGjDoaAdIMms6EBczQcR"
-    },
-    {
-      "album": {
         "name": "Classic Duets",
         "url": "https://open.spotify.com/album/1Znueh0tKMXTcuGCcFWiJN"
       },
@@ -2504,6 +2470,40 @@
     {
       "album": {
         "name": "Joan Sutherland / Luciano Pavarotti - Love Duets",
+        "url": "https://open.spotify.com/album/6POyPDgP7HpLeaCjVzxcer"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647233,
+      "name": "La Sonnambula / Act 1: \"Perdona, o mia diletta...Prendi: L'anel ti dono\"",
+      "url": "https://open.spotify.com/track/5DiGjDoaAdIMms6EBczQcR"
+    },
+    {
+      "album": {
+        "name": "Joan Sutherland / Luciano Pavarotti - Love Duets",
         "url": "https://open.spotify.com/album/5gYvhebLNrR9xyBRJ5jcFK"
       },
       "artists": [
@@ -2554,7 +2554,7 @@
           "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
         },
         {
-          "name": "Dame Joan Sutherland",
+          "name": "Joan Sutherland",
           "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
         },
         {
@@ -2839,56 +2839,6 @@
     },
     {
       "album": {
-        "name": "Donizetti: Lucia di Lammermoor (3 CDs)",
-        "url": "https://open.spotify.com/album/2iLe8GVvKsfQek9Oq0DJiW"
-      },
-      "artists": [
-        {
-          "name": "Gaetano Donizetti",
-          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
-        },
-        {
-          "name": "Dame Joan Sutherland",
-          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Huguette Tourangeau",
-          "url": "https://open.spotify.com/artist/7rNxHagwcYjFBL84g1efuC"
-        },
-        {
-          "name": "Ryland Davies",
-          "url": "https://open.spotify.com/artist/4saF62i1VpvJVrfxMtPs2G"
-        },
-        {
-          "name": "Sherrill Milnes",
-          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
-        },
-        {
-          "name": "Nicolai Ghiaurov",
-          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2021-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221026,
-      "name": "Lucia di Lammermoor / Act 2: \"Chi mi frena in tal momento\"",
-      "url": "https://open.spotify.com/track/4Cf2xM4sxvgO572IEyQnUt"
-    },
-    {
-      "album": {
         "name": "Donizetti: Lucia di Lammermoor",
         "url": "https://open.spotify.com/album/28A8c6to7i1VhqDtXpiBGz"
       },
@@ -2986,6 +2936,56 @@
       "duration_ms": 222560,
       "name": "Lucia di Lammermoor / Act 2: \"Chi mi frena in tal momento\"",
       "url": "https://open.spotify.com/track/3Yrm55vifmTrXAntWL6DTT"
+    },
+    {
+      "album": {
+        "name": "Donizetti: Lucia di Lammermoor (3 CDs)",
+        "url": "https://open.spotify.com/album/2iLe8GVvKsfQek9Oq0DJiW"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Huguette Tourangeau",
+          "url": "https://open.spotify.com/artist/7rNxHagwcYjFBL84g1efuC"
+        },
+        {
+          "name": "Ryland Davies",
+          "url": "https://open.spotify.com/artist/4saF62i1VpvJVrfxMtPs2G"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Lucia di Lammermoor / Act 2: \"Chi mi frena in tal momento\"",
+      "url": "https://open.spotify.com/track/4Cf2xM4sxvgO572IEyQnUt"
     },
     {
       "album": {

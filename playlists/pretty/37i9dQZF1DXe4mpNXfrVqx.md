@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Hanifah
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,966 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,971 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 69 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
 | 70 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 71 | [Negra Tipo A](https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 2:34 |
-| 72 | [SALA VERMELHA \#03 \- Ajuliacosta](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#03 \- Ajuliacosta](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
+| 72 | [SALA VERMELHA \#03 \- Ajuliacosta](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/2fkPVmcZAxyOCa1Z8mwphy), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#03 \- Ajuliacosta](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
 | 73 | [Seu Nome](https://open.spotify.com/track/50JauwWdLI3L5oTw5UZmuP) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3), [Theuzz011](https://open.spotify.com/artist/7DUOb2BAkKqL0kG8ecSAVp) | [Seu Nome](https://open.spotify.com/album/7E5eMLXtr8OxdiJcIPtbpj) | 2:30 |
 | 74 | [Fitas](https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:29 |
 | 75 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |

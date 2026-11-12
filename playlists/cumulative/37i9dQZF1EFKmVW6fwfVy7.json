@@ -110,10 +110,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 212040,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/1VG7hlZpY73n8h8NgidVTh"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/3LOQb4np9pTPhlrdIEht1d"
     },
     {
       "album": {

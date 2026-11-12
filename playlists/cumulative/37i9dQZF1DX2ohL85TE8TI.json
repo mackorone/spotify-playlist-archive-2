@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: \ubd80\ud65c\ub0a8: \ub354 \ub808\ub4dc) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: 100\uc77c\uc758 \uac70\uc9d3\ub9d0) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -5037,6 +5037,24 @@
     },
     {
       "album": {
+        "name": "100 Days of Deception, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ccfOSRmWNSTy98mUSrMgW"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Even That Is Love",
+      "url": "https://open.spotify.com/track/4FHGqqIFPOJIg7lwqDMtqa"
+    },
+    {
+      "album": {
         "name": "Canada Check-in OST",
         "url": "https://open.spotify.com/album/5mcS6Iv09V1Nbc672LHWZ3"
       },
@@ -5228,7 +5246,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 245349,
       "name": "Everyday with You",
       "url": "https://open.spotify.com/track/46pQsS1unFN5j0aW0iGCCz"
@@ -5654,6 +5672,24 @@
       "duration_ms": 200582,
       "name": "Fighter (Feat. nochexintoma)",
       "url": "https://open.spotify.com/track/3AOnF8vSLGBdguHvZTAW5p"
+    },
+    {
+      "album": {
+        "name": "A love other than yours OST Part.5",
+        "url": "https://open.spotify.com/album/2LGWx7CR40iTk6zqnA4sJj"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Filling My Heart",
+      "url": "https://open.spotify.com/track/5LPWnrWQ5jLACAE54lPkgg"
     },
     {
       "album": {
@@ -9305,6 +9341,24 @@
     },
     {
       "album": {
+        "name": "Merry Berry Love, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/40jp7Gx2Dql1IGqRpv0h6R"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "INTO YOU",
+      "url": "https://open.spotify.com/track/6mjGamPdzKrjO0dwAnkn7D"
+    },
+    {
+      "album": {
         "name": "My Royal Nemesis, Pt. 6 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/09Vr5ucAzWoETt4EzqmLsb"
       },
@@ -10208,7 +10262,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 202000,
       "name": "Last Spring",
       "url": "https://open.spotify.com/track/5A3WVeO7e6SWvTfJzd07w9"
@@ -11880,7 +11934,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 193000,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/0AJfdKQYwpsOxNtVEsDmFf"
@@ -15468,6 +15522,24 @@
       "duration_ms": 224189,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"
+    },
+    {
+      "album": {
+        "name": "100 Days of Deception, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4TX62irCgkHM4iSKMG6qoA"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/4rybwrZtU1KyRImHKX8eaO"
     },
     {
       "album": {
@@ -19384,7 +19456,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 244884,
       "name": "To Our Beautiful Past",
       "url": "https://open.spotify.com/track/4O916H2Hkxgu8zmrRxNeq6"
@@ -19906,7 +19978,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 240000,
       "name": "Universe",
       "url": "https://open.spotify.com/track/2eJag2pDeCABqFa4qC6x19"

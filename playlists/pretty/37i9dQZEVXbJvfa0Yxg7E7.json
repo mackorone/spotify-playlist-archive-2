@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 553035,
+  "num_followers": 553024,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MoakwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MogGqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "H\u00e5per at du ser meg n\u00e5",
         "url": "https://open.spotify.com/album/4VA4b3S1pYiTYuspfLYV1M"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/55n0sonmGqFrksxie8TK7m"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Spill For Galleriet (Deluxe)",
-        "url": "https://open.spotify.com/album/72PNEVNGN56BrNjx4fD4Dk"
-      },
-      "artists": [
-        {
-          "name": "Makosir",
-          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "I et annet liv",
-      "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "The Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
@@ -73,23 +57,23 @@
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "Babydoll",
-        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+        "name": "Spill For Galleriet (Deluxe)",
+        "url": "https://open.spotify.com/album/72PNEVNGN56BrNjx4fD4Dk"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
         }
       ],
-      "duration_ms": 178822,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+      "duration_ms": 163989,
+      "name": "I et annet liv",
+      "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "ingenting er magisk",
         "url": "https://open.spotify.com/album/4uAID7XcGNdxLJJC0BkOtd"
@@ -105,23 +89,39 @@
       "url": "https://open.spotify.com/track/1aKVPi9doltHZd1AxgzrYW"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 173975,
-      "name": "Great Expectation",
-      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "I takt med deg (feat. Bj\u00f8rn Eidsv\u00e5g)",
         "url": "https://open.spotify.com/album/5k1bYCkpe0dSgwXNzePENq"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/0swzY7LDbkMXepuOM9GGKb"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "YAP.",
         "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
@@ -157,23 +173,7 @@
       "url": "https://open.spotify.com/track/2PTABhzpf5o3gI8H6rAZoV"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Dr\u00f8mmen jeg vil selge, holder meg v\u00e5ken.",
-        "url": "https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh"
-      },
-      "artists": [
-        {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Addict.",
-      "url": "https://open.spotify.com/track/3sJSF3dF6vYAv4r1qUEGmy"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Spill For Galleriet",
         "url": "https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb"
@@ -225,7 +209,39 @@
       "url": "https://open.spotify.com/track/0IpCt1Z62jF1LCPTADQTUB"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Dr\u00f8mmen jeg vil selge, holder meg v\u00e5ken.",
+        "url": "https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh"
+      },
+      "artists": [
+        {
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Addict.",
+      "url": "https://open.spotify.com/track/3sJSF3dF6vYAv4r1qUEGmy"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "My Body Isn't Ready",
         "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
@@ -241,7 +257,39 @@
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Siste Dans (fra Sn\u00f8s\u00f8steren)",
+        "url": "https://open.spotify.com/album/6G4GX3mlwWrPWqBy9Vm5vz"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 218030,
+      "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
+      "url": "https://open.spotify.com/track/6YSq1MHTG61D0p489GqcLA"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "H\u00e5pl\u00f8s",
         "url": "https://open.spotify.com/album/5qampg6B8BB77GrP433F6O"
@@ -261,7 +309,7 @@
       "url": "https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -301,26 +349,10 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Siste Dans (fra Sn\u00f8s\u00f8steren)",
-        "url": "https://open.spotify.com/album/6G4GX3mlwWrPWqBy9Vm5vz"
+        "name": "Sjelen",
+        "url": "https://open.spotify.com/album/76g2psUAHym5tZCTINrtAS"
       },
       "artists": [
         {
@@ -328,12 +360,12 @@
           "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
         }
       ],
-      "duration_ms": 218030,
-      "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
-      "url": "https://open.spotify.com/track/6YSq1MHTG61D0p489GqcLA"
+      "duration_ms": 168930,
+      "name": "Sjelen",
+      "url": "https://open.spotify.com/track/3LF6HIJIFSluSqsbLJJSS5"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "FILM NOIR",
         "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
@@ -385,39 +417,23 @@
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "Dr\u00f8mmen jeg vil selge, holder meg v\u00e5ken.",
+        "url": "https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 162946,
+      "name": "Hvis han kjenner deg s\u00e5 godt",
+      "url": "https://open.spotify.com/track/2ABRYmppRJ8RF9zzFm8ETo"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Sjelen",
-        "url": "https://open.spotify.com/album/76g2psUAHym5tZCTINrtAS"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 168930,
-      "name": "Sjelen",
-      "url": "https://open.spotify.com/track/3LF6HIJIFSluSqsbLJJSS5"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "YAP.",
         "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
@@ -437,39 +453,7 @@
       "url": "https://open.spotify.com/track/4XnC0KesuS0urhamae4pHM"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Dr\u00f8mmen jeg vil selge, holder meg v\u00e5ken.",
-        "url": "https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh"
-      },
-      "artists": [
-        {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 162946,
-      "name": "Hvis han kjenner deg s\u00e5 godt",
-      "url": "https://open.spotify.com/track/2ABRYmppRJ8RF9zzFm8ETo"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Heimakj\u00e6r",
-        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 258270,
-      "name": "H\u00e5nd i h\u00e5nd",
-      "url": "https://open.spotify.com/track/7tmObcH9iG5Ncv4dYAtVc4"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
@@ -485,7 +469,39 @@
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Heimakj\u00e6r",
+        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 258270,
+      "name": "H\u00e5nd i h\u00e5nd",
+      "url": "https://open.spotify.com/track/7tmObcH9iG5Ncv4dYAtVc4"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Ser du m\u00e5nen?",
+        "url": "https://open.spotify.com/album/2p0KTC367e39BtQHGjp2qJ"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Ser du m\u00e5nen?",
+      "url": "https://open.spotify.com/track/4Rxix9cTsegJUD5lx88Td5"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Lies (feat. Lana Del Rey)",
         "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
@@ -521,71 +537,7 @@
       "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Ser du m\u00e5nen?",
-        "url": "https://open.spotify.com/album/2p0KTC367e39BtQHGjp2qJ"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Ser du m\u00e5nen?",
-      "url": "https://open.spotify.com/track/4Rxix9cTsegJUD5lx88Td5"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Shotta's.",
         "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
@@ -601,59 +553,119 @@
       "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "N\u00e5r Sn\u00f8en Smelter (fra Tre n\u00f8tter til Askepott)",
+        "url": "https://open.spotify.com/album/7a7Y8R2hG0WJrcziQFvAoL"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 157235,
+      "name": "N\u00e5r Sn\u00f8en Smelter - fra Tre n\u00f8tter til Askepott",
+      "url": "https://open.spotify.com/track/0M3G7kxxZt2W1T3PH97iXd"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "Kom S\u00e5 Tok F\u00e6rdiih",
-        "url": "https://open.spotify.com/album/5goLpJ7iebLFLYJXO27Khh"
+        "name": "Jeg skal finne deg",
+        "url": "https://open.spotify.com/album/0Gb1gTcfo63M5zYJHGfZVK"
       },
       "artists": [
         {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "ULD",
+          "url": "https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9"
         }
       ],
-      "duration_ms": 354772,
-      "name": "Flexnes",
-      "url": "https://open.spotify.com/track/5MFBAkwrYag4P6LBWtuAk5"
+      "duration_ms": 273251,
+      "name": "Jeg skal finne deg",
+      "url": "https://open.spotify.com/track/5kBLY1qUXU2RVWtkil2Thh"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "In medias res",
-        "url": "https://open.spotify.com/album/4bxkkziXDHnJnvPvhkkNYW"
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
       },
       "artists": [
         {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        },
-        {
-          "name": "Daniela Reyes",
-          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
         }
       ],
-      "duration_ms": 263678,
-      "name": "Kom som du er (feat. Daniela Reyes)",
-      "url": "https://open.spotify.com/track/1R7KgD8X9lxHheHaizgHBn"
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Mama, Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/2MeoU2pg4UyRJ8op4FVtYs"
+      },
+      "artists": [
+        {
+          "name": "Bjorn Bonebreaker",
+          "url": "https://open.spotify.com/artist/7xKWVkX1VPcZAKvSpZsVfD"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "Mama, Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/6fIBrWTPYd8F29QFG08mV5"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "My Reckless Abandon",
         "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
@@ -669,7 +681,23 @@
       "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Kom S\u00e5 Tok F\u00e6rdiih",
+        "url": "https://open.spotify.com/album/5goLpJ7iebLFLYJXO27Khh"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 354772,
+      "name": "Flexnes",
+      "url": "https://open.spotify.com/track/5MFBAkwrYag4P6LBWtuAk5"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Vikingblod (Norway Row Chant)",
         "url": "https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1"
@@ -689,87 +717,7 @@
       "url": "https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "livredd for \u00e5 bli glemt",
-        "url": "https://open.spotify.com/album/0dcFlsfGtRTvUMgMz8YSTM"
-      },
-      "artists": [
-        {
-          "name": "Metropolen",
-          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
-        }
-      ],
-      "duration_ms": 237091,
-      "name": "Kids med opiater",
-      "url": "https://open.spotify.com/track/1SMRyrfcqxA3Q6mxYKiZOL"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "IMPULSIVE",
-        "url": "https://open.spotify.com/album/1kO4Cbjb4fLeHsUDq5PbyC"
-      },
-      "artists": [
-        {
-          "name": "Thekidszn",
-          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "IMPULSIVE",
-      "url": "https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Jeg skal finne deg",
-        "url": "https://open.spotify.com/album/0Gb1gTcfo63M5zYJHGfZVK"
-      },
-      "artists": [
-        {
-          "name": "ULD",
-          "url": "https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9"
-        }
-      ],
-      "duration_ms": 273251,
-      "name": "Jeg skal finne deg",
-      "url": "https://open.spotify.com/track/5kBLY1qUXU2RVWtkil2Thh"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
-      "album": {
-        "name": "Halvt forhold",
-        "url": "https://open.spotify.com/album/5INqnHT2aeUNTHNbTZhE3F"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Halvt forhold",
-      "url": "https://open.spotify.com/track/2cTJb0FeHpTw5uhstg1pym"
-    },
-    {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "YAP.",
         "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
@@ -785,39 +733,91 @@
       "url": "https://open.spotify.com/track/6klDpaLMWN0RNg30EI87pG"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "N\u00e5r Sn\u00f8en Smelter (fra Tre n\u00f8tter til Askepott)",
-        "url": "https://open.spotify.com/album/7a7Y8R2hG0WJrcziQFvAoL"
+        "name": "IMPULSIVE",
+        "url": "https://open.spotify.com/album/1kO4Cbjb4fLeHsUDq5PbyC"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
         }
       ],
-      "duration_ms": 157235,
-      "name": "N\u00e5r Sn\u00f8en Smelter - fra Tre n\u00f8tter til Askepott",
-      "url": "https://open.spotify.com/track/0M3G7kxxZt2W1T3PH97iXd"
+      "duration_ms": 156106,
+      "name": "IMPULSIVE",
+      "url": "https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
-        "name": "Mama, Don't Close Your Eyes",
-        "url": "https://open.spotify.com/album/2MeoU2pg4UyRJ8op4FVtYs"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Bjorn Bonebreaker",
-          "url": "https://open.spotify.com/artist/7xKWVkX1VPcZAKvSpZsVfD"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 185520,
-      "name": "Mama, Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/6fIBrWTPYd8F29QFG08mV5"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "livredd for \u00e5 bli glemt",
+        "url": "https://open.spotify.com/album/0dcFlsfGtRTvUMgMz8YSTM"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        }
+      ],
+      "duration_ms": 237091,
+      "name": "Kids med opiater",
+      "url": "https://open.spotify.com/track/1SMRyrfcqxA3Q6mxYKiZOL"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "Halvt forhold",
+        "url": "https://open.spotify.com/album/5INqnHT2aeUNTHNbTZhE3F"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Halvt forhold",
+      "url": "https://open.spotify.com/track/2cTJb0FeHpTw5uhstg1pym"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
+      "album": {
+        "name": "In medias res",
+        "url": "https://open.spotify.com/album/4bxkkziXDHnJnvPvhkkNYW"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        },
+        {
+          "name": "Daniela Reyes",
+          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+        }
+      ],
+      "duration_ms": 263678,
+      "name": "Kom som du er (feat. Daniela Reyes)",
+      "url": "https://open.spotify.com/track/1R7KgD8X9lxHheHaizgHBn"
+    },
+    {
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
     },
     {
-      "added_at": "2026-11-10 14:03:33",
+      "added_at": "2026-11-11 19:49:20",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"

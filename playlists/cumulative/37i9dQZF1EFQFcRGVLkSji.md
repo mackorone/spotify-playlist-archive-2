@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-212 songs - 10 hr 2 min
+213 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [TERIYAKI](https://open.spotify.com/track/3MGz1bSaPq81NeUfw2YZCx) | [VIBE WORLD ORDER](https://open.spotify.com/artist/3TRHMPRbs1dbB5pPo5UV1I) | [TERIYAKI](https://open.spotify.com/album/3aLdPStyu6MciXjhHX9UHI) | 3:44 | 2026-03-15 |  |
 | [TERIYAKI](https://open.spotify.com/track/3qt7tAsZJhJPHkbBY0cwhc) | [VIBE WORLD ORDER](https://open.spotify.com/artist/3TRHMPRbs1dbB5pPo5UV1I) | [TERIYAKI](https://open.spotify.com/album/2w9KplixDaXt62gyvSAPCu) | 3:44 | 2025-06-01 | 2026-03-16 |
 | [Think About It](https://open.spotify.com/track/4FS2aEDtD0mO2qMJ5EN2EF) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Think About It](https://open.spotify.com/album/62yxyWveuVL1dmiWwhglQx) | 3:55 | 2025-06-01 |  |
-| [Till I'm Ghost](https://open.spotify.com/track/0cWY9gF17M57XRsZA1lws1) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [From Harlem with Love](https://open.spotify.com/album/3WwObhkWrk2hoWbUzql4hx) | 3:23 | 2025-06-01 |  |
+| [Till I'm Ghost](https://open.spotify.com/track/0HfqTDGgoqLMpdhMzCM7sl) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [From Harlem with Love](https://open.spotify.com/album/39AiOszlUGNIwthCYQBNaw) | 3:23 | 2026-11-11 |  |
+| [Till I'm Ghost](https://open.spotify.com/track/0cWY9gF17M57XRsZA1lws1) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [From Harlem with Love](https://open.spotify.com/album/3WwObhkWrk2hoWbUzql4hx) | 3:23 | 2025-06-01 | 2026-11-12 |
 | [Time is slipping away \(feat\. Anatole Muster\)](https://open.spotify.com/track/1ZBAqrArdE2uhpCJIYfkCm) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 4:10 | 2026-05-28 |  |
 | [TMS](https://open.spotify.com/track/7FaSiNGF3jY2cLM1lHJIWi) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Phase Won](https://open.spotify.com/album/2HZ5UAXThHo39mDz8zs2iX) | 1:12 | 2025-06-01 |  |
 | [Toxic](https://open.spotify.com/track/0BLg5umnqphyABhJXjSF82) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe), [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 3:15 | 2025-06-01 |  |

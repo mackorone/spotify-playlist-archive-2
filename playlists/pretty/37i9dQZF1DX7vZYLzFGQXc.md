@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,769 likes - 54 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,766 likes - 54 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 53 | [Girls \(feat\. Kid Milli\)](https://open.spotify.com/track/1lLBCFBp6mQo2t1iY1kEGf) | [Purynn](https://open.spotify.com/artist/5FrtaYX5rFPBLU66OAMzAh), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [\[LOadinG \. .\]](https://open.spotify.com/album/0Qw90aAuoD9SzhcSADwIYv) | 3:14 |
 | 54 | [90s](https://open.spotify.com/track/7IVGLhH6xnEJisC9k429sc) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [90s](https://open.spotify.com/album/2BDunOX2dRefNaCQAVxt7n) | 3:30 |
 
-Snapshot ID: `AAAAAHGVrVUAmIQdN7tAYNn8mwkC0Rhp`
+Snapshot ID: `AAAAAAb+yfBhmUkoe+/HGIDzPHL47E92`

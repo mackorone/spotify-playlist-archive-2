@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123578,
+  "num_followers": 123574,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 196388,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
       },
@@ -923,22 +907,18 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 199200,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
+      "duration_ms": 196388,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -959,6 +939,26 @@
       "duration_ms": 193562,
       "name": "Corpo Suado",
       "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
     },
     {
       "added_at": "2026-10-19 16:00:13",

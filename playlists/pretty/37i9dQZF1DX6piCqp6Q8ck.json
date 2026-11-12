@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 200771,
+  "num_followers": 200788,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 135760,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "christmas dream",
         "url": "https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 160991,
       "name": "christmas dream",
       "url": "https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 135760,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "It Snowed",
+        "url": "https://open.spotify.com/album/179zhdPfY0gAl9tOCQlKCp"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 163724,
+      "name": "It Snowed",
+      "url": "https://open.spotify.com/track/3BCDVCQIOwcKuIeGh7G9Ep"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 195173,
       "name": "Silver Bells (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "It Snowed",
-        "url": "https://open.spotify.com/album/179zhdPfY0gAl9tOCQlKCp"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 163724,
-      "name": "It Snowed",
-      "url": "https://open.spotify.com/track/3BCDVCQIOwcKuIeGh7G9Ep"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
-        "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
-      },
-      "artists": [
-        {
-          "name": "David Hazletine",
-          "url": "https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u"
-        }
-      ],
-      "duration_ms": 356853,
-      "name": "Christmas Time Is Here - Christmas Cards from David Hazeltine",
-      "url": "https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "A Very Swingin\u2019 Basie Christmas!",
         "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 290826,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
+        "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
+      },
+      "artists": [
+        {
+          "name": "David Hazletine",
+          "url": "https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u"
+        }
+      ],
+      "duration_ms": 356853,
+      "name": "Christmas Time Is Here - Christmas Cards from David Hazeltine",
+      "url": "https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -663,22 +647,6 @@
       "duration_ms": 162746,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -703,6 +671,22 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 153533,
       "name": "Mele Kalikimaka",
       "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "It's The Most Wonderful Time of the Year",
+        "url": "https://open.spotify.com/album/49adamlPmuWjWr5553WIJo"
+      },
+      "artists": [
+        {
+          "name": "Kieran Brown",
+          "url": "https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ"
+        }
+      ],
+      "duration_ms": 252922,
+      "name": "It's The Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2fV8KRy6XcarcxAi9AyUgR"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 156200,
       "name": "Rudolph, the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "It's The Most Wonderful Time of the Year",
-        "url": "https://open.spotify.com/album/49adamlPmuWjWr5553WIJo"
-      },
-      "artists": [
-        {
-          "name": "Kieran Brown",
-          "url": "https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ"
-        }
-      ],
-      "duration_ms": 252922,
-      "name": "It's The Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/2fV8KRy6XcarcxAi9AyUgR"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Pretty/Groovy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Winter Wonderland - 78 Take",
-      "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "Yule Be Miserable",
         "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 174090,
       "name": "Man With The Bag",
       "url": "https://open.spotify.com/track/6hDObWDLZG5GoEySmtSjAF"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Pretty/Groovy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Winter Wonderland - 78 Take",
+      "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "This is Christmas",
-        "url": "https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d"
-      },
-      "artists": [
-        {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
-        }
-      ],
-      "duration_ms": 185030,
-      "name": "Diddly Squat",
-      "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 162920,
       "name": "Christmas Never Gets Old",
       "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "This is Christmas",
+        "url": "https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 185030,
+      "name": "Diddly Squat",
+      "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
     },
     {
       "added_at": "2026-11-06 15:11:17",

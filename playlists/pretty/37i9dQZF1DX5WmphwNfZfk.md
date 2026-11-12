@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Kunwarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,832 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,855 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 14 | [Reality Check](https://open.spotify.com/track/135eBra65a6z15jRlAbvMd) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Reality Check](https://open.spotify.com/album/6PnY0iBZUCnfJ93w7nJ5Jj) | 2:52 |
 | 15 | [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 |
 | 16 | [ALL THE TIME](https://open.spotify.com/track/07Lnncx7fTArEe4BHLnLWJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [ALL THE TIME](https://open.spotify.com/album/6DZxQpQzDRwsJhDxsKY6dH) | 2:37 |
-| 17 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
+| 17 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:48 |
 | 18 | [Magicien](https://open.spotify.com/track/4WXuBCdYkeQ9cOS8obAKXL) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Magicien](https://open.spotify.com/album/6I3dLq4cdOYaQwUHoDycWq) | 3:28 |
 | 19 | [Boys of Summer](https://open.spotify.com/track/7b2elsMysU2yarzzancwmU) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Boys of Summer](https://open.spotify.com/album/4FT2mP1Ca1FbfTRhSz6sCE) | 3:22 |
 | 20 | [over this time](https://open.spotify.com/track/0Lk7CieAtT2dEmbm05dBl5) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [over this time](https://open.spotify.com/album/6gkxuk5LJKyRPunXDBKzhg) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: bed",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: The Sophs",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 222822,
       "name": "Act Natural",
       "url": "https://open.spotify.com/track/06dHepTpO41cf1hxRMm9sm"
@@ -9287,6 +9287,24 @@
     },
     {
       "album": {
+        "name": "Crushed to Nothing",
+        "url": "https://open.spotify.com/album/6lNk2yK8eWSI7FywalcERh"
+      },
+      "artists": [
+        {
+          "name": "Crate",
+          "url": "https://open.spotify.com/artist/799oMzox2WLd3vINsW23U7"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267078,
+      "name": "Crushed to Nothing",
+      "url": "https://open.spotify.com/track/7gPIl8d5ALiUmYiV7h1xbv"
+    },
+    {
+      "album": {
         "name": "Before I Die",
         "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
       },
@@ -11768,6 +11786,24 @@
       "duration_ms": 146119,
       "name": "Don\u2019t Tell Me",
       "url": "https://open.spotify.com/track/20oQMUwLdi25ILH8Xk485B"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Worry Dynamite",
+        "url": "https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167628,
+      "name": "Don\u2019t Worry Dynamite",
+      "url": "https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn"
     },
     {
       "album": {
@@ -16408,7 +16444,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 199054,
       "name": "GOLDSTAR",
       "url": "https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2"
@@ -20851,6 +20887,24 @@
     },
     {
       "album": {
+        "name": "In My Veins",
+        "url": "https://open.spotify.com/album/3Ut3CWXikiW5ketsoRnNX4"
+      },
+      "artists": [
+        {
+          "name": "Kora Puckett",
+          "url": "https://open.spotify.com/artist/5oarQtFoQwmQMcT6U0KLGq"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "In My Veins",
+      "url": "https://open.spotify.com/track/5QuXR33ZshEdjDcjEpNLcC"
+    },
+    {
+      "album": {
         "name": "prose",
         "url": "https://open.spotify.com/album/0W8h614nyiXK2Z0jjUguF9"
       },
@@ -21572,6 +21626,24 @@
       "duration_ms": 173600,
       "name": "It Will Get Worse",
       "url": "https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq"
+    },
+    {
+      "album": {
+        "name": "It's a Fever",
+        "url": "https://open.spotify.com/album/4Pn7gMcbToeyermtO3o5Zp"
+      },
+      "artists": [
+        {
+          "name": "The Sophs",
+          "url": "https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "It's a Fever",
+      "url": "https://open.spotify.com/track/4enhiMk65c2Ea7GFUSCvwv"
     },
     {
       "album": {
@@ -23798,7 +23870,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 143713,
       "name": "Little Things (There's Nothing Bigger)",
       "url": "https://open.spotify.com/track/2b4A1O8Wo8CCA3J7NsXbdJ"
@@ -35335,6 +35407,24 @@
     },
     {
       "album": {
+        "name": "Gladly Go",
+        "url": "https://open.spotify.com/album/2qn6pbROxsc0E62aqaKPh9"
+      },
+      "artists": [
+        {
+          "name": "Bad Mural",
+          "url": "https://open.spotify.com/artist/53gsxjQXKTuF5Z97SWafZm"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230486,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/6OwT5y97pSvnAgpMc1OK0h"
+    },
+    {
+      "album": {
         "name": "Stupid and Famous",
         "url": "https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0"
       },
@@ -37036,7 +37126,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 227207,
       "name": "Stoop to Me",
       "url": "https://open.spotify.com/track/4jd9ES4qpTyTLz6C5aSxap"
@@ -37936,7 +38026,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 188207,
       "name": "Sweet Devotion",
       "url": "https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV"
@@ -37990,7 +38080,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 183720,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/2S0pu11hiDpyxvapmxZbvW"
@@ -40831,6 +40921,24 @@
     },
     {
       "album": {
+        "name": "Toil (Reprise)",
+        "url": "https://open.spotify.com/album/7JXYDvoEJ9534OUT9mRGDP"
+      },
+      "artists": [
+        {
+          "name": "Knifeplay",
+          "url": "https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353100,
+      "name": "Toil (Reprise)",
+      "url": "https://open.spotify.com/track/7DVgAClud6TSY6Yl2bZSjY"
+    },
+    {
+      "album": {
         "name": "Tongues ii",
         "url": "https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p"
       },
@@ -41628,6 +41736,24 @@
       "duration_ms": 173360,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2MJRMs7ZWRikUtQS3Hs009"
+    },
+    {
+      "album": {
+        "name": "ulrika_adjacent_132.exe",
+        "url": "https://open.spotify.com/album/4RoENoPkZKVb59EIX85P4R"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240745,
+      "name": "ulrika_adjacent_132.exe",
+      "url": "https://open.spotify.com/track/2sWyzXNI980htiixXpDfIy"
     },
     {
       "album": {
@@ -42518,7 +42644,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 189513,
       "name": "Wallow",
       "url": "https://open.spotify.com/track/6OFv5yKa6PTY44tSvvKePY"

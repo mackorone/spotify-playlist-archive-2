@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34771,
+  "num_followers": 34772,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/7Cr3sCsROrVfclDb7d9z5z"
+      },
+      "artists": [
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "duration_ms": 257647,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7tIJDktakabGoHjwTTa35W"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
         "name": "Keep It Sexy (MOMMAE 2)",
         "url": "https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 152106,
       "name": "Keep It Sexy (MOMMAE 2) (Feat. JEON SOMI)",
       "url": "https://open.spotify.com/track/349vRUzitG48j0mYch7Ega"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/7Cr3sCsROrVfclDb7d9z5z"
-      },
-      "artists": [
-        {
-          "name": "Miso",
-          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
-        }
-      ],
-      "duration_ms": 257647,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7tIJDktakabGoHjwTTa35W"
     },
     {
       "added_at": "2026-09-03 07:18:48",

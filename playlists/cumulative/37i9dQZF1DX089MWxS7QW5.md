@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YECHAN\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: aiai\)
 
-684 songs - 1 day 12 hr 35 min
+685 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [THOUGHTS](https://open.spotify.com/track/62jVx6znQJGcqaVXtEfNeq) | [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [THOUGHTS](https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh) | 3:07 | 2025-01-24 | 2025-05-21 |
 | [Three Leaf Clover](https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Four Leaf Clover](https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp) | 2:36 | 2024-10-14 | 2025-02-21 |
 | [Thursday \(Feat\. Leellamarz, Crush\)](https://open.spotify.com/track/5JesN4KTmkq87xWJKUZdka) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HBK](https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr) | 2:59 | 2026-07-24 |  |
-| [Tiki Tiki](https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Tiki Tiki](https://open.spotify.com/album/2nUgb8UdZldKYGaWCF33I8) | 3:20 | 2026-05-07 |  |
+| [Tiki Tiki](https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Tiki Tiki](https://open.spotify.com/album/2nUgb8UdZldKYGaWCF33I8) | 3:20 | 2026-05-07 | 2026-11-12 |
 | [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 | 2022-08-20 |
 | [Time Lapse](https://open.spotify.com/track/54XrNRY4jPnzAVamPvuA7o) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0a0LC99zZ0UArr1fFrt49U) | 3:22 | 2025-07-09 | 2026-01-23 |
 | [Time Machine](https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Time Machine](https://open.spotify.com/album/3BatyD1PQYv2rkHjUTC68T) | 2:39 | 2024-10-17 | 2025-03-13 |
@@ -612,6 +612,7 @@
 | [Too Much](https://open.spotify.com/track/3ZMibEvGGGgBC9diuWS7hA) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Too Much](https://open.spotify.com/album/439Uk5AQ2A9SQxvB5CHL4l) | 3:09 | 2026-08-07 |  |
 | [Too slow](https://open.spotify.com/track/2ByfcUe3hEZDtPILSJG78x) | [Aiowell](https://open.spotify.com/artist/36I2SDkhk3uQ7JlFV47XGu) | [Too slow](https://open.spotify.com/album/6LHo1IYVIJ45AKP0YKdXgg) | 3:24 | 2025-08-05 | 2026-01-23 |
 | [Treasure](https://open.spotify.com/track/3iAFryjJkdXe8UpcSOSN6w) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 2:15 | 2022-11-22 | 2023-03-28 |
+| [TRUE](https://open.spotify.com/track/4Z48oKDFQEkx6xL1vDoluJ) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [homs](https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF) | [QUIZ](https://open.spotify.com/album/7wfJxaKT84qysk2yQyNCXw) | 4:49 | 2026-11-11 |  |
 | [typing](https://open.spotify.com/track/0nfupRtfOEtb4UZaOHw9q5) | [COII](https://open.spotify.com/artist/0BTfN6kDzEjeCciCrb9Prv) | [typing](https://open.spotify.com/album/5bwIY9p0ZK09F0rcryHUff) | 2:57 | 2026-02-23 | 2026-07-08 |
 | [Umbrella \(feat\. Ashley Alisha, Julian Rose\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Julian Rose](https://open.spotify.com/artist/328e3lxjZnC2YueEVt503o) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 | 2022-10-08 |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-28 | 2022-08-19 |

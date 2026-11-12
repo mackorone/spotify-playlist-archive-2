@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Fe con sabor a México\. Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,658 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,687 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [INTENCIÓN](https://open.spotify.com/track/3Cx0OoGN9xlTmyxgj3xSix) | [Propósito Con Estilo](https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN) | [INTENCIÓN](https://open.spotify.com/album/7Avt0CAZAeIEx5OysiB5PZ) | 2:34 |
+| 1 | [INTENCIÓN](https://open.spotify.com/track/3Cx0OoGN9xlTmyxgj3xSix) | [Propósito Con Estilo](https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN) | [INTENCIÓN](https://open.spotify.com/album/7Avt0CAZAeIEx5OysiB5PZ) | 2:33 |
 | 2 | [El Calladito](https://open.spotify.com/track/6qw7qwAUijGaiBKid7rYPf) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx) | [El Calladito](https://open.spotify.com/album/32iRvcrUWywk8gEhsYGjE1) | 3:17 |
 | 3 | [Será Llena La Tierra](https://open.spotify.com/track/0b39lBHTetw0TvHnvNtjAe) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ulices Gamaliel](https://open.spotify.com/artist/4kDRTsjKgkN2Sro1pbL0Y0) | [Será Llena La Tierra](https://open.spotify.com/album/6N16Erp14W76ybIzqtyNCE) | 3:30 |
 | 4 | [Todo Gracias Al Señor](https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Todo Gracias Al Señor](https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq) | 2:34 |

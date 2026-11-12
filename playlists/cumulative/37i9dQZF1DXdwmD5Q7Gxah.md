@@ -4,7 +4,7 @@
 
 > untitled halo <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-4,070 songs - 9 day 7 hr 22 min
+4,075 songs - 9 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [4Tounce](https://open.spotify.com/track/0uJ3orpKS4UjIf7WRZodJ5) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [4Tounce](https://open.spotify.com/album/6nyKY8shGVDEz5qXrZDHIY) | 2:47 | 2019-11-08 | 2020-05-07 |
 | [4wheelpharmacy](https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Pants on fire](https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc) | 1:37 | 2026-01-20 | 2026-06-05 |
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-02-12 | 2026-03-21 |
+| [50/50](https://open.spotify.com/track/16QLv8xt9nPNBZCBDm3Gkv) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [50/50](https://open.spotify.com/album/6UiXsffeceFbIvVcxaAK5V) | 2:43 | 2026-11-11 |  |
 | [54321](https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [54321](https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z) | 2:20 | 2022-08-18 | 2022-10-26 |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-09 | 2023-02-15 |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-01-30 | 2026-06-26 |
@@ -859,6 +860,7 @@
 | [Dagger Song](https://open.spotify.com/track/6lgMxz2iOpeiDTIeuIR7Be) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Dagger Song](https://open.spotify.com/album/56HC5Tbuu2LY13my4Spzfy) | 4:06 | 2025-08-15 | 2025-09-24 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 | 2026-07-25 |
 | [DAISIES](https://open.spotify.com/track/1ZyvjjCfzDazY8gVcSVDaR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG LIVE FROM COACHELLA \(Weekend II\)](https://open.spotify.com/album/4Wa07ZTBEshnd57JomGmij) | 4:19 | 2026-07-13 | 2026-09-01 |
+| [Daisy](https://open.spotify.com/track/6Y98b7FYCZkd3JX3diPzd0) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Pirouette](https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F) | 4:12 | 2026-11-11 |  |
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-23 | 2022-11-05 |
 | [Damn](https://open.spotify.com/track/0NL9pLIzlXC3E5IaHCYacZ) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Damn](https://open.spotify.com/album/4WZKgaREgMXyICu8SXJFBh) | 3:22 | 2024-04-05 | 2024-05-11 |
 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 | 2024-12-13 | 2025-03-27 |
@@ -1277,6 +1279,7 @@
 | [For You](https://open.spotify.com/track/2B2jI2PdBMhUkG17F0lor2) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [For You](https://open.spotify.com/album/4c2GXEVeTy83c1Bd2xT92y) | 2:18 | 2021-12-01 | 2022-01-08 |
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-08-05 | 2021-11-13 |
 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 | 2022-12-14 | 2023-01-21 |
+| [Forever](https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Forever](https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt) | 4:05 | 2026-11-11 |  |
 | [Forever](https://open.spotify.com/track/38C5EMmXonGMK1M9z5PxeP) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 3:48 | 2026-10-07 |  |
 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 | 2025-04-11 | 2025-08-02 |
 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 | 2025-02-07 | 2025-10-25 |
@@ -2003,6 +2006,7 @@
 | [Lagoon](https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lagoon](https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E) | 2:33 | 2022-01-27 | 2022-04-09 |
 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 | 2023-01-25 | 2023-03-10 |
 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2020-09-10 | 2021-06-05 |
+| [Land](https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:25 | 2026-11-11 |  |
 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-08-24 | 2022-10-29 |
 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-22 |  |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-05 | 2021-11-13 |
@@ -3980,6 +3984,7 @@
 | [Worst Enemy](https://open.spotify.com/track/7CPdfsjklD8kToH2PMVJww) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Worst Enemy](https://open.spotify.com/album/11P429MEIOCg43pP5UEcBt) | 2:46 | 2021-03-06 | 2021-04-10 |
 | [Worth It](https://open.spotify.com/track/4oecUEFtf9m5x8YQFfE1em) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Worth It](https://open.spotify.com/album/1i1VUVcZdZBU8U87QMOCii) | 3:14 | 2020-09-12 | 2020-10-13 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-09 | 2023-04-15 |
+| [wotless](https://open.spotify.com/track/49wa3CofaXUTuhaNGkoYQf) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk) | [wotless](https://open.spotify.com/album/4IDXbFID1H7ol56BdzbUqI) | 1:28 | 2026-11-11 |  |
 | [Wounded/Surrounded](https://open.spotify.com/track/5SJ6mSr6m0Qcxtqw3U8inr) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Wounded/Surrounded](https://open.spotify.com/album/542erJVZuoJ5z0G8Oj4zch) | 3:23 | 2020-05-15 | 2020-11-11 |
 | [Wreck \- Remix](https://open.spotify.com/track/1bHf3NNiJLk7EsksXGCftL) | [Samica](https://open.spotify.com/artist/6ueMf7NpSrxj4b0g3YTlnW), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Wreck \(Remix\)](https://open.spotify.com/album/4kFdzEVteEvIQpqBOp0I9S) | 2:51 | 2020-04-18 | 2020-05-28 |
 | [Wristwatch](https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Wristwatch](https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF) | 3:42 | 2024-09-04 | 2025-01-18 |

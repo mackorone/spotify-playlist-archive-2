@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-766 songs - 1 day 22 hr 21 min
+767 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-11 | 2024-02-21 |
 | [28](https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [28](https://open.spotify.com/album/3rogb53wBCNjq4oHV7Dy5p) | 2:44 | 2023-02-21 | 2023-03-01 |
 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 | 2026-05-14 |  |
-| [7xover](https://open.spotify.com/track/3vQkrLHgIRTJnL50AUKJpD) | [Dogwood Tales](https://open.spotify.com/artist/0DayBebjy093KRzvtkz9S5) | [7xover](https://open.spotify.com/album/4cP0zLpzYuZNDnyPPd7xIf) | 3:41 | 2026-11-06 |  |
+| [7xover](https://open.spotify.com/track/3vQkrLHgIRTJnL50AUKJpD) | [Dogwood Tales](https://open.spotify.com/artist/0DayBebjy093KRzvtkz9S5) | [7xover](https://open.spotify.com/album/4cP0zLpzYuZNDnyPPd7xIf) | 3:41 | 2026-11-06 | 2026-11-12 |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-09-05 | 2026-03-27 |
 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2025-09-05 | 2026-03-27 |
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-05-30 | 2023-09-20 |
@@ -278,6 +278,7 @@
 | [Home Is Where The Hurt Is](https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:00 | 2023-09-28 | 2023-10-06 |
 | [Home Is Where The Hurt Is](https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Home Is Where The Hurt Is](https://open.spotify.com/album/2ibB2OyjmvKTmOOo2GgORh) | 4:00 | 2023-09-12 | 2023-10-02 |
 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-12 | 2023-01-18 |
+| [hopefully](https://open.spotify.com/track/3zMIgAPuXw9Q0zjAonJeBV) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [hopefully](https://open.spotify.com/album/4ljCvm44YtilFTqYqSYZmI) | 4:14 | 2026-11-06 |  |
 | [Hot Summer](https://open.spotify.com/track/0JFz7Zs2GwJitL4Ptr8bY5) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:22 | 2023-04-06 | 2023-04-21 |
 | [Hot Summer](https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hot Summer](https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh) | 2:22 | 2023-03-09 | 2023-04-10 |
 | [Hotel Valet](https://open.spotify.com/track/3PG8Cjr1Bp8zUZ5xnhkLo5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 3:54 | 2023-02-09 | 2023-03-01 |

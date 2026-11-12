@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Victoria Mon\u00e9t",
-  "num_followers": 5932,
+  "num_followers": 5953,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1793,24 +1793,20 @@
       "url": "https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
+      "added_at": "2025-10-03 04:48:40",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 182767,
-      "name": "SOMEBODY LOVES ME",
-      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "added_at": "2025-09-05 04:00:27",
@@ -1829,20 +1825,24 @@
       "url": "https://open.spotify.com/track/4Ds9ilNivooMdSkTyovjJr"
     },
     {
-      "added_at": "2025-10-03 04:48:40",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
     },
     {
       "added_at": "2026-07-24 04:43:12",
@@ -2201,26 +2201,6 @@
       "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
     },
     {
-      "added_at": "2026-02-20 18:30:52",
-      "album": {
-        "name": "She Knows Too Much",
-        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "She Knows Too Much",
-      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
-    },
-    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "Gas Station Love (remix)",
@@ -2239,6 +2219,26 @@
       "duration_ms": 245100,
       "name": "Gas Station Love - remix",
       "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
+    },
+    {
+      "added_at": "2026-02-20 18:30:52",
+      "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     },
     {
       "added_at": "2026-03-27 06:15:19",
@@ -2397,22 +2397,6 @@
       "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
     },
     {
-      "added_at": "2026-09-11 04:20:10",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0dFAxj60T1Mb6gGNTgWcwJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
-    },
-    {
       "added_at": "2026-06-19 08:47:29",
       "album": {
         "name": "THE GENTLEMEN'S CLUB",
@@ -2459,6 +2443,22 @@
       "duration_ms": 193373,
       "name": "DUSTY (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
+    },
+    {
+      "added_at": "2026-09-11 04:20:10",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0dFAxj60T1Mb6gGNTgWcwJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
     },
     {
       "added_at": "2025-08-22 10:10:54",
@@ -2561,22 +2561,6 @@
       "url": "https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx"
     },
     {
-      "added_at": "2026-02-01 02:45:05",
-      "album": {
-        "name": "BACKWARD",
-        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 166687,
-      "name": "THEMSELVES",
-      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
-    },
-    {
       "added_at": "2025-04-25 06:51:06",
       "album": {
         "name": "LOVE ON DIGITAL",
@@ -2595,6 +2579,22 @@
       "duration_ms": 225444,
       "name": "BAD BITCHES",
       "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
+    },
+    {
+      "added_at": "2026-02-01 02:45:05",
+      "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "THEMSELVES",
+      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
       "added_at": "2025-04-18 05:38:39",
@@ -2665,6 +2665,22 @@
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
     },
     {
+      "added_at": "2025-11-07 06:39:38",
+      "album": {
+        "name": "Smoke n Drank",
+        "url": "https://open.spotify.com/album/5lB05a1yY6RezxtXAOkU9y"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Smoke n Drank",
+      "url": "https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1"
+    },
+    {
       "added_at": "2026-03-27 06:15:19",
       "album": {
         "name": "$TILL PAID",
@@ -2683,22 +2699,6 @@
       "duration_ms": 169609,
       "name": "PALO $ANTO (with Stormzy)",
       "url": "https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31"
-    },
-    {
-      "added_at": "2025-11-07 06:39:38",
-      "album": {
-        "name": "Smoke n Drank",
-        "url": "https://open.spotify.com/album/5lB05a1yY6RezxtXAOkU9y"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Smoke n Drank",
-      "url": "https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1"
     },
     {
       "added_at": "2025-08-22 10:10:54",

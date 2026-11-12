@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,550 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,547 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 48 | [Dance from 'Noah'](https://open.spotify.com/track/2ggW5yim1n9O7Y1LzAsNwW) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Liquid Energy / Dance from 'Noah'](https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j) | 1:48 |
 | 49 | [The Afterlife, Pt\. 2](https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 5:52 |
 
-Snapshot ID: `au+7gAAAAABRdIZblMRxBKWyQnIfxA50`
+Snapshot ID: `avENAAAAAADL/iGYvRV4fBQK7Db61Jh3`

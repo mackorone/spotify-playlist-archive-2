@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 190 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 190 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 81 | [Fools Gold](https://open.spotify.com/track/3GrmuJIlhZs8O6SpVhR8yx) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Bars Mitzvah](https://open.spotify.com/album/3Fc5H7NJ2V8SNrUHnpBvV2) | 2:55 |
 | 82 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
 | 83 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
-| 84 | [Bodies \(BNYX® Mix\) \[feat\. JID, Drowning Pool & BNYX®\)](https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 3:13 |
-| 85 | [Fallen \(feat\. Don Toliver\)](https://open.spotify.com/track/6y5cmMjEeGwLEDp2EHrk61) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 3:40 |
+| 84 | [Fallen \(feat\. Don Toliver\)](https://open.spotify.com/track/6y5cmMjEeGwLEDp2EHrk61) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 3:40 |
+| 85 | [Bodies \(BNYX® Mix\) \[feat\. JID, Drowning Pool & BNYX®\)](https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 3:13 |
 | 86 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 |
 | 87 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
 | 88 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 179 | [Treat](https://open.spotify.com/track/2jYv48CRl2b7IuWo65VQ1y) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 3:08 |
 | 180 | [TMS](https://open.spotify.com/track/7FaSiNGF3jY2cLM1lHJIWi) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Phase Won](https://open.spotify.com/album/2HZ5UAXThHo39mDz8zs2iX) | 1:12 |
 | 181 | [FUTURE BABY MAMA.](https://open.spotify.com/track/7oUXoIIfC6hZ593Xj2mUnn) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [JARDÍN](https://open.spotify.com/album/3rnxkQqXmBNSxYyu3Qkx3y) | 3:00 |
-| 182 | [Till I'm Ghost](https://open.spotify.com/track/0cWY9gF17M57XRsZA1lws1) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [From Harlem with Love](https://open.spotify.com/album/3WwObhkWrk2hoWbUzql4hx) | 3:23 |
+| 182 | [Till I'm Ghost](https://open.spotify.com/track/0HfqTDGgoqLMpdhMzCM7sl) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [From Harlem with Love](https://open.spotify.com/album/39AiOszlUGNIwthCYQBNaw) | 3:23 |
 | 183 | [Toxic](https://open.spotify.com/track/0BLg5umnqphyABhJXjSF82) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe), [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 3:15 |
 | 184 | [what’s happenin? \(feat\. Ledbyher\)](https://open.spotify.com/track/7lCxAYYoTG7fpFnmti9Kpq) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:13 |
 | 185 | [Army](https://open.spotify.com/track/0QhTNUkt7EJxQ4125Itf1K) | [Diamond Street Keem](https://open.spotify.com/artist/0gzOLStOIme1yKDVTa4mub) | [Army](https://open.spotify.com/album/5bRdL2XWci1GyqXDRPZz0K) | 2:34 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 189 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 190 | [Divided](https://open.spotify.com/track/6CiH7QQKjQsikyq7kZt9nB) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/3Zmw5s7NtMOBX30vJsyx8a) | 1:44 |
 
-Snapshot ID: `AchVLAAAAAC5aFG5xao61CWRnfZIi2qX`
+Snapshot ID: `AchbCAAAAAAcvlkE22k9TrBddysOq+BU`

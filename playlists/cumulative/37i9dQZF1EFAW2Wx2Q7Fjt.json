@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Cherry Valley Forever",
+        "url": "https://open.spotify.com/album/3CSN4KvS0G5KmDXLK8swXU"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207578,
+      "name": "Drink Up, Baby",
+      "url": "https://open.spotify.com/track/5NPEQrAzbgZ27r6BxW0At6"
+    },
+    {
+      "album": {
         "name": "Cherry Valley",
         "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
       },
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 207600,
       "name": "Drink Up, Baby",
       "url": "https://open.spotify.com/track/5O9PG8oAHtGdakK8JP3FjT"

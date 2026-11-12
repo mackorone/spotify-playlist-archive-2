@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Feel) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: D.O.) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "v o K a l",
   "tracks": [
     {
@@ -2164,6 +2164,24 @@
       "duration_ms": 274400,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
+    },
+    {
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0YC7qhuvIai8TbYOn3xFCa"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/57s8MbRMoOsGl5WPdBw7k5"
     },
     {
       "album": {
@@ -5714,7 +5732,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 248982,
       "name": "Life Is Life",
       "url": "https://open.spotify.com/track/4SwbuL0i9XorhDoS0uP5s0"
@@ -7541,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/2DaM9U63TsKcDiC8BecI9a"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "ODYSSEY",
+      "url": "https://open.spotify.com/track/6y162UkGEHNRRAyWMQpPt0"
+    },
+    {
+      "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
@@ -8116,7 +8152,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 237224,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"

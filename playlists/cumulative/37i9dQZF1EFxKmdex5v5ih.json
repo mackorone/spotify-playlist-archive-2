@@ -1068,10 +1068,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 167253,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/0euRZeEKvdbptPpebwDtLc"
+    },
+    {
+      "album": {
+        "name": "Love You to Death",
+        "url": "https://open.spotify.com/album/4p3zDRbmJVN8kAvUgpHKDB"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/6l02HwReO3TXYs3ATGhxRM"
     },
     {
       "album": {
@@ -4784,7 +4802,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV"
@@ -6032,7 +6050,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 211733,
       "name": "Love U Like That",
       "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
@@ -6242,7 +6260,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 157130,
       "name": "Marry Me - Kat & Bastian Duet",
       "url": "https://open.spotify.com/track/7wCqBjOdJ9Gk0OtNVnRB0W"

@@ -4,7 +4,7 @@
 
 > Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
-1,225 songs - 2 day 20 hr 14 min
+1,226 songs - 2 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,6 +909,7 @@
 | [run away girl](https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [run away girl](https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2) | 3:50 | 2024-01-05 | 2024-02-10 |
 | [rUN tHE FaDE](https://open.spotify.com/track/2ZrlFzDK4qmEGoUS7GqLzP) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [rUN tHE FaDE](https://open.spotify.com/album/4dPnAsC3Ql4SVtjkDCrnhG) | 4:13 | 2024-01-05 | 2024-02-17 |
 | [RUN!](https://open.spotify.com/track/2FmG0YbnHkycMN4Gbm09Kq) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [RUN!](https://open.spotify.com/album/47fjQAZe0oxVnfP4VoJb0L) | 2:02 | 2025-04-04 | 2025-08-09 |
+| [Runaways](https://open.spotify.com/track/265OkcPwk7GJ5KY9z2VPmj) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Rooted](https://open.spotify.com/album/1vhEG3tznbXm0Gi8nvCr2k) | 4:29 | 2026-11-11 |  |
 | [Running Back To You](https://open.spotify.com/track/4ftn9eICouTLrae4eVv5A7) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Running Back To You](https://open.spotify.com/album/4TQlcl49wK4KU62EI7X792) | 3:50 | 2025-10-31 | 2026-01-31 |
 | [Running Out](https://open.spotify.com/track/2gez87ndmSccOQ6XQvqZMF) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Running Out](https://open.spotify.com/album/4iH66iUnoB2pNmqVWg8pVj) | 3:32 | 2023-11-03 | 2023-12-02 |
 | [Running Out](https://open.spotify.com/track/5Sr3iGZ3q8eKM2bqjzZByf) | [Lucille Two](https://open.spotify.com/artist/0fHke0FX5RQOe0E5nPpeRI) | [Running Out](https://open.spotify.com/album/1zmz3TzQSCO074qlyT52lY) | 5:29 | 2024-01-05 | 2024-02-10 |

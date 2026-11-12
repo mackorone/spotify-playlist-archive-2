@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Kings of Leon",
-  "num_followers": 93532,
+  "num_followers": 93533,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Ugly things",
-        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 209924,
-      "name": "Ugly things",
-      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "One Car Hits Another",
         "url": "https://open.spotify.com/album/52M9CYJhNksfE3v5RTRxlL"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 189500,
       "name": "One Car Hits Another",
       "url": "https://open.spotify.com/track/2eCTdjEiWw5d1BH1GCvotP"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Seriously",
-        "url": "https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 249975,
-      "name": "Seriously",
-      "url": "https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 266759,
       "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
       "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Seriously",
+        "url": "https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 249975,
+      "name": "Seriously",
+      "url": "https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
+        "name": "Doom Country",
+        "url": "https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 243702,
+      "name": "Texas in Flaming Tongues",
+      "url": "https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
         "name": "Trillions",
         "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Doom Country",
-        "url": "https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG"
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
       "artists": [
         {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 243702,
-      "name": "Texas in Flaming Tongues",
-      "url": "https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG"
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -791,22 +807,6 @@
       "duration_ms": 273198,
       "name": "black33",
       "url": "https://open.spotify.com/track/1corH4C9dbYGfhfUR3dwIH"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 345732,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 299042,
       "name": "Garden",
       "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 345732,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "This is the Killer Speaking",
-        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "This is the Killer Speaking",
-      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT"
       },
@@ -1103,18 +1087,34 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk"
+        "name": "This is the Killer Speaking",
+        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
       },
       "artists": [
         {
-          "name": "Brandon Flowers",
-          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 231351,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC"
+      "duration_ms": 294773,
+      "name": "This is the Killer Speaking",
+      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Pilots Licence / Cliffs Of Dooneen",
+        "url": "https://open.spotify.com/album/1qua0b2Z6gMiRPLyTBLGsu"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "duration_ms": 219981,
+      "name": "Pilots Licence",
+      "url": "https://open.spotify.com/track/7czDMYoS1wy02sqmvI46mR"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1135,6 +1135,38 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 131906,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "duration_ms": 231351,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
         "name": "Armor",
         "url": "https://open.spotify.com/album/3OUjODbCdJfSwgGChAY5fR"
       },
@@ -1151,6 +1183,22 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
         "name": "L/C",
         "url": "https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i"
       },
@@ -1163,22 +1211,6 @@
       "duration_ms": 253484,
       "name": "L/C",
       "url": "https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 131906,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1231,38 +1263,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
-        "name": "Pilots Licence / Cliffs Of Dooneen",
-        "url": "https://open.spotify.com/album/1qua0b2Z6gMiRPLyTBLGsu"
-      },
-      "artists": [
-        {
-          "name": "Dermot Henry",
-          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
-        }
-      ],
-      "duration_ms": 219981,
-      "name": "Pilots Licence",
-      "url": "https://open.spotify.com/track/7czDMYoS1wy02sqmvI46mR"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "My Heart Is A Room With No Cameras In It (Deluxe)",
-        "url": "https://open.spotify.com/album/1ihrc3yuJI063vqKwupVPp"
+        "name": "Win Win",
+        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f"
       },
       "artists": [
         {
-          "name": "Victoryland",
-          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 146087,
-      "name": "The Ugliest Girl On The Beach",
-      "url": "https://open.spotify.com/track/7zULk1BRwUrMjgImBEe37D"
+      "duration_ms": 163479,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/1Jl5HcTkOOKKLQ4IiT7odi"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Win Win",
-        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f"
+        "name": "My Heart Is A Room With No Cameras In It (Deluxe)",
+        "url": "https://open.spotify.com/album/1ihrc3yuJI063vqKwupVPp"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
         }
       ],
-      "duration_ms": 163479,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/1Jl5HcTkOOKKLQ4IiT7odi"
+      "duration_ms": 146087,
+      "name": "The Ugliest Girl On The Beach",
+      "url": "https://open.spotify.com/track/7zULk1BRwUrMjgImBEe37D"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Disappearing Act",
-        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
+        "name": "Lose All Your Friends",
+        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 179328,
-      "name": "Disappearing Act",
-      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
+      "duration_ms": 301893,
+      "name": "Lose All Your Friends",
+      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Lose All Your Friends",
-        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Lose All Your Friends",
-      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 210301,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Disappearing Act",
+        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 179328,
+      "name": "Disappearing Act",
+      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Maybe Not Tonight",
-        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 165121,
-      "name": "Maybe Not Tonight",
-      "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "My New Band Believe",
         "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 226077,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/6NZzRwgpQAuKWy8N9OdZpY"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Maybe Not Tonight",
+        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 165121,
+      "name": "Maybe Not Tonight",
+      "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "The Sweet Goodbye",
-        "url": "https://open.spotify.com/album/1BX2CLG8MBglhD83tVUJvL"
-      },
-      "artists": [
-        {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
-        }
-      ],
-      "duration_ms": 388781,
-      "name": "Crucify!",
-      "url": "https://open.spotify.com/track/7IVv7usio5jsGIK6lFRvAN"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Monroe",
         "url": "https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 220290,
       "name": "Monroe",
       "url": "https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "The Sweet Goodbye",
+        "url": "https://open.spotify.com/album/1BX2CLG8MBglhD83tVUJvL"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 388781,
+      "name": "Crucify!",
+      "url": "https://open.spotify.com/track/7IVv7usio5jsGIK6lFRvAN"
     },
     {
       "added_at": "2026-11-06 00:01:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,478 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,486 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Nothing I Can Do About It Now](https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Horse Called Music](https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf) | 3:19 |
 | 50 | [Homegrown](https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI) | [Mishka](https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Talk About](https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT) | 3:31 |
 
-Snapshot ID: `au+7gAAAAADwyzcQYcxDC+Kfeq3qO9Qd`
+Snapshot ID: `avENAAAAAACrqLwK4fPfNf8HMGdcKHSb`

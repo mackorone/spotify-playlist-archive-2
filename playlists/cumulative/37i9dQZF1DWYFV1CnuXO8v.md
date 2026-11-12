@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-359 songs - 22 hr 53 min
+360 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-14 |
 | [Fostan El Helwa](https://open.spotify.com/track/1QApLxTdkiLz7lZfp42z8J) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Fostan El Helwa](https://open.spotify.com/album/15ivufN1YbkdXFr9Vsx2I1) | 3:20 | 2023-02-13 | 2023-05-23 |
 | [Gany Fe Awanoh](https://open.spotify.com/track/5oOm80jbpoaXN9vcsUywaO) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Gany Fe Awanoh](https://open.spotify.com/album/4jwtLQfYZOaZxTeAy1lEJf) | 4:41 | 2023-02-23 | 2023-05-23 |
-| [Gawezohany Delwaaty!](https://open.spotify.com/track/7BfuVwoMjLpwjz9MRCEeIe) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Gawezohany Delwaaty!](https://open.spotify.com/album/3BSWDsbM2j5A5uzJzNiRRx) | 3:04 | 2026-09-17 |  |
+| [Gawezohany Delwaaty!](https://open.spotify.com/track/7BfuVwoMjLpwjz9MRCEeIe) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Gawezohany Delwaaty!](https://open.spotify.com/album/3BSWDsbM2j5A5uzJzNiRRx) | 3:04 | 2026-09-17 | 2026-11-12 |
 | [Ghebet El Habayeb](https://open.spotify.com/track/6EBKXT2EYYX4f0hqJCuDT0) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:03 | 2025-01-17 |  |
 | [Ghoroub](https://open.spotify.com/track/4HzYwVromZpF1qgANSvrxU) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ghoroub](https://open.spotify.com/album/5LjrRV8ymiVuHNEWBYJhdR) | 3:56 | 2023-09-01 |  |
 | [Gowaky](https://open.spotify.com/track/1REDzEvjAiI9TRvE2kwN6o) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Gowaky](https://open.spotify.com/album/08JnDYwZK5sf4pFl1N3vjQ) | 3:48 | 2023-02-13 | 2023-05-20 |
@@ -239,6 +239,7 @@
 | [W Nefdal Norkos](https://open.spotify.com/track/31bpBRmlNCe4XFvci7EXNW) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [W Nefdal Norkos](https://open.spotify.com/album/3snEVielzZjgjJMA1wUCTp) | 3:40 | 2023-02-13 | 2023-08-31 |
 | [Wahashtiny](https://open.spotify.com/track/0VvgXZ8N5JZziGhvzdRZDo) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Lealy Nahary](https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg) | 3:57 | 2024-04-10 | 2025-07-01 |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2023-02-13 | 2023-05-23 |
+| [Wahed Bas](https://open.spotify.com/track/6XIWYbfSGxcK0yaNtGdrNU) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Wahed Bas](https://open.spotify.com/album/0aOYDx9ERBWahhcF9yQkqb) | 3:20 | 2026-11-11 |  |
 | [Waheshni Eh](https://open.spotify.com/track/3dKgDjL69KuoyMNeYfUbWJ) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Nadini](https://open.spotify.com/album/3rShjwnO7rFyMxOdKkuPxg) | 4:11 | 2023-02-13 | 2023-07-13 |
 | [Wahshany](https://open.spotify.com/track/1kiqCDYCfNrvAP990he3GI) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Wahshany](https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N) | 4:09 | 2024-04-10 | 2024-04-26 |
 | [Wahshany Ayamak](https://open.spotify.com/track/3c87CyEFhWPyHoXxvbSBEx) | [Marwa Amin](https://open.spotify.com/artist/7JL7Tu7197ZW87a4yBZhyd) | [Wahshany Ayamak](https://open.spotify.com/album/38OTa1G1FvSC1kROPGajQo) | 4:12 | 2023-02-13 | 2023-02-21 |

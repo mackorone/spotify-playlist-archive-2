@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 6 hr 17 min
+138 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Je Weet Maar Nooit](https://open.spotify.com/track/2dHlCKfl1F4CfIxUbIQJk6) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Chase](https://open.spotify.com/album/3IB6wQmGa8n1AzZMJ7LECv) | 2:56 | 2024-01-29 |  |
 | [Kofferbak](https://open.spotify.com/track/5srlU62BkGl2VxfuuEgOYi) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Kofferbak](https://open.spotify.com/album/7aLOFzXgAssZ9152jx4zwE) | 2:42 | 2024-01-29 |  |
 | [Kouwe Kak](https://open.spotify.com/track/6br7zmBXTUgQWoqVDQ6qBW) | [Chicco](https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb) | [Kouwe Kak](https://open.spotify.com/album/61TWNYthhubPajfdYtspVB) | 2:03 | 2026-03-10 |  |
-| [Laatste Nacht](https://open.spotify.com/track/6qAkBMS9DtmSujEPQEB6MI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:21 | 2025-09-12 |  |
+| [Laatste Nacht](https://open.spotify.com/track/4waT1y9SIWrmktzJUb2t6Y) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 3:21 | 2026-11-11 |  |
+| [Laatste Nacht](https://open.spotify.com/track/6qAkBMS9DtmSujEPQEB6MI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:21 | 2025-09-12 | 2026-11-12 |
 | [Lean](https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lean](https://open.spotify.com/album/2WUeSE3wgkgrBqjhmMzcV0) | 1:49 | 2026-03-10 |  |
 | [Lelo Toko Bina](https://open.spotify.com/track/2sDw0zhDElBmsrpuKdvYEu) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Parler Français](https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2) | 3:06 | 2025-02-16 | 2025-10-04 |
 | [Lelo Toko Bina \(feat\. Ronnie Flex\)](https://open.spotify.com/track/72NZK6uzHA2XERtAUPM9lO) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Parler Français](https://open.spotify.com/album/1ILBXXkhMWLNYHoImfXTCI) | 3:06 | 2025-10-03 |  |

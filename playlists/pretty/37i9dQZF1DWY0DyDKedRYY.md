@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring ADÉLA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,459 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,443 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [The Rage](https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [The Rage](https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk) | 3:40 |
 | 50 | [Qué Show](https://open.spotify.com/track/6IyXRF2ZE8QTMpwzyWl2DX) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Qué Show](https://open.spotify.com/album/7cyzIV3psbJtHnCRojkZW1) | 2:28 |
 
-Snapshot ID: `AAAAAJ3E19MM6Xy+v2ikw2VvJ6NxIAmg`
+Snapshot ID: `AAAAAIpgqHVlLvCpJZ9x9FVo93dtBUt7`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: サンボマスター Tatsuya Kitani
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,854 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,866 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/track/2lgnjzDcEXnvLog0f1isrx) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB), [アイナ・ジ・エンド](https://open.spotify.com/artist/4BWVSdi3SK9A2NlFuvFznN) | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/album/3Uzrmh2zIXrYUtcLDsLHNS) | 5:35 |
+| 1 | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/track/2lgnjzDcEXnvLog0f1isrx) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/album/3Uzrmh2zIXrYUtcLDsLHNS) | 5:35 |
 | 2 | [Sugar](https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Sugar](https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc) | 3:41 |
 | 3 | [君と生きて君と死にたい！](https://open.spotify.com/track/76m7HVNSn9boYZqzfdMuXq) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [PURE](https://open.spotify.com/album/5R0dCdjb1aDADy623EOLpg) | 3:29 |
 | 4 | [娑婆堕罵 \-Shabadaba\-](https://open.spotify.com/track/39WE2duYMF00oF7E6lLSSW) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [娑婆堕罵 \-Shabadaba\-](https://open.spotify.com/album/0hVqT36HvgyOr4wV160LDb) | 4:13 |

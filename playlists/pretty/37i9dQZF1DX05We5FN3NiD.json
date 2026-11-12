@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 52113,
+  "num_followers": 52121,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "DYSFUNCTIONAL",
-        "url": "https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        }
-      ],
-      "duration_ms": 240757,
-      "name": "DYSFUNCTIONAL",
-      "url": "https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/1awYYlPxboJHZqiEFXEdTh"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 217693,
       "name": "Tokyo Drifting (with Denzel Curry)",
       "url": "https://open.spotify.com/track/3AHqaOkEFKZ6zEHdiplIv7"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "DYSFUNCTIONAL",
+        "url": "https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        }
+      ],
+      "duration_ms": 240757,
+      "name": "DYSFUNCTIONAL",
+      "url": "https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Forever & A Few",
-        "url": "https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF"
-      },
-      "artists": [
-        {
-          "name": "Choker",
-          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
-        }
-      ],
-      "duration_ms": 251034,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 280200,
       "name": "Unbearably White",
       "url": "https://open.spotify.com/track/2FjoCQaBoiEKs3FCvD0HkR"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Forever & A Few",
+        "url": "https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 223909,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 192612,
       "name": "i'll die anyway.",
       "url": "https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 223909,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
+      "duration_ms": 367093,
+      "name": "Not",
+      "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1371,6 +1371,22 @@
       "duration_ms": 262266,
       "name": "Naeem",
       "url": "https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1419,22 +1435,6 @@
       "duration_ms": 219428,
       "name": "Fuzzybrain",
       "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 367093,
-      "name": "Not",
-      "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
     },
     {
       "added_at": "2022-09-16 04:53:36",

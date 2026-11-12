@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/0FRIIUJN3EmIrO9lyfPYp2.md) - [plain]
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 14,878 likes - 903 songs - 1 day 7 hr 37 min
+[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 14,876 likes - 903 songs - 1 day 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [perfume](https://open.spotify.com/track/1dn66FHEfq2xScmTa8rPh4) | [Houle](https://open.spotify.com/artist/7kyEbclVUPx4zFdUdNbMUI), [ohhdeer](https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x) | [perfume](https://open.spotify.com/album/4tT0kAWiN91pgj0xg90dzE) | 1:39 |
 | 2 | [find me when im lost](https://open.spotify.com/track/5yuiHjVwS73hTg5hyPMTuG) | [am i enough?](https://open.spotify.com/artist/3M0I86wB1L5uM8YW2T6gHz), [nohssiwi](https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt) | [find me when im lost](https://open.spotify.com/album/2hxfqVUPkJ0ir77qdoUHh0) | 2:30 |
 | 3 | [my love](https://open.spotify.com/track/4HZeSq71pAZreI33JzfRz8) | [thell](https://open.spotify.com/artist/18uDXgDVkVM8z9nHhRaeWQ) | [my love](https://open.spotify.com/album/3wfnewvBbvvnkijy5sPULs) | 1:20 |
-| 4 | [palliative memories](https://open.spotify.com/track/2dTvZwjMHbarF7Y1SYYG8W) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [palliative memories](https://open.spotify.com/album/4LYxZiwwkABXvWqaTuzORv) | 4:45 |
+| 4 | [palliative harmonies](https://open.spotify.com/track/2dTvZwjMHbarF7Y1SYYG8W) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [palliative harmonies](https://open.spotify.com/album/4LYxZiwwkABXvWqaTuzORv) | 4:45 |
 | 5 | [wishing](https://open.spotify.com/track/5BKRqqN70HmSMbznzbAzyH) | [nowt](https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI) | [wishing](https://open.spotify.com/album/1mf51MYgRKUgIEGlNo831d) | 2:08 |
 | 6 | [silent fear](https://open.spotify.com/track/45ORbKguVTPCIThkRJkWJd) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [silent fear](https://open.spotify.com/album/51LEXipLqo01bBhnpS5Sln) | 1:58 |
-| 7 | [palliative memories \(sped up\)](https://open.spotify.com/track/6QscIHHqSXzR8gfC7QlOxD) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [palliative memories](https://open.spotify.com/album/4LYxZiwwkABXvWqaTuzORv) | 3:31 |
+| 7 | [palliative harmonies \(sped up\)](https://open.spotify.com/track/6QscIHHqSXzR8gfC7QlOxD) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [palliative harmonies](https://open.spotify.com/album/4LYxZiwwkABXvWqaTuzORv) | 3:31 |
 | 8 | [passed out](https://open.spotify.com/track/0pKhnd73Z6jcqYBte7Q9yr) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [passed out](https://open.spotify.com/album/6P2aBQw0oqXULDX0o4Lou9) | 1:53 |
 | 9 | [startide](https://open.spotify.com/track/5od3hYBK8BXh0rhxNDKBDs) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [startide](https://open.spotify.com/album/6Gl1Uh37jpTqEaCLHWRrWK) | 1:04 |
 | 10 | [unspoken](https://open.spotify.com/track/5CxzPHrtk5pQXq5ZAnQ6O4) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [unspoken](https://open.spotify.com/album/2KNJMI0QjBl1H7Lc0muJP8) | 2:50 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-617 songs - 1 day 10 hr 57 min
+622 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All Day, All Night](https://open.spotify.com/track/31OBi74BHBJ13DHwjC96ge) | [Rue Rue](https://open.spotify.com/artist/78cnqjlGd1LUdz4zt5AgxU) | [All Day, All Night](https://open.spotify.com/album/4TPAwemfELJTdh045rg1PO) | 2:09 | 2026-04-24 | 2026-05-26 |
 | [All i ever wanted](https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S) | [Johnny Scott](https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH) | [Urban Legends](https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH) | 2:53 | 2026-09-23 |  |
 | [All In](https://open.spotify.com/track/663hZ5d086UY6QZUCwmGFU) | [Drip Label](https://open.spotify.com/artist/4aR0chhEdjyxu9y9JkCqXR) | [All In](https://open.spotify.com/album/2VYG35zYIpbRF9YQPjXXeG) | 3:12 | 2025-11-10 | 2025-12-01 |
+| [All Things Left Behind](https://open.spotify.com/track/3GNP2odSFQaSHqeeLXIJdQ) | [Magacadabra](https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs) | [Magacadabra](https://open.spotify.com/album/3QmSDGjb8MVPnCw2pgkJ2p) | 4:01 | 2026-11-11 |  |
 | [Almost Home](https://open.spotify.com/track/0aVnuMnp7Cwf6iQ5XWbwkA) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 5:22 | 2026-02-24 | 2026-05-26 |
 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 | 2026-06-26 | 2026-08-08 |
 | [Along the Road](https://open.spotify.com/track/7v1etJXp32nRfRsBnHTllE) | [K!ko](https://open.spotify.com/artist/2a7EXQxuh8s60Yws9pksh1) | [Along the Road](https://open.spotify.com/album/4psrRJPnDTu04JfCQPwUtH) | 2:31 | 2025-11-08 | 2025-12-01 |
@@ -194,6 +195,7 @@
 | [Falling For You](https://open.spotify.com/track/1WY1neK4eNnB4H00p2uzr1) | [MaXimum Boost](https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN) | [Falling For You](https://open.spotify.com/album/05uHmKHapnjqAlG9QLYpU9) | 1:23 | 2025-11-17 | 2026-01-05 |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2026-01-29 | 2026-03-03 |
 | [Faster](https://open.spotify.com/track/6RA15eX9LyoPbn9q2Puj5u) | [At Baron Lane](https://open.spotify.com/artist/7uMc0lZt0i1E0pO2zg7YYn) | [The Cause](https://open.spotify.com/album/2ocaO3l2r9SB6lEdLO4eNY) | 2:46 | 2025-11-08 | 2025-12-01 |
+| [Feel the Vibes](https://open.spotify.com/track/2Yn3ht6bIMQiJhY8IRIKdn) | [Eva Ku](https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0) | [Feel the Vibes](https://open.spotify.com/album/7lgV9Fkn6XwxrWCQrp15zG) | 2:27 | 2026-11-11 |  |
 | [Feelings](https://open.spotify.com/track/2u6Qy7B4heQkPZVuMt3L40) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings](https://open.spotify.com/album/6fvAeDQnOGcP2PQqnKAZeB) | 4:04 | 2025-11-02 | 2025-12-01 |
 | [Fendi Flexin Freestyle](https://open.spotify.com/track/50ECzBqkUMZTlj8dThgCyJ) | [Young.Fendi](https://open.spotify.com/artist/7J8NCqwzHIYJGVbxvTLB9E) | [Fendi Flexin Freestyle](https://open.spotify.com/album/7bO7qVHwTVAJiV0hBrkIvc) | 2:01 | 2025-12-25 | 2026-01-15 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-20 | 2026-01-15 |
@@ -315,6 +317,7 @@
 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2025-10-19 | 2026-01-05 |
 | [Le corde della vita](https://open.spotify.com/track/4W6v9RtutrPDEnCCHM8Atx) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Le corde della vita](https://open.spotify.com/album/3jEZbbgSTP2vENSPoPfL9j) | 2:25 | 2026-05-08 | 2026-06-14 |
 | [Leave Me Alone](https://open.spotify.com/track/58k6KdzzvSjfUWkRpvbFYi) | [Mitirikpwe Patricia](https://open.spotify.com/artist/0NEmwN7vYujcKPM4hs5cVh) | [Mitirikpwe](https://open.spotify.com/album/1UgRg1mzV72aE0VQPdtujP) | 3:26 | 2025-11-17 | 2026-01-05 |
+| [Let It Go](https://open.spotify.com/track/7mH3Js8nXCxDmbNkN0UZft) | [DK](https://open.spotify.com/artist/3tKCvMTzVioWMaLt7dn6wU) | [Let It Go](https://open.spotify.com/album/5FrDepb8FC8OYFVQvU6Njj) | 3:17 | 2026-11-11 |  |
 | [Let Me Be Me](https://open.spotify.com/track/4xDKzurISthaAbD6NzOy75) | [Lilly Sweetness](https://open.spotify.com/artist/3TwZJUhz6tKt6OxFPNf4fu) | [Blessings](https://open.spotify.com/album/0sEWclT1yWwNlQfnPRJ9v4) | 3:54 | 2026-02-28 | 2026-05-26 |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-01-29 | 2026-03-03 |
 | [Libero](https://open.spotify.com/track/5hF1NTbssOdxNlq1gff94O) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Libero](https://open.spotify.com/album/2Td6GhaGd2bLCjtPwgeJdj) | 2:57 | 2026-04-25 | 2026-05-17 |
@@ -332,6 +335,7 @@
 | [Losing All My Senses](https://open.spotify.com/track/3XZT1Xe9iAHwkU2hvchzv4) | [Gericco](https://open.spotify.com/artist/56qTnVEv3HPAWHgLjuh5Zw) | [Losing All My Senses](https://open.spotify.com/album/3OelNmOoDQPiZyat8Z5r91) | 3:22 | 2026-02-08 | 2026-09-04 |
 | [Lost](https://open.spotify.com/track/5G2aNaByrXIR2SAr9ygbqx) | [Invaded](https://open.spotify.com/artist/1whGtC6fzcGMhkiF11AZ3s) | [Here Comes Trouble](https://open.spotify.com/album/6pNN8p0nL0MNi04tVwlt02) | 4:23 | 2025-11-08 | 2025-12-01 |
 | [Lost + Found](https://open.spotify.com/track/2OrVAOG4dUYzb2HAriK43q) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe), [Skywalker Mike](https://open.spotify.com/artist/5t91fvC2sZ5WMhTneQeL6d) | [Lost + Found](https://open.spotify.com/album/0nKs9UfLIZwZ6I0caTK8hV) | 3:25 | 2025-11-30 | 2026-01-05 |
+| [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 | 2026-11-11 |  |
 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 | 2026-04-17 | 2026-05-26 |
 | [Love in Philadelphia](https://open.spotify.com/track/4Nw4x3rAc0BVbvf1pp2f2L) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:26 | 2025-11-10 | 2025-12-01 |
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-11-11 | 2025-12-01 |
@@ -393,6 +397,7 @@
 | [Not a Moment](https://open.spotify.com/track/3xJfZkI3APO8NYKKGCPiZu) | [Rob De Santis](https://open.spotify.com/artist/6u32qUBZnBH6bZFxm0kemC) | [Not a Moment](https://open.spotify.com/album/6Bn0R6sA52tNWW2P4eRpPU) | 2:26 | 2025-11-01 | 2025-12-01 |
 | [Note To Myself](https://open.spotify.com/track/5gicU7deaXdsF7tY9Ofy7y) | [Satya](https://open.spotify.com/artist/3AuLKYl8ryJkeclCUJDniJ) | [Note To Myself](https://open.spotify.com/album/1dZvMqXdqPtlWV50cRIlMU) | 3:41 | 2026-01-24 | 2026-02-21 |
 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 | 2026-07-03 | 2026-08-08 |
+| [OMG](https://open.spotify.com/track/7Hne5xde6zGqJWx4LTa93l) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Something Something Disco](https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve) | 3:57 | 2026-11-11 |  |
 | [omw?](https://open.spotify.com/track/0E6XbtAElPNaZklrg7TISP) | [Cody Caprice](https://open.spotify.com/artist/5RvimT5xpoT9hv0rgKRFXL) | [Catalyst](https://open.spotify.com/album/3Mdlq7baYKAOflVaIP9Poa) | 2:39 | 2025-11-05 | 2025-12-01 |
 | [On The Loose](https://open.spotify.com/track/4z8PnK63CWW1WL879iGpbH) | [Miquelangelo](https://open.spotify.com/artist/4h9QOAPn546KMLAgaxUEwQ) | [Verdwaald In De Stad](https://open.spotify.com/album/6iopEbHYcwJIY6fibuhFf4) | 2:41 | 2025-12-24 | 2026-01-15 |
 | [Once](https://open.spotify.com/track/6dcxUyu84kv5PMl3IEbZOx) | [Eddie Bowers](https://open.spotify.com/artist/269LsjukFfnnXjShOB2iiU) | [Once](https://open.spotify.com/album/6OBF7DsCR7Hu7tkUHsjWEj) | 2:45 | 2026-01-01 | 2026-01-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 569149,
+  "num_followers": 569121,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/1s70dAtNGUddM6SeTeY7A5"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 141609,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/6Ni4GeIC5CRgDC1okpGwWH"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Abschied nehmen",
         "url": "https://open.spotify.com/album/6knT0FAymL2q5zmW1TZIjb"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 165000,
       "name": "Abschied nehmen",
       "url": "https://open.spotify.com/track/5gXixHgeMePU7nICfVAwoD"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/1s70dAtNGUddM6SeTeY7A5"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 141609,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/6Ni4GeIC5CRgDC1okpGwWH"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
       },
@@ -459,6 +475,22 @@
       "duration_ms": 216201,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "6 Kugeln",
+        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 184877,
+      "name": "6 Kugeln",
+      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -483,38 +515,6 @@
       "duration_ms": 210418,
       "name": "Seite an Seite",
       "url": "https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "6 Kugeln",
-        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 184877,
-      "name": "6 Kugeln",
-      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Anderer Mann",
-        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        }
-      ],
-      "duration_ms": 135294,
-      "name": "Anderer Mann",
-      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -611,22 +611,18 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "LET ME LOVE YOU",
-        "url": "https://open.spotify.com/album/2W46w9MTi2iEhIHFKAoHnM"
+        "name": "ich brauch dich",
+        "url": "https://open.spotify.com/album/1tpnNdKuNwIIL3AlTGWo6Q"
       },
       "artists": [
         {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
         }
       ],
-      "duration_ms": 144500,
-      "name": "LET ME LOVE YOU",
-      "url": "https://open.spotify.com/track/1QlIvqhrLroP5Eyd4qpzvE"
+      "duration_ms": 155357,
+      "name": "ich brauch dich",
+      "url": "https://open.spotify.com/track/5B7FCEtCFOyFK9OPSWilmd"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -647,22 +643,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "ich brauch dich",
-        "url": "https://open.spotify.com/album/1tpnNdKuNwIIL3AlTGWo6Q"
-      },
-      "artists": [
-        {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
-        }
-      ],
-      "duration_ms": 155357,
-      "name": "ich brauch dich",
-      "url": "https://open.spotify.com/track/5B7FCEtCFOyFK9OPSWilmd"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Die Hoffnung klaut mir Niemand",
         "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 174026,
       "name": "Die Sonne",
       "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "LET ME LOVE YOU",
+        "url": "https://open.spotify.com/album/2W46w9MTi2iEhIHFKAoHnM"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "LET ME LOVE YOU",
+      "url": "https://open.spotify.com/track/1QlIvqhrLroP5Eyd4qpzvE"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "KOMM N\u00c4HER",
         "url": "https://open.spotify.com/album/0OJKAf3ZhqDrVx0aTgsEWx"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 138224,
       "name": "KOMM N\u00c4HER",
       "url": "https://open.spotify.com/track/5bw4N8amK7DNOshwCDMgIJ"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "Brauch nur dich",
+        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "duration_ms": 144926,
+      "name": "Brauch nur dich",
+      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "Wer liebt dich jetzt ?",
         "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 111206,
       "name": "Mach die Augen auf",
       "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Brauch nur dich",
-        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
-      },
-      "artists": [
-        {
-          "name": "LoSin",
-          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
-        }
-      ],
-      "duration_ms": 144926,
-      "name": "Brauch nur dich",
-      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "Dieses eine Lied",
+        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "duration_ms": 142502,
+      "name": "Dieses eine Lied",
+      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "Nur Mailbox",
         "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Dieses eine Lied",
-        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
+        "name": "Mein Type",
+        "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
       },
       "artists": [
         {
-          "name": "Jassin",
-          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+          "name": "Matterz",
+          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
         }
       ],
-      "duration_ms": 142502,
-      "name": "Dieses eine Lied",
-      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
+      "duration_ms": 154601,
+      "name": "Mein Type",
+      "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Mein Type",
-        "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
+        "name": "King",
+        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
       },
       "artists": [
         {
-          "name": "Matterz",
-          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Alice Stark",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
         }
       ],
-      "duration_ms": 154601,
-      "name": "Mein Type",
-      "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
+      "duration_ms": 169842,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1391,26 +1411,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Nie",
-        "url": "https://open.spotify.com/album/6KurEcolD2okUE6NWoNt7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Hengst",
-          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
-        },
-        {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Nie",
-      "url": "https://open.spotify.com/track/1U6z6GfdQDnRrnI6LpjARI"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -1427,46 +1427,6 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "Alice Stark",
-          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Gesegnet",
-      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1491,26 +1451,42 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "wie du manchmal fehlst",
-        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
+        "name": "Nie",
+        "url": "https://open.spotify.com/album/6KurEcolD2okUE6NWoNt7o"
       },
       "artists": [
         {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
         },
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Dauner",
-          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
         }
       ],
-      "duration_ms": 131773,
-      "name": "wie du manchmal fehlst",
-      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+      "duration_ms": 169795,
+      "name": "Nie",
+      "url": "https://open.spotify.com/track/1U6z6GfdQDnRrnI6LpjARI"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Gesegnet",
+      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1543,6 +1519,30 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "wie du manchmal fehlst",
+        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        }
+      ],
+      "duration_ms": 131773,
+      "name": "wie du manchmal fehlst",
+      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 166748,
       "name": "1995",
       "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Fahrt ins Blaue",
+        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 172023,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1599,26 +1619,6 @@
       "duration_ms": 163306,
       "name": "Simpel",
       "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Fahrt ins Blaue",
-        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "F\u00fcr immer",
-      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Estikay",
+          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
+        }
+      ],
+      "duration_ms": 165390,
+      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
+      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "UPPER CLASS",
         "url": "https://open.spotify.com/album/1g5qbFLy3b6tVBW2vJ7gBt"
       },
@@ -1711,8 +1731,8 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7"
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
       },
       "artists": [
         {
@@ -1720,29 +1740,9 @@
           "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 154776,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "PAUL",
-        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        },
-        {
-          "name": "Estikay",
-          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
-        }
-      ],
-      "duration_ms": 165390,
-      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
-      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
+      "duration_ms": 149752,
+      "name": "Leben",
+      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1803,38 +1803,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 149752,
-      "name": "Leben",
-      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Wegen dir",
-        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Wegen dir",
-      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "NICHT PERFEKT",
         "url": "https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8"
       },
@@ -1863,22 +1831,34 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Endlich Normale Tr\u00e4ume",
-        "url": "https://open.spotify.com/album/3VOLa4gRnHI0kvUPSNjOQx"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "luzey",
-          "url": "https://open.spotify.com/artist/2JKCEqNzqDx1L6c76Jo7uM"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 162899,
-      "name": "Endlich Normale Tr\u00e4ume",
-      "url": "https://open.spotify.com/track/5tI29X3CK0J4qF65vLORQq"
+      "duration_ms": 154776,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Wegen dir",
+        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Wegen dir",
+      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1895,6 +1875,22 @@
       "duration_ms": 147692,
       "name": "nur f\u00fcr dich",
       "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Denkst du an mich",
+        "url": "https://open.spotify.com/album/1gCpb6P29znhvymToiydUV"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Denkst du an mich",
+      "url": "https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0"
     }
   ],
   "unique_name": "Rap in deep",

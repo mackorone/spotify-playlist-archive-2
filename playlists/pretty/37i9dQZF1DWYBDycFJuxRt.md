@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ちゃんみな \*👉 <a href="https://spice.eplus.jp/articles/350284">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,874 likes - 101 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,888 likes - 101 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 14 | [TRICKSTAR \(feat.ピーナッツくん\)](https://open.spotify.com/track/2WBzkUqAhvV4xWqmNxewJg) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [ピーナッツくん](https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb) | [TRICKSTAR \(feat.ピーナッツくん\)](https://open.spotify.com/album/0mFE1gIu35t4wC9N43hStE) | 3:07 |
 | 15 | [TiNG TiNG](https://open.spotify.com/track/7KqEWQkQfeDg0hjqml0WL8) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [TiNG TiNG](https://open.spotify.com/album/3NJlW5XqmTGt8KC6kRdVIn) | 2:29 |
 | 16 | [Boogie Woogie](https://open.spotify.com/track/25aPAxdjuY65ndMA0Q4O8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM AFTER DREAM](https://open.spotify.com/album/4ZOny2sfAeGeHixBa8UXcw) | 3:12 |
-| 17 | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/track/2lgnjzDcEXnvLog0f1isrx) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB), [アイナ・ジ・エンド](https://open.spotify.com/artist/4BWVSdi3SK9A2NlFuvFznN) | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/album/3Uzrmh2zIXrYUtcLDsLHNS) | 5:35 |
+| 17 | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/track/2lgnjzDcEXnvLog0f1isrx) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花束 サンボマスターとアイナ・ジ・エンド](https://open.spotify.com/album/3Uzrmh2zIXrYUtcLDsLHNS) | 5:35 |
 | 18 | [tsumikitouwaki](https://open.spotify.com/track/5WZvoJ1TXF2Dbyl04mMOti) | [Sunny Girl](https://open.spotify.com/artist/1wkGtOevrl3LOU7tKa3hdm) | [tsumikitouwaki](https://open.spotify.com/album/45gl23Vt9WEp2UJwQIucYU) | 1:49 |
 | 19 | [伝書鳩](https://open.spotify.com/track/7FzcD7KXNVy2Y2aLKop9JE) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp) | [六変化](https://open.spotify.com/album/4oZjmEefRHuZTQe5humvdx) | 2:31 |
 | 20 | [絶命ごっこ](https://open.spotify.com/track/27ceHMCFxoaf8JRSmq7I2X) | [バチカン市国に愛されたい](https://open.spotify.com/artist/1TEvVC6sabCl9knRndyHKu) | [絶命ごっこ / 延命ごっこ](https://open.spotify.com/album/4CzCD4nxR2490q3wDpQYx4) | 4:06 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 32 | [Pinot noir](https://open.spotify.com/track/2DXknNYBaZlCC7tDM0i23O) | [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc) | [reason for being](https://open.spotify.com/album/0CQJPuVnW2ruQGgBCLvj2R) | 3:12 |
 | 33 | [君と灯籠 \- feat\. Paul Blanco](https://open.spotify.com/track/1A4DV1iGX0J7RiYtCcZjJd) | [Ettone](https://open.spotify.com/artist/6ZTHPCopCfymbshRoFgBWG), [ALYSA](https://open.spotify.com/artist/6K3Qe8W5ROhN5cdmaT2f6E), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [お見知りおき](https://open.spotify.com/album/3ei7JgsvPTBWHBzyA8hnE5) | 3:25 |
 | 34 | [LESSONS](https://open.spotify.com/track/2Rega85phs6nSGS69PD9Mn) | [Roka](https://open.spotify.com/artist/0GNjQ4UsF0AJiksilivETU), [Co\-3oly](https://open.spotify.com/artist/00NhyclhfFsk8yhzXy6rjS) | [LESSONS](https://open.spotify.com/album/53uxON8fwuY58IUb2ebuO4) | 2:46 |
-| 35 | [Track 1](https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Low Tide](https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc) | 0:00 |
+| 35 | [Blue Ocean](https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Low Tide](https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc) | 3:36 |
 | 36 | [ghost](https://open.spotify.com/track/5WNtFDwIEtERupcwKNtkGf) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [ghost](https://open.spotify.com/album/7aMrWWka6UV78xixmf0wFp) | 4:14 |
 | 37 | [Slow Parade](https://open.spotify.com/track/1vAzmDpjrwgXvPr6LiVE3L) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [Slow Parade](https://open.spotify.com/album/4VwMNiYXhax9fQBPzPqpfp) | 4:08 |
 | 38 | [Romeo & Juliet+](https://open.spotify.com/track/2gCT0oVxtD3NHZrnyzEojK) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [Juliet](https://open.spotify.com/album/1oYijhhV9xfcN0hdqvCZ8p) | 3:20 |

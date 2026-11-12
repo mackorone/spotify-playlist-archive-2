@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37863,
+  "num_followers": 37865,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAD9EpZEqWtDPmdqbXVZAAK8",
+  "snapshot_id": "avENAAAAAAA1JWcdj/f6ZpPQEp1mCBqj",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        },
-        {
-          "name": "Tim Mcllrath",
-          "url": "https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw"
         }
       ],
-      "duration_ms": 246695,
-      "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
-      "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
     },
     {
       "added_at": null,
@@ -535,18 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        },
+        {
+          "name": "Tim Mcllrath",
+          "url": "https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw"
         }
       ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+      "duration_ms": 246695,
+      "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
+      "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
     },
     {
       "added_at": null,

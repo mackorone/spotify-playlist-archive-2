@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: GeezyDee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,212 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,228 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 20 | [POLOS OPUESTOS REMIX \- BLESSD VERSION](https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [POLOS OPUESTOS REMIX \(BLESSD VERSION\)](https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN) | 3:36 |
 | 21 | [CRV](https://open.spotify.com/track/7rlSLTOwuIzhfMdADN0Wnq) | [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [CRV](https://open.spotify.com/album/2XzXHGb0wJLQ7h4FWz7Hqv) | 2:33 |
 | 22 | [YOGURCITO](https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:03 |
-| 23 | [Ultra Complicado \(feat\. Sebas\) \- Remix](https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado \(feat\. Sebas\) \[Remix\]](https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh) | 4:17 |
+| 23 | [Ultra Complicado \(feat\. Sebas\) \- Remix](https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [BEATS PER MINUTES](https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado \(feat\. Sebas\) \[Remix\]](https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh) | 4:17 |
 | 24 | [Todo o Nada](https://open.spotify.com/track/2zdHRQTOBDk8mM8xBzziFh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:39 |
 | 25 | [Robert De Niro](https://open.spotify.com/track/2cFV7E7usaHkkELp07KBXG) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [Robert De Niro](https://open.spotify.com/album/5Vy7Z5pt8Wi60eClyLCCWu) | 2:13 |
 | 26 | [Bruz Wein](https://open.spotify.com/track/6R8x5GgwZtTfpZ4neKMzHR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 2:43 |

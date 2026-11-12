@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Corduroy County
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Viv May
 
-1,763 songs - 4 day 1 hr 37 min
+1,766 songs - 4 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [7 Tage](https://open.spotify.com/track/7F63YlipDAEFyCOblvc7gC) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [7 Tage](https://open.spotify.com/album/6GKVqlZ5ND3BIjzIgEblPB) | 4:44 | 2022-02-16 | 2022-07-07 |
 | [8 PM](https://open.spotify.com/track/791QbSKeaIGJNSN29rHw4U) | [VAVUNETTHA](https://open.spotify.com/artist/6evSYxDlR6ecNHJBdMvVHp) | [8 PM](https://open.spotify.com/album/6AilU1Qq49izAuxm2kjZqo) | 2:53 | 2026-03-18 | 2026-06-18 |
 | [a hundred times](https://open.spotify.com/track/7HV4c3hlmGtlOoNTsKjELM) | [NOTI](https://open.spotify.com/artist/5RKuU6EHOrsoO9l32WfB85), [Amoa](https://open.spotify.com/artist/6DUqSUK6hCQtkd6pee8xwp) | [a hundred times](https://open.spotify.com/album/6fCpFY50GPJlIGEbm2LDIy) | 3:03 | 2022-04-13 | 2022-06-01 |
+| [a letter](https://open.spotify.com/track/2aNRtZJPgh5OXOrdUaxV7y) | [Viv May](https://open.spotify.com/artist/26EkHW753VIDQtzesad9rK) | [a letter](https://open.spotify.com/album/74WIisxDuou2Roaip665nw) | 2:41 | 2026-11-11 |  |
 | [A Little Lost](https://open.spotify.com/track/0X1vcEkmxMvFUS8xfmy4GL) | [Lisl](https://open.spotify.com/artist/0QXKsLAV538XweY58uHBeL) | [A Little Lost](https://open.spotify.com/album/0K3CEmVS8625R46OBy1yxy) | 3:54 | 2024-02-21 | 2025-01-10 |
 | [A Piece Of My Heart](https://open.spotify.com/track/64pomjhTqMjNFILGkPkC3N) | [This Time For Real](https://open.spotify.com/artist/47z3NRyycHK5OIsYmZ5dYr) | [A Piece Of My Heart](https://open.spotify.com/album/1Es5aAg6gC4kUTl2Z2iXkp) | 3:32 | 2025-02-12 | 2025-06-13 |
 | [A Song for Him](https://open.spotify.com/track/3RUT8oJs3Z4hCDZyxNwve2) | [Romc](https://open.spotify.com/artist/2iDd6lIkbYVEtfYuA2cU5G) | [Crossroads](https://open.spotify.com/album/476Lb1fetsGUNYDb5pqBGx) | 4:14 | 2022-05-11 | 2022-07-28 |
@@ -460,7 +461,7 @@
 | [einseinsnull](https://open.spotify.com/track/7gay9GtAm69tSMMHMMyeKL) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Vrancis](https://open.spotify.com/artist/00Ss09wmZPODis2cTXBNSI) | [einseinsnull](https://open.spotify.com/album/1jePvXPyUdgk8e2eda9bWY) | 3:13 | 2024-10-02 | 2025-01-10 |
 | [Eis](https://open.spotify.com/track/6BdWzzvdEYfFYwngo1vsHq) | [Bastik](https://open.spotify.com/artist/3QHkNmUFDucSq7w4OnX8aY) | [Eis](https://open.spotify.com/album/6G3JhXM9SJYvB1v22RfIJl) | 4:08 | 2023-01-25 | 2023-05-04 |
 | [Eis im Glas](https://open.spotify.com/track/6dtOCLEUwgvCBobCg1IQSq) | [Schatzi](https://open.spotify.com/artist/43dTmw89IyFkS4vuDA2Vvf) | [Eis im Glas](https://open.spotify.com/album/061bibzI8poOjYHkjk11sv) | 2:50 | 2022-01-05 | 2022-02-03 |
-| [Eisberg](https://open.spotify.com/track/5TbmTc17QFCW4cvEAh71ZB) | [NAOS](https://open.spotify.com/artist/24EdzJxY26QUxBcNi1wwNP) | [Versagensangst/Eisberg](https://open.spotify.com/album/15IR80wgsj7hRt5DUsnUDb) | 2:16 | 2026-09-09 |  |
+| [Eisberg](https://open.spotify.com/track/5TbmTc17QFCW4cvEAh71ZB) | [NAOS](https://open.spotify.com/artist/24EdzJxY26QUxBcNi1wwNP) | [Versagensangst/Eisberg](https://open.spotify.com/album/15IR80wgsj7hRt5DUsnUDb) | 2:16 | 2026-09-09 | 2026-11-12 |
 | [Eisen](https://open.spotify.com/track/2S5EaTjKDKfjvFxAStd1yq) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T), [SOMA](https://open.spotify.com/artist/3v8hKjW4vtSYSsvsVV2JMq) | [Eisen](https://open.spotify.com/album/4r2yvJRoxD0xriyKopgvgU) | 3:05 | 2023-10-18 | 2024-02-08 |
 | [eistee](https://open.spotify.com/track/44asUX16487NOrnGNM38NK) | [The Jonic](https://open.spotify.com/artist/3izYpw32einCYt01HWarD7) | [eistee](https://open.spotify.com/album/26vtkAaXl1vOoJyVJNAKqI) | 3:11 | 2022-02-16 | 2022-06-23 |
 | [Electrical](https://open.spotify.com/track/2ObiO1VrgnR0SoYJ0r3B8c) | [Midnight Sessions](https://open.spotify.com/artist/523vkuF0QkA2jUgBQjNTMl) | [Electrical](https://open.spotify.com/album/0Nf3LG8UZ0Ko9rZo0DxiDz) | 6:15 | 2025-06-12 | 2025-12-04 |
@@ -1160,6 +1161,7 @@
 | [Out of my head, Out of my league](https://open.spotify.com/track/3BSLhsX7WjAa3034hL85FK) | [Lone Aires](https://open.spotify.com/artist/2FEOMYlsXOwVMtYfQWsXgM) | [Out of my head, Out of my league](https://open.spotify.com/album/3SKgkTDHzhsesTJoBuUHsc) | 2:48 | 2022-10-26 | 2023-02-09 |
 | [over and out](https://open.spotify.com/track/3Ce4r6DdbtD3rD3j8Q34wI) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [over and out](https://open.spotify.com/album/04qpnbMYmNAg2QF2nzfNkf) | 3:01 | 2025-09-24 | 2025-11-06 |
 | [Over And Over Again](https://open.spotify.com/track/1r0KKV2i7fw7pkHNCMaews) | [Jeansboy](https://open.spotify.com/artist/2nYe3KXA5KldRLU6Zak0hw), [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Secret Blue Jeans Society](https://open.spotify.com/album/0dibS5iN58ZLKDCzpx7U0B) | 2:37 | 2024-02-14 | 2024-03-21 |
+| [Over It](https://open.spotify.com/track/0R7WrKRRA6NPgdUznhMmrN) | [Sonya](https://open.spotify.com/artist/4YOZK4SHcVKTlDSXvUbBiI) | [Over It](https://open.spotify.com/album/0y6G2bdQ8xMfG6HXyVSh46) | 2:34 | 2026-11-11 |  |
 | [Overflow](https://open.spotify.com/track/7ldGJUq6cUAAk3SMamUgoR) | [Namaka](https://open.spotify.com/artist/0SdHkxit1Wk6CVE4T9Wjdj) | [Overflow](https://open.spotify.com/album/4zNREje19PtqpXKxuAxiCd) | 3:54 | 2025-05-21 | 2025-07-03 |
 | [OVVERNIGHT](https://open.spotify.com/track/3X9RmGEnwmY2w0KOZ22B12) | [Pan Kee\-Bois](https://open.spotify.com/artist/5r7pF6VigZTHyFy5czZKlT) | [OVVERNIGHT](https://open.spotify.com/album/1nYuh5g2D61AC6wWbYXN0e) | 2:24 | 2022-03-16 | 2022-04-09 |
 | [Pacemaker](https://open.spotify.com/track/4is1qAjhTeOD4bKV0aZ304) | [Richie Setford](https://open.spotify.com/artist/0zltAdfMFjhIwz78Ttv7if) | [Pacemaker](https://open.spotify.com/album/4wcNpVpkjNkboOYpFxXM3C) | 3:53 | 2022-08-17 | 2022-09-15 |
@@ -1406,7 +1408,7 @@
 | [Sommernachtstraum](https://open.spotify.com/track/7E5tLqlKWuadSHjkVbdaBI) | [CLÅRA](https://open.spotify.com/artist/47r6hN3XzIyOTzlXEE6vBs) | [Sommernachtstraum](https://open.spotify.com/album/3AKgbWEiNM2fq4IEyND14u) | 3:29 | 2024-05-29 | 2024-07-17 |
 | [Sommerregen](https://open.spotify.com/track/1TrNemgJfDWJd5vHdRuq8B) | [Faire La Paix](https://open.spotify.com/artist/3sTsXWdQHqK1rv5O4hurhZ) | [Sommerregen](https://open.spotify.com/album/6DopqfIX2gYDVtrCeFB75P) | 3:44 | 2026-09-23 |  |
 | [Sommerregen](https://open.spotify.com/track/3hmHc8LawSwTMSsBM1qzNx) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/6mZGBF22u5vvze5sEXvrXn) | 2:34 | 2024-05-29 | 2024-11-14 |
-| [Sommersemester](https://open.spotify.com/track/0F5EohvdxjOjzjdqfsU9t4) | [MIDAN](https://open.spotify.com/artist/42YC0yEUykvWFP5biYW4zI), [MICHI](https://open.spotify.com/artist/11F4ZO6fZDv8H4UAH9V4zf) | [Sommersemester](https://open.spotify.com/album/1irTeqVBOg0704NEEDTPHl) | 2:07 | 2026-08-19 |  |
+| [Sommersemester](https://open.spotify.com/track/0F5EohvdxjOjzjdqfsU9t4) | [MIDAN](https://open.spotify.com/artist/42YC0yEUykvWFP5biYW4zI), [MICHI](https://open.spotify.com/artist/11F4ZO6fZDv8H4UAH9V4zf) | [Sommersemester](https://open.spotify.com/album/1irTeqVBOg0704NEEDTPHl) | 2:07 | 2026-08-19 | 2026-11-12 |
 | [Sonne](https://open.spotify.com/track/7KbfjdioCBl72AMCxqJ86l) | [Kerker](https://open.spotify.com/artist/1WJcvUFwnFVqBLZqbrmd94) | [Sonne](https://open.spotify.com/album/3v7Vdy4qx5ZfBCt02iJL4q) | 3:28 | 2023-09-20 | 2023-10-19 |
 | [Sonne Nervt](https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab) | [monty & robin](https://open.spotify.com/artist/69C6sc7ZESVdDTjMmauEQS) | [Sonne Nervt](https://open.spotify.com/album/5XZc8XeNSgXQxCs9FN79Kj) | 2:18 | 2024-03-13 | 2024-09-12 |
 | [Sonnenkind](https://open.spotify.com/track/0YkiKdx7PIRjZbxaJHgw2x) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Sonnenkind](https://open.spotify.com/album/13gmkbNva8ZJtvxQQFXCgF) | 2:47 | 2024-05-08 | 2024-08-01 |
@@ -1525,6 +1527,7 @@
 | [The Music that You Play](https://open.spotify.com/track/4WXonPwFzmd0liy8V5iCRG) | [Yellow Mellow](https://open.spotify.com/artist/7InT1doFVlpeQXA4qQMeVv) | [The Music that You Play](https://open.spotify.com/album/40IXS9cdi98PX2zYpI5n2R) | 3:54 | 2023-01-04 | 2023-02-16 |
 | [The Night is Cold](https://open.spotify.com/track/4bj3dvSEk74yp69Mm99Mlx) | [Alicia Shaneen](https://open.spotify.com/artist/2JFEImNoVBgptVErjqWJk3) | [The Night is Cold](https://open.spotify.com/album/5NGD3Wk6F8EnYjGCaBLptx) | 3:25 | 2024-04-24 | 2024-10-24 |
 | [THE PASSION](https://open.spotify.com/track/1Pu8ym1hrE5WGVkeM4wfp6) | [PLAGIAT](https://open.spotify.com/artist/18ciiDDoAldBiU7BJKdFVv) | [THE PASSION](https://open.spotify.com/album/3NH5Pa5Zkb675eYomZueeu) | 4:18 | 2024-04-03 | 2024-05-16 |
+| [The Star/ Hope](https://open.spotify.com/track/6rD8xALFLNuKnRcAaQmgvL) | [Anna Grob](https://open.spotify.com/artist/3g42bTWoe3BPmk2bXeUN4Q) | [The Star/ Hope](https://open.spotify.com/album/1SDcr3bbREAd414awh0EYL) | 5:02 | 2026-11-11 |  |
 | [The Summer We Need \- Single Version](https://open.spotify.com/track/0Yl9dhAeeshhjNfEPTllHz) | [Oskar Haag](https://open.spotify.com/artist/49vARgKsuzb4s19CB3hpOj) | [The Summer We Need](https://open.spotify.com/album/4e0i5Mw54VqLD3Lu5f2KqJ) | 3:26 | 2022-07-13 | 2022-08-11 |
 | [The Summoning](https://open.spotify.com/track/1qwlwitlRjlVNbCaNgnWPe) | [Church of Ajijik](https://open.spotify.com/artist/1Sqaov812NwaZylFMpXnPa) | [The Summoning](https://open.spotify.com/album/1WBOHvC6fDc5UJDPhmwzUg) | 6:38 | 2025-01-09 | 2025-07-17 |
 | [The Sunlight](https://open.spotify.com/track/6XWWfVPoAUrbz6Afcnbi0e) | [Fray Parks](https://open.spotify.com/artist/4JU91SJy2nUWXdcMTEbjNy) | [The Sunlight](https://open.spotify.com/album/0Ms9fbsIBQgAgnGxOdQnnZ) | 3:49 | 2026-02-18 | 2026-08-20 |
@@ -1605,7 +1608,7 @@
 | [Unsaid](https://open.spotify.com/track/1hcclZ8pSg2yYlQc6XqoMT) | [Fabian Kuhn](https://open.spotify.com/artist/3lBb4DsNd7uLyDrKk0XGbL) | [Unsaid](https://open.spotify.com/album/6nRaAuElEpQIiRTKwTTVmR) | 4:09 | 2023-08-02 | 2023-09-28 |
 | [Unser Body unser Mood](https://open.spotify.com/track/7w6zle0evEcaQeMuHmLLPH) | [Mino Riot](https://open.spotify.com/artist/7CSXGYRbp0XJdHHByZwlzB) | [Unser Body unser Mood](https://open.spotify.com/album/76tiFb0yys6HW93aiJKRWC) | 2:53 | 2022-08-03 | 2022-08-11 |
 | [Unspoken](https://open.spotify.com/track/2291k2jz6SgTwe6WLZ85fx) | [VØR](https://open.spotify.com/artist/02gkdTPcKnn6BzYMqAsJsT) | [Unspoken](https://open.spotify.com/album/2eoOFXIlJqliP10nfbRw7n) | 3:02 | 2022-01-05 | 2022-01-27 |
-| [untergehen](https://open.spotify.com/track/0NPxB9YwQmWDAcehclgGaa) | [frits](https://open.spotify.com/artist/3Tns63IFvbFsAeUIi7Herf) | [untergehen](https://open.spotify.com/album/2peu0dxB12XluKiRcm2QAB) | 2:50 | 2026-10-14 |  |
+| [untergehen](https://open.spotify.com/track/0NPxB9YwQmWDAcehclgGaa) | [frits](https://open.spotify.com/artist/3Tns63IFvbFsAeUIi7Herf) | [untergehen](https://open.spotify.com/album/2peu0dxB12XluKiRcm2QAB) | 2:50 | 2026-10-14 | 2026-11-12 |
 | [Untertauchen](https://open.spotify.com/track/1slngzcMkVKQECgMRhKwpR) | [B4MBI](https://open.spotify.com/artist/1CwTeWTWP6NBXE8f9ojT2L) | [Untertauchen](https://open.spotify.com/album/52BhKXz4YToxO9zPPJXcAh) | 3:06 | 2025-09-24 | 2026-01-22 |
 | [Up & Down](https://open.spotify.com/track/3HGMq458kM7EqMATTj3hHC) | [Yeshi](https://open.spotify.com/artist/4n4EtEvCABdRWbhGtre2v9) | [Up & Down](https://open.spotify.com/album/4tfcu5MC02QiiC6qbdtmdE) | 3:03 | 2023-11-22 | 2024-03-14 |
 | [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-06-22 | 2022-07-29 |

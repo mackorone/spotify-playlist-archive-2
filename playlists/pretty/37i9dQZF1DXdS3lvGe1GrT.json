@@ -1,13 +1,45 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles",
-  "num_followers": 110871,
+  "num_followers": 110932,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAr9GBOsyEltNVFTumn1OcgZ4QEO",
+  "snapshot_id": "AAAAACbJuTRnNQM7rzOQEzJ6YEWUOn3W",
   "tracks": [
+    {
+      "added_at": "2026-11-11 15:07:14",
+      "album": {
+        "name": "All Being Well",
+        "url": "https://open.spotify.com/album/4rCAq5Z2CgdZaARxFMy4Nm"
+      },
+      "artists": [
+        {
+          "name": "Rail Replacement Bus Service",
+          "url": "https://open.spotify.com/artist/4ZXkyvifdU23wreGyKApl5"
+        }
+      ],
+      "duration_ms": 193585,
+      "name": "All Being Well",
+      "url": "https://open.spotify.com/track/3gp3H5DIkSbnBGIM0B57mJ"
+    },
+    {
+      "added_at": "2026-11-11 05:00:21",
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/3C8B4YhjTstroxHTiP8Vqq"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/2tGR2aOhVgEhB6JF7W3p8h"
+    },
     {
       "added_at": "2026-11-11 05:00:21",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/4HjKS8X1aRas60t0Pcot8V"
     },
     {
+      "added_at": "2026-11-11 15:07:14",
+      "album": {
+        "name": "Roadside Assistance",
+        "url": "https://open.spotify.com/album/4Ec3Q0DXrIxzQjpKRvrxrd"
+      },
+      "artists": [
+        {
+          "name": "GracieHorse",
+          "url": "https://open.spotify.com/artist/1IskCzpFUBf8I0yFWkWWxO"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "Roadside Assistance",
+      "url": "https://open.spotify.com/track/3XjSSEoviTGwpkaoPf9Pte"
+    },
+    {
       "added_at": "2026-11-11 05:00:21",
       "album": {
         "name": "Better At This",
@@ -39,22 +87,6 @@
       "duration_ms": 188568,
       "name": "Better At This",
       "url": "https://open.spotify.com/track/2XADJ8LDe3V5qQqWz6OJuW"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/3C8B4YhjTstroxHTiP8Vqq"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 168210,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/2tGR2aOhVgEhB6JF7W3p8h"
     },
     {
       "added_at": "2026-11-11 05:00:21",
@@ -167,6 +199,38 @@
       "duration_ms": 273514,
       "name": "Old Home Video",
       "url": "https://open.spotify.com/track/4hnnrqWK2bfJX3onueVvFf"
+    },
+    {
+      "added_at": "2026-11-11 15:14:56",
+      "album": {
+        "name": "Fishing is not about fishing",
+        "url": "https://open.spotify.com/album/0ypNn2FN8PEXhYZy9aXahV"
+      },
+      "artists": [
+        {
+          "name": "Ruby Gill",
+          "url": "https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Carol / not carol",
+      "url": "https://open.spotify.com/track/5JTH4oS1EJdFtJ6LaOTaIF"
+    },
+    {
+      "added_at": "2026-11-11 15:07:14",
+      "album": {
+        "name": "Milly Strange",
+        "url": "https://open.spotify.com/album/5XVJJmJ25rra49m0B02dWz"
+      },
+      "artists": [
+        {
+          "name": "Milly Strange",
+          "url": "https://open.spotify.com/artist/2f6ZSXiF455F4JQDFodycd"
+        }
+      ],
+      "duration_ms": 213284,
+      "name": "Don't Call My Name",
+      "url": "https://open.spotify.com/track/6hnSOLYceB5yjPOFu0YJLG"
     },
     {
       "added_at": "2026-11-11 05:00:21",
@@ -959,22 +1023,6 @@
     {
       "added_at": "2026-11-11 05:00:21",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5wEEwsFlsZkL2jZ1pZaOZB"
-      },
-      "artists": [
-        {
-          "name": "Sam Nicholson",
-          "url": "https://open.spotify.com/artist/6eQTaqo4g4YbBNGGLCjgWD"
-        }
-      ],
-      "duration_ms": 247016,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/5w01mOyQ0X3ojYD5dPhq7w"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
         "name": "do it all again",
         "url": "https://open.spotify.com/album/0x4Uxhe0ECVjGhVCw499M0"
       },
@@ -1171,54 +1219,6 @@
       "duration_ms": 147000,
       "name": "janie!",
       "url": "https://open.spotify.com/track/2TKDwjdp5oLah1otwcctNY"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Angel So Bad",
-        "url": "https://open.spotify.com/album/60s33QYtxHcdogg8JJjIFH"
-      },
-      "artists": [
-        {
-          "name": "True Mountain Laurel",
-          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
-        }
-      ],
-      "duration_ms": 172944,
-      "name": "Angel So Bad",
-      "url": "https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Florida Water Blues",
-        "url": "https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 224420,
-      "name": "Florida Water Blues",
-      "url": "https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "The Dog",
-        "url": "https://open.spotify.com/album/2DJ8bsKENysB7M5hfzHDDQ"
-      },
-      "artists": [
-        {
-          "name": "Alaina May",
-          "url": "https://open.spotify.com/artist/2ajMOVSXSjHyFhSnzBKBTb"
-        }
-      ],
-      "duration_ms": 213526,
-      "name": "The Dog",
-      "url": "https://open.spotify.com/track/5WPw1FoA2S5ivwlNJ5rDo6"
     }
   ],
   "unique_name": "Fresh Finds Folk",

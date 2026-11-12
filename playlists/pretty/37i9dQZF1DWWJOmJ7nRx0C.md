@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,384 likes - 101 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,374 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 40 | [Glowing Buzz](https://open.spotify.com/track/0xuXdd6ZbkK678e3DohQAP) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Precious](https://open.spotify.com/album/4qzGA7IumMUT0t33JtebFB) | 2:54 |
 | 41 | [U R \(feat\. Ziggy Marley\)](https://open.spotify.com/track/2QdV9yVbuWVsDl523kTBzu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [The Madden Brothers](https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM) | [U R \(feat\. Ziggy Marley\)](https://open.spotify.com/album/0o6BaoGVYSBHoYQmtk5JMV) | 3:55 |
 | 42 | [Mourning](https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Mourning](https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o) | 4:16 |
-| 43 | [GOING UNDER](https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [GOING UNDER](https://open.spotify.com/album/54tWIX2hWrWrPkRd8ko6K2) | 3:09 |
+| 43 | [GOING UNDER \(with Paledusk\)](https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [GOING UNDER \(with Paledusk\)](https://open.spotify.com/album/54tWIX2hWrWrPkRd8ko6K2) | 3:09 |
 | 44 | [Make It Out](https://open.spotify.com/track/4AheSnVw03Gilc49ArDskT) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [A Fate Worse Than Loneliness](https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM) | 3:29 |
 | 45 | [F.A.M.O.U.S](https://open.spotify.com/track/4cLzHSqYaxcw8qVFV2xlGY) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [F.A.M.O.U.S](https://open.spotify.com/album/0vVoKZmi97XxytJghdjvHF) | 3:20 |
 | 46 | [Headlights](https://open.spotify.com/track/7G2u32iWqPhkg2u1z4WCZP) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Headlights](https://open.spotify.com/album/4THWniSbWSlVrQbV37XhGQ) | 2:49 |

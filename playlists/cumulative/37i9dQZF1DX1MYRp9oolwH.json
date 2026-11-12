@@ -4619,6 +4619,32 @@
     },
     {
       "album": {
+        "name": "Scene (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1SV9brjeNCqQudljTQVBFS"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sindhuja Tanuku",
+          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
+        },
+        {
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Kalane Pilichi",
+      "url": "https://open.spotify.com/track/4evIkpJGnmUtKFKXQJQzT2"
+    },
+    {
+      "album": {
         "name": "Calling Sahasra",
         "url": "https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je"
       },

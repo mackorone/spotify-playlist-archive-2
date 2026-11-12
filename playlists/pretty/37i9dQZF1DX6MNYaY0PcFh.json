@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Interplanetary Criminal",
-  "num_followers": 110863,
+  "num_followers": 110907,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-10-22 23:00:52",
       "album": {
+        "name": "Solar Sea",
+        "url": "https://open.spotify.com/album/34vo6aYqyItPIUHNMp65iQ"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "Solar Sea",
+      "url": "https://open.spotify.com/track/1IzjaYTVY1Fm0vmiYabxkQ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:52",
+      "album": {
         "name": "hold tight",
         "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 148645,
       "name": "hold tight",
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
-    },
-    {
-      "added_at": "2026-10-22 23:00:52",
-      "album": {
-        "name": "Solar Sea",
-        "url": "https://open.spotify.com/album/34vo6aYqyItPIUHNMp65iQ"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "Solar Sea",
-      "url": "https://open.spotify.com/track/1IzjaYTVY1Fm0vmiYabxkQ"
     },
     {
       "added_at": "2026-10-22 23:00:52",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-10-22 23:00:52",
       "album": {
-        "name": "Jump Higher",
-        "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Jump Higher",
-      "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
-    },
-    {
-      "added_at": "2026-10-22 23:00:52",
-      "album": {
         "name": "Needed You",
         "url": "https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp"
       },
@@ -771,22 +751,22 @@
     {
       "added_at": "2026-10-22 23:00:52",
       "album": {
-        "name": "Empty Eyes",
-        "url": "https://open.spotify.com/album/3F8ITp8qdcmfnwduX3hBge"
+        "name": "Jump Higher",
+        "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
       },
       "artists": [
         {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         },
         {
-          "name": "Milion",
-          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
         }
       ],
-      "duration_ms": 188830,
-      "name": "Empty Eyes",
-      "url": "https://open.spotify.com/track/0dURBqJ57Tpd0919VKRltm"
+      "duration_ms": 176842,
+      "name": "Jump Higher",
+      "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
     },
     {
       "added_at": "2026-10-22 23:00:52",
@@ -807,6 +787,26 @@
       "duration_ms": 154500,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX"
+    },
+    {
+      "added_at": "2026-10-22 23:00:52",
+      "album": {
+        "name": "Empty Eyes",
+        "url": "https://open.spotify.com/album/3F8ITp8qdcmfnwduX3hBge"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        },
+        {
+          "name": "Milion",
+          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+        }
+      ],
+      "duration_ms": 188830,
+      "name": "Empty Eyes",
+      "url": "https://open.spotify.com/track/0dURBqJ57Tpd0919VKRltm"
     },
     {
       "added_at": "2026-10-22 23:00:52",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-10-22 23:00:52",
       "album": {
-        "name": "Just The Way You Are (Remixes Part Two)",
-        "url": "https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "Paige Tomlinson",
-          "url": "https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66"
-        }
-      ],
-      "duration_ms": 176749,
-      "name": "Just The Way You Are - Paige Tomlinson Remix",
-      "url": "https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5"
-    },
-    {
-      "added_at": "2026-10-22 23:00:52",
-      "album": {
         "name": "Twizted",
         "url": "https://open.spotify.com/album/6trB3dbxRummr0pcx1dUpz"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 284444,
       "name": "Twizted",
       "url": "https://open.spotify.com/track/4hZ17ryjXAq6OjpoH3CSke"
+    },
+    {
+      "added_at": "2026-10-22 23:00:52",
+      "album": {
+        "name": "Just The Way You Are (Remixes Part Two)",
+        "url": "https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Paige Tomlinson",
+          "url": "https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66"
+        }
+      ],
+      "duration_ms": 176749,
+      "name": "Just The Way You Are - Paige Tomlinson Remix",
+      "url": "https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5"
     },
     {
       "added_at": "2026-10-22 23:00:52",

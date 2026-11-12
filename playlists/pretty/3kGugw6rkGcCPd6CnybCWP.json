@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1157,
+  "num_followers": 1158,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQSEHk54yWgkxRjBGUkAZau8QvRR33",
+  "snapshot_id": "AAAQUVl0GswSwIFz9E1tMjJkVAbXLHrB",
   "tracks": [
     {
       "added_at": "2026-07-23 12:25:41",
@@ -1619,6 +1619,150 @@
       "duration_ms": 201808,
       "name": "In The Red",
       "url": "https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF"
+    },
+    {
+      "added_at": "2026-11-11 15:13:50",
+      "album": {
+        "name": "DYI (Dance Yourself Insane)",
+        "url": "https://open.spotify.com/album/6edDNnOqnIzc6Q9HkYW4WK"
+      },
+      "artists": [
+        {
+          "name": "Sundozer",
+          "url": "https://open.spotify.com/artist/2AOmKCq6cV9yD17FjCYgxW"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "DYI (Dance Yourself Insane)",
+      "url": "https://open.spotify.com/track/5A9lSpEGiDJKXCJDSlV9HY"
+    },
+    {
+      "added_at": "2026-11-11 15:14:01",
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/4qcmDct2QKqr3K3WAoP1zJ"
+      },
+      "artists": [
+        {
+          "name": "Finde Fantasma",
+          "url": "https://open.spotify.com/artist/0Ll82dHz6oTK1LemBg570g"
+        }
+      ],
+      "duration_ms": 191263,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/7AoEGQ8n8E6nREvgzM8aiY"
+    },
+    {
+      "added_at": "2026-11-11 15:14:12",
+      "album": {
+        "name": "Anew World",
+        "url": "https://open.spotify.com/album/4BYZDu0aBkniTzTgqv9BJq"
+      },
+      "artists": [
+        {
+          "name": "Sunny Daydream",
+          "url": "https://open.spotify.com/artist/0siuz8jBpMOgcEu202EZHu"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Anew World",
+      "url": "https://open.spotify.com/track/5OJIY6qrBaeWqwEWovguv6"
+    },
+    {
+      "added_at": "2026-11-11 15:14:23",
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3"
+      },
+      "artists": [
+        {
+          "name": "Pale State",
+          "url": "https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA"
+        }
+      ],
+      "duration_ms": 240245,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF"
+    },
+    {
+      "added_at": "2026-11-11 20:54:09",
+      "album": {
+        "name": "The Cost of Loving",
+        "url": "https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "duration_ms": 187682,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4LT9snGF4EdfDCw5F1zkxZ"
+    },
+    {
+      "added_at": "2026-11-11 20:56:09",
+      "album": {
+        "name": "Pool Of Blue",
+        "url": "https://open.spotify.com/album/54STGrj30J1Qt0x8oUny6O"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kosterman",
+          "url": "https://open.spotify.com/artist/1VAdxgSgTeKEZ5pZY3EHpw"
+        }
+      ],
+      "duration_ms": 179649,
+      "name": "Pool Of Blue",
+      "url": "https://open.spotify.com/track/4fmQkcg6mwsmjrPvXwKuL3"
+    },
+    {
+      "added_at": "2026-11-11 20:56:30",
+      "album": {
+        "name": "Pink Lady",
+        "url": "https://open.spotify.com/album/2HZ7UWFGI1eSU5TLlYzln5"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kosterman",
+          "url": "https://open.spotify.com/artist/1VAdxgSgTeKEZ5pZY3EHpw"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Pink Lady",
+      "url": "https://open.spotify.com/track/3qlOS0epFb3BeMunquhT5f"
+    },
+    {
+      "added_at": "2026-11-11 20:56:41",
+      "album": {
+        "name": "Dancing In My Mind",
+        "url": "https://open.spotify.com/album/1u0BMhgwFa6Nhtn0EfmHoG"
+      },
+      "artists": [
+        {
+          "name": "Just Passing Through",
+          "url": "https://open.spotify.com/artist/5RQczrs9bNSuwSgwACYNm6"
+        }
+      ],
+      "duration_ms": 188086,
+      "name": "Dancing In My Mind",
+      "url": "https://open.spotify.com/track/5akaXPb2Mkf5fhpNCGflZE"
+    },
+    {
+      "added_at": "2026-11-11 23:34:43",
+      "album": {
+        "name": "Tussen de Rode Lijnen",
+        "url": "https://open.spotify.com/album/18jkEgxt7VYs5bHxvBHP5i"
+      },
+      "artists": [
+        {
+          "name": "HAITZE",
+          "url": "https://open.spotify.com/artist/6xWBsH2UxwLqHi5eftzdZ1"
+        }
+      ],
+      "duration_ms": 176085,
+      "name": "Tussen de Rode Lijnen",
+      "url": "https://open.spotify.com/track/0hQKCD6PH7umQiEdgG4xfu"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

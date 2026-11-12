@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【セットリスト公開】2026年10月10日（土）に大阪・GORILLA HALL OSAKA、11月3日（火・祝）に東京・Zepp Shinjukuで開催された『POP YOURS presents Golden Age Tour』セットリストをプレイリストで振り返ろう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,837 likes - 54 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,828 likes - 54 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

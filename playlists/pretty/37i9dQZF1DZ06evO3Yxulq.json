@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41999,
+  "num_followers": 41998,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAD4F4B1VY71ZRonhv4ZkcHb",
+  "snapshot_id": "avENAAAAAAAdZFRJLtGUWH9BSvoxXKiF",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Operaci\u00f3n Mundial",
-        "url": "https://open.spotify.com/album/4cUzqa9eajPeshJ1LqZA6S"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "El Nombre De Jes\u00fas",
-      "url": "https://open.spotify.com/track/3TV8XC0r6VPHSBLdR1Fi2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No yo, sino Cristo",
         "url": "https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 368020,
       "name": "T\u00fa proveer\u00e1s",
       "url": "https://open.spotify.com/track/1cHWLRYT4e9Y3OCBKcUalY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Operaci\u00f3n Mundial",
+        "url": "https://open.spotify.com/album/4cUzqa9eajPeshJ1LqZA6S"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "El Nombre De Jes\u00fas",
+      "url": "https://open.spotify.com/track/3TV8XC0r6VPHSBLdR1Fi2v"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande y Fiel (Live)",
-        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 335528,
-      "name": "El Shaddai - Live",
-      "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No One Like The Lord/Nadie Como El Se\u00f1or (Live)",
         "url": "https://open.spotify.com/album/6YdYTtyFK5MlfzPv849u5Z"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 468466,
       "name": "No One Like The Lord/Nadie Como El Se\u00f1or - Live",
       "url": "https://open.spotify.com/track/4fzC4XMxdP5prBebf3mjSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 335528,
+      "name": "El Shaddai - Live",
+      "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
-        }
-      ],
-      "duration_ms": 344549,
-      "name": "Me Amaste a M\u00ed",
-      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 339673,
       "name": "Incontrolable Amor",
       "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        }
+      ],
+      "duration_ms": 344549,
+      "name": "Me Amaste a M\u00ed",
+      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
+      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 267326,
       "name": "Ruge",
       "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 458993,
-      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
-      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
     },
     {
       "added_at": null,

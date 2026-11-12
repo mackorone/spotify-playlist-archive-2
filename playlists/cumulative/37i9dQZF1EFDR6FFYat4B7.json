@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Cold Blooded (Demo) [from the Netflix Series \"Nobody Wants This\" Season 3]",
+        "url": "https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "Cold Blooded (Demo) - from the Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv"
+    },
+    {
+      "album": {
         "name": "Would You Still Love Me If You Really Knew Me?",
         "url": "https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI"
       },
@@ -1356,6 +1374,28 @@
     {
       "album": {
         "name": "Sugar",
+        "url": "https://open.spotify.com/album/19mBzQlFqypwPCCHxGX6Hr"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209202,
+      "name": "Headlights (feat. Ilsey)",
+      "url": "https://open.spotify.com/track/1qYWfQXGIjMTjxaucVnNFQ"
+    },
+    {
+      "album": {
+        "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
       "artists": [
@@ -1370,7 +1410,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 209208,
       "name": "Headlights (feat. Ilsey)",
       "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"

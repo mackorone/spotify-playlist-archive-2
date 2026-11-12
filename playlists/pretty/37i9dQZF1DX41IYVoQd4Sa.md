@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אביתר בנאי
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,686 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,691 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 19 | [עוקבים אחריך](https://open.spotify.com/track/2ngWDPF7GYexB8b4ESvfd5) | [WC](https://open.spotify.com/artist/0Fez3trTs4X7YXtw9fWOQj) | [עוקבים אחריך](https://open.spotify.com/album/0kipnXNqRmPVQBfwKKTpaS) | 4:20 |
 | 20 | [לחפש אותי באחרים](https://open.spotify.com/track/1OBxKOtmHgDatTgfIBtSX9) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [לחפש אותי באחרים](https://open.spotify.com/album/0IMENqjW5k2KS753plJObZ) | 3:05 |
 | 21 | [נעליים](https://open.spotify.com/track/3eDtxooWEmV8hldlr5tbH0) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe) | [נעליים](https://open.spotify.com/album/5i28sfMX9INpZOT1Il1iQl) | 3:02 |
-| 22 | [סולם האהבה](https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [סולם האהבה](https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0) | 4:16 |
+| 22 | [ג׳ין](https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:55 |
 | 23 | [PENNY LAME](https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [PENNY LAME](https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5) | 3:00 |
-| 24 | [ג׳ין](https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:55 |
+| 24 | [סולם האהבה](https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [סולם האהבה](https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0) | 4:16 |
 | 25 | [יומולדת](https://open.spotify.com/track/0GL9PoiDvHf1GDQuTIRg2X) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [יומולדת](https://open.spotify.com/album/5ZtFKRNP2g5xnlAc2xWaJs) | 2:51 |
 | 26 | [כל כך הרבה שנים איתך](https://open.spotify.com/track/3Bx8JwrEExocGPOL1cKx2V) | [Joseph E\-Shine](https://open.spotify.com/artist/7wKNVbqW4UXVDCeAqTyUU4) | [כל כך הרבה שנים איתך](https://open.spotify.com/album/4jqFzglFJcy3g40baXxbeC) | 5:21 |
-| 27 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 |
+| 27 | [ניגון עתיק](https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:24 |
 | 28 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
-| 29 | [ניגון עתיק](https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:24 |
+| 29 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 |
 | 30 | [חלמתי שאתה פה](https://open.spotify.com/track/7zpZ8m6qH0NJOgI4NmbtA1) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [חלמתי שאתה פה](https://open.spotify.com/album/4Dt8OsEPKwhPKhNdKTeLwT) | 2:50 |
 | 31 | [כישוף נגדי](https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj) | [כישוף נגדי](https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu) | 4:08 |
 | 32 | [בסיבוב](https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [בסיבוב](https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i) | 3:06 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 |
 | 42 | [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 |
 | 43 | [מחברת כאב](https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:14 |
-| 44 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
-| 45 | [אפשר לנשום](https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אפשר לנשום](https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH) | 2:57 |
+| 44 | [אפשר לנשום](https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אפשר לנשום](https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH) | 2:57 |
+| 45 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
 | 46 | [אם נותרנו נאהב](https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [אם נותרנו נאהב](https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC) | 3:33 |
 | 47 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
 | 48 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |

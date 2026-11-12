@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Et2NX.md) - [plain]
 | 49 | [Milkshake n' Honey](https://open.spotify.com/track/76HBSwLyjfhPDZbtxgYoHz) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 2:54 |
 | 50 | [Banned from the End of the World](https://open.spotify.com/track/5IQiaXm1uhVLRg40PfZLZj) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 2:08 |
 
-Snapshot ID: `au+7gAAAAAB3NWxE7mCytlIxuIe5BvSJ`
+Snapshot ID: `avENAAAAAADPQO0Xl1AHGjSkjGFYZXq/`

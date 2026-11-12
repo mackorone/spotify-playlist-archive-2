@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,914 likes - 155 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,953 likes - 155 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 154 | [Softness](https://open.spotify.com/track/11yy3szswtwpVgIiHbb2J1) | [Valea](https://open.spotify.com/artist/0L6a5oSrR4lhV7LgJwNIR2) | [Softness](https://open.spotify.com/album/0cg3EwS3X3p9UOuiXlIcAB) | 2:36 |
 | 155 | [Perfect Days](https://open.spotify.com/track/6MVDli0oEUcNToqCnqng9x) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [Perfect Days](https://open.spotify.com/album/6VDgQ2KL8UNW2EAzrMlVof) | 2:34 |
 
-Snapshot ID: `AAAAAGDU1ocx+laeRssB6Ekzkoqqyty2`
+Snapshot ID: `AAAAAHhYtJ9WkXX3DuOZtS0MgHIjm5hr`

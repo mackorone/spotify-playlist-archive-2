@@ -1,12 +1,12 @@
 {
   "description": "This is DESTIN CONRAD. The essential tracks, all in one playlist.",
-  "num_followers": 3643,
+  "num_followers": 3644,
   "original_name": "This Is DESTIN CONRAD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAADLxoP7VFCyeAL0KOuhFxgg",
+  "snapshot_id": "avENAAAAAABS1/mHs/n5VF5LB2DtULXi",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 167111,
-      "name": "HARD!",
-      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
+      "duration_ms": 100122,
+      "name": "LOVE!",
+      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 100122,
-      "name": "LOVE!",
-      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
+      "duration_ms": 167111,
+      "name": "HARD!",
+      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUBMISSIVE2",
-        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 118095,
-      "name": "LIFE BEEN LIFIN'",
-      "url": "https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU"
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+        "name": "SUBMISSIVE2",
+        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+      "duration_ms": 118095,
+      "name": "LIFE BEEN LIFIN'",
+      "url": "https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE LAST TIME",
-        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
       "artists": [
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 194823,
-      "name": "THE LAST TIME",
-      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
       "added_at": null,
@@ -787,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+        "name": "THE LAST TIME",
+        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
       },
       "artists": [
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+      "duration_ms": 194823,
+      "name": "THE LAST TIME",
+      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOSEBLEED",
-        "url": "https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 141415,
-      "name": "NOSEBLEED",
-      "url": "https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 225533,
       "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
       "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOSEBLEED",
+        "url": "https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 141415,
+      "name": "NOSEBLEED",
+      "url": "https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84"
     },
     {
       "added_at": null,

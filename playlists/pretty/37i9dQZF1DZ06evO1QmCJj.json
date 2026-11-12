@@ -1,6 +1,6 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48990,
+  "num_followers": 49001,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
@@ -363,30 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LAGRIMAS DE UN MALEANTE",
-        "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Las Chuches",
-          "url": "https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR"
-        }
-      ],
-      "duration_ms": 193067,
-      "name": "EL PANTALON - RUMBAS",
-      "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santer\u00eda",
         "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 184000,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LAGRIMAS DE UN MALEANTE",
+        "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Las Chuches",
+          "url": "https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR"
+        }
+      ],
+      "duration_ms": 193067,
+      "name": "EL PANTALON - RUMBAS",
+      "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
     },
     {
       "added_at": null,

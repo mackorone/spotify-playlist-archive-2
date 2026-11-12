@@ -6403,6 +6403,28 @@
     },
     {
       "album": {
+        "name": "FUNK POWER",
+        "url": "https://open.spotify.com/album/6tM2K7kWK6ak9kgPJMD7Ye"
+      },
+      "artists": [
+        {
+          "name": "yatashi",
+          "url": "https://open.spotify.com/artist/67ryefQ0PchXCPk6zx2yy4"
+        },
+        {
+          "name": "LLOYDS PH",
+          "url": "https://open.spotify.com/artist/7lJFKG2qmPHjfXt8zy6xkm"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105941,
+      "name": "FUNK POWER - Ultra Slowed",
+      "url": "https://open.spotify.com/track/50q6ojOkbr0IKpDrjoLBX7"
+    },
+    {
+      "album": {
         "name": "FUNK SERENO",
         "url": "https://open.spotify.com/album/5rtythciasHcvQhwf2ubxv"
       },
@@ -12156,7 +12178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 99692,
       "name": "NEXT!",
       "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
@@ -12638,7 +12660,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 100714,
       "name": "OLHA MENSAGEM",
       "url": "https://open.spotify.com/track/4bRgPiewooIntAQfPx4sCG"
@@ -14053,6 +14075,32 @@
     },
     {
       "album": {
+        "name": "RAMPAGE",
+        "url": "https://open.spotify.com/album/2iR1rWXH9iTQjYzooZPWXT"
+      },
+      "artists": [
+        {
+          "name": "ZMAJOR",
+          "url": "https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP"
+        },
+        {
+          "name": "Lurk",
+          "url": "https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN"
+        },
+        {
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102035,
+      "name": "RAMPAGE - SUPER SLOWED",
+      "url": "https://open.spotify.com/track/3zvRv47SN5BWA2yW1vSa9F"
+    },
+    {
+      "album": {
         "name": "RAPTURE",
         "url": "https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g"
       },
@@ -14552,7 +14600,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 99194,
       "name": "RITMO DE VERAO - SLOWED",
       "url": "https://open.spotify.com/track/344ilORk7mOQH1BbiufL9w"

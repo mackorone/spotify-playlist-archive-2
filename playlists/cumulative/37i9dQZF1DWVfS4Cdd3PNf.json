@@ -2701,40 +2701,6 @@
     },
     {
       "album": {
-        "name": "Donizetti: L'Elisir d'Amore (2 CDs)",
-        "url": "https://open.spotify.com/album/1knmiJCcDVovnjyo1dY2qz"
-      },
-      "artists": [
-        {
-          "name": "Gaetano Donizetti",
-          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Dame Joan Sutherland",
-          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2017-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 398750,
-      "name": "L'elisir d'amore / Act 2: \"Una furtiva lagrima...Eccola!\"",
-      "url": "https://open.spotify.com/track/16YfaD63RVPaKesYdFEZVn"
-    },
-    {
-      "album": {
         "name": "Donizetti: L'Elisir d'Amore",
         "url": "https://open.spotify.com/album/2Kk7UPCVSqtXh815i9ngqQ"
       },
@@ -2766,6 +2732,40 @@
       "duration_ms": 400506,
       "name": "L'elisir d'amore / Act 2: \"Una furtiva lagrima...Eccola!\"",
       "url": "https://open.spotify.com/track/1aedGJcS0OmGSzzO5iskIV"
+    },
+    {
+      "album": {
+        "name": "Donizetti: L'Elisir d'Amore (2 CDs)",
+        "url": "https://open.spotify.com/album/1knmiJCcDVovnjyo1dY2qz"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2017-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398750,
+      "name": "L'elisir d'amore / Act 2: \"Una furtiva lagrima...Eccola!\"",
+      "url": "https://open.spotify.com/track/16YfaD63RVPaKesYdFEZVn"
     },
     {
       "album": {
@@ -3286,7 +3286,7 @@
           "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
         },
         {
-          "name": "Dame Joan Sutherland",
+          "name": "Joan Sutherland",
           "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
         },
         {

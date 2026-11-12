@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 1068842,
+  "num_followers": 1068790,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,18 @@
     {
       "added_at": "2026-11-05 23:00:13",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e"
       },
       "artists": [
         {
           "name": "RY X",
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 206463,
-      "name": "You (feat. Hermanos Guti\u00e9rrez)",
-      "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
+      "duration_ms": 243096,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8"
     },
     {
       "added_at": "2026-11-05 23:00:13",
@@ -711,18 +707,22 @@
     {
       "added_at": "2026-11-05 23:00:13",
       "album": {
-        "name": "Lay",
-        "url": "https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
       },
       "artists": [
         {
           "name": "RY X",
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 243096,
-      "name": "Lay",
-      "url": "https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8"
+      "duration_ms": 206463,
+      "name": "You (feat. Hermanos Guti\u00e9rrez)",
+      "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
     },
     {
       "added_at": "2026-11-05 23:00:13",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-11-05 23:00:13",
       "album": {
+        "name": "The Art Of Pretending To Swim",
+        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 248253,
+      "name": "A Trick of the Light",
+      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+    },
+    {
+      "added_at": "2026-11-05 23:00:13",
+      "album": {
         "name": "Welcome to the Mood (Special Edition)",
         "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2026-11-05 23:00:13",
       "album": {
-        "name": "The Art Of Pretending To Swim",
-        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 248253,
-      "name": "A Trick of the Light",
-      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+      "duration_ms": 174088,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
     },
     {
       "added_at": "2026-11-05 23:00:13",
@@ -959,18 +975,18 @@
     {
       "added_at": "2026-11-05 23:00:13",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
+        "name": "Colour Me Free",
+        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 174088,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
+      "duration_ms": 306266,
+      "name": "4 And 20",
+      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
     },
     {
       "added_at": "2026-11-05 23:00:13",
@@ -987,22 +1003,6 @@
       "duration_ms": 234582,
       "name": "Only Gets Better",
       "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
-    },
-    {
-      "added_at": "2026-11-05 23:00:13",
-      "album": {
-        "name": "Colour Me Free",
-        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 306266,
-      "name": "4 And 20",
-      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
     },
     {
       "added_at": "2026-11-05 23:00:13",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-11-05 23:00:13",
       "album": {
-        "name": "H24",
-        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 216939,
-      "name": "H24",
-      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
-    },
-    {
-      "added_at": "2026-11-05 23:00:13",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
+    },
+    {
+      "added_at": "2026-11-05 23:00:13",
+      "album": {
+        "name": "H24",
+        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "duration_ms": 216939,
+      "name": "H24",
+      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
     },
     {
       "added_at": "2026-11-05 23:00:13",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-11-05 23:00:13",
       "album": {
+        "name": "Beautiful Thingz",
+        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "duration_ms": 208031,
+      "name": "Beautiful Thingz",
+      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+    },
+    {
+      "added_at": "2026-11-05 23:00:13",
+      "album": {
         "name": "Confirmation!",
         "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 164611,
       "name": "2Love (feat. FAUZIA)",
       "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
-    },
-    {
-      "added_at": "2026-11-05 23:00:13",
-      "album": {
-        "name": "Beautiful Thingz",
-        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 208031,
-      "name": "Beautiful Thingz",
-      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
     },
     {
       "added_at": "2026-11-05 23:00:13",

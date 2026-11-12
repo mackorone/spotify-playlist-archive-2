@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 493552,
+  "num_followers": 493565,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "Desequilibrio",
+        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
+      },
+      "artists": [
+        {
+          "name": "Dinamo",
+          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
+        }
+      ],
+      "duration_ms": 212845,
+      "name": "El asesino del tiempo",
+      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "Dulces Mentiras",
         "url": "https://open.spotify.com/album/7jRUAaBU9KoMPQ0qnIoIBG"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 206790,
       "name": "Dulces Mentiras",
       "url": "https://open.spotify.com/track/1p1Qi5hQvKO6x3acZmO0JP"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Desequilibrio",
-        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
-      },
-      "artists": [
-        {
-          "name": "Dinamo",
-          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
-        }
-      ],
-      "duration_ms": 212845,
-      "name": "El asesino del tiempo",
-      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
-      },
-      "artists": [
-        {
-          "name": "Matamoska!",
-          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Siente El Movimiento",
         "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Baile Brutal",
-        "url": "https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y"
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
       },
       "artists": [
         {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+          "name": "Matamoska!",
+          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
         }
       ],
-      "duration_ms": 210056,
-      "name": "Baile Brutal",
-      "url": "https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2"
+      "duration_ms": 193226,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1671,18 +1655,34 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Ska Fever",
-        "url": "https://open.spotify.com/album/3pOcX9XW8dlE4AZmeQV6yB"
+        "name": "Baile Brutal",
+        "url": "https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y"
       },
       "artists": [
         {
-          "name": "Salvar Do\u00f1ana",
-          "url": "https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL"
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
         }
       ],
-      "duration_ms": 154354,
-      "name": "Ska Fever",
-      "url": "https://open.spotify.com/track/2p7Lllw7r8Dq8XxPMA4m70"
+      "duration_ms": 210056,
+      "name": "Baile Brutal",
+      "url": "https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+        "name": "Ska Fever",
+        "url": "https://open.spotify.com/album/3pOcX9XW8dlE4AZmeQV6yB"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Salvar Do\u00f1ana",
+          "url": "https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL"
         }
       ],
-      "duration_ms": 199565,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
+      "duration_ms": 154354,
+      "name": "Ska Fever",
+      "url": "https://open.spotify.com/track/2p7Lllw7r8Dq8XxPMA4m70"
     },
     {
       "added_at": "2026-11-06 06:01:09",

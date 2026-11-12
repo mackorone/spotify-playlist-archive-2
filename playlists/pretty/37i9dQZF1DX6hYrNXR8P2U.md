@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Fiah en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,501 likes - 116 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,460 likes - 116 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

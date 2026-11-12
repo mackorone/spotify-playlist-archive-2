@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 5Leaf
 
-2,078 songs - 3 day 22 hr 25 min
+2,079 songs - 3 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Blue Giant](https://open.spotify.com/track/7AcsV6BekoRqJy8ZR5rS1q) | [Dinoboi](https://open.spotify.com/artist/2jNl3ZYJEwnhe4Ma4ORkMH), [GYPSY O'NEILL](https://open.spotify.com/artist/0aUMCeCQ3kYcV2nrWYEq2n) | [Blue Giant](https://open.spotify.com/album/3QhI7XnrrMzYqbzCtiO5A0) | 2:14 | 2026-03-11 | 2026-04-15 |
 | [BLUE IN TOKYO \(feat\. KESSO\)](https://open.spotify.com/track/0lX7nGAY1tVmE1G68SoOmq) | [Nust B](https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5), [KESSO](https://open.spotify.com/artist/6DB4aM9HCe0puiLQT1xIWh) | [BLUE IN TOKYO \(feat\. KESSO\)](https://open.spotify.com/album/1N5YAY3AUSImcOuDN6dZd1) | 2:50 | 2025-03-25 | 2025-07-02 |
 | [blue money](https://open.spotify.com/track/4ICj6bauSMU1Z6KsvQHxCz) | [YOUNG GAGA GG DIOR](https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd), [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN) | [blue money](https://open.spotify.com/album/0cc770cLcUN7gCKWTNMU1O) | 3:15 | 2024-02-08 | 2024-02-16 |
+| [Blueberry Night](https://open.spotify.com/track/09nhEPinB8lsWr7BfRBzEk) | [TwoBS](https://open.spotify.com/artist/0cOZbWveJ5u3JAnRX67CVN) | [Blueberry Night](https://open.spotify.com/album/50NYzvxcnFQHRy8wpXMQru) | 2:07 | 2026-11-10 |  |
 | [Blueprint](https://open.spotify.com/track/6Nureb5bFhbcSySPfGBKCA) | [Flat Line Classics](https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa) | [Blueprint](https://open.spotify.com/album/4KQKZSlMefTEq4r2XyPUGZ) | 3:24 | 2024-01-11 | 2024-02-28 |
 | [BOMB](https://open.spotify.com/track/2dbLJXDXqE6gNgqV4OZ4Cq) | [nns](https://open.spotify.com/artist/7dHwMthFUUH7vXsnV0Z68p), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [EVER FRESH](https://open.spotify.com/album/3PxLPtcyhitXpTP1z64G5W) | 3:15 | 2024-04-16 | 2024-05-15 |
 | [BOMB](https://open.spotify.com/track/7x2JAVyrOrQLZxDda7B7NR) | [nns](https://open.spotify.com/artist/7dHwMthFUUH7vXsnV0Z68p), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [EVER FRESH](https://open.spotify.com/album/4RO8TfUK8f4csddJ0Gyecy) | 3:15 | 2024-04-02 | 2024-04-19 |

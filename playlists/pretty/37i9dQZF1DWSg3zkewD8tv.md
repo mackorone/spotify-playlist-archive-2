@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,287 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,289 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 46 | [April Sun in Cuba](https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Running Free](https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe) | 3:27 |
 | 47 | [Errol \- Remastered 2013](https://open.spotify.com/track/1kxPRJGVKGqjJM7BB44p0p) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [Sirocco \(Remastered\)](https://open.spotify.com/album/5FCC3e09sFPqZrXfozCXhF) | 3:30 |
 | 48 | [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 |
-| 49 | [Black Fingernails, Red Wine](https://open.spotify.com/track/0ujklxrVM2jwpLMgbTwTd1) | [Eskimo Joe](https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn) | [Black Fingernails, Red Wine](https://open.spotify.com/album/4PXy3cBCNeY0ZVKTOGi9Cw) | 4:09 |
-| 50 | [Blue Sky Mine \- 2011 Remaster](https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Blue Sky Mining \(Remastered\)](https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S) | 4:15 |
+| 49 | [Blue Sky Mine \- 2011 Remaster](https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Blue Sky Mining \(Remastered\)](https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S) | 4:15 |
+| 50 | [Black Fingernails, Red Wine](https://open.spotify.com/track/0ujklxrVM2jwpLMgbTwTd1) | [Eskimo Joe](https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn) | [Black Fingernails, Red Wine](https://open.spotify.com/album/4PXy3cBCNeY0ZVKTOGi9Cw) | 4:09 |
 
 Snapshot ID: `AAAAAPeCGjBOKkbGccLX1xjf9fi5y/IT`

@@ -868,7 +868,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 229880,
       "name": "All In",
       "url": "https://open.spotify.com/track/0UkKJc0FoD6Q93HF2N3sM2"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 308210,
       "name": "Amare",
       "url": "https://open.spotify.com/track/6hjhixt26mnixNP0gc3vq9"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 124363,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/3w9PHprcbMsIiHd5k4uCIy"
@@ -3800,7 +3800,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 129240,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3rJCuxhrAawVoTvGQfnvn4"
@@ -5498,7 +5498,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 249750,
       "name": "Catch Me If I Fall",
       "url": "https://open.spotify.com/track/3QvDI564fkcbRMA4MTAhg4"
@@ -13963,6 +13963,28 @@
     },
     {
       "album": {
+        "name": "Guy Who Loves Me",
+        "url": "https://open.spotify.com/album/4byGC6IUbDg6GxuBLyBz4H"
+      },
+      "artists": [
+        {
+          "name": "Mykii J",
+          "url": "https://open.spotify.com/artist/5FNDRSaczOW2xXd0oQswdM"
+        },
+        {
+          "name": "The Kelly",
+          "url": "https://open.spotify.com/artist/5VjwNvQ4ZrHCaHFidD3wS8"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173239,
+      "name": "Guy Who Loves Me (Single Version)",
+      "url": "https://open.spotify.com/track/3w9AsMLpZ7rVxZYsBW0vNx"
+    },
+    {
+      "album": {
         "name": "H.O.L.Y.",
         "url": "https://open.spotify.com/album/7oCFkWFuRVBCSL2JrPP0LU"
       },
@@ -16484,7 +16506,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 183106,
       "name": "I Got a Problem (I Wonder...) - Stan Medley Remix",
       "url": "https://open.spotify.com/track/6yWlnj5yLWrx5rP3HaX8Ex"
@@ -17964,7 +17986,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 247000,
       "name": "Incandescent",
       "url": "https://open.spotify.com/track/5MHD7E3EAsUxDUvXl4TIXX"
@@ -19032,7 +19054,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 214240,
       "name": "King David - v2",
       "url": "https://open.spotify.com/track/0OLZpV8j5P8YhkW8f2kcBi"
@@ -20020,7 +20042,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 308000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/5KMZauzhSRqdIms9vjW4Vm"
@@ -24192,7 +24214,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 225640,
       "name": "Never Forget Your Power",
       "url": "https://open.spotify.com/track/2JtnysliAjeM6Ep03izDGE"
@@ -26418,7 +26440,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 184147,
       "name": "only you",
       "url": "https://open.spotify.com/track/4cmPdfoacaB7HEq7nBM6ii"
@@ -27454,7 +27476,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 179973,
       "name": "Po\u00e8mes et Chansons",
       "url": "https://open.spotify.com/track/3XVPacvl2MXov0PAnFoiyX"
@@ -28422,7 +28444,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 233000,
       "name": "Remember Why",
       "url": "https://open.spotify.com/track/3ZzzKJgFYgMUA6IrDFQCAS"
@@ -30182,7 +30204,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 177360,
       "name": "Seven Sons",
       "url": "https://open.spotify.com/track/3f4gXNEr1mQYyWZyYzdtJN"
@@ -31208,7 +31230,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 170489,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/41ANTXIWh8ArEUvuTVPCe6"
@@ -34292,7 +34314,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 292249,
       "name": "That Moment",
       "url": "https://open.spotify.com/track/4AxeIJlGMGIonVH0eR6TVA"
@@ -34882,7 +34904,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 224496,
       "name": "The True Beauty Which Lays Within.",
       "url": "https://open.spotify.com/track/3dlkurN7GaBeSDcH1UjSHV"
@@ -34988,6 +35010,24 @@
       "duration_ms": 162172,
       "name": "The World Feels True",
       "url": "https://open.spotify.com/track/3ir4gIfgHfdOkEuZepdRev"
+    },
+    {
+      "album": {
+        "name": "Theia (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4VWNulTOuu03yj9bDuBYJt"
+      },
+      "artists": [
+        {
+          "name": "Kheops One",
+          "url": "https://open.spotify.com/artist/1EVJq0rTgQP5860zbcv5uh"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Theia - Acoustic Version",
+      "url": "https://open.spotify.com/track/1h9boMKzuufcEbQD9UhlFo"
     },
     {
       "album": {
@@ -36492,7 +36532,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 162320,
       "name": "Until the Light Comes",
       "url": "https://open.spotify.com/track/6ItHinfqfKjld47M0hpCTX"
@@ -36568,6 +36608,24 @@
       "duration_ms": 131445,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3YHX1B8ETdBZ365PKizJVY"
+    },
+    {
+      "album": {
+        "name": "Uppercase",
+        "url": "https://open.spotify.com/album/5wLcNepL9cWMagddi8RgLr"
+      },
+      "artists": [
+        {
+          "name": "Becky!",
+          "url": "https://open.spotify.com/artist/6w27UqENH2VqwAnMOZU6mI"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Uppercase",
+      "url": "https://open.spotify.com/track/27deRYuInzxIjLRk8ptSmd"
     },
     {
       "album": {

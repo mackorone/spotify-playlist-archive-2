@@ -1,12 +1,12 @@
 {
   "description": "Themes to groove to from Telugu Movies!\n\nCover: Varanasi",
-  "num_followers": 47556,
+  "num_followers": 47565,
   "original_name": "Tollywood Themes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKB8g5tapI/GH3f4agg4V/k3GgIC",
+  "snapshot_id": "AAAAAAD9Rn3Ss+b1KQFcK7csZRyA0xHu",
   "tracks": [
     {
       "added_at": "2026-11-02 05:30:23",
@@ -565,20 +565,20 @@
       "url": "https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd"
     },
     {
-      "added_at": "2026-05-11 05:49:48",
+      "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Athidhi - OST",
-        "url": "https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B"
+        "name": "Goodachari",
+        "url": "https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5"
       },
       "artists": [
         {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+          "name": "Sricharan Pakala",
+          "url": "https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT"
         }
       ],
-      "duration_ms": 47541,
-      "name": "Love Unfolds",
-      "url": "https://open.spotify.com/track/00Lr28wIf0sHcmoCmP8brr"
+      "duration_ms": 315008,
+      "name": "Theme",
+      "url": "https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Goodachari",
-        "url": "https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5"
+        "name": "Nenu Naa Raakshasi",
+        "url": "https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i"
       },
       "artists": [
         {
-          "name": "Sricharan Pakala",
-          "url": "https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT"
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
         }
       ],
-      "duration_ms": 315008,
-      "name": "Theme",
-      "url": "https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB"
+      "duration_ms": 115146,
+      "name": "Nenu Na Rakshasi(Theme)",
+      "url": "https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP"
     },
     {
       "added_at": "2024-10-15 07:08:11",
@@ -645,38 +645,6 @@
       "url": "https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o"
     },
     {
-      "added_at": "2026-05-11 05:49:48",
-      "album": {
-        "name": "Athidhi - OST",
-        "url": "https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        }
-      ],
-      "duration_ms": 51428,
-      "name": "Soul's Reunite",
-      "url": "https://open.spotify.com/track/1DFbomfZEGaVDAmiSi97IR"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Pushpa The Rise - OST",
-        "url": "https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 112231,
-      "name": "Pushpa To Be Continued",
-      "url": "https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ"
-    },
-    {
       "added_at": "2024-08-23 06:29:52",
       "album": {
         "name": "Goodachari",
@@ -695,18 +663,34 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Nenu Naa Raakshasi",
-        "url": "https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i"
+        "name": "Pushpa The Rise - OST",
+        "url": "https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk"
       },
       "artists": [
         {
-          "name": "Anup Rubens",
-          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         }
       ],
-      "duration_ms": 115146,
-      "name": "Nenu Na Rakshasi(Theme)",
-      "url": "https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP"
+      "duration_ms": 112231,
+      "name": "Pushpa To Be Continued",
+      "url": "https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ"
+    },
+    {
+      "added_at": "2026-05-11 05:49:48",
+      "album": {
+        "name": "Athidhi - OST",
+        "url": "https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        }
+      ],
+      "duration_ms": 47541,
+      "name": "Love Unfolds",
+      "url": "https://open.spotify.com/track/00Lr28wIf0sHcmoCmP8brr"
     },
     {
       "added_at": "2024-09-25 13:54:27",
@@ -741,22 +725,6 @@
       "url": "https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY"
     },
     {
-      "added_at": "2024-09-16 12:26:09",
-      "album": {
-        "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
-        "url": "https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF"
-      },
-      "artists": [
-        {
-          "name": "Jay Krish",
-          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
-        }
-      ],
-      "duration_ms": 74000,
-      "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
-      "url": "https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr"
-    },
-    {
       "added_at": "2024-08-23 06:29:52",
       "album": {
         "name": "Kshanam (Original Motion Picture Soundtrack)",
@@ -773,28 +741,36 @@
       "url": "https://open.spotify.com/track/5RqKlrB2F5uLRtOchVPJRS"
     },
     {
-      "added_at": "2024-10-07 06:56:11",
+      "added_at": "2024-09-16 12:26:09",
       "album": {
-        "name": "Anthem Of Martin (From \"Martin\") (Telugu)",
-        "url": "https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1"
+        "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
+        "url": "https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF"
+      },
+      "artists": [
+        {
+          "name": "Jay Krish",
+          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
+        }
+      ],
+      "duration_ms": 74000,
+      "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
+      "url": "https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr"
+    },
+    {
+      "added_at": "2026-05-11 05:49:48",
+      "album": {
+        "name": "Athidhi - OST",
+        "url": "https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B"
       },
       "artists": [
         {
           "name": "Mani Sharma",
           "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Prudhvi Chandra",
-          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
-        },
-        {
-          "name": "Roll Rida",
-          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
         }
       ],
-      "duration_ms": 239416,
-      "name": "Anthem Of Martin (From \"Martin\") (Telugu)",
-      "url": "https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW"
+      "duration_ms": 51428,
+      "name": "Soul's Reunite",
+      "url": "https://open.spotify.com/track/1DFbomfZEGaVDAmiSi97IR"
     },
     {
       "added_at": "2025-11-04 14:25:37",
@@ -863,6 +839,30 @@
       "duration_ms": 192000,
       "name": "Crux of KJQ",
       "url": "https://open.spotify.com/track/2KInS1OQxGpILA4LvfA10f"
+    },
+    {
+      "added_at": "2024-10-07 06:56:11",
+      "album": {
+        "name": "Anthem Of Martin (From \"Martin\") (Telugu)",
+        "url": "https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        }
+      ],
+      "duration_ms": 239416,
+      "name": "Anthem Of Martin (From \"Martin\") (Telugu)",
+      "url": "https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW"
     },
     {
       "added_at": "2026-02-09 09:40:30",

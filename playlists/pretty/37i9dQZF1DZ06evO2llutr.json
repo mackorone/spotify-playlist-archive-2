@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 699158,
+  "num_followers": 699363,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAAuk1yXSg3ES071zkj2QXXM",
+  "snapshot_id": "avENAAAAAACi4JwdEdClK0EMiPns4sdO",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 178195,
-      "name": "Is The Blue Tangled In You?",
-      "url": "https://open.spotify.com/track/4D9gnmocVP4sVWQHRYv5YH"
+      "duration_ms": 258005,
+      "name": "You'll Get By",
+      "url": "https://open.spotify.com/track/7lPkjiujKlBKiBpNm52lll"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 258005,
-      "name": "You'll Get By",
-      "url": "https://open.spotify.com/track/7lPkjiujKlBKiBpNm52lll"
+      "duration_ms": 178195,
+      "name": "Is The Blue Tangled In You?",
+      "url": "https://open.spotify.com/track/4D9gnmocVP4sVWQHRYv5YH"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 196382,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/06oRwfBISxd06rozMDDogR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 199893,
       "name": "High Road",
       "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 196382,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/06oRwfBISxd06rozMDDogR"
     },
     {
       "added_at": null,

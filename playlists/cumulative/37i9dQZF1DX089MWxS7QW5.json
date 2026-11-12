@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: YECHAN)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: aiai)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -11598,7 +11598,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 200576,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP"
@@ -11898,6 +11898,28 @@
       "duration_ms": 135750,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/3iAFryjJkdXe8UpcSOSN6w"
+    },
+    {
+      "album": {
+        "name": "QUIZ",
+        "url": "https://open.spotify.com/album/7wfJxaKT84qysk2yQyNCXw"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        },
+        {
+          "name": "homs",
+          "url": "https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/4Z48oKDFQEkx6xL1vDoluJ"
     },
     {
       "album": {

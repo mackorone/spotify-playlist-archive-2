@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Pommelien Thijs, DYSTINCT, Dimitri Vegas, Line D and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,819 likes - 118 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,813 likes - 118 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

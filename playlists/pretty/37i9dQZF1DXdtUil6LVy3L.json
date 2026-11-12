@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 39165,
+  "num_followers": 39202,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "Good King Wenceslas",
+        "url": "https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 144708,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "Angels We Have Heard on High",
         "url": "https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Good King Wenceslas",
-        "url": "https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my"
+        "name": "Frosty the Snowman",
+        "url": "https://open.spotify.com/album/7nTKwjqd5EcNgeeqeQmRrg"
       },
       "artists": [
         {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+          "name": "Seiden Trio",
+          "url": "https://open.spotify.com/artist/5rCxWhctByK27tk9lc3wgA"
         }
       ],
-      "duration_ms": 144708,
-      "name": "Good King Wenceslas",
-      "url": "https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt"
+      "duration_ms": 135526,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/3ziEAitg0GZH56fX6CbrDo"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -523,6 +539,22 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "Away in a manger",
+        "url": "https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 126007,
+      "name": "Away in a manger",
+      "url": "https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/09K85uBFteuPunRZw3z0HQ"
       },
@@ -555,22 +587,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Away in a manger",
-        "url": "https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 126007,
-      "name": "Away in a manger",
-      "url": "https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "We Three Kings",
         "url": "https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH"
       },
@@ -583,6 +599,22 @@
       "duration_ms": 179183,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "This Time of Year",
+        "url": "https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "duration_ms": 108959,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -635,6 +667,38 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/6hbTuHeuAM0yemXJ1mmqQO"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 379437,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3R52G5gjn3i2Gv91lvY4iL"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/00mDfkOOwU5Z9k09Btz0DN"
+      },
+      "artists": [
+        {
+          "name": "Meadow Park",
+          "url": "https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm"
+        }
+      ],
+      "duration_ms": 173934,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4VmA5KpWZO0UVcagpcoUde"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "God Rest Ye, Merry Gentlemen",
         "url": "https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny"
       },
@@ -683,38 +747,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "The Christmas Waltz",
-        "url": "https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX"
-      },
-      "artists": [
-        {
-          "name": "Milad Greenland",
-          "url": "https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr"
-        }
-      ],
-      "duration_ms": 100015,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Frosty the Snowman",
-        "url": "https://open.spotify.com/album/7nTKwjqd5EcNgeeqeQmRrg"
-      },
-      "artists": [
-        {
-          "name": "Seiden Trio",
-          "url": "https://open.spotify.com/artist/5rCxWhctByK27tk9lc3wgA"
-        }
-      ],
-      "duration_ms": 135526,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/3ziEAitg0GZH56fX6CbrDo"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "Mistletoe And Holly",
         "url": "https://open.spotify.com/album/16erh4O46uaVuPocbpDBIE"
       },
@@ -731,86 +763,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "This Time of Year",
-        "url": "https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL"
-      },
-      "artists": [
-        {
-          "name": "Jeroen Granneman",
-          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
-        }
-      ],
-      "duration_ms": 108959,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "What Are You Doing New Years Eve?",
-        "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge Trio",
-          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "What Are You Doing New Years Eve?",
-      "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/6hbTuHeuAM0yemXJ1mmqQO"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 379437,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3R52G5gjn3i2Gv91lvY4iL"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/00mDfkOOwU5Z9k09Btz0DN"
-      },
-      "artists": [
-        {
-          "name": "Meadow Park",
-          "url": "https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm"
-        }
-      ],
-      "duration_ms": 173934,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4VmA5KpWZO0UVcagpcoUde"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Feliz navidad",
-        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 123786,
-      "name": "Feliz navidad",
-      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "O come all ye faithful",
         "url": "https://open.spotify.com/album/5RYjwFs6SoHvS4XzobAAD1"
       },
@@ -823,6 +775,22 @@
       "duration_ms": 186590,
       "name": "O come all ye faithful",
       "url": "https://open.spotify.com/track/4UgEfUpPFhMAQKbH9ewEog"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "The Christmas Waltz",
+        "url": "https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX"
+      },
+      "artists": [
+        {
+          "name": "Milad Greenland",
+          "url": "https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr"
+        }
+      ],
+      "duration_ms": 100015,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -875,6 +843,38 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "What Are You Doing New Years Eve?",
+        "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "What Are You Doing New Years Eve?",
+      "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Feliz navidad",
+        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 123786,
+      "name": "Feliz navidad",
+      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "Christmas With You",
         "url": "https://open.spotify.com/album/4lQpDClGVN8GRg1T0XjjHt"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 196063,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/3UWfENxJLZmqYwipTZrkdI"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "A Wishful Night",
-        "url": "https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 147450,
-      "name": "A Wishful Night",
-      "url": "https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -955,22 +939,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "What Are You Doing New Years Eve",
         "url": "https://open.spotify.com/album/4ZeUwxj3422C87PXMN8ajR"
       },
@@ -987,34 +955,18 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Go Tell It On The Mountain",
-        "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
+        "name": "A Wishful Night",
+        "url": "https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA"
       },
       "artists": [
         {
-          "name": "Eltingvilles",
-          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
         }
       ],
-      "duration_ms": 150550,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Angels from the Realms of Glory",
-        "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
-      },
-      "artists": [
-        {
-          "name": "Trois Amis",
-          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
-        }
-      ],
-      "duration_ms": 105235,
-      "name": "Angels from the Realms of Glory",
-      "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
+      "duration_ms": 147450,
+      "name": "A Wishful Night",
+      "url": "https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -1067,6 +1019,22 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "The Silver Tree",
+        "url": "https://open.spotify.com/album/6ZEaoUeVsi6e6PReL0eJPj"
+      },
+      "artists": [
+        {
+          "name": "The Central Park North",
+          "url": "https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY"
+        }
+      ],
+      "duration_ms": 189854,
+      "name": "The Silver Tree",
+      "url": "https://open.spotify.com/track/0CH7ItwdMMDrRZChF1iGFB"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "Christmas Morning",
         "url": "https://open.spotify.com/album/6VdRmjzeaXitNgNozFXks1"
       },
@@ -1083,18 +1051,18 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "The Silver Tree",
-        "url": "https://open.spotify.com/album/6ZEaoUeVsi6e6PReL0eJPj"
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
       "artists": [
         {
-          "name": "The Central Park North",
-          "url": "https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY"
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
         }
       ],
-      "duration_ms": 189854,
-      "name": "The Silver Tree",
-      "url": "https://open.spotify.com/track/0CH7ItwdMMDrRZChF1iGFB"
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -1131,34 +1099,34 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Oh what a merry christmas day",
-        "url": "https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3"
+        "name": "Go Tell It On The Mountain",
+        "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
       },
       "artists": [
         {
-          "name": "Red Brick Lane",
-          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
         }
       ],
-      "duration_ms": 96947,
-      "name": "Oh what a merry christmas day",
-      "url": "https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1"
+      "duration_ms": 150550,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
     },
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Frosty The Snowman",
-        "url": "https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu"
+        "name": "Angels from the Realms of Glory",
+        "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
       },
       "artists": [
         {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
         }
       ],
-      "duration_ms": 114393,
-      "name": "Dance of the Sugar Plum Fairy",
-      "url": "https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd"
+      "duration_ms": 105235,
+      "name": "Angels from the Realms of Glory",
+      "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -1179,22 +1147,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 73034,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/6TxctcVc4GMhjXPGP8pWyt"
       },
@@ -1207,6 +1159,54 @@
       "duration_ms": 216493,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/0J1HBjPpOOpB9iKSbvFi6n"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Frosty The Snowman",
+        "url": "https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 114393,
+      "name": "Dance of the Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Oh what a merry christmas day",
+        "url": "https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3"
+      },
+      "artists": [
+        {
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+        }
+      ],
+      "duration_ms": 96947,
+      "name": "Oh what a merry christmas day",
+      "url": "https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 73034,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
     },
     {
       "added_at": "2026-11-06 15:56:35",

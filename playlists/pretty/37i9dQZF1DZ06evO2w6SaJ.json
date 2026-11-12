@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7779,
+  "num_followers": 7781,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAAi7V1Oo617LWhRBRkpd7k5",
+  "snapshot_id": "avENAAAAAAAGFJLSk1zEN/fr9Y9PHbVf",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Skulls and Stars - Original Demo",
-      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
+      "duration_ms": 182271,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 182271,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
+      "duration_ms": 228493,
+      "name": "Skulls and Stars - Original Demo",
+      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
     },
     {
       "added_at": null,

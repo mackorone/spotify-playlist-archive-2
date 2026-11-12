@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 710045,
+  "num_followers": 710042,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 263500,
       "name": "Slipping Through My Fingers",
       "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "America",
-      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love - Bonus",
       "url": "https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "America",
+      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Everybody Hurts",
-        "url": "https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe"
+        "name": "Common People",
+        "url": "https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Conor Patrick",
+          "url": "https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh"
         },
         {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2"
+          "name": "Emma Genta",
+          "url": "https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O"
         }
       ],
-      "duration_ms": 293586,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY"
+      "duration_ms": 243750,
+      "name": "Common People",
+      "url": "https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Common People",
-        "url": "https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg"
+        "name": "Everybody Hurts",
+        "url": "https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe"
       },
       "artists": [
         {
-          "name": "Conor Patrick",
-          "url": "https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
         },
         {
-          "name": "Emma Genta",
-          "url": "https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O"
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Common People",
-      "url": "https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7"
+      "duration_ms": 293586,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx"
       },
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 149803,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
         "url": "https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV"
       },
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+      "duration_ms": 149803,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA"
     },
     {
       "added_at": "2026-05-08 04:01:55",

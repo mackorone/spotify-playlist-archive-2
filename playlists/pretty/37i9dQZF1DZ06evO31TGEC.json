@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56462,
+  "num_followers": 56471,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAADhc1L/L5n/56SzsuKwOXKs",
+  "snapshot_id": "avENAAAAAADb9N70cmCnof6mhxSi3sDB",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ME DERRITO (Banda)",
-        "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "ME DERRITO - Banda",
-      "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi M\u00e9xico Para El Mundo",
         "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 190080,
       "name": "Hola Mi Amor (Mariachi)",
       "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ME DERRITO (Banda)",
+        "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "ME DERRITO - Banda",
+      "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
     },
     {
       "added_at": null,

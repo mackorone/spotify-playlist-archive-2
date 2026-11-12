@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-522 songs - 2 day 2 hr 36 min
+523 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Estremece a Terra](https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [ASSIM SEJA](https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu) | 6:02 | 2023-08-18 | 2024-08-17 |
 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 |  |
 | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj) | 4:42 | 2025-02-07 | 2025-03-08 |
+| [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6) | 5:38 | 2026-04-10 |  |
 | [Eu Quero Queimar Por Ti \- Ao Vivo](https://open.spotify.com/track/19VfFIRBEKEb5Z2jOHGl5P) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Eu Quero Queimar Por Ti \(Ao Vivo\)](https://open.spotify.com/album/7I1ZGfiZpluq1ngwZT3IxZ) | 5:59 | 2023-10-20 | 2023-11-18 |
 | [Eu Quero Ver Sua Face \- Ao Vivo](https://open.spotify.com/track/7cQpuMnZPyIlgCrLV4LCJl) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Canções Para o Meu Amado \(Ao Vivo\)](https://open.spotify.com/album/0lIpLdE40y1HAGGYhF5LTi) | 8:57 | 2024-12-20 | 2025-02-15 |
 | [Eu Sei](https://open.spotify.com/track/0IQPqr6gEgoG5Oe6c5vYDI) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ) | [Eu Sei](https://open.spotify.com/album/6fPFKEvTXKwlFcf8x2JbWB) | 9:05 | 2023-02-17 | 2023-03-04 |
@@ -221,7 +222,7 @@
 | [Hoje é tempo de louvar a Deus \- Ao Vivo](https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 3:53 | 2025-10-03 | 2025-12-01 |
 | [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 | 2022-09-09 | 2023-04-29 |
 | [In Memoriam \(43 Anos Louvor Eterno\)](https://open.spotify.com/track/3K8b4qp9y89TIwtxrNDiSN) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [In Memoriam \(43 Anos Louvor Eterno\) \[Ao Vivo, Curitiba, Teatro Positivo, 2025\]](https://open.spotify.com/album/5IfD0EdXSq5nVWzfQTZFj1) | 5:21 | 2025-04-14 | 2025-09-12 |
-| [Incensário \- Ao Vivo](https://open.spotify.com/track/6GnrdHil4KEehaC2AKYF0d) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Incensário \(Ao Vivo\)](https://open.spotify.com/album/39eis8Rw1X6Q2vynhg6hbk) | 9:45 | 2024-12-20 |  |
+| [Incensário \- Ao Vivo](https://open.spotify.com/track/6GnrdHil4KEehaC2AKYF0d) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Incensário \(Ao Vivo\)](https://open.spotify.com/album/39eis8Rw1X6Q2vynhg6hbk) | 9:45 | 2024-12-20 | 2026-11-12 |
 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 | 2023-02-17 | 2025-05-03 |
 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 | 2022-12-09 | 2023-02-04 |
 | [Jeová \- Live](https://open.spotify.com/track/65vz0dGp7fzWp9nXN1COS5) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:19 | 2023-08-18 | 2023-10-21 |

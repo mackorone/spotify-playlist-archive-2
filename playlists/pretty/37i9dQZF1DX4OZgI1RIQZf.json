@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 142559,
+  "num_followers": 142541,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPgcoqB2a/VjJr2MyoG7kX2y1CgL",
+  "snapshot_id": "AAAAAD5zqfiNFtqVwunQobKah+fs9UCo",
   "tracks": [
     {
       "added_at": "2026-11-01 20:21:50",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
+        "name": "Antics",
+        "url": "https://open.spotify.com/album/5NUna7cH8t5yLMgBxmW4NL"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/6zPOdhLim2vbcLo0rfjDjq"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 270986,
       "name": "My Body's a Zombie For You",
       "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
-        "name": "Antics",
-        "url": "https://open.spotify.com/album/5NUna7cH8t5yLMgBxmW4NL"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/6zPOdhLim2vbcLo0rfjDjq"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Vampire at the Beach",
         "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 190728,
       "name": "Can't Get You Out of My Head",
       "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Halloween Parade",
-      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Call Me The Witch",
         "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "It's Halloween!",
-        "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
       "artists": [
         {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 149117,
-      "name": "It's Halloween!",
-      "url": "https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP"
+      "duration_ms": 213333,
+      "name": "Halloween Parade",
+      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -695,6 +679,22 @@
       "duration_ms": 132111,
       "name": "brainrot",
       "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "It's Halloween!",
+        "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 149117,
+      "name": "It's Halloween!",
+      "url": "https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "head, shoulders, knees and ankles",
         "url": "https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192780,
       "name": "head, shoulders, knees and ankles",
       "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
+        "name": "Zombie Prom (Hallowe'en At Home Edition)",
+        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Zombie Prom",
+      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
         "name": "Stay In Your Grave (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 139538,
       "name": "Stay In Your Grave (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
-        "name": "Zombie Prom (Hallowe'en At Home Edition)",
-        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Zombie Prom",
-      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Shake, Shook, Shaken",
-        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
-      },
-      "artists": [
-        {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
-        }
-      ],
-      "duration_ms": 173300,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Screen Violence: Director's Cut",
         "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 269640,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Shake, Shook, Shaken",
+        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
+      },
+      "artists": [
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "duration_ms": 173300,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
     },
     {
       "added_at": "2026-11-01 20:21:50",

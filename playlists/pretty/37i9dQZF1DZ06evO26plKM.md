@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,009 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,010 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 49 | [Star Star \| Pure Imagination](https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Set List \(Live\)](https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u) | 3:40 |
 | 50 | [Just to Be the One \(Funkhaus Version\)](https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 3:09 |
 
-Snapshot ID: `au+7gAAAAAD15hwWiJUyijWdf4rRoZpn`
+Snapshot ID: `avENAAAAAABwqinWKmkyucs5dMqwmvHe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,442 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,449 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 51 | [El Corazón al Sur](https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Ramón Maschio](https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh) | [Canciones del Sur](https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy) | 3:25 |
 | 52 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |
 | 53 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
-| 54 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
-| 55 | [Pompas de Jabón](https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A), [Baffa\-Berlingieri](https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd) | [15 Grandes Exitos \- Los Discos De Oro De Roberto Goyeneche](https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8) | 2:56 |
+| 54 | [Pompas de Jabón](https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A), [Baffa\-Berlingieri](https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd) | [15 Grandes Exitos \- Los Discos De Oro De Roberto Goyeneche](https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8) | 2:56 |
+| 55 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
 | 56 | [Las Ciudades](https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Piazzolla & Amelita Baltar](https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw) | 4:36 |
 | 57 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
 | 58 | [Fuimos \- En Vivo](https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 5:20 |

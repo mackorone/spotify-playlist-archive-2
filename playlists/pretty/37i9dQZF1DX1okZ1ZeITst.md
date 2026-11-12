@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Sing your heart out with the Disney Sing\-Alongs playlist! Featuring karaoke jams such as "Zoo" performed by Shakira from Zootopia 2, now available on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,364 likes - 78 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,619 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

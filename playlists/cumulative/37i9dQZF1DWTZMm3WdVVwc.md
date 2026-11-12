@@ -4,7 +4,7 @@
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-292 songs - 20 hr 28 min
+293 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2023-12-12 | 2024-01-24 |
 | [Solitude](https://open.spotify.com/track/5NXQt7YkV2ElktdAhL1QWk) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Solitude](https://open.spotify.com/album/4CqXQpyqMQYffpTR0HFzp4) | 2:56 | 2023-12-12 | 2023-12-20 |
 | [Stand by me, Stand by you.](https://open.spotify.com/track/2RbVD1IgXtyQFlLtbthaZ3) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Stand by me, Stand by you.](https://open.spotify.com/album/79ybh56ysZUeRhwg9RWAGH) | 3:13 | 2025-10-23 | 2025-10-25 |
-| [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 |  |
+| [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 | 2026-11-12 |
 | [Stuck In The Middle](https://open.spotify.com/track/6niBwol34bKc0LXRRHHIGD) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle](https://open.spotify.com/album/4UNEF0Hg8VPo86RAaa9Hba) | 3:24 | 2024-01-11 | 2024-04-19 |
 | [Stuck In The Middle \(feat\. Benjamin Roustaing\)](https://open.spotify.com/track/68k2pbbQ6zkg07nvFlyLW0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle \(feat\. Benjamin Roustaing\)](https://open.spotify.com/album/6zATR2IR42heoEaNMjz63p) | 3:24 | 2024-01-11 | 2024-12-04 |
 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 | 2024-11-13 |  |
@@ -138,6 +138,7 @@
 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 | 2023-12-12 | 2024-04-19 |
 | [The Christmas Song](https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m) | [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [The Christmas Song](https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha) | 5:27 | 2024-12-03 | 2025-01-09 |
 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 | 2024-01-11 | 2025-10-25 |
+| [to you](https://open.spotify.com/track/3POXPYAY4VVZPwoYknIM7N) | [tami](https://open.spotify.com/artist/6kAb0LBlfALDVovULIKdIh) | [WINNER](https://open.spotify.com/album/5NQRzZbt5XMgADIB4I9oKp) | 4:35 | 2026-11-10 |  |
 | [Tomorrow](https://open.spotify.com/track/5nQ6kRjN3AwFL1DYrqHQQ5) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Tomorrow](https://open.spotify.com/album/11CTLBOXlw8eXoZ3xerLxv) | 2:41 | 2024-12-17 | 2025-02-07 |
 | [Tomorrow!](https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Tomorrow!](https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU) | 3:17 | 2024-01-11 | 2024-12-20 |
 | [Underneath the Lights](https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Underneath the Lights](https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5) | 3:56 | 2025-12-05 |  |

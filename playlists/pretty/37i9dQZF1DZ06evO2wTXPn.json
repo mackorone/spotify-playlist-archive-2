@@ -1,6 +1,6 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31986,
+  "num_followers": 31987,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Antes De Nacer",
-        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 214268,
-      "name": "Por Si Te Quieres Quedar",
-      "url": "https://open.spotify.com/track/6cP6wjPfk5Ii4tU9nQKRYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mill\u00f3n Como T\u00fa (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 279933,
       "name": "Un Mill\u00f3n Como T\u00fa - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 214268,
+      "name": "Por Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/6cP6wjPfk5Ii4tU9nQKRYm"
     },
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Antes De Nacer",
-        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "El Mejor Verano",
-      "url": "https://open.spotify.com/track/7vRH3UN0yJjgFlnhv5FPOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Medio De Este Ruido (Deluxe)",
         "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 235160,
       "name": "16",
       "url": "https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "El Mejor Verano",
+      "url": "https://open.spotify.com/track/7vRH3UN0yJjgFlnhv5FPOR"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Escap\u00e9monos",
-      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALOS Y BUENOS RECUERDOS",
         "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
       },
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
       "artists": [
         {
@@ -824,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+      "duration_ms": 213626,
+      "name": "Escap\u00e9monos",
+      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
       "duration_ms": 204511,
       "name": "YA VA A VENIR",
       "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
     },
     {
       "added_at": null,

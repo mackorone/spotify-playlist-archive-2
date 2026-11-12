@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40857,
+  "num_followers": 40854,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
+        "name": "A3! BRIGHT WINTER EP",
+        "url": "https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30a2\u30e0[\u5fa1\u5f71 \u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)]",
+          "url": "https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk"
+        },
+        {
+          "name": "\u30ce\u30fc\u30de\u30f3[\u96ea\u767d \u6771(CV:\u67ff\u539f\u5fb9\u4e5f)]",
+          "url": "https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "PLASTIC POKER",
+      "url": "https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
         "name": "A3! SUNNY SPRING EP",
         "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 317440,
       "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
-        "name": "A3! BRIGHT WINTER EP",
-        "url": "https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN"
-      },
-      "artists": [
-        {
-          "name": "\u30ea\u30a2\u30e0[\u5fa1\u5f71 \u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)]",
-          "url": "https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk"
-        },
-        {
-          "name": "\u30ce\u30fc\u30de\u30f3[\u96ea\u767d \u6771(CV:\u67ff\u539f\u5fb9\u4e5f)]",
-          "url": "https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "PLASTIC POKER",
-      "url": "https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! First WINTER EP",
-        "url": "https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH"
+        "name": "A3! VIVID SPRING EP",
+        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
       },
       "artists": [
         {
-          "name": "\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)",
-          "url": "https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt"
+          "name": "\u30e9\u30f3\u30b9\u30ed\u30c3\u30c8[\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)]",
+          "url": "https://open.spotify.com/artist/0geAtmre359jUVwss0ULdT"
+        },
+        {
+          "name": "\u30ac\u30a6\u30a7\u30a4\u30f3[\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)]",
+          "url": "https://open.spotify.com/artist/0ZfTMW0bcID5P59q9uGXvX"
         }
       ],
-      "duration_ms": 270093,
-      "name": "Keyword",
-      "url": "https://open.spotify.com/track/67Fw7BYO1H3WPjcbHGG8eI"
+      "duration_ms": 345386,
+      "name": "The Pride Of The Knights",
+      "url": "https://open.spotify.com/track/6sOEAU7CXh3UkTrh8T6xx4"
     }
   ],
   "unique_name": "A3!",

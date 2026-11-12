@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > "Ik draag geen handtjoeroes, bloten handen op die pijp\. Pakkoes in je straat ik ben diegene die die gast vermijd" \-KLEPPER
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,814 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,828 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

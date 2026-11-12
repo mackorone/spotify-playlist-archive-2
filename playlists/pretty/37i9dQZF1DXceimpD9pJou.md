@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\. Foto: Lowsan Melgar
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,415 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,432 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 34 | [Él Es Mi Rey](https://open.spotify.com/track/01a5wur3QTv2TykDzfyzRJ) | [Chris Armand](https://open.spotify.com/artist/3HCLfuxaMWLOTBaAa0LLYX) | [Él Es Mi Rey](https://open.spotify.com/album/2xdL0AZp4ADPjF70FPMQO7) | 6:55 |
 | 35 | [Gracias](https://open.spotify.com/track/2vlHRwGS6xgufxW1W5OKT0) | [De Lino Worship](https://open.spotify.com/artist/3Fu0msITDTUq6r5NuS9eDF), [Pedro Morales](https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR), [Iliana Beilis](https://open.spotify.com/artist/0M7sT6Nx1RcqaethibxHYs) | [Gracias](https://open.spotify.com/album/6WidnjbFu1de06kbStX30d) | 3:54 |
 | 36 | [Roca De Eternidad \- Live Session](https://open.spotify.com/track/5zdVkGgLIYmtSpdhYwdKqJ) | [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb), [Nico Cabrera](https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF) | [Roca De Eternidad \(Live Session\)](https://open.spotify.com/album/2Nl2yTB2uGDQ3eXvtKQpL5) | 4:19 |
-| 37 | [INTENCIÓN](https://open.spotify.com/track/3Cx0OoGN9xlTmyxgj3xSix) | [Propósito Con Estilo](https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN) | [INTENCIÓN](https://open.spotify.com/album/7Avt0CAZAeIEx5OysiB5PZ) | 2:34 |
+| 37 | [INTENCIÓN](https://open.spotify.com/track/3Cx0OoGN9xlTmyxgj3xSix) | [Propósito Con Estilo](https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN) | [INTENCIÓN](https://open.spotify.com/album/7Avt0CAZAeIEx5OysiB5PZ) | 2:33 |
 | 38 | [De Vuelta Al Redil](https://open.spotify.com/track/42G0FA4ITOeCpjS0ghAiRR) | [Grupo Reinado](https://open.spotify.com/artist/3UBqBFSvUZ5l362usGNk0Q), [Con Ritmo Music](https://open.spotify.com/artist/4EVLaDN05KZf6TJXhHoWUi) | [De Vuelta Al Redil](https://open.spotify.com/album/2dExuubVhBWmljztOmUcKl) | 3:22 |
 | 39 | [Montalvo](https://open.spotify.com/track/3yGDhFjkFyqndWXH4yPy60) | [Albert Miliano](https://open.spotify.com/artist/7ofAYf298XeFeUCLMzseYf) | [Cristiano Bacano](https://open.spotify.com/album/2N7slcVwsGWBmbWsixbB8l) | 2:54 |
 | 40 | [50/50](https://open.spotify.com/track/6DBhQW3JPy2esBDXPGp6Po) | [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR), [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG) | [Archivo Negro](https://open.spotify.com/album/4AX8uBpXFV630TMLxYLwSB) | 2:29 |

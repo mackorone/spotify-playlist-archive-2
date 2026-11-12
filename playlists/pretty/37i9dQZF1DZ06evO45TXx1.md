@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,349 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,350 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Mundo das Espertas](https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 4:02 |
 | 50 | [Sucessagem](https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb) | [Mulambo](https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu), [ykymani](https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Sucessagem](https://open.spotify.com/album/5PFd9qeZkm2U9DjHxWNb7F) | 2:27 |
 
-Snapshot ID: `au+7gAAAAABLuQ/873g6UP/m0Bue+u9Y`
+Snapshot ID: `avENAAAAAACef3dZydYxbX/rhi8bVmrW`

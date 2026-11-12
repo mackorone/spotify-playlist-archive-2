@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "9mm + B-sider",
+        "url": "https://open.spotify.com/album/5dsceFDqt0Wgf8CBtQJeRh"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208480,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/4BNjRQkDGSSgt2Nfi5XNdq"
+    },
+    {
+      "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
       },
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 210400,
       "name": "9mm",
       "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
@@ -19734,7 +19752,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 146131,
       "name": "G\u00d8R NOGET",
       "url": "https://open.spotify.com/track/1iEBaWNVcztn9z1JQ1N9ly"
@@ -25376,7 +25394,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 183713,
       "name": "Ingen Kommentar",
       "url": "https://open.spotify.com/track/5iK37UFKFmMbn1DsM436To"
@@ -27558,7 +27576,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 186843,
       "name": "kendt mig en uge",
       "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
@@ -28346,7 +28364,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 170986,
       "name": "Kongespil - Tinka og Kongespillet",
       "url": "https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH"
@@ -30288,7 +30306,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 208188,
       "name": "Lille Store Verden",
       "url": "https://open.spotify.com/track/4ZmaxcxpEmzZgsMZPRdLIG"
@@ -35335,6 +35353,32 @@
     },
     {
       "album": {
+        "name": "No Mercy - feat. ozzy & Noah Carter",
+        "url": "https://open.spotify.com/album/2d35bdiWicAe4OQ22PPuW2"
+      },
+      "artists": [
+        {
+          "name": "GUSTO",
+          "url": "https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162629,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/0yeUoKKCMVBahr1kqlOemC"
+    },
+    {
+      "album": {
         "name": "No Mercy",
         "url": "https://open.spotify.com/album/7xwJjafwpApMwasiEszGbq"
       },
@@ -35354,7 +35398,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 162629,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/4kSsO50b4j4gFy6EXquXho"
@@ -49698,7 +49742,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

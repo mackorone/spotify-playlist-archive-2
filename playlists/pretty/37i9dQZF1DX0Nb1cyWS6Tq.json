@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 974961,
+  "num_followers": 975067,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
+        "name": "Isn\u2019t Anything",
+        "url": "https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 295280,
       "name": "One by One",
       "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
-        "name": "Isn\u2019t Anything",
-        "url": "https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Stone",
-          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
-        }
-      ],
-      "duration_ms": 180107,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/3wnntc87QqNIh12CUsuqzq"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 249773,
       "name": "Deep Ocean Vast Sea",
       "url": "https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        }
+      ],
+      "duration_ms": 180107,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/3wnntc87QqNIh12CUsuqzq"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Lonely Is An Eyesore",
-        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Muscoviet Mosquito",
-      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Felt Mountain",
         "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 310266,
       "name": "Horse Tears",
       "url": "https://open.spotify.com/track/2QzT0Ld6RZxdskwGEZNV2D"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Lonely Is An Eyesore",
+        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Muscoviet Mosquito",
+      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
     },
     {
       "added_at": "2026-03-20 04:00:51",

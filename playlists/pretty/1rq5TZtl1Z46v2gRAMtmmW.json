@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32056,
+  "num_followers": 32057,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAASVEJDoi+ImylVSDQhVLvaikXkSB9S",
+  "snapshot_id": "AAASVU71xNdIlzjjtzTX/APK9k7ne6iZ",
   "tracks": [
     {
       "added_at": "2026-10-20 19:13:48",
@@ -2051,6 +2051,26 @@
       "duration_ms": 200000,
       "name": "Rising Up",
       "url": "https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH"
+    },
+    {
+      "added_at": "2026-11-11 15:01:45",
+      "album": {
+        "name": "Modern Dystopia",
+        "url": "https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "Modern Dystopia",
+      "url": "https://open.spotify.com/track/6IqHpduxivldFZLl346XkU"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

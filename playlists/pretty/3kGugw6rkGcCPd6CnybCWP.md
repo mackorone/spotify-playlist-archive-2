@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,157 likes - 100 songs - 5 hr 44 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 109 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,14 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 98 | [Boy](https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Goodbye Nordhamn](https://open.spotify.com/album/2JFELJc4pCmyYVlq6uhG7t) | 4:34 |
 | 99 | [incel forums](https://open.spotify.com/track/4Fcpu0gJv8sZuuKdDiCeG9) | [phase](https://open.spotify.com/artist/7rf98Kl9DJsV2zZz0B4ue0) | [incel forums](https://open.spotify.com/album/7kprkkfEm24QYCOftJJkYv) | 2:11 |
 | 100 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
+| 101 | [DYI \(Dance Yourself Insane\)](https://open.spotify.com/track/5A9lSpEGiDJKXCJDSlV9HY) | [Sundozer](https://open.spotify.com/artist/2AOmKCq6cV9yD17FjCYgxW) | [DYI \(Dance Yourself Insane\)](https://open.spotify.com/album/6edDNnOqnIzc6Q9HkYW4WK) | 4:21 |
+| 102 | [Miyazaki](https://open.spotify.com/track/7AoEGQ8n8E6nREvgzM8aiY) | [Finde Fantasma](https://open.spotify.com/artist/0Ll82dHz6oTK1LemBg570g) | [Miyazaki](https://open.spotify.com/album/4qcmDct2QKqr3K3WAoP1zJ) | 3:11 |
+| 103 | [Anew World](https://open.spotify.com/track/5OJIY6qrBaeWqwEWovguv6) | [Sunny Daydream](https://open.spotify.com/artist/0siuz8jBpMOgcEu202EZHu) | [Anew World](https://open.spotify.com/album/4BYZDu0aBkniTzTgqv9BJq) | 4:27 |
+| 104 | [Moksha](https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF) | [Pale State](https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA) | [Moksha](https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3) | 4:00 |
+| 105 | [Born Again](https://open.spotify.com/track/4LT9snGF4EdfDCw5F1zkxZ) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD) | 3:07 |
+| 106 | [Pool Of Blue](https://open.spotify.com/track/4fmQkcg6mwsmjrPvXwKuL3) | [Chandler Kosterman](https://open.spotify.com/artist/1VAdxgSgTeKEZ5pZY3EHpw) | [Pool Of Blue](https://open.spotify.com/album/54STGrj30J1Qt0x8oUny6O) | 2:59 |
+| 107 | [Pink Lady](https://open.spotify.com/track/3qlOS0epFb3BeMunquhT5f) | [Chandler Kosterman](https://open.spotify.com/artist/1VAdxgSgTeKEZ5pZY3EHpw) | [Pink Lady](https://open.spotify.com/album/2HZ7UWFGI1eSU5TLlYzln5) | 2:54 |
+| 108 | [Dancing In My Mind](https://open.spotify.com/track/5akaXPb2Mkf5fhpNCGflZE) | [Just Passing Through](https://open.spotify.com/artist/5RQczrs9bNSuwSgwACYNm6) | [Dancing In My Mind](https://open.spotify.com/album/1u0BMhgwFa6Nhtn0EfmHoG) | 3:08 |
+| 109 | [Tussen de Rode Lijnen](https://open.spotify.com/track/0hQKCD6PH7umQiEdgG4xfu) | [HAITZE](https://open.spotify.com/artist/6xWBsH2UxwLqHi5eftzdZ1) | [Tussen de Rode Lijnen](https://open.spotify.com/album/18jkEgxt7VYs5bHxvBHP5i) | 2:56 |
 
-Snapshot ID: `AAAQSEHk54yWgkxRjBGUkAZau8QvRR33`
+Snapshot ID: `AAAQUVl0GswSwIFz9E1tMjJkVAbXLHrB`

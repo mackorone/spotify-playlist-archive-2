@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,546 likes - 183 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,545 likes - 183 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 182 | [Buzzcut](https://open.spotify.com/track/7MtoF9z1wMtDqjbS7SJtEQ) | [St\. Augustine](https://open.spotify.com/artist/64Z3eqSabqBVpnGRRaUAfD) | [DEMOS](https://open.spotify.com/album/7zQ8bD7zGpk27yc2tHf6FN) | 3:48 |
 | 183 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AchVDgAAAADEXf63FyOusVGeztB9pxDp`
+Snapshot ID: `AchbJgAAAADanZOxZ4hraeiUtofL5jA9`

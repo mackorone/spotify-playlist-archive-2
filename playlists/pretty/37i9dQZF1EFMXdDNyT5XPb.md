@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 367 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 58 | [Me and the Moon](https://open.spotify.com/track/1kC5ztNhsVxh3uKBSKAout) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:35 |
 | 59 | [Designer](https://open.spotify.com/track/2cdIoTQN2tiFoKPh1b8bH7) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Designer](https://open.spotify.com/album/2iy0EWYF5LfydMsc6E3Hrr) | 2:01 |
 | 60 | [London Bound](https://open.spotify.com/track/23W5DnkWMWTa78tLM3XMJP) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [We Are](https://open.spotify.com/album/36p4rYj7sADNICFRGBAy3H) | 2:53 |
-| 61 | [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 |
-| 62 | [Collide](https://open.spotify.com/track/59lrjocxqKQiPbTyHiD9Oo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Collide](https://open.spotify.com/album/3c8ps31q7g5MBu8RsWQ7FJ) | 3:28 |
+| 61 | [Collide](https://open.spotify.com/track/59lrjocxqKQiPbTyHiD9Oo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Collide](https://open.spotify.com/album/3c8ps31q7g5MBu8RsWQ7FJ) | 3:28 |
+| 62 | [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 |
 | 63 | [Circles](https://open.spotify.com/track/4dhMpEWM6cfUb9VLlDJAi5) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Circles](https://open.spotify.com/album/1Yv8VGjibXgXKDrCBVqiLI) | 2:32 |
 | 64 | [One More Drink](https://open.spotify.com/track/1hVDx7jZdR0re5I0hxZheO) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:13 |
 | 65 | [This Must Be Christmas \- Single Mix](https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [This Must Be Christmas](https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb) | 3:33 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 114 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 115 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AchVGAAAAABQJhvzMDaZAAvonikdJaBJ`
+Snapshot ID: `AchbMAAAAACHMi/PEMuiPcwbRwP2YCbS`

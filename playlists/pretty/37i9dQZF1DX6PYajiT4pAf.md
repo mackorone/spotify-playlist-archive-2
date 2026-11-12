@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > C\. Tangana, La Pantera, Duki, Manuel Turizo & J Balvin, Agorazein  y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,502 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,485 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

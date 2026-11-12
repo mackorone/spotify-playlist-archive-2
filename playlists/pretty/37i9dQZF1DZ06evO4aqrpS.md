@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,737 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,835 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 8 | [Dime](https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:40 |
 | 9 | [Al Norte](https://open.spotify.com/track/5hBI1he3oDinoZPS2IaRIp) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 3:19 |
 | 10 | [Para vivir](https://open.spotify.com/track/6SFt1kzei45M8plu3VVdtT) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cosas de los vivientes](https://open.spotify.com/album/00gE14v4P0wQj8Qicor3yu) | 3:42 |
-| 11 | [HABLAR DE TI \(...\)](https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [HABLAR DE TI \(...\)](https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub) | 3:38 |
-| 12 | [Tregua](https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 2:10 |
-| 13 | [Sabré Olvidar](https://open.spotify.com/track/04rJsvvczPIxiyXVnOAytj) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 4:07 |
+| 11 | [Tregua](https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 2:10 |
+| 12 | [Sabré Olvidar](https://open.spotify.com/track/04rJsvvczPIxiyXVnOAytj) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 4:07 |
+| 13 | [HABLAR DE TI \(...\)](https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [HABLAR DE TI \(...\)](https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub) | 3:38 |
 | 14 | [Ser de Ti](https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 3:27 |
 | 15 | [El Alma Mía](https://open.spotify.com/track/5m2P2Etjjy6W1AHyzLXVSJ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 4:29 |
 | 16 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 47 | [Dios Nunca Muere](https://open.spotify.com/track/4n6WuF8iQ8zELVtwjdyzV0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Música por Mi México](https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr) | 2:50 |
 | 48 | [Lo Sagrado](https://open.spotify.com/track/6bhAUwtrHTPLuFRY2GYCdL) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 3:30 |
 
-Snapshot ID: `au+7gAAAAABd430zgDD5A0SNJ3g+xLsv`
+Snapshot ID: `avENAAAAAAB5/TE8O0VPNHKgdWXqa7eg`

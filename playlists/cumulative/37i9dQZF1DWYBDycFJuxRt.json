@@ -26463,6 +26463,24 @@
     },
     {
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Blue Ocean",
+      "url": "https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I"
+    },
+    {
+      "album": {
         "name": "Blue Shining Star",
         "url": "https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE"
       },
@@ -196621,24 +196639,6 @@
     },
     {
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc"
-      },
-      "artists": [
-        {
-          "name": "Sala",
-          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
-        }
-      ],
-      "date_added": "2026-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -314168,8 +314168,8 @@
           "url": "https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB"
         },
         {
-          "name": "\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/4BWVSdi3SK9A2NlFuvFznN"
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
       "date_added": "2026-11-10",

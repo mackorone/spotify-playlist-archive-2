@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekhun tera nishaan hai, mehraab\-e\-dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,854 likes - 80 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,921 likes - 80 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 13 | [Ainay](https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Tehzeeb Hafi](https://open.spotify.com/artist/2XZWheJXPLb99FDdImPP2o) | [Ainay](https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL) | 5:28 |
 | 14 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 |
 | 15 | [O Rangrez](https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Yusuf Mohammed](https://open.spotify.com/artist/5XWfOrZhMMjoBTKcAgtFxe), [Vajid Ali](https://open.spotify.com/artist/3cXNzZYIOUpv22w4iJm42t) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 6:24 |
-| 16 | [Aatish](https://open.spotify.com/track/6bJJMam29IyvathYLst3uY) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [Aatish](https://open.spotify.com/album/1UiQTSF62IFdoOoGcW04xc) | 2:38 |
+| 16 | [Aatish](https://open.spotify.com/track/6bJJMam29IyvathYLst3uY) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [Aatish](https://open.spotify.com/album/1UiQTSF62IFdoOoGcW04xc) | 2:37 |
 | 17 | [Allah Hi Reham](https://open.spotify.com/track/3WbmZDODopN9M7lDWd6uey) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa) | 4:01 |
 | 18 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 |
 | 19 | [Ye Rang](https://open.spotify.com/track/7cM0mHXDVmyBjWHzLqlwZh) | [Quaid Ahmed](https://open.spotify.com/artist/1UyH5bHkguI8ufisAClFLJ), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [Ye Rang](https://open.spotify.com/album/1cM92PlMSWbqwRhRhglrS9) | 3:15 |

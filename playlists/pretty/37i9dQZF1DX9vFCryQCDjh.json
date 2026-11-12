@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 21821,
+  "num_followers": 21835,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "\ud544\ub9bd",
-        "url": "https://open.spotify.com/album/43lqh3WdojwCeQXuMXB0CG"
-      },
-      "artists": [
-        {
-          "name": "KYT",
-          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "\ube44\ubabd",
-      "url": "https://open.spotify.com/track/5Tfrww1bUFKgE7HjZFw7OG"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "1\uc9d1-\uc815",
         "url": "https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 230791,
       "name": "\uc815",
       "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "\ud544\ub9bd",
+        "url": "https://open.spotify.com/album/43lqh3WdojwCeQXuMXB0CG"
+      },
+      "artists": [
+        {
+          "name": "KYT",
+          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "\ube44\ubabd",
+      "url": "https://open.spotify.com/track/5Tfrww1bUFKgE7HjZFw7OG"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "PERFECT LOVE",
         "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 200097,
       "name": "White love",
       "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Seotaiji and Boys IV",
-        "url": "https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/5sJTlfMwhlvspaozMic4Ca"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Choose My Life-U",
         "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 228000,
       "name": "Just A Feeling - Original Version",
       "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Seotaiji and Boys IV",
+        "url": "https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5sJTlfMwhlvspaozMic4Ca"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Let's Go To My Star",
-        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
       "artists": [
         {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 198360,
-      "name": "\ubc14\uafd4",
-      "url": "https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T"
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+        "name": "Let's Go To My Star",
+        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
       },
       "artists": [
         {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
         }
       ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
+      "duration_ms": 198360,
+      "name": "\ubc14\uafd4",
+      "url": "https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "I Love Natural",
-        "url": "https://open.spotify.com/album/5hliZRj6sFdXxLodgGVoHq"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "\uc544\ub9ac\uc544\ub9ac",
-      "url": "https://open.spotify.com/track/69LcwgtSsa6rPe42V1HatR"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "VOICE MAIL",
         "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 217417,
       "name": "\ud3c9\uc0dd",
       "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "I Love Natural",
+        "url": "https://open.spotify.com/album/5hliZRj6sFdXxLodgGVoHq"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "\uc544\ub9ac\uc544\ub9ac",
+      "url": "https://open.spotify.com/track/69LcwgtSsa6rPe42V1HatR"
     },
     {
       "added_at": "2024-08-05 17:06:13",

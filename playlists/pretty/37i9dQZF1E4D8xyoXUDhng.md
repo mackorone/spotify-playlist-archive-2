@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Vickie Winans, Daryl Coley and more
+> With Kelontae Gavin, Mikael Karlsson, Vickie Winans and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 5 hr 11 min
 

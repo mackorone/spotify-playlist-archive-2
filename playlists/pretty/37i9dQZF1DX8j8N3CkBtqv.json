@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring NAALAYAK, Mary Ann Alexander, Mali and other exciting artists.\n",
-  "num_followers": 119769,
+  "num_followers": 119777,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
-        "name": "Halki Halki",
-        "url": "https://open.spotify.com/album/2Je64huDcPfZkx7M4jl2VL"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 178899,
-      "name": "Halki Halki",
-      "url": "https://open.spotify.com/track/20FVN0wtdqkyhGSIJjr4qz"
-    },
-    {
-      "added_at": "2026-11-06 05:57:50",
-      "album": {
         "name": "Naina Saavan",
         "url": "https://open.spotify.com/album/7DYQJTPNFGhIwvBEyqME4v"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 264000,
       "name": "Naina Saavan",
       "url": "https://open.spotify.com/track/4zDxjgxg2gZDSnKCUIyQJA"
+    },
+    {
+      "added_at": "2026-11-06 05:57:50",
+      "album": {
+        "name": "Halki Halki",
+        "url": "https://open.spotify.com/album/2Je64huDcPfZkx7M4jl2VL"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 178899,
+      "name": "Halki Halki",
+      "url": "https://open.spotify.com/track/20FVN0wtdqkyhGSIJjr4qz"
     },
     {
       "added_at": "2026-11-06 05:57:50",
@@ -643,6 +643,30 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
+        "name": "Sun Mahiya",
+        "url": "https://open.spotify.com/album/69XAGtppNl5lUKgebw414k"
+      },
+      "artists": [
+        {
+          "name": "Chaitanya Kapadia",
+          "url": "https://open.spotify.com/artist/6UFYVLwCYJ5KwctNvBS9of"
+        },
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        }
+      ],
+      "duration_ms": 198041,
+      "name": "Sun Mahiya",
+      "url": "https://open.spotify.com/track/3ewUROGsslyniQOduN6fqr"
+    },
+    {
+      "added_at": "2026-11-06 05:57:50",
+      "album": {
         "name": "Nai Lagda",
         "url": "https://open.spotify.com/album/3UY1WAt2dTGTV4K6tjguMK"
       },
@@ -667,22 +691,6 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
-        "name": "Tu Koi Aur Hai",
-        "url": "https://open.spotify.com/album/40LLE4DnPPXwdbInq6TYIR"
-      },
-      "artists": [
-        {
-          "name": "Shunya",
-          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
-        }
-      ],
-      "duration_ms": 304166,
-      "name": "Tu Koi Aur Hai",
-      "url": "https://open.spotify.com/track/3LQqccXWKya2nHcCawVwxe"
-    },
-    {
-      "added_at": "2026-11-06 05:57:50",
-      "album": {
         "name": "Gumsum",
         "url": "https://open.spotify.com/album/29vtSVqCu8iJRhaZJeXewz"
       },
@@ -703,26 +711,34 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
-        "name": "Sun Mahiya",
-        "url": "https://open.spotify.com/album/69XAGtppNl5lUKgebw414k"
+        "name": "Tu Koi Aur Hai",
+        "url": "https://open.spotify.com/album/40LLE4DnPPXwdbInq6TYIR"
       },
       "artists": [
         {
-          "name": "Chaitanya Kapadia",
-          "url": "https://open.spotify.com/artist/6UFYVLwCYJ5KwctNvBS9of"
-        },
-        {
-          "name": "Aniket Shukla",
-          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
-        },
-        {
-          "name": "Priyansh Srivastava",
-          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
         }
       ],
-      "duration_ms": 198041,
-      "name": "Sun Mahiya",
-      "url": "https://open.spotify.com/track/3ewUROGsslyniQOduN6fqr"
+      "duration_ms": 304166,
+      "name": "Tu Koi Aur Hai",
+      "url": "https://open.spotify.com/track/3LQqccXWKya2nHcCawVwxe"
+    },
+    {
+      "added_at": "2026-11-06 05:57:50",
+      "album": {
+        "name": "Ek Raat",
+        "url": "https://open.spotify.com/album/3RgJqadOR0by6TFp7lTrHe"
+      },
+      "artists": [
+        {
+          "name": "Moses Koul",
+          "url": "https://open.spotify.com/artist/2kvK8K0Vhnx3LXQxBP4lLn"
+        }
+      ],
+      "duration_ms": 181161,
+      "name": "Ek Raat",
+      "url": "https://open.spotify.com/track/6mK67owD4ucavQWowZSXGC"
     },
     {
       "added_at": "2026-11-06 05:57:50",
@@ -799,22 +815,6 @@
       "duration_ms": 169520,
       "name": "Kab Se Baithe",
       "url": "https://open.spotify.com/track/3Sz8CDyUEvRMHxie8BAtwH"
-    },
-    {
-      "added_at": "2026-11-06 05:57:50",
-      "album": {
-        "name": "Ek Raat",
-        "url": "https://open.spotify.com/album/3RgJqadOR0by6TFp7lTrHe"
-      },
-      "artists": [
-        {
-          "name": "Moses Koul",
-          "url": "https://open.spotify.com/artist/2kvK8K0Vhnx3LXQxBP4lLn"
-        }
-      ],
-      "duration_ms": 181161,
-      "name": "Ek Raat",
-      "url": "https://open.spotify.com/track/6mK67owD4ucavQWowZSXGC"
     },
     {
       "added_at": "2026-11-06 05:57:50",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
+        "name": "Jo Bhi Main Kahun",
+        "url": "https://open.spotify.com/album/1qBiLVtwyAsgYMtiUCGGIv"
+      },
+      "artists": [
+        {
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+        }
+      ],
+      "duration_ms": 262190,
+      "name": "Jo Bhi Main Kahun",
+      "url": "https://open.spotify.com/track/2HODRdc67oQ8YLv4X6ZbIc"
+    },
+    {
+      "added_at": "2026-11-06 05:57:50",
+      "album": {
         "name": "Hisaab Kitaab",
         "url": "https://open.spotify.com/album/3PA83P0z6TheCVaNFtw4Tm"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 253913,
       "name": "Jaan lutaaun",
       "url": "https://open.spotify.com/track/1AN89gHhSIhIROl06qodK5"
-    },
-    {
-      "added_at": "2026-11-06 05:57:50",
-      "album": {
-        "name": "Jo Bhi Main Kahun",
-        "url": "https://open.spotify.com/album/1qBiLVtwyAsgYMtiUCGGIv"
-      },
-      "artists": [
-        {
-          "name": "Shunya",
-          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
-        }
-      ],
-      "duration_ms": 262190,
-      "name": "Jo Bhi Main Kahun",
-      "url": "https://open.spotify.com/track/2HODRdc67oQ8YLv4X6ZbIc"
     },
     {
       "added_at": "2026-11-06 05:57:50",
@@ -1195,26 +1195,18 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
-        "name": "Barkha Pukaare",
-        "url": "https://open.spotify.com/album/1dhqAlDbPC9dL2xxJle5gT"
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/4l85bemd9bln57Mgqawk1N"
       },
       "artists": [
         {
-          "name": "Akashdeep Sengupta",
-          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
-        },
-        {
-          "name": "Alok Ranjan Srivastava",
-          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
-        },
-        {
-          "name": "Nakul Chugh",
-          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+          "name": "Apartment Upstairs",
+          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
         }
       ],
-      "duration_ms": 158033,
-      "name": "Barkha Pukaare",
-      "url": "https://open.spotify.com/track/5GTP6COs9ljeMnzpB7BCia"
+      "duration_ms": 259000,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/0d4373qqHl8NtXMVJi5q6Z"
     },
     {
       "added_at": "2026-11-06 05:57:50",
@@ -1239,6 +1231,30 @@
       "duration_ms": 235636,
       "name": "Chaand Taare",
       "url": "https://open.spotify.com/track/1nInzDozug1NYuPNEac2sL"
+    },
+    {
+      "added_at": "2026-11-06 05:57:50",
+      "album": {
+        "name": "Barkha Pukaare",
+        "url": "https://open.spotify.com/album/1dhqAlDbPC9dL2xxJle5gT"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "duration_ms": 158033,
+      "name": "Barkha Pukaare",
+      "url": "https://open.spotify.com/track/5GTP6COs9ljeMnzpB7BCia"
     },
     {
       "added_at": "2026-11-06 05:57:50",
@@ -1283,18 +1299,38 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/4l85bemd9bln57Mgqawk1N"
+        "name": "gunaah",
+        "url": "https://open.spotify.com/album/1zwp5SAVhtuJS1OGNSqd0a"
       },
       "artists": [
         {
-          "name": "Apartment Upstairs",
-          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
+          "name": "Sagar Verma",
+          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
+        },
+        {
+          "name": "Dwai",
+          "url": "https://open.spotify.com/artist/6dWYZ1RLHdVgLjvcKOG9aK"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/0d4373qqHl8NtXMVJi5q6Z"
+      "duration_ms": 190298,
+      "name": "gunaah",
+      "url": "https://open.spotify.com/track/1zHmIcC6PtvZaHiCVcdSa1"
+    },
+    {
+      "added_at": "2026-11-06 05:57:50",
+      "album": {
+        "name": "Rihaa",
+        "url": "https://open.spotify.com/album/3R2O1pJlzKd1uWk6m2BHjk"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar Collective",
+          "url": "https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "Rihaa",
+      "url": "https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi"
     },
     {
       "added_at": "2026-11-06 05:57:50",
@@ -1319,42 +1355,6 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
-        "name": "Na Ja Sajna",
-        "url": "https://open.spotify.com/album/3jDGqCes9I4BdWgiBs51sM"
-      },
-      "artists": [
-        {
-          "name": "SHATAKSHI SHARMA",
-          "url": "https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO"
-        }
-      ],
-      "duration_ms": 224415,
-      "name": "Na Ja Sajna",
-      "url": "https://open.spotify.com/track/2yUiUKfdHZAl3Vdiy6SI4C"
-    },
-    {
-      "added_at": "2026-11-06 05:57:50",
-      "album": {
-        "name": "gunaah",
-        "url": "https://open.spotify.com/album/1zwp5SAVhtuJS1OGNSqd0a"
-      },
-      "artists": [
-        {
-          "name": "Sagar Verma",
-          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
-        },
-        {
-          "name": "Dwai",
-          "url": "https://open.spotify.com/artist/6dWYZ1RLHdVgLjvcKOG9aK"
-        }
-      ],
-      "duration_ms": 190298,
-      "name": "gunaah",
-      "url": "https://open.spotify.com/track/1zHmIcC6PtvZaHiCVcdSa1"
-    },
-    {
-      "added_at": "2026-11-06 05:57:50",
-      "album": {
         "name": "Raahi",
         "url": "https://open.spotify.com/album/1dKuSq4irqfOqOzFkC665L"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-11-06 05:57:50",
       "album": {
-        "name": "Rihaa",
-        "url": "https://open.spotify.com/album/3R2O1pJlzKd1uWk6m2BHjk"
+        "name": "Na Ja Sajna",
+        "url": "https://open.spotify.com/album/3jDGqCes9I4BdWgiBs51sM"
       },
       "artists": [
         {
-          "name": "Anand Bhaskar Collective",
-          "url": "https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c"
+          "name": "SHATAKSHI SHARMA",
+          "url": "https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO"
         }
       ],
-      "duration_ms": 269013,
-      "name": "Rihaa",
-      "url": "https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi"
+      "duration_ms": 224415,
+      "name": "Na Ja Sajna",
+      "url": "https://open.spotify.com/track/2yUiUKfdHZAl3Vdiy6SI4C"
     },
     {
       "added_at": "2026-11-06 05:57:50",

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192270,
+  "num_followers": 192280,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -464,7 +464,7 @@
           "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
         }
       ],
-      "duration_ms": 195669,
+      "duration_ms": 195692,
       "name": "Defeito Meu",
       "url": "https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN"
     },
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Relevuras",
         "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Coisas Simples",
         "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
@@ -719,26 +719,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Dubl\u00ea",
-        "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
+        "name": "Sem Ponto e Sem V\u00edrgula",
+        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
       },
       "artists": [
         {
-          "name": "Don",
-          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
         },
         {
-          "name": "Monrabeatz",
-          "url": "https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C"
-        },
-        {
-          "name": "Juce Rock",
-          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 158105,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
+      "duration_ms": 201532,
+      "name": "Sem Ponto e Sem V\u00edrgula",
+      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -787,6 +783,30 @@
       "duration_ms": 202200,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/7DQ6QsjW0oYu2x5xWm78W4"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Dubl\u00ea",
+        "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Monrabeatz",
+          "url": "https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C"
+        },
+        {
+          "name": "Juce Rock",
+          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
+        }
+      ],
+      "duration_ms": 158105,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -855,26 +875,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Sem Ponto e Sem V\u00edrgula",
-        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 201532,
-      "name": "Sem Ponto e Sem V\u00edrgula",
-      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 183210,
       "name": "a1",
       "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2026-11-06 16:01:03",

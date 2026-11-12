@@ -3051,6 +3051,28 @@
     },
     {
       "album": {
+        "name": "Kalank (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311186,
+      "name": "Kalank - Title Track",
+      "url": "https://open.spotify.com/track/7G5wpuR61ABrT7R1snos7C"
+    },
+    {
+      "album": {
         "name": "Kalle Kalle (From \"Chandigarh Kare Aashiqui\")",
         "url": "https://open.spotify.com/album/6QJUBLyhuSfrrXsdxvbHT5"
       },
@@ -4338,7 +4360,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 223000,
       "name": "Mera Hua (From \"Ek Deewane Ki Deewaniyat\") - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6AruzerQiOr65Muh9T7rGI"

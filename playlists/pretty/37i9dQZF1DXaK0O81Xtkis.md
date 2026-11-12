@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring OK MICKEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,941 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,909 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [gay allegations ft\. my girlfriend](https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld) | [OK MICKEY](https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC) | [gay allegations ft\. my girlfriend](https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3) | 1:59 |
-| 2 | [big fat crush \- bonus track](https://open.spotify.com/track/2yqg5GHkV8KDhx3QUwAxCg) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [bleach \(with bonus track\)](https://open.spotify.com/album/13smoUJ9V9xxNQIDgbMbsL) | 2:53 |
+| 2 | [big fat crush \- bonus track](https://open.spotify.com/track/2yqg5GHkV8KDhx3QUwAxCg) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [bleach](https://open.spotify.com/album/13smoUJ9V9xxNQIDgbMbsL) | 2:53 |
 | 3 | [Life Of The Party](https://open.spotify.com/track/6pJzH5GrCZv7iCw3R2XDTp) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [could this be forever?](https://open.spotify.com/album/3P9V0bvpHKtW4wlcyjzFVu) | 3:06 |
 | 4 | [Kiss](https://open.spotify.com/track/51RgPzTTfxdtAZvmqPxUSx) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Kiss](https://open.spotify.com/album/68BTIBgW5y8rWV6K9gPjH9) | 3:01 |
 | 5 | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT) | 3:13 |

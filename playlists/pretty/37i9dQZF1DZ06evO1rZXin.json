@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7600,
+  "num_followers": 7601,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAADHH8eDPRJSK2wSFe74qobH",
+  "snapshot_id": "avENAAAAAACHCsZWwWNKlop+d1pgpiyc",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/0QreSIT65xmICsStYKQWbd"
+        "name": "Pa'Yo (29 Aniversario)",
+        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/4CSjFJF3l1fBuza2sAe0yt"
+      "duration_ms": 171135,
+      "name": "Pa'Yo (29 Aniversario)",
+      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'Yo (29 Aniversario)",
-        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/0QreSIT65xmICsStYKQWbd"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 171135,
-      "name": "Pa'Yo (29 Aniversario)",
-      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/4CSjFJF3l1fBuza2sAe0yt"
     },
     {
       "added_at": null,

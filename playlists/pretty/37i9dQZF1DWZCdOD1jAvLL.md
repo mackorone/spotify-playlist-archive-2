@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Wraz\. + Hypho
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,382 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,400 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 40 | [GRIT](https://open.spotify.com/track/2KMQQ1yvUUOgVjGDBStDRp) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [GRIT](https://open.spotify.com/album/1EKor2rfqEsTN1O9AEOoQz) | 3:29 |
 | 41 | [EXES IN TEXAS](https://open.spotify.com/track/1tl8N5xqVezqcA6xtITbfi) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Rhyder](https://open.spotify.com/artist/3eoOvS1AeEVfYwSF1HVr0S) | [EXES IN TEXAS](https://open.spotify.com/album/7m9tqzACi2vGXz6Oir9E3n) | 2:35 |
 | 42 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 |
-| 43 | [FTCU \(feat\. Mad Des\)](https://open.spotify.com/track/4F26R7vBKzplQ94RTrdJ0w) | [.EXA](https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i), [Mad Des](https://open.spotify.com/artist/0SMN6fPFotWNfurEYnxX5v) | [FTCU \(feat\. Mad Des\)](https://open.spotify.com/album/5afVEXlA91OO2PC1rN4h4l) | 3:15 |
+| 43 | [FTCU](https://open.spotify.com/track/4F26R7vBKzplQ94RTrdJ0w) | [.EXA](https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i), [Mad Des](https://open.spotify.com/artist/0SMN6fPFotWNfurEYnxX5v) | [FTCU](https://open.spotify.com/album/5afVEXlA91OO2PC1rN4h4l) | 3:15 |
 | 44 | [I Like You A Lot \(feat\. WEiRD GRRL\)](https://open.spotify.com/track/7nP9J6MXXAQk84LAMgymVT) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl), [WEiRD GRRL](https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz) | [I Like You A Lot \(feat\. WEiRD GRRL\)](https://open.spotify.com/album/1eSuc0v6KF2XqQpcpboKnD) | 3:02 |
 | 45 | [mind be so numb](https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [mind be so numb](https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg) | 3:15 |
 | 46 | [Greenlight](https://open.spotify.com/track/6bnlnbrb2gY8H5IaTJmcaS) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Greenlight](https://open.spotify.com/album/4Lse2On8mDUPTJZAPVsTOH) | 2:50 |

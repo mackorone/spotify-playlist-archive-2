@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: D.A.N.
 
-4,094 songs - 10 day 19 hr 22 min
+4,094 songs - 10 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Blue Hole](https://open.spotify.com/track/0nQu8qwZKAhfrbnGidJTDR) | [p/asma](https://open.spotify.com/artist/6Q1YKEC7u7P5Oc2ElTecR1) | [Color of Water](https://open.spotify.com/album/0jiePMk8x0QuV3q3tWJPig) | 4:59 | 2023-12-12 | 2023-12-20 |
 | [BLUE HOLE](https://open.spotify.com/track/1JMuDcwO41T80XJ9cACVta) | [Pixie Monster](https://open.spotify.com/artist/71UmgYLJuZA1xo0FG2ZhY0) | [taikutsu wo ande](https://open.spotify.com/album/3EDP4W2hYIuTRt9VVNEHJo) | 5:53 | 2026-07-28 | 2026-08-05 |
 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-04 | 2024-04-19 |
+| [Blue Ocean](https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Low Tide](https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc) | 3:36 | 2026-11-10 |  |
 | [Blue Qualia](https://open.spotify.com/track/2p9XQ6PRBkAEfeWml7dfCS) | [ノウルシ](https://open.spotify.com/artist/7jGulqxcpIc1o3cRDNDn2z) | [Blue Qualia](https://open.spotify.com/album/4eRSJTHYwZglClTVG5HC8h) | 3:30 | 2025-07-29 | 2025-08-06 |
 | [Blue Train](https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E) | [雪国](https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD) | [Lemuria](https://open.spotify.com/album/2KoR8oWfmpXg3VSCrYcQvo) | 3:44 | 2025-01-14 | 2025-05-07 |
 | [blueberry](https://open.spotify.com/track/0UjL8DXDQoWFSoM55bS2TR) | [heykazma](https://open.spotify.com/artist/3nDkOiRqc5IVUixtkWalrs) | [blueberry](https://open.spotify.com/album/1pSqYqUM5tkc2kvy9IkoBw) | 4:30 | 2026-09-01 | 2026-11-04 |
@@ -2400,7 +2401,6 @@
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [TOY](https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Panorama Pig](https://open.spotify.com/album/47QCclBzhV8FRhcsEfFRZ4) | 4:18 | 2026-03-24 | 2026-04-01 |
 | [Traces](https://open.spotify.com/track/5b9sdOfsG30qP4ig5zYwDh) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Reprise](https://open.spotify.com/album/0e27fGyK96o3H2zGv2WKNu) | 3:13 | 2026-11-03 |  |
-| [Track 1](https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Low Tide](https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc) | 0:00 | 2026-11-10 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |

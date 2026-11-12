@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Jashim
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,927 likes - 96 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,953 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 11 | [MIND YER BIZNIZ](https://open.spotify.com/track/2yLwwjkbhUaYoqltO0u1m7) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [MIND YER BIZNIZ](https://open.spotify.com/album/5f1UtOFyx7q2WYUJsd2VZk) | 3:20 |
 | 12 | [desperate situation](https://open.spotify.com/track/0zhm3CMsjuce6JCyBiEgxV) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [new world disorder \(reloaded\)](https://open.spotify.com/album/7FNA26Na17WIICzV0FzzTG) | 1:31 |
 | 13 | [Jersey Baile](https://open.spotify.com/track/3g06s2sV3GzxgFcBGMEn4z) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Mass Appeal](https://open.spotify.com/album/5WoaWKOtFW1N4tPIi1JIvO) | 2:30 |
-| 14 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
+| 14 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:48 |
 | 15 | [Grey Mullet \(Flip\)](https://open.spotify.com/track/4DJRiC0S5kakXkcHqUZ3zF) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb), [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [Dance Fish 1](https://open.spotify.com/album/0pI9BQaIXrxxOUZWTCg0Q2) | 3:40 |
 | 16 | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/track/2GNcqugTEhk9ovxiX99eyB) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Khadija Al Hanafi](https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 2:37 |
 | 17 | [LLTB](https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con KAROL G, rusowsky y Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,034,077 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,033,798 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 41 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
 | 42 | [BOTZ](https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BOTZ](https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2) | 2:58 |
 | 43 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 |
-| 44 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 |
+| 44 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \(W Sound 23\)](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 |
 | 45 | [ALO](https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [ALO](https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy) | 2:25 |
 | 46 | [PARADIXE](https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 5:42 |
 | 47 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |

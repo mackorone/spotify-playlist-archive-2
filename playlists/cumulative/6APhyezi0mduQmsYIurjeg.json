@@ -8163,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4ufVm71zH8Z2apbGe3mvKP"
+      },
+      "artists": [
+        {
+          "name": "Oliver Ycaro",
+          "url": "https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188880,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/3CHCkuE8GGQnvMv7rELd0e"
+    },
+    {
+      "album": {
         "name": "Saying Goodbye",
         "url": "https://open.spotify.com/album/1Lx7II6F76iwCFtTIBzvN3"
       },

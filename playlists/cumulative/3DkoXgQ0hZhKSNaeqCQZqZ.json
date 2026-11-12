@@ -4649,6 +4649,28 @@
     },
     {
       "album": {
+        "name": "wayhome",
+        "url": "https://open.spotify.com/album/3GVyax479TWJmm5eFGrlE5"
+      },
+      "artists": [
+        {
+          "name": "Velaspace",
+          "url": "https://open.spotify.com/artist/5eFAOInRxqFXiGs4myARXW"
+        },
+        {
+          "name": "Ima",
+          "url": "https://open.spotify.com/artist/24E1bMe5hd2ZbhWjCZasWT"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257538,
+      "name": "how do i tell you",
+      "url": "https://open.spotify.com/track/6rl6Deyy8Utz8HEWEVs07k"
+    },
+    {
+      "album": {
         "name": "how it feels to fly",
         "url": "https://open.spotify.com/album/7cnO2Hyzr9Kt8z1oUtgtTD"
       },
@@ -5588,7 +5610,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 253543,
       "name": "It's Not Over",
       "url": "https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb"
@@ -6806,6 +6828,28 @@
       "duration_ms": 272608,
       "name": "Memory Merge",
       "url": "https://open.spotify.com/track/5usdxPXJmVeqwheEYreUoo"
+    },
+    {
+      "album": {
+        "name": "off a jet",
+        "url": "https://open.spotify.com/album/4R5bR4kPNQ9TRYRR1hXayD"
+      },
+      "artists": [
+        {
+          "name": "batt",
+          "url": "https://open.spotify.com/artist/1BmWFfU9euusBSd9eo0oG2"
+        },
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137476,
+      "name": "MFL",
+      "url": "https://open.spotify.com/track/6MohdiaR3AfffciBdwZVlm"
     },
     {
       "album": {
@@ -8066,6 +8110,40 @@
       "duration_ms": 210000,
       "name": "Parasocial",
       "url": "https://open.spotify.com/track/5AJv67iLT79uijDdzfTPUm"
+    },
+    {
+      "album": {
+        "name": "PARTY LIKE THIS",
+        "url": "https://open.spotify.com/album/0feRHXSSAqBn2l0skYrmRM"
+      },
+      "artists": [
+        {
+          "name": "fearozzles",
+          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
+        },
+        {
+          "name": "Johnny Staxx",
+          "url": "https://open.spotify.com/artist/1f2SRb6igf9FXPgPKEKuOt"
+        },
+        {
+          "name": "silverluv",
+          "url": "https://open.spotify.com/artist/6uLoUTi9Gj0xZ4Ozgdwxm6"
+        },
+        {
+          "name": "bobowakeup",
+          "url": "https://open.spotify.com/artist/1SCLtqNhNEFvbuRjVMfIVl"
+        },
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "PARTY LIKE THIS",
+      "url": "https://open.spotify.com/track/75KAY9fMflyNCxgMgknChO"
     },
     {
       "album": {
@@ -11978,7 +12056,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 262149,
       "name": "Won't Give Into Darkness",
       "url": "https://open.spotify.com/track/0KuVHX7z5CQQvoVUq5xc4K"
@@ -12178,7 +12256,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 268526,
       "name": "You Can't Hide",
       "url": "https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth"

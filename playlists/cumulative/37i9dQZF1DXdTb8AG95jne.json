@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: HANRORO)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: IDIOTAPE)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 198561,
       "name": "Falling for You is Easy",
       "url": "https://open.spotify.com/track/2UM4NcdhDtz2bEMNAp5tC2"
@@ -14762,7 +14762,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 221000,
       "name": "My Gravity",
       "url": "https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL"
@@ -15362,6 +15362,24 @@
       "duration_ms": 239099,
       "name": "night night",
       "url": "https://open.spotify.com/track/5QThXrWkC8E6n2kY9CEmWm"
+    },
+    {
+      "album": {
+        "name": "Night Stage",
+        "url": "https://open.spotify.com/album/5cuGHkUFzRbqc1XdmrOIGT"
+      },
+      "artists": [
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Night Stage",
+      "url": "https://open.spotify.com/track/36wx19Bof5DtHII4ETXJL5"
     },
     {
       "album": {
@@ -17842,7 +17860,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 317000,
       "name": "Remaining",
       "url": "https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8"
@@ -21226,6 +21244,28 @@
       "duration_ms": 202400,
       "name": "System Error",
       "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
+    },
+    {
+      "album": {
+        "name": "SUBHUMAN",
+        "url": "https://open.spotify.com/album/0wor7xaSrD11Xds52hsB5e"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190997,
+      "name": "Taboo (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/25QM7KiBaWUiI1U4BOLfR9"
     },
     {
       "album": {

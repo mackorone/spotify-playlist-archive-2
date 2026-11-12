@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: O.WHEN) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: LEE MU JIN (\uc774\ubb34\uc9c4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 182000,
       "name": "appear",
       "url": "https://open.spotify.com/track/1bCUwy65Rbnxf2EvCOG9Na"
@@ -5136,6 +5136,24 @@
       "duration_ms": 204933,
       "name": "Curiosity",
       "url": "https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica"
+    },
+    {
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0YC7qhuvIai8TbYOn3xFCa"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/57s8MbRMoOsGl5WPdBw7k5"
     },
     {
       "album": {
@@ -14153,6 +14171,24 @@
     },
     {
       "album": {
+        "name": "CONTINUE",
+        "url": "https://open.spotify.com/album/4wleL5DfFmhOQV9etYNP2J"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "I\u2019ll Be Here",
+      "url": "https://open.spotify.com/track/59ZFNN34Gt8uupo4SfvPHU"
+    },
+    {
+      "album": {
         "name": "Love Interference 2023 (Original Television Soundtrack), Pt. 24",
         "url": "https://open.spotify.com/album/3cNZ2zZb7sVr6DOIZGdAgd"
       },
@@ -14218,7 +14254,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 216000,
       "name": "I\u2019m fine, really",
       "url": "https://open.spotify.com/track/0bgBCVoNy7OS0WC5ADTzSY"
@@ -19005,6 +19041,24 @@
     },
     {
       "album": {
+        "name": "Night Stage",
+        "url": "https://open.spotify.com/album/5cuGHkUFzRbqc1XdmrOIGT"
+      },
+      "artists": [
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Night Stage",
+      "url": "https://open.spotify.com/track/36wx19Bof5DtHII4ETXJL5"
+    },
+    {
+      "album": {
         "name": "Night We Shine",
         "url": "https://open.spotify.com/album/50tZqh8ASPusurk4CTQ0wn"
       },
@@ -20836,6 +20890,24 @@
       "duration_ms": 181021,
       "name": "Over U, Goodbye (Seeun x J)",
       "url": "https://open.spotify.com/track/0dzvx0egKD128Icnaz2YeR"
+    },
+    {
+      "album": {
+        "name": "Overdue",
+        "url": "https://open.spotify.com/album/32k5FWTeKdOfdg2oWMkPN9"
+      },
+      "artists": [
+        {
+          "name": "Ingyeong Choi",
+          "url": "https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Overdue",
+      "url": "https://open.spotify.com/track/6WmNzDS93qnCDf7h1MvC0f"
     },
     {
       "album": {
@@ -31332,7 +31404,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 219000,
       "name": "You Ruined Me",
       "url": "https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1"
@@ -32520,7 +32592,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 210229,
       "name": "\ubc97 (\uc655\uacfc \uc0ac\ub294 \ub0a8\uc790 Original Soundtrack)",
       "url": "https://open.spotify.com/track/6BfjwiYI0pz3IJlJvGF2Cn"

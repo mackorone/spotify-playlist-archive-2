@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,475 likes - 318 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,493 likes - 318 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 12 | [Returns](https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Mosquito Bowl \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka) | 5:15 |
 | 13 | [Er und Ich](https://open.spotify.com/track/0kEioRk4Jk6953ef5p3JxZ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [BEN WINKLER](https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl) | [Die Falle \(Soundtrack der Netflix Serie\)](https://open.spotify.com/album/5FhnZw1yLr4FEu6oyOgKkc) | 2:04 |
 | 14 | [Lupin Is Back](https://open.spotify.com/track/1C2ZBpQXYa8Y1SGI0Ctw4K) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin: Part 4 \(Bande originale de la série Netflix\)](https://open.spotify.com/album/3Y47fYBf3Z5NGDVfxvXdU1) | 2:00 |
-| 15 | [Time To Go Back](https://open.spotify.com/track/1M8ERYugvHiBSAm79GnzMI) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 2:29 |
+| 15 | [Time to Go Back](https://open.spotify.com/track/1M8ERYugvHiBSAm79GnzMI) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 2:29 |
 | 16 | [Ayashure's Theme \(from "Rock Bottom"\)](https://open.spotify.com/track/4BwCZBss80Hpi6WrOYWeyi) | [Diego Navarro](https://open.spotify.com/artist/0p9XfFX7kgFKZ7rDC9OSKy), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Ayashure's Theme \(from "Rock Bottom"\)](https://open.spotify.com/album/6VsWDgcvPmzE4Pauah1UBz) | 3:32 |
 | 17 | [72 Hours](https://open.spotify.com/track/7dU8Vx5jpNAjhJK1D1rkIZ) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Social Reckoning \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6El985JZ5HPJHkoVCXCY2I) | 3:54 |
 | 18 | [Journey to South Wood](https://open.spotify.com/track/5Xw8jRCE1LpDEVX8u3nt2d) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Journey To South Wood](https://open.spotify.com/album/4GyEAP97wSeWFIRC1agBVs) | 1:48 |

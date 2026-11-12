@@ -4,7 +4,7 @@
 
 > 
 
-614 songs - 1 day 15 hr 38 min
+615 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-10 | 2024-09-12 |
 | [Mind Off](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Mind Off](https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp) | 3:32 | 2025-09-26 | 2026-02-18 |
 | [Miss Yo](https://open.spotify.com/track/6g9FDs3mDOKPtW7iNliOEB) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Miss Yo](https://open.spotify.com/album/4z4MrVwiiuPMDi4RFwluqx) | 3:24 | 2026-01-21 | 2026-04-04 |
+| [Modern Dystopia](https://open.spotify.com/track/6IqHpduxivldFZLl346XkU) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Modern Dystopia](https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1) | 3:23 | 2026-11-11 |  |
 | [Moolah](https://open.spotify.com/track/1IDjawg5grNIwe6xfacsFw) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Moolah](https://open.spotify.com/album/0tC2FmOHihuaP0etL7qcDq) | 2:47 | 2026-08-27 |  |
 | [More](https://open.spotify.com/track/0udrRKq9AIymrp1OJJbQes) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [More](https://open.spotify.com/album/4OIdvBzdQNmzqZOYZ7dHJ4) | 3:08 | 2025-09-18 | 2026-02-18 |
 | [more soul](https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:17 | 2025-07-18 | 2025-11-07 |

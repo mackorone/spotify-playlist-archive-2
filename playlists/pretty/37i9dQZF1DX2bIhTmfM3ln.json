@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 64451,
+  "num_followers": 64468,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -139,8 +139,8 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "GTA",
-        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
+        "name": "Back 2 U",
+        "url": "https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 155441,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
+      "duration_ms": 162296,
+      "name": "Back 2 U",
+      "url": "https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -231,8 +231,8 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Back 2 U",
-        "url": "https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C"
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 162296,
-      "name": "Back 2 U",
-      "url": "https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0"
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "Pretty Nun",
+        "url": "https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "Pretty Nun",
+      "url": "https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "Calculate (II)",
         "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 180688,
       "name": "Calculate - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "Pretty Nun",
-        "url": "https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "Pretty Nun",
-      "url": "https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
-      },
-      "artists": [
-        {
-          "name": "Toje",
-          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
+      },
+      "artists": [
+        {
+          "name": "Toje",
+          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -911,6 +911,30 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P"
+      },
+      "artists": [
+        {
+          "name": "Chisway",
+          "url": "https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ"
+        },
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "\u65af\u4e39\u66fc\u7c07",
+          "url": "https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "ON YOU",
         "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
       },
@@ -963,30 +987,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P"
-      },
-      "artists": [
-        {
-          "name": "Chisway",
-          "url": "https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ"
-        },
-        {
-          "name": "JZyNo",
-          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
-        },
-        {
-          "name": "\u65af\u4e39\u66fc\u7c07",
-          "url": "https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Till The Wheels Fall Off",
         "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
       },
@@ -1031,6 +1031,30 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "What A Feeling",
+        "url": "https://open.spotify.com/album/233CXYAN2uRStnzufNSzHm"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "What A Feeling",
+      "url": "https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
       },
@@ -1059,30 +1083,6 @@
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "What A Feeling",
-        "url": "https://open.spotify.com/album/233CXYAN2uRStnzufNSzHm"
-      },
-      "artists": [
-        {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "What A Feeling",
-      "url": "https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3Y2wX1odxcF1oiPCGlAgOU"
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
         },
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 237561,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5DY6BHrUCp98AesuKVjuxd"
+      "duration_ms": 174915,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Stay a Little Longer",
-        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
-      },
-      "artists": [
-        {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 170191,
       "name": "Luvaluvah",
       "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Something To Die For",
+        "url": "https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        },
+        {
+          "name": "Shiloh Yodell\u00e9",
+          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
+        }
+      ],
+      "duration_ms": 177300,
+      "name": "Don't Say Bye",
+      "url": "https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Something To Die For",
-        "url": "https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3Y2wX1odxcF1oiPCGlAgOU"
       },
       "artists": [
         {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Shiloh Yodell\u00e9",
-          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         }
       ],
-      "duration_ms": 177300,
-      "name": "Don't Say Bye",
-      "url": "https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S"
+      "duration_ms": 237561,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5DY6BHrUCp98AesuKVjuxd"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1391,26 +1391,6 @@
       "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "ON YOU (ii)",
-        "url": "https://open.spotify.com/album/0pUPU8nToAwF09iTcUNGxH"
-      },
-      "artists": [
-        {
-          "name": "Timi Dre",
-          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "ON YOU - ii",
-      "url": "https://open.spotify.com/track/1L7mx2rrY4CZEN7v7HsJna"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1439,22 +1419,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Crazily",
-        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
+        "name": "ON YOU (ii)",
+        "url": "https://open.spotify.com/album/0pUPU8nToAwF09iTcUNGxH"
       },
       "artists": [
         {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+          "name": "Timi Dre",
+          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
         },
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Crazily",
-      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+      "duration_ms": 205333,
+      "name": "ON YOU - ii",
+      "url": "https://open.spotify.com/track/1L7mx2rrY4CZEN7v7HsJna"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1471,6 +1451,26 @@
       "duration_ms": 141521,
       "name": "Namipa",
       "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Crazily",
+        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Crazily",
+      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
     },
     {
       "added_at": "2026-10-23 00:01:46",

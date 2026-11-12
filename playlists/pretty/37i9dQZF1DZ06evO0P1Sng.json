@@ -1,6 +1,6 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8175,
+  "num_followers": 8174,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Priv\u00ea",
-        "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Priv\u00ea",
-      "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 136874,
       "name": "Hora H",
       "url": "https://open.spotify.com/track/74GeiZ69xOZYej0IeKSLYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Priv\u00ea",
+        "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Priv\u00ea",
+      "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
     },
     {
       "added_at": null,
@@ -783,6 +783,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corpo Quente",
+        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Corpo Quente",
+      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Prepara",
         "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 376874,
       "name": "Chovendo L\u00e1 Fora",
       "url": "https://open.spotify.com/track/2d9ydRlnayJhduKa0gQfDg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corpo Quente",
-        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Corpo Quente",
-      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
     },
     {
       "added_at": null,
@@ -1307,34 +1307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
-      },
-      "artists": [
-        {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1363,22 +1335,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diva Pop",
-        "url": "https://open.spotify.com/album/22F3kRQ6X5pKSfHe1WM207"
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
       },
       "artists": [
         {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
         },
         {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 152275,
-      "name": "Diva Pop",
-      "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
     },
     {
       "added_at": null,
@@ -1431,8 +1411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coisa Fina",
-        "url": "https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7"
+        "name": "Diva Pop",
+        "url": "https://open.spotify.com/album/22F3kRQ6X5pKSfHe1WM207"
       },
       "artists": [
         {
@@ -1440,13 +1420,13 @@
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
         }
       ],
-      "duration_ms": 176562,
-      "name": "Coisa Fina",
-      "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"
+      "duration_ms": 152275,
+      "name": "Diva Pop",
+      "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
     },
     {
       "added_at": null,
@@ -1483,6 +1463,26 @@
       "duration_ms": 180923,
       "name": "Sensa\u00e7\u00e3o de Poder",
       "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R\u00edmel",
+        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "S\u00e3o Gon\u00e7alo",
+      "url": "https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq"
     }
   ],
   "unique_name": "This Is Azzy",

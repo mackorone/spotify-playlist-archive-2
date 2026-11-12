@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 49 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/7o7hmVr3nyr1n2lnKKuoYF) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Gospel, Blues And Street Songs](https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO) | 2:36 |
 | 50 | [When I Die I'll Live Again](https://open.spotify.com/track/1HvEABbJqI7cujTto79yAH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:29 |
 
-Snapshot ID: `au+7gAAAAABZe14UwbK20gzeycXeHUsV`
+Snapshot ID: `avENAAAAAAAfSueNrTVXIA+kl2nxDEeW`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Param Benning",
+  "description": "Discover the future of Punjabi Pop! Cover: Sunil Mattu",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -7038,7 +7038,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 114059,
       "name": "Kato",
       "url": "https://open.spotify.com/track/5j3DhJuEAyHT5wcPQEVO9f"
@@ -8174,7 +8174,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 210651,
       "name": "Love Accepted",
       "url": "https://open.spotify.com/track/2QJlgjJGOpnzEiYtGUMzW8"
@@ -11019,6 +11019,32 @@
     },
     {
       "album": {
+        "name": "Punjabi Jutti",
+        "url": "https://open.spotify.com/album/4BmfIPOwufRVCyNG4khzft"
+      },
+      "artists": [
+        {
+          "name": "Gur Inder",
+          "url": "https://open.spotify.com/artist/77xL9jcxpqhctJrFGlms6l"
+        },
+        {
+          "name": "Vipan",
+          "url": "https://open.spotify.com/artist/2Lm5HR0n5LHuG7H0uzD18z"
+        },
+        {
+          "name": "Brown Maan",
+          "url": "https://open.spotify.com/artist/6WFyfNCIvHGxfjiR1LwrAZ"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Punjabi Jutti",
+      "url": "https://open.spotify.com/track/62CM8O2u2wYOow5Y0xdWsk"
+    },
+    {
+      "album": {
         "name": "Puthi Matt",
         "url": "https://open.spotify.com/album/3Olsca2lcLNMy9EAhUAsUR"
       },
@@ -11808,7 +11834,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 159230,
       "name": "Samundar Kinare",
       "url": "https://open.spotify.com/track/6K5u7PJBBUKTnpIx738B3m"
@@ -11958,10 +11984,32 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 166921,
       "name": "Sawaal",
       "url": "https://open.spotify.com/track/7IZFBv4KMxlM4EfBPNcFlV"
+    },
+    {
+      "album": {
+        "name": "Screams",
+        "url": "https://open.spotify.com/album/6b4gSVuYakgSYUYINcAQMJ"
+      },
+      "artists": [
+        {
+          "name": "Gillson",
+          "url": "https://open.spotify.com/artist/4d2K2wtWJq50PecWFaJKvL"
+        },
+        {
+          "name": "Ansh",
+          "url": "https://open.spotify.com/artist/30OwdGkdhwPfMjuQxKjAoT"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Screams",
+      "url": "https://open.spotify.com/track/3dE5ZwcPzbnr9K2LadKmCQ"
     },
     {
       "album": {
@@ -12088,6 +12136,36 @@
       "duration_ms": 191053,
       "name": "Sharafat",
       "url": "https://open.spotify.com/track/1qOe5HePibypL6IHBL8sKv"
+    },
+    {
+      "album": {
+        "name": "Shava Shah Kala",
+        "url": "https://open.spotify.com/album/5a4ynKJOpRgjDWTceAvmID"
+      },
+      "artists": [
+        {
+          "name": "Devika",
+          "url": "https://open.spotify.com/artist/6H3vcjNh7U6YKyuMuzSWAv"
+        },
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        },
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Shava Shah Kala",
+      "url": "https://open.spotify.com/track/0anjUTYIt09WaqhF9er5P3"
     },
     {
       "album": {
@@ -13673,6 +13751,24 @@
     },
     {
       "album": {
+        "name": "Tere Pyar Di Saunh",
+        "url": "https://open.spotify.com/album/4a91CBT1EyZNs4CURgYCus"
+      },
+      "artists": [
+        {
+          "name": "Sunil Mattu",
+          "url": "https://open.spotify.com/artist/4N411tuIfBNDUyP4O3XMAU"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196886,
+      "name": "Tere Pyar Di Saunh",
+      "url": "https://open.spotify.com/track/76onVEQCARswPaYaArM4Dy"
+    },
+    {
+      "album": {
         "name": "Tere Sher",
         "url": "https://open.spotify.com/album/1O3G72Xx0uu0TlKBPPuiOy"
       },
@@ -14101,6 +14197,28 @@
     },
     {
       "album": {
+        "name": "Tu Meri",
+        "url": "https://open.spotify.com/album/22R4EvlTkgLOb8bkjsrv6Y"
+      },
+      "artists": [
+        {
+          "name": "kanda.",
+          "url": "https://open.spotify.com/artist/6jHAMsd5p4t6sPkJUldYLe"
+        },
+        {
+          "name": "ProdAK",
+          "url": "https://open.spotify.com/artist/1VfkMDuRBnqRXxms09dABd"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Tu Meri",
+      "url": "https://open.spotify.com/track/0J6YGf6jGI6vlF2bD8XEWc"
+    },
+    {
+      "album": {
         "name": "Tu Nach Gi",
         "url": "https://open.spotify.com/album/6S2cX3iFsCHCQXe1hTLr8d"
       },
@@ -14226,7 +14344,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 144631,
       "name": "Vaari",
       "url": "https://open.spotify.com/track/5Ax71OzHlADLBiBUwHczqs"

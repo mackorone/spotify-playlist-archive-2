@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor",
-  "num_followers": 121834,
+  "num_followers": 121853,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ"
     },
     {
-      "added_at": "2025-09-05 00:01:24",
-      "album": {
-        "name": "Azusa The Next Generation",
-        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        }
-      ],
-      "duration_ms": 441546,
-      "name": "Every Praise - (album edit)",
-      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
-    },
-    {
       "added_at": "2026-10-30 00:01:15",
       "album": {
         "name": "I Am What I Am",
@@ -419,6 +403,22 @@
       "duration_ms": 207400,
       "name": "Hope In You (with Davido)",
       "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
+    },
+    {
+      "added_at": "2025-09-05 00:01:24",
+      "album": {
+        "name": "Azusa The Next Generation",
+        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "duration_ms": 441546,
+      "name": "Every Praise - (album edit)",
+      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "NO TURNING BACK",
-        "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 127317,
-      "name": "NO TURNING BACK",
-      "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
-    },
-    {
       "added_at": "2026-10-02 00:01:21",
       "album": {
         "name": "NO WEAPON",
@@ -1109,24 +1093,20 @@
       "url": "https://open.spotify.com/track/6N6HfrP1uSQUKrRDbKr8eF"
     },
     {
-      "added_at": "2026-07-17 00:01:13",
+      "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+        "name": "NO TURNING BACK",
+        "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
       },
       "artists": [
         {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
-        },
-        {
-          "name": "Ugoaelo",
-          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
         }
       ],
-      "duration_ms": 173153,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
+      "duration_ms": 127317,
+      "name": "NO TURNING BACK",
+      "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1147,6 +1127,26 @@
       "duration_ms": 239036,
       "name": "In The Room (feat. Annatoria) - Afro Beat Version",
       "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
+    },
+    {
+      "added_at": "2026-07-17 00:01:13",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        },
+        {
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+        }
+      ],
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
     },
     {
-      "added_at": "2025-09-26 00:01:31",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 346500,
-      "name": "Ebenezer (My Helper)",
-      "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
-    },
-    {
       "added_at": "2025-07-25 00:01:13",
       "album": {
         "name": "Generation Intimacy (Live)",
@@ -1263,6 +1247,22 @@
       "duration_ms": 817168,
       "name": "Jesu - Live",
       "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
+    },
+    {
+      "added_at": "2025-09-26 00:01:31",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 346500,
+      "name": "Ebenezer (My Helper)",
+      "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
-      "added_at": "2025-02-07 00:01:01",
-      "album": {
-        "name": "Armour Of God (Live)",
-        "url": "https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 745760,
-      "name": "Armour Of God - Live",
-      "url": "https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um"
-    },
-    {
       "added_at": "2026-05-15 00:01:30",
       "album": {
         "name": "Aanu Ni",
@@ -1423,6 +1407,22 @@
       "duration_ms": 258741,
       "name": "Ogbon Mi O Gbe",
       "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
+    },
+    {
+      "added_at": "2025-02-07 00:01:01",
+      "album": {
+        "name": "Armour Of God (Live)",
+        "url": "https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 745760,
+      "name": "Armour Of God - Live",
+      "url": "https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
-      "added_at": "2026-10-16 00:01:33",
-      "album": {
-        "name": "Lazy Man",
-        "url": "https://open.spotify.com/album/44Hpk1LpKPDLGHBwCPM7ij"
-      },
-      "artists": [
-        {
-          "name": "Israel the creator",
-          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Lazy Man",
-      "url": "https://open.spotify.com/track/5ybg7689HmX4tY8sWao3y0"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Heal Our Land (Live)",
@@ -1525,20 +1509,40 @@
       "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
-      "added_at": "2026-02-20 00:01:24",
+      "added_at": "2026-10-16 00:01:33",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
+        "name": "Lazy Man",
+        "url": "https://open.spotify.com/album/44Hpk1LpKPDLGHBwCPM7ij"
       },
       "artists": [
         {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
         }
       ],
-      "duration_ms": 172716,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
+      "duration_ms": 129391,
+      "name": "Lazy Man",
+      "url": "https://open.spotify.com/track/5ybg7689HmX4tY8sWao3y0"
+    },
+    {
+      "added_at": "2025-01-07 00:01:28",
+      "album": {
+        "name": "This Year (Remix)",
+        "url": "https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "This Year - Remix",
+      "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"
     }
   ],
   "unique_name": "Be Lifted ",

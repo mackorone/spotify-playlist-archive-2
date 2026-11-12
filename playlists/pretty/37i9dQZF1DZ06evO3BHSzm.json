@@ -1,12 +1,12 @@
 {
   "description": "This is The Who. The essential tracks, all in one playlist.",
-  "num_followers": 216573,
+  "num_followers": 216590,
   "original_name": "This Is The Who",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAADuMl09wzGE2e6lSLwkdj6U",
+  "snapshot_id": "avENAAAAAAAf7nO7nSJ2Yry7ZLQKxhnV",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Quick One",
-        "url": "https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 94306,
-      "name": "Batman - Mono Version",
-      "url": "https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 333586,
       "name": "Bargain",
       "url": "https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Quick One",
+        "url": "https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 94306,
+      "name": "Batman - Mono Version",
+      "url": "https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imagine A Man (Pete Vocal / Early Mix)",
-        "url": "https://open.spotify.com/album/4yUPSOAUYZecs36ykHYjkz"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Imagine A Man - Pete Vocal / Early Mix",
-      "url": "https://open.spotify.com/track/2IyGgqtLMnC9w200ZTYer9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Generation (50th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 187733,
       "name": "The Kids Are Alright",
       "url": "https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imagine A Man (Pete Vocal / Early Mix)",
+        "url": "https://open.spotify.com/album/4yUPSOAUYZecs36ykHYjkz"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Imagine A Man - Pete Vocal / Early Mix",
+      "url": "https://open.spotify.com/track/2IyGgqtLMnC9w200ZTYer9"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 162760,
+      "name": "Pictures Of Lily",
+      "url": "https://open.spotify.com/track/123RhEzztpTieeEd13NexC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Dances",
         "url": "https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 296866,
       "name": "Another Tricky Day",
       "url": "https://open.spotify.com/track/4OOl1HrB8mN89arE62V3sX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Who By Numbers (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 167626,
-      "name": "Blue Red And Grey",
-      "url": "https://open.spotify.com/track/7EngpMPwriHk8e2WNfzU4l"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meaty, Beaty, Big And Bouncy",
-        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+        "name": "The Who By Numbers (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 162760,
-      "name": "Pictures Of Lily",
-      "url": "https://open.spotify.com/track/123RhEzztpTieeEd13NexC"
+      "duration_ms": 167626,
+      "name": "Blue Red And Grey",
+      "url": "https://open.spotify.com/track/7EngpMPwriHk8e2WNfzU4l"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+        "name": "The Who By Numbers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 287706,
-      "name": "Trick Of The Light",
-      "url": "https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN"
+      "duration_ms": 251893,
+      "name": "Dreaming From The Waist - 2026 Remaster",
+      "url": "https://open.spotify.com/track/3rCZrrY3qRSG5pBBNdg4Vv"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Who By Numbers (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 251893,
-      "name": "Dreaming From The Waist - 2026 Remaster",
-      "url": "https://open.spotify.com/track/3rCZrrY3qRSG5pBBNdg4Vv"
+      "duration_ms": 287706,
+      "name": "Trick Of The Light",
+      "url": "https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
       "duration_ms": 310933,
       "name": "The Punk And The Godfather",
       "url": "https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Who By Numbers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Success Story - 2026 Remaster",
+      "url": "https://open.spotify.com/track/7IN6XTdcYyKmzsiu4aBe34"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Who By Numbers (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Success Story - 2026 Remaster",
-      "url": "https://open.spotify.com/track/7IN6XTdcYyKmzsiu4aBe34"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quadrophenia",
         "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Who By Numbers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "They Are All In Love - 2026 Remaster",
+      "url": "https://open.spotify.com/track/7DKl5lrzFfLruxudfThjQ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Dances",
         "url": "https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 228893,
       "name": "Don't Let Go The Coat",
       "url": "https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Who By Numbers",
-        "url": "https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "They Are All In Love",
-      "url": "https://open.spotify.com/track/0nfnSvFx11ox9HRrVyPaZZ"
     }
   ],
   "unique_name": "This Is The Who",

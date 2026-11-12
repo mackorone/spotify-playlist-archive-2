@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,399 likes - 35 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,397 likes - 35 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 34 | [So Cold](https://open.spotify.com/track/2PM2MSkvTdzc3tl7D4Wh2K) | [Don\-E](https://open.spotify.com/artist/5oO8FWVbfY83dqWrVrbM6J), [Azure](https://open.spotify.com/artist/5M4QB8v30YGh1JjbWqNLSd), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Natural](https://open.spotify.com/album/41GKq0Bz81Qmz11VSfY0ga) | 5:58 |
 | 35 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 |
 
-Snapshot ID: `au+7gAAAAABZe5vNa48hRH9jVfOoZiJJ`
+Snapshot ID: `avENAAAAAACcgkhdCFKwhXYeShLQmF+U`

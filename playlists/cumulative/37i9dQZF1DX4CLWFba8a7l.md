@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Miss Kaninna, Genesis Owusu, daine, BOY SODA, Tame Impala
 
-799 songs - 1 day 20 hr 42 min
+800 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2024-05-31 | 2025-02-14 |
 | [Lady](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 2:31 | 2026-07-30 | 2026-08-03 |
 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 | 2026-07-30 | 2026-10-05 |
-| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-08-20 |  |
+| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-08-20 | 2026-11-12 |
 | [Last Laugh](https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Last Laugh](https://open.spotify.com/album/3yCjtfPnNTBSuamHb1Zf8A) | 3:27 | 2025-12-11 | 2025-12-19 |
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-02-19 | 2026-04-13 |
 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 | 2025-01-09 | 2025-01-17 |
@@ -483,6 +483,7 @@
 | [Never Adds Up \(feat\. Inéz\)](https://open.spotify.com/track/0Cum83rmJihiD99CkRmOCn) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Never Adds Up \(feat\. Inéz\)](https://open.spotify.com/album/7IXwcsGgJwo2bHlGFFjkhe) | 2:28 | 2026-04-09 | 2026-06-03 |
 | [Never Alone \(feat\. Lizzy Land\)](https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Never Alone \(feat\. Lizzy Land\)](https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8) | 3:24 | 2026-03-26 | 2026-04-21 |
 | [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/album/0hoL3ByqmEuAArk3h9XYw7) | 4:05 | 2025-07-10 | 2025-09-12 |
+| [Never Know](https://open.spotify.com/track/1pXeK3o8RP79QrsEHlsdCQ) | [Barley Passable](https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM), [DENNIS.](https://open.spotify.com/artist/1rnhbIE4GzdmkCKnfG15nM) | [Never Know](https://open.spotify.com/album/66OFyh6yyN98eBuQqGXzCy) | 3:45 | 2026-11-05 |  |
 | [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 | 2025-10-09 | 2026-03-30 |
 | [Never Stop Loving You](https://open.spotify.com/track/47Je1AgGGoqiK1ERyARL5Y) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [DEFIANT](https://open.spotify.com/album/3VJorsrXq0rOUNkuvkJUdq) | 6:42 | 2025-06-05 | 2025-06-13 |
 | [Never Unlove](https://open.spotify.com/track/5DAh70C3AD3mt4LZY6cUXT) | [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Never Unlove](https://open.spotify.com/album/66amADLG6u8BsffjbDFIS4) | 3:16 | 2025-05-01 | 2025-05-09 |

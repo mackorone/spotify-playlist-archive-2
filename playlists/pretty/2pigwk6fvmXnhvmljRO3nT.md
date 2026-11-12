@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,483 songs - 21 day 13 hr 23 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,493 songs - 21 day 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8491,5 +8491,15 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8481 | [memories of summer](https://open.spotify.com/track/466geVSwCs7CwPcogY9Bfw) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [memories of summer](https://open.spotify.com/album/3jUKdm3ww6TcDOEZVRqwdO) | 4:08 |
 | 8482 | [ユメの喫茶店](https://open.spotify.com/track/4yPO73fgwXHx3k2VmVRGSy) | [ミツキヨ](https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9) | [ユメの喫茶店](https://open.spotify.com/album/45FARqBv5O6b7Rj0n9inXB) | 3:39 |
 | 8483 | [陽だまり道 \- Piano Ver.](https://open.spotify.com/track/0UMOJGjNPicsWQPSSmnpF1) | [水谷広実](https://open.spotify.com/artist/7gTlgJynk9xXSXEJyg2LJC) | [TVアニメ『のんのんびより』オリジナルサウンドトラック](https://open.spotify.com/album/72VTYTtuIr63vd9ITiHQVp) | 3:02 |
+| 8484 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
+| 8485 | [硝子の花園](https://open.spotify.com/track/40MIXIow8Rw8V0uDYoukJL) | [絢瀬絵里\(CV.南條愛乃\)](https://open.spotify.com/artist/1hH0U0CBUFUvzCw8xTJu1R), [東條 希\(CV.楠田亜衣奈\)](https://open.spotify.com/artist/1kDI9Vw9HNqN3FJrmaPATi), [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX Chapter.03](https://open.spotify.com/album/0lPWqWhPgsVexHm7VW5xMs) | 4:30 |
+| 8486 | [微熱からMystery](https://open.spotify.com/track/7nEQdfFDrvdBwc3rJWTDuW) | [lily white](https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA), [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX Chapter.09](https://open.spotify.com/album/5sd3oVqlWBABOaxwR1SlR9) | 3:18 |
+| 8487 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 |
+| 8488 | [風の声を聴きながら](https://open.spotify.com/track/0TTp2NqdU3wWJYsr9VR36u) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [風の声を聴きながら](https://open.spotify.com/album/5fZSF36joy9zMmYVpR4AXI) | 4:02 |
+| 8489 | [Yasashisa no Riyu](https://open.spotify.com/track/0QiIs1UclRULsJI8pKETrV) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [flyleaf](https://open.spotify.com/album/4IxZAtztCNbXdOJifacksw) | 4:14 |
+| 8490 | [24\-hour Cinderella \- Full Spec Edition](https://open.spotify.com/track/5EMX5Ed9GIlhTuQTiU8hxc) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 4:11 |
+| 8491 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 |
+| 8492 | [Zenzenzense \- Original Version](https://open.spotify.com/track/57Hk29LVcJAaGSFYQSuOKM) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Human Bloom](https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY) | 4:35 |
+| 8493 | [接吻](https://open.spotify.com/track/4Y1kikrwlBD0ESg9mdOfQp) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 4:40 |
 
-Snapshot ID: `AAAOFLb5VBXsnUe3aoz7ODxIKw7J2aFV`
+Snapshot ID: `AAAOHqPJPadAe+25H7btUe/K4SGIFhzU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Ili Ruzanna\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,464 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,465 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 42 | [刚好的Just nice](https://open.spotify.com/track/1Epv1zjABotwO1NTdWNR0J) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [刚好的Just nice](https://open.spotify.com/album/1WAeAtrSoYA4EhHhGBwUat) | 3:19 |
 | 43 | [Bebas](https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA) | [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp) | [Bebas](https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG) | 3:55 |
 
-Snapshot ID: `AAAAACo5khPt3KKZ5GcJP2WExgW/yQGl`
+Snapshot ID: `AAAAADiqDNiPG9r7R+0HgUFc2lxx31th`

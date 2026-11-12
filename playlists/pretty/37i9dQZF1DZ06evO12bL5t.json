@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 146478,
+  "num_followers": 146494,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAD3CA/Mh8xaCwXHvi4diGSV",
+  "snapshot_id": "avENAAAAAACZT+FfnfklMdA7sLRVmsxM",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 187448,
+      "name": "Heisenbern",
+      "url": "https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Ultimos Son Los Primeros",
         "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 153384,
       "name": "No Me Preocupo Tanto",
       "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 187448,
-      "name": "Heisenbern",
-      "url": "https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W"
     },
     {
       "added_at": null,

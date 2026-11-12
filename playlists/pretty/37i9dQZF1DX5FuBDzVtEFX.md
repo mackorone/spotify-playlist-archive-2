@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back and relax to soft ukulele sounds from Hawaii 🏝️
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,370 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,340 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

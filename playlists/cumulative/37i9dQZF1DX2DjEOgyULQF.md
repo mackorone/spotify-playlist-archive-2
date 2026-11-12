@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-548 songs - 1 day 1 hr 51 min
+549 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Flowing Sense](https://open.spotify.com/track/0dYizitNwQjtEO1mxHctNE) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Flowing Sense](https://open.spotify.com/album/2ZBBDWHayIHpG1GV17YPJR) | 3:12 | 2023-04-28 | 2024-04-02 |
 | [Fluere Ranae](https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL) | [Drishti](https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1) | [Fluere Ranae](https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c) | 2:57 | 2023-06-30 | 2025-10-16 |
 | [Follow the Creek](https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq) | [Credenza](https://open.spotify.com/artist/4ke0i6kG8o2rTxZzoRaoZ5) | [Follow the Creek](https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l) | 2:58 | 2023-04-28 | 2024-10-02 |
-| [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-03-19 |  |
+| [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-03-19 | 2026-11-12 |
 | [Forest Breath](https://open.spotify.com/track/72AWR4rSo3Rs9PsTV85t9f) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Breath](https://open.spotify.com/album/4y12ZOAShExtJ6x49TtkX3) | 3:41 | 2026-08-19 | 2026-11-04 |
 | [Forest Embrace](https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Forest Embrace](https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3) | 2:32 | 2026-04-03 |  |
 | [Forest Exhale](https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Exhale](https://open.spotify.com/album/25p5MmFvybpFouz4u788I3) | 2:23 | 2025-12-17 | 2026-09-09 |
@@ -398,6 +398,7 @@
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-01-31 | 2026-06-27 |
 | [Sacred Reservoir](https://open.spotify.com/track/11gvVIKblQIJ3YFf7A8q0o) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Sacred Reservoir](https://open.spotify.com/album/6OxqSw1esboGXc8wl5etdy) | 3:03 | 2024-11-04 | 2025-05-22 |
 | [Sacred Stream](https://open.spotify.com/track/1ryiF2CZT5mY4rVWht2TE8) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Sacred Stream](https://open.spotify.com/album/1C3Fzh0jihB8N5gHfofEHm) | 2:38 | 2026-04-03 |  |
+| [Safe Pond](https://open.spotify.com/track/7avjFlXPuk3bnUWhxECdbC) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Safe Pond](https://open.spotify.com/album/2GqYiWbRJEIX4RzXuTdd8R) | 2:36 | 2026-11-03 |  |
 | [Saliva](https://open.spotify.com/track/5FzvjheRfr4uThMkG60JK6) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Saliva](https://open.spotify.com/album/6q5WdUSmzP4MWsXnlXI4gE) | 2:10 | 2026-04-03 |  |
 | [Samsara](https://open.spotify.com/track/7zgg2eBf8KKNIRvU53BZwG) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Samsara](https://open.spotify.com/album/5dx5QepH4tjh7ZVvQGmOPY) | 2:46 | 2026-02-23 | 2026-07-14 |
 | [Sanctuary](https://open.spotify.com/track/5iBqs5HtVBQZCR7qJHQAwC) | [Himalayan Meditation](https://open.spotify.com/artist/2XMxTDifaHaXbbKHC1AmvH) | [Sanctuary](https://open.spotify.com/album/6k4tNv9oH6xPVcKwt3foN2) | 3:03 | 2023-04-28 | 2024-04-02 |

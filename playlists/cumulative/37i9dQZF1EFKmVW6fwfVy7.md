@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5iBiIuZrYOSsUgC0CpwOx3">Secret Code</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-34 songs - 2 hr 1 min
+35 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Bajo la Tormenta](https://open.spotify.com/track/5ZAOaE4F1W9ZC11Y54PxDp) | [Sergio George's Salsa Giants](https://open.spotify.com/artist/3nJzZhqUy9sP4YBdbbRa6g) | [Bajo la Tormenta](https://open.spotify.com/album/2xt5tnrxEQvqOakcvoypfu) | 4:30 | 2022-06-04 |  |
 | [Belong To U](https://open.spotify.com/track/6pG8mlZHcSt14eQCOQxA2N) | [Fancy Cars](https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem), [Yashua](https://open.spotify.com/artist/4zTLrRqcBmj7ZDuLUrKBL1) | [Belong To U](https://open.spotify.com/album/5l6kqmgrEYVjZn4ITiZ0jq) | 3:22 | 2022-06-04 |  |
 | [Candente](https://open.spotify.com/track/6574cREkKxYyrpKs1k8ZHu) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:03 | 2022-06-04 |  |
-| [Carnaval](https://open.spotify.com/track/1VG7hlZpY73n8h8NgidVTh) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:32 | 2022-06-04 |  |
+| [Carnaval](https://open.spotify.com/track/1VG7hlZpY73n8h8NgidVTh) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:32 | 2022-06-04 | 2026-11-12 |
+| [Carnaval](https://open.spotify.com/track/3LOQb4np9pTPhlrdIEht1d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:34 | 2026-11-11 |  |
 | [Casi Nada](https://open.spotify.com/track/7p7erLN6ursMA8uvWiXj7Z) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:38 | 2022-06-04 |  |
 | [Casi Nada](https://open.spotify.com/track/49KyJxswNergseDQZIiK1V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Casi Nada](https://open.spotify.com/album/6OBv9n7vMEczU5TMl9UKa1) | 3:42 | 2023-12-14 | 2024-02-02 |
 | [Como Antes](https://open.spotify.com/track/35H0Rl34q7UoRuSsf4QOxr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Llamaré Tuyo Reloaded](https://open.spotify.com/album/3vCYjsWpDRQVcF940ElOTA) | 4:03 | 2022-06-04 |  |

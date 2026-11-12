@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn5EPZUBfjn.md) - [plain]
 
 ### [Hip\-Hop Hits](https://open.spotify.com/playlist/37i9dQZF1DWXn5EPZUBfjn)
 
-> Hip\-hop hits only\. Music videos only available on Premium.
+> Hip\-hop hits only\. Music videos only available on Premium\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,628 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,644 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Outside Tweaking](https://open.spotify.com/track/2LVWrvvw3IQ9lltdLPeGh3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Outside Tweaking](https://open.spotify.com/album/3114CoRmP8aEfkBiOffTE6) | 1:50 |
-| 2 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
-| 3 | [Motion Party](https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Motion Party](https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr) | 1:35 |
-| 4 | [BOMBS](https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOMBS](https://open.spotify.com/album/7tvZ9e94jBOdxHTJC1VAbf) | 1:34 |
-| 5 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
-| 6 | [Build a Bitch](https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:43 |
-| 7 | [Classic](https://open.spotify.com/track/2s2seehd980lW7hUSFcyBW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Classic](https://open.spotify.com/album/0O6bP1vTxjWBss5sW2hLqN) | 2:51 |
-| 8 | [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 |
-| 9 | [I’m Spent](https://open.spotify.com/track/2KQzS8H3UFM1CZlLsd1O11) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I’m Spent](https://open.spotify.com/album/0LXGMqZl58fJw3Aw2C3c2d) | 2:36 |
+| 1 | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 |
+| 2 | [pop it](https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [pop it](https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv) | 2:18 |
+| 3 | [Mr\. Do Something](https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 2:50 |
+| 4 | [Outside Tweaking](https://open.spotify.com/track/2LVWrvvw3IQ9lltdLPeGh3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Outside Tweaking](https://open.spotify.com/album/3114CoRmP8aEfkBiOffTE6) | 1:50 |
+| 5 | [Motion Party](https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Motion Party](https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr) | 1:35 |
+| 6 | [BOMBS](https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOMBS](https://open.spotify.com/album/7tvZ9e94jBOdxHTJC1VAbf) | 1:34 |
+| 7 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
+| 8 | [Build a Bitch](https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:43 |
+| 9 | [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 |
 | 10 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0zVWX3fDULXxtS8krbAdo2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/album/14XWT2AvEjVWIojcj7OE6g) | 3:58 |
-| 11 | [OK \(feat\. Don Toliver\)](https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [BULLY \- DELUXE](https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh) | 2:38 |
-| 12 | [True Bestie](https://open.spotify.com/track/5QiG9ho9TUJjW66g8mVxhA) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [True Bestie](https://open.spotify.com/album/3HiQ4IZtjrcsa9zsIbyvR8) | 2:04 |
+| 11 | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb) | 3:04 |
+| 12 | [OK \(feat\. Don Toliver\)](https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [BULLY \- DELUXE](https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh) | 2:38 |
 | 13 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
-| 14 | [We Paid](https://open.spotify.com/track/1uswvX7LasHQdeKkak8N6A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [We Paid](https://open.spotify.com/album/1e7HDR2EjP9bi8MhRLBlfn) | 2:54 |
+| 14 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 15 | [Cheetah Print](https://open.spotify.com/track/0iuTNksY8beesQvuwbXDx1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Cheetah Print](https://open.spotify.com/album/1dY7RApxPwP2wvKSg5HYFM) | 3:18 |
 | 16 | [Type Shit](https://open.spotify.com/track/4nG0l8KeTFnFTXFowR21bv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Type Shit](https://open.spotify.com/album/0NMIfCHCYNn0McVG8xTnDr) | 3:48 |
 | 17 | [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn5EPZUBfjn.md) - [plain]
 | 64 | [21](https://open.spotify.com/track/2y1HLZTajHZEnqpIFZ2AJc) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [21](https://open.spotify.com/album/04w6RcU0V2pGnBderEqWiN) | 3:07 |
 | 65 | [Come & Go](https://open.spotify.com/track/29UocD5ZcszfHj87s1mqiD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Come & Go](https://open.spotify.com/album/28i9LjqRXyudh3hYRkxuJP) | 3:32 |
 
-Snapshot ID: `AAAAACdMCkTQM1d8eGc0ysPS1tA4eSJX`
+Snapshot ID: `AAAAAApnv2/Radm5UmH1PB+MZmDp8ykT`

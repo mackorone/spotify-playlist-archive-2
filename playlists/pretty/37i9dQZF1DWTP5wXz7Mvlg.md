@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,570 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,583 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 49 | [Getting Hot](https://open.spotify.com/track/0R7tFVDEPuMu1euN2PC7GU) | [Beeson](https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I) | [Getting Hot / Come To Mind](https://open.spotify.com/album/4xZ7HywRUbTOCQBMfvZig4) | 4:52 |
 | 50 | [Everything Is Possible \- DJ Marky & Makoto Remix](https://open.spotify.com/track/7KJTicqjWXOKgwn0Xeg635) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu) | [Everything Is Possible \(DJ Marky & Makoto Remix\)](https://open.spotify.com/album/1fEcrykeIT8Td6IROnLoIT) | 4:47 |
 
-Snapshot ID: `AAAAAGlqKLvHQO3B8qoiAl09yAuP4C7F`
+Snapshot ID: `AAAAADUm102gS3DrdNFNsGlnd1fB3FE7`

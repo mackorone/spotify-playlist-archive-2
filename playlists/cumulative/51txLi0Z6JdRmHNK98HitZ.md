@@ -2,9 +2,9 @@
 
 ### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out now! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
+> A playlist of all our songs released so far\. Also find us on <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
-82 songs - 4 hr 18 min
+83 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bend](https://open.spotify.com/track/1fbPnleK6PXE6hCRTtOJyw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bend](https://open.spotify.com/album/5mCgcfrf4MYYZBPUWW2z3n) | 3:50 | 2023-11-30 | 2024-02-17 |
 | [Bend](https://open.spotify.com/track/3Evc9pXwrrIU484uOxQNgg) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G) | 3:50 | 2024-02-16 |  |
 | [Bend \- triple j Live At The Wireless](https://open.spotify.com/track/6dfke6ER5rkmj9FqIDFED4) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [triple j Live At The Wireless \- Enmore Theatre, Sydney 2024](https://open.spotify.com/album/6rWlU09TK79Q52VzLmUpSv) | 4:12 | 2024-10-03 |  |
+| [big freak](https://open.spotify.com/track/0Q8i1QvYeXRAJyDFWMfufR) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [big freak](https://open.spotify.com/album/2wd5862pwO9NrA7r6lKzbN) | 3:02 | 2026-11-11 |  |
 | [Big Softy](https://open.spotify.com/track/1GJX41Wd13ndG9l7oh2ofU) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 3:59 | 2020-10-14 |  |
 | [Bootleg Firecracker](https://open.spotify.com/track/0bq8IO9XsMPyGle50aDRkT) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G) | 3:20 | 2024-02-16 |  |
 | [Bootleg Firecracker](https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker](https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13) | 3:20 | 2023-05-30 | 2024-02-17 |

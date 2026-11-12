@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109092,
+  "num_followers": 109083,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "DSLM?",
+        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 189020,
+      "name": "DSLM?",
+      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Left Back (Remix)",
         "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 180413,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "DSLM?",
-        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 189020,
-      "name": "DSLM?",
-      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
-      },
-      "artists": [
-        {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 208866,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
+      },
+      "artists": [
+        {
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "High (All The Time)",
-        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
-      },
-      "artists": [
-        {
-          "name": "RhyRab",
-          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
-        }
-      ],
-      "duration_ms": 160030,
-      "name": "High (All The Time)",
-      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Home For Winter",
         "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "High (All The Time)",
+        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
+      },
+      "artists": [
+        {
+          "name": "RhyRab",
+          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
+        }
+      ],
+      "duration_ms": 160030,
+      "name": "High (All The Time)",
+      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "StepBack2023",
+        "url": "https://open.spotify.com/album/1bmfo5V4UNd5Y8kmIUlQYS"
+      },
+      "artists": [
+        {
+          "name": "Reek0",
+          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "StepBack2023",
+      "url": "https://open.spotify.com/track/2Jx64g45ERK7qGwTFx5NGg"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Lost in Lofi",
         "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 183851,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "StepBack2023",
-        "url": "https://open.spotify.com/album/1bmfo5V4UNd5Y8kmIUlQYS"
-      },
-      "artists": [
-        {
-          "name": "Reek0",
-          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "StepBack2023",
-      "url": "https://open.spotify.com/track/2Jx64g45ERK7qGwTFx5NGg"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Bait",
-        "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
-      },
-      "artists": [
-        {
-          "name": "Jordeaux",
-          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
-        }
-      ],
-      "duration_ms": 133293,
-      "name": "Bait",
-      "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "No Hook",
         "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 139034,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Bait",
+        "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
+      },
+      "artists": [
+        {
+          "name": "Jordeaux",
+          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
+        }
+      ],
+      "duration_ms": 133293,
+      "name": "Bait",
+      "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -975,22 +975,6 @@
       "duration_ms": 178516,
       "name": "Glistenin'",
       "url": "https://open.spotify.com/track/5wlDMTdMvXSOmfDz9Cqb0I"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "DPMO",
-        "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
-      },
-      "artists": [
-        {
-          "name": "Equation Billionz",
-          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "DPMO",
-      "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1031,6 +1015,22 @@
       "duration_ms": 206166,
       "name": "Couple Little Things",
       "url": "https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "DPMO",
+        "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
+      },
+      "artists": [
+        {
+          "name": "Equation Billionz",
+          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "DPMO",
+      "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 194148,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 152137,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1491,22 +1507,6 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 165405,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "I Thought I'd Die In Your Arms",
         "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 176680,
       "name": "I Thought I'd Die In Your Arms",
       "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 165405,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
     },
     {
       "added_at": "2025-10-10 12:01:08",

@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-419 songs - 1 day 3 hr 47 min
+420 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Another](https://open.spotify.com/track/3e8RJKof3ohJkoEKChvH2F) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Another](https://open.spotify.com/album/3PIcb7olB62RHxTdetIDUK) | 3:06 | 2024-03-29 | 2024-04-07 |
 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 | 2022-01-14 | 2024-07-05 |
 | [Aquatic](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Aquatic](https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx) | 3:46 | 2022-01-14 | 2024-07-19 |
+| [Are You Listening?](https://open.spotify.com/track/2SexQvWdaFwUSneynQe3lF) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Are You Listening?](https://open.spotify.com/album/6JR1NWD5XSpkqF3eFi6mY5) | 3:50 | 2026-11-06 |  |
 | [Around](https://open.spotify.com/track/0qDYl6Bj6oTuaBLNKZfuHb) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/339nH3LvJ62PHz7OXYAYwd), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Around](https://open.spotify.com/album/4ANmjIhAGKLPOl9F3NrqWC) | 3:07 | 2025-04-17 | 2025-10-12 |
 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 | 2026-04-23 | 2026-05-30 |
 | [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 | 2026-05-29 |  |
@@ -110,7 +111,7 @@
 | [Fall Between The Cracks](https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Fall Between The Cracks](https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV) | 3:46 | 2024-05-10 | 2024-07-24 |
 | [Fallen](https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA) | 3:25 | 2022-01-14 | 2022-11-26 |
 | [Fallen](https://open.spotify.com/track/71yhzfnnCJGyqASU49wKJO) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/2lU1O72Qpkh9PFhP5UQM4F) | 3:25 | 2022-11-25 | 2024-02-22 |
-| [Falling \(feat\. Nina Arya\)](https://open.spotify.com/track/6hksu9xYt7dZfaiXx7SCom) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Nina Arya](https://open.spotify.com/artist/0bK45cARlz6LOWWYFNrqE7) | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/album/5K5Dwgjsl9mshpYbEUZJlc) | 3:26 | 2026-08-13 |  |
+| [Falling \(feat\. Nina Arya\)](https://open.spotify.com/track/6hksu9xYt7dZfaiXx7SCom) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Nina Arya](https://open.spotify.com/artist/0bK45cARlz6LOWWYFNrqE7) | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/album/5K5Dwgjsl9mshpYbEUZJlc) | 3:26 | 2026-08-13 | 2026-11-12 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-05 | 2024-07-20 |
 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 | 2025-11-14 | 2026-08-14 |
 | [Fauna](https://open.spotify.com/track/3LQ23jIekEzoP1BG0BMOv2) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Fauna](https://open.spotify.com/album/4PnKCCuzXvDg1QQobNfPD7) | 3:36 | 2022-01-14 | 2022-07-29 |

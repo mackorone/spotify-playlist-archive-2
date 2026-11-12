@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:0gnNmkzfTegBSI0Y3qrTso\">Baby V</a>",
-  "num_followers": 42254,
+  "num_followers": 42248,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "zosta\u0144/wyjd\u017a",
-        "url": "https://open.spotify.com/album/54HXHeIDjOU8wbcbHXudBz"
-      },
-      "artists": [
-        {
-          "name": "duszno",
-          "url": "https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "10 mieczy",
-      "url": "https://open.spotify.com/track/7kf7gulETpZkOubCt7D7pA"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
         "name": "Uwaga (Id\u0119 do ciebie)",
         "url": "https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "LA LA LAND",
-        "url": "https://open.spotify.com/album/5D2XdawNntHAOkK8VFnJfQ"
+        "name": "zosta\u0144/wyjd\u017a",
+        "url": "https://open.spotify.com/album/54HXHeIDjOU8wbcbHXudBz"
       },
       "artists": [
         {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+          "name": "duszno",
+          "url": "https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB"
         }
       ],
-      "duration_ms": 154285,
-      "name": "LA LA LAND",
-      "url": "https://open.spotify.com/track/4OX9vHNy02Gl84Z883WdZ7"
+      "duration_ms": 238000,
+      "name": "10 mieczy",
+      "url": "https://open.spotify.com/track/7kf7gulETpZkOubCt7D7pA"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -663,6 +647,22 @@
       "duration_ms": 184966,
       "name": "Nie ton\u0119",
       "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
+        "name": "LA LA LAND",
+        "url": "https://open.spotify.com/album/5D2XdawNntHAOkK8VFnJfQ"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "LA LA LAND",
+      "url": "https://open.spotify.com/track/4OX9vHNy02Gl84Z883WdZ7"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "Take The Night",
-        "url": "https://open.spotify.com/album/1ewRl9OLDGpL3aWXb1BpRy"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Drew Hall",
-          "url": "https://open.spotify.com/artist/7g719mkA8sV9Ml1SqZyh39"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Take The Night",
-      "url": "https://open.spotify.com/track/10qSdXFFxy6KPw2YYb3PBJ"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
         "name": "ci\u0119\u017cki szmal",
         "url": "https://open.spotify.com/album/5dEbAIybdNTbS0ivPaK7Jp"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 180000,
       "name": "ci\u0119\u017cki szmal",
       "url": "https://open.spotify.com/track/1INz9FSfzPbCUiXBt2Qa3l"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
+        "name": "Take The Night",
+        "url": "https://open.spotify.com/album/1ewRl9OLDGpL3aWXb1BpRy"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Drew Hall",
+          "url": "https://open.spotify.com/artist/7g719mkA8sV9Ml1SqZyh39"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Take The Night",
+      "url": "https://open.spotify.com/track/10qSdXFFxy6KPw2YYb3PBJ"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "DENS MA SENS",
-        "url": "https://open.spotify.com/album/4SpP4bS2qd8HnozpPonNGC"
-      },
-      "artists": [
-        {
-          "name": "QueenKutee",
-          "url": "https://open.spotify.com/artist/5eqHDE9r1yrBnr3kPAu96H"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Moje Baby",
-      "url": "https://open.spotify.com/track/1E93HVgzjDuJYuzAMQuUoQ"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
         "name": "Shyness!",
         "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 210581,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
+        "name": "DENS MA SENS",
+        "url": "https://open.spotify.com/album/4SpP4bS2qd8HnozpPonNGC"
+      },
+      "artists": [
+        {
+          "name": "QueenKutee",
+          "url": "https://open.spotify.com/artist/5eqHDE9r1yrBnr3kPAu96H"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Moje Baby",
+      "url": "https://open.spotify.com/track/1E93HVgzjDuJYuzAMQuUoQ"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
+        "name": "maybe someday",
+        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "maybe someday",
+      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 213351,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
-        "name": "maybe someday",
-        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "maybe someday",
-      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "Occultica",
-        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        },
-        {
-          "name": "Aquarius",
-          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
         "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
         "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
       },
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
+        "name": "Occultica",
+        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        },
+        {
+          "name": "Aquarius",
+          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
         "name": "Sabota\u017cysta",
         "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "Greatest Hits: Side A+B",
-        "url": "https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kamik",
-          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "Miliony monet",
-      "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
         "name": "warszawa",
         "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
       },
@@ -1499,18 +1483,38 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "W nosie",
-        "url": "https://open.spotify.com/album/6x4pt9ecf44dYXvobWxUuO"
+        "name": "I_N_T_E_R_V_A_L_S",
+        "url": "https://open.spotify.com/album/1lWe1UoaNbUi3074ATSOOk"
       },
       "artists": [
         {
-          "name": "POLA NUDA",
-          "url": "https://open.spotify.com/artist/5nTUVpjyqWupaDX9vZj1QD"
+          "name": "MANOID",
+          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
+        },
+        {
+          "name": "Milkbaby",
+          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
         }
       ],
-      "duration_ms": 113461,
-      "name": "W nosie",
-      "url": "https://open.spotify.com/track/1Pwg6n2PsmIzjF40ntAzbn"
+      "duration_ms": 367226,
+      "name": "Moonsong",
+      "url": "https://open.spotify.com/track/699PNgLiQWfmcaFSO3dhFB"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
+        "name": "Greatest Hits: Side A+B",
+        "url": "https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "Miliony monet",
+      "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -1539,26 +1543,6 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "I_N_T_E_R_V_A_L_S",
-        "url": "https://open.spotify.com/album/1lWe1UoaNbUi3074ATSOOk"
-      },
-      "artists": [
-        {
-          "name": "MANOID",
-          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
-        },
-        {
-          "name": "Milkbaby",
-          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
-        }
-      ],
-      "duration_ms": 367226,
-      "name": "Moonsong",
-      "url": "https://open.spotify.com/track/699PNgLiQWfmcaFSO3dhFB"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
         "name": "DRAG!",
         "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "Deadfall",
-        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
+        "name": "W nosie",
+        "url": "https://open.spotify.com/album/6x4pt9ecf44dYXvobWxUuO"
       },
       "artists": [
         {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+          "name": "POLA NUDA",
+          "url": "https://open.spotify.com/artist/5nTUVpjyqWupaDX9vZj1QD"
         }
       ],
-      "duration_ms": 263614,
-      "name": "Deadfall",
-      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
+      "duration_ms": 113461,
+      "name": "W nosie",
+      "url": "https://open.spotify.com/track/1Pwg6n2PsmIzjF40ntAzbn"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -1607,6 +1591,22 @@
       "duration_ms": 200000,
       "name": "glorious",
       "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
+        "name": "Deadfall",
+        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 263614,
+      "name": "Deadfall",
+      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 255060,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
+    },
+    {
+      "added_at": "2026-11-09 23:00:24",
+      "album": {
         "name": "rom-com",
         "url": "https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8"
       },
@@ -1667,18 +1683,22 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+        "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
+        "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
       "artists": [
         {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        },
+        {
+          "name": "Bart Ga\u0142\u0105zka",
+          "url": "https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A"
         }
       ],
-      "duration_ms": 255060,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
+      "duration_ms": 250259,
+      "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
+      "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
     },
     {
       "added_at": "2026-11-09 23:00:24",
@@ -1715,38 +1735,18 @@
     {
       "added_at": "2026-11-09 23:00:24",
       "album": {
-        "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
-        "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
+        "name": "IV!II",
+        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
       },
       "artists": [
         {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        },
-        {
-          "name": "Bart Ga\u0142\u0105zka",
-          "url": "https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A"
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
         }
       ],
-      "duration_ms": 250259,
-      "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
-      "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
-    },
-    {
-      "added_at": "2026-11-09 23:00:24",
-      "album": {
-        "name": "Drawing a line (Kayax Talent Hunt)",
-        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Salem",
-          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Drawing a line (Kayax Talent Hunt)",
-      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
+      "duration_ms": 194418,
+      "name": "Mosty",
+      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
     }
   ],
   "unique_name": "GLOW Polska",

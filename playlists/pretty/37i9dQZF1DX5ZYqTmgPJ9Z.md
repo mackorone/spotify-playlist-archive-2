@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,606 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,607 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 42 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 |
 | 43 | [Let Me Into Your Heart](https://open.spotify.com/track/6HfXfC5aZR5fZq8Ag50lVI) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Let Me Into Your Heart](https://open.spotify.com/album/0uVffzwyBDvOYbh8IrVVEc) | 5:04 |
 | 44 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
-| 45 | [FANGIRL](https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [FANGIRL](https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y) | 4:48 |
-| 46 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
+| 45 | [Bloom Innocent](https://open.spotify.com/track/1iVn6DAdn8kQ8Qri7Eu2Un) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Bloom Innocent](https://open.spotify.com/album/7mZdMFXdNUqaBNB7pkIJu1) | 6:56 |
+| 46 | [FANGIRL](https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [FANGIRL](https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y) | 4:48 |
 | 47 | [Nostalgia](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
-| 48 | [Bloom Innocent](https://open.spotify.com/track/1iVn6DAdn8kQ8Qri7Eu2Un) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Bloom Innocent](https://open.spotify.com/album/7mZdMFXdNUqaBNB7pkIJu1) | 6:56 |
+| 48 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 49 | [Probably Sorry](https://open.spotify.com/track/72VSo5LGhQz24MlULSh2G7) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Probably Sorry](https://open.spotify.com/album/143RT46s3JeoVZR8agkqQu) | 2:45 |
 | 50 | [Slowly](https://open.spotify.com/track/4kbljXIclSHAVeLW18iXXZ) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Slowly](https://open.spotify.com/album/3jZdEB70bvtAQRjN8mzRWE) | 3:13 |
 | 51 | [Are You Waiting?](https://open.spotify.com/track/2fLYnFeaVotT1ApBoDfkLZ) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [From Here](https://open.spotify.com/album/5XXLPt0MNFWzAMvSE4c9ZT) | 3:10 |
 | 52 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 |
-| 53 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 |
-| 54 | [\(I Get So\) Emotional](https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [\(I Get So\) Emotional](https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W) | 3:08 |
+| 53 | [\(I Get So\) Emotional](https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [\(I Get So\) Emotional](https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W) | 3:08 |
+| 54 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 |
 | 55 | [Too Much](https://open.spotify.com/track/0rR0cR9LTMeOewCYWYka3N) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Too Much](https://open.spotify.com/album/5M8EU1wTNTElCDmD22oZs5) | 3:41 |
 | 56 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 |
 | 57 | [No Good For Me](https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [No Good For Me](https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS) | 4:42 |

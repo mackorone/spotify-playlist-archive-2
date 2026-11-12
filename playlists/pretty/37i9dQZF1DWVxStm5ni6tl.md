@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Quincy Isaiah, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,570 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,576 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 29 | [QUI ÇA?](https://open.spotify.com/track/1hD3tOT1zqOMgDFXeZ8K6u) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [FYORE](https://open.spotify.com/album/1KrbSKLGBi8VIbj9p2JesC) | 2:27 |
 | 30 | [dress up](https://open.spotify.com/track/0c2yvtjL14s5d3Yeqpe6Jf) | [rl](https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw) | [dress up](https://open.spotify.com/album/5URq0P4FkYeJ8Rh5XxRaB0) | 3:07 |
 | 31 | [Guérir les murs](https://open.spotify.com/track/2Ze68jGXk2L4MwY3up97cJ) | [Myriam Arseneau](https://open.spotify.com/artist/61KonBmFMFeGsMkrCDbao9) | [Il est partout](https://open.spotify.com/album/16yCjHaaw8ozp1dK9hcILe) | 4:01 |
-| 32 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
+| 32 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:48 |
 | 33 | [Endorphine](https://open.spotify.com/track/2COHOZm8EWjpmagCeaWWh1) | [Chaude Chaleur](https://open.spotify.com/artist/1mDSretn552shMdrXmhiuk) | [Chaude Chaleur](https://open.spotify.com/album/31l2G3mXDWRl3YZJnZ1aYM) | 2:57 |
 | 34 | [Rêverie Tropicale](https://open.spotify.com/track/5Ix7s4pbHK4nqiRjt1tsyL) | [Nawicha](https://open.spotify.com/artist/0ql5BgYdL9BktbRJAxRvd5) | [Rêverie Tropicale](https://open.spotify.com/album/4KJBxVRO3cPg9bZ7K5pCf9) | 3:24 |
 | 35 | [Thank You!](https://open.spotify.com/track/6FjG6kIJgw4gxt9DhQCu8E) | [Joey Rose](https://open.spotify.com/artist/5q7RXRaFu3MrsFrYR5lci3), [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO) | [Life's What You Make It \(DELUXE\)](https://open.spotify.com/album/4LVLpijPzV78yeqcByuSBL) | 1:38 |

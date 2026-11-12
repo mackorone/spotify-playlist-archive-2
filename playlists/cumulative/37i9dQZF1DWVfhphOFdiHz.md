@@ -4,7 +4,7 @@
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-674 songs - 1 day 12 hr 8 min
+675 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [keep your head up kid](https://open.spotify.com/track/45WBtl8nSjheQbjxPEqWq7) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [keep your head up kid](https://open.spotify.com/album/3AgxZBsMx8ikkIv4c1nDH5) | 4:25 | 2026-05-01 | 2026-06-17 |
 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 | 2023-12-15 | 2024-02-03 |
 | [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 | 2026-07-24 | 2026-09-26 |
+| [Kiss](https://open.spotify.com/track/51RgPzTTfxdtAZvmqPxUSx) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Kiss](https://open.spotify.com/album/68BTIBgW5y8rWV6K9gPjH9) | 3:01 | 2026-11-06 |  |
 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 | 2025-08-01 | 2026-01-15 |
 | [Kiss Me Better](https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [IS IT FUN OR IS IT OVER?](https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd) | 2:34 | 2026-04-24 | 2026-06-17 |
 | [Kleptomaniac](https://open.spotify.com/track/3abBBKioYtLnqXCu4Jaa3I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [Kleptomaniac](https://open.spotify.com/album/4sPk5dVTCNlkSufapIPEpy) | 3:34 | 2026-04-03 | 2026-05-16 |
@@ -439,7 +440,7 @@
 | [Not My Problem](https://open.spotify.com/track/4nTwtkAMW0CVRAcA1uLKCR) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Not My Problem](https://open.spotify.com/album/7Aw9A0BigsX2OYGCHNZDRQ) | 2:21 | 2026-02-20 | 2026-05-02 |
 | [Not So Bad](https://open.spotify.com/track/1KPdRNL9N1GeSsOieSmwcc) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [What Would I Look Like Without A Brave Face?](https://open.spotify.com/album/6t7D0mpLsmyWIhaMrS7ORV) | 2:53 | 2025-11-14 | 2026-02-14 |
 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 | 2026-02-10 | 2026-04-11 |
-| [Nothing To Do \(nananananana\)](https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg) | 3:24 | 2026-09-18 |  |
+| [Nothing To Do \(nananananana\)](https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg) | 3:24 | 2026-09-18 | 2026-11-12 |
 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 | 2023-12-15 | 2025-02-08 |
 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 | 2026-08-14 |  |
 | [Of Course I Do](https://open.spotify.com/track/4AJklbk9XuVPBmf6Z80JVu) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Of Course I Do](https://open.spotify.com/album/4nJTQmmGJXwKDz1zHX8iJH) | 2:32 | 2025-09-05 | 2025-12-06 |

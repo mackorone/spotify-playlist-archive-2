@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-540 songs - 1 day 2 hr 51 min
+543 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 | 2023-12-30 |  |
 | [23 Lies](https://open.spotify.com/track/5dume2tM47wLZDlGGOs5go) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [Scorpio Rising](https://open.spotify.com/album/26tC5w0oT1hLkRj2RIWJIS) | 3:46 | 2023-12-30 | 2026-04-22 |
 | [A Fine Way to Go](https://open.spotify.com/track/2dwfMQlWKe4cXJTlDNqhbC) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [The Hills Of Indiana](https://open.spotify.com/album/0HqOAmtjJT9BlHCmnH0ILa) | 3:07 | 2023-12-30 |  |
-| [A Man Without a Dream](https://open.spotify.com/track/15HiMB4XHgr2UiuAtNHlhC) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Instant Replay](https://open.spotify.com/album/4UZe5Oq0ZIA4AD9NlApFF6) | 3:03 | 2023-12-30 |  |
+| [A Man Without a Dream](https://open.spotify.com/track/15HiMB4XHgr2UiuAtNHlhC) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Instant Replay](https://open.spotify.com/album/4UZe5Oq0ZIA4AD9NlApFF6) | 3:03 | 2023-12-30 | 2026-11-12 |
+| [A Man Without a Dream \- Single Version](https://open.spotify.com/track/2dOCx22gIXaEniirUoihma) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck), [Andrew Sandoval](https://open.spotify.com/artist/69AOV3HI5zQytsGu5pMUMN) | [The A's, The B's & The Monkees](https://open.spotify.com/album/1ZTjxLw4jrS92MvyB64JeH) | 3:05 | 2026-11-11 |  |
 | [A Night This Side Of Dying](https://open.spotify.com/track/4XhYnljcVklOn1t0odUPG2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:57 | 2026-08-18 | 2026-08-21 |
 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 | 2023-12-30 |  |
 | [A Picture of You](https://open.spotify.com/track/2j9rtpd802e51zd8IUlP53) | [Joe Brown](https://open.spotify.com/artist/7kahNN1zgjhLViJkX7retp) | [A Picture of You](https://open.spotify.com/album/6YElCeg2b6tbgEqCK3QGVc) | 2:21 | 2026-08-18 | 2026-08-23 |
@@ -36,7 +37,8 @@
 | [Am I the Guy ?](https://open.spotify.com/track/4cAXQcoGGSLWBAXsE5QmtD) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:53 | 2026-04-22 | 2026-09-04 |
 | [Ambrosia](https://open.spotify.com/track/5nwvCxZTbwOEjltAewJg0P) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:16 | 2023-12-30 |  |
 | [Anyone at All](https://open.spotify.com/track/6QSCQqq3IBiws1fvHEBJe1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 3:09 | 2026-04-24 |  |
-| [As We Go Along](https://open.spotify.com/track/0n7K8jB7Lg4zCI4WBWxO0Q) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 3:52 | 2023-12-30 |  |
+| [As We Go Along](https://open.spotify.com/track/0n7K8jB7Lg4zCI4WBWxO0Q) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 3:52 | 2023-12-30 | 2026-11-12 |
+| [As We Go Along \- Single Version](https://open.spotify.com/track/78ZGquOoa2xA5JTCwo8rLL) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck), [Andrew Sandoval](https://open.spotify.com/artist/69AOV3HI5zQytsGu5pMUMN) | [The A's, The B's & The Monkees](https://open.spotify.com/album/1ZTjxLw4jrS92MvyB64JeH) | 3:57 | 2026-11-11 |  |
 | [At the Club \- Single Version](https://open.spotify.com/track/2O5tP6uuOZBhVwDeO4T6Hk) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [I'll Take You Where the Music's Playing](https://open.spotify.com/album/6e1doqX3DiZ9FKO4R1Yj2O) | 2:59 | 2023-12-30 |  |
 | [At This Time In My Life](https://open.spotify.com/track/3jlw35W5AE8MLHCfMgJOkX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:49 | 2023-12-30 |  |
 | [Avenue P](https://open.spotify.com/track/1IRGY1rljyGOyuZoTsdc1k) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 3:03 | 2023-12-30 | 2025-06-01 |
@@ -382,7 +384,8 @@
 | [Show Me Girl \- Mono](https://open.spotify.com/track/1saGlI7w6vxjGMAzluhYQC) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Show Me Girl \(Mono\)](https://open.spotify.com/album/4UDrIQtV2baXu67inAB03J) | 2:38 | 2026-04-19 | 2026-05-04 |
 | [Show Me Girl \- Mono](https://open.spotify.com/track/3l7lTXsHVVhw14Zn0GBoLK) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Introducing Herman's Hermits \(Mono\)](https://open.spotify.com/album/2KmrA2hT9cwplRr8H8yC9o) | 2:38 | 2026-05-03 |  |
 | [Show Me the Way](https://open.spotify.com/track/2s3wZIroeTTsWFsya7JFPQ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song](https://open.spotify.com/album/5QL7RNVpZIoIxElgdykaa8) | 2:16 | 2026-08-18 | 2026-08-21 |
-| [Show Me the Way \- Mono](https://open.spotify.com/track/7yTmwxIkV2tsxsBN6NDVjJ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 2:19 | 2026-04-24 |  |
+| [Show Me the Way](https://open.spotify.com/track/2mz4wiWpIMbGPuV8tO4xft) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/0miYpSKEtkvaSe3PKfpdOb) | 2:19 | 2026-11-11 |  |
+| [Show Me the Way \- Mono](https://open.spotify.com/track/7yTmwxIkV2tsxsBN6NDVjJ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 2:19 | 2026-04-24 | 2026-11-12 |
 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 | 2023-12-30 |  |
 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 | 2023-12-30 |  |
 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 | 2023-12-30 |  |

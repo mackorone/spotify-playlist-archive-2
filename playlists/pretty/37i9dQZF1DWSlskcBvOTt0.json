@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 595251,
+  "num_followers": 595270,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Talking Slow",
+        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Talking Slow",
+      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Heart Spin EP",
         "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 202968,
       "name": "Phunky",
       "url": "https://open.spotify.com/track/7DwbQsslfL3nus2FinQAnn"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Talking Slow",
-        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Talking Slow",
-      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "For You (Assiove)",
+        "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 203671,
+      "name": "For You (Assiove)",
+      "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "PARTYGYAL",
         "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 167355,
       "name": "PARTYGYAL",
       "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "For You (Assiove)",
-        "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 203671,
-      "name": "For You (Assiove)",
-      "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "AHA",
-        "url": "https://open.spotify.com/album/2FOImmUNbKLQ0h6PHZCAni"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Darlyy Ferreira",
-          "url": "https://open.spotify.com/artist/1m5HViL4UTCtzathSTUSZ3"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "AHA",
-      "url": "https://open.spotify.com/track/6qL1lMdzVr9Gdz2VoZoCLy"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Piece Of Me",
         "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 189651,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "AHA",
+        "url": "https://open.spotify.com/album/2FOImmUNbKLQ0h6PHZCAni"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Darlyy Ferreira",
+          "url": "https://open.spotify.com/artist/1m5HViL4UTCtzathSTUSZ3"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "AHA",
+      "url": "https://open.spotify.com/track/6qL1lMdzVr9Gdz2VoZoCLy"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Repeat",
-        "url": "https://open.spotify.com/album/4rRMaeeAaqfbT5WXEnv6lv"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "DEELA",
-          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
-        }
-      ],
-      "duration_ms": 200275,
-      "name": "Repeat",
-      "url": "https://open.spotify.com/track/5s8W9kVGieuKlxDsECr7aP"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "All The Love (WhoMadeWho & Samm Remix)",
         "url": "https://open.spotify.com/album/26MwrKWXpUpEV8AnnoHNiY"
       },
@@ -2047,6 +2027,26 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Repeat",
+        "url": "https://open.spotify.com/album/4rRMaeeAaqfbT5WXEnv6lv"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        }
+      ],
+      "duration_ms": 200275,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/5s8W9kVGieuKlxDsECr7aP"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "WTFA EP",
         "url": "https://open.spotify.com/album/0C0YmBIeJsnwi542g8IO5k"
       },
@@ -2063,34 +2063,6 @@
       "duration_ms": 251480,
       "name": "Wtfa",
       "url": "https://open.spotify.com/track/49dsbe6B35KEXuaAGNUove"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1QFEurpNFobpWBTjSyo2di"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Ampermut",
-          "url": "https://open.spotify.com/artist/3NfKPE32SVWXMM4T6HUKAa"
-        },
-        {
-          "name": "Gobi Desert Collective",
-          "url": "https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp"
-        },
-        {
-          "name": "TEJA",
-          "url": "https://open.spotify.com/artist/4DgCdCHRYRjMSYtH2nWu72"
-        }
-      ],
-      "duration_ms": 222470,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/5GDR8Wya0Zy5xCmeHc7m7P"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2127,22 +2099,30 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1QFEurpNFobpWBTjSyo2di"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         },
         {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+          "name": "Ampermut",
+          "url": "https://open.spotify.com/artist/3NfKPE32SVWXMM4T6HUKAa"
+        },
+        {
+          "name": "Gobi Desert Collective",
+          "url": "https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp"
+        },
+        {
+          "name": "TEJA",
+          "url": "https://open.spotify.com/artist/4DgCdCHRYRjMSYtH2nWu72"
         }
       ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
+      "duration_ms": 222470,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/5GDR8Wya0Zy5xCmeHc7m7P"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2179,6 +2159,26 @@
       "duration_ms": 230550,
       "name": "YELE",
       "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2295,6 +2295,26 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/2LgrHcS2vize3nhCiwzWxQ"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        },
+        {
+          "name": "Marieme",
+          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
+        }
+      ],
+      "duration_ms": 254365,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/1n7FS2Rm3ptTAOeN82ehRn"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
       },
@@ -2319,26 +2339,6 @@
       "duration_ms": 296000,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/2LgrHcS2vize3nhCiwzWxQ"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        },
-        {
-          "name": "Marieme",
-          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
-        }
-      ],
-      "duration_ms": 254365,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/1n7FS2Rm3ptTAOeN82ehRn"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "8pm",
-        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
-      },
-      "artists": [
-        {
-          "name": "Walid Martinez",
-          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "8pm",
-      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "8pm",
+        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "duration_ms": 354098,
+      "name": "8pm",
+      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2483,30 +2483,18 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Rodopiado (Veneno)",
-        "url": "https://open.spotify.com/album/0ohxkzSQSYIXIVxHicSu2H"
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/33DuO7XdZfFbl00dsYGsOU"
       },
       "artists": [
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
           "name": "VXSION",
           "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        },
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Sophia Ardessore",
-          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Rodopiado (Veneno)",
-      "url": "https://open.spotify.com/track/4gOgpsFWxXRsGOemL0Bpce"
+      "duration_ms": 226467,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/1TB6gXUbIuZO2keuAY3vQn"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2539,6 +2527,34 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Rodopiado (Veneno)",
+        "url": "https://open.spotify.com/album/0ohxkzSQSYIXIVxHicSu2H"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        },
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Sophia Ardessore",
+          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rodopiado (Veneno)",
+      "url": "https://open.spotify.com/track/4gOgpsFWxXRsGOemL0Bpce"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "FOR U",
         "url": "https://open.spotify.com/album/5PWVvugHvqa3nJV91rcgCw"
       },
@@ -2559,38 +2575,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/33DuO7XdZfFbl00dsYGsOU"
-      },
-      "artists": [
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 226467,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/1TB6gXUbIuZO2keuAY3vQn"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
-      },
-      "artists": [
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 154918,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 285148,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
+      },
+      "artists": [
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 154918,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2647,22 +2647,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/4qw8nqSwg9rA04sPxxCdJf"
+        "name": "AD02: Pans Of Death / Rounds",
+        "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
       "artists": [
         {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/5IpD0DMUjcvsIeVwWCdZR5"
+      "duration_ms": 320597,
+      "name": "Pans Of Death",
+      "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
     }
   ],
   "unique_name": "Tantra",

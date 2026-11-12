@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 229358,
+  "num_followers": 229395,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-11-06 05:01:07",
       "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Stronger Than Me",
+      "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
+    },
+    {
+      "added_at": "2026-11-06 05:01:07",
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-    },
-    {
-      "added_at": "2026-11-06 05:01:07",
-      "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Stronger Than Me",
-      "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
     },
     {
       "added_at": "2026-11-06 05:01:07",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-11-06 05:01:07",
       "album": {
-        "name": "Folded (Live) - Spotify Live Room",
-        "url": "https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 242151,
-      "name": "Folded (Live) - Spotify Live Room",
-      "url": "https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73"
-    },
-    {
-      "added_at": "2026-11-06 05:01:07",
-      "album": {
         "name": "In My Face",
         "url": "https://open.spotify.com/album/59zlUYZSvhuCVykYcKPzTT"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 173689,
       "name": "In My Face",
       "url": "https://open.spotify.com/track/3rYcRzz27T43kIjxb4hfHw"
+    },
+    {
+      "added_at": "2026-11-06 05:01:07",
+      "album": {
+        "name": "Folded (Live) - Spotify Live Room",
+        "url": "https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 242151,
+      "name": "Folded (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73"
     },
     {
       "added_at": "2026-11-06 05:01:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-11-06 05:01:07",
       "album": {
-        "name": "(un)Folded",
-        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "(un)Folded",
-      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
-    },
-    {
-      "added_at": "2026-11-06 05:01:07",
-      "album": {
         "name": "Comets + Gold",
         "url": "https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 188432,
       "name": "Comets + Gold",
       "url": "https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f"
+    },
+    {
+      "added_at": "2026-11-06 05:01:07",
+      "album": {
+        "name": "(un)Folded",
+        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "(un)Folded",
+      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
     },
     {
       "added_at": "2026-11-06 05:01:07",

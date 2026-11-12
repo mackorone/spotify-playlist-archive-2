@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,187 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,176 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 45 | [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 |
 | 46 | [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 |
 | 47 | [No Es Cierto](https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [No Es Cierto](https://open.spotify.com/album/6EQfZS6wgjOXRCWYn0oJmg) | 3:45 |
+| 48 | [No Bailes Sola](https://open.spotify.com/track/7JO9jOf7cyP6ii9LaekOsl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Bailotea en pijama](https://open.spotify.com/album/5saOZMArTYyH9hVwpR4Rcd) | 3:02 |
+| 49 | [1TRAGO](https://open.spotify.com/track/0S7A2bKpipgJ7uVrIjOYBy) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HOLA 2024](https://open.spotify.com/album/3D8npaARfn8ymXZMXTBFuy) | 3:21 |
+| 50 | [Sólo Quédate En Silencio](https://open.spotify.com/track/4FRPlHTb9rhzMBlBgr25hg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Posesión Vol\. 3](https://open.spotify.com/album/7pnbazVEcFl7y2tRKrLmFc) | 3:54 |
 
-Snapshot ID: `au+7gAAAAADIiAw1tSaDU1fnJyS3Tklz`
+Snapshot ID: `avENAAAAAAC1E5yhNcD2VlPEtk1wpEQL`

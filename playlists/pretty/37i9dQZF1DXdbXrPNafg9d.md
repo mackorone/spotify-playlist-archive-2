@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,493 likes - 224 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,440 likes - 224 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

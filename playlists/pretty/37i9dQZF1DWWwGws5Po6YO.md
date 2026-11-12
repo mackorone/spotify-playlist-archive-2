@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Kayla Pichichero
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,152 likes - 175 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,201 likes - 175 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,291 likes - 24 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,296 likes - 24 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 23 | [La Vida Es Una](https://open.spotify.com/track/2yHMbsv5PMpJ1ubOhz3XXQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX), [E\-LA](https://open.spotify.com/artist/7aOghF4fGWkNo1Vh3zDHJ9), [Ander & Rossi](https://open.spotify.com/artist/0eijjeT8lIc14E862vjaNz) | [Latinos del Mundo](https://open.spotify.com/album/0WMM5TdUq0VgNUZXCwlnYG) | 3:25 |
 | 24 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 
-Snapshot ID: `au+7gAAAAACc9lnmaXZOV5/NSg0qq+rT`
+Snapshot ID: `avENAAAAAADhsDc0T+AEINk3ccNzSE5u`

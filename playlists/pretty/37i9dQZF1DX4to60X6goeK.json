@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77267,
+  "num_followers": 77291,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -115,18 +115,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Inside The Rider",
-        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
+        "name": "DRACULA",
+        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
       },
       "artists": [
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "B-Line",
+          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Inside The Rider",
-      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
+      "duration_ms": 182400,
+      "name": "DRACULA",
+      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -183,22 +187,18 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "DRACULA",
-        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
+        "name": "Inside The Rider",
+        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "B-Line",
-          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
         }
       ],
-      "duration_ms": 182400,
-      "name": "DRACULA",
-      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
+      "duration_ms": 190344,
+      "name": "Inside The Rider",
+      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -359,6 +359,30 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "SUUNE",
+          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 186751,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Terminal",
         "url": "https://open.spotify.com/album/1HbxyMY0nIc5irTOpPXYU2"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 226206,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/2XvCUARbXSwjGRcnZcae8n"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "SUUNE",
-          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
-        }
-      ],
-      "duration_ms": 186751,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Onslaught / Shufflin\u2019",
         "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 243103,
       "name": "Beamin\u2019 - K Motionz & skantia Remix",
       "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
     },
     {
       "added_at": "2026-10-22 23:00:31",

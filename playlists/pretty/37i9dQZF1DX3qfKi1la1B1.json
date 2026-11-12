@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 126935,
+  "num_followers": 126938,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "gg bb xx (deluxe)",
         "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 202202,
       "name": "the older you get, the less you cry",
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
     },
     {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "Puddle",
-        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 117489,
-      "name": "Puddle",
-      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
-    },
-    {
       "added_at": "2026-06-12 13:48:34",
       "album": {
         "name": "oceanic (feat. Vagabon) [rebirth]",
@@ -759,6 +743,22 @@
       "duration_ms": 142280,
       "name": "oceanic (feat. Vagabon) [rebirth]",
       "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
+        "name": "Puddle",
+        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 117489,
+      "name": "Puddle",
+      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -1121,24 +1121,36 @@
       "url": "https://open.spotify.com/track/62Tjv63LVohMHUeRBlRHny"
     },
     {
-      "added_at": "2026-11-06 09:54:19",
+      "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Womb Glow",
-        "url": "https://open.spotify.com/album/7u69VcuKFgZJwFcAagHUj1"
+        "name": "POP OUT!",
+        "url": "https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Dorian Concept",
-          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Womb Glow",
-      "url": "https://open.spotify.com/track/38SLp8yyu7783yCmeRI3bd"
+      "duration_ms": 235142,
+      "name": "\u6ce1\u3068\u6587\u5b78",
+      "url": "https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2026-11-06 09:54:19",
@@ -1165,36 +1177,24 @@
       "url": "https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO"
     },
     {
-      "added_at": "2026-06-12 13:48:34",
+      "added_at": "2026-11-06 09:54:19",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+        "name": "Womb Glow",
+        "url": "https://open.spotify.com/album/7u69VcuKFgZJwFcAagHUj1"
       },
       "artists": [
         {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "POP OUT!",
-        "url": "https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo"
-      },
-      "artists": [
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
         }
       ],
-      "duration_ms": 235142,
-      "name": "\u6ce1\u3068\u6587\u5b78",
-      "url": "https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6"
+      "duration_ms": 207466,
+      "name": "Womb Glow",
+      "url": "https://open.spotify.com/track/38SLp8yyu7783yCmeRI3bd"
     },
     {
       "added_at": "2026-11-06 09:54:19",

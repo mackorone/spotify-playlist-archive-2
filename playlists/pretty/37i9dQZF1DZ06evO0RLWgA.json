@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52939,
+  "num_followers": 52940,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAB9HqOvxG2P7Xf8w7/7rsAr",
+  "snapshot_id": "avENAAAAAAA8N051XS2mKB9H6q9bjGcn",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boom Boom (2007 Remaster)",
-        "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 373933,
-      "name": "Same Old Blues Again - 2007 - Remaster",
-      "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of John Lee Hooker 1965 To 1974",
         "url": "https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 169466,
       "name": "The Motor City Is Burning",
       "url": "https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boom Boom (2007 Remaster)",
+        "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 373933,
+      "name": "Same Old Blues Again - 2007 - Remaster",
+      "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Baby Lee - feat. Robert Cray",
-      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Look Back",
         "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 183706,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Baby Lee - feat. Robert Cray",
+      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 150906,
+      "name": "I Can't Stand To Leave You",
+      "url": "https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 277000,
       "name": "Cuttin' Out - feat. Canned Heat",
       "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 150906,
-      "name": "I Can't Stand To Leave You",
-      "url": "https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt"
     },
     {
       "added_at": null,

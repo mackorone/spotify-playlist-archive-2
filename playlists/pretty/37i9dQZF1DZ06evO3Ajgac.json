@@ -1,12 +1,12 @@
 {
   "description": "This is Elmo. The essential tracks, all in one playlist.",
-  "num_followers": 17737,
+  "num_followers": 17785,
   "original_name": "This Is Elmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAABNrPRL/Z6zASuVeChUO1ic",
+  "snapshot_id": "avENAAAAAAA50tj3d/vN6p2L1cUHVKDN",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ABC 123",
+        "url": "https://open.spotify.com/album/0QXCIagcYSnzr59Gp0C4fr"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 105400,
+      "name": "Elmo's Ducks",
+      "url": "https://open.spotify.com/track/2Z9MB9Mh9hg5SXGMOLFW95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blippi's Party with Sesame Street",
         "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 144236,
       "name": "The Garbage Truck Song - Sesame Street Version",
       "url": "https://open.spotify.com/track/4Z4anzTk8F8rAIsChIYiEb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ABC 123",
-        "url": "https://open.spotify.com/album/0QXCIagcYSnzr59Gp0C4fr"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 105400,
-      "name": "Elmo's Ducks",
-      "url": "https://open.spotify.com/track/2Z9MB9Mh9hg5SXGMOLFW95"
     },
     {
       "added_at": null,
@@ -411,6 +411,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesame Street: What's the Number?",
+        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
+      },
+      "artists": [
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 127651,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/7zTjB5Ir8H6oSxLkum5Hjl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sesame Street: Kids' Favorite Songs 2",
         "url": "https://open.spotify.com/album/16aAKJ6cx1nA0S15UTyEJm"
       },
@@ -443,34 +471,6 @@
       "duration_ms": 143782,
       "name": "The Hokey Pokey",
       "url": "https://open.spotify.com/track/0qC4EKl03FdBZEq3MamzBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: What's the Number?",
-        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
-      },
-      "artists": [
-        {
-          "name": "Rosita",
-          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
-        },
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 127651,
-      "name": "If You're Happy and You Know It",
-      "url": "https://open.spotify.com/track/7zTjB5Ir8H6oSxLkum5Hjl"
     },
     {
       "added_at": null,
@@ -719,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S Is for Sing!",
-        "url": "https://open.spotify.com/album/5bPDOr55yh38yF93hvG0qx"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "The Sesame Street Cast",
-          "url": "https://open.spotify.com/artist/5x7XfWbvbfarIFWWzMa4rM"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/5cHHjFKe2uuAH4AONCdLZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cookie Shark",
         "url": "https://open.spotify.com/album/6ABCXebowEL8SHkmuKAmen"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 129608,
       "name": "Cookie Shark",
       "url": "https://open.spotify.com/track/29RvZxAYYmEaNmno0d4htu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S Is for Sing!",
+        "url": "https://open.spotify.com/album/5bPDOr55yh38yF93hvG0qx"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "The Sesame Street Cast",
+          "url": "https://open.spotify.com/artist/5x7XfWbvbfarIFWWzMa4rM"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/5cHHjFKe2uuAH4AONCdLZL"
     },
     {
       "added_at": null,
@@ -879,50 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B Is for Boo!",
-        "url": "https://open.spotify.com/album/1nYLDE2JVXIq7v3YboVUpS"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Elmo Says Boo!",
-      "url": "https://open.spotify.com/track/2Tl5VaNKw6d5D0m4eJPQxm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: Platinum All-Time Favorites",
-        "url": "https://open.spotify.com/album/6o4ggCb797BhBa54pSqJzI"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Ernie",
-          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 130013,
-      "name": "One Fine Face",
-      "url": "https://open.spotify.com/track/509rJzcGntIBpR9RhrvRDX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me Out to the Ball Game!",
         "url": "https://open.spotify.com/album/3DkifXNkw86UmS614BGO1X"
       },
@@ -951,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "B Is for Boo!",
+        "url": "https://open.spotify.com/album/1nYLDE2JVXIq7v3YboVUpS"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Elmo Says Boo!",
+      "url": "https://open.spotify.com/track/2Tl5VaNKw6d5D0m4eJPQxm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elmo's Got the Beat",
         "url": "https://open.spotify.com/album/39EMqNqCIB4M2vhsX0WO9P"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 88722,
       "name": "Elmo's Got the Moves",
       "url": "https://open.spotify.com/track/00zDUMSQDWfnu5RtLRJrQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street: Platinum All-Time Favorites",
+        "url": "https://open.spotify.com/album/6o4ggCb797BhBa54pSqJzI"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 130013,
+      "name": "One Fine Face",
+      "url": "https://open.spotify.com/track/509rJzcGntIBpR9RhrvRDX"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesame Street: What's the Number?",
+        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 117257,
+      "name": "Best Friends Song",
+      "url": "https://open.spotify.com/track/20YGBkMNJNXQtjRKbieoja"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blippi And Sesame Street Adventures",
         "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
       },
@@ -1163,30 +1187,6 @@
       "duration_ms": 124634,
       "name": "Let's Take Care Of Animals - Sesame Street Version",
       "url": "https://open.spotify.com/track/0S9xlPL4GkXtpcCylsXbCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: What's the Number?",
-        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 117257,
-      "name": "Best Friends Song",
-      "url": "https://open.spotify.com/track/20YGBkMNJNXQtjRKbieoja"
     },
     {
       "added_at": null,
@@ -1271,26 +1271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Is for Elmo!",
-        "url": "https://open.spotify.com/album/6olEXd4PanP1ho5loa0VwU"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 73440,
-      "name": "Take a Breath",
-      "url": "https://open.spotify.com/track/59zvcxSBbqfRE8ft9AZDcB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Together",
         "url": "https://open.spotify.com/album/7MK2Ntzo9Di46dlqAZZ1p5"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 113394,
       "name": "Anyone Can Be Friends",
       "url": "https://open.spotify.com/track/4IcdH8njjKn75j9Dnrq5vc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Is for Elmo!",
+        "url": "https://open.spotify.com/album/6olEXd4PanP1ho5loa0VwU"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 73440,
+      "name": "Take a Breath",
+      "url": "https://open.spotify.com/track/59zvcxSBbqfRE8ft9AZDcB"
     },
     {
       "added_at": null,

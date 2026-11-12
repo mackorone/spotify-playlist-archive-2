@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-304 songs - 17 hr 16 min
+305 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2022-11-21 | 2023-10-20 |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-10-20 |  |
 | [HIIR](https://open.spotify.com/track/0LVplQ76aGSnnggq9IbP5b) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Kimera](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF) | [HIIR](https://open.spotify.com/album/1lanWxzAYPt2NgrtvQTFQZ) | 2:43 | 2023-05-13 | 2023-07-01 |
+| [HISAAB](https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [HISAAB](https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26) | 2:23 | 2026-11-11 |  |
 | [Home Alone](https://open.spotify.com/track/4vOElXsN9pB63rxcRV55tW) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Home Alone](https://open.spotify.com/album/0saEF9ixZrT50jbiM8CUdY) | 3:00 | 2021-12-06 | 2022-01-11 |
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-30 | 2023-09-12 |
 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 | 2022-01-05 | 2023-03-09 |
@@ -297,7 +298,7 @@
 | [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 | 2025-07-18 | 2026-04-04 |
 | [Wagairah Wagairah](https://open.spotify.com/track/5GcjIiSS47T64N1DFxn1UK) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [The Ghalat Family](https://open.spotify.com/artist/2TOUVQAEhJJDSvqjLS4X7x) | [Side A](https://open.spotify.com/album/4y3rYukqA7L8aPmkCaMj5P) | 3:37 | 2021-12-06 | 2022-03-17 |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2022-07-25 | 2024-04-19 |
-| [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 | 2021-12-06 |  |
+| [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 | 2021-12-06 | 2026-11-12 |
 | [When We Feel Young](https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 4:26 | 2023-12-05 | 2024-04-19 |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2021-12-06 | 2025-02-05 |
 | [Wildflower](https://open.spotify.com/track/1SBRoo7B2xmCE1ODnrhcOv) | [Shrinidhi Ghatate](https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW) | [Wildflower](https://open.spotify.com/album/6lYabKmdLSpFPbh29M6cI7) | 3:53 | 2022-12-23 | 2023-01-17 |

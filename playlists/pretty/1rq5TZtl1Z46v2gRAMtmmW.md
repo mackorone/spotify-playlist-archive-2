@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,056 likes - 111 songs - 6 hr 46 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,057 likes - 112 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 109 | [WYWD](https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [WYWD](https://open.spotify.com/album/5aV211595GuQbpbEAkhWIM) | 2:51 |
 | 110 | [When You Were Young](https://open.spotify.com/track/6PDlFzxxVnvxsqJ33cxp2M) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Devil's Tax Return: Volume 1](https://open.spotify.com/album/3rgOMpJ4GTgsHY1tyuof2r) | 3:13 |
 | 111 | [Rising Up](https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Telepathy](https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG) | 3:20 |
+| 112 | [Modern Dystopia](https://open.spotify.com/track/6IqHpduxivldFZLl346XkU) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Modern Dystopia](https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1) | 3:23 |
 
-Snapshot ID: `AAASVEJDoi+ImylVSDQhVLvaikXkSB9S`
+Snapshot ID: `AAASVU71xNdIlzjjtzTX/APK9k7ne6iZ`

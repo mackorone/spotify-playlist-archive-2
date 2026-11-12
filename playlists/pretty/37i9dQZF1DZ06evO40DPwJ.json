@@ -1,6 +1,6 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 19421,
+  "num_followers": 19423,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 225306,
-      "name": "I Can Be",
-      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
+      "duration_ms": 203000,
+      "name": "Can't Say Go",
+      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
     },
     {
       "added_at": null,
@@ -407,6 +407,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Shotcaller",
+      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "I Can Be",
+      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Row The Body (feat. French Montana)",
         "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
       },
@@ -423,38 +455,6 @@
       "duration_ms": 237500,
       "name": "Row The Body (feat. French Montana)",
       "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Can't Say Go",
-      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TY.O (International Version)",
-        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Shotcaller",
-      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
     },
     {
       "added_at": null,

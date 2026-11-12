@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-136 songs - 7 hr 4 min
+137 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Hollywood Blvd](https://open.spotify.com/track/7uPT70qnevznWJPDyagERP) | [Celine del Carmen](https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3) | [Hollywood Blvd](https://open.spotify.com/album/6UY6KsTCaBaqZctMgSDggD) | 2:40 | 2025-07-03 |  |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2025-07-03 |  |
 | [How To Lose A Friend](https://open.spotify.com/track/4hBK4mj2SRoiJKXGfCR0TQ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:25 | 2025-07-03 |  |
-| [I Can Change Him](https://open.spotify.com/track/1YFuNxZebaNgNSYK5LpgeC) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 3:37 | 2025-07-03 |  |
+| [I Can Change Him](https://open.spotify.com/track/1YFuNxZebaNgNSYK5LpgeC) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 3:37 | 2025-07-03 | 2026-11-12 |
+| [I Can Change Him](https://open.spotify.com/track/3JOpwVy1PrV07FUtApoN7y) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:37 | 2026-11-11 |  |
 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 | 2025-07-03 |  |
 | [Let It Talk To Me](https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Let It Talk To Me](https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl) | 2:36 | 2025-07-03 |  |
 | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/track/4txxv9Lk2IrLhDof6NrrL5) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3), [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/album/5gTrL4db8J2oPcvsOgdYQP) | 4:06 | 2025-07-03 |  |

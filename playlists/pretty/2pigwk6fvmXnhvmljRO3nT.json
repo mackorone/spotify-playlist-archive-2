@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAOFLb5VBXsnUe3aoz7ODxIKw7J2aFV",
+  "snapshot_id": "AAAOHqPJPadAe+25H7btUe/K4SGIFhzU",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -58548,7 +58548,7 @@
           "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
         }
       ],
-      "duration_ms": 261278,
+      "duration_ms": 261280,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/424hhpwdrLq2avq6oFFPGQ"
     },
@@ -150459,6 +150459,178 @@
       "duration_ms": 182413,
       "name": "\u967d\u3060\u307e\u308a\u9053 - Piano Ver.",
       "url": "https://open.spotify.com/track/0UMOJGjNPicsWQPSSmnpF1"
+    },
+    {
+      "added_at": "2026-11-11 10:08:32",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-11-11 10:13:13",
+      "album": {
+        "name": "\u03bc's Complete BEST BOX Chapter.03",
+        "url": "https://open.spotify.com/album/0lPWqWhPgsVexHm7VW5xMs"
+      },
+      "artists": [
+        {
+          "name": "\u7d62\u702c\u7d75\u91cc(CV.\u5357\u689d\u611b\u4e43)",
+          "url": "https://open.spotify.com/artist/1hH0U0CBUFUvzCw8xTJu1R"
+        },
+        {
+          "name": "\u6771\u689d \u5e0c(CV.\u6960\u7530\u4e9c\u8863\u5948)",
+          "url": "https://open.spotify.com/artist/1kDI9Vw9HNqN3FJrmaPATi"
+        },
+        {
+          "name": "\u03bc's",
+          "url": "https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i"
+        }
+      ],
+      "duration_ms": 270545,
+      "name": "\u785d\u5b50\u306e\u82b1\u5712",
+      "url": "https://open.spotify.com/track/40MIXIow8Rw8V0uDYoukJL"
+    },
+    {
+      "added_at": "2026-11-11 10:13:28",
+      "album": {
+        "name": "\u03bc's Complete BEST BOX Chapter.09",
+        "url": "https://open.spotify.com/album/5sd3oVqlWBABOaxwR1SlR9"
+      },
+      "artists": [
+        {
+          "name": "lily white",
+          "url": "https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA"
+        },
+        {
+          "name": "\u03bc's",
+          "url": "https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i"
+        }
+      ],
+      "duration_ms": 198139,
+      "name": "\u5fae\u71b1\u304b\u3089Mystery",
+      "url": "https://open.spotify.com/track/7nEQdfFDrvdBwc3rJWTDuW"
+    },
+    {
+      "added_at": "2026-11-11 19:33:46",
+      "album": {
+        "name": "\u6ce3\u304d\u305f\u304f\u306a\u308b\u307b\u3069\u5b09\u3057\u3044\u65e5\u3005\u306b",
+        "url": "https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 261546,
+      "name": "\u681e",
+      "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"
+    },
+    {
+      "added_at": "2026-11-11 19:33:58",
+      "album": {
+        "name": "\u98a8\u306e\u58f0\u3092\u8074\u304d\u306a\u304c\u3089",
+        "url": "https://open.spotify.com/album/5fZSF36joy9zMmYVpR4AXI"
+      },
+      "artists": [
+        {
+          "name": "Sangatsu no Phantasia",
+          "url": "https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "\u98a8\u306e\u58f0\u3092\u8074\u304d\u306a\u304c\u3089",
+      "url": "https://open.spotify.com/track/0TTp2NqdU3wWJYsr9VR36u"
+    },
+    {
+      "added_at": "2026-11-11 22:20:52",
+      "album": {
+        "name": "flyleaf",
+        "url": "https://open.spotify.com/album/4IxZAtztCNbXdOJifacksw"
+      },
+      "artists": [
+        {
+          "name": "ChouCho",
+          "url": "https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Yasashisa no Riyu",
+      "url": "https://open.spotify.com/track/0QiIs1UclRULsJI8pKETrV"
+    },
+    {
+      "added_at": "2026-11-11 22:29:03",
+      "album": {
+        "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "duration_ms": 251837,
+      "name": "24-hour Cinderella - Full Spec Edition",
+      "url": "https://open.spotify.com/track/5EMX5Ed9GIlhTuQTiU8hxc"
+    },
+    {
+      "added_at": "2026-11-11 22:29:10",
+      "album": {
+        "name": "\u541b\u306e\u540d\u306f\u3002",
+        "url": "https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "\u524d\u524d\u524d\u4e16 - movie ver.",
+      "url": "https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe"
+    },
+    {
+      "added_at": "2026-11-11 22:29:37",
+      "album": {
+        "name": "Human Bloom",
+        "url": "https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Zenzenzense - Original Version",
+      "url": "https://open.spotify.com/track/57Hk29LVcJAaGSFYQSuOKM"
+    },
+    {
+      "added_at": "2026-11-12 01:31:30",
+      "album": {
+        "name": "TOKYO - CITY POP -",
+        "url": "https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "duration_ms": 280693,
+      "name": "\u63a5\u543b",
+      "url": "https://open.spotify.com/track/4Y1kikrwlBD0ESg9mdOfQp"
     }
   ],
   "unique_name": "Purge",

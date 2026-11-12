@@ -1,4 +1,4 @@
-## Playlists \(9365\)
+## Playlists \(9366\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -2304,7 +2304,7 @@
 - [Falling In Love](/playlists/pretty/08vPKM3pmoyF6crB2EtASQ.md)
 - [Fallout Radio](/playlists/pretty/37i9dQZF1DWWYN0OyXQBvO.md)
 - [False Idols](/playlists/pretty/37i9dQZF1DWUTNd58Xq9pQ.md)
-- [Familienzeit: Karneval](/playlists/pretty/37i9dQZF1DX7lk7hiGiH2z.md)
+- [Familienzeit: Laternenlieder](/playlists/pretty/37i9dQZF1DX7lk7hiGiH2z.md)
 - [Family BBQ](/playlists/pretty/37i9dQZF1DX8U8pFd8VSmd.md)
 - [Family Beach Time](/playlists/pretty/37i9dQZF1DXb3ZKiuF24g4.md)
 - [Family Christmas Party](/playlists/pretty/37i9dQZF1DWYTNedJ22GVG.md)
@@ -9277,6 +9277,7 @@
 - [국악 \(Korean National\)](/playlists/pretty/37i9dQZF1DXaYcwnCfuufL.md)
 - [굿보이 \(GOOD BOY\)](/playlists/pretty/37i9dQZF1DWSjc0HVidGAU.md)
 - [그 시절, 우리가 좋아했던 소녀 \(You are the Apple of My Eye\)](/playlists/pretty/37i9dQZF1DXcDAdpUgvL1K.md)
+- [김부장 \(Agent Kim Reactivated\)](/playlists/pretty/37i9dQZF1DX6wUb39asqpA.md)
 - [나 혼자 좋아해](/playlists/pretty/37i9dQZF1DX4zvnN9RL36v.md)
 - [나쁜엄마 \(The Good Bad Mother\)](/playlists/pretty/37i9dQZF1DX3oSqvXoB6jV.md)
 - [나의 우울은, \(K\-Pop Sad Songs\)](/playlists/pretty/37i9dQZF1DXb5KQr73mtTz.md)

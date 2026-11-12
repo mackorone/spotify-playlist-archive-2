@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 25,962 likes - 51 songs - 2 hr 49 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 25,962 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 49 | [Another Kind Of Lover](https://open.spotify.com/track/4qNeMLjRrHzNKBXbai2OPA) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [Another Kind Of Lover](https://open.spotify.com/album/6aB1vVhXrd1I8thY4ExIph) | 3:35 |
 | 50 | [Ginger Lemonade](https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11) | 2:59 |
 | 51 | [Same Life](https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Same Life](https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu) | 3:18 |
+| 52 | [Runaways](https://open.spotify.com/track/265OkcPwk7GJ5KY9z2VPmj) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Rooted](https://open.spotify.com/album/1vhEG3tznbXm0Gi8nvCr2k) | 4:29 |
 
-Snapshot ID: `AAAnZv1xt7TmHMd9cQ5MIq3fRwCRf28o`
+Snapshot ID: `AAAnZ3mn+enN0DEeTlvNaoFhLazadutQ`

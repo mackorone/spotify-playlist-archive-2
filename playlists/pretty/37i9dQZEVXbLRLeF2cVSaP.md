@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,060 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,065 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [СКИНЬ НОЖКИ](https://open.spotify.com/track/7AGLSDJpbR8EfOKbXbrrfj) | [SQWOZ BAB](https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl), [Satyr](https://open.spotify.com/artist/2R2B1ED9CoVC5sLRfTGd2t) | [СКИНЬ НОЖКИ](https://open.spotify.com/album/2tvvM5qwnn9p1vqk0c6jQI) | 3:10 |
 | 50 | [Malo 2.0](https://open.spotify.com/track/2mJ8dzLchsdzepJ3MUIchk) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Мэйби Бэйби](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh), [Baby Cute](https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [Malo 2.0](https://open.spotify.com/album/5fRa21ZtmE0N6eigshVFgB) | 5:26 |
 
-Snapshot ID: `MoakwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MogGqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

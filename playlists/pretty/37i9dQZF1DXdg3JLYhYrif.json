@@ -1,6 +1,6 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 378869,
+  "num_followers": 378879,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "A Voz Do Meu Samba - Ao Vivo",
-        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
+        "name": "Evoluiu",
+        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
       },
       "artists": [
         {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
         }
       ],
-      "duration_ms": 194090,
-      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
+      "duration_ms": 179644,
+      "name": "Evoluiu",
+      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -323,22 +327,18 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Evoluiu",
-        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
+        "name": "A Voz Do Meu Samba - Ao Vivo",
+        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
         }
       ],
-      "duration_ms": 179644,
-      "name": "Evoluiu",
-      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "N\u00e3o Fala N\u00e3o pra Mim",
-        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
-      },
-      "artists": [
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "N\u00e3o Fala N\u00e3o pra Mim",
-      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "N\u00e3o Fala N\u00e3o pra Mim",
+        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
+      },
+      "artists": [
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "N\u00e3o Fala N\u00e3o pra Mim",
+      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -991,22 +991,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Encaixa",
-        "url": "https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA"
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         },
         {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
         }
       ],
-      "duration_ms": 169364,
-      "name": "Encaixa",
-      "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
+      "duration_ms": 180625,
+      "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
+      "url": "https://open.spotify.com/track/1QqIcxyTz2G7I31wcrnERf"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+        "name": "Encaixa",
+        "url": "https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         },
         {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 180625,
-      "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
-      "url": "https://open.spotify.com/track/1QqIcxyTz2G7I31wcrnERf"
+      "duration_ms": 169364,
+      "name": "Encaixa",
+      "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Ta Tum Tum",
-        "url": "https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI"
+        "name": "Amor Falso",
+        "url": "https://open.spotify.com/album/18Y2yU2nkT3bF9vnTs6qKf"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        },
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
         }
       ],
-      "duration_ms": 164157,
-      "name": "Ta Tum Tum",
-      "url": "https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka"
+      "duration_ms": 177815,
+      "name": "Amor Falso",
+      "url": "https://open.spotify.com/track/00zzSEe82JTtz68XlARnh7"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Amor Falso",
-        "url": "https://open.spotify.com/album/18Y2yU2nkT3bF9vnTs6qKf"
+        "name": "Ta Tum Tum",
+        "url": "https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI"
       },
       "artists": [
         {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 177815,
-      "name": "Amor Falso",
-      "url": "https://open.spotify.com/track/00zzSEe82JTtz68XlARnh7"
+      "duration_ms": 164157,
+      "name": "Ta Tum Tum",
+      "url": "https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka"
     },
     {
       "added_at": "2022-03-24 13:07:25",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327810,
+      "name": "13 no Fuyu",
+      "url": "https://open.spotify.com/track/4zhnD2o1YYsTagGR1yXhLO"
+    },
+    {
+      "album": {
         "name": "Shinjitsu eno Shingeki",
         "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 329982,
       "name": "13 no Fuyu",
       "url": "https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 326693,
       "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
       "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
@@ -700,7 +718,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 277346,
       "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
       "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"

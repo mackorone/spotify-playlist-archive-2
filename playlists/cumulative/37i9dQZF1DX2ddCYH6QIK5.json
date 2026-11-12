@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Corduroy County",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Viv May",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -464,6 +464,24 @@
       "duration_ms": 183481,
       "name": "a hundred times",
       "url": "https://open.spotify.com/track/7HV4c3hlmGtlOoNTsKjELM"
+    },
+    {
+      "album": {
+        "name": "a letter",
+        "url": "https://open.spotify.com/album/74WIisxDuou2Roaip665nw"
+      },
+      "artists": [
+        {
+          "name": "Viv May",
+          "url": "https://open.spotify.com/artist/26EkHW753VIDQtzesad9rK"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161157,
+      "name": "a letter",
+      "url": "https://open.spotify.com/track/2aNRtZJPgh5OXOrdUaxV7y"
     },
     {
       "album": {
@@ -8352,7 +8370,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 136124,
       "name": "Eisberg",
       "url": "https://open.spotify.com/track/5TbmTc17QFCW4cvEAh71ZB"
@@ -21241,6 +21259,24 @@
     },
     {
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/0y6G2bdQ8xMfG6HXyVSh46"
+      },
+      "artists": [
+        {
+          "name": "Sonya",
+          "url": "https://open.spotify.com/artist/4YOZK4SHcVKTlDSXvUbBiI"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154611,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/0R7WrKRRA6NPgdUznhMmrN"
+    },
+    {
+      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/4zNREje19PtqpXKxuAxiCd"
       },
@@ -25772,7 +25808,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 127397,
       "name": "Sommersemester",
       "url": "https://open.spotify.com/track/0F5EohvdxjOjzjdqfsU9t4"
@@ -27951,6 +27987,24 @@
     },
     {
       "album": {
+        "name": "The Star/ Hope",
+        "url": "https://open.spotify.com/album/1SDcr3bbREAd414awh0EYL"
+      },
+      "artists": [
+        {
+          "name": "Anna Grob",
+          "url": "https://open.spotify.com/artist/3g42bTWoe3BPmk2bXeUN4Q"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302842,
+      "name": "The Star/ Hope",
+      "url": "https://open.spotify.com/track/6rD8xALFLNuKnRcAaQmgvL"
+    },
+    {
+      "album": {
         "name": "The Summer We Need",
         "url": "https://open.spotify.com/album/4e0i5Mw54VqLD3Lu5f2KqJ"
       },
@@ -29446,7 +29500,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 170002,
       "name": "untergehen",
       "url": "https://open.spotify.com/track/0NPxB9YwQmWDAcehclgGaa"

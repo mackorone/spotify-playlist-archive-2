@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,517 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,705 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 12 | [Horny, Grieving](https://open.spotify.com/track/2uvTP27swxyANQSOp2L0DH) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Horny, Grieving](https://open.spotify.com/album/5gTCLMGljymV7c9RXX4Jwn) | 3:20 |
 | 13 | [White Collar](https://open.spotify.com/track/6HUlCUZK5DzmHIeX8lC3a1) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [In Endless Awe & Agony](https://open.spotify.com/album/2mAo6jXxhO8hTHwgTUD0yc) | 3:12 |
 | 14 | [PATTERN](https://open.spotify.com/track/4SJm0QAznuWDNn4TvhB4PG) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [SECONDHAND SMOKE](https://open.spotify.com/album/5VwMEjoJ8jsdCAKIhqhIbe) | 3:19 |
-| 15 | [big fat crush \- bonus track](https://open.spotify.com/track/2yqg5GHkV8KDhx3QUwAxCg) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [bleach \(with bonus track\)](https://open.spotify.com/album/13smoUJ9V9xxNQIDgbMbsL) | 2:53 |
+| 15 | [big fat crush \- bonus track](https://open.spotify.com/track/2yqg5GHkV8KDhx3QUwAxCg) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [bleach](https://open.spotify.com/album/13smoUJ9V9xxNQIDgbMbsL) | 2:53 |
 | 16 | [PLAY GOD](https://open.spotify.com/track/4cRqZeKxwSqBN60ofPOoZo) | [Ruby Doll](https://open.spotify.com/artist/1SUIDAEfkqiupgHgJJULqE) | [PLAY GOD](https://open.spotify.com/album/5P8ePqn3KJyygjWNdF5QcF) | 3:07 |
 | 17 | [Pollination](https://open.spotify.com/track/1G8XLeXdtscwDHX89pidGR) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Pollination](https://open.spotify.com/album/3FRZsbIP68BQqL3rCxuX5o) | 3:10 |
 | 18 | [Kiss](https://open.spotify.com/track/51RgPzTTfxdtAZvmqPxUSx) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Kiss](https://open.spotify.com/album/68BTIBgW5y8rWV6K9gPjH9) | 3:01 |

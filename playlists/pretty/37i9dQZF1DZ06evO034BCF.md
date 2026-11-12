@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 
 > This is Gustavo Dudamel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,391 likes - 31 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,395 likes - 31 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 | 30 | [Symphonie espagnole, Op\. 21: I\. Allegro non troppo](https://open.spotify.com/track/1iCkBg993KuHJXRBStcF28) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Simón Bolívar Symphony Orchestra of Venezuela](https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Lalo: Symphonie espagnole, Op\. 21: I\. Allegro non troppo](https://open.spotify.com/album/5EQgHlE2nSD2GCNH7PDwIv) | 8:24 |
 | 31 | [Symphony No\. 7 in D Minor, Op\. 70, B\. 141: III\. Scherzo\. Vivace](https://open.spotify.com/track/5SNUNIE3AsANf6wBF4gcmg) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Dvořák: Symphonies Nos\. 7\-9](https://open.spotify.com/album/6b7rzLJNjDot2WLtTyFQwt) | 7:34 |
 
-Snapshot ID: `au+7gAAAAAACgmCpikpUoT8rFs9iY0EL`
+Snapshot ID: `avENAAAAAAAWwckSeqCuClEDZiCfWCRd`

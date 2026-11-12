@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "All Being Well",
+        "url": "https://open.spotify.com/album/4rCAq5Z2CgdZaARxFMy4Nm"
+      },
+      "artists": [
+        {
+          "name": "Rail Replacement Bus Service",
+          "url": "https://open.spotify.com/artist/4ZXkyvifdU23wreGyKApl5"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193585,
+      "name": "All Being Well",
+      "url": "https://open.spotify.com/track/3gp3H5DIkSbnBGIM0B57mJ"
+    },
+    {
+      "album": {
         "name": "All Dressed Up",
         "url": "https://open.spotify.com/album/5zqMV2D4h729UcVAh0QFFs"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 247016,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/5w01mOyQ0X3ojYD5dPhq7w"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 172944,
       "name": "Angel So Bad",
       "url": "https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4"
@@ -6019,6 +6037,24 @@
     },
     {
       "album": {
+        "name": "Fishing is not about fishing",
+        "url": "https://open.spotify.com/album/0ypNn2FN8PEXhYZy9aXahV"
+      },
+      "artists": [
+        {
+          "name": "Ruby Gill",
+          "url": "https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261747,
+      "name": "Carol / not carol",
+      "url": "https://open.spotify.com/track/5JTH4oS1EJdFtJ6LaOTaIF"
+    },
+    {
+      "album": {
         "name": "Carol / not carol",
         "url": "https://open.spotify.com/album/1gDhE3043O3EnYRZR4f0wi"
       },
@@ -9903,6 +9939,24 @@
     },
     {
       "album": {
+        "name": "Milly Strange",
+        "url": "https://open.spotify.com/album/5XVJJmJ25rra49m0B02dWz"
+      },
+      "artists": [
+        {
+          "name": "Milly Strange",
+          "url": "https://open.spotify.com/artist/2f6ZSXiF455F4JQDFodycd"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213284,
+      "name": "Don't Call My Name",
+      "url": "https://open.spotify.com/track/6hnSOLYceB5yjPOFu0YJLG"
+    },
+    {
+      "album": {
         "name": "Don't Get Me Wrong - Reflection",
         "url": "https://open.spotify.com/album/1JCv1BRTfAq82FSTw4Cu8w"
       },
@@ -12800,7 +12854,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 224420,
       "name": "Florida Water Blues",
       "url": "https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF"
@@ -30039,6 +30093,24 @@
     },
     {
       "album": {
+        "name": "Roadside Assistance",
+        "url": "https://open.spotify.com/album/4Ec3Q0DXrIxzQjpKRvrxrd"
+      },
+      "artists": [
+        {
+          "name": "GracieHorse",
+          "url": "https://open.spotify.com/artist/1IskCzpFUBf8I0yFWkWWxO"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173290,
+      "name": "Roadside Assistance",
+      "url": "https://open.spotify.com/track/3XjSSEoviTGwpkaoPf9Pte"
+    },
+    {
+      "album": {
         "name": "Rockdale",
         "url": "https://open.spotify.com/album/77l40wbAkDypi1otMXLN3K"
       },
@@ -35314,7 +35386,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 213526,
       "name": "The Dog",
       "url": "https://open.spotify.com/track/5WPw1FoA2S5ivwlNJ5rDo6"

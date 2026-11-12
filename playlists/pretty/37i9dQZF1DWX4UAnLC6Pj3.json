@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva \ud83d\udcf8",
-  "num_followers": 1296463,
+  "num_followers": 1296478,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
+        "name": "Mira Beb\u00e9",
+        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 161797,
+      "name": "Mira Beb\u00e9",
+      "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
         "name": "Coraz\u00f3n De Piedra",
         "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 212787,
       "name": "De Vez En Cuando",
       "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
-        "name": "Mira Beb\u00e9",
-        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 161797,
-      "name": "Mira Beb\u00e9",
-      "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "La Tendr\u00e9 Que Olvidar",
-        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 241584,
-      "name": "La Tendr\u00e9 Que Olvidar",
-      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Rancheras Bonitas",
         "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Tequila y Guaro",
-        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
+        "name": "La Tendr\u00e9 Que Olvidar",
+        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Todo Que Ver",
-      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
+      "duration_ms": 241584,
+      "name": "La Tendr\u00e9 Que Olvidar",
+      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -875,6 +859,22 @@
       "duration_ms": 177062,
       "name": "Ella Jura",
       "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Tequila y Guaro",
+        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
         "name": "Por Salud Mental",
         "url": "https://open.spotify.com/album/5daCtEvl4hwiozKbCQxc9h"
       },
@@ -1035,18 +1051,34 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+        "name": "Me Vas a Perder",
+        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
+      "duration_ms": 151168,
+      "name": "Me Vas a Perder",
+      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Legado Coleccion 1 Regrabado",
+        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 230965,
+      "name": "Mil Heridas",
+      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Me Vas a Perder",
-        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "Me Vas a Perder",
-      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Si Por Casualidad",
         "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 156990,
       "name": "Si Por Casualidad",
       "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
-        "name": "Legado Coleccion 1 Regrabado",
-        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 230965,
-      "name": "Mil Heridas",
-      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Piratita",
-        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 115826,
-      "name": "Piratita",
-      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
-    },
-    {
-      "added_at": "2026-10-23 09:16:07",
-      "album": {
         "name": "Cumbias Chidas, Loco",
         "url": "https://open.spotify.com/album/7ae2dm5jJJNRskhc3S8Hzg"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 289655,
       "name": "Popurr\u00ed Chico - Che: Qui\u00e9n Pomp\u00f3/Macorina/Que Culpa Tiene La Estaca",
       "url": "https://open.spotify.com/track/6vgfwHT76RhVAyT0vE86zP"
+    },
+    {
+      "added_at": "2026-10-23 09:16:07",
+      "album": {
+        "name": "Piratita",
+        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 115826,
+      "name": "Piratita",
+      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Las Mismas Costumbres (En Vivo)",
-        "url": "https://open.spotify.com/album/5jLggk2hT5zcvrnJW1vvft"
+        "name": "Fuiste Mi Todo",
+        "url": "https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP"
       },
       "artists": [
         {
-          "name": "Alejandra Rojas",
-          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
         },
         {
-          "name": "Banda Perla De Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
+          "name": "Israel Cienfuegos",
+          "url": "https://open.spotify.com/artist/0ouNgALf13UnBD4jkZo30Y"
         }
       ],
-      "duration_ms": 190332,
-      "name": "Las Mismas Costumbres - En Vivo",
-      "url": "https://open.spotify.com/track/5eEW8uGChSpFGlqLYuMNfN"
+      "duration_ms": 146221,
+      "name": "Fuiste Mi Todo",
+      "url": "https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91"
     },
     {
       "added_at": "2026-10-23 09:16:07",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2026-10-23 09:16:07",
       "album": {
-        "name": "Fuiste Mi Todo",
-        "url": "https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP"
+        "name": "Las Mismas Costumbres (En Vivo)",
+        "url": "https://open.spotify.com/album/5jLggk2hT5zcvrnJW1vvft"
       },
       "artists": [
         {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
         },
         {
-          "name": "Israel Cienfuegos",
-          "url": "https://open.spotify.com/artist/0ouNgALf13UnBD4jkZo30Y"
+          "name": "Banda Perla De Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
         }
       ],
-      "duration_ms": 146221,
-      "name": "Fuiste Mi Todo",
-      "url": "https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91"
+      "duration_ms": 190332,
+      "name": "Las Mismas Costumbres - En Vivo",
+      "url": "https://open.spotify.com/track/5eEW8uGChSpFGlqLYuMNfN"
     },
     {
       "added_at": "2026-10-23 09:16:07",

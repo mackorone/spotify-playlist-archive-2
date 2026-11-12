@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,724 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,726 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 46 | [Dance in the rain](https://open.spotify.com/track/0a4fWH8pJqoUlWmzPTR6CV) | [わかfrom STAR☆ANIS](https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 4:03 |
 | 47 | [Moonlight destiny](https://open.spotify.com/track/7k23PwzprCuA2cAgPTMgmW) | [りすこfrom STAR☆ANIS](https://open.spotify.com/artist/7DK1Wv6HgOGHNqrj6WnOHq) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 6:28 |
 | 48 | [stranger alien](https://open.spotify.com/track/6hoHlpL2uWWt0eDY5oraUs) | [ふうり・ゆな from STAR☆ANIS](https://open.spotify.com/artist/2ZsTyDZDZtDiAe0gdNrUwb) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:42 |
-| 49 | [CHU\-CHU▽RAINBOW](https://open.spotify.com/track/16dCrdTYHPw9OJVygNVOPb) | [れみ・えり from STAR☆ANIS](https://open.spotify.com/artist/5p9SaXBcPuvfi4kcTezY4E) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:29 |
-| 50 | [同じ地球のしあわせに](https://open.spotify.com/track/1EIqSuixgDjAxPATBnfRV8) | [えり from STAR☆ANIS](https://open.spotify.com/artist/6ZwHtbx1PROrUIPxNJPqtL) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 5:16 |
+| 49 | [同じ地球のしあわせに](https://open.spotify.com/track/1EIqSuixgDjAxPATBnfRV8) | [えり from STAR☆ANIS](https://open.spotify.com/artist/6ZwHtbx1PROrUIPxNJPqtL) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 5:16 |
+| 50 | [CHU\-CHU▽RAINBOW](https://open.spotify.com/track/16dCrdTYHPw9OJVygNVOPb) | [れみ・えり from STAR☆ANIS](https://open.spotify.com/artist/5p9SaXBcPuvfi4kcTezY4E) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:29 |
 
 Snapshot ID: `AAAAAFXUigwSo78k2mn4saggxRQZa4tK`

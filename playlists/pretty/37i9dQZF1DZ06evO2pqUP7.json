@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70351,
+  "num_followers": 70353,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAAAJF6wjySrk8nNTs1ZfZhFi",
+  "snapshot_id": "avENAAAAAAAjNDUu8Y3QXM86XHl8lwnR",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palomino (Remix)",
-        "url": "https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Palomino - Remix",
-      "url": "https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevo",
         "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 139350,
       "name": "Nuevo",
       "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomino (Remix)",
+        "url": "https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Palomino - Remix",
+      "url": "https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH"
     },
     {
       "added_at": null,
@@ -455,6 +455,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Mi Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "En Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Fans (Remix)",
         "url": "https://open.spotify.com/album/7qoN2JtzwbSfasx3PjG0KR"
       },
@@ -499,34 +527,6 @@
       "duration_ms": 422576,
       "name": "Only Fans - Remix",
       "url": "https://open.spotify.com/track/1QaCsLoKEWVujL3owyyei4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Mi Habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "En Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
     },
     {
       "added_at": null,
@@ -979,6 +979,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enf\u00e9rmame",
+        "url": "https://open.spotify.com/album/07sVOLmW2f9iNTTrao0iyU"
+      },
+      "artists": [
+        {
+          "name": "Dany Ome",
+          "url": "https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v"
+        },
+        {
+          "name": "Kevincito El 13",
+          "url": "https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 190633,
+      "name": "Enf\u00e9rmame",
+      "url": "https://open.spotify.com/track/7MLVDgUzcDl8DyGP884Itb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -1019,22 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "787",
         "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
       },
@@ -1047,6 +1055,22 @@
       "duration_ms": 225365,
       "name": "787",
       "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -1067,6 +1091,22 @@
       "duration_ms": 226666,
       "name": "Subconsciente",
       "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
     },
     {
       "added_at": null,
@@ -1095,42 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gym",
-        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Gym",
-      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Toque Mi Naik",
-        "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 143925,
-      "name": "No Toque Mi Naik",
-      "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMIGA CON BENEFICIOS",
         "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
       },
@@ -1151,6 +1155,26 @@
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Toque Mi Naik",
+        "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 143925,
+      "name": "No Toque Mi Naik",
+      "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
     },
     {
       "added_at": null,
@@ -1187,30 +1211,6 @@
       "duration_ms": 155390,
       "name": "Sin Ropa",
       "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enf\u00e9rmame",
-        "url": "https://open.spotify.com/album/07sVOLmW2f9iNTTrao0iyU"
-      },
-      "artists": [
-        {
-          "name": "Dany Ome",
-          "url": "https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v"
-        },
-        {
-          "name": "Kevincito El 13",
-          "url": "https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 190633,
-      "name": "Enf\u00e9rmame",
-      "url": "https://open.spotify.com/track/7MLVDgUzcDl8DyGP884Itb"
     },
     {
       "added_at": null,

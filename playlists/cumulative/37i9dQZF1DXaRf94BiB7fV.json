@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Arushi Bhargava",
+  "description": "The best new music by independent artists and labels in India. Cover - Upkar Thakur",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -5388,7 +5388,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 296581,
       "name": "Bundiya",
       "url": "https://open.spotify.com/track/5W6Cffr4cIjNDuhbiVp5xq"
@@ -10349,6 +10349,24 @@
     },
     {
       "album": {
+        "name": "Far Too Long",
+        "url": "https://open.spotify.com/album/3DXSeQfUG8KH2GXuS2rvuN"
+      },
+      "artists": [
+        {
+          "name": "Blue Temptation",
+          "url": "https://open.spotify.com/artist/2PgnqX0QiwmCzkg12LI8fQ"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237244,
+      "name": "Far Too Long",
+      "url": "https://open.spotify.com/track/0vAmcrL7kzm2KvMT2NEUKq"
+    },
+    {
+      "album": {
         "name": "Fasaana",
         "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
       },
@@ -13369,6 +13387,28 @@
     },
     {
       "album": {
+        "name": "Hum Tere",
+        "url": "https://open.spotify.com/album/3xSwLrvZxeFsr7OmGYIc8F"
+      },
+      "artists": [
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        },
+        {
+          "name": "Aman Moroney",
+          "url": "https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221848,
+      "name": "Hum Tere",
+      "url": "https://open.spotify.com/track/1jQWytDlMuoXbWuqKD0PR3"
+    },
+    {
+      "album": {
         "name": "Hum Tum (Reimagined)",
         "url": "https://open.spotify.com/album/5GhyRHd8n65cb50LvmyQF4"
       },
@@ -14094,6 +14134,28 @@
       "duration_ms": 174347,
       "name": "i'm tired",
       "url": "https://open.spotify.com/track/5UeN38kwUvd2pSd4gn1kAt"
+    },
+    {
+      "album": {
+        "name": "Ghosts of an Overthinker",
+        "url": "https://open.spotify.com/album/5GvjB1n9NMVb0XIvjI7NU9"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Prakash",
+          "url": "https://open.spotify.com/artist/6SWFSLF1xO9jZ4XOISZkc9"
+        },
+        {
+          "name": "ASHWYN",
+          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "I'm too scared",
+      "url": "https://open.spotify.com/track/2gPOVbcplH8OEfOOV5bWnc"
     },
     {
       "album": {
@@ -21078,7 +21140,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 192000,
       "name": "Lauren",
       "url": "https://open.spotify.com/track/5UtOkmTi47iJbib9ZI3hhC"
@@ -24194,7 +24256,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 171533,
       "name": "Mil Ja Tu",
       "url": "https://open.spotify.com/track/1IdmjEkJ4VahCtEXcfnxXi"
@@ -33160,7 +33222,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 211683,
       "name": "Sona",
       "url": "https://open.spotify.com/track/2syQeSPeflDUtHzHm7ubUu"
@@ -40306,6 +40368,24 @@
       "duration_ms": 258571,
       "name": "You're Alright",
       "url": "https://open.spotify.com/track/24tCoU9TN4HTTQ1ShgoeLi"
+    },
+    {
+      "album": {
+        "name": "Still Can't Write a Love Song",
+        "url": "https://open.spotify.com/album/7wvdHW3ZRSgNMBVUbRhwCy"
+      },
+      "artists": [
+        {
+          "name": "Anahita Singh",
+          "url": "https://open.spotify.com/artist/7B4wEMhnaj4Q0JRGxpAtgm"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "You've Loved Before",
+      "url": "https://open.spotify.com/track/1CfVXqENlppVM3MzEE6wSb"
     },
     {
       "album": {

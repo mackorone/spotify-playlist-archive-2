@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: IDIOTAPE\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,416 songs - 3 day 13 hr 51 min
+1,418 songs - 3 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 | 2025-06-05 | 2025-07-11 |
 | [Fallin'](https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Modern, Mild](https://open.spotify.com/album/2pEKX0SvaeJ289AtEEieL9) | 3:11 | 2021-12-12 | 2022-07-27 |
 | [Falling](https://open.spotify.com/track/67mNsloLtulun2pLmuh42B) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Falling](https://open.spotify.com/album/4JyOtpXsV3MX5eBLGjAE68) | 3:38 | 2025-08-07 | 2025-09-06 |
-| [Falling for You is Easy](https://open.spotify.com/track/2UM4NcdhDtz2bEMNAp5tC2) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Falling for You is Easy](https://open.spotify.com/album/0HbYUVNGwPfXSfjR6OG21e) | 3:18 | 2026-06-12 |  |
+| [Falling for You is Easy](https://open.spotify.com/track/2UM4NcdhDtz2bEMNAp5tC2) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Falling for You is Easy](https://open.spotify.com/album/0HbYUVNGwPfXSfjR6OG21e) | 3:18 | 2026-06-12 | 2026-11-12 |
 | [Falling Star](https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56) | [Up\-Dawn](https://open.spotify.com/artist/2iuvwj3RhVBo3OM1WTSlZu) | [Falling Star](https://open.spotify.com/album/163ztGWzGI1Wk6sB9QAPHG) | 4:03 | 2021-12-21 | 2022-07-21 |
 | [Far](https://open.spotify.com/track/7kKFVGCcWLm8iGSywixmeF) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Far](https://open.spotify.com/album/7bw2NcAcqb4z2yTIRebEJK) | 3:19 | 2026-07-22 |  |
 | [Far 멀리](https://open.spotify.com/track/7y4ye2TL1fT2WUTes5Q921) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Between 사이](https://open.spotify.com/album/6H8uxH4wbBRchrN1O6lgOh) | 3:34 | 2022-03-31 | 2022-04-16 |
@@ -795,7 +795,7 @@
 | [My Curly Hair Is Dancing In The Light](https://open.spotify.com/track/4R708sgkvM0wKCeQW6O20J) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Love Untangled \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2b7FMbGcBoyjMFZC8AYx7o) | 3:14 | 2025-09-01 | 2025-10-20 |
 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 | 2022-11-11 | 2024-11-07 |
 | [My Friend \(feat\. Kim Sawol\)](https://open.spotify.com/track/6GYfwuyeSLiNIbG8twrg40) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Tiny Village](https://open.spotify.com/album/4qcORqrwArG9CxHYEN3x8d) | 4:24 | 2024-04-30 | 2024-05-10 |
-| [My Gravity](https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [My Gravity](https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d) | 3:41 | 2026-06-12 |  |
+| [My Gravity](https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [My Gravity](https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d) | 3:41 | 2026-06-12 | 2026-11-12 |
 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-07-22 | 2022-07-26 |
 | [My Last Teen](https://open.spotify.com/track/13vw7pAaPFnJLsv66FeXnq) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [My Last Teen](https://open.spotify.com/album/1WkXMTU4ozoGKFQmM9xyIB) | 2:55 | 2021-12-21 | 2022-07-22 |
 | [My Little Lambs](https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [My Little Lambs](https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4) | 3:37 | 2022-08-04 | 2022-08-19 |
@@ -828,6 +828,7 @@
 | [night drive](https://open.spotify.com/track/0IlkvSocmPVnaVXxQsLs56) | [xxiuk](https://open.spotify.com/artist/3bUokI8BPDRTAMg4YNRuLT) | [night drive](https://open.spotify.com/album/7lGoiZo6fEBatrwlNNexTP) | 3:12 | 2021-12-12 | 2022-04-07 |
 | [Night Keeper](https://open.spotify.com/track/6hOEtej8q58BgHjvFeYohj) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Night Keeper](https://open.spotify.com/album/1Y6jdkFgLwyGt1CBuEdbgN) | 3:51 | 2023-01-25 | 2023-02-09 |
 | [night night](https://open.spotify.com/track/5QThXrWkC8E6n2kY9CEmWm) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SKIN](https://open.spotify.com/album/2VwACWY14BDAQ6so8zIL07) | 3:59 | 2026-07-23 |  |
+| [Night Stage](https://open.spotify.com/track/36wx19Bof5DtHII4ETXJL5) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Night Stage](https://open.spotify.com/album/5cuGHkUFzRbqc1XdmrOIGT) | 3:40 | 2026-11-11 |  |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-04 | 2022-08-05 |
 | [Night Walk](https://open.spotify.com/track/0AL9ujUjDLk219ukEZ15xc) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Night Walk](https://open.spotify.com/album/1Qyx5qvWDPToF4h5pJjory) | 4:04 | 2025-07-31 | 2025-09-23 |
 | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/track/0XytXTd3EGup2Fqng4nxau) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/album/2RRB01nIint1XGgYhFVulM) | 4:14 | 2022-03-31 | 2022-04-18 |
@@ -961,7 +962,7 @@
 | [red moon](https://open.spotify.com/track/7000j12fd01Z1ITmTZLqPZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [red moon](https://open.spotify.com/album/7APF2jKLoT8nUp8hUnq1eq) | 4:18 | 2022-12-06 | 2023-01-05 |
 | [Red Shadow](https://open.spotify.com/track/2sz5VZfkWaq9z1jv7ACpgD) | [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [Mirrored Dream](https://open.spotify.com/album/4r9YoQ5dGcIBcpgPVmxk5n) | 3:58 | 2024-05-08 | 2024-05-10 |
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2021-12-12 | 2022-05-16 |
-| [Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Remaining](https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx) | 5:17 | 2026-06-12 |  |
+| [Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Remaining](https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx) | 5:17 | 2026-06-12 | 2026-11-12 |
 | [Remember!](https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:32 | 2025-06-20 | 2025-06-25 |
 | [Remember! \- TOWA TEI REMIX](https://open.spotify.com/track/4Z0H9yvR5Wguva5aKowF5w) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl), [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD) | [Remember! \(TOWA TEI REMIX\)](https://open.spotify.com/album/5pA3ECmhkTOcQnRdmxPhhP) | 3:37 | 2026-08-07 |  |
 | [Remembering](https://open.spotify.com/track/3hEYaDGvni3dZ8E2tZ4Hug) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Remembering](https://open.spotify.com/album/4xZnp0byuBiJzFiYUbOaCr) | 4:00 | 2025-01-09 | 2025-03-22 |
@@ -1142,6 +1143,7 @@
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-02-14 | 2023-03-01 |
 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 | 2025-07-07 | 2025-07-09 |
 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-04-30 | 2024-05-10 |
+| [Taboo \(feat\. SUMIN\)](https://open.spotify.com/track/25QM7KiBaWUiI1U4BOLfR9) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [SUBHUMAN](https://open.spotify.com/album/0wor7xaSrD11Xds52hsB5e) | 3:10 | 2026-11-11 |  |
 | [tail of a tail](https://open.spotify.com/track/4Iow0s7GA6I18JQHCnS4Yx) | [ryojinnjane](https://open.spotify.com/artist/51Qp62oiX5RBuzytLDRYF8) | [hidden plant](https://open.spotify.com/album/0mzOIu5My8tCcJavSkLkt9) | 2:56 | 2026-04-01 | 2026-04-10 |
 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 | 2025-10-02 | 2025-11-18 |
 | [Take It Slow](https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY) | 2:50 | 2025-09-30 | 2025-10-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 547294,
+  "num_followers": 547372,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 152531,
       "name": "Back in Your Own Back Yard",
       "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
-      },
-      "artists": [
-        {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Beyond the Sea",
         "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 175865,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Oh! Look At Me Now",
-        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 163026,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/7ib2yxCbRfAj33CW2IJHd9"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/6YC6lvvorgEvQol3o2v6JN"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 407533,
       "name": "The More I See You - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/7ib2yxCbRfAj33CW2IJHd9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/6YC6lvvorgEvQol3o2v6JN"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "They Say It's Spring",
-        "url": "https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 134973,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "They Say It's Spring",
+        "url": "https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "The Modern Sound Of Betty Carter",
-        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 116320,
-      "name": "Jazz (Ain't Nothin' But Soul)",
-      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Dimples",
         "url": "https://open.spotify.com/album/5cC7x4dTPPH5jPluPfPvKA"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 211692,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0WvEPAbHsfTa3SSUXiRu3D"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "The Modern Sound Of Betty Carter",
+        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 116320,
+      "name": "Jazz (Ain't Nothin' But Soul)",
+      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Not So Dukish",
-        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Central Park Swing",
-      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Love for Sale",
         "url": "https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
       "artists": [
         {
-          "name": "Paul Callander",
-          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
         }
       ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
+      "duration_ms": 205373,
+      "name": "Central Park Swing",
+      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Far Away Lands",
-        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Paul Callander",
+          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
         }
       ],
-      "duration_ms": 312626,
-      "name": "A Dab Of This And That",
-      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1459,6 +1443,22 @@
       "duration_ms": 325652,
       "name": "Always",
       "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Far Away Lands",
+        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "A Dab Of This And That",
+      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
     },
     {
       "added_at": "2026-11-06 09:56:37",

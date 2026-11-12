@@ -1,6 +1,6 @@
 {
   "description": "Its time to relish the best themes of Kollywood!\nCover : DC",
-  "num_followers": 110842,
+  "num_followers": 110864,
   "original_name": "Kollywood Themes",
   "owner": {
     "name": "Spotify",
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
         }
       ],
-      "duration_ms": 77942,
-      "name": "Parotta Chukka",
-      "url": "https://open.spotify.com/track/38i6E7HvnsV0akKl3ZwFh4"
+      "duration_ms": 259417,
+      "name": "Kaatru Maram",
+      "url": "https://open.spotify.com/track/0TWtslwk8XtCCuTJ9gPkIE"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
         }
       ],
-      "duration_ms": 259417,
-      "name": "Kaatru Maram",
-      "url": "https://open.spotify.com/track/0TWtslwk8XtCCuTJ9gPkIE"
+      "duration_ms": 77942,
+      "name": "Parotta Chukka",
+      "url": "https://open.spotify.com/track/38i6E7HvnsV0akKl3ZwFh4"
     },
     {
       "added_at": "2024-04-26 11:29:16",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz"
     },
     {
+      "added_at": "2021-11-01 22:19:07",
+      "album": {
+        "name": "Maari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 30753,
+      "name": "The Maari Swag",
+      "url": "https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX"
+    },
+    {
       "added_at": "2023-08-18 14:35:33",
       "album": {
         "name": "Glimpse of Harold Das (From \"Leo\")",
@@ -1307,22 +1323,6 @@
       "duration_ms": 42782,
       "name": "Glimpse of Harold Das (From \"Leo\")",
       "url": "https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK"
-    },
-    {
-      "added_at": "2022-07-08 13:39:05",
-      "album": {
-        "name": "Vikram (Original Background Score)",
-        "url": "https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 148023,
-      "name": "Amar Theme - Background Score",
-      "url": "https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo"
     }
   ],
   "unique_name": "Kollywood Themes",

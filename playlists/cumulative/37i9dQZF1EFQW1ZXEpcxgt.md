@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 10 hr 24 min
+192 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2022-06-04 |  |
 | [Ballin](https://open.spotify.com/track/17N5FdRwJuv3UXQ7MHnbhF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Uncle Drew \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4tedCRHFkPOlzi6HR54tqd) | 2:46 | 2022-06-04 |  |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2022-06-04 |  |
-| [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 | 2025-06-27 |  |
+| [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 | 2025-06-27 | 2026-11-12 |
+| [Beautiful As You](https://open.spotify.com/track/3YQfZb0L2m8Q8q2Na1Ns06) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 2:43 | 2026-11-11 |  |
 | [Belong](https://open.spotify.com/track/3ZmaDoOblZcBHGSHuwnpF5) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [Premonitions](https://open.spotify.com/album/5nzCMfhBRX5U5TVxPDkPcJ) | 2:46 | 2022-06-04 | 2022-10-19 |
 | [Belong](https://open.spotify.com/track/4v7NK5ekkhfsVrhnechJud) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [Premonitions](https://open.spotify.com/album/7f5EBzskrYbensDvpazq5j) | 2:46 | 2022-10-18 |  |
 | [Beside Me](https://open.spotify.com/track/3zNDVJAwnnWDNW8OvnJsqN) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:07 | 2025-05-26 |  |
@@ -57,7 +58,8 @@
 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 | 2022-06-04 |  |
 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 | 2022-06-04 |  |
 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 | 2022-06-04 |  |
-| [Fool](https://open.spotify.com/track/3tS2dDHAc35hdy3rDIP55U) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:00 | 2025-05-26 |  |
+| [Fool](https://open.spotify.com/track/3tS2dDHAc35hdy3rDIP55U) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:00 | 2025-05-26 | 2026-11-12 |
+| [Fool](https://open.spotify.com/track/73Ou5NHz6aHQunNLDW4o1N) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:00 | 2026-11-11 |  |
 | [Forget Forever](https://open.spotify.com/track/7D39d96OheT62fgxoGaElz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 4:11 | 2023-01-06 |  |
 | [Forget Forever \- ST£FAN Remix](https://open.spotify.com/track/7EO3dPoidji4aCBvfcftYF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [For You EP](https://open.spotify.com/album/1Um6gMP04VQ0rGegUyXthT) | 3:46 | 2022-06-04 | 2023-01-07 |
 | [Fun](https://open.spotify.com/track/4ERC5viMhrZHV9ErLcKzBL) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Fun \(Official Video\)](https://open.spotify.com/album/4HWnzLWVAnza2J13aUMFrO) | 3:59 | 2023-12-15 | 2024-01-31 |

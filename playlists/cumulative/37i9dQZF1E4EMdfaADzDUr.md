@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With Douran, winterburn, After Cooking and more
+> With Douran, BIRRD, winterburn and more
 
 391 songs - 1 day 5 hr 59 min
 

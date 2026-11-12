@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 619432,
+  "num_followers": 619555,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Gjeilo: Winter Light",
-        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        },
-        {
-          "name": "Roberto Sorrentino",
-          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Winter Light",
-      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
-        "url": "https://open.spotify.com/album/2YOdUQDZ9JzCyoxumriUTh"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Minsoo Sohn",
-          "url": "https://open.spotify.com/artist/2SPassRsXiTWiRW9IBgPgL"
-        }
-      ],
-      "duration_ms": 78333,
-      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
-      "url": "https://open.spotify.com/track/3EjmTzp2JgA1mGLCrjK4JS"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "Schumann: Myrthen, Op.25 - Version For Cello And Piano, 24. Du bist wie eine Blume",
         "url": "https://open.spotify.com/album/0nNceg0mOYKmxH1p8NhNSK"
       },
@@ -775,22 +755,22 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Debussy: R\u00eaverie, CD 76",
-        "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
+        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
+        "url": "https://open.spotify.com/album/2YOdUQDZ9JzCyoxumriUTh"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Bruce Liu",
-          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+          "name": "Minsoo Sohn",
+          "url": "https://open.spotify.com/artist/2SPassRsXiTWiRW9IBgPgL"
         }
       ],
-      "duration_ms": 259799,
-      "name": "R\u00eaverie, CD 76",
-      "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
+      "duration_ms": 78333,
+      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
+      "url": "https://open.spotify.com/track/3EjmTzp2JgA1mGLCrjK4JS"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -811,6 +791,26 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Debussy: R\u00eaverie, CD 76",
+        "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "R\u00eaverie, CD 76",
+      "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Piano Poems",
-        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
-      },
-      "artists": [
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        },
-        {
-          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Being",
-      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "W.f. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 153800,
       "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
       "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Piano Poems",
+        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
+      },
+      "artists": [
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        },
+        {
+          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
     },
     {
       "added_at": "2026-11-06 04:00:44",

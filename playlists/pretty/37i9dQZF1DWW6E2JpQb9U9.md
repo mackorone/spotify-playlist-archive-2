@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. Foto: Charly García
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,859 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,862 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 67 | [Beatle \- Acústico en Vivo](https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:32 |
 | 68 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
 | 69 | [Movimiento Astral \- En vivo](https://open.spotify.com/track/1gQRoX5GMn1MIbamqGT2uJ) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Vivo en Obras](https://open.spotify.com/album/2iSeuaCC2bxgTKf5Tpy9i0) | 5:24 |
-| 70 | [Solito Vas \- En Vivo Movistar Arena](https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Solito Vas \(En Vivo Movistar Arena\)](https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf) | 3:54 |
-| 71 | [Me Puedo Programar \(En Vivo](https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [En Vivo\-Vol.2](https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw) | 3:21 |
+| 70 | [Me Puedo Programar \(En Vivo](https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [En Vivo\-Vol.2](https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw) | 3:21 |
+| 71 | [Solito Vas \- En Vivo Movistar Arena](https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Solito Vas \(En Vivo Movistar Arena\)](https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf) | 3:54 |
 | 72 | [Sábado \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:08 |
 | 73 | [Las Cosas Que No Se Tocan \- En Vivo Luna Park](https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 4:04 |
 | 74 | [Arde la ciudad](https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Vivire Viajando](https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg) | 4:13 |

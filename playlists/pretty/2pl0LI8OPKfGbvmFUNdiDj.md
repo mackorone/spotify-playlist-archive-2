@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,330 likes - 59 songs - 3 hr 11 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,346 likes - 64 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,10 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 57 | [Quien Eres Tu](https://open.spotify.com/track/7wLDuGIKohd5uL2XS6aElg) | [Rasir Srv](https://open.spotify.com/artist/7IRwEoQapVLubr4u4KW8g8), [Lui Santana](https://open.spotify.com/artist/34lCY8BwfxQNjwCk61O0S3) | [Kenopsia](https://open.spotify.com/album/6DwiVyuMjmYVilA52OqiBP) | 3:46 |
 | 58 | [Out of Sight Out of Mind](https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf) | [Out of Sight Out of Mind](https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ) | 2:31 |
 | 59 | [Drift Away](https://open.spotify.com/track/5YbeIvCEriRjdb3FGcyq70) | [eleventh ember](https://open.spotify.com/artist/1pmpxLJQT4JkSFWwFzA3Tw) | [Drift Away](https://open.spotify.com/album/1Ni8Ou8xGn2E148aktNCS6) | 3:12 |
+| 60 | [All Things Left Behind](https://open.spotify.com/track/3GNP2odSFQaSHqeeLXIJdQ) | [Magacadabra](https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs) | [Magacadabra](https://open.spotify.com/album/3QmSDGjb8MVPnCw2pgkJ2p) | 4:01 |
+| 61 | [Let It Go](https://open.spotify.com/track/7mH3Js8nXCxDmbNkN0UZft) | [DK](https://open.spotify.com/artist/3tKCvMTzVioWMaLt7dn6wU) | [Let It Go](https://open.spotify.com/album/5FrDepb8FC8OYFVQvU6Njj) | 3:17 |
+| 62 | [OMG](https://open.spotify.com/track/7Hne5xde6zGqJWx4LTa93l) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Something Something Disco](https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve) | 3:57 |
+| 63 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 |
+| 64 | [Feel the Vibes](https://open.spotify.com/track/2Yn3ht6bIMQiJhY8IRIKdn) | [Eva Ku](https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0) | [Feel the Vibes](https://open.spotify.com/album/7lgV9Fkn6XwxrWCQrp15zG) | 2:27 |
 
-Snapshot ID: `AAAEpv8a83Jktq6ByMW7aEyA38yKt4FQ`
+Snapshot ID: `AAAEqynkKatvu1wAzDBpttrXS943uqgB`

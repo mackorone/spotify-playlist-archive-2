@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Didi B",
-  "num_followers": 103769,
+  "num_followers": 103834,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "I Can't Look Away",
-        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
-      },
-      "artists": [
-        {
-          "name": "Mr. P",
-          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "I Can't Look Away",
-      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "I Can't Look Away",
+        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
+      },
+      "artists": [
+        {
+          "name": "Mr. P",
+          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "I Can't Look Away",
+      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "All Hail Muyeez",
-        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "Round One (Elle Mummy)",
         "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 146000,
       "name": "Round One (Elle Mummy)",
       "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "All Hail Muyeez",
+        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "HOW FAR (Remix)",
         "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 200617,
       "name": "HOW FAR - Remix",
       "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 152869,
-      "name": "ONAZO!",
-      "url": "https://open.spotify.com/track/6aRhkPzTCrSGrDZJEUvtBM"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "Dantata",
         "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
       },
@@ -1019,22 +1003,18 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+      "duration_ms": 152869,
+      "name": "ONAZO!",
+      "url": "https://open.spotify.com/track/6aRhkPzTCrSGrDZJEUvtBM"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1059,6 +1039,26 @@
       "duration_ms": 155840,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "Wahala Pikin",
+        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 118801,
+      "name": "Opium Amapiano",
+      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "Bank Alert",
         "url": "https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS"
       },
@@ -1143,42 +1159,6 @@
       "duration_ms": 142487,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Wahala Pikin",
-        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 118801,
-      "name": "Opium Amapiano",
-      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Jembe / 14DRoad",
-        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 138208,
-      "name": "Jembe",
-      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1211,6 +1191,26 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 138208,
+      "name": "Jembe",
+      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "Me Sisi",
         "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 171805,
       "name": "Me Sisi",
       "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "Shakabulizzy",
+        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1243,22 +1259,6 @@
       "duration_ms": 155044,
       "name": "Involve Me",
       "url": "https://open.spotify.com/track/4n8tbxIMKNtDiAEskx5n0E"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Shakabulizzy",
-        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 165296,
-      "name": "Shakabulizzy",
-      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Merlinpiano",
-        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
-      },
-      "artists": [
-        {
-          "name": "TheFeyiii",
-          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
-        }
-      ],
-      "duration_ms": 148910,
-      "name": "Merlinpiano",
-      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 227950,
       "name": "Holy Water (feat. Victony & Musa Keys)",
       "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "Merlinpiano",
+        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
+      },
+      "artists": [
+        {
+          "name": "TheFeyiii",
+          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+        }
+      ],
+      "duration_ms": 148910,
+      "name": "Merlinpiano",
+      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
     }
   ],
   "unique_name": "afro-piano",

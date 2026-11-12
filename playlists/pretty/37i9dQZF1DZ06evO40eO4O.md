@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,922 likes - 39 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,927 likes - 39 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 8 | [La vida rosa](https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [La vida rosa](https://open.spotify.com/album/1QNNw4vdlcNW6oRBGVT9h0) | 3:48 |
 | 9 | [VERTIGO](https://open.spotify.com/track/70BCmegyMAdPzFadlYGXfv) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:58 |
 | 10 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 |
-| 11 | [FINGIA](https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FINGIA](https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0) | 2:20 |
+| 11 | [OMG](https://open.spotify.com/track/4KiFB9oEd9X0Qfz2Cpe1Cn) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [OMG](https://open.spotify.com/album/0YFyx7kctlxIc6EQcKUp2d) | 2:52 |
 | 12 | [FRIKI](https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:32 |
-| 13 | [OMG](https://open.spotify.com/track/4KiFB9oEd9X0Qfz2Cpe1Cn) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [OMG](https://open.spotify.com/album/0YFyx7kctlxIc6EQcKUp2d) | 2:52 |
+| 13 | [FINGIA](https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FINGIA](https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0) | 2:20 |
 | 14 | [Ojitos de Md \- Remix](https://open.spotify.com/track/0TsSKpAgvBVNm5OBvxlSu0) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/4jEb7Q1AzouxhIOC27cjeL) | 2:50 |
 | 15 | [Deja Vu](https://open.spotify.com/track/4uqc8T9Aq7k9wlNQeXxSuY) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Deja Vu](https://open.spotify.com/album/2d5OQTVxmRIoYCSlwSOBOs) | 3:21 |
 | 16 | [DEMASIADO](https://open.spotify.com/track/1FnX52b2XTa1YlBKQGJpwe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 1:30 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 24 | [PLACARD](https://open.spotify.com/track/0r5cPFo2h0MWR7mHKpQF7o) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:31 |
 | 25 | [LNDF](https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 3:02 |
 | 26 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
-| 27 | [ALÓ](https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [ALÓ](https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx) | 2:51 |
-| 28 | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs) | 4:05 |
+| 27 | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs) | 4:05 |
+| 28 | [ALÓ](https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [ALÓ](https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx) | 2:51 |
 | 29 | [ARRABALERA](https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 2:40 |
 | 30 | [Castigo](https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Castigo](https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB) | 2:31 |
 | 31 | [Me Perdí](https://open.spotify.com/track/1WmNPOeEj0ipzfalJ7tRWe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Me Perdí](https://open.spotify.com/album/5iLFvV5lVhEoKTOkpgceVq) | 3:24 |

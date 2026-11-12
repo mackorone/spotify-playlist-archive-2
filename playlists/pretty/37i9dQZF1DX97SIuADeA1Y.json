@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339407,
+  "num_followers": 339388,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "1001 Arabian Nights",
+        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Chipz",
+          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "1001 Arabian Nights",
+      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek)",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "1001 Arabian Nights",
-        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Chipz",
-          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "1001 Arabian Nights",
-      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -695,26 +695,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM"
       },
       "artists": [
         {
-          "name": "F\u00c4T TONY",
-          "url": "https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK"
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
         },
         {
-          "name": "MEDUN",
-          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 172500,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
+      "duration_ms": 120847,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -743,22 +739,46 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
       "artists": [
         {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+          "name": "F\u00c4T TONY",
+          "url": "https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK"
         },
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "MEDUN",
+          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
         }
       ],
-      "duration_ms": 120847,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS"
+      "duration_ms": 172500,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
+      },
+      "artists": [
+        {
+          "name": "Nora & Chris",
+          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
+        },
+        {
+          "name": "Alex Martin",
+          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -787,66 +807,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Better Place - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
-      },
-      "artists": [
-        {
-          "name": "Nora & Chris",
-          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
-        },
-        {
-          "name": "Alex Martin",
-          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -871,6 +831,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Better Place - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Always You And Me",
         "url": "https://open.spotify.com/album/2NvOJ8MahUL3r6YzxyNAXt"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 129548,
       "name": "Always You And Me",
       "url": "https://open.spotify.com/track/40hcepAhhkVpYRRPjhXmi9"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2025-02-14 16:04:15",

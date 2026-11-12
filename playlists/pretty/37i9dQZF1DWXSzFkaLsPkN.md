@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Aanchal Tyagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,770 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,777 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 24 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 |
 | 25 | [BANNI](https://open.spotify.com/track/1DKcBVnaDg3tHBJEXovH4x) | [Aneesh](https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2), [Krtin Kay](https://open.spotify.com/artist/7rDecvyiaWrph8fExUQLG1), [Kunnu](https://open.spotify.com/artist/5arO2RojBN2crCUwvzMZvV), [Gargei Lavekar](https://open.spotify.com/artist/3O4N0ZOr7YqsNV0qrUTTQa) | [BANNI](https://open.spotify.com/album/7JJaYuxxTkm2lcwWrYyFNh) | 2:05 |
 | 26 | [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 |
-| 27 | [Saawan Bhi Thehra](https://open.spotify.com/track/1UEff8xgE38s8QqydL2nZQ) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Saawan Bhi Thehra](https://open.spotify.com/album/2pjR9bnw52hjhDrPj4hXDT) | 3:38 |
-| 28 | [SAAWALI](https://open.spotify.com/track/4Fr72bmq08t2mL0Ad66i03) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [SAAWALI](https://open.spotify.com/album/2MWdpGdzCC3vBO82nywkcu) | 2:40 |
+| 27 | [SAAWALI](https://open.spotify.com/track/4Fr72bmq08t2mL0Ad66i03) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [SAAWALI](https://open.spotify.com/album/2MWdpGdzCC3vBO82nywkcu) | 2:40 |
+| 28 | [Saawan Bhi Thehra](https://open.spotify.com/track/1UEff8xgE38s8QqydL2nZQ) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Saawan Bhi Thehra](https://open.spotify.com/album/2pjR9bnw52hjhDrPj4hXDT) | 3:38 |
 | 29 | [Qaraar](https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Dipti Misra](https://open.spotify.com/artist/01uFaIgB0EWy8RIpi0LDQ8) | [Qaraar](https://open.spotify.com/album/5ZgxkBhPJ25z0ty5hUVnYX) | 6:50 |
 | 30 | [Better With You \(From "UR Debut"\)](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA) | [Better With You \(From "UR Debut"\)](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
 | 31 | [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 |

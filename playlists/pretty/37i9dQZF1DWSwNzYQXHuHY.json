@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 13007,
+  "num_followers": 13008,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "Wanna Love You",
+        "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 220472,
+      "name": "Wanna Love You",
+      "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "Wanna Love You",
-        "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 220472,
-      "name": "Wanna Love You",
-      "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "You're Mine, You're My Man",
-        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
-      },
-      "artists": [
-        {
-          "name": "LEE JI MIN",
-          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "You're Mine, You're My Man",
-      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Don't Be",
         "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "STAYC Special Single [I WANT IT]",
-        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+        "name": "You're Mine, You're My Man",
+        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "LEE JI MIN",
+          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
         }
       ],
-      "duration_ms": 181972,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
+      "duration_ms": 153000,
+      "name": "You're Mine, You're My Man",
+      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -767,6 +751,22 @@
       "duration_ms": 147903,
       "name": "9 to 2",
       "url": "https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 181972,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
     },
     {
       "added_at": "2026-09-18 06:00:16",

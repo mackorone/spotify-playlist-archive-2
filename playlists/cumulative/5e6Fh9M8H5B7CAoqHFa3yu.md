@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,799 songs - 6 day 18 hr 48 min
+2,800 songs - 6 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2224,6 +2224,7 @@
 | [Splish Splash Dub](https://open.spotify.com/track/7FKp06CKWqtPN0YYkcOOOZ) | [Alien Trackers](https://open.spotify.com/artist/5L5HRZ5ZZENiDWIv2bPE08), [disrupt](https://open.spotify.com/artist/2gRoIdR5vwiNwds5uW3Kge), [Pablo Volt](https://open.spotify.com/artist/34MttlcoQi6VGZODd0GDBm) | [Dubs From Vortex Beach](https://open.spotify.com/album/4yP8iuNURoEAPZemwvvw0L) | 3:02 | 2026-10-28 |  |
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-12-23 |  |
 | [SPRING!](https://open.spotify.com/track/7lyg0eGzqwhk1TZmPrIyxu) | [Dark of Mind Project](https://open.spotify.com/artist/1xxm7LliI0DIiaMGSv5qjd) | [SPRING!](https://open.spotify.com/album/4eh1a2NYKXGSjtUMLjh6Yx) | 2:56 | 2025-07-08 |  |
+| [Squalo Balena](https://open.spotify.com/track/20kQD4HWEL80RTHx1NWrB6) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Spaziotempo](https://open.spotify.com/album/1aZCwn3hiBwpgYhHiZCqRb) | 5:00 | 2026-11-11 |  |
 | [Stand It Dub](https://open.spotify.com/track/0QCNNZhVnsImhL4TLOJOFD) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:17 | 2026-10-23 |  |
 | [Stand Up](https://open.spotify.com/track/3qkCC1hfTxxod02il10ky3) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Solar](https://open.spotify.com/artist/1gIg0BYJbWeJJptMzcKQRh), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Jazzmatazz, Vol\. 4 \(Instrumentals\)](https://open.spotify.com/album/6uOl36bL0cMthQ93OJtXAF) | 2:45 | 2026-02-07 |  |
 | [Star Sibling](https://open.spotify.com/track/3u9HcnzxRL7PZcxc0VUMRb) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Star Sibling](https://open.spotify.com/album/3YUkHFSyk3XilT0plsZKG7) | 2:46 | 2026-05-27 |  |

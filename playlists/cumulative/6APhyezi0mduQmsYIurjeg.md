@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-611 songs - 1 day 13 hr 1 min
+612 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Sangue Quente](https://open.spotify.com/track/4YAv6RfAtXMZCTPmyIeAZI) | [Lamarquez](https://open.spotify.com/artist/47TmTJiO9p0BgTx4iKA4Tc) | [O Inimigo Invencível](https://open.spotify.com/album/0OVeK3aFM4ELgTl26mZMrc) | 2:53 | 2024-03-01 |  |
 | [Satisfy This Itch](https://open.spotify.com/track/66nDBeFzgrupUaRq4k9IUo) | [Georgia Carter](https://open.spotify.com/artist/3OuTXl2GbkTJpMQfnDVKfz), [Angus Potter\-Irwin](https://open.spotify.com/artist/1gg1pKJKi5B74wVMl2yfh6) | [Satisfy This Itch](https://open.spotify.com/album/6sjXawr1bBTeE9WPjjvUQH) | 3:36 | 2023-02-22 |  |
 | [Saturada](https://open.spotify.com/track/2HdeTCNEOrCSJdJ6MbAbzl) | [Agustina Lahera](https://open.spotify.com/artist/1rZrNb4YG4r08Q6NlW0k3j) | [Saturada](https://open.spotify.com/album/3MuDTmYS1qyA0l9x81MMWD) | 2:55 | 2025-02-03 |  |
+| [Say](https://open.spotify.com/track/3CHCkuE8GGQnvMv7rELd0e) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Say](https://open.spotify.com/album/4ufVm71zH8Z2apbGe3mvKP) | 3:08 | 2026-11-11 |  |
 | [Saying Goodbye](https://open.spotify.com/track/32ZlX5dQ2kHrDLGKd5YXSc) | [Punch Drunk Poets](https://open.spotify.com/artist/5AIiuf6qpRRCKnfnaLSS78) | [Saying Goodbye](https://open.spotify.com/album/1Lx7II6F76iwCFtTIBzvN3) | 3:19 | 2025-03-24 |  |
 | [Sbohem vám](https://open.spotify.com/track/7acZPEBMXZspDbo3SHlQxY) | [Kudrnáč](https://open.spotify.com/artist/3i0m9s6AG01CeoKBoaTA3o) | [Sbohem vám](https://open.spotify.com/album/11maqVdRw3S87zwejMrC8W) | 2:57 | 2023-02-19 |  |
 | [See You Now](https://open.spotify.com/track/64qEpAXN6XL4AUWafl3Nno) | [The Engagement](https://open.spotify.com/artist/0rLsMRlRAKLpRO6CjgFoeV) | [See You Now](https://open.spotify.com/album/5NnDeYXrO5C7DwTXMDR7gS) | 3:10 | 2023-05-03 |  |

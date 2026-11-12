@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Klisman
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,491 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,487 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 22 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
 | 23 | [Foco](https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [JECI](https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:20 |
 | 24 | [KIT NOVO](https://open.spotify.com/track/2DPjad5luoIoVifhhtfvIc) | [Galick](https://open.spotify.com/artist/0NwxDrYgtiPOK5nmXmNp2H), [Nick Dilla](https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j) | [KIT NOVO](https://open.spotify.com/album/59D6Nai1sKVyUr9ZWjHeOq) | 2:37 |
-| 25 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
-| 26 | [OURO BRANCO](https://open.spotify.com/track/6PFsoFrUgww46DSM963is1) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:40 |
+| 25 | [OURO BRANCO](https://open.spotify.com/track/6PFsoFrUgww46DSM963is1) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:40 |
+| 26 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 27 | [+ Swag](https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [+ Swag](https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD) | 2:30 |
 | 28 | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/track/1HR4dYh0FSrkkBOIkW8Twj) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/album/2Qwhae5mBLsaPJ63W6Jbha) | 2:21 |
 | 29 | [OURO ROSE](https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [NUNK MAIS QUEBRADO](https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv) | 1:50 |

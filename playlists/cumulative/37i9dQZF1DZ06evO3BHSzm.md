@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-150 songs - 10 hr 6 min
+151 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [The Song Is Over](https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 6:16 | 2022-09-17 | 2022-10-13 |
 | [The Song Is Over \- Remastered 2022](https://open.spotify.com/track/1eqiVoLCw9lIYBuLwFqO6L) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Remastered 2022\)](https://open.spotify.com/album/5mQnSrc0cFV6greyhJJIR6) | 6:24 | 2026-04-12 | 2026-06-12 |
 | [There's A Fortune In Those Hills \- Demo / Remastered 2022](https://open.spotify.com/track/3OWo2IdRFjbM3XoqMACb0M) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 4:09 | 2023-09-18 | 2023-11-11 |
-| [They Are All In Love](https://open.spotify.com/track/0nfnSvFx11ox9HRrVyPaZZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers](https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm) | 3:00 | 2026-09-23 |  |
+| [They Are All In Love](https://open.spotify.com/track/0nfnSvFx11ox9HRrVyPaZZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers](https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm) | 3:00 | 2026-09-23 | 2026-11-12 |
+| [They Are All In Love \- 2026 Remaster](https://open.spotify.com/track/7DKl5lrzFfLruxudfThjQ7) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 3:02 | 2026-11-12 |  |
 | [Things Go Better With Coke](https://open.spotify.com/track/25LUTb24rdwKnse0wAXCJm) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 0:31 | 2024-10-11 | 2024-10-30 |
 | [Tommy Can You Hear Me?](https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 1:35 | 2022-09-19 | 2025-03-22 |
 | [Too Much \- Lifehouse Chronicles / Demo / Remastered 2022](https://open.spotify.com/track/7wMKxe4sp8O2AkCsXzAgrx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 5:37 | 2023-09-21 | 2023-10-11 |

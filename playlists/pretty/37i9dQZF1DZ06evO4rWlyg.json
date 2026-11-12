@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 157399,
+  "num_followers": 157421,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au+7gAAAAACmoP7m0hgV2duIO50+SFlY",
+  "snapshot_id": "avENAAAAAABQgTb9bFEbOyLjsl7QihE6",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Oceania",
-      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Biophilia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 308053,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/3PfdVg6wGFvUYdGrrUJNQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Oceania",
+      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 319600,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 305703,
       "name": "Blissing Me",
       "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isobel",
-        "url": "https://open.spotify.com/album/10JHcYPElCXAZiyygOZ0F4"
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/2F2qfvrwmKykv9w2cUkhZj"
+      "duration_ms": 306400,
+      "name": "Mutual Core",
+      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

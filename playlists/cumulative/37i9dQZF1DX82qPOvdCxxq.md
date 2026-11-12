@@ -4,7 +4,7 @@
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Church Friends
 
-1,356 songs - 3 day 3 hr 7 min
+1,360 songs - 3 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [Peace](https://open.spotify.com/track/5OlA8wCfwEyKh3ZZdCUjxf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Peace](https://open.spotify.com/album/3tE9TpTQossZEL136kY0lM) | 1:32 | 2025-09-17 | 2025-10-16 |
 | [PEACE OF MIND](https://open.spotify.com/track/2G3fpPjR6eThehljDfcc74) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [PEACE OF MIND](https://open.spotify.com/album/3cCbpRCZjcEiHTT9WOz2JL) | 2:34 | 2026-02-04 | 2026-04-30 |
 | [peace of wild things](https://open.spotify.com/track/211s3rDL3CGHzGQ853LFzq) | [BNDSRVNT](https://open.spotify.com/artist/30KbhreRIsNgTns5m7ZXe8), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [peace of wild things](https://open.spotify.com/album/7sWYkl0tADTpUE8n2Xl2R6) | 3:13 | 2026-09-16 |  |
+| [pegasus](https://open.spotify.com/track/1zgPTcmehootTzZILn55FA) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [pegasus](https://open.spotify.com/album/0No2AaO00viWeDoeuJb0Yv) | 3:04 | 2026-11-11 |  |
 | [Peleando En Mi Mente](https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Peleando En Mi Mente](https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn) | 2:50 | 2026-06-17 | 2026-09-11 |
 | [Perfect](https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY) | [Perfect](https://open.spotify.com/album/6EkIUiWQSjDnBpA5pOgzxD) | 3:24 | 2024-08-07 | 2025-01-23 |
 | [Perfect](https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Perfect](https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH) | 3:07 | 2025-01-22 | 2026-01-18 |
@@ -1043,6 +1044,7 @@
 | [sit & wait](https://open.spotify.com/track/0UbOXTutwkmO1hYUYpfjqO) | [Tianna](https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr) | [sit & wait](https://open.spotify.com/album/5NvQjf67ig4NzqDnJRM4Qu) | 3:58 | 2025-10-15 | 2026-01-18 |
 | [Siéndote Sincero](https://open.spotify.com/track/6mGQXJbzEnbEXLeMujGdOE) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa) | [Siéndote Sincero](https://open.spotify.com/album/6JHh2GvXaf1Ak4MrFrpUYe) | 2:21 | 2025-09-17 | 2025-10-16 |
 | [skin & bone](https://open.spotify.com/track/0rOcs5rGwmi2IDzMtH34Vx) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [skin & bone](https://open.spotify.com/album/3mC6ddrJJQXgGcZFHEmQhf) | 2:41 | 2026-06-03 | 2026-08-27 |
+| [Skin and Bone](https://open.spotify.com/track/2kNtleAupqq2HDhsmBteeJ) | [Henry Roe](https://open.spotify.com/artist/31QXBmcnzktfRcxfTMwNJh) | [Skin and Bone](https://open.spotify.com/album/5nompNK62tZ5xvnox7MwNc) | 3:10 | 2026-11-11 |  |
 | [Snow White](https://open.spotify.com/track/6roek1DnPiZlDOaWGfRJIA) | [Charlene Nash](https://open.spotify.com/artist/2qhBqNQlHE3Lq5VbUI4UHA) | [Snow White](https://open.spotify.com/album/59ySLYx7we14FM4vu8lXNs) | 3:50 | 2025-02-12 | 2026-01-18 |
 | [So Beyond](https://open.spotify.com/track/6BH9lgUltTuhMABEIlYPAX) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [So Beyond](https://open.spotify.com/album/0NINUFWvtvWgzqHKiqKCx2) | 2:19 | 2025-05-14 | 2026-01-18 |
 | [So Good](https://open.spotify.com/track/2fj6mdtxBsbSlC7GJOidGa) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [So Good](https://open.spotify.com/album/5x54vYiPGmaNOZC7yasI7D) | 2:44 | 2026-09-23 |  |
@@ -1112,6 +1114,7 @@
 | [take the reins](https://open.spotify.com/track/2szuqnteaYamAD0QKedrNf) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL), [KamiKwazi](https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [new day](https://open.spotify.com/album/6PzGGgvyYNm2MJ1noYRjZu) | 2:26 | 2025-02-05 | 2026-01-18 |
 | [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4b6UfKgoBxBLyJBkyHbAvj) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly // Autumn Sessions](https://open.spotify.com/album/0En2HzqrFPmB4eVYFiPa7M) | 4:46 | 2023-02-18 | 2024-04-19 |
 | [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4iaf7Xg99DoMVEIQIE27gs) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly / / Autumn Sessions](https://open.spotify.com/album/5iVZOUKr9l9iG6JeE4n6oq) | 4:46 | 2021-02-12 | 2024-07-06 |
+| [Taking His Time](https://open.spotify.com/track/0Me8VRaaHD1799sdQ5Isou) | [Aurora Sage](https://open.spotify.com/artist/24zzCdwBVsl4MJA4PLa9mO) | [Taking His Time](https://open.spotify.com/album/42exV50hdEG4iyZQgiH8UN) | 4:08 | 2026-11-11 |  |
 | [taking my time](https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [taking my time](https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl) | 4:04 | 2026-04-01 | 2026-07-02 |
 | [TALK ABOUT IT](https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [I’M OKAY NOW, BUT I WASN’T FOR A WHILE](https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV) | 2:03 | 2026-08-12 | 2026-10-30 |
 | [TALK SPICY](https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [TALK SPICY](https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd) | 1:52 | 2025-04-18 | 2025-05-15 |
@@ -1176,6 +1179,7 @@
 | [TIGHTROPE](https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [TIGHTROPE](https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo) | 3:04 | 2024-08-07 | 2024-09-05 |
 | [Till I Found You](https://open.spotify.com/track/6XUJFuejnO8eUFGSIRnmzW) | [Charlotte Adelle](https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy) | [Till I Found You](https://open.spotify.com/album/3LhAXUSZFq04JsilQy2DeK) | 4:14 | 2026-05-13 | 2026-08-13 |
 | [Till You're Home](https://open.spotify.com/track/2RrkLEP2YYsi2CXIpL3OZ8) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Zach Paradis](https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy) | [Till You're Home](https://open.spotify.com/album/7Fzy7mkW8NgeVCRtNzv7Uu) | 3:24 | 2026-01-17 | 2026-03-20 |
+| [Time And Time Again](https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Time And Time Again](https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK) | 3:39 | 2026-11-11 |  |
 | [Time for You](https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Time for You](https://open.spotify.com/album/6CUZHvfCGAPlo8Q7fsJlz0) | 3:39 | 2026-04-15 | 2026-07-09 |
 | [Time of Day](https://open.spotify.com/track/1pAMsoomEFmCZuU3j6q61F) | [Nick Corbett](https://open.spotify.com/artist/3o2JUrVqorcQoqv905b4Im) | [Time of Day](https://open.spotify.com/album/2RcNFyV7kqGYemlix9KllY) | 1:54 | 2025-05-19 | 2025-06-19 |
 | [Times Like These](https://open.spotify.com/track/63aOuJTDChk6vmJehpvVrX) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Times Like These](https://open.spotify.com/album/6TGSQLTeMro2hHnjfN6tPq) | 2:51 | 2025-06-18 | 2025-07-17 |

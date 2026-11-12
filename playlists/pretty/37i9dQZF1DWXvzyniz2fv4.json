@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157859,
+  "num_followers": 157855,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -595,34 +595,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Ver o Mar",
-        "url": "https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs"
-      },
-      "artists": [
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        },
-        {
-          "name": "Niina",
-          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
-        }
-      ],
-      "duration_ms": 187274,
-      "name": "Ver o Mar",
-      "url": "https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "Drogas e Sanfona",
         "url": "https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r"
       },
@@ -647,6 +619,34 @@
       "duration_ms": 148944,
       "name": "Drogas e Sanfona",
       "url": "https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Ver o Mar",
+        "url": "https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "duration_ms": 187274,
+      "name": "Ver o Mar",
+      "url": "https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
+        "name": "BIA1B99",
+        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 157553,
+      "name": "PERSONAGEM",
+      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 216600,
       "name": "Amor N\u00e3o Sai de Moda",
       "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "BIA1B99",
-        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 157553,
-      "name": "PERSONAGEM",
-      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
         "name": "Bate A Onda",
         "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     },
     {
       "added_at": "2026-10-19 15:52:42",

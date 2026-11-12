@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Crashendo\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Hasnaa\. Artwork: Isu Kim
 
 550 songs - 1 day 4 hr 50 min
 
@@ -280,7 +280,7 @@
 | [Mademoiselle](https://open.spotify.com/track/6qjU4sZnbaRGOdJ4ikXFck) | [Casa Vince](https://open.spotify.com/artist/4g6yjgUDDKTVTjoPoFpgSb) | [Mademoiselle](https://open.spotify.com/album/1ItCnlUOkiAoyOuDwWo5Kn) | 2:47 | 2024-05-14 | 2024-08-14 |
 | [MAFESH TAQA](https://open.spotify.com/track/208UcAYZsbege0I5fAnOOI) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40), [MOAZ](https://open.spotify.com/artist/3WJj9WOHSMcZRwZJpTopnt) | [MAFESH TAQA](https://open.spotify.com/album/6kiftEgkJald31vs4FqQoA) | 2:56 | 2026-03-04 | 2026-04-01 |
 | [Magnesium](https://open.spotify.com/track/4eapcfPXRl0kRoFOrJl0On) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Magnesium](https://open.spotify.com/album/4EmTcy8IQD4PDLyj5KoUAk) | 2:33 | 2023-08-01 | 2024-01-17 |
-| [Mahontsh](https://open.spotify.com/track/5YwqzqGDFcP7gDCMDq4BVY) | [JAY](https://open.spotify.com/artist/4yiApEsX6J6PygGNtyRdoe) | [Mahontsh](https://open.spotify.com/album/4VJpurmVFbMEZc9QEzGbuo) | 3:13 | 2026-10-21 |  |
+| [Mahontsh](https://open.spotify.com/track/5YwqzqGDFcP7gDCMDq4BVY) | [JAY](https://open.spotify.com/artist/0KhSPJdSH0IB1sLBp8Sdqs) | [Mahontsh](https://open.spotify.com/album/4VJpurmVFbMEZc9QEzGbuo) | 3:13 | 2026-10-21 |  |
 | [Make You Happier](https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt) | [emisa](https://open.spotify.com/artist/2HBd9g5slj3HAi22gY9L6G) | [Make You Happier](https://open.spotify.com/album/6prbjVMCvjEwKP42VJ5jNY) | 2:17 | 2023-04-05 | 2023-05-24 |
 | [Malek Ya Denia](https://open.spotify.com/track/4zZAu2TTFlUhxL7TpHx0J5) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Malek Ya Denia](https://open.spotify.com/album/5VDBuXrHcccQCA2ykvm8Sa) | 3:18 | 2024-10-01 | 2025-02-11 |
 | [Malet](https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Malet](https://open.spotify.com/album/3BgQk5FH2NVhZPuwENJkrC) | 3:21 | 2024-01-16 | 2024-06-27 |

@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 308258,
       "name": "Ashes and Auras",
       "url": "https://open.spotify.com/track/2dKhgvzXrMbaG3wut3DJeT"
@@ -11470,7 +11470,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 120424,
       "name": "Caged Lion",
       "url": "https://open.spotify.com/track/4mAoGlWIgUO1iNbGGhT4sC"
@@ -13692,7 +13692,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 200853,
       "name": "Choices",
       "url": "https://open.spotify.com/track/4602ssIzMXFlYQCfqpoEAO"
@@ -18844,6 +18844,40 @@
       "duration_ms": 239783,
       "name": "Dollhouse (with Lily Rose Depp)",
       "url": "https://open.spotify.com/track/5HUQPQ9E1a4er4UhB8C7Rc"
+    },
+    {
+      "album": {
+        "name": "Black Samson: The Saga Continues",
+        "url": "https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp"
+      },
+      "artists": [
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Kyah Baby",
+          "url": "https://open.spotify.com/artist/7Fkz3rPi9NU6jw2f5yxzWY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167363,
+      "name": "Dominant Confidence",
+      "url": "https://open.spotify.com/track/1gLCXfNCSYOCHkfxxBMlpX"
     },
     {
       "album": {
@@ -54782,7 +54816,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 206746,
       "name": "Our Love Is Alive (feat. Suzanne Ciani & Barry Can't Swim)",
       "url": "https://open.spotify.com/track/6WBaphmlacrNz0dE5p76ld"
@@ -80148,7 +80182,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 131920,
       "name": "Vida (feat. Erick the Architect)",
       "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"

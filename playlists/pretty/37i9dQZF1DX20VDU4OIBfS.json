@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3005103,
+  "num_followers": 3005032,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 325466,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 248000,
       "name": "Si la Ves (feat. Sin Bandera)",
       "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "De Nina A Mujer",
-        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "De Ni\u00f1a a Mujer",
-      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Canta...Raphael",
         "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 159560,
       "name": "Yo soy aqu\u00e9l",
       "url": "https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "De Nina A Mujer",
+        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "De Ni\u00f1a a Mujer",
+      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Exitos Con Trio",
-        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "Sombras - Versi\u00f3n Tr\u00edo",
-      "url": "https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Heridas",
         "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 213680,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Exitos Con Trio",
+        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 207146,
+      "name": "Sombras - Versi\u00f3n Tr\u00edo",
+      "url": "https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Te Voy a Ense\u00f1ar a Querer",
-      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
         }
       ],
-      "duration_ms": 197360,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
+      "duration_ms": 196200,
+      "name": "Te Voy a Ense\u00f1ar a Querer",
+      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Dejenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "15 Exitos Originales Con Rocio Jurado",
         "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 219933,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Dejenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
     },
     {
       "added_at": "2026-07-28 20:14:40",

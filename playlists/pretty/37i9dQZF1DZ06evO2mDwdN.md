@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,334 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,338 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [Now Is The Time](https://open.spotify.com/track/5xYuHhfGACuxoeek50SdDr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Now Is The Time / Feels Like Magic](https://open.spotify.com/album/2x77aXa2YkslKAjnr6T1JR) | 6:07 |
 | 50 | [All Night Love](https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 5:56 |
 
-Snapshot ID: `au+7gAAAAABMp7QoeOIf+OvMQfzpJbr8`
+Snapshot ID: `avENAAAAAAD4tpe1sA2MSWRdwkbVIGBi`

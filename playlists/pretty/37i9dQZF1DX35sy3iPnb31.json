@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2962,
+  "num_followers": 2967,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Black Cloud",
         "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "redstar",
-        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+        "name": "Spin / Holding On",
+        "url": "https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum"
       },
       "artists": [
         {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
         }
       ],
-      "duration_ms": 256651,
-      "name": "redstar",
-      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
+      "duration_ms": 236624,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -471,22 +487,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Spin / Holding On",
-        "url": "https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 236624,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Le mauvais temps",
         "url": "https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 205533,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Tu choisis comment tu aimes",
+        "url": "https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Tu choisis comment tu aimes",
+      "url": "https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -555,22 +571,6 @@
       "duration_ms": 204504,
       "name": "The 4",
       "url": "https://open.spotify.com/track/5qdJdovmMW639cxGDXs9X9"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Tu choisis comment tu aimes",
-        "url": "https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Tu choisis comment tu aimes",
-      "url": "https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -820,7 +820,7 @@
           "url": "https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa"
         }
       ],
-      "duration_ms": 109859,
+      "duration_ms": 108169,
       "name": "Savage",
       "url": "https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE"
     },

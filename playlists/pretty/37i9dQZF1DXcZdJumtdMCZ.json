@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZxLPczaTS/uWjiMZfF1vw2F6If",
+  "snapshot_id": "AAAAAM4Ak+HeIRMziOuhqkm55Uk/sb4n",
   "tracks": [
     {
       "added_at": "2026-10-10 10:18:14",
@@ -117,6 +117,26 @@
       "url": "https://open.spotify.com/track/55ePB3CmrchPFWCZKWZvhW"
     },
     {
+      "added_at": "2026-11-11 08:47:51",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/18kX9urJKesbXYQlqYodDz"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Hashbass",
+          "url": "https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/368IbA5k1U5z9WXYLknIhF"
+    },
+    {
       "added_at": "2026-11-04 11:54:11",
       "album": {
         "name": "Adra Parama (From \"Raawadi\")",
@@ -190,6 +210,14 @@
         {
           "name": "RITUAL",
           "url": "https://open.spotify.com/artist/2cmiBDa6er4eCF0Fez1gus"
+        },
+        {
+          "name": "Aj Vozy",
+          "url": "https://open.spotify.com/artist/0xrfm1dvYqNva7MliM4EW1"
+        },
+        {
+          "name": "Akshitha Jayan",
+          "url": "https://open.spotify.com/artist/0Mbj9octGDdfaKQj93LSlY"
         }
       ],
       "duration_ms": 189600,

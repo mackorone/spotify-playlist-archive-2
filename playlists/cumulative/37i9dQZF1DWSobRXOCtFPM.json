@@ -1779,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "Darkness Falls (Michele Conte Remix)",
+        "url": "https://open.spotify.com/album/1AgPbhRMXc3ZjeDDYu5JCI"
+      },
+      "artists": [
+        {
+          "name": "Filter Science",
+          "url": "https://open.spotify.com/artist/5G1cEKfAbnWeaRDvEKuEPt"
+        },
+        {
+          "name": "Michele Conte",
+          "url": "https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261290,
+      "name": "Darkness Falls - Michele Conte Remix Edit",
+      "url": "https://open.spotify.com/track/7yQKTWHNtAMubWLnppiH1G"
+    },
+    {
+      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/58aLXXQAf6a8l5FNTy1BIP"
       },

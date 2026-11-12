@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,681 likes - 171 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682 likes - 171 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 79 | [Shatter](https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:40 |
 | 80 | [Days Are Gone](https://open.spotify.com/track/7lel2CiklooE5BAkuScbYV) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 3:33 |
 | 81 | [Wait In Line](https://open.spotify.com/track/7pG5LgzNUJRi34ZJ3H2K94) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm \(Deluxe Edition\)](https://open.spotify.com/album/1wKwGLPJl68zYLaA0Od0vc) | 4:00 |
-| 82 | [burning gold](https://open.spotify.com/track/0n450TgdXT9BLURLyUV0qt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [head or heart](https://open.spotify.com/album/74PXwYZw2Z5UF6keoLp8qH) | 3:43 |
+| 82 | [burning gold](https://open.spotify.com/track/34B4knn24s4OxR3eSIONg4) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [head or heart](https://open.spotify.com/album/0luLYIMe3YIipJjN9bTrYD) | 3:44 |
 | 83 | [Home](https://open.spotify.com/track/1gfHj93cgcy7Qbwdj7UHcr) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:32 |
 | 84 | [Secrets \(feat\. Lindsey Buckingham & Mick Fleetwood\)](https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 3:49 |
 | 85 | [Fire Away \(with Kid Harpoon\)](https://open.spotify.com/track/3G6f32IgEKsInHsy2J4r5J) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 5:41 |
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 150 | [Stay On Me](https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:07 |
 | 151 | [Robot Love](https://open.spotify.com/track/7FPrSOO1S9OzVNS4OS25Rs) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/0ctNJzlDkmLEO3pWXeFtTB) | 3:27 |
 | 152 | [Wash Me In The Water](https://open.spotify.com/track/2qtZj7T7nYixKbVvPInwvy) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Rumble And Sway EP](https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH) | 3:33 |
-| 153 | [In My Way](https://open.spotify.com/track/4Vzu7HaiibAZ8HoaO8NwR1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Blood To Bone](https://open.spotify.com/album/3dtekEn6Y5SpEDO4sy1d1o) | 3:29 |
+| 153 | [In My Way](https://open.spotify.com/track/3RUGncwgMgCw2SwwDoN3AW) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Blood To Bone](https://open.spotify.com/album/7mFYdDr8OlhC4jI5wluq8S) | 3:29 |
 | 154 | [Tonight](https://open.spotify.com/track/2buSpYnNhpHW83Nk1X0cK5) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Don't Forget Who You Are](https://open.spotify.com/album/6Kw1xFI4YeiB1dzrWhZS9U) | 2:59 |
 | 155 | [Naked With You](https://open.spotify.com/track/5vXc2rDpMydKKjVeZIvfzL) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here \(Deluxe\)](https://open.spotify.com/album/5wWizVRgBVPkj3g6SoB2GM) | 3:30 |
 | 156 | [Back Packing](https://open.spotify.com/track/1xivpvUfpVCO4FmO0awdxb) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [In Your Hands \(Deluxe Edition\)](https://open.spotify.com/album/1LMMAiUqFPsHi4MnU90xb1) | 3:34 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 170 | [Hold On](https://open.spotify.com/track/1Jfl0IXNH6aJgNWSpBNqN2) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:15 |
 | 171 | [Numb](https://open.spotify.com/track/4mlcYfLYLVVIqp9pKL0pcS) | [Kimberly Anne](https://open.spotify.com/artist/7uX9gyS2bhEYXaOjqKnAWq) | [From the Trauma Care Unit](https://open.spotify.com/album/4aDPxEMbiEuwxmzR2s1FKv) | 3:23 |
 
-Snapshot ID: `AchVGAAAAADKp3HXoCZvY8YeF43ww0ti`
+Snapshot ID: `AchbMAAAAABL2dv8jNEbw2BLbGaSw6PF`

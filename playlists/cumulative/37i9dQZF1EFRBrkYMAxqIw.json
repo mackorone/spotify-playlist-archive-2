@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Dream inside a dream\u2026",
+        "url": "https://open.spotify.com/album/11H0ggNORjbmX0LhZ9iK2d"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Dream inside a dream...",
+      "url": "https://open.spotify.com/track/646gVKNhqtIbOtTjys0Dzd"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/4NftqBiBHjF344NLoYa7dF"
       },

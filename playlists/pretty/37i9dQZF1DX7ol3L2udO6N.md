@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,030 likes - 97 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,031 likes - 97 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 51 | [Sexy](https://open.spotify.com/track/2W5KySPRjC7vqaG5K7fuAx) | [hitomi](https://open.spotify.com/artist/5rdloWitZKhrtedmOBdhG8) | [by myself](https://open.spotify.com/album/11ZhqvmtMqfJcJPRyJFsfZ) | 5:41 |
 | 52 | [恋心](https://open.spotify.com/track/5uahx7d4O9N8Si9TFTuIMj) | [Nanase Aikawa](https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk) | [paradox](https://open.spotify.com/album/5zTUmtgNx0NSc4Ys76oo42) | 4:00 |
 | 53 | [熱くなれ](https://open.spotify.com/track/4I5Fu2jmSWXVR4Z08AqsME) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 ～All Singles + ～](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 3:39 |
-| 54 | [Stressed Out \(feat\. Faith Evans\)](https://open.spotify.com/track/3jaEmUzw0Nt4GcyPkWEDCi) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Beats, Rhymes & Life](https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb) | 4:58 |
+| 54 | [Stressed Out \(feat\. Faith Evans & Consequence\)](https://open.spotify.com/track/3jaEmUzw0Nt4GcyPkWEDCi) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [Beats, Rhymes & Life](https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb) | 4:58 |
 | 55 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 |
 | 56 | [I Believe I Can Fly](https://open.spotify.com/track/2RzJwBCXsS1VnjDm2jKKAa) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [R.](https://open.spotify.com/album/4yRYsQZfQpzkoVWH2XCX66) | 5:20 |
 | 57 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |

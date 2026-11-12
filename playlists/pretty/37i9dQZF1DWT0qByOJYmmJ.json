@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Pehuenche, Renee Mooi en portada. ",
-  "num_followers": 626208,
+  "num_followers": 626181,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Despu\u00e9s de la tormenta",
-        "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
+        "name": "Cigarrito y Caf\u00e9",
+        "url": "https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj"
       },
       "artists": [
         {
-          "name": "Bryan Kaarl",
-          "url": "https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
         }
       ],
-      "duration_ms": 166086,
-      "name": "Despu\u00e9s de la tormenta",
-      "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
+      "duration_ms": 171130,
+      "name": "Cigarrito y Caf\u00e9",
+      "url": "https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -1307,18 +1311,18 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Cada Vez M\u00e1s > :-(",
-        "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
+        "name": "Despu\u00e9s de la tormenta",
+        "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
       },
       "artists": [
         {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+          "name": "Bryan Kaarl",
+          "url": "https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Vete a la Chingada",
-      "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"
+      "duration_ms": 166086,
+      "name": "Despu\u00e9s de la tormenta",
+      "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -1339,6 +1343,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
+        "name": "Cada Vez M\u00e1s > :-(",
+        "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
+      },
+      "artists": [
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Vete a la Chingada",
+      "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/0KpR2Ay6egxk0oMg3zGVZQ"
       },
@@ -1351,22 +1371,6 @@
       "duration_ms": 242446,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/5ErcCfdGMmeqT2DCMCE4pB"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
-      },
-      "artists": [
-        {
-          "name": "valeria d\u00e1vila",
-          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
-        }
-      ],
-      "duration_ms": 214865,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

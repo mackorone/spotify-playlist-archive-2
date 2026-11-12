@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 248442,
+  "num_followers": 248449,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-10-13 20:12:37",
       "album": {
-        "name": "Muchacha (ojos de papel)",
-        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
-      },
-      "artists": [
-        {
-          "name": "Spinettango",
-          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
-        },
-        {
-          "name": "Litto Nebbia",
-          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
-        }
-      ],
-      "duration_ms": 198944,
-      "name": "Muchacha (ojos de papel)",
-      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
-    },
-    {
-      "added_at": "2026-10-13 20:12:37",
-      "album": {
         "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
         "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 176880,
       "name": "Pompas de Jab\u00f3n",
       "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
+    },
+    {
+      "added_at": "2026-10-13 20:12:37",
+      "album": {
+        "name": "Muchacha (ojos de papel)",
+        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
+      },
+      "artists": [
+        {
+          "name": "Spinettango",
+          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
+        },
+        {
+          "name": "Litto Nebbia",
+          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
+        }
+      ],
+      "duration_ms": 198944,
+      "name": "Muchacha (ojos de papel)",
+      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
     },
     {
       "added_at": "2026-10-13 20:12:37",

@@ -1,6 +1,6 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 351374,
+  "num_followers": 351437,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223390,
-      "name": "On Form",
-      "url": "https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Sign Of Weakness",
         "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 200768,
       "name": "Buy You Life",
       "url": "https://open.spotify.com/track/5gL6LKibckV3dDAEkiNnZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223390,
+      "name": "On Form",
+      "url": "https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Sign Of Weakness",
         "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 192158,
       "name": "Dem Dey",
       "url": "https://open.spotify.com/track/27N2fW3NXw9cvzTHtRSgKR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": null,
@@ -915,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
       },
       "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 186600,
-      "name": "Donne-moi l\u2019accord",
-      "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/6WO22RY0WWcN4yKcQb0h32"
     }
   ],
   "unique_name": "This Is Burna Boy",

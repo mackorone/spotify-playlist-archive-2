@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-221 songs - 12 hr 19 min
+222 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Ripple](https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Ripple](https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI) | 3:34 | 2023-12-13 | 2024-08-26 |
 | [Ripple](https://open.spotify.com/track/3nBHw8jcbLDsJ3LHu0rIoG) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 3:34 | 2024-08-25 |  |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2022-10-08 | 2023-12-14 |
+| [Savior](https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Savior](https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW) | 2:41 | 2026-11-11 |  |
 | [say it over](https://open.spotify.com/track/39aSS3JZaws5Te4bPTBjWM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(Official Video\)](https://open.spotify.com/album/1P3AAIgSpzXUVrQnKYXQy9) | 4:09 | 2023-12-14 | 2024-02-01 |
 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2021-12-27 |  |
 | [Say It to My Face](https://open.spotify.com/track/0kF0fz89HNJ1afzJ1IE1rP) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/5boeEaUtj7gHXFxKtFFlzL) | 3:09 | 2021-12-27 | 2022-10-14 |

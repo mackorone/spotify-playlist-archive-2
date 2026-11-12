@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Tomo Como Rey en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,552 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,565 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 53 | [Pachuco \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), ["Sax" Maldita Vecindad](https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq) | [Pachuco \(feat\. "Sax" Maldita Vecindad \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC) | 3:56 |
 | 54 | [Y Te Aprovechas](https://open.spotify.com/track/7wvzKAujTdye9Elv6lySCJ) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [RENEE](https://open.spotify.com/artist/1Fo5k1osxJ1VG92yHXMkxL) | [Y Te Aprovechas](https://open.spotify.com/album/66wBwAxoEJ2unPLW8zluEA) | 3:28 |
 | 55 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
-| 56 | [Dulces Mentiras](https://open.spotify.com/track/1p1Qi5hQvKO6x3acZmO0JP) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Nelly Burguette](https://open.spotify.com/artist/3VkoLSdf5ug53oZQwVYbBg) | [Dulces Mentiras](https://open.spotify.com/album/7jRUAaBU9KoMPQ0qnIoIBG) | 3:26 |
-| 57 | [El asesino del tiempo](https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p) | [Dinamo](https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n) | [Desequilibrio](https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD) | 3:32 |
+| 56 | [El asesino del tiempo](https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p) | [Dinamo](https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n) | [Desequilibrio](https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD) | 3:32 |
+| 57 | [Dulces Mentiras](https://open.spotify.com/track/1p1Qi5hQvKO6x3acZmO0JP) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Nelly Burguette](https://open.spotify.com/artist/3VkoLSdf5ug53oZQwVYbBg) | [Dulces Mentiras](https://open.spotify.com/album/7jRUAaBU9KoMPQ0qnIoIBG) | 3:26 |
 | 58 | [La Kaguama](https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [La Kaguama](https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV) | 3:13 |
 | 59 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
 | 60 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 89 | [Voy a curarme de ti](https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Voy a curarme de ti](https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH) | 4:13 |
 | 90 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
 | 91 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
-| 92 | [Soledad](https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY) | [Matamoska!](https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe) | [Soledad](https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS) | 3:13 |
-| 93 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
-| 94 | [Estoy en Paz](https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Estoy en Paz](https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM) | 2:52 |
-| 95 | [Baile Brutal](https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Baile Brutal](https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y) | 3:30 |
-| 96 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
-| 97 | [Ska Fever](https://open.spotify.com/track/2p7Lllw7r8Dq8XxPMA4m70) | [Salvar Doñana](https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL) | [Ska Fever](https://open.spotify.com/album/3pOcX9XW8dlE4AZmeQV6yB) | 2:34 |
+| 92 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
+| 93 | [Estoy en Paz](https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Estoy en Paz](https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM) | 2:52 |
+| 94 | [Soledad](https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY) | [Matamoska!](https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe) | [Soledad](https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS) | 3:13 |
+| 95 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
+| 96 | [Baile Brutal](https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Baile Brutal](https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y) | 3:30 |
+| 97 | [Juntos](https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Juntos](https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd) | 3:19 |
 | 98 | [Quiero Bailar Ska!!!](https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT) | [Boxer](https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD) | [Quiero Bailar Ska!!!](https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx) | 3:19 |
-| 99 | [Juntos](https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Juntos](https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd) | 3:19 |
+| 99 | [Ska Fever](https://open.spotify.com/track/2p7Lllw7r8Dq8XxPMA4m70) | [Salvar Doñana](https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL) | [Ska Fever](https://open.spotify.com/album/3pOcX9XW8dlE4AZmeQV6yB) | 2:34 |
 | 100 | [No Doy Mi Alma](https://open.spotify.com/track/2uXmcfX65KAZ52UAHNCOOE) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [No Doy Mi Alma](https://open.spotify.com/album/4BuLndHzup4SXgcdgHmfb6) | 3:47 |
 
 Snapshot ID: `AAAAALIDQ5CMb3W2pcr9BezplRJCoFCt`

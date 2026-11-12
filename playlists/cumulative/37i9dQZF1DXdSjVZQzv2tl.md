@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus
 
-431 songs - 20 hr 13 min
+432 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Expectativa x Realidade](https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:43 | 2021-12-31 | 2022-08-13 |
 | [Fala Alguma Coisa \- Ao Vivo](https://open.spotify.com/track/0JAnjmcYMX157RsnmkhDBW) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Fala Alguma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5KNtqlfJEyuLHqNRwHYE3B) | 2:41 | 2022-09-02 | 2023-07-01 |
 | [Fala Mal de Mim \- Ao Vivo](https://open.spotify.com/track/6gEOM9IEBzvTdbwNrSkBdC) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Fala Mal de Mim \(Ao Vivo\)](https://open.spotify.com/album/5cCDnN0XpXRSfYCd7vUAAB) | 3:24 | 2022-07-15 | 2022-11-11 |
+| [Fala Pra Sua Saudade \- Ao Vivo](https://open.spotify.com/track/3DTAv7UcST4AdKr2U8uYsU) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [No Sentimento em Brasília Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2MFNkulSNsrtxRWwBBvFdj) | 2:48 | 2026-11-12 |  |
 | [FALTA DE QUÊ?](https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [FALTA DE QUÊ?](https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt) | 2:32 | 2024-05-24 | 2024-11-29 |
 | [Faz Amor Comigo Só Hoje \- Ao Vivo](https://open.spotify.com/track/7Kba4OaxQFQ1zlknQUpNqN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Faz Amor Comigo Só Hoje \(Ao Vivo\)](https://open.spotify.com/album/3J7UQC40YfybB6TvralOEK) | 2:28 | 2021-12-31 | 2022-02-12 |
 | [Fechando o Circo \- Ao Vivo](https://open.spotify.com/track/37bToUvlC32varJ3IT4XUE) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Fechando o Circo \(Ao Vivo\)](https://open.spotify.com/album/6XE2K6nUxUPazElDJuNBuk) | 2:14 | 2025-01-31 | 2025-02-26 |
@@ -395,7 +396,7 @@
 | [Terminou Pra Que \- Ao Vivo](https://open.spotify.com/track/4EFCamXHwc9xbjjoTdcQUW) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Terminou Pra Que \(Ao Vivo\)](https://open.spotify.com/album/3mklbgwCNp8rv9zveQxbHJ) | 3:06 | 2025-05-02 | 2025-06-07 |
 | [Tesão Da Madrugada \- Ao Vivo](https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo Em Brasília](https://open.spotify.com/album/6NM4daMHIA3uWxf2YjITpC) | 2:53 | 2022-02-18 | 2023-01-28 |
 | [Texana 37](https://open.spotify.com/track/6D0SGjUVUmu8Fp2y1QsFIK) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Carnaval dos Cuiudos](https://open.spotify.com/album/3aQAEqR3xfEZNwnwcpRHF7) | 2:09 | 2026-06-19 | 2026-07-03 |
-| [Todo Mundo Menos Eu \- Ao Vivo](https://open.spotify.com/track/7CIx2glE3HjBtXRrZzfowf) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Todo Mundo Menos Eu \(Ao Vivo\)](https://open.spotify.com/album/50swQR5HVBhgawCQSyUSrK) | 2:06 | 2025-11-28 |  |
+| [Todo Mundo Menos Eu \- Ao Vivo](https://open.spotify.com/track/7CIx2glE3HjBtXRrZzfowf) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Todo Mundo Menos Eu \(Ao Vivo\)](https://open.spotify.com/album/50swQR5HVBhgawCQSyUSrK) | 2:06 | 2025-11-28 | 2026-11-12 |
 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 | 2021-12-31 | 2022-09-03 |
 | [Todo Seu \- Ao Vivo](https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Todo Seu \(Ao Vivo\)](https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB) | 2:51 | 2022-05-13 | 2023-08-19 |
 | [Torce o Olho \- Ao Vivo](https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Torce o Olho \(Ao Vivo\)](https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy) | 2:47 | 2023-12-08 | 2024-08-23 |

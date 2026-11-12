@@ -1,13 +1,105 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Arushi Bhargava",
-  "num_followers": 65747,
+  "description": "The best new music by independent artists and labels in India. Cover - Upkar Thakur",
+  "num_followers": 65795,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVNU5CUs9GHwOqfObwKG6454GEk",
+  "snapshot_id": "AAAAAGad8Fyf438Y4DdCiQX7gJRuf3C5",
   "tracks": [
+    {
+      "added_at": "2026-11-04 07:30:14",
+      "album": {
+        "name": "Sawariya",
+        "url": "https://open.spotify.com/album/5PYhW9zUAtEhZuM7DLYRNB"
+      },
+      "artists": [
+        {
+          "name": "Upkar Thakur",
+          "url": "https://open.spotify.com/artist/0l5icZuvZegstUrB8rWevf"
+        },
+        {
+          "name": "DR\u00c6DEX",
+          "url": "https://open.spotify.com/artist/084SSUO6WXjg0yEy5eGCsd"
+        }
+      ],
+      "duration_ms": 224397,
+      "name": "Sawariya",
+      "url": "https://open.spotify.com/track/18nm91vSpnaqF5zrueyhgw"
+    },
+    {
+      "added_at": "2026-11-11 07:30:21",
+      "album": {
+        "name": "Hum Tere",
+        "url": "https://open.spotify.com/album/3xSwLrvZxeFsr7OmGYIc8F"
+      },
+      "artists": [
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        },
+        {
+          "name": "Aman Moroney",
+          "url": "https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "Hum Tere",
+      "url": "https://open.spotify.com/track/1jQWytDlMuoXbWuqKD0PR3"
+    },
+    {
+      "added_at": "2026-11-11 07:30:21",
+      "album": {
+        "name": "Far Too Long",
+        "url": "https://open.spotify.com/album/3DXSeQfUG8KH2GXuS2rvuN"
+      },
+      "artists": [
+        {
+          "name": "Blue Temptation",
+          "url": "https://open.spotify.com/artist/2PgnqX0QiwmCzkg12LI8fQ"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "Far Too Long",
+      "url": "https://open.spotify.com/track/0vAmcrL7kzm2KvMT2NEUKq"
+    },
+    {
+      "added_at": "2026-11-11 07:30:21",
+      "album": {
+        "name": "Ghosts of an Overthinker",
+        "url": "https://open.spotify.com/album/5GvjB1n9NMVb0XIvjI7NU9"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Prakash",
+          "url": "https://open.spotify.com/artist/6SWFSLF1xO9jZ4XOISZkc9"
+        },
+        {
+          "name": "ASHWYN",
+          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "I'm too scared",
+      "url": "https://open.spotify.com/track/2gPOVbcplH8OEfOOV5bWnc"
+    },
+    {
+      "added_at": "2026-11-11 07:30:21",
+      "album": {
+        "name": "Still Can't Write a Love Song",
+        "url": "https://open.spotify.com/album/7wvdHW3ZRSgNMBVUbRhwCy"
+      },
+      "artists": [
+        {
+          "name": "Anahita Singh",
+          "url": "https://open.spotify.com/artist/7B4wEMhnaj4Q0JRGxpAtgm"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "You've Loved Before",
+      "url": "https://open.spotify.com/track/1CfVXqENlppVM3MzEE6wSb"
+    },
     {
       "added_at": "2026-11-04 07:30:14",
       "album": {
@@ -55,26 +147,6 @@
       "duration_ms": 269538,
       "name": "Umad Ghan",
       "url": "https://open.spotify.com/track/0ZpPjNeb3gYxjw5fV7hpsg"
-    },
-    {
-      "added_at": "2026-11-04 07:30:14",
-      "album": {
-        "name": "Sawariya",
-        "url": "https://open.spotify.com/album/5PYhW9zUAtEhZuM7DLYRNB"
-      },
-      "artists": [
-        {
-          "name": "Upkar Thakur",
-          "url": "https://open.spotify.com/artist/0l5icZuvZegstUrB8rWevf"
-        },
-        {
-          "name": "DR\u00c6DEX",
-          "url": "https://open.spotify.com/artist/084SSUO6WXjg0yEy5eGCsd"
-        }
-      ],
-      "duration_ms": 224397,
-      "name": "Sawariya",
-      "url": "https://open.spotify.com/track/18nm91vSpnaqF5zrueyhgw"
     },
     {
       "added_at": "2026-11-04 07:30:14",
@@ -607,26 +679,6 @@
     {
       "added_at": "2026-09-16 07:30:21",
       "album": {
-        "name": "Sona",
-        "url": "https://open.spotify.com/album/1G9tnCRdyjxSJCpak3SBE3"
-      },
-      "artists": [
-        {
-          "name": "Vedang Gaikwad",
-          "url": "https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza"
-        },
-        {
-          "name": "Sunny James",
-          "url": "https://open.spotify.com/artist/5RBVqReDzUsMOjR0mFrKp4"
-        }
-      ],
-      "duration_ms": 211683,
-      "name": "Sona",
-      "url": "https://open.spotify.com/track/2syQeSPeflDUtHzHm7ubUu"
-    },
-    {
-      "added_at": "2026-09-16 07:30:21",
-      "album": {
         "name": "Tu Mera Jahaan",
         "url": "https://open.spotify.com/album/2rdmOwsjeo3kqFtMY7rAZM"
       },
@@ -675,38 +727,6 @@
       "duration_ms": 137997,
       "name": "Kaahe Sataye",
       "url": "https://open.spotify.com/track/5YXLnG6tMHE80oPZlb2eVk"
-    },
-    {
-      "added_at": "2026-09-09 07:30:26",
-      "album": {
-        "name": "Bundiya",
-        "url": "https://open.spotify.com/album/7hE3QNBVom9bK4GtIqByJM"
-      },
-      "artists": [
-        {
-          "name": "Savni Bhatt",
-          "url": "https://open.spotify.com/artist/1YO52y5qNkcHvM2x27N2Tn"
-        }
-      ],
-      "duration_ms": 296581,
-      "name": "Bundiya",
-      "url": "https://open.spotify.com/track/5W6Cffr4cIjNDuhbiVp5xq"
-    },
-    {
-      "added_at": "2026-08-26 07:30:02",
-      "album": {
-        "name": "redecorate",
-        "url": "https://open.spotify.com/album/3S7IzzUQuJUClEur7UfvnZ"
-      },
-      "artists": [
-        {
-          "name": "Keane Cotta",
-          "url": "https://open.spotify.com/artist/2CkvdGZhrJrUxsALhvG8SG"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lauren",
-      "url": "https://open.spotify.com/track/5UtOkmTi47iJbib9ZI3hhC"
     },
     {
       "added_at": "2026-09-02 07:30:17",
@@ -859,22 +879,6 @@
       "duration_ms": 149227,
       "name": "Keh Do Na",
       "url": "https://open.spotify.com/track/0KfJMKzKwez0VsGzmqrQAu"
-    },
-    {
-      "added_at": "2026-07-29 07:30:17",
-      "album": {
-        "name": "Mil Ja Tu",
-        "url": "https://open.spotify.com/album/0Q9mwKVZjDoh7icpoLNa4Q"
-      },
-      "artists": [
-        {
-          "name": "Ankita Barwad",
-          "url": "https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Mil Ja Tu",
-      "url": "https://open.spotify.com/track/1IdmjEkJ4VahCtEXcfnxXi"
     },
     {
       "added_at": "2026-08-05 07:30:04",

@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 29 | [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 |
 | 30 | [Always Assuming](https://open.spotify.com/track/7g7dzfLIPgeVX9ccPKn9eF) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 6:55 |
 
-Snapshot ID: `au+7gAAAAADmiAw9HQLpKBoLohXlxQJ9`
+Snapshot ID: `avENAAAAAAAtNwPLpaCLDARiH8lRHNvx`

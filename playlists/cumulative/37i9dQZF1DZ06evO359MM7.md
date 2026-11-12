@@ -4,7 +4,7 @@
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-148 songs - 7 hr 17 min
+149 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alicia \(with Lil Baby\)](https://open.spotify.com/track/6LU2Kbm1QiNx3LgFNwQEbH) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Alicia \(with Lil Baby\)](https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU) | 3:33 | 2026-05-28 | 2026-06-23 |
 | [All In](https://open.spotify.com/track/0zlru783fmr588D5RY9ERU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:36 | 2024-07-02 | 2024-07-03 |
 | [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 | 2024-04-16 | 2024-10-03 |
+| [All My Partnas \(feat\. Future, Young Thug & Rylo Rodriguez\)](https://open.spotify.com/track/4bZoNVFloslp1MJSugAXdH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 3:09 | 2026-11-12 |  |
 | [All Of A Sudden](https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:49 | 2024-05-10 | 2024-07-24 |
 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL) | 3:39 | 2025-11-03 | 2026-01-19 |
 | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/track/5jol33TYJ3H5v5zRD9fOtv) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/album/5KWhVrUd9CvZMuGya680x4) | 3:16 | 2024-08-06 | 2024-09-22 |
@@ -132,7 +133,7 @@
 | [Sleazy Flow \(feat\. Lil Baby\) \- Remix](https://open.spotify.com/track/3HD2dcCVCMIUgq3ZiSExpD) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 2:41 | 2025-01-11 | 2026-11-10 |
 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 | 2024-01-12 | 2024-12-31 |
 | [So Sorry](https://open.spotify.com/track/33EwKqKyDZAeIqpAq8I99C) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:20 | 2025-01-24 | 2025-01-25 |
-| [So Sorry](https://open.spotify.com/track/5wwy9GjFxOFMV8IO6Xdf8h) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:20 | 2025-06-28 |  |
+| [So Sorry](https://open.spotify.com/track/5wwy9GjFxOFMV8IO6Xdf8h) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:20 | 2025-06-28 | 2026-11-12 |
 | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox) | 2:46 | 2024-01-12 |  |
 | [Stand On It](https://open.spotify.com/track/26Hgx0810XUis01XWvoftB) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:46 | 2024-05-24 | 2024-07-03 |
 | [Stiff Gang](https://open.spotify.com/track/0HrZzcGxj02tBVzx8ZGyuh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:51 | 2025-01-30 | 2025-02-03 |

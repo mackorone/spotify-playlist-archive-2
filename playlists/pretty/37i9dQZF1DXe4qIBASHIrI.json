@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 185791,
+  "num_followers": 185828,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Zo\u00e9",
-        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "Deja Te Conecto",
-      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Blanco F\u00e1cil",
         "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 263838,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Zo\u00e9",
+        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "Deja Te Conecto",
+      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Soun Tha Mi Primer Amor - Remastered",
-      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Tiempos Mejores",
         "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 203320,
       "name": "Amiga - Bonus Track",
       "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
-        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
-      },
-      "artists": [
-        {
-          "name": "Quiero Club",
-          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
-        }
-      ],
-      "duration_ms": 277626,
-      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
-      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Levantate Sakuraba",
         "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 213626,
       "name": "Chubaca Tiene un Secreto",
       "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
+        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "duration_ms": 277626,
+      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
+      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Los Odio",
-        "url": "https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC"
-      },
-      "artists": [
-        {
-          "name": "Los Odio!",
-          "url": "https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "El Ultimo",
-      "url": "https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sistema Solar",
         "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 249630,
       "name": "Amorfos",
       "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Los Odio",
+        "url": "https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC"
+      },
+      "artists": [
+        {
+          "name": "Los Odio!",
+          "url": "https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "El Ultimo",
+      "url": "https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
-      },
-      "artists": [
-        {
-          "name": "Baltazar",
-          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
-        }
-      ],
-      "duration_ms": 254889,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Tiempo y la Ciudad",
         "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 247800,
       "name": "T\u00fa Est\u00e1s M\u00e1s",
       "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+      },
+      "artists": [
+        {
+          "name": "Baltazar",
+          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+        }
+      ],
+      "duration_ms": 254889,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sentado Aqu\u00ed",
         "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 260949,
       "name": "Sentado Aqu\u00ed",
       "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv"
     },
     {
       "added_at": "2023-09-01 16:42:45",

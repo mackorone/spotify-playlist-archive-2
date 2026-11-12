@@ -1,6 +1,6 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 102105,
+  "num_followers": 102102,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Love Me Like You Mean It",
-      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Pleasant Commentary",
         "url": "https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 130093,
       "name": "I Sit In Parks",
       "url": "https://open.spotify.com/track/1eXaJCN3pBxK12D4NjJwBP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Love Me Like You Mean It",
+      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Yeah Boy",
-      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 136746,
       "name": "Emerald City",
       "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Yeah Boy",
+      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Dibs",
-      "url": "https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 132106,
       "name": "People Pleaser",
       "url": "https://open.spotify.com/track/0TqPFLnbZsMVG65ZeBBL17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Dibs",
+      "url": "https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv"
     },
     {
       "added_at": null,
@@ -566,35 +566,11 @@
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 175229,
-      "name": "YOU'RE DRUNK, GO HOME",
-      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "I Hate Love Songs",
-      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
+      "duration_ms": 211843,
+      "name": "MUSCLE MEMORY",
+      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
     },
     {
       "added_at": null,
@@ -611,6 +587,22 @@
       "duration_ms": 172371,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "I Hate Love Songs",
+      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
     },
     {
       "added_at": null,
@@ -638,27 +630,19 @@
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 211843,
-      "name": "MUSCLE MEMORY",
-      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
+        },
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 244466,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
+      "duration_ms": 175229,
+      "name": "YOU'RE DRUNK, GO HOME",
+      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 182453,
       "name": "WAIT!",
       "url": "https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Check On Your Friends",
-      "url": "https://open.spotify.com/track/5FyrrLxbzeMJbWPuk04IeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PATTERNS Commentary Album",
         "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 186906,
       "name": "Beg For Your Love",
       "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Check On Your Friends",
+      "url": "https://open.spotify.com/track/5FyrrLxbzeMJbWPuk04IeG"
     },
     {
       "added_at": null,

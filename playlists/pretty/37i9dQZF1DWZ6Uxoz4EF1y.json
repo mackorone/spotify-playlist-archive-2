@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 243441,
+  "num_followers": 243426,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "La Compilaci\u00f3n",
-        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 245893,
-      "name": "Iglesia",
-      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "S\u00f3lo Tu Gracia",
         "url": "https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 282106,
       "name": "Jes\u00fas, Has Mi Car\u00e1cter",
       "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "La Compilaci\u00f3n",
+        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 245893,
+      "name": "Iglesia",
+      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -643,18 +643,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Tetelestai (Todo hecho est\u00e1)",
-        "url": "https://open.spotify.com/album/2kJ9Wkj82r6N9rq8XAAkzc"
+        "name": "Mi Jes\u00fas",
+        "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
       },
       "artists": [
         {
-          "name": "caminodevida m\u00fasica",
-          "url": "https://open.spotify.com/artist/26uYihnzGQPWmX5208Hdiq"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         }
       ],
-      "duration_ms": 443953,
-      "name": "Jes\u00fas",
-      "url": "https://open.spotify.com/track/7tRG2dgIkcZUPvZINWfR7B"
+      "duration_ms": 260649,
+      "name": "Mi Jes\u00fas",
+      "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -675,22 +679,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Mi Jes\u00fas",
-        "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
+        "name": "Tetelestai (Todo hecho est\u00e1)",
+        "url": "https://open.spotify.com/album/2kJ9Wkj82r6N9rq8XAAkzc"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+          "name": "caminodevida m\u00fasica",
+          "url": "https://open.spotify.com/artist/26uYihnzGQPWmX5208Hdiq"
         }
       ],
-      "duration_ms": 260649,
-      "name": "Mi Jes\u00fas",
-      "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
+      "duration_ms": 443953,
+      "name": "Jes\u00fas",
+      "url": "https://open.spotify.com/track/7tRG2dgIkcZUPvZINWfR7B"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
         }
       ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+      "duration_ms": 310231,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
       "artists": [
         {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 310231,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1231,66 +1231,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 715466,
-      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
-      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Mi Casa Y Yo",
-        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 223735,
-      "name": "Mi Casa Y Yo",
-      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Piedras Vivas",
-        "url": "https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 315651,
-      "name": "Gracia Sublime Es",
-      "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
@@ -1327,6 +1267,66 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 715466,
+      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
+      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Piedras Vivas",
+        "url": "https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 315651,
+      "name": "Gracia Sublime Es",
+      "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Mi Casa Y Yo",
+        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 223735,
+      "name": "Mi Casa Y Yo",
+      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Amor Palabra Poder",
         "url": "https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm"
       },
@@ -1339,30 +1339,6 @@
       "duration_ms": 346933,
       "name": "La Cruz",
       "url": "https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1387,6 +1363,30 @@
       "duration_ms": 279858,
       "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
       "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "En Esto Creo (Spanish)",
+        "url": "https://open.spotify.com/album/0tEZjulQge0A4uThPbZ973"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar)",
+      "url": "https://open.spotify.com/track/5fttzFq211k5YLvsPblSa2"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 605453,
       "name": "Obra de Tu Amor",
       "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "En Esto Creo (Spanish)",
-        "url": "https://open.spotify.com/album/0tEZjulQge0A4uThPbZ973"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar)",
-      "url": "https://open.spotify.com/track/5fttzFq211k5YLvsPblSa2"
     },
     {
       "added_at": "2026-04-04 05:56:44",

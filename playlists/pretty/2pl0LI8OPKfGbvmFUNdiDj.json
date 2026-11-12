@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1330,
+  "num_followers": 1346,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEpv8a83Jktq6ByMW7aEyA38yKt4FQ",
+  "snapshot_id": "AAAEqynkKatvu1wAzDBpttrXS943uqgB",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -983,6 +983,86 @@
       "duration_ms": 192240,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/5YbeIvCEriRjdb3FGcyq70"
+    },
+    {
+      "added_at": "2026-11-11 18:16:57",
+      "album": {
+        "name": "Magacadabra",
+        "url": "https://open.spotify.com/album/3QmSDGjb8MVPnCw2pgkJ2p"
+      },
+      "artists": [
+        {
+          "name": "Magacadabra",
+          "url": "https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "All Things Left Behind",
+      "url": "https://open.spotify.com/track/3GNP2odSFQaSHqeeLXIJdQ"
+    },
+    {
+      "added_at": "2026-11-11 18:21:40",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5FrDepb8FC8OYFVQvU6Njj"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/3tKCvMTzVioWMaLt7dn6wU"
+        }
+      ],
+      "duration_ms": 197067,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7mH3Js8nXCxDmbNkN0UZft"
+    },
+    {
+      "added_at": "2026-11-11 19:08:39",
+      "album": {
+        "name": "Something Something Disco",
+        "url": "https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 237635,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/7Hne5xde6zGqJWx4LTa93l"
+    },
+    {
+      "added_at": "2026-11-11 19:24:26",
+      "album": {
+        "name": "Lost In The Darkness.",
+        "url": "https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 233707,
+      "name": "Lost In The Darkness.",
+      "url": "https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l"
+    },
+    {
+      "added_at": "2026-11-11 19:26:19",
+      "album": {
+        "name": "Feel the Vibes",
+        "url": "https://open.spotify.com/album/7lgV9Fkn6XwxrWCQrp15zG"
+      },
+      "artists": [
+        {
+          "name": "Eva Ku",
+          "url": "https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Feel the Vibes",
+      "url": "https://open.spotify.com/track/2Yn3ht6bIMQiJhY8IRIKdn"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

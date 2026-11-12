@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Anew World",
+        "url": "https://open.spotify.com/album/4BYZDu0aBkniTzTgqv9BJq"
+      },
+      "artists": [
+        {
+          "name": "Sunny Daydream",
+          "url": "https://open.spotify.com/artist/0siuz8jBpMOgcEu202EZHu"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Anew World",
+      "url": "https://open.spotify.com/track/5OJIY6qrBaeWqwEWovguv6"
+    },
+    {
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/5wTy809VEb9S7mA7qzw74z"
       },
@@ -1098,6 +1116,24 @@
       "duration_ms": 232000,
       "name": "Bored",
       "url": "https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya"
+    },
+    {
+      "album": {
+        "name": "The Cost of Loving",
+        "url": "https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187682,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4LT9snGF4EdfDCw5F1zkxZ"
     },
     {
       "album": {
@@ -1862,6 +1898,24 @@
       "duration_ms": 200614,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/6OmQaUueJoPh8sPO4QnRi0"
+    },
+    {
+      "album": {
+        "name": "Dancing In My Mind",
+        "url": "https://open.spotify.com/album/1u0BMhgwFa6Nhtn0EfmHoG"
+      },
+      "artists": [
+        {
+          "name": "Just Passing Through",
+          "url": "https://open.spotify.com/artist/5RQczrs9bNSuwSgwACYNm6"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188086,
+      "name": "Dancing In My Mind",
+      "url": "https://open.spotify.com/track/5akaXPb2Mkf5fhpNCGflZE"
     },
     {
       "album": {
@@ -2688,6 +2742,24 @@
       "duration_ms": 190661,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/5hWvpIKz06G3iKvQaU2zXT"
+    },
+    {
+      "album": {
+        "name": "DYI (Dance Yourself Insane)",
+        "url": "https://open.spotify.com/album/6edDNnOqnIzc6Q9HkYW4WK"
+      },
+      "artists": [
+        {
+          "name": "Sundozer",
+          "url": "https://open.spotify.com/artist/2AOmKCq6cV9yD17FjCYgxW"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "DYI (Dance Yourself Insane)",
+      "url": "https://open.spotify.com/track/5A9lSpEGiDJKXCJDSlV9HY"
     },
     {
       "album": {
@@ -5763,6 +5835,42 @@
     },
     {
       "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/4qcmDct2QKqr3K3WAoP1zJ"
+      },
+      "artists": [
+        {
+          "name": "Finde Fantasma",
+          "url": "https://open.spotify.com/artist/0Ll82dHz6oTK1LemBg570g"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191263,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/7AoEGQ8n8E6nREvgzM8aiY"
+    },
+    {
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3"
+      },
+      "artists": [
+        {
+          "name": "Pale State",
+          "url": "https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240245,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF"
+    },
+    {
+      "album": {
         "name": "Mole's Hotel",
         "url": "https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP"
       },
@@ -6633,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "Pink Lady",
+        "url": "https://open.spotify.com/album/2HZ7UWFGI1eSU5TLlYzln5"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kosterman",
+          "url": "https://open.spotify.com/artist/1VAdxgSgTeKEZ5pZY3EHpw"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Pink Lady",
+      "url": "https://open.spotify.com/track/3qlOS0epFb3BeMunquhT5f"
+    },
+    {
+      "album": {
         "name": "plastic halo",
         "url": "https://open.spotify.com/album/1dsTlhlXzTrm7cBjfG8Wdt"
       },
@@ -6738,6 +6864,24 @@
       "duration_ms": 188000,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb"
+    },
+    {
+      "album": {
+        "name": "Pool Of Blue",
+        "url": "https://open.spotify.com/album/54STGrj30J1Qt0x8oUny6O"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kosterman",
+          "url": "https://open.spotify.com/artist/1VAdxgSgTeKEZ5pZY3EHpw"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179649,
+      "name": "Pool Of Blue",
+      "url": "https://open.spotify.com/track/4fmQkcg6mwsmjrPvXwKuL3"
     },
     {
       "album": {
@@ -8900,6 +9044,24 @@
       "duration_ms": 205706,
       "name": "Truth for Lies",
       "url": "https://open.spotify.com/track/4HozmRQnEWTChIfyu7Aj7z"
+    },
+    {
+      "album": {
+        "name": "Tussen de Rode Lijnen",
+        "url": "https://open.spotify.com/album/18jkEgxt7VYs5bHxvBHP5i"
+      },
+      "artists": [
+        {
+          "name": "HAITZE",
+          "url": "https://open.spotify.com/artist/6xWBsH2UxwLqHi5eftzdZ1"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176085,
+      "name": "Tussen de Rode Lijnen",
+      "url": "https://open.spotify.com/track/0hQKCD6PH7umQiEdgG4xfu"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 9159,
+  "num_followers": 9222,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Sing: Christmas Songs",
-        "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "A Clay Street Country Christmas",
         "url": "https://open.spotify.com/album/6pejhIzadTgu2BFkF7ncza"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "A Dotted Line",
-        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
+        "name": "Sing: Christmas Songs",
+        "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
       "artists": [
         {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 262786,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
+      "duration_ms": 179653,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -315,18 +299,34 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+        "name": "A Dotted Line",
+        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 131746,
-      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
+      "duration_ms": 262786,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Merry Christmas Y'all",
+        "url": "https://open.spotify.com/album/2ytD9ryKkaaoV1QpEinoyh"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "duration_ms": 191784,
+      "name": "Corpus Christi Christmas",
+      "url": "https://open.spotify.com/track/1eRecE0pftdJtIoBpcK3gD"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -347,6 +347,22 @@
       "duration_ms": 133640,
       "name": "That Christmasy Feeling",
       "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 131746,
+      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -383,22 +399,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Merry Christmas Y'all",
-        "url": "https://open.spotify.com/album/2ytD9ryKkaaoV1QpEinoyh"
-      },
-      "artists": [
-        {
-          "name": "Presley Haile",
-          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
-        }
-      ],
-      "duration_ms": 191784,
-      "name": "Corpus Christi Christmas",
-      "url": "https://open.spotify.com/track/1eRecE0pftdJtIoBpcK3gD"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "Merry Christmas Mary Jane",
         "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
       },
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Sings Simple Gifts",
-        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
+        "name": "To: Kate - A Benefit for Kate's Sake",
+        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
       },
       "artists": [
         {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 72000,
-      "name": "Simple Gifts",
-      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
+      "duration_ms": 225053,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "To: Kate - A Benefit for Kate's Sake",
-        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
+        "name": "Sings Simple Gifts",
+        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
         }
       ],
-      "duration_ms": 225053,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
+      "duration_ms": 72000,
+      "name": "Simple Gifts",
+      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 137853,
       "name": "Oh Holy Night",
       "url": "https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+        "name": "I'll Stay 'Til After Christmas",
+        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
         }
       ],
-      "duration_ms": 136566,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+      "duration_ms": 183933,
+      "name": "Christmas Is Coming Soon",
+      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -655,18 +671,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Christmas Time's A-Comin'",
-        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+        "name": "Christmas Grass - The Collection",
+        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
       },
       "artists": [
         {
-          "name": "Jerry Garcia Acoustic Band",
-          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 182406,
-      "name": "Christmas Time's A-Comin' - Live",
-      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
+      "duration_ms": 194960,
+      "name": "One Bright Star",
+      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -687,18 +703,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Christmas Grass - The Collection",
-        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+        "name": "Christmas Time's A-Comin'",
+        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
         }
       ],
-      "duration_ms": 194960,
-      "name": "One Bright Star",
-      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
+      "duration_ms": 182406,
+      "name": "Christmas Time's A-Comin' - Live",
+      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -715,22 +731,6 @@
       "duration_ms": 126409,
       "name": "Santa Man",
       "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "I'll Stay 'Til After Christmas",
-        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Christmas Is Coming Soon",
-      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -839,22 +839,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "I Heard The Bells on Christmas Day",
-        "url": "https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe"
+        "name": "Christmas In A Minor Key",
+        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
       },
       "artists": [
         {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        },
-        {
-          "name": "Jay Buchanan",
-          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 189360,
-      "name": "I Heard The Bells on Christmas Day",
-      "url": "https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3"
+      "duration_ms": 130586,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
     }
   ],
   "unique_name": "Americana Christmas",

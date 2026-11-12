@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to women at full volume. Cover: Logic1000",
+  "description": "Listen to women at full volume, co-curated by Gretta Ray.",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -1146,6 +1146,24 @@
       "duration_ms": 177554,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5"
+    },
+    {
+      "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/5fYex20doxwg38Ohr2i3GH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cameron",
+          "url": "https://open.spotify.com/artist/5YONmUkKMhcZ425zGUfhqF"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157906,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/7EXan4MMkxvZsTVAQJfDcy"
     },
     {
       "album": {
@@ -5651,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "Heartsong",
+        "url": "https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G"
+      },
+      "artists": [
+        {
+          "name": "Gretta Ray",
+          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291810,
+      "name": "Every Aching Minute",
+      "url": "https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo"
+    },
+    {
+      "album": {
         "name": "Every Stroke",
         "url": "https://open.spotify.com/album/4GROxecAqRmYhxrXN7RVYV"
       },
@@ -8404,7 +8440,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 209400,
       "name": "Heartsong",
       "url": "https://open.spotify.com/track/13oNm10UrxiFKTtp3RJffU"
@@ -9844,6 +9880,24 @@
       "duration_ms": 158504,
       "name": "I'd Love To Tell You",
       "url": "https://open.spotify.com/track/3tqsyPmhM3yARbZARFTRKE"
+    },
+    {
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rodgers",
+          "url": "https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216570,
+      "name": "I'll Be In The Sun",
+      "url": "https://open.spotify.com/track/1IFiv3z8F1Msu4hckhE4Jm"
     },
     {
       "album": {
@@ -13212,7 +13266,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 211118,
       "name": "Michelle Obama",
       "url": "https://open.spotify.com/track/4H6QjtFXqdMCp1GvkGpzxC"
@@ -13716,7 +13770,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 169106,
       "name": "My Man",
       "url": "https://open.spotify.com/track/7g2WN1ngLPUD5TJE6KhlNC"
@@ -13930,7 +13984,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 201680,
       "name": "Never Stop Looking at Me",
       "url": "https://open.spotify.com/track/47P2GDNSbw6OXZgQAxpqAt"
@@ -15816,6 +15870,24 @@
       "duration_ms": 213893,
       "name": "Porch Light (Valley Version)",
       "url": "https://open.spotify.com/track/0XpadPENnHNnUUA0sTqPe2"
+    },
+    {
+      "album": {
+        "name": "Fishing is not about fishing",
+        "url": "https://open.spotify.com/album/0ypNn2FN8PEXhYZy9aXahV"
+      },
+      "artists": [
+        {
+          "name": "Ruby Gill",
+          "url": "https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205271,
+      "name": "Porchlight",
+      "url": "https://open.spotify.com/track/3E3Ixk3vE7TvKzBxQOG3Ss"
     },
     {
       "album": {
@@ -18188,7 +18260,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 208654,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
@@ -20974,6 +21046,24 @@
       "duration_ms": 176450,
       "name": "Till You\u2019re Ready",
       "url": "https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1"
+    },
+    {
+      "album": {
+        "name": "Time for You",
+        "url": "https://open.spotify.com/album/1qTzscUVtTr1XOQ2lj1TO9"
+      },
+      "artists": [
+        {
+          "name": "Tusekah",
+          "url": "https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Time for You",
+      "url": "https://open.spotify.com/track/3Uy7qK6J4XwXOSjEzizYG6"
     },
     {
       "album": {

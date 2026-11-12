@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310548,
+  "num_followers": 1310512,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
     },
     {
+      "added_at": "2026-06-12 04:01:37",
+      "album": {
+        "name": "ERICA",
+        "url": "https://open.spotify.com/album/2OJ0qv59cVCfJ9SoYWvpNn"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "ERICA",
+      "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
+    },
+    {
       "added_at": "2026-05-09 18:40:49",
       "album": {
         "name": "Flavour",
@@ -1259,22 +1275,6 @@
       "duration_ms": 142663,
       "name": "Flavour",
       "url": "https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7"
-    },
-    {
-      "added_at": "2026-06-12 04:01:37",
-      "album": {
-        "name": "ERICA",
-        "url": "https://open.spotify.com/album/2OJ0qv59cVCfJ9SoYWvpNn"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "ERICA",
-      "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "TWINKLE",
         "url": "https://open.spotify.com/album/1wlXyNg9Mf7SHt1PmirLvi"
       },
@@ -1415,46 +1435,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "How I Feel",
-        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "How I Feel",
-      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Fashion From France",
         "url": "https://open.spotify.com/album/4XgWx25OZd07OphjZQxsvz"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 182379,
       "name": "Work",
       "url": "https://open.spotify.com/track/07MwM4OFkgQ6hRz2U6EQFu"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1993,26 +1993,6 @@
       "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Rhythm Has Control",
-        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        },
-        {
-          "name": "Hackatone",
-          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Rhythm Has Control",
-      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
-    },
-    {
       "added_at": "2026-07-17 04:01:08",
       "album": {
         "name": "Bad B*tch",
@@ -2047,6 +2027,26 @@
       "duration_ms": 158769,
       "name": "Watch Where You Walk (Sidewalk Talk)",
       "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
+    },
+    {
+      "added_at": "2026-08-21 04:01:29",
+      "album": {
+        "name": "Rhythm Has Control",
+        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Hackatone",
+          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Rhythm Has Control",
+      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -2085,22 +2085,6 @@
       "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
-      "added_at": "2026-04-24 04:01:50",
-      "album": {
-        "name": "Somn Like Dis",
-        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
-      },
-      "artists": [
-        {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Somn Like Dis",
-      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
-    },
-    {
       "added_at": "2026-07-17 04:01:08",
       "album": {
         "name": "No Bite",
@@ -2115,6 +2099,22 @@
       "duration_ms": 181417,
       "name": "No Bite",
       "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
+    },
+    {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Somn Like Dis",
+        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Somn Like Dis",
+      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
     },
     {
       "added_at": "2026-03-20 04:00:50",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "N9",
         "url": "https://open.spotify.com/album/2bsLNsuW1Au5kRLivucJ3c"
       },
@@ -2187,22 +2167,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
-        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         },
         {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
         }
       ],
-      "duration_ms": 167633,
-      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
-      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2223,6 +2203,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "duration_ms": 167633,
+      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
       },
@@ -2235,22 +2235,6 @@
       "duration_ms": 129461,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "Never Crash",
-        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Never Crash",
-      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2271,6 +2255,22 @@
       "duration_ms": 185033,
       "name": "Grind It",
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "Never Crash",
+        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Never Crash",
+      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2361,26 +2361,6 @@
       "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Count On You",
-        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Count On You",
-      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
-    },
-    {
       "added_at": "2026-08-28 04:01:56",
       "album": {
         "name": "Thirsty (feat. Datti)",
@@ -2399,6 +2379,26 @@
       "duration_ms": 194545,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
       "added_at": "2026-08-07 04:01:21",

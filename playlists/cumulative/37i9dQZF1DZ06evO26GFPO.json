@@ -1468,10 +1468,36 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 206105,
       "name": "Meu Plano - Ao Vivo",
       "url": "https://open.spotify.com/track/1DpkhxZbO251cYItLJLevv"
+    },
+    {
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Lado B (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54RttVJOjVBXLcfd45boul"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206105,
+      "name": "Meu Plano - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vpSFcL1L7rEGsrGOOhkA9"
     },
     {
       "album": {

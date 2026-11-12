@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-235 songs - 12 hr 39 min
+236 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Wish You Well](https://open.spotify.com/track/6uPEY1yrE8gu9Rdcs07Ngv) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Anti Romantica](https://open.spotify.com/album/0eKLypqjx8bQQyVeTRBAa9) | 2:28 | 2024-10-06 |  |
 | [World We Created](https://open.spotify.com/track/330XRmK286D8DTBlhtuZn5) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/6A4gPuP784SSVFz0Hwiom3) | 3:13 | 2023-02-04 | 2023-02-22 |
 | [World We Created](https://open.spotify.com/track/51Ful1v7b81FchIFFTAQ05) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:13 | 2021-12-27 |  |
-| [You Make Me \(feat\. George Riley\)](https://open.spotify.com/track/6bfd0BhPt55eSmeBMK3GfB) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 3:56 | 2026-04-03 |  |
+| [You Make Me \(feat\. George Riley\)](https://open.spotify.com/track/6bfd0BhPt55eSmeBMK3GfB) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 3:56 | 2026-04-03 | 2026-11-12 |
+| [You Make Me \(feat\. George Riley\)](https://open.spotify.com/track/7eMqafCzDXW7OvVEt05FD6) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Handle With Care](https://open.spotify.com/album/51bULC1XdIc56QGnMOxQ6g) | 3:56 | 2026-11-11 |  |
 | [You Must Be Crazy Too](https://open.spotify.com/track/3m204CzQHq1rftQgi4mPgC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:25 | 2025-11-09 |  |
 | [You Must Be Crazy Too](https://open.spotify.com/track/5Sy3BynuE4fKlxoIh2rCmd) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:25 | 2024-06-08 | 2025-11-10 |
 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 | 2023-12-13 |  |

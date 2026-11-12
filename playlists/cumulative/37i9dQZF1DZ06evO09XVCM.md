@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 55 min
+91 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Reggae In My Head](https://open.spotify.com/track/1pSoPYqaxWTpiqGOnWWIOj) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:54 | 2025-09-26 |  |
 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 | 2024-02-01 |  |
 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 | 2024-02-01 |  |
-| [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 | 2024-02-01 |  |
+| [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 | 2024-02-01 | 2026-11-12 |
 | [See Dem Fake Leaders](https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:58 | 2025-09-26 | 2026-11-02 |
+| [See Dem Fake Leaders](https://open.spotify.com/track/5kWQVIgRKikp6OgPnGS8Yj) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/22S3dCzawszcDDCoL3mx1K) | 3:58 | 2026-11-12 |  |
 | [Shalom Salaam](https://open.spotify.com/track/3nnE2tL23dx1mTiUH1T2R3) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 5:04 | 2024-02-01 | 2024-09-17 |
 | [Spin It Faster](https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI) | 3:56 | 2024-02-01 |  |
 | [Start It Up](https://open.spotify.com/track/0MT9KFAob9TAw1FlMweOGi) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/1flAWuCR67R6HOsoLTE4xf) | 3:21 | 2024-02-02 | 2024-04-20 |

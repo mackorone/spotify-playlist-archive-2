@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHBhzWqavOD.md) - [plain]
 
 > The Biggest Afrobeats festival in World
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,419 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,481 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHBhzWqavOD.md) - [plain]
 | 73 | [Coupé bibamba](https://open.spotify.com/track/3zhPISNwKZVIQ4Td0U3mah) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT), [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Coupé bibamba](https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b) | 4:23 |
 | 74 | [Ke Star \(feat\. Virgo Deep\) \- Remix](https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(feat\. Virgo Deep\) \[Remix\]](https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3) | 5:28 |
 | 75 | [Bala \(feat\. SYKES\)](https://open.spotify.com/track/1mourdmaqv51JvXKTjuFCP) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Sewe](https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh) | 6:44 |
-| 76 | [Mamma](https://open.spotify.com/track/5aM14CNo9Xezodbx0TUZRD) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Mamma](https://open.spotify.com/album/6PqWSEZXJzG9Tn6Q5vQgLQ) | 7:00 |
-| 77 | [Champion Sound](https://open.spotify.com/track/2mqNeI4vUehnhVwSkCrQnR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:57 |
+| 76 | [Champion Sound](https://open.spotify.com/track/2mqNeI4vUehnhVwSkCrQnR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:57 |
+| 77 | [Mamma](https://open.spotify.com/track/5aM14CNo9Xezodbx0TUZRD) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Mamma](https://open.spotify.com/album/6PqWSEZXJzG9Tn6Q5vQgLQ) | 7:00 |
 | 78 | [Karolina](https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Mondongo](https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc) | 4:32 |
 | 79 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrone Dee](https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog) | [Lucent](https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx) | 6:31 |
 | 80 | [Song Cry \(feat\. Mhaw Keys\)](https://open.spotify.com/track/0497mayuEADTcP2TBzkH7Y) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK) | [Ivy League](https://open.spotify.com/album/4BBkjAHKLbwB6IdFHWzr4n) | 6:51 |

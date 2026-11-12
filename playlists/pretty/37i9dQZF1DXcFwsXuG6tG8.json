@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 25058,
+  "num_followers": 25072,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
+        "name": "No Tengo Remedio",
+        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "No Tengo Remedio",
+      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
         "name": "deditos cruzados",
         "url": "https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 205233,
       "name": "deditos cruzados",
       "url": "https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
-        "name": "No Tengo Remedio",
-        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "No Tengo Remedio",
-      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "De Sue\u00f1o en Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Ar\u00f3n Piper",
-          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "De Sue\u00f1o en Sue\u00f1o",
-      "url": "https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 182946,
       "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
+        "name": "De Sue\u00f1o en Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Ar\u00f3n Piper",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "De Sue\u00f1o en Sue\u00f1o",
+      "url": "https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "PREGUNTAS A LAS 11:11",
         "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
         "name": "milveces",
         "url": "https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 220800,
       "name": "milveces",
       "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
+        "name": "Como Ella Ya No Hay",
+        "url": "https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Como Ella Ya No Hay",
+      "url": "https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -727,18 +743,18 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "Como Ella Ya No Hay",
-        "url": "https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH"
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Como Ella Ya No Hay",
-      "url": "https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah"
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -755,22 +771,6 @@
       "duration_ms": 178874,
       "name": "ya no estoy",
       "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 157000,
       "name": "(favorito)",
       "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
+        "name": "Todo Regresa",
+        "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Todo Regresa",
+      "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
         "name": "Pick Me",
         "url": "https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 170298,
       "name": "Pick Me",
       "url": "https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
-        "name": "Todo Regresa",
-        "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Todo Regresa",
-      "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
     },
     {
       "added_at": "2026-10-15 20:43:14",

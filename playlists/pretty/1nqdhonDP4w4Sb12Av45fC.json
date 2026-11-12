@@ -1,6 +1,6 @@
 {
   "description": "Long live the 90s! Re-live the chart-toppers, classic anthems and forgotten throwback favourites.",
-  "num_followers": 35096,
+  "num_followers": 35094,
   "original_name": "90s Smash Hits",
   "owner": {
     "name": "Smash Hits",
@@ -902,6 +902,10 @@
         {
           "name": "Paul Oakenfold",
           "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Steve Osbourne",
+          "url": "https://open.spotify.com/artist/4hB3UTmhCro37EGBk7zoDO"
         }
       ],
       "duration_ms": 261733,

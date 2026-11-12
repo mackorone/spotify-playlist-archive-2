@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is MC Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,483 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,484 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [GR6 Convoca \#01 \(Relacionamentos\)](https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI) | [GR6 Convoca \#01 \(Relacionamentos\)](https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh) | 7:52 |
 | 50 | [Eu Não Sou Difícil](https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [LeoZera](https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Eu Não Sou Difícil](https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f) | 2:11 |
 
-Snapshot ID: `au+7gAAAAABhUjQefjAasQPFAw7qi90G`
+Snapshot ID: `avENAAAAAADdtT9XTOCULQWi46YJ6LAA`

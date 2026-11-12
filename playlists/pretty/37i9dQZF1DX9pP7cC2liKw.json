@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 480306,
+  "num_followers": 480434,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        },
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ"
-    },
-    {
-      "added_at": "2026-09-30 22:17:36",
-      "album": {
         "name": "Amor Entre Mujer",
         "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 272799,
       "name": "Amor Entre Mujer",
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
+    },
+    {
+      "added_at": "2026-09-30 22:17:36",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ"
     },
     {
       "added_at": "2026-09-30 22:17:36",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2026-09-30 22:17:36",
-      "album": {
         "name": "Road Of The Lonely Ones",
         "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 231764,
       "name": "R\u00fambala - Jiony Remix",
       "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
+    },
+    {
+      "added_at": "2026-09-30 22:17:36",
+      "album": {
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2026-09-30 22:17:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
-    },
-    {
-      "added_at": "2026-09-30 22:17:36",
-      "album": {
         "name": "Selva y mar",
         "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 248099,
       "name": "Selva y mar",
       "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
+    },
+    {
+      "added_at": "2026-09-30 22:17:36",
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
       "added_at": "2026-09-30 22:17:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
-    },
-    {
-      "added_at": "2026-09-30 22:17:36",
-      "album": {
         "name": "Minimal",
         "url": "https://open.spotify.com/album/55yKmNclMIb7WaDrT0bqbD"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 367789,
       "name": "Minimal - DJ Koze Remix",
       "url": "https://open.spotify.com/track/7zSDTiE5xmuXlCz7mfYhlE"
+    },
+    {
+      "added_at": "2026-09-30 22:17:36",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2026-09-30 22:17:36",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-09-30 22:17:36",
       "album": {
-        "name": "The Way That I Found You",
-        "url": "https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        },
-        {
-          "name": "Val Fritz",
-          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
-        }
-      ],
-      "duration_ms": 170163,
-      "name": "The Way That I Found You",
-      "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
-    },
-    {
-      "added_at": "2026-09-30 22:17:36",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 182533,
       "name": "Trago Coqueto",
       "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
+    },
+    {
+      "added_at": "2026-09-30 22:17:36",
+      "album": {
+        "name": "The Way That I Found You",
+        "url": "https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        },
+        {
+          "name": "Val Fritz",
+          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
+        }
+      ],
+      "duration_ms": 170163,
+      "name": "The Way That I Found You",
+      "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
     },
     {
       "added_at": "2026-09-30 22:17:36",

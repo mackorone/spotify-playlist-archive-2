@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,845 likes - 50 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,846 likes - 50 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 49 | [Folk Song](https://open.spotify.com/track/7AJn9PpxCEqppoaV8OkAle) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/5m94wx3KAPf5yh5shKaqwJ) | 4:27 |
 | 50 | [The Harp of New Albion: VI\. Return of the Ancestors](https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 10:04 |
 
-Snapshot ID: `au+7gAAAAAAnDMPI7pCeS9K5olIxj7CF`
+Snapshot ID: `avENAAAAAAAhWr1e9cbYA4iZ086eF8bJ`

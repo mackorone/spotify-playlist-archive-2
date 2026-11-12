@@ -1,6 +1,6 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 366476,
+  "num_followers": 366534,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 187022,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
         "name": "15 \u00c9xitos Bailables",
         "url": "https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 147426,
       "name": "La Tabaquera",
       "url": "https://open.spotify.com/track/46fdZFOmWvg4zPzJqdBqUy"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 187022,
+      "name": "La Quebradora",
+      "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "Mi Historia - Mi Banda El Mexicano",
-        "url": "https://open.spotify.com/album/7n5pvyK4eUJxmrcMYlBecR"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 241452,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/3PTfu2zsB5IH0nTu9vP8iR"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
         "name": "Candela Verde",
         "url": "https://open.spotify.com/album/4oYf20uOoFZaOB2PDIkspm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 171360,
       "name": "Candela Verde",
       "url": "https://open.spotify.com/track/2NY8sX1X96OPi9GsPYLwVM"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
+        "name": "Mi Historia - Mi Banda El Mexicano",
+        "url": "https://open.spotify.com/album/7n5pvyK4eUJxmrcMYlBecR"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 241452,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/3PTfu2zsB5IH0nTu9vP8iR"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/4CFd2ttswJMIvHHbolxz95"
         }
       ],
-      "duration_ms": 179304,
-      "name": "Billy No Seas Un Heroe",
-      "url": "https://open.spotify.com/track/3XbdxBxtQKQl5oxaLYeCFu"
+      "duration_ms": 142027,
+      "name": "Bailando Banda",
+      "url": "https://open.spotify.com/track/4rC2F1njSIhM62oTmt3hFk"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
         "name": "15 \u00c9xitos Bailables",
         "url": "https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 163693,
       "name": "El Pato Asado",
       "url": "https://open.spotify.com/track/2TlEfB9ObkiXWLxwUIybnk"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/4CFd2ttswJMIvHHbolxz95"
         }
       ],
-      "duration_ms": 142027,
-      "name": "Bailando Banda",
-      "url": "https://open.spotify.com/track/4rC2F1njSIhM62oTmt3hFk"
+      "duration_ms": 179304,
+      "name": "Billy No Seas Un Heroe",
+      "url": "https://open.spotify.com/track/3XbdxBxtQKQl5oxaLYeCFu"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
         "name": "Los Mejor De Vaquero's Musical",
         "url": "https://open.spotify.com/album/6qNFfXga8mDY359akhMKjx"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 163874,
       "name": "El Caracol",
       "url": "https://open.spotify.com/track/3e0UGZKNCocEJv7feS8d93"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
         "name": "Con Sangre Norte\u00f1a, Vol.1",
         "url": "https://open.spotify.com/album/3OHuKWtnBLmt9D3ZZU1QC6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 206600,
       "name": "Nosotros Tambi\u00e9n Podemos",
       "url": "https://open.spotify.com/track/0pyoQa5euHAX9tadX92UqK"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "A Bailar De Caballito",
-        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 215138,
-      "name": "Mambo Lupita",
-      "url": "https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
         "name": "12 Favoritas",
         "url": "https://open.spotify.com/album/63KW9xfDO3QBLNMcbOWPFj"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 120266,
       "name": "El Perro De Mi Compadre",
       "url": "https://open.spotify.com/track/2mrBqGEkYb70SZPmvD2zLO"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
+        "name": "A Bailar De Caballito",
+        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 215138,
+      "name": "Mambo Lupita",
+      "url": "https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 207737,
-      "name": "Orgullosa Maria",
-      "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
         "name": "\u00c9xitos Regionales Mexicanos, Vol.3",
         "url": "https://open.spotify.com/album/41vizdjsz9zbusZjWvW2xt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 182784,
       "name": "El Quebrador",
       "url": "https://open.spotify.com/track/3S0hJXGu9kWwbiiEzBdZoQ"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 207737,
+      "name": "Orgullosa Maria",
+      "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
     }
   ],
   "unique_name": "Quebradita",

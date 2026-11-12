@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5kdP.md) - [plain]
 
 > This is Christina Vantzou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5kdP.md) - [plain]
 | 49 | [Empty Courtyard](https://open.spotify.com/track/0lEjlbRCYkJ4JePbLvDMmQ) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Landscape Architecture](https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf) | 4:35 |
 | 50 | [Kimona I](https://open.spotify.com/track/5h3xuINapHUkdGtMNJjMjX) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Lieselot de Wilde](https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR), [Margaret Hermant](https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin) | [No\. 5](https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk) | 3:59 |
 
-Snapshot ID: `au+7gAAAAAC5uC/V+uDRRxm/61hm8/9T`
+Snapshot ID: `avENAAAAAADdcyFZUsCLmX8EDXgEbrih`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Glenn Samuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,943 likes - 102 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,919 likes - 102 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

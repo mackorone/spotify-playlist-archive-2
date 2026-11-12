@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 233298,
+  "num_followers": 233333,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-11-06 00:01:52",
       "album": {
-        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
-    },
-    {
-      "added_at": "2026-11-06 00:01:52",
-      "album": {
         "name": "Phumela",
         "url": "https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 180927,
       "name": "Phumela",
       "url": "https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl"
+    },
+    {
+      "added_at": "2026-11-06 00:01:52",
+      "album": {
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
     },
     {
       "added_at": "2026-11-06 00:01:52",

@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 111578,
+  "num_followers": 111592,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-11-06 15:12:28",
       "album": {
-        "name": "Everything\u2019s Not Lost",
-        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 248689,
-      "name": "Everything\u2019s Not Lost",
-      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
-    },
-    {
-      "added_at": "2026-11-06 15:12:28",
-      "album": {
         "name": "Snow!",
         "url": "https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 249520,
       "name": "That's What I Want for Christmas",
       "url": "https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx"
+    },
+    {
+      "added_at": "2026-11-06 15:12:28",
+      "album": {
+        "name": "Everything\u2019s Not Lost",
+        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 248689,
+      "name": "Everything\u2019s Not Lost",
+      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
     },
     {
       "added_at": "2026-11-06 15:12:28",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-11-06 15:12:28",
       "album": {
-        "name": "Let's Share Christmas",
-        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
-      },
-      "artists": [
-        {
-          "name": "Don Sebesky",
-          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
-    },
-    {
-      "added_at": "2026-11-06 15:12:28",
-      "album": {
         "name": "The Season",
         "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2026-11-06 15:12:28",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+        "name": "Let's Share Christmas",
+        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Don Sebesky",
+          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
         }
       ],
-      "duration_ms": 227920,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
+      "duration_ms": 192800,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
     },
     {
       "added_at": "2026-11-06 15:12:28",
@@ -375,6 +359,22 @@
       "duration_ms": 236354,
       "name": "Maybe Next Christmas",
       "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
+    },
+    {
+      "added_at": "2026-11-06 15:12:28",
+      "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
     },
     {
       "added_at": "2026-11-06 15:12:28",

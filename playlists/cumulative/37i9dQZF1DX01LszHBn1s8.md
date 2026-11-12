@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> be my own housewife!!!
+> glider in i jävligt sköna jeans.\. :D
 
 1,757 songs - 3 day 20 hr 45 min
 

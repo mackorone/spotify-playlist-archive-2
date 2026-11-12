@@ -3349,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "No Sentimento em Bras\u00edlia Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2MFNkulSNsrtxRWwBBvFdj"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168662,
+      "name": "Fala Pra Sua Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/3DTAv7UcST4AdKr2U8uYsU"
+    },
+    {
+      "album": {
         "name": "FALTA DE QU\u00ca?",
         "url": "https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt"
       },
@@ -7790,7 +7808,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 126285,
       "name": "Todo Mundo Menos Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/7CIx2glE3HjBtXRrZzfowf"

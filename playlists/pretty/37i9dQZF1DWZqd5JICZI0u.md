@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,908,764 likes - 225 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,909,473 likes - 225 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 224 | [Blooming Planet](https://open.spotify.com/track/2YWscIFSHjASXBUuijrEnk) | [Peter Wiehl](https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi) | [Blooming Planet](https://open.spotify.com/album/5bROtlloupvch8m6ZotSI1) | 2:32 |
 | 225 | [Moonrest](https://open.spotify.com/track/252jTZdnqJyOzDcYdP8m5p) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Moonrest](https://open.spotify.com/album/2cDE75sGImRDKIalg2wcun) | 2:39 |
 
-Snapshot ID: `AAAAAAvMICoVD/0wRhk3NOi9voIFVBZ0`
+Snapshot ID: `AAAAAC5SbDIbbDgTh/gzhpUY8hifDyiw`

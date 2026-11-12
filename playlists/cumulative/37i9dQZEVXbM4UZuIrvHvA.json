@@ -1567,6 +1567,32 @@
     },
     {
       "album": {
+        "name": "Scene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yoZ4Wjz3ZDxUBT9cQ5aBz"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        },
+        {
+          "name": "Rajpriyan",
+          "url": "https://open.spotify.com/artist/3aV1xXHRwgdlbPE8bAEmOJ"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147317,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/0kST7wDpOzoTIn0QvlW94l"
+    },
+    {
+      "album": {
         "name": "Afsos",
         "url": "https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa"
       },
@@ -14153,6 +14179,24 @@
     },
     {
       "album": {
+        "name": "FIRESTARTER (League of Legends)",
+        "url": "https://open.spotify.com/album/77n9Cg89dgCouV82Sq55gS"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187338,
+      "name": "FIRESTARTER - League of Legends",
+      "url": "https://open.spotify.com/track/4nlE7j1Zsc3XJkoLE7FDhJ"
+    },
+    {
+      "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
@@ -22632,7 +22676,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 250320,
       "name": "Kelma",
       "url": "https://open.spotify.com/track/7pJ1Dgg2PS2LChBgGFJv7Z"
@@ -23566,7 +23610,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -36874,7 +36918,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -44224,7 +44268,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"

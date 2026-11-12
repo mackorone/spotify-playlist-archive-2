@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Morat",
-  "num_followers": 349123,
+  "num_followers": 349128,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-10-23 03:00:34",
       "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
-    },
-    {
-      "added_at": "2026-10-23 03:00:34",
-      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2026-10-23 03:00:34",
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-10-23 03:00:34",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-10-23 03:00:34",
       "album": {
-        "name": "Morirme con vos",
-        "url": "https://open.spotify.com/album/3A8EQyuP4PHYsjBNEt6KAE"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        },
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 207735,
-      "name": "Morirme con vos",
-      "url": "https://open.spotify.com/track/68TQC7YHkhh0Vx2beqgvpu"
-    },
-    {
-      "added_at": "2026-10-23 03:00:34",
-      "album": {
         "name": "OTRA NOCHE M\u00c1S",
         "url": "https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "added_at": "2026-10-23 03:00:34",
+      "album": {
+        "name": "Morirme con vos",
+        "url": "https://open.spotify.com/album/3A8EQyuP4PHYsjBNEt6KAE"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Morirme con vos",
+      "url": "https://open.spotify.com/track/68TQC7YHkhh0Vx2beqgvpu"
     },
     {
       "added_at": "2026-10-23 03:00:34",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2026-10-23 03:00:34",
       "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        },
+        {
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "100 D\u00edas",
+      "url": "https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h"
+    },
+    {
+      "added_at": "2026-10-23 03:00:34",
+      "album": {
         "name": "Yo No Te Pido la Luna",
         "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
       },
@@ -1695,22 +1715,18 @@
     {
       "added_at": "2026-10-23 03:00:34",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5"
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
       "artists": [
         {
-          "name": "RUGGERO",
-          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
-        },
-        {
-          "name": "Michael Ronda",
-          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 184518,
-      "name": "100 D\u00edas",
-      "url": "https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h"
+      "duration_ms": 190580,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
     },
     {
       "added_at": "2026-10-23 03:00:34",
@@ -1727,22 +1743,6 @@
       "duration_ms": 232800,
       "name": "Rojo Rub\u00ed",
       "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
-    },
-    {
-      "added_at": "2026-10-23 03:00:34",
-      "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
     },
     {
       "added_at": "2026-10-23 03:00:34",

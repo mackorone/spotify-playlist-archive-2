@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 18 hr 1 min
+346 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [Speaking Of Love \- Live](https://open.spotify.com/track/6BvEWPuuFwj9u0UFqovdU4) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Live At The Cheltenham Jazz Festival](https://open.spotify.com/album/2D9jK08EyzluA2dcEiBbJ8) | 2:55 | 2024-07-24 | 2025-06-28 |
 | [Speaking of the Weather](https://open.spotify.com/track/0imL7I7SodvEK2xu05zk1k) | [Dick Powell](https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK) | [There's Two Sides to Every Story](https://open.spotify.com/album/2h0guLYfqx2MfiusyEW3Hw) | 2:57 | 2024-07-24 | 2026-08-08 |
 | [Speaking of the Weather \(Original Mix\)](https://open.spotify.com/track/5SWW4pjMKtXC2tnLReEAEU) | [Dick Powell](https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK) | [I Know Now](https://open.spotify.com/album/5dnoRdLN4VEQzlLaWkOKgj) | 2:59 | 2026-08-07 |  |
-| [Spiral \- Mono](https://open.spotify.com/track/6je0YNzNoeqXpKpTaL98Hu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:00 | 2024-07-24 |  |
+| [Spiral \- 2020 Remaster](https://open.spotify.com/track/0TGrcgsdYjprI385KD8SuL) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 5:59 | 2026-11-11 |  |
+| [Spiral \- Mono](https://open.spotify.com/track/6je0YNzNoeqXpKpTaL98Hu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:00 | 2024-07-24 | 2026-11-12 |
 | [Spirit Of Capsulanti](https://open.spotify.com/track/3UHo8Z0OeWh8U58JWDGDvl) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:40 | 2024-07-24 |  |
 | [Strange As It Seems](https://open.spotify.com/track/1RjWuQU17DJes5IuWWlgN0) | [Adelaide Hall](https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI) | [The Enduring Charm Of Adelaide Hall, Original Recordings 1927 – 1944](https://open.spotify.com/album/1vO1boD6qIHSQjSXvMSmMw) | 3:04 | 2026-08-07 |  |
 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 | 2024-07-24 | 2026-08-08 |

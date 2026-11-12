@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,020 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,023 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 49 | [Tell Him](https://open.spotify.com/track/5IzBPXm8czCS3AH49gurKo) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Rarities](https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G) | 4:48 |
 | 50 | [How Long Will You Stay \- Re\-Recorded In Stereo](https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 4:46 |
 
-Snapshot ID: `au+7gAAAAAC36hFShDXLL/xRMuiI7fUc`
+Snapshot ID: `avENAAAAAACCM5F3tqb9cwdnJcImVnvj`

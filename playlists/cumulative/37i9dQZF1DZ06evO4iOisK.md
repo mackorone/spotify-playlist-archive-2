@@ -4,7 +4,7 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 1 min
+99 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2022-06-09 |  |
 | [ジャパニケーション](https://open.spotify.com/track/4izm2Q9AE1hUWQ7RNjR88p) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 2:55 | 2022-06-09 |  |
 | [スクランブル](https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍～Wadachi～](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 4:26 | 2022-06-09 | 2026-10-16 |
-| [スクランブル \- New Version \-](https://open.spotify.com/track/1W01vd7wmqvsM24iKXAjXK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍～Wadachi～ \- New Version \-](https://open.spotify.com/album/37HntVddcKAMr5cwqrlbKn) | 4:25 | 2026-10-16 |  |
+| [スクランブル \- New Version \-](https://open.spotify.com/track/1W01vd7wmqvsM24iKXAjXK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍～Wadachi～ \- New Version \-](https://open.spotify.com/album/37HntVddcKAMr5cwqrlbKn) | 4:25 | 2026-10-16 | 2026-11-12 |
+| [スクランブル \- New Version \-](https://open.spotify.com/track/6Ki9rEN1kFKkmykftz3fD0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST OF ANIME](https://open.spotify.com/album/1gYAdgh2y6vhBBLN9qoksx) | 4:25 | 2026-11-12 |  |
 | [ダレカノセイ](https://open.spotify.com/track/3n6zvIdwys3ca32EA2Jsxr) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 2:42 | 2022-06-27 | 2022-06-29 |
 | [ファイアスターター](https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 | 2022-06-09 |  |
 | [君がいた夏](https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:00 | 2022-08-05 |  |

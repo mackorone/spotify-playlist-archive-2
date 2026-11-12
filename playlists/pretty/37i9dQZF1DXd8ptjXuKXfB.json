@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 33508,
+  "num_followers": 33523,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
-        "name": "businessman",
-        "url": "https://open.spotify.com/album/4ormZlOj0ttALx6rnB7Pzu"
-      },
-      "artists": [
-        {
-          "name": "szvory",
-          "url": "https://open.spotify.com/artist/16dJ6E9brgXIBbi4cBFaTX"
-        },
-        {
-          "name": "brendy",
-          "url": "https://open.spotify.com/artist/6ofIpCNtWgB6xFNV84CM1Q"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "businessman",
-      "url": "https://open.spotify.com/track/5yOsWdGuLzogeI78Dx2k4O"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
         "name": "SZABADS\u00c1G, SZERELEM",
         "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 255238,
       "name": "REM\u00c9LEM",
       "url": "https://open.spotify.com/track/3nsf11JN914zRRLuC8ZH6p"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
+        "name": "businessman",
+        "url": "https://open.spotify.com/album/4ormZlOj0ttALx6rnB7Pzu"
+      },
+      "artists": [
+        {
+          "name": "szvory",
+          "url": "https://open.spotify.com/artist/16dJ6E9brgXIBbi4cBFaTX"
+        },
+        {
+          "name": "brendy",
+          "url": "https://open.spotify.com/artist/6ofIpCNtWgB6xFNV84CM1Q"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "businessman",
+      "url": "https://open.spotify.com/track/5yOsWdGuLzogeI78Dx2k4O"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -747,42 +747,6 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
-        "name": "nem hiszek",
-        "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        },
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 189726,
-      "name": "nem hiszek",
-      "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
-        "name": "Bulv\u00e1r",
-        "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
-      },
-      "artists": [
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 128784,
-      "name": "Bulv\u00e1r",
-      "url": "https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
         "name": "GRIND",
         "url": "https://open.spotify.com/album/2lsK4dIcNT3eK6Z6c9E3tW"
       },
@@ -807,18 +771,58 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
-        "name": "Valamit Majd Kital\u00e1lok",
-        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+        "name": "Bulv\u00e1r",
+        "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
         }
       ],
-      "duration_ms": 197025,
-      "name": "Kell egy p\u00e1r nap",
-      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
+      "duration_ms": 128784,
+      "name": "Bulv\u00e1r",
+      "url": "https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
+        "name": "nem hiszek",
+        "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 189726,
+      "name": "nem hiszek",
+      "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "MIRE SZ\u00c1M\u00cdTOTT\u00c1L",
+      "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -843,22 +847,18 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
-        "name": "INTERREGNUM",
-        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
       },
       "artists": [
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 130285,
-      "name": "MIRE SZ\u00c1M\u00cdTOTT\u00c1L",
-      "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
+      "duration_ms": 197025,
+      "name": "Kell egy p\u00e1r nap",
+      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
+        "name": "\u00c9letem Szerelme",
+        "url": "https://open.spotify.com/album/1oG4xEk5CwDgChH3BJ101l"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 186673,
+      "name": "\u00c9letem Szerelme",
+      "url": "https://open.spotify.com/track/5aBSboVH55mQNJQuQ2cNaI"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
         "name": "Valamit Majd Kital\u00e1lok",
         "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 160768,
       "name": "\u00cdgy sem k\u00f6nnyebb",
       "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
-        "name": "De\u00e1k Ferenc",
-        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
-      },
-      "artists": [
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "De\u00e1k Ferenc",
-      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
+        "name": "De\u00e1k Ferenc",
+        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "De\u00e1k Ferenc",
+      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
+    },
+    {
+      "added_at": "2026-11-09 18:12:42",
+      "album": {
         "name": "SZ\u00c9THULLIKAVIL\u00c1G",
         "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 197538,
       "name": "Estelente",
       "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
-    },
-    {
-      "added_at": "2026-11-09 18:12:42",
-      "album": {
-        "name": "\u00c9letem Szerelme",
-        "url": "https://open.spotify.com/album/1oG4xEk5CwDgChH3BJ101l"
-      },
-      "artists": [
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 186673,
-      "name": "\u00c9letem Szerelme",
-      "url": "https://open.spotify.com/track/5aBSboVH55mQNJQuQ2cNaI"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+        "name": "elterel\u00e9s",
+        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
       },
       "artists": [
         {
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
         }
       ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
+      "duration_ms": 168953,
+      "name": "erotika",
+      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
     },
     {
       "added_at": "2026-11-09 18:12:42",
@@ -1427,8 +1427,8 @@
     {
       "added_at": "2026-11-09 18:12:42",
       "album": {
-        "name": "elterel\u00e9s",
-        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
       },
       "artists": [
         {
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
         }
       ],
-      "duration_ms": 168953,
-      "name": "erotika",
-      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
     },
     {
       "added_at": "2026-11-09 18:12:42",

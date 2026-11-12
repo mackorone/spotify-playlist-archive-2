@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,569 songs - 5 day 17 hr 6 min
+2,571 songs - 5 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-10-03 | 2026-05-26 |
 | [5](https://open.spotify.com/track/2uhsLVdlg8eRs62cg0Ilm7) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [5](https://open.spotify.com/album/7IsOTogU20hEtMwA7qZ9l8) | 4:03 | 2020-10-13\* | 2021-05-23 |
 | [50 Watt Smile](https://open.spotify.com/track/5f81pQyLnnfD16MLNfugVI) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [50 Watt Smile](https://open.spotify.com/album/4DZBHIDhE9jZqrHJZFDvM8) | 3:22 | 2021-02-24 | 2021-06-03 |
+| [50/50](https://open.spotify.com/track/0Bskt2h2qvLBHkqFzLaw5i) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [How To Perform Magic](https://open.spotify.com/album/0n3ysfasudZfKqAfQPhL8x) | 2:43 | 2026-11-11 |  |
 | [5150](https://open.spotify.com/track/3fVFdHNPDYIOfo6QwUX6qj) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [5150](https://open.spotify.com/album/3pUOK7VN8Qg83S1P4WihM0) | 3:09 | 2021-01-16 | 2021-06-03 |
 | [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2022-12-16 | 2023-02-12 |
 | [610470](https://open.spotify.com/track/0e9uFzv7ZWo2dAdGlIC619) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg), [Gordon Snyder](https://open.spotify.com/artist/3rRWf9A0D506qsH8mtbFYw) | [610470](https://open.spotify.com/album/7uZ0TauX1nCutGnvcY7Izr) | 2:24 | 2021-10-13 | 2021-10-14 |
@@ -765,7 +766,7 @@
 | [Factoury Girl](https://open.spotify.com/track/3b5NDASYtn3eGgTSYfUk2p) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Factoury Girl](https://open.spotify.com/album/3FMWPf3hJwNQ9Lr0R2M83t) | 3:26 | 2022-10-28 | 2022-11-12 |
 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 | 2024-10-25 | 2024-12-07 |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-08-06 | 2022-04-12 |
-| [Fall In Love With Me](https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Fall In Love With Me](https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj) | 2:48 | 2026-09-25 |  |
+| [Fall In Love With Me](https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Fall In Love With Me](https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj) | 2:48 | 2026-09-25 | 2026-11-12 |
 | [Fall Into Me](https://open.spotify.com/track/6kyWkZKmS8s8o30Gq9A1Ph) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Fall Into Me](https://open.spotify.com/album/4RxlvRj82Lo3XHqmVphG4b) | 3:56 | 2021-02-24 | 2021-02-25 |
 | [Fall to Pieces](https://open.spotify.com/track/6GBYnyMRtW43bVnwJQoiDA) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Fall to Pieces](https://open.spotify.com/album/1DrQpvNKmjlNasyNw47xro) | 2:47 | 2021-02-13 | 2021-05-26 |
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2020-10-20 | 2021-06-03 |
@@ -1047,7 +1048,7 @@
 | [how's it feel to be a boy](https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [how's it feel to be a boy](https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA) | 2:21 | 2023-08-04 | 2023-10-15 |
 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-01 | 2022-07-28 |
 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 | 2021-05-03 | 2022-04-11 |
-| [human nature](https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [human nature](https://open.spotify.com/album/0WEiLAjjiwYpCdGSR3cAsR) | 2:29 | 2026-09-18 |  |
+| [human nature](https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [human nature](https://open.spotify.com/album/0WEiLAjjiwYpCdGSR3cAsR) | 2:29 | 2026-09-18 | 2026-11-12 |
 | [Humanity](https://open.spotify.com/track/7IjLwKOvFCNxy59yZ5sVRb) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Humanity](https://open.spotify.com/album/46K0JxHJHa6jRwd0tZGwCo) | 3:20 | 2024-04-19 | 2024-04-23 |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-07 | 2022-10-22 |
 | [hurts 2 hate somebody \(with Chase Atlantic & No Rome\)](https://open.spotify.com/track/5D1D4CHCew0XWorrFv5jSg) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [hurts 2 hate somebody \(with Chase Atlantic & No Rome\)](https://open.spotify.com/album/7vn8aDaUDC46EAnXy0eht4) | 3:06 | 2021-05-08 | 2022-04-12 |
@@ -2567,6 +2568,7 @@
 | [Young Mistakes](https://open.spotify.com/track/40M9EC8kBbzOe9jIDwJ1dK) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Young Mistakes](https://open.spotify.com/album/5VQXsENfCGGvZvyZcwD3aX) | 2:51 | 2021-06-03 | 2021-06-04 |
 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 | 2024-02-16 | 2024-09-22 |
 | [Your Drugs](https://open.spotify.com/track/6PPxKutSxVks6WoVHGvXDs) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Your Drugs](https://open.spotify.com/album/4llATXF3wt0UJuQKlg7iqc) | 3:23 | 2020-10-13\* | 2020-11-13 |
+| [your hand in mine](https://open.spotify.com/track/77MB8bA6c2fUHVgUD2SeI5) | [Lola Blue](https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at) | [your hand in mine](https://open.spotify.com/album/4XapD00kJ6twsXysur20Jp) | 2:57 | 2026-10-30 |  |
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2021-02-24 | 2021-05-24 |
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-01-10 | 2025-05-13 |
 | [Your Turn Now](https://open.spotify.com/track/6TOqKF7YDBwUqIsJnJSNWi) | [Imani Graham](https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA) | [Your Turn Now](https://open.spotify.com/album/2DbPkr1polKSxyWCX4R4w3) | 2:22 | 2026-03-31 | 2026-04-11 |

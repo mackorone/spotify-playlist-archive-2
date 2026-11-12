@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Becky and the Birds✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,258 likes - 200 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,957 likes - 200 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

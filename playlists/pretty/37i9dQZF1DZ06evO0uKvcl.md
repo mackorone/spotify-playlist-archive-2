@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,626 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,628 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 49 | [Hidden Charms \- Single Version](https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:20 |
 | 50 | [I Didn't Mean to Hurt Your Feelings \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:34 |
 
-Snapshot ID: `au+7gAAAAADtfgAiM73vwoOLOXmMle6p`
+Snapshot ID: `avENAAAAAAAB3bxsncu8bAI2ZrB5S5jn`

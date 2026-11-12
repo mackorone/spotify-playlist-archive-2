@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Pang Aimpavee. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: samatang. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 180937,
       "name": "Can I call it love?",
       "url": "https://open.spotify.com/track/4d0wHV7rO9AMJhfPwYSe9Y"
@@ -5874,7 +5874,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 214800,
       "name": "Mask On",
       "url": "https://open.spotify.com/track/0OLhVkAwugUjODeQgdIiC8"
@@ -14960,7 +14960,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 176923,
       "name": "\u0e04\u0e31\u0e19\u0e04\u0e31\u0e07\u0e40\u0e01\u0e32",
       "url": "https://open.spotify.com/track/1UvdJeJlrLZvMfwTRFDgK6"
@@ -19921,6 +19921,24 @@
     },
     {
       "album": {
+        "name": "\u0e15(\u0e23)\u0e2d\u0e01 (Thoughts)",
+        "url": "https://open.spotify.com/album/1cUTXH02Bp7T83McmRtNRV"
+      },
+      "artists": [
+        {
+          "name": "murrph.",
+          "url": "https://open.spotify.com/artist/6xBGYET3V8U4pUSYncnqRR"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241548,
+      "name": "\u0e15(\u0e23)\u0e2d\u0e01 (Thoughts)",
+      "url": "https://open.spotify.com/track/3f45B2hJeyV2obNUMk3HNx"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
         "url": "https://open.spotify.com/album/1OeLnhuE455vtKUmqXreLv"
       },
@@ -23518,6 +23536,24 @@
       "duration_ms": 144000,
       "name": "\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
       "url": "https://open.spotify.com/track/1dlVBvCRgzI7gTinG2Mh3j"
+    },
+    {
+      "album": {
+        "name": "\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
+        "url": "https://open.spotify.com/album/5vnCP7kLxywHXN2onLxau7"
+      },
+      "artists": [
+        {
+          "name": "\u0e27\u0e31\u0e25\u0e19\u0e34\u0e01\u0e32",
+          "url": "https://open.spotify.com/artist/1k3dqzm26vifHIlDzWM6hA"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223605,
+      "name": "\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
+      "url": "https://open.spotify.com/track/0uFBRQD7PuMugyOsdGGYA0"
     },
     {
       "album": {
@@ -28210,6 +28246,24 @@
       "duration_ms": 277500,
       "name": "\u0e21\u0e37\u0e2d\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08\u0e01\u0e2d\u0e14",
       "url": "https://open.spotify.com/track/0EEgbHAAc4hYpflX2wMW4d"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e37\u0e2d\u0e43\u0e2b\u0e21\u0e48 (New Hand)",
+        "url": "https://open.spotify.com/album/1oMQInbdB1cJwK63Std1HN"
+      },
+      "artists": [
+        {
+          "name": "Syd Vethaka",
+          "url": "https://open.spotify.com/artist/0Y5OXHET23enEorILcUvqk"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "\u0e21\u0e37\u0e2d\u0e43\u0e2b\u0e21\u0e48 - New Hand",
+      "url": "https://open.spotify.com/track/2If31cQywUdso1WRa5WhNo"
     },
     {
       "album": {
@@ -35008,7 +35062,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 255148,
       "name": "\u0e2b\u0e27\u0e31\u0e07\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1f\u0e31\u0e07 (Regret)",
       "url": "https://open.spotify.com/track/0R9SVqQPKEz0jET8FjZYup"
@@ -37464,6 +37518,24 @@
       "duration_ms": 228000,
       "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e14\u0e35\u0e02\u0e36\u0e49\u0e19\u0e40\u0e40\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5xvESSXCdzX9a0AafaBVEU"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e22\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/4nveqvvpGA3On4UxnnoMLU"
+      },
+      "artists": [
+        {
+          "name": "Cat Water",
+          "url": "https://open.spotify.com/artist/5k70uwDojoedk8YHpFjA4H"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e22\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/6lIj2QJCvTJtcAeLE3Tjox"
     },
     {
       "album": {
@@ -41954,7 +42026,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 198193,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 (unclear)",
       "url": "https://open.spotify.com/track/0YL36plXE28uor9On494ai"
@@ -42408,6 +42480,24 @@
       "duration_ms": 212352,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35\u0e41\u0e1f\u0e19 (So When?)",
       "url": "https://open.spotify.com/track/7GWZYkqZ7SsI2Vi9TrOXm8"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/1oaktTtzyj7ZvKd3Pg3QP7"
+      },
+      "artists": [
+        {
+          "name": "JiiN",
+          "url": "https://open.spotify.com/artist/6K6sA56LBP4ykzx0iUUW9S"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322953,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/6YFYPlzPcMZ2Cq8EXqYnMw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420917,
+  "num_followers": 420925,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
         "name": "Sess\u00e3o Da Tarde",
         "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
-        "name": "15 Anos (Ao vivo)",
-        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
-      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
       "added_at": "2026-10-19 15:46:22",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
-        "name": "Oh! Chuva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
-      },
-      "artists": [
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 194771,
-      "name": "Oh! Chuva - Ao Vivo",
-      "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
         "name": "MAIS FORTE QUE A D\u00daVIDA",
         "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 206171,
       "name": "ANA",
       "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
+        "name": "Oh! Chuva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
+      },
+      "artists": [
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 194771,
+      "name": "Oh! Chuva - Ao Vivo",
+      "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
     },
     {
       "added_at": "2026-10-19 15:46:22",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
         "name": "Um Sinal",
         "url": "https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 238227,
       "name": "Um Sinal",
       "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2026-10-19 15:46:22",

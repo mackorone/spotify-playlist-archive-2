@@ -5045,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Blue Ocean",
+      "url": "https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I"
+    },
+    {
+      "album": {
         "name": "Blue Qualia",
         "url": "https://open.spotify.com/album/4eRSJTHYwZglClTVG5HC8h"
       },
@@ -45102,24 +45120,6 @@
       "duration_ms": 193278,
       "name": "Traces",
       "url": "https://open.spotify.com/track/5b9sdOfsG30qP4ig5zYwDh"
-    },
-    {
-      "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc"
-      },
-      "artists": [
-        {
-          "name": "Sala",
-          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
-        }
-      ],
-      "date_added": "2026-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,552 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,556 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 16 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
 | 17 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
 | 18 | [Charlie contra los monjes](https://open.spotify.com/track/3uUOxbnLTaG1FpSFWobwgY) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Flora y Fauna del Estado de México](https://open.spotify.com/album/37TT0YwBeoYDSx4xq68gQ8) | 3:12 |
-| 19 | [Stella](https://open.spotify.com/track/4x5KvV5D9VlZrdDxjI1Je6) | [REVO](https://open.spotify.com/artist/4hbqCU1p22wDUkpfWIIVTh) | [Entropía Emocional](https://open.spotify.com/album/3eK4Yt6QFTJwSLQxmIsqZJ) | 6:38 |
-| 20 | [San Borja](https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Cortacalles](https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM) | 4:35 |
+| 19 | [San Borja](https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Cortacalles](https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM) | 4:35 |
+| 20 | [Stella](https://open.spotify.com/track/4x5KvV5D9VlZrdDxjI1Je6) | [REVO](https://open.spotify.com/artist/4hbqCU1p22wDUkpfWIIVTh) | [Entropía Emocional](https://open.spotify.com/album/3eK4Yt6QFTJwSLQxmIsqZJ) | 6:38 |
 | 21 | [La Noche](https://open.spotify.com/track/1jpP9y8UW2BMBAYYy4QCqQ) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Todo Va Hacia el Mar](https://open.spotify.com/album/3hUBWCquWieokQRa0Yzvmx) | 3:33 |
 | 22 | [Como en el 'Crechendo'](https://open.spotify.com/track/6KTjo4RmDk3J0mxsrdLw5F) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [Lomas Verdes](https://open.spotify.com/album/5RKUyelUpA0DsHZLM4Y8bn) | 3:25 |
 | 23 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |

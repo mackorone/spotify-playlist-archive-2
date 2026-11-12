@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 48 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 47 | [Ela Joga](https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb) | [Ela Joga](https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK) | 2:44 |
 | 48 | [Taças](https://open.spotify.com/track/43wU9QMeq9jJrCxAvpCEXP) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Taças](https://open.spotify.com/album/3PoTz4bC2YUyPr24yT7zGz) | 2:36 |
 
-Snapshot ID: `au+7gAAAAAC00lmnWX/FAjDPqs9Olo6b`
+Snapshot ID: `avENAAAAAADnZcv9WZ3K5UK15uSSgsqF`

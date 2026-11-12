@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: D.A.N.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,156 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,165 likes - 99 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 8 | [Tシャツの字](https://open.spotify.com/track/4GStPauhAbXYLCSt5xDGNZ) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Tシャツの字](https://open.spotify.com/album/2fDQkUvOlpvP1Z5rdJakqh) | 4:31 |
 | 9 | [Happy Birthday](https://open.spotify.com/track/36jM3wOMKe3sGyKa3ou7NQ) | [桃子假象 Peach Illusion](https://open.spotify.com/artist/6rvYLG3eX4BkQdWNb0v8rM), [Yakenohara](https://open.spotify.com/artist/77VqmU59LUqBzpjBCvKN8K) | [Happy Birthday](https://open.spotify.com/album/6TyNIWMUQhOu1WgKk8FOWb) | 4:05 |
 | 10 | [Homeostasis](https://open.spotify.com/track/2kKIMB70iOWhK3HdbmWwhD) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Homeostasis](https://open.spotify.com/album/3m1jxj5SjSkiMuyIcEJdYK) | 2:31 |
-| 11 | [Track 1](https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Low Tide](https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc) | 0:00 |
+| 11 | [Blue Ocean](https://open.spotify.com/track/1eCI8O2TR8AFaG6nYXKe0I) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Low Tide](https://open.spotify.com/album/4FGYTtArb2kCDwEfmRU8Mc) | 3:36 |
 | 12 | [wagamama](https://open.spotify.com/track/570BVRNLi0Q9Ll4INps1jV) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [荒巻勇仁](https://open.spotify.com/artist/2BW1NoGfCO50tNcfZ9Hzkv) | [wagamama](https://open.spotify.com/album/4bqf7U8G1jr32eeEDNXReF) | 4:11 |
 | 13 | [Nostalgia](https://open.spotify.com/track/0Mt3r3hVbDMkruQp8jHB6p) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Nostalgia](https://open.spotify.com/album/3UftzcIs9GttJOXFDzYOqK) | 3:11 |
 | 14 | [ghost](https://open.spotify.com/track/5WNtFDwIEtERupcwKNtkGf) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [ghost](https://open.spotify.com/album/7aMrWWka6UV78xixmf0wFp) | 4:14 |

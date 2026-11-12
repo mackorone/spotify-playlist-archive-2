@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 115 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 115 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 58 | [Stay Lonely](https://open.spotify.com/track/3c2uUO5bA97qnoVefIvskA) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Stay Lonely](https://open.spotify.com/album/126IXdtcJZMzpSkgTSOhHG) | 3:59 |
 | 59 | [Not Even In My Dreams](https://open.spotify.com/track/1OuKgNivjwydNPLxH03EyH) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/5oWHTt8yF3GuZyQbE2mbTp) | 3:05 |
 | 60 | [Smallest Things](https://open.spotify.com/track/5ZAdUjWPENfa1XRJXzKS9g) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Smallest Things](https://open.spotify.com/album/1uk0NHgmutub8rjl09gIcT) | 2:48 |
-| 61 | [I Can Change Him](https://open.spotify.com/track/1YFuNxZebaNgNSYK5LpgeC) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 3:37 |
+| 61 | [I Can Change Him](https://open.spotify.com/track/3JOpwVy1PrV07FUtApoN7y) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:37 |
 | 62 | [Mixed Signals](https://open.spotify.com/track/3h71g6qyyJRoyHOzXNSIYe) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Wide\-Eyed](https://open.spotify.com/album/6GnQAEXPs7bGDJCeshofZY) | 3:37 |
 | 63 | [Nothing But Love](https://open.spotify.com/track/03Cpo8eXUd12k8TXDAtExs) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Nothing But Love](https://open.spotify.com/album/5CZ7DmZ5Wjpat1kI11RcLK) | 2:23 |
 | 64 | [Somebody Cooked Here](https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Somebody Cooked Here](https://open.spotify.com/album/4gUqrMCs7AZOzDVS2jENpk) | 2:59 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 114 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 115 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 
-Snapshot ID: `AchVNgAAAADtrYYBKO2bkjIvKEwP8mns`
+Snapshot ID: `AchbEgAAAABBw9X5a/3KpnUDC0bTVpYY`

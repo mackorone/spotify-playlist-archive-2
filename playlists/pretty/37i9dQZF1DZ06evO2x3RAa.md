@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591 likes - 42 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 42 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 | 41 | [We're In Love](https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Gospel Of Ozziddi](https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv) | 7:43 |
 | 42 | [Olu Ebube \(Ibo Language\)](https://open.spotify.com/track/13rgDlBHtMTI3dBPvrb0C9) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Mother & Child](https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ) | 7:58 |
 
-Snapshot ID: `au+7gAAAAACCM6JUS08fK4fvzzMkTx6G`
+Snapshot ID: `avENAAAAAABg/WFZhxVRMHokltNcYRwK`

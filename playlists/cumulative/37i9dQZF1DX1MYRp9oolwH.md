@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Alias Rukmini
 
-495 songs - 1 day 7 hr 49 min
+496 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5) | 3:44 | 2023-04-17 | 2024-04-11 |
 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 | 2022-11-09 | 2023-06-20 |
 | [Kalalokooda \- From "Mana Iddari Premakatha"](https://open.spotify.com/track/0h7cS91xtRaaRzd43nvxt4) | [Maaruthi](https://open.spotify.com/artist/4jFRwFXYT4HqtsshJZ8ERY), [Subhash Siripelly](https://open.spotify.com/artist/790UazcRswvzJwHnJSBn78), [Riyan](https://open.spotify.com/artist/4eVstfBeT3tvBTeuCIFVrT) | [Kalalokooda \(From "Mana Iddari Premakatha"\)](https://open.spotify.com/album/0Rkcscpp4vtbaYVAkVW6BC) | 4:42 | 2025-03-18 | 2025-09-11 |
+| [Kalane Pilichi](https://open.spotify.com/track/4evIkpJGnmUtKFKXQJQzT2) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sindhuja Tanuku](https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr), [Rakendu Mouli](https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8) | [Scene \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1SV9brjeNCqQudljTQVBFS) | 3:51 | 2026-11-11 |  |
 | [Kalaya Nijama](https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ) | [Mohith Rahmanic](https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Calling Sahasra](https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je) | 3:40 | 2023-06-09 | 2024-07-15 |
 | [Kalisayi Ningi Nela \(From "Ala Chere Sita Raamuni Chentaku"\)](https://open.spotify.com/track/5HEpRizEw4O9hJUuiVztnr) | [Murali Appadath](https://open.spotify.com/artist/5F2oIetGWR5NcDVPo3Zas4), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Imran Sastry](https://open.spotify.com/artist/6cLrg2H8IcnPLSw91xZaj8) | [Kalisayi Ningi Nela \(From "Ala Chere Sita Raamuni Chentaku"\)](https://open.spotify.com/album/6wq96Ip5f4u73bmMMqU3CT) | 3:40 | 2025-01-31 | 2025-03-22 |
 | [Kalisunte](https://open.spotify.com/track/4DHBiVL29RhEhRObEsH8Yl) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1P9HsznpbvQ9z4Kbo5lq6w) | 3:15 | 2022-10-23 | 2023-04-25 |

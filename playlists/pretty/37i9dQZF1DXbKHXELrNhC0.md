@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 
 > This is Céline Dion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,335 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,330 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 | 40 | [Loved Me Back to Life](https://open.spotify.com/track/1YUOlePfiz9kxJRuwECzjn) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Loved Me Back to Life](https://open.spotify.com/album/0rsJSdnc89hsmJkCV24YQK) | 3:50 |
 | 41 | [How Does A Moment Last Forever](https://open.spotify.com/track/0CJvw1j88DGbvDhqmjJgc8) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 3:37 |
 | 42 | [Alone](https://open.spotify.com/track/7fqgrmaaSmFPZdi1Yh1UKx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Taking Chances \(Deluxe Edition\)](https://open.spotify.com/album/72NDXSgBvjja4NQSpxONAh) | 3:23 |
-| 43 | [The Reason](https://open.spotify.com/track/4CiIB7eCQ7IVmrCFqvi7f9) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 5:00 |
-| 44 | [If You Asked Me To](https://open.spotify.com/track/6vubJBI43jIr557lvNbzlH) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:54 |
+| 43 | [If You Asked Me To](https://open.spotify.com/track/6vubJBI43jIr557lvNbzlH) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:54 |
+| 44 | [The Reason](https://open.spotify.com/track/4CiIB7eCQ7IVmrCFqvi7f9) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 5:00 |
 | 45 | [D'amour ou d'amitié](https://open.spotify.com/track/1wPxv9P0rfJ3ZwwxmLcLjb) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5CYySBXyzQRRls33R3nPxa) | 3:58 |
 | 46 | [If That's What It Takes](https://open.spotify.com/track/0VZpmCCcRhT3DC7T03Z2zX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:12 |
 | 47 | [Je sais pas](https://open.spotify.com/track/1NwJn3oKyyaEITEEfDek0N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'eux](https://open.spotify.com/album/4BBhjKBUJZxBGsmTCH4BHM) | 4:33 |

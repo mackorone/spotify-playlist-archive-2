@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 177576,
       "name": "ACH DANI",
       "url": "https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel"
@@ -5383,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "BACKGROUND",
+        "url": "https://open.spotify.com/album/0TBYO9wCZ9bORB9srxxaBt"
+      },
+      "artists": [
+        {
+          "name": "21 Tach",
+          "url": "https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "L7OB W DAMAR",
+      "url": "https://open.spotify.com/track/3hiS98n1CFfjo1xXmVIBJk"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/0g1YqG7Hn9RmZ96Q3GGOpq"
       },
@@ -7272,7 +7290,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 139862,
       "name": "Niba",
       "url": "https://open.spotify.com/track/48SfLMXH6w293nnDnUbb0m"
@@ -9778,6 +9796,24 @@
       "duration_ms": 176000,
       "name": "Taline",
       "url": "https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB"
+    },
+    {
+      "album": {
+        "name": "Tamam",
+        "url": "https://open.spotify.com/album/43zuBeEtrlWLvuFZHQNyg0"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177634,
+      "name": "Tamam",
+      "url": "https://open.spotify.com/track/7i7htxgQ0Pzz44nElJUS6U"
     },
     {
       "album": {

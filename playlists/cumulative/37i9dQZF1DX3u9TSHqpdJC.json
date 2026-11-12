@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: frau. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Magdalene. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -12502,7 +12502,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 213333,
       "name": "CANDYNECKLACE",
       "url": "https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844"
@@ -15138,7 +15138,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 139690,
       "name": "complicated",
       "url": "https://open.spotify.com/track/5ywG0YZhCKpQ6JVDoVw8hY"
@@ -24106,7 +24106,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 141257,
       "name": "famous",
       "url": "https://open.spotify.com/track/7IdpYmDzsFLh5n0tuYrurN"
@@ -31546,7 +31546,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 204827,
       "name": "Heartblush",
       "url": "https://open.spotify.com/track/0AGcI0jKRUFTlVF0dpffsk"
@@ -47392,10 +47392,28 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 155133,
       "name": "Magazines",
       "url": "https://open.spotify.com/track/0AZxU5r0k0LR606KrvSa4m"
+    },
+    {
+      "album": {
+        "name": "American Heroine",
+        "url": "https://open.spotify.com/album/4x9bMp8KgfQURQ7eG5hnzr"
+      },
+      "artists": [
+        {
+          "name": "Magdalene",
+          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134430,
+      "name": "MAGDALENE",
+      "url": "https://open.spotify.com/track/6a15Ks2J4xCqtyhSJ2gIxK"
     },
     {
       "album": {
@@ -49426,6 +49444,24 @@
       "duration_ms": 211800,
       "name": "MINE",
       "url": "https://open.spotify.com/track/34GMKz1p4niXENnCDX8NHk"
+    },
+    {
+      "album": {
+        "name": "Mine! Mine! Mine!",
+        "url": "https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185991,
+      "name": "Mine! Mine! Mine!",
+      "url": "https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0"
     },
     {
       "album": {
@@ -57457,6 +57493,24 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229148,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
+    },
+    {
+      "album": {
         "name": "Perfect Guy",
         "url": "https://open.spotify.com/album/3NCJ8XlsTjzgZPskC7TBbM"
       },
@@ -58604,6 +58658,24 @@
       "duration_ms": 210091,
       "name": "Please Just Wait",
       "url": "https://open.spotify.com/track/359QrJsYGzTGY7cJRw65HA"
+    },
+    {
+      "album": {
+        "name": "What Happens When You Fall In Love In Stepford?",
+        "url": "https://open.spotify.com/album/7Gw01S61yFbU0ZraphoH6n"
+      },
+      "artists": [
+        {
+          "name": "ARI LEE",
+          "url": "https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209115,
+      "name": "Please, Maybe",
+      "url": "https://open.spotify.com/track/6Ipixw6iQzmX7LKZSAJc4U"
     },
     {
       "album": {
@@ -60582,6 +60654,24 @@
       "duration_ms": 207136,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/5lHSeM4mRiQHloub1pFjZo"
+    },
+    {
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/5dL1z6edU8h5Rvz4U3wxkS"
+      },
+      "artists": [
+        {
+          "name": "West Gura",
+          "url": "https://open.spotify.com/artist/2TOCJEnGdD4AkavOoxmZ2W"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185205,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/0iD0OGxoAOacG1Qb8YTOAT"
     },
     {
       "album": {
@@ -69774,6 +69864,24 @@
       "duration_ms": 133000,
       "name": "STILL FEEL LIKE",
       "url": "https://open.spotify.com/track/6ZgHW7rT6opApzEWf645VW"
+    },
+    {
+      "album": {
+        "name": "still love",
+        "url": "https://open.spotify.com/album/67GdpCJGc9oR14jHAbTdd9"
+      },
+      "artists": [
+        {
+          "name": "YiiiNKA",
+          "url": "https://open.spotify.com/artist/1RtPlRQt00Wh0AXsaLFgZ2"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "still love",
+      "url": "https://open.spotify.com/track/0nDlNp62aSOxg468sLnBUs"
     },
     {
       "album": {
@@ -84670,7 +84778,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 212055,
       "name": "You Are Never Gone From Me",
       "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"

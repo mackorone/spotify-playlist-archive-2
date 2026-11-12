@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,333 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,332 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [Missin' Slim](https://open.spotify.com/track/2QD0oudzMWHvHiIW9mCKh5) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Missin' Slim](https://open.spotify.com/album/1g34UBpOqfpUPNNWRz9Dna) | 3:53 |
 | 50 | [She Gave Us the Song](https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL) | [We're Still Here](https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU) | 3:20 |
 
-Snapshot ID: `au+7gAAAAAC6yGOU48zsCaQ11jyRzZ8a`
+Snapshot ID: `avENAAAAAACCxJSgy1hQ0mcDzCna8+r0`

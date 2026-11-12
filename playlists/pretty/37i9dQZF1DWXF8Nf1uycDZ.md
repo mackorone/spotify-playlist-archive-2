@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: the greatest voices, celebrating Amy Winehouse ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,435 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,354 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 | 49 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
 | 50 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/73zP8U5ApkFoBwAiqpSBIy) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole](https://open.spotify.com/album/1xyO6rgO44G5BYpljc11l4) | 3:51 |
 
-Snapshot ID: `AAAAAKZo5jex2MignPNKknrz7kF1tQd0`
+Snapshot ID: `AAAAAMv6vJndW6FBRYnfOQdpgdbybIIN`

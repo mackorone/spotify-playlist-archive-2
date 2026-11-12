@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,495 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,496 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 49 | [Darbari Bridge](https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 11:42 |
 | 50 | [Miracle Steps](https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 4:21 |
 
-Snapshot ID: `au+7gAAAAACG1mixNuFgEqxiu+YId/C1`
+Snapshot ID: `avENAAAAAACkjo3WyArCoxI9AudrQwGF`

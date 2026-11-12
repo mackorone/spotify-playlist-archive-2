@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 94165,
+  "num_followers": 94180,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "El Secreto de Tu Vida",
-      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Andando",
         "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 184346,
       "name": "Para Los Ojos M\u00e1s Bellos",
       "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "El Secreto de Tu Vida",
+      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
+        "name": "T\u00fa S\u00ed Sabes Quererme",
+        "url": "https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW"
+      },
+      "artists": [
+        {
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "T\u00fa S\u00ed Sabes Quererme",
+      "url": "https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
         "name": "La Flor",
         "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 259566,
       "name": "Olvida Que Te He Amado",
       "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
-        "name": "T\u00fa S\u00ed Sabes Quererme",
-        "url": "https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW"
-      },
-      "artists": [
-        {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "T\u00fa S\u00ed Sabes Quererme",
-      "url": "https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "La Historia Vol 3",
-        "url": "https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 216764,
-      "name": "La L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/7Lxx3XWGPNDnsfbw8dXXqf"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 217020,
       "name": "Cerca del Sol",
       "url": "https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "La Historia Vol 3",
+        "url": "https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq"
+      },
+      "artists": [
+        {
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+        }
+      ],
+      "duration_ms": 216764,
+      "name": "La L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/7Lxx3XWGPNDnsfbw8dXXqf"
     },
     {
       "added_at": "2026-11-05 21:32:02",

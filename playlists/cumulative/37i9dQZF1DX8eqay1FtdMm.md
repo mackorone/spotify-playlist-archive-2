@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kim Feel\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: D.O.\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-676 songs - 1 day 20 hr 1 min
+678 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [cry a lot](https://open.spotify.com/track/2hZ2RcltIgme5PO8eJ6pWj) | [Ha Jun Seok](https://open.spotify.com/artist/12RmWQ26FATAkL0Dzua0QB) | [cry a lot](https://open.spotify.com/album/4R1uG9fvia8PYjndO4BNH7) | 3:23 | 2024-02-15 | 2024-03-09 |
 | [Daehan Is Alive: Rewritten](https://open.spotify.com/track/65moWQURj0CjPbu0kECpzR) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa), [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Daehan Is Alive: Rewritten](https://open.spotify.com/album/2cMnLoQZ0uix1E9m34EuuH) | 3:18 | 2026-03-03 | 2026-05-01 |
 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 | 2024-02-27 |  |
+| [Darling](https://open.spotify.com/track/57s8MbRMoOsGl5WPdBw7k5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Darling](https://open.spotify.com/album/0YC7qhuvIai8TbYOn3xFCa) | 4:08 | 2026-11-11 |  |
 | [Day by Day](https://open.spotify.com/track/4nndQ97Nm2HZAIVvrMSjpu) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Yoon Mi Rae \(T\) the First Album \(As Time Goes By\)](https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0) | 4:17 | 2023-12-01 | 2023-12-14 |
 | [Days Gone](https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Days Gone](https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7) | 3:42 | 2026-11-03 |  |
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2021-12-20 |  |
@@ -311,7 +312,7 @@
 | [LIE LIE LIE](https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [LIE LIE LIE](https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE) | 3:34 | 2026-02-11 | 2026-06-04 |
 | [Lie to me](https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Unlock My Boss, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9) | 3:22 | 2022-12-27 | 2023-06-01 |
 | [Life is a Drama](https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Life is a Drama Prelude3](https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D) | 3:38 | 2026-01-15 | 2026-03-17 |
-| [Life Is Life](https://open.spotify.com/track/4SwbuL0i9XorhDoS0uP5s0) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [JOURNEY](https://open.spotify.com/album/5FXBk0VWk4OduYHMMbBn8E) | 4:08 | 2026-11-03 |  |
+| [Life Is Life](https://open.spotify.com/track/4SwbuL0i9XorhDoS0uP5s0) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [JOURNEY](https://open.spotify.com/album/5FXBk0VWk4OduYHMMbBn8E) | 4:08 | 2026-11-03 | 2026-11-12 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2022-09-07 |
 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 | 2022-04-01 | 2022-07-29 |
 | [Like The Winter That Loved Spring](https://open.spotify.com/track/6tIcrtTCwfaFTojXWNGh0e) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Men Are Men \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/5FxDU6d9QK7gU2bGkFSRm6) | 4:06 | 2022-03-24 | 2022-05-04 |
@@ -410,6 +411,7 @@
 | [Nothing Between Us](https://open.spotify.com/track/7KbMO2Hk5u34XkLJzenQ0P) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Nothing Between Us](https://open.spotify.com/album/3hbUZ75XswpL7LjJ5iyUWX) | 3:17 | 2021-12-20 | 2022-07-26 |
 | [NUN MUL I JU RUG JU RUG](https://open.spotify.com/track/4LHTwx71a9xf7hIrsVp11n) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [\[Vol.21\] You Hee yul's Sketchbook 10th Anniversary Project : 9th Voice 'Sketchbook X Kim MinSeok'](https://open.spotify.com/album/2EaeCysFyddUWKt57blFzU) | 4:15 | 2022-03-29 | 2022-07-29 |
 | [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 | 2021-12-20 | 2026-01-28 |
+| [ODYSSEY](https://open.spotify.com/track/6y162UkGEHNRRAyWMQpPt0) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [ODYSSEY](https://open.spotify.com/album/2DaM9U63TsKcDiC8BecI9a) | 3:48 | 2026-11-11 |  |
 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 | 2024-04-15 |  |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-19 | 2024-04-24 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2021-12-20 | 2022-07-28 |
@@ -440,7 +442,7 @@
 | [Parrot](https://open.spotify.com/track/443u0pdNj2Jqb4OMKkdXlc) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Parrot](https://open.spotify.com/album/2bfVsf22jGTekWukB9fh9p) | 4:56 | 2026-02-03 | 2026-05-01 |
 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-02-27 | 2025-04-03 |
 | [Pedazos](https://open.spotify.com/track/7fS4aqE7l4YljkkIEFjAWb) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Where We Are \- The 2nd Album](https://open.spotify.com/album/3RCHqfl9LOuLnoSJzsSc7f) | 3:51 | 2026-10-06 |  |
-| [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 |  |
+| [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 | 2026-11-12 |
 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-03-15 |
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2023-12-20 | 2024-01-02 |
 | [Poem for you](https://open.spotify.com/track/7FTA2rnH392cty5UFNS8gg) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Old story](https://open.spotify.com/album/17n1MjwV3qBfhgjeixlUHE) | 3:39 | 2021-12-27 | 2022-07-29 |

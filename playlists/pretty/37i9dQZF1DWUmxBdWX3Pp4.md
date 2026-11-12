@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  LAJA y Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,732 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,720 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 81 | [1%](https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [1%](https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln) | 3:44 |
 | 82 | [Alaska](https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Alaska](https://open.spotify.com/album/3MvcDpkQUcYIQJx35P1l12) | 3:26 |
 | 83 | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/6SkbzQSYMJzrmmDBEvbh0S) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [KARBeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:33 |
-| 84 | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ) | 3:22 |
+| 84 | [Pico Y Chao \- W Sound 08](https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ) | 3:22 |
 | 85 | [Kileros](https://open.spotify.com/track/1wigcF8smPqZxhZ2nvanjd) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Kileros](https://open.spotify.com/album/0Wbq8ySv9eu4uKCvpIRNhL) | 2:53 |
 | 86 | [Humilde no Pendejo](https://open.spotify.com/track/7LEqGHifYLUZqsyaUIzOgY) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [HUMILDE](https://open.spotify.com/album/4GZM3e9LMpGJr6rZtOEMDZ) | 3:37 |
 | 87 | [BREEZY](https://open.spotify.com/track/6BVsBobW3WmhS0GFC4KpOU) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [BREEZY](https://open.spotify.com/album/4s3X1rHFHIlqGNONx7ANHo) | 3:14 |

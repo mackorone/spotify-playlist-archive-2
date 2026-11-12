@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 90's! Cover: No Doubt",
-  "num_followers": 89738,
+  "num_followers": 89743,
   "original_name": "90's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
+        "name": "Stars Collectors Edition",
+        "url": "https://open.spotify.com/album/1zvH8LHk0DxYj9Dr1c4igA"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Something Got Me Started",
+      "url": "https://open.spotify.com/track/13ujo68nFbY4f1M3BrsI7L"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/1GQCluFc8ODQis5kvcDVKF"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 276866,
       "name": "Tears In Heaven",
       "url": "https://open.spotify.com/track/2lJOKQmXQ5yiRyCTE5FyDE"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
-        "name": "Lief",
-        "url": "https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP"
-      },
-      "artists": [
-        {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "'k Heb Je Lief",
-      "url": "https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3"
     }
   ],
   "unique_name": "90's Allerbeste",

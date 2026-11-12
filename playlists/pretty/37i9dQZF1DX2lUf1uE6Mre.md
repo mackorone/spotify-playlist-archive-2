@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Shirin David, Summer Cem
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,019 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,992 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 65 | [My Love](https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte) | [Kuto](https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR) | [My Love](https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ) | 2:08 |
 | 66 | [ONLY ONE](https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [ONLY ONE](https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9) | 3:11 |
 | 67 | [GTS](https://open.spotify.com/track/3VKn4mxdxaQNm5Hc5h20BW) | [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [GTS](https://open.spotify.com/album/41BMJrVVmLUwZ3uAtUv27D) | 1:59 |
-| 68 | [BRITNEY SPEARS](https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [BRITNEY SPEARS](https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1) | 2:49 |
-| 69 | [AKRAPOVIC](https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [AKRAPOVIC](https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI) | 2:19 |
+| 68 | [AKRAPOVIC](https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [AKRAPOVIC](https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI) | 2:19 |
+| 69 | [BRITNEY SPEARS](https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [BRITNEY SPEARS](https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1) | 2:49 |
 | 70 | [EL FENOMENO](https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [EL FENOMENO](https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp) | 1:53 |
 | 71 | [Bend Over 2](https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Bend Over 2](https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA) | 2:11 |
 | 72 | [Highlight](https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Jamin](https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9) | [Highlight](https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS) | 3:04 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 78 | [Art Attack](https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Art Attack](https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi) | 2:46 |
 | 79 | [ME GUSTA](https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [ME GUSTA](https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC) | 2:38 |
 | 80 | [so einfach](https://open.spotify.com/track/251CNLucRbRn7EjAYuXCgd) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [so einfach](https://open.spotify.com/album/79YJNmJTtvOclU8oCkTg7M) | 2:07 |
-| 81 | [Red Bull Weiss](https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Red Bull Weiss](https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme) | 1:50 |
-| 82 | [Luftkuss](https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Luftkuss](https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO) | 1:53 |
-| 83 | [Kein Limit](https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Kein Limit](https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O) | 2:01 |
-| 84 | [Day N Nite](https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Day N Nite](https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e) | 2:23 |
+| 81 | [Luftkuss](https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Luftkuss](https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO) | 1:53 |
+| 82 | [Red Bull Weiss](https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Red Bull Weiss](https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme) | 1:50 |
+| 83 | [Day N Nite](https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Day N Nite](https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e) | 2:23 |
+| 84 | [Kein Limit](https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Kein Limit](https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O) | 2:01 |
 | 85 | [Deja Vu](https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD) | [Lyno Nine8](https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh) | [Flightmode](https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7) | 2:10 |
 | 86 | [REDE](https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [REDE](https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU) | 1:58 |
 | 87 | [TURN ME UP](https://open.spotify.com/track/3r8VSI9LDM04rYpx45dYvz) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [TURN ME UP](https://open.spotify.com/album/5MqYUz0wVNfzrfHdinE3bo) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,690 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,702 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 45 | [Kehnde Kahaunde](https://open.spotify.com/track/5IJxi90YOM3suyzVXH2ywL) | [Surjit Khan](https://open.spotify.com/artist/2NCZYytsjPe7RsYwCblxyl) | [Kehnde Kahaunde](https://open.spotify.com/album/0hRhdn8zZNk9VtwBFeIQFi) | 2:30 |
 | 46 | [Marji Nal](https://open.spotify.com/track/4OOqDEp5ilJ7eq612SZ7Lk) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B), [Arsh Sidhu](https://open.spotify.com/artist/67DISm7g3qiY70KENtwL6G) | [Hostel](https://open.spotify.com/album/7KSbKQ1gsadsdqEJyzg4S0) | 2:15 |
 | 47 | [Chandigarh Returns](https://open.spotify.com/track/1YtCsXITbeFUa8x0fLDZWx) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Chandigarh Returns](https://open.spotify.com/album/4OWvJ8TGXHfZpwf5ijtYlD) | 3:37 |
-| 48 | [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 |
-| 49 | [Redbone](https://open.spotify.com/track/0CQeqWJO1OSand5O3LGWA3) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
+| 48 | [Redbone](https://open.spotify.com/track/0CQeqWJO1OSand5O3LGWA3) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
+| 49 | [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 |
 | 50 | [Stubborn](https://open.spotify.com/track/0UXQN4UL4LW1IeMczufzsF) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Pagga](https://open.spotify.com/artist/4tGqWmZl3fRvb0QMCb0yxg), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [ROMEO](https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV) | 2:17 |
 
 Snapshot ID: `AAAAAK1E6zrq4qq4U1CdmmlzmrJIiPel`

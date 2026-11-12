@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> petra on the cover :\)
+> Fly 1111 out now 🕊️
 
-963 songs - 2 day 10 hr 17 min
+968 songs - 2 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,11 +30,13 @@
 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 | 2025-05-30 | 2025-07-19 |
 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 | 2025-09-12 | 2026-02-21 |
 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 | 2025-10-31 | 2026-03-07 |
+| [All Being Well](https://open.spotify.com/track/3gp3H5DIkSbnBGIM0B57mJ) | [Rail Replacement Bus Service](https://open.spotify.com/artist/4ZXkyvifdU23wreGyKApl5) | [All Being Well](https://open.spotify.com/album/4rCAq5Z2CgdZaARxFMy4Nm) | 3:13 | 2026-11-11 |  |
 | [all I know](https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [all I know](https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa) | 3:14 | 2024-10-18 | 2025-03-13 |
 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 | 2023-10-06 | 2024-04-13 |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2023-10-06 | 2023-10-21 |
 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 | 2025-07-18 | 2025-08-09 |
 | [All Them Horses](https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:13 | 2026-04-24 |  |
+| [All These Dreams](https://open.spotify.com/track/1g0Rrc2FjsyhEDGQIKO0Va) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 4:07 | 2026-11-11 |  |
 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-10-06 | 2024-03-13 |
 | [Already \(On My Mind\)](https://open.spotify.com/track/4cyBtKUXd8wWVqgus5k0Mb) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Already \(On My Mind\)](https://open.spotify.com/album/3ovRHqssF6llmo4CXg4ZRW) | 2:52 | 2024-07-12 | 2025-03-13 |
 | [Already Low](https://open.spotify.com/track/4ZiuC55hl9Jg4sCVhm8oFi) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Back to Pennsylvania](https://open.spotify.com/album/5knLtpvnr1rjcL7u7dbjzy) | 2:46 | 2026-10-16 |  |
@@ -65,6 +67,7 @@
 | [Back to the Wind](https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:20 | 2025-09-12 | 2026-02-21 |
 | [Bad For You](https://open.spotify.com/track/1HKIZmwT7wQxXXkW1SfbiJ) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Bad For You](https://open.spotify.com/album/50SwXvGwUPVrPgykChTUZU) | 3:49 | 2025-08-18 | 2026-02-07 |
 | [baja bird](https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [baja bird](https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4) | 3:48 | 2025-05-02 | 2025-12-13 |
+| [Barely Holding On](https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Barely Holding On](https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh) | 3:30 | 2026-11-11 |  |
 | [Be](https://open.spotify.com/track/0puGl6gLKNvG7Ze4X7Hliq) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Be](https://open.spotify.com/album/7HUojHE25L3aSp0TaqqBXS) | 1:51 | 2023-12-15 | 2024-02-10 |
 | [Be Gentle With Me](https://open.spotify.com/track/4kvxVBDtSLM9xKvde5lpO8) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 2:34 | 2025-11-14 | 2026-04-11 |
 | [Beadie](https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [Beadie](https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy) | 4:00 | 2026-01-30 | 2026-07-25 |
@@ -193,6 +196,7 @@
 | [Deer Trails](https://open.spotify.com/track/3RxaSwZCpxIGPkYFDRGavH) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Deer Trails](https://open.spotify.com/album/0po2XDf905nK8SJ4IbxF0e) | 3:12 | 2024-04-05 | 2025-01-18 |
 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 | 2026-04-03 | 2026-07-25 |
 | [Designer](https://open.spotify.com/track/1e6vuiaCZRdDpRGAFG80fp) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Jana Horn](https://open.spotify.com/album/3j3qHKhSkQzRezTYeyZqUr) | 4:03 | 2026-01-16 | 2026-07-18 |
+| [Deus Ex Machina](https://open.spotify.com/track/3KdUDZlNHJaaJfB86J3YDg) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Doom Country](https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG) | 3:59 | 2026-11-11 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-10-06 | 2023-12-02 |
 | [Diamonds](https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Diamonds](https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW) | 4:08 | 2026-04-10 |  |
 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2025-01-03 | 2025-05-31 |
@@ -231,7 +235,7 @@
 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-08 | 2025-09-06 |
 | [dust to dust](https://open.spotify.com/track/4R8sxtsSWWGm0DZw6CHtCt) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Rivers of Sugar and Blood](https://open.spotify.com/album/13erMRMbkhT3hUvDB4VZXy) | 3:51 | 2026-01-23 | 2026-04-18 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-24 | 2025-08-09 |
-| [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 | 2026-08-28 |  |
+| [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 | 2026-08-28 | 2026-11-12 |
 | [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-10-06 | 2024-04-13 |
 | [Either Way](https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Either Way](https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly) | 4:12 | 2024-03-22 | 2024-10-12 |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-05-30 | 2026-01-24 |
@@ -358,7 +362,7 @@
 | [Hells On The Loose](https://open.spotify.com/track/77PIWpIfC7ZKD0Kz3aJSMZ) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Hells On The Loose](https://open.spotify.com/album/6VVe6qPxOEoHmYdJjNdIfJ) | 4:29 | 2024-05-10 | 2025-02-08 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-11 | 2025-09-27 |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-09 | 2025-05-10 |
-| [Hey Big Dipper](https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Hey Big Dipper](https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe) | 3:06 | 2026-08-21 |  |
+| [Hey Big Dipper](https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Hey Big Dipper](https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe) | 3:06 | 2026-08-21 | 2026-11-12 |
 | [Hey Mama](https://open.spotify.com/track/1UjdWK2qSXojLOsDaYOhqS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Hey Mama](https://open.spotify.com/album/47w1YxYuoIGR2yPJyLEsZI) | 3:56 | 2025-09-19 | 2026-02-21 |
 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-08 | 2025-02-08 |
 | [Hikikomori](https://open.spotify.com/track/2MnwEZniGPiDXSeMQYqvJM) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [JVC](https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry) | 3:29 | 2025-05-09 | 2025-09-13 |
@@ -656,6 +660,7 @@
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-10-06 | 2023-12-09 |
 | [Prettiest Girl in the World](https://open.spotify.com/track/3btySdKZS9xbwMRaGQ3MlA) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Butterfly Wing in a Silver Locket](https://open.spotify.com/album/4vPDSxUamnIzgNxfDsg5QX) | 4:02 | 2026-08-07 |  |
 | [pretty out](https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1) | [frans asthma](https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL), [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [pretty out](https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG) | 3:04 | 2024-10-18 | 2025-05-14 |
+| [Private Power](https://open.spotify.com/track/6ZCXoaFvPtLoufP2tDJu5N) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:44 | 2026-11-11 |  |
 | [Proof](https://open.spotify.com/track/1a1YmkR6iJeTXUS4hx1kmJ) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [It Was My First Time](https://open.spotify.com/album/6EhUzjYXlfFVT3lPXrosPy) | 3:01 | 2026-10-16 |  |
 | [Punch!](https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg) | [Sophia Bacino](https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK) | [Punch!](https://open.spotify.com/album/7epVLBNXiDexRm6zQtoSgn) | 3:03 | 2026-07-31 |  |
 | [Pup](https://open.spotify.com/track/7vxSL2veuTRQBhslhM7ENS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Pup](https://open.spotify.com/album/5aTyRZw08z72j3xy0bEJfz) | 4:17 | 2023-11-10 | 2023-12-16 |

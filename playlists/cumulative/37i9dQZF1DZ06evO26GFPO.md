@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 5 min
+121 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:20 | 2024-05-14 | 2024-10-28 |
 | [Me Espera \- Ao Vivo](https://open.spotify.com/track/2v9uX8MdVInhpItltNILMD) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 3:23 | 2023-10-10 |  |
 | [Meu Defeito](https://open.spotify.com/track/6bIfEba9GxPRhIdRmFz8zv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 3:16 | 2025-11-30 | 2026-04-12 |
-| [Meu Plano \- Ao Vivo](https://open.spotify.com/track/1DpkhxZbO251cYItLJLevv) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Sorriso Eu Gosto No Pagode \- Lado B \(Ao Vivo\)](https://open.spotify.com/album/1lg7QOQAGyOQO0Fua7Izgv) | 3:26 | 2026-08-03 |  |
+| [Meu Plano \- Ao Vivo](https://open.spotify.com/track/1DpkhxZbO251cYItLJLevv) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Sorriso Eu Gosto No Pagode \- Lado B \(Ao Vivo\)](https://open.spotify.com/album/1lg7QOQAGyOQO0Fua7Izgv) | 3:26 | 2026-08-03 | 2026-11-12 |
+| [Meu Plano \- Ao Vivo](https://open.spotify.com/track/6vpSFcL1L7rEGsrGOOhkA9) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Sorriso Eu Gosto No Pagode \- Lado B \(Ao Vivo\)](https://open.spotify.com/album/54RttVJOjVBXLcfd45boul) | 3:26 | 2026-11-12 |  |
 | [Mostra Tua Força, Brasil](https://open.spotify.com/track/1Z2CgJ3mxCRXnT4jacGxFf) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ) | [Mostra Tua Força, Brasil](https://open.spotify.com/album/4ck4gcRP7KnA1cRZOqxDkV) | 1:59 | 2026-06-27 | 2026-07-13 |
 | [Moça](https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Moça](https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z) | 2:14 | 2026-07-24 | 2026-10-03 |
 | [Ninguém Merece Amar Sozinho](https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ninguém Merece Amar Sozinho](https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0) | 3:47 | 2023-10-10 |  |

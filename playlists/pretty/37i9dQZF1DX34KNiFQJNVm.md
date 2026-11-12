@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  Lauana Prado, Felipe e Rodrigo, Britney Spears, Lil Baby, WIU e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,319,386 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319,152 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

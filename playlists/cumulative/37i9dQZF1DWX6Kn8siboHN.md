@@ -2,9 +2,9 @@
 
 ### [Clásicas Norteñas](https://open.spotify.com/playlist/37i9dQZF1DWX6Kn8siboHN)
 
-> ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
+> ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Los Cachorros de Juan Villarreal en portada.
 
-360 songs - 18 hr 36 min
+362 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [La Ley Del Desprecio](https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Solamente Tú](https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej) | 3:06 | 2022-03-17 |  |
 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 | 2026-03-10 |  |
 | [La Novia Del Pajarillo](https://open.spotify.com/track/03S0tX8ZsKI2vAoWfU4x4Y) | [Los Marineros del Norte](https://open.spotify.com/artist/2meziLJDOGbviBEKWRHXwt) | [Una Noche Me Embriague y Muchos Exitos Mas](https://open.spotify.com/album/6WvT8Q7vYy8zVVA2IACjjy) | 2:53 | 2026-03-10 |  |
+| [La Pajarera](https://open.spotify.com/track/2P2KxPQ7cPc08RlNRRvfPv) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Viejo Amor](https://open.spotify.com/album/77ZW10v1TqyzscNCtw1TPY) | 3:01 | 2026-11-11 |  |
 | [La Pasadita](https://open.spotify.com/track/1Bbrlqr2RMNQBgcBMMWAi3) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [20 Exitos](https://open.spotify.com/album/6TTawNx5UtHUUC7lClddgo) | 2:41 | 2023-08-08 |  |
 | [La Pera Madura](https://open.spotify.com/track/3GPFDXIvn9QEgd3l06TskS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 2:25 | 2026-03-10 |  |
 | [La Puerta Negra](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Gracias America Sin Fronteras](https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd) | 3:23 | 2022-03-17 |  |
@@ -231,7 +232,7 @@
 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 | 2024-08-28 | 2026-02-24 |
 | [No te la vas a acabar](https://open.spotify.com/track/1tQQwbtOWYczFcttdMbbum) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [No te la vas acabar](https://open.spotify.com/album/0RNaqLKbUYLqk2GCdSE2HT) | 3:08 | 2026-03-10 |  |
 | [No Te Vayas](https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:26 | 2026-03-10 |  |
-| [Nomas Las Mujeres Quedan](https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 3:08 | 2024-08-28 |  |
+| [Nomas Las Mujeres Quedan](https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 3:08 | 2024-08-28 | 2026-11-12 |
 | [Nomas Las Mujeres Quedan](https://open.spotify.com/track/5HzKotagepRiIhC0af8EqB) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 3:09 | 2026-03-10 |  |
 | [Nomas Por Tu Culpa](https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:40 | 2022-03-17 |  |
 | [Nomas Por Tu Culpa](https://open.spotify.com/track/0GiMQxzKztpQbQlEnKjYag) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Haciendo Historia, 30 Exitos](https://open.spotify.com/album/01bS1YJG9daCXeVDL4YszM) | 3:42 | 2022-03-17 | 2022-07-29 |
@@ -247,7 +248,7 @@
 | [Para Olvidarme De Ti](https://open.spotify.com/track/0XsIp0gnpgz4RkwjBjnu9B) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 2:59 | 2026-03-10 |  |
 | [Para Sobrevivir](https://open.spotify.com/track/4FkFbWsdbadWZOBh049p3L) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Para Sobrevivir](https://open.spotify.com/album/6uaS5wiwBumnHAW3ZlySQB) | 2:51 | 2026-03-10 |  |
 | [Parece Que No](https://open.spotify.com/track/6pg0hTLPDTAbzFFivQd5xe) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Otro Mundo](https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ) | 2:57 | 2026-03-10 |  |
-| [Paso Del Norte](https://open.spotify.com/track/7mqYHEaiHZojkKZRAfDZSX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Viejo Amor](https://open.spotify.com/album/77ZW10v1TqyzscNCtw1TPY) | 2:28 | 2026-03-10 |  |
+| [Paso Del Norte](https://open.spotify.com/track/7mqYHEaiHZojkKZRAfDZSX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Viejo Amor](https://open.spotify.com/album/77ZW10v1TqyzscNCtw1TPY) | 2:28 | 2026-03-10 | 2026-11-12 |
 | [Perdedor](https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Intocable](https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH) | 4:20 | 2026-03-10 |  |
 | [Pero Esta Vez Lloré](https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U) | [Ramon Ayala Jr.](https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI) | [Lágrimas de Amor](https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ) | 3:17 | 2023-12-20 |  |
 | [Pescadores de Ensenada](https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pescadores de Ensenada](https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1) | 2:54 | 2026-03-10 |  |
@@ -259,6 +260,7 @@
 | [Por Quien Me Dejas](https://open.spotify.com/track/2ztJ3PRnEYdQSxOqcEI0oO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 2:56 | 2026-03-10 |  |
 | [Por Qué Nos Dijimos Adiós](https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:23 | 2026-03-10 |  |
 | [Por Supuesto Que Te Amo](https://open.spotify.com/track/7aYaXVzs1ef2zHTcN4XhgX) | [Ramon Ayala Jr.](https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI) | [El Príncipe](https://open.spotify.com/album/1A1g5ACRZH06FIIEkziRUd) | 2:32 | 2023-12-20 |  |
+| [Porque Te Extraño](https://open.spotify.com/track/2At9kdZFhADjYiOwd46ypk) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:25 | 2026-11-11 |  |
 | [Prenda Del Alma](https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 3:16 | 2022-03-17 | 2024-04-19 |
 | [Prenda Del Alma](https://open.spotify.com/track/13tdKcX7limr3d5ydTnGzy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 3:20 | 2022-03-17 | 2022-11-13 |
 | [Prenda Del Alma](https://open.spotify.com/track/2H83T51ahRk16QOyjsLxvx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Alma Enamorada](https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW) | 3:20 | 2022-03-17 |  |

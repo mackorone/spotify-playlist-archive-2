@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,217 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,309 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 91 | [Bando Boyz Free](https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free](https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5) | 2:59 |
 | 92 | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26/66](https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26/66](https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT) | 2:22 |
 | 93 | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La) | 4:04 |
-| 94 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 |
-| 95 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
+| 94 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
+| 95 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 |
 | 96 | [Scarface](https://open.spotify.com/track/0NMfbBpDkMp4WnAOnRFoiw) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Scarface](https://open.spotify.com/album/0zoPlDSldE5qdPaoOzSqvn) | 3:45 |
 | 97 | [Malportau](https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Malportau](https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx) | 3:33 |
 | 98 | [Criminal](https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Criminal](https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG) | 3:40 |

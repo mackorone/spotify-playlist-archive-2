@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,383 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,384 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 49 | [ти люби мене](https://open.spotify.com/track/1AROXubWJmVh4jb3jc7al1) | [LISSA](https://open.spotify.com/artist/4NsuXXDiNfEH9R9u7U8N73) | [ти люби мене](https://open.spotify.com/album/3qOy9pi8wyHxtUhGqDcmAC) | 5:12 |
 | 50 | [Нуга](https://open.spotify.com/track/617i7xjbudKZNRPyUe7ACx) | [Maria Kor](https://open.spotify.com/artist/3z8BX1wOJna6KLoulyRkUe) | [Нуга](https://open.spotify.com/album/0tK8mqYtZf7yHNMM2Ep6Ec) | 3:00 |
 
-Snapshot ID: `AAAAAHYMhcXe5K3bjIVRlwuLVVGGxmmt`
+Snapshot ID: `AAAAAAX7Kal8xXec+bNN8AeQT+HXiI9D`

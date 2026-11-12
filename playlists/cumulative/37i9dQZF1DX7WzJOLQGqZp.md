@@ -2,9 +2,9 @@
 
 ### [Frequency Music Videos](https://open.spotify.com/playlist/37i9dQZF1DX7WzJOLQGqZp)
 
-> 
+> The best music videos in Black music\. Cover: Chxrry
 
-50 songs - 2 hr 35 min
+51 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All That Matters \(with Leon Thomas & AZ Chike\)](https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Love is the New Gangsta](https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd) | 3:43 | 2026-10-23 |  |
 | [Any Time \(feat\. James Fauntleroy\)](https://open.spotify.com/track/6GmUxZzoAdxuZBcVWq2Gpk) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 4:29 | 2026-10-23 |  |
 | [B Polite!](https://open.spotify.com/track/730R1yD8kJXOYDbB2DUvZD) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [B Polite!](https://open.spotify.com/album/2roaU6HEmWyoAIjmz6E11Z) | 2:25 | 2026-10-23 |  |
+| [Big Shot](https://open.spotify.com/track/0Rm5k0QIvsw8MSqWDk8bPe) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Big Shot](https://open.spotify.com/album/6cM26diURexaHrevFy0ArN) | 2:52 | 2026-11-12 |  |
 | [BOMBS](https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOMBS](https://open.spotify.com/album/7tvZ9e94jBOdxHTJC1VAbf) | 1:34 | 2026-10-23 |  |
 | [BRUCKSWEAT](https://open.spotify.com/track/4RgwqFlAfzSiDC71CQrZRF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BRUCKSWEAT](https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj) | 3:08 | 2026-10-23 |  |
 | [Build a Bitch](https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:43 | 2026-10-23 |  |
@@ -57,6 +58,6 @@
 | [Trying Things](https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:11 | 2026-10-23 |  |
 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/5uFVodx5ppCFWjyQXkgCrD) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/album/0ZD6PTKIZvp9cTlI0pjLvm) | 3:06 | 2026-10-23 |  |
 | [Xclusiva](https://open.spotify.com/track/3oRAKVQVqot2N4hy1eskfa) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/4kSLY799mGP7Y14oHaQWWh) | 2:25 | 2026-10-23 |  |
-| [YSF](https://open.spotify.com/track/5DEl6NxLct9s2PyE8Ox9O6) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [YSF](https://open.spotify.com/album/39hhsdqU2byk9NTCmYokvv) | 2:32 | 2026-10-23 |  |
+| [YSF](https://open.spotify.com/track/5DEl6NxLct9s2PyE8Ox9O6) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [YSF](https://open.spotify.com/album/39hhsdqU2byk9NTCmYokvv) | 2:32 | 2026-10-23 | 2026-11-12 |
 
 \*This playlist was first scraped on 2026-10-24. Prior content cannot be recovered.

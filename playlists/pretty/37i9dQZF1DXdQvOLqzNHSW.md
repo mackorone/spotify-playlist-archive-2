@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,281 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,266 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 50 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 |
 | 51 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
 | 52 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
-| 53 | [Dreaming In Slow Motion](https://open.spotify.com/track/0K2Ou0NhEBvc7UoeWf58Cy) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:52 |
-| 54 | [DRIVE](https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [DRIVE](https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M) | 4:15 |
+| 53 | [DRIVE](https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [DRIVE](https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M) | 4:15 |
+| 54 | [Dreaming In Slow Motion](https://open.spotify.com/track/0K2Ou0NhEBvc7UoeWf58Cy) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:52 |
 | 55 | [Cold Paris Vogue](https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Pleasure Is Everything](https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52) | 2:47 |
 | 56 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
 | 57 | [Go Go Chaos](https://open.spotify.com/track/7EW6U2Qiikd51ApDZmllMx) | [Bonjah](https://open.spotify.com/artist/3SGCwaCfLxx2axpPq9J5LC) | [Go Go Chaos](https://open.spotify.com/album/0oAyuLmkpzcLXKTAK2Ne7Y) | 4:04 |
@@ -88,25 +88,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 78 | [No Ties](https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Best Comedown Ever](https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv) | 3:37 |
 | 79 | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6) | 2:40 |
 | 80 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
-| 81 | [By The Lake](https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:57 |
-| 82 | [Sexy](https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE), [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 2:10 |
-| 83 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
-| 84 | [Digital Girl](https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:23 |
+| 81 | [Sexy](https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE), [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 2:10 |
+| 82 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
+| 83 | [Digital Girl](https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:23 |
+| 84 | [By The Lake](https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:57 |
 | 85 | [WOOF](https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:02 |
 | 86 | [Flowers & Honey Interlude](https://open.spotify.com/track/6DsvXic2O817vrPB0btljC) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 1:36 |
 | 87 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
-| 88 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
-| 89 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 |
+| 88 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 |
+| 89 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
 | 90 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
-| 91 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |
-| 92 | [Dream Of You](https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Holy Waters](https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy) | 3:03 |
+| 91 | [Dream Of You](https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Holy Waters](https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy) | 3:03 |
+| 92 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |
 | 93 | [Shadowshow](https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Air Con Eden](https://open.spotify.com/album/486QPfqtxMumr35F75fkHU) | 5:42 |
 | 94 | [Retrograde](https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Retrograde](https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd) | 3:05 |
 | 95 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
-| 96 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 |
-| 97 | [TEENAGE FEVER](https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Cerulean Tapes](https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M) | 4:16 |
+| 96 | [TEENAGE FEVER](https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Cerulean Tapes](https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M) | 4:16 |
+| 97 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 |
 | 98 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 |
 | 99 | [Get Low](https://open.spotify.com/track/6lpUGFAILreoiA83KUpt7T) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [Twilight Zone](https://open.spotify.com/album/0GjQV3glseW1A5baoTqQWH) | 2:22 |
-| 100 | [DD](https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [33](https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7) | 3:20 |
+| 100 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/4weLEH5Wv8cW7eoRrhkVTF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [19 MASTERS](https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN) | 4:54 |
 
 Snapshot ID: `AAAAAIDByNslC9l8iicNo0iQViYzJ7R0`

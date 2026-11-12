@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388363,
+  "num_followers": 388358,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "Welcome to the Mood",
+      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
         "name": "La femme aux yeux de sel",
         "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 232813,
       "name": "Drink the Ocean (feat. Oracle Sisters)",
       "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "Welcome to the Mood",
-      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
     },
     {
       "added_at": "2026-11-05 23:00:20",

@@ -1,13 +1,109 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: frau. Artwork by Paola Saliby",
-  "num_followers": 245541,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Magdalene. Artwork by Paola Saliby",
+  "num_followers": 245569,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPavoSNCseW0nIwov3JPPbXdaSMO",
+  "snapshot_id": "AAAAALoCwZA6kUMHR4h6BfHqDXTZHQEv",
   "tracks": [
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "American Heroine",
+        "url": "https://open.spotify.com/album/4x9bMp8KgfQURQ7eG5hnzr"
+      },
+      "artists": [
+        {
+          "name": "Magdalene",
+          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
+        }
+      ],
+      "duration_ms": 134430,
+      "name": "MAGDALENE",
+      "url": "https://open.spotify.com/track/6a15Ks2J4xCqtyhSJ2gIxK"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 229148,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "Mine! Mine! Mine!",
+        "url": "https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Mine! Mine! Mine!",
+      "url": "https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/5dL1z6edU8h5Rvz4U3wxkS"
+      },
+      "artists": [
+        {
+          "name": "West Gura",
+          "url": "https://open.spotify.com/artist/2TOCJEnGdD4AkavOoxmZ2W"
+        }
+      ],
+      "duration_ms": 185205,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/0iD0OGxoAOacG1Qb8YTOAT"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "still love",
+        "url": "https://open.spotify.com/album/67GdpCJGc9oR14jHAbTdd9"
+      },
+      "artists": [
+        {
+          "name": "YiiiNKA",
+          "url": "https://open.spotify.com/artist/1RtPlRQt00Wh0AXsaLFgZ2"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "still love",
+      "url": "https://open.spotify.com/track/0nDlNp62aSOxg468sLnBUs"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "What Happens When You Fall In Love In Stepford?",
+        "url": "https://open.spotify.com/album/7Gw01S61yFbU0ZraphoH6n"
+      },
+      "artists": [
+        {
+          "name": "ARI LEE",
+          "url": "https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7"
+        }
+      ],
+      "duration_ms": 209115,
+      "name": "Please, Maybe",
+      "url": "https://open.spotify.com/track/6Ipixw6iQzmX7LKZSAJc4U"
+    },
     {
       "added_at": "2026-10-14 13:27:59",
       "album": {
@@ -699,22 +795,6 @@
     {
       "added_at": "2026-09-30 04:00:27",
       "album": {
-        "name": "1st Floor",
-        "url": "https://open.spotify.com/album/0CIvlKMuPlxcMUakEP63vh"
-      },
-      "artists": [
-        {
-          "name": "YiiiNKA",
-          "url": "https://open.spotify.com/artist/1RtPlRQt00Wh0AXsaLFgZ2"
-        }
-      ],
-      "duration_ms": 141257,
-      "name": "famous",
-      "url": "https://open.spotify.com/track/7IdpYmDzsFLh5n0tuYrurN"
-    },
-    {
-      "added_at": "2026-09-30 04:00:27",
-      "album": {
         "name": "Ireland",
         "url": "https://open.spotify.com/album/2uzgtFzX2z8L9NnRrSUKgm"
       },
@@ -791,22 +871,6 @@
       "duration_ms": 160265,
       "name": "She's Just A Friend Of Mine",
       "url": "https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8"
-    },
-    {
-      "added_at": "2026-09-23 04:00:18",
-      "album": {
-        "name": "Heartblush",
-        "url": "https://open.spotify.com/album/6psB217RGciVr55Ss6c1MI"
-      },
-      "artists": [
-        {
-          "name": "Surely Shirley",
-          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "Heartblush",
-      "url": "https://open.spotify.com/track/0AGcI0jKRUFTlVF0dpffsk"
     },
     {
       "added_at": "2026-09-23 04:00:18",
@@ -1113,22 +1177,6 @@
       "url": "https://open.spotify.com/track/6j6NzyRcYOQBHl4ZXNEYyP"
     },
     {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "a changeable feast",
-        "url": "https://open.spotify.com/album/0bcGgTQAUwQqBXGUMmUGSv"
-      },
-      "artists": [
-        {
-          "name": "oktehya",
-          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
-        }
-      ],
-      "duration_ms": 139690,
-      "name": "complicated",
-      "url": "https://open.spotify.com/track/5ywG0YZhCKpQ6JVDoVw8hY"
-    },
-    {
       "added_at": "2026-08-12 04:00:21",
       "album": {
         "name": "feelers",
@@ -1145,38 +1193,6 @@
       "url": "https://open.spotify.com/track/5FtEr2o68yV6ylYE4Mf4fZ"
     },
     {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
-        "name": "You Are Never Gone From Me",
-        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
-      },
-      "artists": [
-        {
-          "name": "Morgana",
-          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
-        }
-      ],
-      "duration_ms": 212055,
-      "name": "You Are Never Gone From Me",
-      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
-    },
-    {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "Magazines",
-        "url": "https://open.spotify.com/album/1HLtrRtsdRBk9sC9ROZtfO"
-      },
-      "artists": [
-        {
-          "name": "Moriah Mensah",
-          "url": "https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Magazines",
-      "url": "https://open.spotify.com/track/0AZxU5r0k0LR606KrvSa4m"
-    },
-    {
       "added_at": "2026-08-05 04:00:03",
       "album": {
         "name": "oh, lover",
@@ -1191,22 +1207,6 @@
       "duration_ms": 172000,
       "name": "oh, lover",
       "url": "https://open.spotify.com/track/7uqtB0u3EtELNUkLXsq7oZ"
-    },
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "ANGELFOODCAKE",
-        "url": "https://open.spotify.com/album/2X1juJXzvB8YVuioMOH848"
-      },
-      "artists": [
-        {
-          "name": "Babe America",
-          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "CANDYNECKLACE",
-      "url": "https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844"
     }
   ],
   "unique_name": "Fresh Finds Pop",

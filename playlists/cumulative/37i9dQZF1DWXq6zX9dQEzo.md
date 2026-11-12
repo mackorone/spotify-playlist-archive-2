@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-1,047 songs - 2 day 1 hr 19 min
+1,048 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 | 2022-07-17 | 2024-01-13 |
 | [Bound 2 Be](https://open.spotify.com/track/1RBcvmkUFC73IG94lpJACb) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Bound 2 Be](https://open.spotify.com/album/79RcQfulnqy1Me3ZSdnnpx) | 2:42 | 2025-12-12 |  |
 | [BPM](https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [BPM](https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM) | 2:00 | 2024-03-20 | 2026-04-04 |
-| [BREAK IT DOWN](https://open.spotify.com/track/2QwacvSEOCcIbdKK5DP8zs) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [BREAK IT DOWN](https://open.spotify.com/album/070BkYPIQuqzMdod94ihwL) | 2:16 | 2026-10-02 |  |
+| [BREAK IT DOWN](https://open.spotify.com/track/2QwacvSEOCcIbdKK5DP8zs) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [BREAK IT DOWN](https://open.spotify.com/album/070BkYPIQuqzMdod94ihwL) | 2:16 | 2026-10-02 | 2026-11-12 |
 | [BREAK ME DOWN](https://open.spotify.com/track/2WRTsWXngQLDtvv9geDEah) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [BREAK ME DOWN](https://open.spotify.com/album/4KaVPVFVdQwGqZZODLkHfI) | 3:16 | 2024-03-20 | 2024-06-08 |
 | [Breathe](https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Breathe](https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM) | 2:55 | 2023-12-15 | 2024-02-03 |
 | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl) | 3:53 | 2022-02-04 | 2022-04-30 |
@@ -351,6 +351,7 @@
 | [GO!](https://open.spotify.com/track/1b6vEMg6H8lq7Uhlpl7BkH) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [GO!](https://open.spotify.com/album/2IS1Yc5Px9wXkh6BrHNTbU) | 2:47 | 2025-04-04 | 2025-08-08 |
 | [God Did \- Edit](https://open.spotify.com/track/2BG3nkfquiGDqEp0182A0C) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [KHIM](https://open.spotify.com/artist/6b6kdjMr30zxTYKrFPDBDE) | [God Did \(Remix Pack\)](https://open.spotify.com/album/7KRM03908mcAhJ46HcVzpd) | 2:34 | 2025-06-09 | 2026-11-07 |
 | [God Did II](https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Did II](https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE) | 2:39 | 2025-07-18 |  |
+| [GOD DID IT](https://open.spotify.com/track/6s9GaJeLypkQhgpafZzbqi) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [TERMS AND CONDITIONS](https://open.spotify.com/album/7nybgzALdsi37yVoZUsUQO) | 2:53 | 2026-11-06 |  |
 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 | 2026-02-20 | 2026-04-04 |
 | [GOD DON'T LIE](https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [SO LONELY \(AN EREMOS STORY\)](https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD) | 2:13 | 2023-11-02 | 2024-06-08 |
 | [God Flex](https://open.spotify.com/track/7KC13bS7eUYeXcRXvfYhAy) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Never Fold](https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1) | 3:29 | 2023-08-11 | 2024-06-08 |

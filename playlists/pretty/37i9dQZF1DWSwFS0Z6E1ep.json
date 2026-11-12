@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 313417,
+  "num_followers": 313441,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 271983,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "What'd I Say",
         "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 307053,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 271983,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Very Best Of Little Richard",
-        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128280,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "At the Rock House",
         "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 130500,
       "name": "Ooby Dooby",
       "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Very Best Of Little Richard",
+        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 128280,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Bear Cat / Walkin' in the Rain",
+        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bear Cat",
+      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come on Little Mama / Where'd You Stay Last Night",
-        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
-      },
-      "artists": [
-        {
-          "name": "Ray Harris",
-          "url": "https://open.spotify.com/artist/5n70pi7iAmRHNdLTJebZi7"
-        }
-      ],
-      "duration_ms": 138813,
-      "name": "Come on Little Mama",
-      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly Portrait",
         "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 109500,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Come on Little Mama / Where'd You Stay Last Night",
+        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
+      },
+      "artists": [
+        {
+          "name": "Ray Harris",
+          "url": "https://open.spotify.com/artist/5n70pi7iAmRHNdLTJebZi7"
+        }
+      ],
+      "duration_ms": 138813,
+      "name": "Come on Little Mama",
+      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1603,22 +1619,6 @@
       "duration_ms": 132866,
       "name": "Everybody's Trying to Be My Baby - Remastered 2022",
       "url": "https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Bear Cat / Walkin' in the Rain",
-        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bear Cat",
-      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rhino Hi-Five: The Coasters",
-        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
+        "name": "The Essential Little Richard (Remastered)",
+        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
       },
       "artists": [
         {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 141666,
-      "name": "Charlie Brown",
-      "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
+      "duration_ms": 142400,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Little Richard (Remastered)",
-        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
+        "name": "Rhino Hi-Five: The Coasters",
+        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 142400,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
+      "duration_ms": 141666,
+      "name": "Charlie Brown",
+      "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
     },
     {
       "added_at": "2022-06-07 05:25:13",

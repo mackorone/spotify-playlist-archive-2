@@ -1269,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "A Mais Amada Do Brasil",
+        "url": "https://open.spotify.com/album/5QRsFSBXTxPSIINOpzuSdY"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170858,
+      "name": "A Mais Amada Do Brasil",
+      "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
+    },
+    {
+      "album": {
         "name": "A Morte do Autotune",
         "url": "https://open.spotify.com/album/6evWxSsf9h9zczdQOh5lvh"
       },
@@ -1982,7 +2004,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 747625,
       "name": "AH, JESUS / CORA\u00c7\u00c3O IGUAL AO TEU",
       "url": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH"
@@ -35248,7 +35270,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 174794,
       "name": "Saudade Estranha - Du Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/2YwupCiayMlumvtFwToiVG"
@@ -38448,7 +38470,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 168916,
       "name": "S\u00f3 Com Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/7az7NyQSqKGs3sXFlTCAr4"
@@ -41176,7 +41198,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 199387,
       "name": "Traidor",
       "url": "https://open.spotify.com/track/6gjqPHut0PC4OS2VJWgDtB"
@@ -41652,7 +41674,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"

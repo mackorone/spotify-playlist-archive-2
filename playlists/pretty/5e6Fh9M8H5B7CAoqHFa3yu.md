@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,857 songs - 6 day 22 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,858 songs - 6 day 22 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2865,5 +2865,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2855 | [Just A Little Chance](https://open.spotify.com/track/1e81VVy5gfh2td7t3zoxd8) | [awilli9004](https://open.spotify.com/artist/6nQMOiWajkm9VmGDc7otaM) | [Just A Little Chance](https://open.spotify.com/album/02WrUXRfdxewGnA7Sihigu) | 2:54 |
 | 2856 | [put the apple on](https://open.spotify.com/track/1bzMy2lXlvvhbvbtsCUaEB) | [Blake Cunningham](https://open.spotify.com/artist/7lDqMXbyfDk8fPXZAWgZDS) | [put the apple on](https://open.spotify.com/album/5GOX3gTi8is88glEvzVUEw) | 4:01 |
 | 2857 | [It Shows](https://open.spotify.com/track/18y9Fwa2JeQlu9DnLaGbxN) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Chancers Paradise](https://open.spotify.com/album/5ssnGImBA97l3w1z2Ii7Hw) | 2:57 |
+| 2858 | [Squalo Balena](https://open.spotify.com/track/20kQD4HWEL80RTHx1NWrB6) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Spaziotempo](https://open.spotify.com/album/1aZCwn3hiBwpgYhHiZCqRb) | 5:00 |
 
-Snapshot ID: `AAAMHTHRJSMB1Ha9TxOSf5wjRv7IwrQT`
+Snapshot ID: `AAAMHphj/l0ny8wUxY1SIU137LH1Sgfg`

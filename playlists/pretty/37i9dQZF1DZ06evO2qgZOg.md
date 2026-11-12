@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,777 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,834 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 19 | [After The Storm](https://open.spotify.com/track/4ChqapoSKR3dFwVJ36ScMS) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [After The Storm](https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs) | 3:45 |
 | 20 | [Undefeated](https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:35 |
 | 21 | [No Survivors](https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [No Survivors](https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9) | 2:20 |
-| 22 | [Lift Me Up](https://open.spotify.com/track/6OlXM5xkhNs8jcI56ax8zc) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Lift Me Up](https://open.spotify.com/album/6L4SxtZZYtbp7uLYz37guc) | 3:24 |
+| 22 | [Sick of It](https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:10 |
 | 23 | [Come and Find Me](https://open.spotify.com/track/53L67CGzWMjG91DPMZc5qH) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [After The Storm](https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs) | 3:24 |
 | 24 | [Stars](https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:45 |
-| 25 | [Sick of It](https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:10 |
+| 25 | [Lift Me Up](https://open.spotify.com/track/6OlXM5xkhNs8jcI56ax8zc) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Lift Me Up](https://open.spotify.com/album/6L4SxtZZYtbp7uLYz37guc) | 3:24 |
 | 26 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
 | 27 | [Heaven Help Us](https://open.spotify.com/track/0NT4gDp41RefSVTIvs0qom) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [After The Storm](https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs) | 3:46 |
 | 28 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [You Ain't Ready](https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:17 |
 | 50 | [You Get Me High](https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:17 |
 
-Snapshot ID: `au+7gAAAAAAZERiD77wAq2OZWVvAtLN6`
+Snapshot ID: `avENAAAAAABGXAmdwAYn7IRZY7Wu6Q+1`

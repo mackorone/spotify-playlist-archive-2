@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 
 > This is Erykah Badu\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,333 likes - 41 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,346 likes - 41 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 | 40 | [Plenty](https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:38 |
 | 41 | [Honey](https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:20 |
 
-Snapshot ID: `au+7gAAAAABpbRkPYA8gWSSpk6KH6nhp`
+Snapshot ID: `avENAAAAAADpFNIBRRaqiqMBALFq2gcn`

@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 153334,
+  "num_followers": 153356,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,22 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Worship For Your Family (Yellow)",
-        "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
+        "name": "This Little Light of Mine",
+        "url": "https://open.spotify.com/album/3Eaa14k1FtRd3GpQBoB0Uw"
       },
       "artists": [
         {
-          "name": "Here I Am To Worship For Kids Performers",
-          "url": "https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW"
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        },
+        {
+          "name": "John-Mark McGaha",
+          "url": "https://open.spotify.com/artist/7ezsbMLZMM8Ntm9zq2EGY3"
         }
       ],
-      "duration_ms": 194080,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ"
+      "duration_ms": 166874,
+      "name": "This Little Light of Mine",
+      "url": "https://open.spotify.com/track/0tBb8VIT8MWo9mGHFOt1Ed"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -699,22 +703,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "This Little Light of Mine",
-        "url": "https://open.spotify.com/album/3Eaa14k1FtRd3GpQBoB0Uw"
+        "name": "Worship For Your Family (Yellow)",
+        "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
       },
       "artists": [
         {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        },
-        {
-          "name": "John-Mark McGaha",
-          "url": "https://open.spotify.com/artist/7ezsbMLZMM8Ntm9zq2EGY3"
+          "name": "Here I Am To Worship For Kids Performers",
+          "url": "https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW"
         }
       ],
-      "duration_ms": 166874,
-      "name": "This Little Light of Mine",
-      "url": "https://open.spotify.com/track/0tBb8VIT8MWo9mGHFOt1Ed"
+      "duration_ms": 194080,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -731,6 +731,38 @@
       "duration_ms": 284479,
       "name": "This Is Amazing Grace",
       "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Jesus Loves Me",
+        "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 86575,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "You Hypocrite",
+        "url": "https://open.spotify.com/album/2HH1ibbH5cwoh45fVo3UgS"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "You Hypocrite",
+      "url": "https://open.spotify.com/track/1mMOXFPUFNYHlp7zsq7Utw"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -787,38 +819,6 @@
       "duration_ms": 148000,
       "name": "Hes Got the Whole World in His Hands",
       "url": "https://open.spotify.com/track/3pihU0E5xgZ5JIAnsBdC71"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
-        "name": "You Hypocrite",
-        "url": "https://open.spotify.com/album/2HH1ibbH5cwoh45fVo3UgS"
-      },
-      "artists": [
-        {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "You Hypocrite",
-      "url": "https://open.spotify.com/track/1mMOXFPUFNYHlp7zsq7Utw"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
-        "name": "Jesus Loves Me",
-        "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 86575,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Lullabies",
-        "url": "https://open.spotify.com/album/66oGFlREKozY5rpHCAvINt"
-      },
-      "artists": [
-        {
-          "name": "Good News Guys",
-          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "I Love You Lord",
-      "url": "https://open.spotify.com/track/1dFXH9g4W8iBpeMqn8oQVS"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Toddler 1 Minute Bible Songs",
         "url": "https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 64476,
       "name": "If You're Saved and You Know It",
       "url": "https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/66oGFlREKozY5rpHCAvINt"
+      },
+      "artists": [
+        {
+          "name": "Good News Guys",
+          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "I Love You Lord",
+      "url": "https://open.spotify.com/track/1dFXH9g4W8iBpeMqn8oQVS"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Lubanga Ber (God Is Good) [Live]",
-        "url": "https://open.spotify.com/album/3wWpTXA1Mntk6JarSUfak6"
-      },
-      "artists": [
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
-        }
-      ],
-      "duration_ms": 270654,
-      "name": "Lubanga Ber (God Is Good) - Live",
-      "url": "https://open.spotify.com/track/713D2svcry7rTeQJnnpSMO"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "For God So Loved the World (John 3:16)",
         "url": "https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 125397,
       "name": "For God So Loved the World (John 3:16)",
       "url": "https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Lubanga Ber (God Is Good) [Live]",
+        "url": "https://open.spotify.com/album/3wWpTXA1Mntk6JarSUfak6"
+      },
+      "artists": [
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+        }
+      ],
+      "duration_ms": 270654,
+      "name": "Lubanga Ber (God Is Good) - Live",
+      "url": "https://open.spotify.com/track/713D2svcry7rTeQJnnpSMO"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Prayed for This Day",
-        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Metz",
-          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "When I Talk to God",
-      "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "100 Songs from the Bible",
         "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "His Great Love",
-        "url": "https://open.spotify.com/album/6rnRR6eVeVNAPbYHVzWGlR"
+        "name": "Prayed for This Day",
+        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
       },
       "artists": [
         {
-          "name": "Lifetree Kids",
-          "url": "https://open.spotify.com/artist/0WlbBY0t3hNDiAubKTSHAW"
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
         }
       ],
-      "duration_ms": 150346,
-      "name": "His Great Love",
-      "url": "https://open.spotify.com/track/55Rk4T54NLxF0QujZSiv68"
+      "duration_ms": 157746,
+      "name": "When I Talk to God",
+      "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1195,6 +1179,22 @@
       "duration_ms": 95560,
       "name": "Heaven Is A Wonderful Place/When I Get To Heaven",
       "url": "https://open.spotify.com/track/6iINEWo79e3Ao1MYoHGg7n"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "His Great Love",
+        "url": "https://open.spotify.com/album/6rnRR6eVeVNAPbYHVzWGlR"
+      },
+      "artists": [
+        {
+          "name": "Lifetree Kids",
+          "url": "https://open.spotify.com/artist/0WlbBY0t3hNDiAubKTSHAW"
+        }
+      ],
+      "duration_ms": 150346,
+      "name": "His Great Love",
+      "url": "https://open.spotify.com/track/55Rk4T54NLxF0QujZSiv68"
     },
     {
       "added_at": "2026-10-19 16:22:30",

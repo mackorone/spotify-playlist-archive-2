@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Santi
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,272 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,332 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 12 | [GTA](https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GTA](https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN) | 2:35 |
 | 13 | [Aura Salad](https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Breaking](https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK) | 2:52 |
 | 14 | [it's over](https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [it's over](https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX) | 3:10 |
-| 15 | [Anybody](https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Anybody](https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv) | 2:30 |
-| 16 | [Shenk Me](https://open.spotify.com/track/0Zuc6Ez9Y9qVt5Sp6AfoUK) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shenk Me](https://open.spotify.com/album/5yNwyn1a11z9XW46Nlm1kI) | 3:19 |
+| 15 | [Shenk Me](https://open.spotify.com/track/0Zuc6Ez9Y9qVt5Sp6AfoUK) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shenk Me](https://open.spotify.com/album/5yNwyn1a11z9XW46Nlm1kI) | 3:19 |
+| 16 | [Anybody](https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Anybody](https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv) | 2:30 |
 | 17 | [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 |
 | 18 | [CA$H OUT](https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [NOMADINHO: 4TH PRIME](https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3) | 2:36 |
 | 19 | [Ego \- Live in London](https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY Live in London \(Spotify Live\)](https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB) | 2:39 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 32 | [Bullion Van](https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Bullion Van](https://open.spotify.com/album/5wUCNSjLXZ8sVs5rsN1Xhb) | 2:16 |
 | 33 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 34 | [WINDOW](https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [OctobersRich](https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz) | [WINDOW](https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd) | 1:39 |
-| 35 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |
+| 35 | [Round One \(Elle Mummy\)](https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Round One \(Elle Mummy\)](https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX) | 2:26 |
 | 36 | [Water](https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [All Hail Muyeez](https://open.spotify.com/album/050lle0DRA4195Robnvk2l) | 2:33 |
-| 37 | [Round One \(Elle Mummy\)](https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Round One \(Elle Mummy\)](https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX) | 2:26 |
+| 37 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |
 | 38 | [Do Better](https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Do Better](https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u) | 2:42 |
 | 39 | [Shuperu](https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:49 |
 | 40 | [Lalakula](https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Lalakula](https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k) | 2:32 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 57 | [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 |
 | 58 | [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 |
 | 59 | [Orindowo](https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Orindowo](https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE) | 2:47 |
-| 60 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 |
+| 60 | [CELINE DION](https://open.spotify.com/track/0D1vNTcDR3SuZtPFUoTGej) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [CELINE DION](https://open.spotify.com/album/1hj1CYfh0mOLzUxkxwl7n8) | 2:49 |
 
 Snapshot ID: `AAAAAOBkTmBd6eW9Ny9s8MKSnjlKL7vl`

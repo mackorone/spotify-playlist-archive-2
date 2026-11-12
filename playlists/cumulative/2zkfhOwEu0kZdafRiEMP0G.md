@@ -4,7 +4,7 @@
 
 > 
 
-154 songs - 10 hr 48 min
+155 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [It's Like Poetry](https://open.spotify.com/track/13NbMyCBz3TsENTQIgI3RO) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [It's Like Poetry](https://open.spotify.com/album/2E3RkVfAGuFlikwcYLPSFC) | 2:31 | 2025-11-05 | 2026-11-11 |
 | [It's Not Over](https://open.spotify.com/track/234RqTZmnDTnxWlVciXHLD) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:35 | 2026-07-24 |  |
 | [Just a Man](https://open.spotify.com/track/757cx0iJx1pcwLv4lnX39B) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Troy Saga \(Official Concept Album\)](https://open.spotify.com/album/6SxVoqHzmrFnPno9DWedMj) | 2:28 | 2025-10-21 | 2025-10-23 |
+| [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 | 2026-11-11 |  |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2026-03-30 | 2026-05-11 |
 | [Lavender Sunflower](https://open.spotify.com/track/1au2UduxcvHfa0fZS3Szci) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 2:31 | 2026-03-30 | 2026-05-03 |
 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 | 2026-03-30 | 2026-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 코리아 에디터가 고른 한국의 장소와 일상, 그리고 그곳에 남은 기억을 담은 노래들.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,954 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,974 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

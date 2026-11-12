@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 617 songs - 1 day 13 hr 24 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 618 songs - 1 day 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -625,5 +625,6 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 615 | [1ne](https://open.spotify.com/track/4GbahnbbVLTfUcHnFurgkS) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP) | [Songs of Repetition](https://open.spotify.com/album/7gnvkbbUp2aazXJg53fB6L) | 4:11 |
 | 616 | [Como Yo No Hay 2](https://open.spotify.com/track/3K5TOXm4QzeFXVgkkllvMq) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn), [Yaiza San Martín](https://open.spotify.com/artist/6QipDbAuBORy8OPNzjI8tE) | [Como Yo No Hay 2](https://open.spotify.com/album/7f6EWxdmRQfsv3WJFgUHEr) | 3:52 |
 | 617 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
+| 618 | [Say](https://open.spotify.com/track/3CHCkuE8GGQnvMv7rELd0e) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Say](https://open.spotify.com/album/4ufVm71zH8Z2apbGe3mvKP) | 3:08 |
 
-Snapshot ID: `AAAC//RsTdYvSRjkvKYDSAttU+dQFZHp`
+Snapshot ID: `AAADABduf6gVdMg63UQ2PFxDOq95Nwh5`

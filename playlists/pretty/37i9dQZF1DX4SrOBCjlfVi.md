@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Skepta, Lil Baby, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,336 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,423 likes - 61 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [RESISTANCE](https://open.spotify.com/track/3DeTCKgNOwz2ag4tApZQsH) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [So F\*cking Awesome](https://open.spotify.com/album/3HA7kIhQ3LTOfmO4IAmDhX) | 2:30 |
 | 44 | [Statue of Limitation](https://open.spotify.com/track/1efdi1hU1nhCmhkINh0F0l) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [WHOISTEVENYOUNG](https://open.spotify.com/artist/2mFvr79fwxNS5LKICegYep) | [We Outside](https://open.spotify.com/album/12dQsrSX7KdWlr9R6TGyQL) | 3:14 |
 | 45 | [Known For Trappin](https://open.spotify.com/track/54PvOpeSIMjE32Y1Hppnsu) | [Hustleman Quise](https://open.spotify.com/artist/6gB8BpeoCpDP1BVmX0uqHd) | [Known For Trappin](https://open.spotify.com/album/6GpoTpXFS8yMVdZEXDeeGs) | 2:08 |
-| 46 | [2MUCH](https://open.spotify.com/track/45Lw1UgsZqKsVYWiX9wmXt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [2MUCH](https://open.spotify.com/album/36RKhiQ8ovHLSFAwoCHbOC) | 3:12 |
+| 46 | [2MUCH](https://open.spotify.com/track/45Lw1UgsZqKsVYWiX9wmXt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [Wizxrd](https://open.spotify.com/artist/2x4CNS5nCHds8Zhj42WJw0), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [2MUCH](https://open.spotify.com/album/36RKhiQ8ovHLSFAwoCHbOC) | 3:12 |
 | 47 | [Slime](https://open.spotify.com/track/2G5rI2OhE5O9mb2y8Clo4U) | [Aflacko](https://open.spotify.com/artist/4xGIy4hVil8DTVPnu5Auzs) | [Slime](https://open.spotify.com/album/5YURH5u8PTMu4XmvFWOZQ7) | 1:56 |
 | 48 | [Pirate Prodigy](https://open.spotify.com/track/2sc30ocrinHiX4mY7s2wni) | [Big Ro6](https://open.spotify.com/artist/4Jucp7VkE23J0DndVXzJGM) | [Pirate Prodigy](https://open.spotify.com/album/4hcNvWH3p7qyv1FTGb0bf4) | 2:00 |
 | 49 | [SMACKERS](https://open.spotify.com/track/5rVwGc2LePq2dKKLJkxo3j) | [Spazz Vet](https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf), [Nasg Chaz](https://open.spotify.com/artist/4QcERQhvIha9kPWhcQgiMH) | [SMACKERS](https://open.spotify.com/album/5dIu8l5tsweqzeTE3mxa9s) | 3:26 |

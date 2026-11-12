@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83c\udf00 featuring Andruss & Juos",
-  "num_followers": 123375,
+  "num_followers": 123387,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Baila Le Digo",
-        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        },
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        }
-      ],
-      "duration_ms": 139702,
-      "name": "Baila Le Digo",
-      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
+        "name": "Baila Le Digo",
+        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        },
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "duration_ms": 139702,
+      "name": "Baila Le Digo",
+      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
     },
     {
       "added_at": "2026-10-30 04:00:47",

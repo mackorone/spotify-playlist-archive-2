@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 
 > These Games are going to be different\. Noah Kahan's "Draw You Out" is here, the first song from The Hunger Games: Sunrise on the Reaping\. In theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,713 likes - 68 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,252 likes - 68 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

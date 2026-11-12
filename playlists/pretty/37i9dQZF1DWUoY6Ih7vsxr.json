@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 372164,
+  "num_followers": 372265,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "BLOCKBUSTER",
-        "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "\ub2d0\ub9ac\ub9ac\ub9d8\ubcf4",
-      "url": "https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Electric Shock - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 196946,
       "name": "Electric Shock",
       "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "BLOCKBUSTER",
+        "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "\ub2d0\ub9ac\ub9ac\ub9d8\ubcf4",
+      "url": "https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -639,18 +639,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "The 3rd Album Part.1",
-        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
+        "name": "TTL (Time To Love)",
+        "url": "https://open.spotify.com/album/03vGxLZasfe2LdJFuB4fpq"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        },
+        {
+          "name": "\ucd08\uc2e0\uc131",
+          "url": "https://open.spotify.com/artist/0buWcDodnGf3u36oAQPHzW"
         }
       ],
-      "duration_ms": 206840,
-      "name": "Please don\u2019t\u2026",
-      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+      "duration_ms": 218347,
+      "name": "TTL (Time To Love)",
+      "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -671,22 +675,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "TTL (Time To Love)",
-        "url": "https://open.spotify.com/album/03vGxLZasfe2LdJFuB4fpq"
+        "name": "The 3rd Album Part.1",
+        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
       "artists": [
         {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
-        },
-        {
-          "name": "\ucd08\uc2e0\uc131",
-          "url": "https://open.spotify.com/artist/0buWcDodnGf3u36oAQPHzW"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 218347,
-      "name": "TTL (Time To Love)",
-      "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
+      "duration_ms": 206840,
+      "name": "Please don\u2019t\u2026",
+      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "INFINITIZE",
-        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
-      },
-      "artists": [
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
-        }
-      ],
-      "duration_ms": 202520,
-      "name": "The Chaser",
-      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "ROMAN",
         "url": "https://open.spotify.com/album/4UYktbMekvR3lyX6uHqHLU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 210677,
       "name": "No more perfume on you",
       "url": "https://open.spotify.com/track/3UFnHBPaPkZhe04IqqlUcn"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "INFINITIZE",
+        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 202520,
+      "name": "The Chaser",
+      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
+        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "Timeless : The Best",
         "url": "https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 226813,
       "name": "\ub0b4 \uadc0\uc5d0 \uce94\ub514 (FEAT. \ud0dd\uc5f0 Of 2PM)",
       "url": "https://open.spotify.com/track/6bkovwrdDRK4NRaEH0ryar"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
-        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/5O97HxWI6WoqMqVYbXe9qg"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 237138,
-      "name": "I LOVE YOU",
-      "url": "https://open.spotify.com/track/193m2rJhVvkjr9c8acLoxZ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Rising Sun - 2nd Album",
         "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Afterschool 3rd Single BANG",
-        "url": "https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h"
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/5O97HxWI6WoqMqVYbXe9qg"
       },
       "artists": [
         {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 198693,
-      "name": "bang",
-      "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
+      "duration_ms": 237138,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/193m2rJhVvkjr9c8acLoxZ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1187,6 +1171,22 @@
       "duration_ms": 201737,
       "name": "A",
       "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Afterschool 3rd Single BANG",
+        "url": "https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "bang",
+      "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Kiss (Dara)",
-      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "New Challenge",
         "url": "https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 197213,
       "name": "Man In Love",
       "url": "https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Kiss (Dara)",
+      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/72wKfG02gkSv77CiPamZao"
       },
       "artists": [
         {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
         }
       ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+      "duration_ms": 221532,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/72wKfG02gkSv77CiPamZao"
-      },
-      "artists": [
-        {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
-        }
-      ],
-      "duration_ms": 221532,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "A's Doll House",
         "url": "https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 194712,
       "name": "U & I",
       "url": "https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-03-27 14:24:46",

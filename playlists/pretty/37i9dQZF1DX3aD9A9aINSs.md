@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Elif Buse Doğan
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,706 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,705 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

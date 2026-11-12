@@ -4608,7 +4608,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 200000,
       "name": "Birthday Wish",
       "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
@@ -24985,6 +24985,28 @@
     },
     {
       "album": {
+        "name": "\uc624\ubcf4",
+        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
+      },
+      "artists": [
+        {
+          "name": "Panda Gomm",
+          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "MOONWALK",
+      "url": "https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU"
+    },
+    {
+      "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
       },
@@ -30710,7 +30732,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 160000,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX"
@@ -43510,6 +43532,28 @@
       "duration_ms": 205575,
       "name": "\ud55c \ud398\uc774\uc9c0\uac00 \ub420 \uc218 \uc788\uac8c",
       "url": "https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5"
+    },
+    {
+      "album": {
+        "name": "\uc624\ubcf4",
+        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
+      },
+      "artists": [
+        {
+          "name": "Panda Gomm",
+          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\ud654",
+      "url": "https://open.spotify.com/track/11JJhyIJqYqZkSQkhNmiZS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F"

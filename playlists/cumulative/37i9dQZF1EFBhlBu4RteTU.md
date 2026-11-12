@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-205 songs - 12 hr 6 min
+206 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Stay Young, Get Stoned](https://open.spotify.com/track/2beFkfKUo9dcyQVarQToWD) | [White Sea](https://open.spotify.com/artist/5WzsdqnI9jOwLrW9YuXI4t) | [Tropical Odds](https://open.spotify.com/album/1OMgkvWjom9RKCLWx8Ba7S) | 3:15 | 2026-06-10 |  |
 | [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 | 2026-06-24 |  |
 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 | 2026-06-10 |  |
+| [take me home \(4 christmas\)](https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [take me home \(4 christmas\)](https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B) | 2:57 | 2026-11-11 |  |
 | [teenage dream](https://open.spotify.com/track/7fesNTgTEMEH0ye8MOgEDY) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:42 | 2026-06-10 |  |
 | [That’s So Funny](https://open.spotify.com/track/58GzB1Ag0nyo2kjuGgmLax) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:49 | 2026-06-10 |  |
 | [The City](https://open.spotify.com/track/7C7W7eWJj5UEGhNtBMmJ0k) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [LETTERS: VOL\. 1](https://open.spotify.com/album/7M0VWIMZXsm2RKtHYHHkaQ) | 4:10 | 2026-06-10 |  |

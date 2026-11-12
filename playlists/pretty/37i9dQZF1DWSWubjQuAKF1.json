@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: ALICJA",
-  "num_followers": 26757,
+  "num_followers": 26754,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
-      },
-      "artists": [
-        {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
         "name": "LOT",
         "url": "https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC"
       },
@@ -295,18 +279,18 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "Pokochaj Mnie Ponownie",
-        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
       },
       "artists": [
         {
-          "name": "Natalia Muianga",
-          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Pokochaj Mnie Ponownie",
-      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -327,6 +311,22 @@
       "duration_ms": 166153,
       "name": "Oceany",
       "url": "https://open.spotify.com/track/4lzFGh4DOthegbONkaJ09l"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "Pokochaj Mnie Ponownie",
+        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
+      },
+      "artists": [
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Pokochaj Mnie Ponownie",
+      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "To nie koniec",
-        "url": "https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 181547,
-      "name": "To nie koniec",
-      "url": "https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
       },
@@ -643,6 +627,38 @@
       "duration_ms": 133333,
       "name": "Away",
       "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "To nie koniec",
+        "url": "https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 181547,
+      "name": "To nie koniec",
+      "url": "https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "luvvv<3",
+        "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
+      },
+      "artists": [
+        {
+          "name": "ggluv",
+          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
+        }
+      ],
+      "duration_ms": 120685,
+      "name": "luvvv<3",
+      "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -667,38 +683,22 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "luvvv<3",
-        "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
+        "name": "B\u0142ysk",
+        "url": "https://open.spotify.com/album/2mX1zqOMzPsCvaY0n6UoXo"
       },
       "artists": [
         {
-          "name": "ggluv",
-          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
-        }
-      ],
-      "duration_ms": 120685,
-      "name": "luvvv<3",
-      "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
-        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
-      },
-      "artists": [
-        {
-          "name": "Karolina Charko",
-          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
+          "name": "Kasia Krzy\u017caniak",
+          "url": "https://open.spotify.com/artist/2kLHwEGS9prOyM4qvqjolg"
         },
         {
-          "name": "Profanumbeats",
-          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
         }
       ],
-      "duration_ms": 258296,
-      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
+      "duration_ms": 191718,
+      "name": "B\u0142ysk",
+      "url": "https://open.spotify.com/track/4PJCgoSFXXdEMgXVhoHcma"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -719,22 +719,22 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "B\u0142ysk",
-        "url": "https://open.spotify.com/album/2mX1zqOMzPsCvaY0n6UoXo"
+        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
       },
       "artists": [
         {
-          "name": "Kasia Krzy\u017caniak",
-          "url": "https://open.spotify.com/artist/2kLHwEGS9prOyM4qvqjolg"
+          "name": "Karolina Charko",
+          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
         },
         {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+          "name": "Profanumbeats",
+          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
         }
       ],
-      "duration_ms": 191718,
-      "name": "B\u0142ysk",
-      "url": "https://open.spotify.com/track/4PJCgoSFXXdEMgXVhoHcma"
+      "duration_ms": 258296,
+      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "Piosenki o mi\u0142o\u015bci: nieopowiedziane historie",
-        "url": "https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "Komary i motyle",
-      "url": "https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
         "name": "Ta\u0144cz i kochaj",
         "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 173454,
       "name": "Ta\u0144cz i kochaj",
       "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "Piosenki o mi\u0142o\u015bci: nieopowiedziane historie",
+        "url": "https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "Komary i motyle",
+      "url": "https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -991,6 +991,26 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
+        "name": "Bez dw\u00f3ch zda\u0144",
+        "url": "https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS"
+      },
+      "artists": [
+        {
+          "name": "Filip Mettler",
+          "url": "https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r"
+        },
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 179636,
+      "name": "Bez dw\u00f3ch zda\u0144",
+      "url": "https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
         "name": "po co mi to???",
         "url": "https://open.spotify.com/album/7tPg9FLiEyxhsXvSGNKzvs"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 162920,
       "name": "po co mi to???",
       "url": "https://open.spotify.com/track/4gEElM8YcYFk9YLNe2cGxn"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
-        "name": "Jestem Dla Ciebie",
-        "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
-      },
-      "artists": [
-        {
-          "name": "Anastazja",
-          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
-        },
-        {
-          "name": "Dizzma",
-          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Jestem Dla Ciebie",
-      "url": "https://open.spotify.com/track/2EPTAU9o1H0YCWSzTGXUPw"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -1063,22 +1063,38 @@
     {
       "added_at": "2026-11-05 23:01:25",
       "album": {
-        "name": "Bez dw\u00f3ch zda\u0144",
-        "url": "https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS"
+        "name": "Jestem Dla Ciebie",
+        "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
       },
       "artists": [
         {
-          "name": "Filip Mettler",
-          "url": "https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r"
+          "name": "Anastazja",
+          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
         },
         {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
         }
       ],
-      "duration_ms": 179636,
-      "name": "Bez dw\u00f3ch zda\u0144",
-      "url": "https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4"
+      "duration_ms": 150000,
+      "name": "Jestem Dla Ciebie",
+      "url": "https://open.spotify.com/track/2EPTAU9o1H0YCWSzTGXUPw"
+    },
+    {
+      "added_at": "2026-11-05 23:01:25",
+      "album": {
+        "name": "Problem Jednego Cia\u0142a",
+        "url": "https://open.spotify.com/album/5zWMFVmPRja3nFtYUWJ9zY"
+      },
+      "artists": [
+        {
+          "name": "Prometh",
+          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Problem Jednego Cia\u0142a",
+      "url": "https://open.spotify.com/track/5i09n6QrJKymJWIKvBebfQ"
     },
     {
       "added_at": "2026-11-05 23:01:25",
@@ -1119,22 +1135,6 @@
       "duration_ms": 211705,
       "name": "\u017bebro",
       "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
-    },
-    {
-      "added_at": "2026-11-05 23:01:25",
-      "album": {
-        "name": "Problem Jednego Cia\u0142a",
-        "url": "https://open.spotify.com/album/5zWMFVmPRja3nFtYUWJ9zY"
-      },
-      "artists": [
-        {
-          "name": "Prometh",
-          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Problem Jednego Cia\u0142a",
-      "url": "https://open.spotify.com/track/5i09n6QrJKymJWIKvBebfQ"
     }
   ],
   "unique_name": "up next",

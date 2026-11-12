@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 915019,
+  "num_followers": 915026,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 182441,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 231774,
       "name": "Gotta Be Cool",
       "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Want To Know",
-        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 182441,
-      "name": "Want To Know",
-      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Patchwork",
-        "url": "https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 187087,
-      "name": "Patchwork",
-      "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 219080,
       "name": "Lost",
       "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Patchwork",
+        "url": "https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 187087,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Take Our Time",
-        "url": "https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
-        }
-      ],
-      "duration_ms": 179962,
-      "name": "Take Our Time",
-      "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Energy Crew Pt. 2",
         "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
       },
@@ -1675,18 +1655,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Work Your Body",
-        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
         }
       ],
-      "duration_ms": 186776,
-      "name": "Work Your Body",
-      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
+      "duration_ms": 179962,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1703,6 +1687,22 @@
       "duration_ms": 221538,
       "name": "The Montana Girl",
       "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Work Your Body",
+        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 186776,
+      "name": "Work Your Body",
+      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Inside The Brain",
-        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "Franksy",
-          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Inside The Brain",
-      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Like An Angel (Touch Me) / Word Play",
         "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
       },
@@ -1791,18 +1771,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
+        "name": "Inside The Brain",
+        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Franksy",
+          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
         }
       ],
-      "duration_ms": 224911,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
+      "duration_ms": 210461,
+      "name": "Inside The Brain",
+      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1827,6 +1811,22 @@
       "duration_ms": 182000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224911,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
     },
     {
       "added_at": "2026-10-01 23:00:26",

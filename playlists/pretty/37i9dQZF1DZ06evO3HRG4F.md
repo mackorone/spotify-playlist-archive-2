@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [Brillando en la Oscuridad](https://open.spotify.com/track/5lzOcS594OcqqbUifg97ZF) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Montamorfosis](https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT) | 4:45 |
 | 50 | [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 |
 
-Snapshot ID: `au+7gAAAAABC9Om8yUQse9SCKDsWadjA`
+Snapshot ID: `avENAAAAAACgw/unKfWuSR1JvaeZkym/`

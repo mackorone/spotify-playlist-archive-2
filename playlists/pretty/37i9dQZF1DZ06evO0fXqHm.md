@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,963 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Beijo na Boca](https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [MC Pelé](https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU) | [Beijo na Boca](https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn) | 2:05 |
 | 50 | [Toma Tapa](https://open.spotify.com/track/28jFx6fxrbxOIFcf1fIfjn) | [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Toma Tapa](https://open.spotify.com/album/4dDBinCN2mdFZmqdHb9DHp) | 1:43 |
 
-Snapshot ID: `au+7gAAAAAAb7F5o2UCnndE5UnvEZ7vN`
+Snapshot ID: `avENAAAAAAD2ohs2+0VNrz6bIfrOv4E1`

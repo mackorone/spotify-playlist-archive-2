@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-03",
-  "description": "A playlist of all our songs released so far. Our new album Faith Crisis Pt 1 is out now! <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
+  "description": "A playlist of all our songs released so far. Also find us on <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
   "name": "Middle Kids - Complete Collection",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 252560,
       "name": "Bend - triple j Live At The Wireless",
       "url": "https://open.spotify.com/track/6dfke6ER5rkmj9FqIDFED4"
+    },
+    {
+      "album": {
+        "name": "big freak",
+        "url": "https://open.spotify.com/album/2wd5862pwO9NrA7r6lKzbN"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182899,
+      "name": "big freak",
+      "url": "https://open.spotify.com/track/0Q8i1QvYeXRAJyDFWMfufR"
     },
     {
       "album": {

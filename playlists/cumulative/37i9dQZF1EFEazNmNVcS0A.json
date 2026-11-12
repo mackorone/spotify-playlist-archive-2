@@ -398,10 +398,28 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 223813,
       "name": "burning gold",
       "url": "https://open.spotify.com/track/0n450TgdXT9BLURLyUV0qt"
+    },
+    {
+      "album": {
+        "name": "head or heart",
+        "url": "https://open.spotify.com/album/0luLYIMe3YIipJjN9bTrYD"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "burning gold",
+      "url": "https://open.spotify.com/track/34B4knn24s4OxR3eSIONg4"
     },
     {
       "album": {
@@ -1512,6 +1530,24 @@
     {
       "album": {
         "name": "Blood To Bone",
+        "url": "https://open.spotify.com/album/7mFYdDr8OlhC4jI5wluq8S"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "In My Way",
+      "url": "https://open.spotify.com/track/3RUGncwgMgCw2SwwDoN3AW"
+    },
+    {
+      "album": {
+        "name": "Blood To Bone",
         "url": "https://open.spotify.com/album/3dtekEn6Y5SpEDO4sy1d1o"
       },
       "artists": [
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 209626,
       "name": "In My Way",
       "url": "https://open.spotify.com/track/4Vzu7HaiibAZ8HoaO8NwR1"

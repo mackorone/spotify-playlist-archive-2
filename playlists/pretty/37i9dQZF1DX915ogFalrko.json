@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188719,
+  "num_followers": 188727,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "High Hopes 3000",
-        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+        "name": "Innerquake",
+        "url": "https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        },
+        {
+          "name": "The Short Straws",
+          "url": "https://open.spotify.com/artist/40WhVPjA1Qg7tG8Flxvneq"
         }
       ],
-      "duration_ms": 245755,
-      "name": "High Hopes 3000",
-      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+      "duration_ms": 212813,
+      "name": "The Fade Out Line",
+      "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -327,22 +331,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Innerquake",
-        "url": "https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT"
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
       },
       "artists": [
         {
-          "name": "Phoebe Killdeer",
-          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
-        },
-        {
-          "name": "The Short Straws",
-          "url": "https://open.spotify.com/artist/40WhVPjA1Qg7tG8Flxvneq"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 212813,
-      "name": "The Fade Out Line",
-      "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "Young And Dumb",
+        "url": "https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Young And Dumb",
+      "url": "https://open.spotify.com/track/4b3EgGk2hdOQwBHvFQUTmJ"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
-        "name": "Young And Dumb",
-        "url": "https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Young And Dumb",
-      "url": "https://open.spotify.com/track/4b3EgGk2hdOQwBHvFQUTmJ"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Chilling Effects",
         "url": "https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
-        "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
-      },
-      "artists": [
-        {
-          "name": "Snazzy",
-          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "I try my best",
         "url": "https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 229714,
       "name": "I try my best",
       "url": "https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+        "name": "Beast of the Night",
+        "url": "https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU"
       },
       "artists": [
         {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
         }
       ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
+      "duration_ms": 220906,
+      "name": "Beast of the Night",
+      "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Beast of the Night",
-        "url": "https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU"
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
       },
       "artists": [
         {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
         }
       ],
-      "duration_ms": 220906,
-      "name": "Beast of the Night",
-      "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Goanna",
         "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 169160,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 231425,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Plume",
         "url": "https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 197020,
       "name": "Plume",
       "url": "https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 231425,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 226534,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "END OF THE SKY",
         "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 159807,
       "name": "END OF THE SKY",
       "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 226534,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
     }
   ],
   "unique_name": "D\u00eener entre amis",

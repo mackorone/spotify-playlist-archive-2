@@ -1,13 +1,29 @@
 {
-  "description": "A playlist of all our songs released so far. Our new album Faith Crisis Pt 1 is out now! <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
+  "description": "A playlist of all our songs released so far. Also find us on <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
   "num_followers": 2980,
   "original_name": "Middle Kids - Complete Collection",
   "owner": {
-    "name": "middle_kids_official",
+    "name": "Middle Kids",
     "url": "https://open.spotify.com/user/middle_kids_official"
   },
-  "snapshot_id": "AAAAeZLNtAfWaow81wO7BA/h5oIl+NTO",
+  "snapshot_id": "AAAAfYqzrA+9wbUTpz7wQa9sqR/jbMZI",
   "tracks": [
+    {
+      "added_at": "2026-11-11 05:41:11",
+      "album": {
+        "name": "big freak",
+        "url": "https://open.spotify.com/album/2wd5862pwO9NrA7r6lKzbN"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 182899,
+      "name": "big freak",
+      "url": "https://open.spotify.com/track/0Q8i1QvYeXRAJyDFWMfufR"
+    },
     {
       "added_at": "2024-11-01 01:09:07",
       "album": {

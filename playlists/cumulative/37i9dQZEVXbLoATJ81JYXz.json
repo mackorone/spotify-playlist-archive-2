@@ -24980,7 +24980,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 120778,
       "name": "H\u00f6jer V\u00e5ra Glas",
       "url": "https://open.spotify.com/track/0pA3CEVNAowtMSIkzkDFAn"
@@ -29694,7 +29694,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 133188,
       "name": "Kom \u00f6ver",
       "url": "https://open.spotify.com/track/5VinT6PZsRuHY5aLfBKAx9"
@@ -33949,6 +33949,24 @@
     },
     {
       "album": {
+        "name": "Mama, Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/2MeoU2pg4UyRJ8op4FVtYs"
+      },
+      "artists": [
+        {
+          "name": "Bjorn Bonebreaker",
+          "url": "https://open.spotify.com/artist/7xKWVkX1VPcZAKvSpZsVfD"
+        }
+      ],
+      "date_added": "2026-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "Mama, Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/6fIBrWTPYd8F29QFG08mV5"
+    },
+    {
+      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -34180,7 +34198,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
@@ -34198,7 +34216,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -36976,7 +36994,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
@@ -36994,7 +37012,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -52760,7 +52778,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-12",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

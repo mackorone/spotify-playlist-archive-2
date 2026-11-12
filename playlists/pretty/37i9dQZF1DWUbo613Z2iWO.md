@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Ojerime
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,569 likes - 202 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,574 likes - 202 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
